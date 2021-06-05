@@ -4,7 +4,7 @@ import os
 import zipfile
 from fugashi import Tagger
 from pathlib import Path
-from bottle import request
+from bottle import abort, request
 from socket import gethostname, gethostbyname 
 
 bundle_path = os.path.dirname(os.path.abspath(__file__))
@@ -83,23 +83,43 @@ def load_example_by_path(example_path):
         note = parse_note(note, deck_name)
         sentence = note['fields'][1]
         if sentence is not None:
-            sentence = sentence.replace(" ", "")
-            word_bases = parse(sentence)
-            words = [word for word in word_bases if word in dictionary_map]
-            for word in words:
+            words = note['word_base_list']
+            for (index, word) in enumerate(words):
+                if (word not in dictionary_map) or word in '？?!.,':
+                    continue
+                custom_note = note
+                custom_note['word_index'] = index
                 if word in output_map:
                     if (len(output_map[word]) < EXAMPLE_LIMIT):
-                        output_map[word].append(note)
+                        output_map[word].append(dict(custom_note))
                 else:
-                    output_map[word] = [note] 
+                    output_map[word] = [dict(custom_note)] 
+    # list = output_map['俺']
+    # a = [item['fields'][0] for item in list if item['word'] != '俺']
+    # print(a)
     return output_map
 
+# def add_index_to_note(note, word, index):
+#     l = note
+#     l['word_index'] = index
+#     l['word'] = word
+#     return l
+
 def parse_note(note, deck_name):
+    # tagging
+    text = note['fields'][1]
+    tagger = Tagger('-Owakati')
+    tagger.parse(text)
+    note['word_base_list'] = [word.feature.lemma for word in tagger(text)]
+    note['word_list'] = [str(word) for word in tagger(text)]
+
+    # image
     image_value = note['fields'][7]
     image_name = image_value.split('src="')[1].split('">')[0]
     image_path = '{}/anime/{}/media/{}'.format(HOST, deck_name, image_name)
     note['image_url'] = image_path
     
+    # sound
     sound_value = note['fields'][8]
     sound_name = sound_value.split('sound:')[1].split(']')[0]
     sound_path = '{}/anime/{}/media/{}'.format(HOST, deck_name, sound_name)
@@ -116,3 +136,6 @@ def load_examples(media_name):
 
 load_dictionary('jmdict_english')
 load_examples('Anime - Your Name')
+# list = example_map['俺']
+# a = [item['fields'][1] for item in list if item['word'] != '俺']
+# print(a)
