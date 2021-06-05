@@ -9,7 +9,7 @@ from socket import gethostname, gethostbyname
 
 bundle_path = os.path.dirname(os.path.abspath(__file__))
 DICTIONARY_PATH = Path(bundle_path, 'resources', 'dictionaries')
-EXAMPLE_PATH = Path(bundle_path, 'resources', 'examples')
+EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
 HOST = "http://localhost:8080"
 EXAMPLE_LIMIT = 3
 
@@ -26,14 +26,20 @@ def look_up(text):
     text = text.replace(" ", "")
     word_bases = parse(text)
     words = [word for word in word_bases if word in dictionary_map]
-    result = [[{
-        'headword': entry[0],
-        'reading': entry[1],
-        'tags': entry[2],
-        'glossary_list': entry[5],
-        'sequence': entry[6],
-        'example': '' if entry[0] not in example_map else example_map[entry[0]] 
-    } for entry in dictionary_map[word]] for word in words]
+    result = [
+        {
+            'dictionary': 
+            [
+                {
+                'headword': entry[0],
+                'reading': entry[1],
+                'tags': entry[2],
+                'glossary_list': entry[5],
+                'sequence': entry[6]
+                } for entry in dictionary_map[word]
+            ],
+            'examples': [] if word not in example_map else example_map[word]
+        } for word in words]
     return dict(data=result)
 
 def load_dictionary_by_path(dictionary_path):
@@ -91,12 +97,12 @@ def load_example_by_path(example_path):
 def parse_note(note, deck_name):
     image_value = note['fields'][7]
     image_name = image_value.split('src="')[1].split('">')[0]
-    image_path = '{}/examples/{}/media/{}'.format(HOST, deck_name, image_name)
+    image_path = '{}/anime/{}/media/{}'.format(HOST, deck_name, image_name)
     note['image_url'] = image_path
     
     sound_value = note['fields'][8]
     sound_name = sound_value.split('sound:')[1].split(']')[0]
-    sound_path = '{}/examples/{}/media/{}'.format(HOST, deck_name, sound_name)
+    sound_path = '{}/anime/{}/media/{}'.format(HOST, deck_name, sound_name)
     note['sound_url'] = sound_path
     return note
 
