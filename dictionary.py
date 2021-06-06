@@ -30,12 +30,8 @@ def parse(text):
 
 def look_up(text):
     text = text.replace(" ", "") 
-    words = []
-    if (text in dictionary_map):
-        words = [get_base_form(text)]
-    else:
-        word_bases = parse(text)
-        words = [word for word in word_bases if word in dictionary_map]
+    word_bases = parse(text)
+    words = [word for word in word_bases if word in dictionary_map]
     result = [
         {
             'dictionary': 
