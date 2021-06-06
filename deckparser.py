@@ -47,14 +47,15 @@ def parseDeck(folder_name):
     with open(Path(EXAMPLE_PATH, folder_name, 'data.json'), 'w', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
-parseDeck('Anime - Your Name')
+parseDeck('Anime - Spirited Away')
 
 # def get_base_form(word):
-#     return tokenizer_obj.tokenize(word, mode)[0].normalized_form()
+#     print([m.normalized_form() for m in tokenizer_obj.tokenize(word, mode)])
+#     return tokenizer_obj.tokenize(word, mode)[0].dictionary_form()
 #     word_base_list = [m.surface() for m in tokenizer_obj.tokenize(word, mode)]
 #     return word_base_list[0]
 
-# a = get_base_form("食べて")
+# a = get_base_form("それとも")
 # print(a)
 
 

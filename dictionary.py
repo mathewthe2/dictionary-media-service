@@ -3,6 +3,7 @@ import json
 import os
 import zipfile
 from pathlib import Path
+from glob import glob
 from bottle import abort, request
 from socket import gethostname, gethostbyname 
 
@@ -14,9 +15,11 @@ DICTIONARY_PATH = Path(bundle_path, 'resources', 'dictionaries')
 EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
 HOST = "http://localhost:8080"
 EXAMPLE_LIMIT = 3
+CATEGORY_LIMIT = 30
 
 dictionary_map = {}
-example_map = {}
+category_map = {}
+number_of_examples_per_category_map = {}
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
@@ -28,10 +31,11 @@ def parse(text):
     word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
     return word_base_list
 
-def look_up(text):
+def look_up(text, category_name='Studio Ghibli'):
     text = text.replace(" ", "") 
     word_bases = parse(text)
     words = [word for word in word_bases if word in dictionary_map]
+    example_map = category_map[category_name]
     result = [
         {
             'dictionary': 
@@ -75,48 +79,58 @@ def load_dictionary(dictionary_name):
     else:
         print('failed to find path for dictionary')
 
-def load_example_by_path(example_path):
+def load_example_by_path(example_path, output_map, category_name):
     examples = []
     file = Path(example_path, 'data.json')
     with open(file, encoding='utf-8') as f:
         examples = json.load(f)
     
-    output_map = {}
     for example in examples:
-        example = parse_example(example)
+        example = parse_example(example, category_name)
         sentence = example['sentence']
         if sentence is not None:
             words = example['word_base_list']
             for (index, word) in enumerate(words):
-                if (word not in dictionary_map) or word in '？?!.,':
+                if (word not in dictionary_map) or word in '？?!.。,()（）':
                     continue
                 custom_example = example
                 custom_example['word_index'] = index
                 if word in output_map:
-                    if (len(output_map[word]) < EXAMPLE_LIMIT):
+                    # if (len(output_map[word]) < EXAMPLE_LIMIT):
+                    if not has_reached_example_limit_for_category(example['deck_name'], word, output_map):
                         output_map[word].append(dict(custom_example))
                 else:
                     output_map[word] = [dict(custom_example)] 
+
     return output_map
 
-def parse_example(example):
+def parse_example(example, category_name):
     # image
-    image_path = '{}/anime/{}/media/{}'.format(HOST, example['deck_name'], example['image'])
+    image_path = '{}/anime/{}/{}/media/{}'.format(HOST, category_name, example['deck_name'], example['image'])
     example['image_url'] = image_path
     
     # sound
-    sound_path = '{}/anime/{}/media/{}'.format(HOST, example['deck_name'], example['sound'])
+    sound_path = '{}/anime/{}/{}/media/{}'.format(HOST, category_name, example['deck_name'], example['sound'])
     example['sound_url'] = sound_path
     return example
 
-def load_examples(media_name):
-    global example_map
-    example_path = Path(EXAMPLE_PATH, media_name)
-    if example_path:
-        example_map = load_example_by_path(str(example_path))
+def has_reached_example_limit_for_category(deck_name, word, output_map):
+    if word not in output_map:
+        return False
+    elif len(output_map[word]) > CATEGORY_LIMIT:
+        return False
     else:
-        print('failed to find path for examples')
+        words_in_category = [example for example in output_map[word] if example['deck_name'] == deck_name]
+        return len(words_in_category) >= EXAMPLE_LIMIT
+
+def load_examples(category_name):
+    global category_map
+    category_map[category_name] = {}
+    category_path = Path(EXAMPLE_PATH, category_name)
+    deck_folders = glob(str(category_path) + '/*/')
+    for deck_folder in deck_folders:
+        category_map[category_name] = load_example_by_path(deck_folder, category_map[category_name], category_name)
 
 load_dictionary('jmdict_english')
-load_examples('Anime - Your Name')
+load_examples('Studio Ghibli')
 # print(look_up('ゆめ'))
