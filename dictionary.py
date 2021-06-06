@@ -79,6 +79,7 @@ def load_example_by_path(example_path):
         deck_name = data['name']
     
     output_map = {}
+    print('notes', len(notes))
     for note in notes:
         note = parse_note(note, deck_name)
         sentence = note['fields'][1]
@@ -94,16 +95,7 @@ def load_example_by_path(example_path):
                         output_map[word].append(dict(custom_note))
                 else:
                     output_map[word] = [dict(custom_note)] 
-    # list = output_map['俺']
-    # a = [item['fields'][0] for item in list if item['word'] != '俺']
-    # print(a)
     return output_map
-
-# def add_index_to_note(note, word, index):
-#     l = note
-#     l['word_index'] = index
-#     l['word'] = word
-#     return l
 
 def parse_note(note, deck_name):
     # tagging
@@ -136,6 +128,3 @@ def load_examples(media_name):
 
 load_dictionary('jmdict_english')
 load_examples('Anime - Your Name')
-# list = example_map['俺']
-# a = [item['fields'][1] for item in list if item['word'] != '俺']
-# print(a)
