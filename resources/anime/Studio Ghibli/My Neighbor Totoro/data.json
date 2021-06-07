@@ -3,6 +3,7 @@
         "id": "A_TonarinoTotoro_192",
         "deck_name": "My Neighbor Totoro",
         "sentence": "やっぱり　(トトロ)ね。",
+        "sentence_with_furigana": "やっぱり　(トトロ)ね。",
         "word_base_list": [
             "矢張り",
             " ",
@@ -29,6 +30,7 @@
         "id": "A_TonarinoTotoro_001",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　キャラメル。",
+        "sentence_with_furigana": "お 父[とう]さん　キャラメル。",
         "word_base_list": [
             "御",
             "父さん",
@@ -51,6 +53,7 @@
         "id": "A_TonarinoTotoro_002",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おっ　ありがとう　くたびれたかい？",
+        "sentence_with_furigana": "おっ　ありがとう　くたびれたかい？",
         "word_base_list": [
             "おっ",
             " ",
@@ -81,6 +84,7 @@
         "id": "A_TonarinoTotoro_003",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ううん。　もうじきだよ。",
+        "sentence_with_furigana": "ううん。　もうじきだよ。",
         "word_base_list": [
             "ううん",
             "。",
@@ -109,6 +113,7 @@
         "id": "A_TonarinoTotoro_004",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　隠れて！",
+        "sentence_with_furigana": "(メイ)　 隠[かく]れて！",
         "word_base_list": [
             "（",
             "メイ",
@@ -135,6 +140,7 @@
         "id": "A_TonarinoTotoro_005",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おまわりさんじゃなかった　オイ！",
+        "sentence_with_furigana": "おまわりさんじゃなかった　オイ！",
         "word_base_list": [
             "御巡り",
             "さん",
@@ -163,6 +169,7 @@
         "id": "A_TonarinoTotoro_006",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お家の方は　どなたか　いらっしゃいませんか？",
+        "sentence_with_furigana": "お 家[うち]の 方[ほう]は　どなたか　いらっしゃいませんか？",
         "word_base_list": [
             "御",
             "家",
@@ -203,6 +210,7 @@
         "id": "A_TonarinoTotoro_007",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　どうも。",
+        "sentence_with_furigana": "あっ　どうも。",
         "word_base_list": [
             "あっ",
             " ",
@@ -225,6 +233,7 @@
         "id": "A_TonarinoTotoro_008",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(草壁)です　引っ越して来ました！",
+        "sentence_with_furigana": "(草壁)[くさかべ]です　 引っ越[ひっこ]して 来[き]ました！",
         "word_base_list": [
             "（",
             "草壁",
@@ -259,6 +268,7 @@
         "id": "A_TonarinoTotoro_009",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よろしくお願いします。",
+        "sentence_with_furigana": "よろしくお 願[ねが]いします。",
         "word_base_list": [
             "宜しく",
             "御",
@@ -283,6 +293,7 @@
         "id": "A_TonarinoTotoro_010",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ご苦労さまです！",
+        "sentence_with_furigana": "ご 苦労[くろう]さまです！",
         "word_base_list": [
             "御",
             "苦労",
@@ -305,6 +316,7 @@
         "id": "A_TonarinoTotoro_011",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうもありがとう。",
+        "sentence_with_furigana": "どうもありがとう。",
         "word_base_list": [
             "どう",
             "も",
@@ -325,6 +337,7 @@
         "id": "A_TonarinoTotoro_012",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さあ　着いたよ。",
+        "sentence_with_furigana": "さあ　 着[つ]いたよ。",
         "word_base_list": [
             "さあ",
             " ",
@@ -349,6 +362,7 @@
         "id": "A_TonarinoTotoro_013",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うわ！　(メイ)　待って！",
+        "sentence_with_furigana": "うわ！　(メイ)　 待[ま]って！",
         "word_base_list": [
             "うわ",
             "！",
@@ -381,6 +395,7 @@
         "id": "A_TonarinoTotoro_014",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　橋があるよ。　橋？",
+        "sentence_with_furigana": "(メイ)　 橋[はし]があるよ。　 橋[はし]？",
         "word_base_list": [
             "（",
             "メイ",
@@ -417,6 +432,7 @@
         "id": "A_TonarinoTotoro_015",
         "deck_name": "My Neighbor Totoro",
         "sentence": "魚！　ホラ　また光った。",
+        "sentence_with_furigana": "魚[さかな]！　ホラ　また 光[ひか]った。",
         "word_base_list": [
             "魚",
             "！",
@@ -447,6 +463,7 @@
         "id": "A_TonarinoTotoro_016",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうだ　気に入ったかい？",
+        "sentence_with_furigana": "どうだ　 気に入[きにい]ったかい？",
         "word_base_list": [
             "どう",
             "だ",
@@ -479,6 +496,7 @@
         "id": "A_TonarinoTotoro_017",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　すてきね！",
+        "sentence_with_furigana": "お 父[とう]さん　すてきね！",
         "word_base_list": [
             "御",
             "父さん",
@@ -503,6 +521,7 @@
         "id": "A_TonarinoTotoro_018",
         "deck_name": "My Neighbor Totoro",
         "sentence": "木のトンネル！",
+        "sentence_with_furigana": "木[き]のトンネル！",
         "word_base_list": [
             "木",
             "の",
@@ -523,6 +542,7 @@
         "id": "A_TonarinoTotoro_019",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あ！　あの家？",
+        "sentence_with_furigana": "あ！　あの 家[うち]？",
         "word_base_list": [
             "あっ",
             "！",
@@ -547,6 +567,7 @@
         "id": "A_TonarinoTotoro_020",
         "deck_name": "My Neighbor Totoro",
         "sentence": "早く！",
+        "sentence_with_furigana": "早[はや]く！",
         "word_base_list": [
             "早い",
             "！"
@@ -563,6 +584,7 @@
         "id": "A_TonarinoTotoro_021",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うわ　ボロ！　ボロ！",
+        "sentence_with_furigana": "うわ　ボロ！　ボロ！",
         "word_base_list": [
             "うわ",
             " ",
@@ -589,6 +611,7 @@
         "id": "A_TonarinoTotoro_022",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お化け屋敷みたい！　お化け？",
+        "sentence_with_furigana": "お 化け屋敷[ばけやしき]みたい！　お 化[ば]け？",
         "word_base_list": [
             "お化け",
             "屋敷",
@@ -615,6 +638,7 @@
         "id": "A_TonarinoTotoro_023",
         "deck_name": "My Neighbor Totoro",
         "sentence": "腐ってる。",
+        "sentence_with_furigana": "腐[くさ]ってる。",
         "word_base_list": [
             "腐る",
             "てる",
@@ -633,6 +657,7 @@
         "id": "A_TonarinoTotoro_024",
         "deck_name": "My Neighbor Totoro",
         "sentence": "壊れる！　壊れる！",
+        "sentence_with_furigana": "壊[こわ]れる！　 壊[こわ]れる！",
         "word_base_list": [
             "壊れる",
             "！",
@@ -655,6 +680,7 @@
         "id": "A_TonarinoTotoro_025",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　見てごらん。　うん？",
+        "sentence_with_furigana": "(メイ)　 見[み]てごらん。　うん？",
         "word_base_list": [
             "（",
             "メイ",
@@ -689,6 +715,7 @@
         "id": "A_TonarinoTotoro_026",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホラ！",
+        "sentence_with_furigana": "ホラ！",
         "word_base_list": [
             "ほら",
             "！"
@@ -705,6 +732,7 @@
         "id": "A_TonarinoTotoro_027",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大きいね。",
+        "sentence_with_furigana": "大[おお]きいね。",
         "word_base_list": [
             "大きい",
             "ね",
@@ -723,6 +751,7 @@
         "id": "A_TonarinoTotoro_028",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　すごい木！",
+        "sentence_with_furigana": "お 父[とう]さん　すごい 木[き]！",
         "word_base_list": [
             "御",
             "父さん",
@@ -747,6 +776,7 @@
         "id": "A_TonarinoTotoro_029",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ああ　クスの木だよ。",
+        "sentence_with_furigana": "ああ　クスの 木[き]だよ。",
         "word_base_list": [
             "ああ",
             " ",
@@ -771,6 +801,7 @@
         "id": "A_TonarinoTotoro_030",
         "deck_name": "My Neighbor Totoro",
         "sentence": "クスの木！　クスの木！",
+        "sentence_with_furigana": "クスの 木[き]！　クスの 木[き]！",
         "word_base_list": [
             "樟",
             "！",
@@ -793,6 +824,7 @@
         "id": "A_TonarinoTotoro_031",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おっと！",
+        "sentence_with_furigana": "おっと！",
         "word_base_list": [
             "おっと",
             "！"
@@ -809,6 +841,7 @@
         "id": "A_TonarinoTotoro_032",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ドングリ。",
+        "sentence_with_furigana": "ドングリ。",
         "word_base_list": [
             "団栗",
             "。"
@@ -825,6 +858,7 @@
         "id": "A_TonarinoTotoro_033",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うわ　見せて！",
+        "sentence_with_furigana": "うわ　 見[み]せて！",
         "word_base_list": [
             "うわ",
             " ",
@@ -847,6 +881,7 @@
         "id": "A_TonarinoTotoro_034",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　また！",
+        "sentence_with_furigana": "あっ　また！",
         "word_base_list": [
             "あっ",
             " ",
@@ -867,6 +902,7 @@
         "id": "A_TonarinoTotoro_035",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あった！",
+        "sentence_with_furigana": "あった！",
         "word_base_list": [
             "有る",
             "た",
@@ -885,6 +921,7 @@
         "id": "A_TonarinoTotoro_036",
         "deck_name": "My Neighbor Totoro",
         "sentence": "コラ　コラ…　雨戸が開けられないじゃないか。",
+        "sentence_with_furigana": "コラ　コラ…　 雨戸[あまど]が 開[あ]けられないじゃないか。",
         "word_base_list": [
             "こら",
             " ",
@@ -929,6 +966,7 @@
         "id": "A_TonarinoTotoro_037",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ドングリ！　部屋の中にドングリが落ちてるの。",
+        "sentence_with_furigana": "ドングリ！　 部屋[へや]の 中[なか]にドングリが 落[お]ちてるの。",
         "word_base_list": [
             "団栗",
             "！",
@@ -967,6 +1005,7 @@
         "id": "A_TonarinoTotoro_038",
         "deck_name": "My Neighbor Totoro",
         "sentence": "上から落ちて来たよ。",
+        "sentence_with_furigana": "上[うえ]から 落[お]ちて 来[き]たよ。",
         "word_base_list": [
             "上",
             "から",
@@ -995,6 +1034,7 @@
         "id": "A_TonarinoTotoro_039",
         "deck_name": "My Neighbor Totoro",
         "sentence": "リス…でも　いるのかな？",
+        "sentence_with_furigana": "リス…でも　いるのかな？",
         "word_base_list": [
             "栗鼠",
             ".",
@@ -1031,6 +1071,7 @@
         "id": "A_TonarinoTotoro_040",
         "deck_name": "My Neighbor Totoro",
         "sentence": "リス!?　リス!?",
+        "sentence_with_furigana": "リス!?　リス!?",
         "word_base_list": [
             "栗鼠",
             "！",
@@ -1057,6 +1098,7 @@
         "id": "A_TonarinoTotoro_041",
         "deck_name": "My Neighbor Totoro",
         "sentence": "それとも　ドングリ好きの　ネズミかな？",
+        "sentence_with_furigana": "それとも　ドングリ 好[す]きの　ネズミかな？",
         "word_base_list": [
             "其れ",
             "と",
@@ -1093,6 +1135,7 @@
         "id": "A_TonarinoTotoro_042",
         "deck_name": "My Neighbor Totoro",
         "sentence": "えぇ！　(メイ)　リスがいい！",
+        "sentence_with_furigana": "えぇ！　(メイ)　リスがいい！",
         "word_base_list": [
             "ええ",
             "！",
@@ -1127,6 +1170,7 @@
         "id": "A_TonarinoTotoro_043",
         "deck_name": "My Neighbor Totoro",
         "sentence": "これ　どこへ運びます？",
+        "sentence_with_furigana": "これ　どこへ 運[はこ]びます？",
         "word_base_list": [
             "此れ",
             " ",
@@ -1153,6 +1197,7 @@
         "id": "A_TonarinoTotoro_044",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ああ　ここへ　今　開けます。　(サツキ)　裏の勝手口を開けて。　はい。",
+        "sentence_with_furigana": "ああ　ここへ　 今[いま]　 開[あ]けます。　(サツキ)　 裏[うら]の 勝手口[かってぐち]を 開[あ]けて。　はい。",
         "word_base_list": [
             "ああ",
             " ",
@@ -1215,6 +1260,7 @@
         "id": "A_TonarinoTotoro_045",
         "deck_name": "My Neighbor Totoro",
         "sentence": "行けば　すぐ分かるよ。　うん。",
+        "sentence_with_furigana": "行[い]けば　すぐ 分[わ]かるよ。　うん。",
         "word_base_list": [
             "行く",
             "ば",
@@ -1247,6 +1293,7 @@
         "id": "A_TonarinoTotoro_046",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホラ　おいで。",
+        "sentence_with_furigana": "ホラ　おいで。",
         "word_base_list": [
             "ホラ",
             " ",
@@ -1269,6 +1316,7 @@
         "id": "A_TonarinoTotoro_047",
         "deck_name": "My Neighbor Totoro",
         "sentence": "待って。",
+        "sentence_with_furigana": "待[ま]って。",
         "word_base_list": [
             "待つ",
             "て",
@@ -1287,6 +1335,7 @@
         "id": "A_TonarinoTotoro_048",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホラ　早く！",
+        "sentence_with_furigana": "ホラ　 早[はや]く！",
         "word_base_list": [
             "ホラ",
             " ",
@@ -1307,6 +1356,7 @@
         "id": "A_TonarinoTotoro_049",
         "deck_name": "My Neighbor Totoro",
         "sentence": "行くよ。　うん。",
+        "sentence_with_furigana": "行[い]くよ。　うん。",
         "word_base_list": [
             "行く",
             "よ",
@@ -1331,6 +1381,7 @@
         "id": "A_TonarinoTotoro_050",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お風呂。　うん。",
+        "sentence_with_furigana": "お 風呂[ふろ]。　うん。",
         "word_base_list": [
             "御",
             "風呂",
@@ -1355,6 +1406,7 @@
         "id": "A_TonarinoTotoro_051",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いないね。　うん。",
+        "sentence_with_furigana": "いないね。　うん。",
         "word_base_list": [
             "居る",
             "ない",
@@ -1381,6 +1433,7 @@
         "id": "A_TonarinoTotoro_052",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そこは　お風呂だよ。",
+        "sentence_with_furigana": "そこは　お 風呂[ふろ]だよ。",
         "word_base_list": [
             "其処",
             "は",
@@ -1409,6 +1462,7 @@
         "id": "A_TonarinoTotoro_053",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　ここに何かいるよ。　リスかい？",
+        "sentence_with_furigana": "お 父[とう]さん　ここに 何[なに]かいるよ。　リスかい？",
         "word_base_list": [
             "御",
             "父さん",
@@ -1451,6 +1505,7 @@
         "id": "A_TonarinoTotoro_054",
         "deck_name": "My Neighbor Totoro",
         "sentence": "分かんない　ゴキブリでもない　ネズミでもない　黒いのが　いっぱい　いたの。　フン。",
+        "sentence_with_furigana": "分[わ]かんない　ゴキブリでもない　ネズミでもない　 黒[くろ]いのが　いっぱい　いたの。　フン。",
         "word_base_list": [
             "分かる",
             "ない",
@@ -1515,6 +1570,7 @@
         "id": "A_TonarinoTotoro_055",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どう？",
+        "sentence_with_furigana": "どう？",
         "word_base_list": [
             "どう",
             "？"
@@ -1531,6 +1587,7 @@
         "id": "A_TonarinoTotoro_056",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こりゃあ　真っ黒クロスケだな。",
+        "sentence_with_furigana": "こりゃあ　 真っ黒[まっくろ]クロスケだな。",
         "word_base_list": [
             "此れ",
             " ",
@@ -1557,6 +1614,7 @@
         "id": "A_TonarinoTotoro_057",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ黒クロスケ!?　絵本に出てた？",
+        "sentence_with_furigana": "真っ黒[まっくろ]クロスケ!?　 絵本[えほん]に 出[で]てた？",
         "word_base_list": [
             "真っ黒い",
             "クロスケ",
@@ -1591,6 +1649,7 @@
         "id": "A_TonarinoTotoro_058",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうさ　こんな　いいお天気に　お化けなんか出るわけないよ。",
+        "sentence_with_furigana": "そうさ　こんな　いいお 天気[てんき]に　お 化[ば]けなんか 出[で]るわけないよ。",
         "word_base_list": [
             "そう",
             "さ",
@@ -1637,6 +1696,7 @@
         "id": "A_TonarinoTotoro_059",
         "deck_name": "My Neighbor Totoro",
         "sentence": "明るい所から　急に暗い所に入ると　目がくらんで　真っ黒クロスケが出るのさ。",
+        "sentence_with_furigana": "明[あか]るい 所[ところ]から　 急[きゅう]に 暗[くら]い 所[ところ]に 入[はい]ると　 目[め]がくらんで　 真っ黒[まっくろ]クロスケが 出[で]るのさ。",
         "word_base_list": [
             "明るい",
             "所",
@@ -1697,6 +1757,7 @@
         "id": "A_TonarinoTotoro_060",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうか！",
+        "sentence_with_furigana": "そうか！",
         "word_base_list": [
             "そう",
             "か",
@@ -1715,6 +1776,7 @@
         "id": "A_TonarinoTotoro_061",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ黒クロスケ　出ておいで　出ないと目玉をホジくるぞ",
+        "sentence_with_furigana": "真っ黒[まっくろ]クロスケ　 出[で]ておいで　 出[で]ないと 目玉[めだま]をホジくるぞ",
         "word_base_list": [
             "真っ黒い",
             "クロスケ",
@@ -1759,6 +1821,7 @@
         "id": "A_TonarinoTotoro_062",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さあ　仕事　仕事！　２階の階段は　いったい　どこにあるでしょうか？",
+        "sentence_with_furigana": "さあ　 仕事[しごと]　 仕事[しごと]！　２ 階[かい]の 階段[かいだん]は　いったい　どこにあるでしょうか？",
         "word_base_list": [
             "さあ",
             " ",
@@ -1813,6 +1876,7 @@
         "id": "A_TonarinoTotoro_063",
         "deck_name": "My Neighbor Totoro",
         "sentence": "えっ？　階段を見つけて　２階の窓を開けましょう。",
+        "sentence_with_furigana": "えっ？　 階段[かいだん]を 見[み]つけて　２ 階[かい]の 窓[まど]を 開[あ]けましょう。",
         "word_base_list": [
             "えっ",
             "？",
@@ -1857,6 +1921,7 @@
         "id": "A_TonarinoTotoro_064",
         "deck_name": "My Neighbor Totoro",
         "sentence": "はい。　あっ　(メイ)も！",
+        "sentence_with_furigana": "はい。　あっ　(メイ)も！",
         "word_base_list": [
             "はい",
             "。",
@@ -1889,6 +1954,7 @@
         "id": "A_TonarinoTotoro_065",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お便所！",
+        "sentence_with_furigana": "お 便所[べんじょ]！",
         "word_base_list": [
             "御",
             "便所",
@@ -1907,6 +1973,7 @@
         "id": "A_TonarinoTotoro_066",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あれ？",
+        "sentence_with_furigana": "あれ？",
         "word_base_list": [
             "あれ",
             "？"
@@ -1923,6 +1990,7 @@
         "id": "A_TonarinoTotoro_067",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ない！",
+        "sentence_with_furigana": "ない！",
         "word_base_list": [
             "無い",
             "！"
@@ -1939,6 +2007,7 @@
         "id": "A_TonarinoTotoro_068",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ない！　えい！　痛い。",
+        "sentence_with_furigana": "ない！　えい！　 痛[いた]い。",
         "word_base_list": [
             "無い",
             "！",
@@ -1967,6 +2036,7 @@
         "id": "A_TonarinoTotoro_069",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ！　(メイ)　あったよ！",
+        "sentence_with_furigana": "あっ！　(メイ)　あったよ！",
         "word_base_list": [
             "あっ",
             "！",
@@ -2001,6 +2071,7 @@
         "id": "A_TonarinoTotoro_070",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ暗だね。　真っ黒クロスケ…。",
+        "sentence_with_furigana": "真っ暗[まっくら]だね。　 真っ黒[まっくろ]クロスケ…。",
         "word_base_list": [
             "真っ暗",
             "だ",
@@ -2035,6 +2106,7 @@
         "id": "A_TonarinoTotoro_071",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ドングリ。",
+        "sentence_with_furigana": "ドングリ。",
         "word_base_list": [
             "団栗",
             "。"
@@ -2051,6 +2123,7 @@
         "id": "A_TonarinoTotoro_072",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ黒クロスケ出ておいで",
+        "sentence_with_furigana": "真っ黒[まっくろ]クロスケ 出[で]ておいで",
         "word_base_list": [
             "真っ黒い",
             "クロスケ",
@@ -2075,6 +2148,7 @@
         "id": "A_TonarinoTotoro_073",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ黒クロスケさん　いませんか？",
+        "sentence_with_furigana": "真っ黒[まっくろ]クロスケさん　いませんか？",
         "word_base_list": [
             "真っ黒い",
             "クロスケ",
@@ -2105,6 +2179,7 @@
         "id": "A_TonarinoTotoro_074",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん！　やっぱり　この家　何かいる！",
+        "sentence_with_furigana": "お 父[とう]さん！　やっぱり　この 家[うち]　 何[なに]かいる！",
         "word_base_list": [
             "御",
             "父さん",
@@ -2143,6 +2218,7 @@
         "id": "A_TonarinoTotoro_075",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そりゃあ　すごいぞ！　お化け屋敷に住むのが　子供の時から　おとうさんの夢だったんだ。",
+        "sentence_with_furigana": "そりゃあ　すごいぞ！　お 化け屋敷[ばけやしき]に 住[す]むのが　 子供[こども]の 時[とき]から　おとうさんの 夢[ゆめ]だったんだ。",
         "word_base_list": [
             "其れ",
             " ",
@@ -2209,6 +2285,7 @@
         "id": "A_TonarinoTotoro_076",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大変！",
+        "sentence_with_furigana": "大変[たいへん]！",
         "word_base_list": [
             "大変",
             "！"
@@ -2225,6 +2302,7 @@
         "id": "A_TonarinoTotoro_077",
         "deck_name": "My Neighbor Totoro",
         "sentence": "取った！　お姉ちゃん！",
+        "sentence_with_furigana": "取[と]った！　お 姉[ねえ]ちゃん！",
         "word_base_list": [
             "取る",
             "た",
@@ -2251,6 +2329,7 @@
         "id": "A_TonarinoTotoro_078",
         "deck_name": "My Neighbor Totoro",
         "sentence": "アハハ　元気だねぇ。",
+        "sentence_with_furigana": "アハハ　 元気[げんき]だねぇ。",
         "word_base_list": [
             "あはは",
             " ",
@@ -2275,6 +2354,7 @@
         "id": "A_TonarinoTotoro_079",
         "deck_name": "My Neighbor Totoro",
         "sentence": "この家を管理されてる　隣のおばあちゃんだよ。　応援に来てくださったんだ。",
+        "sentence_with_furigana": "この 家[うち]を 管理[かんり]されてる　 隣[となり]のおばあちゃんだよ。　 応援[おうえん]に 来[き]てくださったんだ。",
         "word_base_list": [
             "此の",
             "家",
@@ -2339,6 +2419,7 @@
         "id": "A_TonarinoTotoro_080",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)に　妹の(メイ)です　こんにちは。",
+        "sentence_with_furigana": "(サツキ)に　 妹[いもうと]の(メイ)です　こんにちは。",
         "word_base_list": [
             "（",
             "五月",
@@ -2379,6 +2460,7 @@
         "id": "A_TonarinoTotoro_081",
         "deck_name": "My Neighbor Totoro",
         "sentence": "はい　こんにちは　賢そうな子だよぉ。",
+        "sentence_with_furigana": "はい　こんにちは　 賢[かしこ]そうな 子[こ]だよぉ。",
         "word_base_list": [
             "はい",
             " ",
@@ -2413,6 +2495,7 @@
         "id": "A_TonarinoTotoro_082",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こんなに急ぎでなきゃ　家の　手入れも　しといたんだけんど。",
+        "sentence_with_furigana": "こんなに 急[いそ]ぎでなきゃ　 家[うち]の　 手入[てい]れも　しといたんだけんど。",
         "word_base_list": [
             "こんな",
             "だ",
@@ -2463,6 +2546,7 @@
         "id": "A_TonarinoTotoro_083",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ハハハ　これで十分ですよ。",
+        "sentence_with_furigana": "ハハハ　これで 十分[じゅうぶん]ですよ。",
         "word_base_list": [
             "ははは",
             " ",
@@ -2491,6 +2575,7 @@
         "id": "A_TonarinoTotoro_084",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今時分は田んぼが忙しくって。　ンでも時々　掃除は　しといたんだ。",
+        "sentence_with_furigana": "今時分[いまじぶん]は 田[た]んぼが 忙[いそが]しくって。　ンでも 時々[ときどき]　 掃除[そうじ]は　しといたんだ。",
         "word_base_list": [
             "今",
             "時分",
@@ -2549,6 +2634,7 @@
         "id": "A_TonarinoTotoro_085",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　手　真っ黒じゃない　どうしたの？",
+        "sentence_with_furigana": "(メイ)　 手[て]　 真っ黒[まっくろ]じゃない　どうしたの？",
         "word_base_list": [
             "（",
             "メイ",
@@ -2591,6 +2677,7 @@
         "id": "A_TonarinoTotoro_086",
         "deck_name": "My Neighbor Totoro",
         "sentence": "真っ黒クロスケ　逃げちゃった。",
+        "sentence_with_furigana": "真っ黒[まっくろ]クロスケ　 逃[に]げちゃった。",
         "word_base_list": [
             "真っ黒い",
             "クロスケ",
@@ -2617,6 +2704,7 @@
         "id": "A_TonarinoTotoro_087",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あ　(メイ)の足！",
+        "sentence_with_furigana": "あ　(メイ)の 足[あし]！",
         "word_base_list": [
             "あー",
             " ",
@@ -2645,6 +2733,7 @@
         "id": "A_TonarinoTotoro_088",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あ　私のも真っ黒。",
+        "sentence_with_furigana": "あ　 私[わたし]のも 真っ黒[まっくろ]。",
         "word_base_list": [
             "あー",
             " ",
@@ -2671,6 +2760,7 @@
         "id": "A_TonarinoTotoro_089",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん…　こりゃ　ススワタリが出たな。",
+        "sentence_with_furigana": "うん…　こりゃ　ススワタリが 出[で]たな。",
         "word_base_list": [
             "うん",
             ".",
@@ -2709,6 +2799,7 @@
         "id": "A_TonarinoTotoro_090",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ススワタリ？　ススワタリって　こんなんで　ゾワゾワって動くもの？",
+        "sentence_with_furigana": "ススワタリ？　ススワタリって　こんなんで　ゾワゾワって 動[うご]くもの？",
         "word_base_list": [
             "煤渡り",
             "？",
@@ -2751,6 +2842,7 @@
         "id": "A_TonarinoTotoro_091",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ンだ　誰もいねえ古い家に　わいて　そこら中　ススとホコリだらけに　しちゃうのよぉ。",
+        "sentence_with_furigana": "ンだ　 誰[だれ]もいねえ 古[ふる]い 家[うち]に　わいて　そこら 中[じゅう]　ススとホコリだらけに　しちゃうのよぉ。",
         "word_base_list": [
             "の",
             "だ",
@@ -2821,6 +2913,7 @@
         "id": "A_TonarinoTotoro_092",
         "deck_name": "My Neighbor Totoro",
         "sentence": "小ちぇ頃には　わしにも見えたが　そうか　あんたらにも見えたんけ。",
+        "sentence_with_furigana": "小[しょう]ちぇ 頃[ごろ]には　わしにも 見[み]えたが　そうか　あんたらにも 見[み]えたんけ。",
         "word_base_list": [
             "小",
             "ちぇっ",
@@ -2883,6 +2976,7 @@
         "id": "A_TonarinoTotoro_093",
         "deck_name": "My Neighbor Totoro",
         "sentence": "それは妖怪ですか？",
+        "sentence_with_furigana": "それは 妖怪[ようかい]ですか？",
         "word_base_list": [
             "其れ",
             "は",
@@ -2907,6 +3001,7 @@
         "id": "A_TonarinoTotoro_094",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そったら　恐ろしげなもんじゃねえよ。",
+        "sentence_with_furigana": "そったら　 恐[おそ]ろしげなもんじゃねえよ。",
         "word_base_list": [
             "そう",
             "た",
@@ -2941,6 +3036,7 @@
         "id": "A_TonarinoTotoro_095",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ニコニコしとれば　悪さは　しねえし　いつの間にか　いねくなっちまうんだ。",
+        "sentence_with_furigana": "ニコニコしとれば　 悪[わる]さは　しねえし　いつの 間[ま]にか　いねくなっちまうんだ。",
         "word_base_list": [
             "にこにこ",
             "為る",
@@ -3005,6 +3101,7 @@
         "id": "A_TonarinoTotoro_096",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今頃　天井裏で　引っ越しの　相談でも　ブッてんのかな。",
+        "sentence_with_furigana": "今頃[いまごろ]　 天井裏[てんじょううら]で　 引っ越[ひっこ]しの　 相談[そうだん]でも　ブッてんのかな。",
         "word_base_list": [
             "今頃",
             " ",
@@ -3055,6 +3152,7 @@
         "id": "A_TonarinoTotoro_097",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　みんな逃げちゃうってさ。　つまんない。",
+        "sentence_with_furigana": "(メイ)　みんな 逃[に]げちゃうってさ。　つまんない。",
         "word_base_list": [
             "（",
             "メイ",
@@ -3095,6 +3193,7 @@
         "id": "A_TonarinoTotoro_098",
         "deck_name": "My Neighbor Totoro",
         "sentence": "だって　こんなの出て来たら　どうすんの？",
+        "sentence_with_furigana": "だって　こんなの 出[で]て 来[き]たら　どうすんの？",
         "word_base_list": [
             "だ",
             "って",
@@ -3135,6 +3234,7 @@
         "id": "A_TonarinoTotoro_099",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　怖くないもん。",
+        "sentence_with_furigana": "(メイ)　 怖[こわ]くないもん。",
         "word_base_list": [
             "（",
             "メイ",
@@ -3163,6 +3263,7 @@
         "id": "A_TonarinoTotoro_100",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あら　じゃあ　夜になっても　お便所　一緒に行ってやんない。",
+        "sentence_with_furigana": "あら　じゃあ　 夜[よる]になっても　お 便所[べんじょ]　 一緒[いっしょ]に 行[い]ってやんない。",
         "word_base_list": [
             "あら",
             " ",
@@ -3215,6 +3316,7 @@
         "id": "A_TonarinoTotoro_101",
         "deck_name": "My Neighbor Totoro",
         "sentence": "アハハハ…　さあさ　掃除しよ　川で水をくんで来ておくんな。",
+        "sentence_with_furigana": "アハハハ…　さあさ　 掃除[そうじ]しよ　 川[かわ]で 水[みず]をくんで 来[き]ておくんな。",
         "word_base_list": [
             "あはは",
             ".",
@@ -3273,6 +3375,7 @@
         "id": "A_TonarinoTotoro_102",
         "deck_name": "My Neighbor Totoro",
         "sentence": "川で？　(メイ)も行く！",
+        "sentence_with_furigana": "川[かわ]で？　(メイ)も 行[い]く！",
         "word_base_list": [
             "川",
             "で",
@@ -3305,6 +3408,7 @@
         "id": "A_TonarinoTotoro_103",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)は　そこで待ってな。",
+        "sentence_with_furigana": "(メイ)は　そこで 待[ま]ってな。",
         "word_base_list": [
             "（",
             "メイ",
@@ -3339,6 +3443,7 @@
         "id": "A_TonarinoTotoro_104",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お魚　取れた？",
+        "sentence_with_furigana": "お 魚[さかな]　 取[と]れた？",
         "word_base_list": [
             "御",
             "魚",
@@ -3363,6 +3468,7 @@
         "id": "A_TonarinoTotoro_105",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　出た！",
+        "sentence_with_furigana": "おばあちゃん　 出[で]た！",
         "word_base_list": [
             "御",
             "婆",
@@ -3389,6 +3495,7 @@
         "id": "A_TonarinoTotoro_106",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よく　こぎな　水が冷たくなるまで。",
+        "sentence_with_furigana": "よく　こぎな　 水[みず]が 冷[つめ]たくなるまで。",
         "word_base_list": [
             "良く",
             " ",
@@ -3423,6 +3530,7 @@
         "id": "A_TonarinoTotoro_107",
         "deck_name": "My Neighbor Totoro",
         "sentence": "はい。",
+        "sentence_with_furigana": "はい。",
         "word_base_list": [
             "はい",
             "。"
@@ -3439,6 +3547,7 @@
         "id": "A_TonarinoTotoro_108",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ああ　さっきの…　何？　ご用？",
+        "sentence_with_furigana": "ああ　さっきの…　 何[なに]？　ご 用[よう]？",
         "word_base_list": [
             "ああ",
             " ",
@@ -3479,6 +3588,7 @@
         "id": "A_TonarinoTotoro_109",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(カンタ)　か…　母ちゃんが　ばあちゃんに…。",
+        "sentence_with_furigana": "(カンタ)　か…　 母[かあ]ちゃんが　ばあちゃんに…。",
         "word_base_list": [
             "（",
             "カンタ",
@@ -3529,6 +3639,7 @@
         "id": "A_TonarinoTotoro_110",
         "deck_name": "My Neighbor Totoro",
         "sentence": "何？",
+        "sentence_with_furigana": "何[なに]？",
         "word_base_list": [
             "何",
             "？"
@@ -3545,6 +3656,7 @@
         "id": "A_TonarinoTotoro_111",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ん！　あ…。　待って！　これ　何？",
+        "sentence_with_furigana": "ん！　あ…。　 待[ま]って！　これ　 何[なに]？",
         "word_base_list": [
             "んっ",
             "！",
@@ -3591,6 +3703,7 @@
         "id": "A_TonarinoTotoro_112",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(カンタ)か？",
+        "sentence_with_furigana": "(カンタ)か？",
         "word_base_list": [
             "（",
             "カンタ",
@@ -3613,6 +3726,7 @@
         "id": "A_TonarinoTotoro_113",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ヤイ　お前ん家　お化け屋敷！",
+        "sentence_with_furigana": "ヤイ　お 前[まえ]ん 家[うち]　お 化け屋敷[ばけやしき]！",
         "word_base_list": [
             "ヤイ",
             " ",
@@ -3643,6 +3757,7 @@
         "id": "A_TonarinoTotoro_114",
         "deck_name": "My Neighbor Totoro",
         "sentence": "アハハハ　そういうの　おとうさんにも覚えがあるな。",
+        "sentence_with_furigana": "アハハハ　そういうの　おとうさんにも 覚[おぼ]えがあるな。",
         "word_base_list": [
             "あはは",
             " ",
@@ -3685,6 +3800,7 @@
         "id": "A_TonarinoTotoro_115",
         "deck_name": "My Neighbor Totoro",
         "sentence": "男の子　嫌い！　でも　おばあちゃん家のオハギは　とっても好き！",
+        "sentence_with_furigana": "男の子[おとこのこ]　 嫌[きら]い！　でも　おばあちゃん 家[か]のオハギは　とっても 好[す]き！",
         "word_base_list": [
             "男の子",
             " ",
@@ -3735,6 +3851,7 @@
         "id": "A_TonarinoTotoro_116",
         "deck_name": "My Neighbor Totoro",
         "sentence": "たんと　おあがり。",
+        "sentence_with_furigana": "たんと　おあがり。",
         "word_base_list": [
             "たんと",
             " ",
@@ -3757,6 +3874,7 @@
         "id": "A_TonarinoTotoro_117",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ご苦労さま。",
+        "sentence_with_furigana": "ご 苦労[くろう]さま。",
         "word_base_list": [
             "御",
             "苦労",
@@ -3777,6 +3895,7 @@
         "id": "A_TonarinoTotoro_118",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうもありがとうございました。",
+        "sentence_with_furigana": "どうもありがとうございました。",
         "word_base_list": [
             "どう",
             "も",
@@ -3803,6 +3922,7 @@
         "id": "A_TonarinoTotoro_119",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さようなら。　さようなら。",
+        "sentence_with_furigana": "さようなら。　さようなら。",
         "word_base_list": [
             "さようなら",
             "。",
@@ -3825,6 +3945,7 @@
         "id": "A_TonarinoTotoro_120",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　お家　ボロだから　つぶれちゃうよ。",
+        "sentence_with_furigana": "お 父[とう]さん　お 家[うち]　ボロだから　つぶれちゃうよ。",
         "word_base_list": [
             "御",
             "父さん",
@@ -3865,6 +3986,7 @@
         "id": "A_TonarinoTotoro_121",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ハハハ　引っ越したばかりで　つぶれるのは困るな。",
+        "sentence_with_furigana": "ハハハ　 引っ越[ひっこ]したばかりで　つぶれるのは 困[こま]るな。",
         "word_base_list": [
             "ははは",
             " ",
@@ -3903,6 +4025,7 @@
         "id": "A_TonarinoTotoro_122",
         "deck_name": "My Neighbor Totoro",
         "sentence": "みんな　笑ってみな　おっかないのは逃げちゃうから。",
+        "sentence_with_furigana": "みんな　 笑[わら]ってみな　おっかないのは 逃[に]げちゃうから。",
         "word_base_list": [
             "皆",
             " ",
@@ -3941,6 +4064,7 @@
         "id": "A_TonarinoTotoro_123",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　怖くないもん。　ハッハッハッハッ！",
+        "sentence_with_furigana": "(メイ)　 怖[こわ]くないもん。　ハッハッハッハッ！",
         "word_base_list": [
             "（",
             "メイ",
@@ -3975,6 +4099,7 @@
         "id": "A_TonarinoTotoro_124",
         "deck_name": "My Neighbor Totoro",
         "sentence": "怖くないもん！",
+        "sentence_with_furigana": "怖[こわ]くないもん！",
         "word_base_list": [
             "怖い",
             "無い",
@@ -3995,6 +4120,7 @@
         "id": "A_TonarinoTotoro_125",
         "deck_name": "My Neighbor Totoro",
         "sentence": "一　ニ　一　ニ　一　ニ…。",
+        "sentence_with_furigana": "一　ニ　一　ニ　一　ニ…。",
         "word_base_list": [
             "1",
             " ",
@@ -4037,6 +4163,7 @@
         "id": "A_TonarinoTotoro_126",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よし　洗濯　終わり。　わ！　わ！",
+        "sentence_with_furigana": "よし　 洗濯[せんたく]　 終[お]わり。　わ！　わ！",
         "word_base_list": [
             "よし",
             " ",
@@ -4073,6 +4200,7 @@
         "id": "A_TonarinoTotoro_127",
         "deck_name": "My Neighbor Totoro",
         "sentence": "出発！",
+        "sentence_with_furigana": "出発[しゅっぱつ]！",
         "word_base_list": [
             "出発",
             "！"
@@ -4089,6 +4217,7 @@
         "id": "A_TonarinoTotoro_128",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん！",
+        "sentence_with_furigana": "おばあちゃん！",
         "word_base_list": [
             "御",
             "婆",
@@ -4109,6 +4238,7 @@
         "id": "A_TonarinoTotoro_129",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こんにちは！　ご精が出ますね。",
+        "sentence_with_furigana": "こんにちは！　ご 精[せい]が 出[で]ますね。",
         "word_base_list": [
             "今日は",
             "！",
@@ -4141,6 +4271,7 @@
         "id": "A_TonarinoTotoro_130",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おそろいで　お出かけかい！",
+        "sentence_with_furigana": "おそろいで　お 出[で]かけかい！",
         "word_base_list": [
             "御",
             "揃い",
@@ -4169,6 +4300,7 @@
         "id": "A_TonarinoTotoro_131",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さんの　お見舞いに行くの！",
+        "sentence_with_furigana": "お 母[かあ]さんの　お 見舞[みま]いに 行[い]くの！",
         "word_base_list": [
             "御",
             "母さん",
@@ -4201,6 +4333,7 @@
         "id": "A_TonarinoTotoro_132",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そりゃ偉いよな　よろしく言っとくれ。",
+        "sentence_with_furigana": "そりゃ 偉[えら]いよな　よろしく 言[い]っとくれ。",
         "word_base_list": [
             "其れ",
             "偉い",
@@ -4233,6 +4366,7 @@
         "id": "A_TonarinoTotoro_133",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あ　こっち　こっち。",
+        "sentence_with_furigana": "あ　こっち　こっち。",
         "word_base_list": [
             "あー",
             " ",
@@ -4257,6 +4391,7 @@
         "id": "A_TonarinoTotoro_134",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こんにちは。　いらっしゃい。　あ！",
+        "sentence_with_furigana": "こんにちは。　いらっしゃい。　あ！",
         "word_base_list": [
             "今日は",
             "。",
@@ -4285,6 +4420,7 @@
         "id": "A_TonarinoTotoro_135",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん!!　(メイ)　よく来てくれたわね。",
+        "sentence_with_furigana": "お 母[かあ]さん!!　(メイ)　よく 来[き]てくれたわね。",
         "word_base_list": [
             "御",
             "母さん",
@@ -4329,6 +4465,7 @@
         "id": "A_TonarinoTotoro_136",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　道　間違えちゃったんだよ。",
+        "sentence_with_furigana": "お 父[とう]さん　 道[みち]　 間違[まちが]えちゃったんだよ。",
         "word_base_list": [
             "御",
             "父さん",
@@ -4365,6 +4502,7 @@
         "id": "A_TonarinoTotoro_137",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そう…　いらっしゃい。",
+        "sentence_with_furigana": "そう…　いらっしゃい。",
         "word_base_list": [
             "そう",
             ".",
@@ -4391,6 +4529,7 @@
         "id": "A_TonarinoTotoro_138",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今日　田植え休みなの。　あっ　そうか。",
+        "sentence_with_furigana": "今日[きょう]　 田植[たう]え 休[やす]みなの。　あっ　そうか。",
         "word_base_list": [
             "今日",
             " ",
@@ -4429,6 +4568,7 @@
         "id": "A_TonarinoTotoro_139",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　先生とお話ししてる。　みんな来てくれて　うれしいわ。",
+        "sentence_with_furigana": "お 父[とう]さん　 先生[せんせい]とお 話[はな]ししてる。　みんな 来[き]てくれて　うれしいわ。",
         "word_base_list": [
             "御",
             "父さん",
@@ -4481,6 +4621,7 @@
         "id": "A_TonarinoTotoro_140",
         "deck_name": "My Neighbor Totoro",
         "sentence": "新しいお家は　どう？　もう落ち着いた？",
+        "sentence_with_furigana": "新[あたら]しいお 家[うち]は　どう？　もう 落ち着[おちつ]いた？",
         "word_base_list": [
             "新しい",
             "御",
@@ -4519,6 +4660,7 @@
         "id": "A_TonarinoTotoro_141",
         "deck_name": "My Neighbor Totoro",
         "sentence": "えっ　お化け屋敷!?　うん。",
+        "sentence_with_furigana": "えっ　お 化け屋敷[ばけやしき]!?　うん。",
         "word_base_list": [
             "えっ",
             " ",
@@ -4549,6 +4691,7 @@
         "id": "A_TonarinoTotoro_142",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん　お化け屋敷　好き？",
+        "sentence_with_furigana": "お 母[かあ]さん　お 化け屋敷[ばけやしき]　 好[す]き？",
         "word_base_list": [
             "御",
             "母さん",
@@ -4577,6 +4720,7 @@
         "id": "A_TonarinoTotoro_143",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もちろん！　早く退院して　お化けに会いたいわ。",
+        "sentence_with_furigana": "もちろん！　 早[はや]く 退院[たいいん]して　お 化[ば]けに 会[あ]いたいわ。",
         "word_base_list": [
             "勿論",
             "！",
@@ -4617,6 +4761,7 @@
         "id": "A_TonarinoTotoro_144",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よかったね　(メイ)。　うん。",
+        "sentence_with_furigana": "よかったね　(メイ)。　うん。",
         "word_base_list": [
             "良い",
             "た",
@@ -4651,6 +4796,7 @@
         "id": "A_TonarinoTotoro_145",
         "deck_name": "My Neighbor Totoro",
         "sentence": "心配してたの　お母さんが嫌いだと困るなって。",
+        "sentence_with_furigana": "心配[しんぱい]してたの　お 母[かあ]さんが 嫌[きら]いだと 困[こま]るなって。",
         "word_base_list": [
             "心配",
             "為る",
@@ -4695,6 +4841,7 @@
         "id": "A_TonarinoTotoro_146",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)と(メイ)は？　好き！",
+        "sentence_with_furigana": "(サツキ)と(メイ)は？　 好[す]き！",
         "word_base_list": [
             "（",
             "五月",
@@ -4731,6 +4878,7 @@
         "id": "A_TonarinoTotoro_147",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　怖くないよ。",
+        "sentence_with_furigana": "(メイ)　 怖[こわ]くないよ。",
         "word_base_list": [
             "（",
             "メイ",
@@ -4759,6 +4907,7 @@
         "id": "A_TonarinoTotoro_148",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ウフフフ　(メイ)の髪の毛　(サツキ)が結ってあげてるの？",
+        "sentence_with_furigana": "ウフフフ　(メイ)の 髪の毛[かみのけ]　(サツキ)が 結[ゆ]ってあげてるの？",
         "word_base_list": [
             "うふふ",
             " ",
@@ -4807,6 +4956,7 @@
         "id": "A_TonarinoTotoro_149",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん。　上手よ…　いいね　(メイ)。",
+        "sentence_with_furigana": "うん。　 上手[じょうず]よ…　いいね　(メイ)。",
         "word_base_list": [
             "うん",
             "。",
@@ -4851,6 +5001,7 @@
         "id": "A_TonarinoTotoro_150",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん…　でも　お姉ちゃん　すぐ怒るよ。",
+        "sentence_with_furigana": "うん…　でも　お 姉[ねえ]ちゃん　すぐ 怒[おこ]るよ。",
         "word_base_list": [
             "うん",
             ".",
@@ -4893,6 +5044,7 @@
         "id": "A_TonarinoTotoro_151",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)が　おとなしくしないからよ。",
+        "sentence_with_furigana": "(メイ)が　おとなしくしないからよ。",
         "word_base_list": [
             "（",
             "メイ",
@@ -4927,6 +5079,7 @@
         "id": "A_TonarinoTotoro_152",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)　おいで。",
+        "sentence_with_furigana": "(サツキ)　おいで。",
         "word_base_list": [
             "（",
             "五月",
@@ -4953,6 +5106,7 @@
         "id": "A_TonarinoTotoro_153",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ちょっと短か過ぎない？　私　このほうが好き。",
+        "sentence_with_furigana": "ちょっと 短[たん]か 過[す]ぎない？　 私[わたし]　このほうが 好[す]き。",
         "word_base_list": [
             "一寸",
             "短い",
@@ -4991,6 +5145,7 @@
         "id": "A_TonarinoTotoro_154",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)も！　(メイ)も！　順番！",
+        "sentence_with_furigana": "(メイ)も！　(メイ)も！　 順番[じゅんばん]！",
         "word_base_list": [
             "（",
             "メイ",
@@ -5031,6 +5186,7 @@
         "id": "A_TonarinoTotoro_155",
         "deck_name": "My Neighbor Totoro",
         "sentence": "相変わらずのクセっ毛ね　私の子供の頃と　そっくり。",
+        "sentence_with_furigana": "相変[あいか]わらずのクセっ 毛[け]ね　 私[わたし]の 子供[こども]の 頃[ころ]と　そっくり。",
         "word_base_list": [
             "相",
             "変わる",
@@ -5075,6 +5231,7 @@
         "id": "A_TonarinoTotoro_156",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大きくなったら　私の髪も　お母さんのようになる？",
+        "sentence_with_furigana": "大[おお]きくなったら　 私[わたし]の 髪[かみ]も　お 母[かあ]さんのようになる？",
         "word_base_list": [
             "大きい",
             "成る",
@@ -5119,6 +5276,7 @@
         "id": "A_TonarinoTotoro_157",
         "deck_name": "My Neighbor Totoro",
         "sentence": "多分ね　あなたは　かあさん似だから。",
+        "sentence_with_furigana": "多分[たぶん]ね　あなたは　かあさん 似[に]だから。",
         "word_base_list": [
             "多分",
             "ね",
@@ -5153,6 +5311,7 @@
         "id": "A_TonarinoTotoro_158",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん　元気そうだったね。　ああ　そうだね。",
+        "sentence_with_furigana": "お 母[かあ]さん　 元気[げんき]そうだったね。　ああ　そうだね。",
         "word_base_list": [
             "御",
             "母さん",
@@ -5197,6 +5356,7 @@
         "id": "A_TonarinoTotoro_159",
         "deck_name": "My Neighbor Totoro",
         "sentence": "先生も　もう少しで　退院できるだろうって言ってたよ。",
+        "sentence_with_furigana": "先生[せんせい]も　もう 少[すこ]しで　 退院[たいいん]できるだろうって 言[い]ってたよ。",
         "word_base_list": [
             "先生",
             "も",
@@ -5241,6 +5401,7 @@
         "id": "A_TonarinoTotoro_160",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もう少しって　明日？",
+        "sentence_with_furigana": "もう 少[すこ]しって　 明日[あした]？",
         "word_base_list": [
             "もう",
             "少し",
@@ -5265,6 +5426,7 @@
         "id": "A_TonarinoTotoro_161",
         "deck_name": "My Neighbor Totoro",
         "sentence": "また(メイ)の「明日」が始まった。　明日は　ちょっと無理だな。",
+        "sentence_with_furigana": "また(メイ)の「 明日[あした]」が 始[はじ]まった。　 明日[あした]は　ちょっと 無理[むり]だな。",
         "word_base_list": [
             "又",
             "（",
@@ -5319,6 +5481,7 @@
         "id": "A_TonarinoTotoro_162",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん　(メイ)のお布団で　一緒に寝たいって。",
+        "sentence_with_furigana": "お 母[かあ]さん　(メイ)のお 布団[ふとん]で　 一緒[いっしょ]に 寝[ね]たいって。",
         "word_base_list": [
             "御",
             "母さん",
@@ -5365,6 +5528,7 @@
         "id": "A_TonarinoTotoro_163",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あれ？　(メイ)は大きくなったから　１人で寝るんじゃなかったの？",
+        "sentence_with_furigana": "あれ？　(メイ)は 大[おお]きくなったから　１ 人[にん]で 寝[ね]るんじゃなかったの？",
         "word_base_list": [
             "あれ",
             "？",
@@ -5419,6 +5583,7 @@
         "id": "A_TonarinoTotoro_164",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さんは　いいの!!　ハハハ。　アハハハ。",
+        "sentence_with_furigana": "お 母[かあ]さんは　いいの!!　ハハハ。　アハハハ。",
         "word_base_list": [
             "御",
             "母さん",
@@ -5459,6 +5624,7 @@
         "id": "A_TonarinoTotoro_165",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん！　朝ですよ！",
+        "sentence_with_furigana": "お 父[とう]さん！　 朝[あさ]ですよ！",
         "word_base_list": [
             "御",
             "父さん",
@@ -5487,6 +5653,7 @@
         "id": "A_TonarinoTotoro_166",
         "deck_name": "My Neighbor Totoro",
         "sentence": "えい！　起きろ!!",
+        "sentence_with_furigana": "えい！　 起[お]きろ!!",
         "word_base_list": [
             "えい",
             "！",
@@ -5511,6 +5678,7 @@
         "id": "A_TonarinoTotoro_167",
         "deck_name": "My Neighbor Totoro",
         "sentence": "すまん　また寝過ごした。　今日から　私　お弁当よ。",
+        "sentence_with_furigana": "すまん　また 寝過[ねす]ごした。　 今日[きょう]から　 私[わたし]　お 弁当[べんとう]よ。",
         "word_base_list": [
             "すむ",
             "ず",
@@ -5559,6 +5727,7 @@
         "id": "A_TonarinoTotoro_168",
         "deck_name": "My Neighbor Totoro",
         "sentence": "しまった　すっかり忘れてた。",
+        "sentence_with_furigana": "しまった　すっかり 忘[わす]れてた。",
         "word_base_list": [
             "仕舞う",
             "た",
@@ -5587,6 +5756,7 @@
         "id": "A_TonarinoTotoro_169",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大丈夫　みんなのも作るね。",
+        "sentence_with_furigana": "大丈夫[だいじょうぶ]　みんなのも 作[つく]るね。",
         "word_base_list": [
             "大丈夫",
             " ",
@@ -5615,6 +5785,7 @@
         "id": "A_TonarinoTotoro_170",
         "deck_name": "My Neighbor Totoro",
         "sentence": "焦げてる！　待って。",
+        "sentence_with_furigana": "焦[こ]げてる！　 待[ま]って。",
         "word_base_list": [
             "焦げる",
             "てる",
@@ -5641,6 +5812,7 @@
         "id": "A_TonarinoTotoro_171",
         "deck_name": "My Neighbor Totoro",
         "sentence": "これ　(メイ)のね。",
+        "sentence_with_furigana": "これ　(メイ)のね。",
         "word_base_list": [
             "此れ",
             " ",
@@ -5669,6 +5841,7 @@
         "id": "A_TonarinoTotoro_172",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)の!?　(メイ)　座って食べなさい。",
+        "sentence_with_furigana": "(メイ)の!?　(メイ)　 座[すわ]って 食[た]べなさい。",
         "word_base_list": [
             "（",
             "メイ",
@@ -5713,6 +5886,7 @@
         "id": "A_TonarinoTotoro_173",
         "deck_name": "My Neighbor Totoro",
         "sentence": "自分で包んで。",
+        "sentence_with_furigana": "自分[じぶん]で 包[つつ]んで。",
         "word_base_list": [
             "自分",
             "で",
@@ -5735,6 +5909,7 @@
         "id": "A_TonarinoTotoro_174",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)ちゃん！",
+        "sentence_with_furigana": "(サツキ)ちゃん！",
         "word_base_list": [
             "（",
             "五月",
@@ -5757,6 +5932,7 @@
         "id": "A_TonarinoTotoro_175",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　大変！　はい！",
+        "sentence_with_furigana": "あっ　 大変[たいへん]！　はい！",
         "word_base_list": [
             "あっ",
             " ",
@@ -5783,6 +5959,7 @@
         "id": "A_TonarinoTotoro_176",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もう友達が　できたのかい？　(サツキ)ちゃん」だって。",
+        "sentence_with_furigana": "もう 友達[ともだち]が　できたのかい？　(サツキ)ちゃん」だって。",
         "word_base_list": [
             "もう",
             "友達",
@@ -5833,6 +6010,7 @@
         "id": "A_TonarinoTotoro_177",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん　(みっ)ちゃんっていうの。",
+        "sentence_with_furigana": "うん　(みっ)ちゃんっていうの。",
         "word_base_list": [
             "うん",
             " ",
@@ -5865,6 +6043,7 @@
         "id": "A_TonarinoTotoro_178",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ごちそうさま。",
+        "sentence_with_furigana": "ごちそうさま。",
         "word_base_list": [
             "御馳走",
             "様",
@@ -5883,6 +6062,7 @@
         "id": "A_TonarinoTotoro_179",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いってきます！",
+        "sentence_with_furigana": "いってきます！",
         "word_base_list": [
             "行く",
             "て",
@@ -5905,6 +6085,7 @@
         "id": "A_TonarinoTotoro_180",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いってらっしゃい。　いってらっしゃい。",
+        "sentence_with_furigana": "いってらっしゃい。　いってらっしゃい。",
         "word_base_list": [
             "行く",
             "てらっしゃる",
@@ -5931,6 +6112,7 @@
         "id": "A_TonarinoTotoro_181",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おはよう。　おはよう　早く行こう。",
+        "sentence_with_furigana": "おはよう。　おはよう　 早[はや]く 行[い]こう。",
         "word_base_list": [
             "御早う",
             "。",
@@ -5959,6 +6141,7 @@
         "id": "A_TonarinoTotoro_182",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん。",
+        "sentence_with_furigana": "お 父[とう]さん。",
         "word_base_list": [
             "御",
             "父さん",
@@ -5977,6 +6160,7 @@
         "id": "A_TonarinoTotoro_183",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　お姉さんみたい？",
+        "sentence_with_furigana": "(メイ)　お 姉[ねえ]さんみたい？",
         "word_base_list": [
             "（",
             "メイ",
@@ -6005,6 +6189,7 @@
         "id": "A_TonarinoTotoro_184",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん　お弁当　提げて　どちらへ？　ちょっと　そこまで。",
+        "sentence_with_furigana": "うん　お 弁当[べんとう]　 提[さ]げて　どちらへ？　ちょっと　そこまで。",
         "word_base_list": [
             "うん",
             " ",
@@ -6051,6 +6236,7 @@
         "id": "A_TonarinoTotoro_185",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　お弁当まだ？　えっ　もう？",
+        "sentence_with_furigana": "お 父[とう]さん　お 弁当[べんとう]まだ？　えっ　もう？",
         "word_base_list": [
             "御",
             "父さん",
@@ -6087,6 +6273,7 @@
         "id": "A_TonarinoTotoro_186",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　お花屋さんね。",
+        "sentence_with_furigana": "お 父[とう]さん　お 花屋[はなや]さんね。",
         "word_base_list": [
             "御",
             "父さん",
@@ -6115,6 +6302,7 @@
         "id": "A_TonarinoTotoro_187",
         "deck_name": "My Neighbor Totoro",
         "sentence": "オジャマタクシ！",
+        "sentence_with_furigana": "オジャマタクシ！",
         "word_base_list": [
             "オジャマタクシ",
             "！"
@@ -6131,6 +6319,7 @@
         "id": "A_TonarinoTotoro_188",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ！　あれ…　底ぬけだ！",
+        "sentence_with_furigana": "あっ！　あれ…　 底[そこ]ぬけだ！",
         "word_base_list": [
             "あっ",
             "！",
@@ -6165,6 +6354,7 @@
         "id": "A_TonarinoTotoro_189",
         "deck_name": "My Neighbor Totoro",
         "sentence": "みっけ！",
+        "sentence_with_furigana": "みっけ！",
         "word_base_list": [
             "見る",
             "け",
@@ -6183,6 +6373,7 @@
         "id": "A_TonarinoTotoro_190",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あなたは　だれ？　真っ黒クロスケ？",
+        "sentence_with_furigana": "あなたは　だれ？　 真っ黒[まっくろ]クロスケ？",
         "word_base_list": [
             "貴方",
             "は",
@@ -6213,6 +6404,7 @@
         "id": "A_TonarinoTotoro_191",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)!!　あなた　(トトロ)っていうのね！",
+        "sentence_with_furigana": "(トトロ)!!　あなた　(トトロ)っていうのね！",
         "word_base_list": [
             "（",
             "トトロ",
@@ -6257,6 +6449,7 @@
         "id": "A_TonarinoTotoro_193",
         "deck_name": "My Neighbor Totoro",
         "sentence": "じゃあね。　後でね。",
+        "sentence_with_furigana": "じゃあね。　 後[あと]でね。",
         "word_base_list": [
             "で",
             "ね",
@@ -6285,6 +6478,7 @@
         "id": "A_TonarinoTotoro_194",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ただいま。　おかえり。",
+        "sentence_with_furigana": "ただいま。　おかえり。",
         "word_base_list": [
             "只今",
             "。",
@@ -6307,6 +6501,7 @@
         "id": "A_TonarinoTotoro_195",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　もう　こんな時間か。　(メイ)は？　(みっ)ちゃん家に行くの。",
+        "sentence_with_furigana": "あっ　もう　こんな 時間[じかん]か。　(メイ)は？　(みっ)ちゃん 家[うち]に 行[い]くの。",
         "word_base_list": [
             "あっ",
             " ",
@@ -6367,6 +6562,7 @@
         "id": "A_TonarinoTotoro_196",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お弁当まだなんだ　(メイ)　庭で遊んでないかい？",
+        "sentence_with_furigana": "お 弁当[べんとう]まだなんだ　(メイ)　 庭[にわ]で 遊[あそ]んでないかい？",
         "word_base_list": [
             "御",
             "弁当",
@@ -6417,6 +6613,7 @@
         "id": "A_TonarinoTotoro_197",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん！　(メイ)の帽子があった！",
+        "sentence_with_furigana": "お 父[とう]さん！　(メイ)の 帽子[ぼうし]があった！",
         "word_base_list": [
             "御",
             "父さん",
@@ -6455,6 +6652,7 @@
         "id": "A_TonarinoTotoro_198",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)！　こら　起きろ！",
+        "sentence_with_furigana": "(メイ)！　こら　 起[お]きろ！",
         "word_base_list": [
             "（",
             "メイ",
@@ -6485,6 +6683,7 @@
         "id": "A_TonarinoTotoro_199",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こんなとこで寝てちゃ　ダメでしょう！",
+        "sentence_with_furigana": "こんなとこで 寝[ね]てちゃ　ダメでしょう！",
         "word_base_list": [
             "こんな",
             "とこ",
@@ -6517,6 +6716,7 @@
         "id": "A_TonarinoTotoro_200",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)は？　(トトロ)？",
+        "sentence_with_furigana": "(トトロ)は？　(トトロ)？",
         "word_base_list": [
             "（",
             "トトロ",
@@ -6549,6 +6749,7 @@
         "id": "A_TonarinoTotoro_201",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あれ？　あれ？",
+        "sentence_with_furigana": "あれ？　あれ？",
         "word_base_list": [
             "あれ",
             "？",
@@ -6571,6 +6772,7 @@
         "id": "A_TonarinoTotoro_202",
         "deck_name": "My Neighbor Totoro",
         "sentence": "夢見てたの？　(トトロ)　いたんだよ。",
+        "sentence_with_furigana": "夢見[ゆめみ]てたの？　(トトロ)　いたんだよ。",
         "word_base_list": [
             "夢",
             "見る",
@@ -6617,6 +6819,7 @@
         "id": "A_TonarinoTotoro_203",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)って　絵本に出てたトロルのこと？",
+        "sentence_with_furigana": "(トトロ)って　 絵本[えほん]に 出[で]てたトロルのこと？",
         "word_base_list": [
             "（",
             "トトロ",
@@ -6657,6 +6860,7 @@
         "id": "A_TonarinoTotoro_204",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん　(トトロ)って　ちゃんと言ったもん。",
+        "sentence_with_furigana": "うん　(トトロ)って　ちゃんと 言[い]ったもん。",
         "word_base_list": [
             "うん",
             " ",
@@ -6693,6 +6897,7 @@
         "id": "A_TonarinoTotoro_205",
         "deck_name": "My Neighbor Totoro",
         "sentence": "毛が生えて　こんな口してて　こんなのと　こんくらいのと　こんなに大きいのが寝てた。",
+        "sentence_with_furigana": "毛[もう]が 生[は]えて　こんな 口[くち]してて　こんなのと　こんくらいのと　こんなに 大[おお]きいのが 寝[ね]てた。",
         "word_base_list": [
             "毛",
             "が",
@@ -6763,6 +6968,7 @@
         "id": "A_TonarinoTotoro_206",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いたいた…　へぇ　すごいね　秘密基地みたいだな。",
+        "sentence_with_furigana": "いたいた…　へぇ　すごいね　 秘密基地[ひみつきち]みたいだな。",
         "word_base_list": [
             "居る",
             "たい",
@@ -6811,6 +7017,7 @@
         "id": "A_TonarinoTotoro_207",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　(メイ)　ここで　(トトロ)に会ったんだって。",
+        "sentence_with_furigana": "お 父[とう]さん　(メイ)　ここで　(トトロ)に 会[あ]ったんだって。",
         "word_base_list": [
             "御",
             "父さん",
@@ -6863,6 +7070,7 @@
         "id": "A_TonarinoTotoro_208",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)？　うん。",
+        "sentence_with_furigana": "(トトロ)？　うん。",
         "word_base_list": [
             "（",
             "トトロ",
@@ -6889,6 +7097,7 @@
         "id": "A_TonarinoTotoro_209",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こっち！",
+        "sentence_with_furigana": "こっち！",
         "word_base_list": [
             "此方",
             "！"
@@ -6905,6 +7114,7 @@
         "id": "A_TonarinoTotoro_210",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おい　待ってくれ。",
+        "sentence_with_furigana": "おい　 待[ま]ってくれ。",
         "word_base_list": [
             "おい",
             " ",
@@ -6929,6 +7139,7 @@
         "id": "A_TonarinoTotoro_211",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あれ？",
+        "sentence_with_furigana": "あれ？",
         "word_base_list": [
             "あれ",
             "？"
@@ -6945,6 +7156,7 @@
         "id": "A_TonarinoTotoro_212",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ここ？　ううん。",
+        "sentence_with_furigana": "ここ？　ううん。",
         "word_base_list": [
             "此処",
             "？",
@@ -6967,6 +7179,7 @@
         "id": "A_TonarinoTotoro_213",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さっきは　大きな木のとこに行った。",
+        "sentence_with_furigana": "さっきは　 大[おお]きな 木[き]のとこに 行[い]った。",
         "word_base_list": [
             "さっき",
             "は",
@@ -7001,6 +7214,7 @@
         "id": "A_TonarinoTotoro_214",
         "deck_name": "My Neighbor Totoro",
         "sentence": "だけど　一本道だったよ。",
+        "sentence_with_furigana": "だけど　 一本道[いっぽんみち]だったよ。",
         "word_base_list": [
             "だ",
             "けれど",
@@ -7031,6 +7245,7 @@
         "id": "A_TonarinoTotoro_215",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　(メイ)　戻っておいで！",
+        "sentence_with_furigana": "あっ　(メイ)　 戻[もど]っておいで！",
         "word_base_list": [
             "あっ",
             " ",
@@ -7065,6 +7280,7 @@
         "id": "A_TonarinoTotoro_216",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホントだもん！　ホントに(トトロ)いたんだもん！",
+        "sentence_with_furigana": "ホントだもん！　 ホント[ほんと]に(トトロ)いたんだもん！",
         "word_base_list": [
             "本当",
             "だ",
@@ -7109,6 +7325,7 @@
         "id": "A_TonarinoTotoro_217",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ウソじゃないもん…。",
+        "sentence_with_furigana": "ウソじゃないもん…。",
         "word_base_list": [
             "うそ",
             "だ",
@@ -7137,6 +7354,7 @@
         "id": "A_TonarinoTotoro_218",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)。　ウソじゃないもん。",
+        "sentence_with_furigana": "(メイ)。　ウソじゃないもん。",
         "word_base_list": [
             "（",
             "メイ",
@@ -7169,6 +7387,7 @@
         "id": "A_TonarinoTotoro_219",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん　おとうさんも(サツキ)も　(メイ)がウソつきだなんて　思っていないよ。",
+        "sentence_with_furigana": "うん　おとうさんも(サツキ)も　(メイ)が ウソ[うそ]つきだなんて　 思[おも]っていないよ。",
         "word_base_list": [
             "うん",
             " ",
@@ -7229,6 +7448,7 @@
         "id": "A_TonarinoTotoro_220",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)は　きっと　この森の主に会ったんだ。　それは　とても運がいいことなんだよ。",
+        "sentence_with_furigana": "(メイ)は　きっと　この 森[もり]の 主[おも]に 会[あ]ったんだ。　それは　とても 運[うん]がいいことなんだよ。",
         "word_base_list": [
             "（",
             "メイ",
@@ -7303,6 +7523,7 @@
         "id": "A_TonarinoTotoro_221",
         "deck_name": "My Neighbor Totoro",
         "sentence": "でも　いつも会えるとは限らない。",
+        "sentence_with_furigana": "でも　いつも 会[あ]えるとは 限[かぎ]らない。",
         "word_base_list": [
             "で",
             "も",
@@ -7337,6 +7558,7 @@
         "id": "A_TonarinoTotoro_222",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さあ　まだ挨拶に　行っていなかったね。",
+        "sentence_with_furigana": "さあ　まだ 挨拶[あいさつ]に　 行[おこな]っていなかったね。",
         "word_base_list": [
             "さあ",
             " ",
@@ -7375,6 +7597,7 @@
         "id": "A_TonarinoTotoro_223",
         "deck_name": "My Neighbor Totoro",
         "sentence": "挨拶？　塚森へ出発！",
+        "sentence_with_furigana": "挨拶[あいさつ]？　 塚森[つかもり]へ 出発[しゅっぱつ]！",
         "word_base_list": [
             "挨拶",
             "？",
@@ -7401,6 +7624,7 @@
         "id": "A_TonarinoTotoro_224",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ヒャ　(メイ)も重くなったな。　お父さん　あのクスの木！",
+        "sentence_with_furigana": "ヒャ　(メイ)も 重[おも]くなったな。　お 父[とう]さん　あのクスの 木[き]！",
         "word_base_list": [
             "ヒャ",
             " ",
@@ -7449,6 +7673,7 @@
         "id": "A_TonarinoTotoro_225",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大きいねぇ。",
+        "sentence_with_furigana": "大[おお]きいねぇ。",
         "word_base_list": [
             "大きい",
             "ね",
@@ -7467,6 +7692,7 @@
         "id": "A_TonarinoTotoro_226",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あった！",
+        "sentence_with_furigana": "あった！",
         "word_base_list": [
             "有る",
             "た",
@@ -7485,6 +7711,7 @@
         "id": "A_TonarinoTotoro_227",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あの木？　うん。",
+        "sentence_with_furigana": "あの 木[き]？　うん。",
         "word_base_list": [
             "彼の",
             "木",
@@ -7509,6 +7736,7 @@
         "id": "A_TonarinoTotoro_228",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　早く早く！",
+        "sentence_with_furigana": "お 父[とう]さん　 早[はや]く 早[はや]く！",
         "word_base_list": [
             "御",
             "父さん",
@@ -7533,6 +7761,7 @@
         "id": "A_TonarinoTotoro_229",
         "deck_name": "My Neighbor Totoro",
         "sentence": "穴　なくなっちゃった。",
+        "sentence_with_furigana": "穴[あな]　なくなっちゃった。",
         "word_base_list": [
             "穴",
             " ",
@@ -7557,6 +7786,7 @@
         "id": "A_TonarinoTotoro_230",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホントに　ここ？　うん。",
+        "sentence_with_furigana": "ホント[ほんと]に　ここ？　うん。",
         "word_base_list": [
             "本当",
             "に",
@@ -7585,6 +7815,7 @@
         "id": "A_TonarinoTotoro_231",
         "deck_name": "My Neighbor Totoro",
         "sentence": "穴が消えちゃたんだって。",
+        "sentence_with_furigana": "穴[あな]が 消[き]えちゃたんだって。",
         "word_base_list": [
             "穴",
             "が",
@@ -7615,6 +7846,7 @@
         "id": "A_TonarinoTotoro_232",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ねっ　いつでも会えるわけじゃ　ないんだよ。",
+        "sentence_with_furigana": "ねっ　いつでも 会[あ]えるわけじゃ　ないんだよ。",
         "word_base_list": [
             "ねえ",
             " ",
@@ -7655,6 +7887,7 @@
         "id": "A_TonarinoTotoro_233",
         "deck_name": "My Neighbor Totoro",
         "sentence": "また会える？　私も会いたい。",
+        "sentence_with_furigana": "また 会[あ]える？　 私[あたし]も 会[あ]いたい。",
         "word_base_list": [
             "又",
             "会う",
@@ -7685,6 +7918,7 @@
         "id": "A_TonarinoTotoro_234",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうだな　運がよければね。",
+        "sentence_with_furigana": "そうだな　 運[うん]がよければね。",
         "word_base_list": [
             "そう",
             "だ",
@@ -7717,6 +7951,7 @@
         "id": "A_TonarinoTotoro_235",
         "deck_name": "My Neighbor Totoro",
         "sentence": "立派な木だな。",
+        "sentence_with_furigana": "立派[りっぱ]な 木[き]だな。",
         "word_base_list": [
             "立派",
             "だ",
@@ -7741,6 +7976,7 @@
         "id": "A_TonarinoTotoro_236",
         "deck_name": "My Neighbor Totoro",
         "sentence": "きっと　ずっと　ずっと昔から　ここに立っていたんだね。",
+        "sentence_with_furigana": "きっと　ずっと　ずっと 昔[むかし]から　ここに 立[た]っていたんだね。",
         "word_base_list": [
             "きっと",
             " ",
@@ -7789,6 +8025,7 @@
         "id": "A_TonarinoTotoro_237",
         "deck_name": "My Neighbor Totoro",
         "sentence": "昔々は　木と人は仲良しだったんだよ。",
+        "sentence_with_furigana": "昔[むかし]々は　 木[き]と 人[ひと]は 仲良[なかよ]しだったんだよ。",
         "word_base_list": [
             "昔々",
             "は",
@@ -7829,6 +8066,7 @@
         "id": "A_TonarinoTotoro_238",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おとうさんは　この木を見て　あの家がとっても気に入ったんだ。　おかあさんも　きっと好きになると思ってね。",
+        "sentence_with_furigana": "おとうさんは　この 木[き]を 見[み]て　あの 家[うち]がとっても 気に入[きにい]ったんだ。　おかあさんも　きっと 好[す]きになると 思[おも]ってね。",
         "word_base_list": [
             "御",
             "父さん",
@@ -7911,6 +8149,7 @@
         "id": "A_TonarinoTotoro_239",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さあ　お礼を言って戻ろう　お弁当　食べなきゃ。",
+        "sentence_with_furigana": "さあ　お 礼[れい]を 言[い]って 戻[もど]ろう　お 弁当[べんとう]　 食[た]べなきゃ。",
         "word_base_list": [
             "さあ",
             " ",
@@ -7953,6 +8192,7 @@
         "id": "A_TonarinoTotoro_240",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうだ　(みっ)ちゃん家に行く約束なんだ。",
+        "sentence_with_furigana": "そうだ　(みっ)ちゃん 家[うち]に 行[い]く 約束[やくそく]なんだ。",
         "word_base_list": [
             "そう",
             "だ",
@@ -7995,6 +8235,7 @@
         "id": "A_TonarinoTotoro_241",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)も行く！",
+        "sentence_with_furigana": "(メイ)も 行[い]く！",
         "word_base_list": [
             "（",
             "メイ",
@@ -8019,6 +8260,7 @@
         "id": "A_TonarinoTotoro_242",
         "deck_name": "My Neighbor Totoro",
         "sentence": "気をつけ！",
+        "sentence_with_furigana": "気[き]をつけ！",
         "word_base_list": [
             "気",
             "を",
@@ -8039,6 +8281,7 @@
         "id": "A_TonarinoTotoro_243",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)が　お世話になりました。　これからも　よろしくお願いいたします。",
+        "sentence_with_furigana": "(メイ)が　お 世話[せわ]になりました。　これからも　よろしくお 願[ねが]いいたします。",
         "word_base_list": [
             "（",
             "メイ",
@@ -8097,6 +8340,7 @@
         "id": "A_TonarinoTotoro_244",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お願いいたします。",
+        "sentence_with_furigana": "お 願[ねが]いいたします。",
         "word_base_list": [
             "御",
             "願う",
@@ -8119,6 +8363,7 @@
         "id": "A_TonarinoTotoro_245",
         "deck_name": "My Neighbor Totoro",
         "sentence": "家まで競走！",
+        "sentence_with_furigana": "家[うち]まで 競走[きょうそう]！",
         "word_base_list": [
             "家",
             "まで",
@@ -8139,6 +8384,7 @@
         "id": "A_TonarinoTotoro_246",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　ずるい！　あ！",
+        "sentence_with_furigana": "あっ　ずるい！　あ！",
         "word_base_list": [
             "あっ",
             " ",
@@ -8165,6 +8411,7 @@
         "id": "A_TonarinoTotoro_247",
         "deck_name": "My Neighbor Totoro",
         "sentence": "待って！",
+        "sentence_with_furigana": "待[ま]って！",
         "word_base_list": [
             "待つ",
             "て",
@@ -8183,6 +8430,7 @@
         "id": "A_TonarinoTotoro_248",
         "deck_name": "My Neighbor Totoro",
         "sentence": "早く！",
+        "sentence_with_furigana": "早[はや]く！",
         "word_base_list": [
             "早い",
             "！"
@@ -8199,6 +8447,7 @@
         "id": "A_TonarinoTotoro_249",
         "deck_name": "My Neighbor Totoro",
         "sentence": "待って！",
+        "sentence_with_furigana": "待[ま]って！",
         "word_base_list": [
             "待つ",
             "て",
@@ -8217,6 +8466,7 @@
         "id": "A_TonarinoTotoro_250",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(カンタ)　早くしないと遅れるよ",
+        "sentence_with_furigana": "(カンタ)　 早[はや]くしないと 遅[おく]れるよ",
         "word_base_list": [
             "（",
             "カンタ",
@@ -8249,6 +8499,7 @@
         "id": "A_TonarinoTotoro_251",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん。",
+        "sentence_with_furigana": "うん。",
         "word_base_list": [
             "うん",
             "。"
@@ -8265,6 +8516,7 @@
         "id": "A_TonarinoTotoro_252",
         "deck_name": "My Neighbor Totoro",
         "sentence": "先生！　はい　(サツキ)さん。",
+        "sentence_with_furigana": "先生[せんせい]！　はい　(サツキ)さん。",
         "word_base_list": [
             "先生",
             "！",
@@ -8297,6 +8549,7 @@
         "id": "A_TonarinoTotoro_254",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　(メイ)…。",
+        "sentence_with_furigana": "おばあちゃん　(メイ)…。",
         "word_base_list": [
             "御",
             "婆",
@@ -8331,6 +8584,7 @@
         "id": "A_TonarinoTotoro_255",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ごめんな　おねえちゃんとこ　行くって　きかねえもんだから…。",
+        "sentence_with_furigana": "ごめんな　おねえちゃんとこ　 行[い]くって　きかねえもんだから…。",
         "word_base_list": [
             "御免",
             "だ",
@@ -8381,6 +8635,7 @@
         "id": "A_TonarinoTotoro_256",
         "deck_name": "My Neighbor Totoro",
         "sentence": "だって…　(メイ)　今日は　お父さんが大学へ行く日だから　おばあちゃん家で　いい子で　待ってるって約束したでしょう。",
+        "sentence_with_furigana": "だって…　(メイ)　 今日[きょう]は　お 父[とう]さんが 大学[だいがく]へ 行[い]く 日[ひ]だから　おばあちゃん 家[か]で　いい 子[こ]で　 待[ま]ってるって 約束[やくそく]したでしょう。",
         "word_base_list": [
             "だ",
             "って",
@@ -8475,6 +8730,7 @@
         "id": "A_TonarinoTotoro_257",
         "deck_name": "My Neighbor Totoro",
         "sentence": "私は　まだ２時間あるし　おばあちゃんだって忙しいのに…。",
+        "sentence_with_furigana": "私[わたし]は　まだ２ 時間[じかん]あるし　おばあちゃんだって 忙[いそが]しいのに…。",
         "word_base_list": [
             "私",
             "は",
@@ -8529,6 +8785,7 @@
         "id": "A_TonarinoTotoro_258",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ずっと　いい子にしてたんだよぉ　ねぇ。",
+        "sentence_with_furigana": "ずっと　いい 子[こ]にしてたんだよぉ　ねぇ。",
         "word_base_list": [
             "ずっと",
             " ",
@@ -8569,6 +8826,7 @@
         "id": "A_TonarinoTotoro_259",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　先生に話して来る。",
+        "sentence_with_furigana": "おばあちゃん　 先生[せんせい]に 話[はな]して 来[く]る。",
         "word_base_list": [
             "御",
             "婆",
@@ -8601,6 +8859,7 @@
         "id": "A_TonarinoTotoro_260",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)さんのお家は　おかあさんが　入院されていて大変なんです。　皆さん　仲良くできますね。　はい。",
+        "sentence_with_furigana": "(サツキ)さんのお 家[うち]は　おかあさんが　 入院[にゅういん]されていて 大変[たいへん]なんです。　 皆[みな]さん　 仲良[なかよ]くできますね。　はい。",
         "word_base_list": [
             "（",
             "五月",
@@ -8685,6 +8944,7 @@
         "id": "A_TonarinoTotoro_261",
         "deck_name": "My Neighbor Totoro",
         "sentence": "何？　それ。　(トトロ)だよ！",
+        "sentence_with_furigana": "何[なに]？　それ。　(トトロ)だよ！",
         "word_base_list": [
             "何",
             "？",
@@ -8721,6 +8981,7 @@
         "id": "A_TonarinoTotoro_262",
         "deck_name": "My Neighbor Totoro",
         "sentence": "シ！　おとなしくしてなきゃ　ダメでしょ。",
+        "sentence_with_furigana": "シ！　おとなしくしてなきゃ　ダメでしょ。",
         "word_base_list": [
             "シ",
             "！",
@@ -8755,6 +9016,7 @@
         "id": "A_TonarinoTotoro_263",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん！",
+        "sentence_with_furigana": "うん！",
         "word_base_list": [
             "うん",
             "！"
@@ -8771,6 +9033,7 @@
         "id": "A_TonarinoTotoro_264",
         "deck_name": "My Neighbor Totoro",
         "sentence": "クラブ休むって言って。　うん　先生に言っとく。",
+        "sentence_with_furigana": "クラブ 休[やす]むって 言[い]って。　うん　 先生[せんせい]に 言[い]っとく。",
         "word_base_list": [
             "クラブ",
             "休む",
@@ -8811,6 +9074,7 @@
         "id": "A_TonarinoTotoro_265",
         "deck_name": "My Neighbor Totoro",
         "sentence": "またね。　バイバイ。",
+        "sentence_with_furigana": "またね。　バイバイ。",
         "word_base_list": [
             "又",
             "ね",
@@ -8835,6 +9099,7 @@
         "id": "A_TonarinoTotoro_266",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　急いで　雨降るよ。　うん。",
+        "sentence_with_furigana": "(メイ)　 急[いそ]いで　 雨[あめ] 降[ふ]るよ。　うん。",
         "word_base_list": [
             "（",
             "メイ",
@@ -8875,6 +9140,7 @@
         "id": "A_TonarinoTotoro_267",
         "deck_name": "My Neighbor Totoro",
         "sentence": "わ　降って来た！",
+        "sentence_with_furigana": "わ　 降[くだ]って 来[き]た！",
         "word_base_list": [
             "わ",
             " ",
@@ -8901,6 +9167,7 @@
         "id": "A_TonarinoTotoro_268",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)泣かないよ　偉い？　うん。",
+        "sentence_with_furigana": "(メイ) 泣[な]かないよ　 偉[えら]い？　うん。",
         "word_base_list": [
             "（",
             "メイ",
@@ -8937,6 +9204,7 @@
         "id": "A_TonarinoTotoro_269",
         "deck_name": "My Neighbor Totoro",
         "sentence": "でも　困ったね。",
+        "sentence_with_furigana": "でも　 困[こま]ったね。",
         "word_base_list": [
             "で",
             "も",
@@ -8963,6 +9231,7 @@
         "id": "A_TonarinoTotoro_270",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お地蔵さま　ちょっと　雨宿りさせてください。",
+        "sentence_with_furigana": "お 地蔵[じぞう]さま　ちょっと　 雨宿[あまやど]りさせてください。",
         "word_base_list": [
             "御",
             "地蔵",
@@ -8999,6 +9268,7 @@
         "id": "A_TonarinoTotoro_271",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ん！　でも…。",
+        "sentence_with_furigana": "ん！　でも…。",
         "word_base_list": [
             "んっ",
             "！",
@@ -9029,6 +9299,7 @@
         "id": "A_TonarinoTotoro_272",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お姉ちゃん　よかったね。　うん。",
+        "sentence_with_furigana": "お 姉[ねえ]ちゃん　よかったね。　うん。",
         "word_base_list": [
             "御",
             "姉ちゃん",
@@ -9061,6 +9332,7 @@
         "id": "A_TonarinoTotoro_273",
         "deck_name": "My Neighbor Totoro",
         "sentence": "傘　穴開いてるね。",
+        "sentence_with_furigana": "傘[かさ]　 穴[あな] 開[ひら]いてるね。",
         "word_base_list": [
             "傘",
             " ",
@@ -9087,6 +9359,7 @@
         "id": "A_TonarinoTotoro_274",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　傘持ってかなかったね。",
+        "sentence_with_furigana": "お 父[とう]さん　 傘[かさ] 持[も]ってかなかったね。",
         "word_base_list": [
             "御",
             "父さん",
@@ -9119,6 +9392,7 @@
         "id": "A_TonarinoTotoro_275",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)も　お迎え行く！",
+        "sentence_with_furigana": "(メイ)も　お 迎[むか]え 行[ゆ]く！",
         "word_base_list": [
             "（",
             "メイ",
@@ -9149,6 +9423,7 @@
         "id": "A_TonarinoTotoro_276",
         "deck_name": "My Neighbor Totoro",
         "sentence": "だから忘れたの！",
+        "sentence_with_furigana": "だから 忘[わす]れたの！",
         "word_base_list": [
             "だ",
             "から",
@@ -9173,6 +9448,7 @@
         "id": "A_TonarinoTotoro_277",
         "deck_name": "My Neighbor Totoro",
         "sentence": "雨が降ってる時に　傘を忘れるバカがどこにいるの！",
+        "sentence_with_furigana": "雨[あめ]が 降[ふ]ってる 時[とき]に　 傘[かさ]を 忘[わす]れるバカがどこにいるの！",
         "word_base_list": [
             "雨",
             "が",
@@ -9219,6 +9495,7 @@
         "id": "A_TonarinoTotoro_278",
         "deck_name": "My Neighbor Totoro",
         "sentence": "痛ぇ！",
+        "sentence_with_furigana": "痛[いた]ぇ！",
         "word_base_list": [
             "痛",
             "ぇ",
@@ -9237,6 +9514,7 @@
         "id": "A_TonarinoTotoro_279",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうせ　振り回して壊しちゃったんだよ。",
+        "sentence_with_furigana": "どうせ　 振り回[ふりまわ]して 壊[こわ]しちゃったんだよ。",
         "word_base_list": [
             "どうせ",
             " ",
@@ -9273,6 +9551,7 @@
         "id": "A_TonarinoTotoro_280",
         "deck_name": "My Neighbor Totoro",
         "sentence": "違わい！",
+        "sentence_with_furigana": "違[ちが]わい！",
         "word_base_list": [
             "違う",
             "い",
@@ -9291,6 +9570,7 @@
         "id": "A_TonarinoTotoro_281",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ごめんください。",
+        "sentence_with_furigana": "ごめんください。",
         "word_base_list": [
             "御免",
             "下さる",
@@ -9309,6 +9589,7 @@
         "id": "A_TonarinoTotoro_282",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あら　(サツキ)さん　あっ　(メイ)ちゃんも…。　ばあちゃん！",
+        "sentence_with_furigana": "あら　(サツキ)さん　あっ　(メイ)ちゃんも…。　ばあちゃん！",
         "word_base_list": [
             "あら",
             " ",
@@ -9365,6 +9646,7 @@
         "id": "A_TonarinoTotoro_283",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今日は　すみませんでした。　こっちこそ　お役に立てなくてね。",
+        "sentence_with_furigana": "今日[きょう]は　すみませんでした。　こっちこそ　お 役[やく]に 立[た]てなくてね。",
         "word_base_list": [
             "今日",
             "は",
@@ -9419,6 +9701,7 @@
         "id": "A_TonarinoTotoro_284",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あの　この傘　(カンタ)さんが貸してくれたんです。",
+        "sentence_with_furigana": "あの　この 傘[かさ]　(カンタ)さんが 貸[か]してくれたんです。",
         "word_base_list": [
             "彼の",
             " ",
@@ -9465,6 +9748,7 @@
         "id": "A_TonarinoTotoro_285",
         "deck_name": "My Neighbor Totoro",
         "sentence": "へぇ　あの子が？　ヤダよ　こんなボロ傘。",
+        "sentence_with_furigana": "へぇ　あの 子[こ]が？　ヤダよ　こんなボロ 傘[かさ]。",
         "word_base_list": [
             "へえ",
             " ",
@@ -9505,6 +9789,7 @@
         "id": "A_TonarinoTotoro_286",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)もいたから　とても助かったの　でも(カンタ)さんが　ぬれちゃって。",
+        "sentence_with_furigana": "(メイ)もいたから　とても 助[たす]かったの　でも(カンタ)さんが　ぬれちゃって。",
         "word_base_list": [
             "（",
             "メイ",
@@ -9567,6 +9852,7 @@
         "id": "A_TonarinoTotoro_287",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ありがとうございました。",
+        "sentence_with_furigana": "ありがとうございました。",
         "word_base_list": [
             "有り難う",
             "御座る",
@@ -9589,6 +9875,7 @@
         "id": "A_TonarinoTotoro_288",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いいのよ　いつだって泥だらけなんだから　ちっとは　きれいになるでしょう。",
+        "sentence_with_furigana": "いいのよ　いつだって 泥[どろ]だらけなんだから　ちっとは　きれいになるでしょう。",
         "word_base_list": [
             "良い",
             "の",
@@ -9645,6 +9932,7 @@
         "id": "A_TonarinoTotoro_289",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おとうちゃんを　お迎えに行くの？",
+        "sentence_with_furigana": "おとうちゃんを　お 迎[むか]えに 行[い]くの？",
         "word_base_list": [
             "御",
             "父ちゃん",
@@ -9677,6 +9965,7 @@
         "id": "A_TonarinoTotoro_290",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ええ　偉いねぇ",
+        "sentence_with_furigana": "ええ　 偉[えら]いねぇ",
         "word_base_list": [
             "ええ",
             " ",
@@ -9697,6 +9986,7 @@
         "id": "A_TonarinoTotoro_291",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)ちゃん　バイバイ　バイバイ",
+        "sentence_with_furigana": "(メイ)ちゃん　バイバイ　バイバイ",
         "word_base_list": [
             "（",
             "メイ",
@@ -9725,6 +10015,7 @@
         "id": "A_TonarinoTotoro_292",
         "deck_name": "My Neighbor Totoro",
         "sentence": "誰か来たんけぇ？　知らねえ。",
+        "sentence_with_furigana": "誰[だれ]か 来[き]たんけぇ？　 知[し]らねえ。",
         "word_base_list": [
             "誰",
             "か",
@@ -9761,6 +10052,7 @@
         "id": "A_TonarinoTotoro_293",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　ちょうど来たよ。",
+        "sentence_with_furigana": "あっ　ちょうど 来[き]たよ。",
         "word_base_list": [
             "あっ",
             " ",
@@ -9787,6 +10079,7 @@
         "id": "A_TonarinoTotoro_294",
         "deck_name": "My Neighbor Totoro",
         "sentence": "乗りますか？",
+        "sentence_with_furigana": "乗[の]りますか？",
         "word_base_list": [
             "乗る",
             "ます",
@@ -9807,6 +10100,7 @@
         "id": "A_TonarinoTotoro_295",
         "deck_name": "My Neighbor Totoro",
         "sentence": "発車オーライ",
+        "sentence_with_furigana": "発車[はっしゃ]オーライ",
         "word_base_list": [
             "発車",
             "オーライ"
@@ -9823,6 +10117,7 @@
         "id": "A_TonarinoTotoro_296",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　乗ってないね。　きっと次のバスなんだよ。",
+        "sentence_with_furigana": "お 父[とう]さん　 乗[の]ってないね。　きっと 次[つぎ]のバスなんだよ。",
         "word_base_list": [
             "御",
             "父さん",
@@ -9871,6 +10166,7 @@
         "id": "A_TonarinoTotoro_297",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)は　おばあちゃん家で待ってる？",
+        "sentence_with_furigana": "(メイ)は　おばあちゃん 家[か]で 待[ま]ってる？",
         "word_base_list": [
             "（",
             "メイ",
@@ -9909,6 +10205,7 @@
         "id": "A_TonarinoTotoro_298",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうしたの？",
+        "sentence_with_furigana": "どうしたの？",
         "word_base_list": [
             "どう",
             "為る",
@@ -9931,6 +10228,7 @@
         "id": "A_TonarinoTotoro_299",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　眠いの？",
+        "sentence_with_furigana": "(メイ)　 眠[ねむ]いの？",
         "word_base_list": [
             "（",
             "メイ",
@@ -9957,6 +10255,7 @@
         "id": "A_TonarinoTotoro_300",
         "deck_name": "My Neighbor Totoro",
         "sentence": "だから言ったのに…。　今から　おばあちゃん家　行く？",
+        "sentence_with_furigana": "だから 言[い]ったのに…。　 今[いま]から　おばあちゃん 家[か]　 行[い]く？",
         "word_base_list": [
             "だ",
             "から",
@@ -10011,6 +10310,7 @@
         "id": "A_TonarinoTotoro_301",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もうすぐだから頑張りな。",
+        "sentence_with_furigana": "もうすぐだから 頑張[がんば]りな。",
         "word_base_list": [
             "もう",
             "直ぐ",
@@ -10037,6 +10337,7 @@
         "id": "A_TonarinoTotoro_302",
         "deck_name": "My Neighbor Totoro",
         "sentence": "バス　遅いね。",
+        "sentence_with_furigana": "バス　 遅[おそ]いね。",
         "word_base_list": [
             "バス",
             " ",
@@ -10059,6 +10360,7 @@
         "id": "A_TonarinoTotoro_303",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ホラ。　うん…。",
+        "sentence_with_furigana": "ホラ。　うん…。",
         "word_base_list": [
             "ほら",
             "。",
@@ -10087,6 +10389,7 @@
         "id": "A_TonarinoTotoro_304",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　待ってね。",
+        "sentence_with_furigana": "あっ　 待[ま]ってね。",
         "word_base_list": [
             "あっ",
             " ",
@@ -10111,6 +10414,7 @@
         "id": "A_TonarinoTotoro_305",
         "deck_name": "My Neighbor Totoro",
         "sentence": "貸してあげる。",
+        "sentence_with_furigana": "貸[か]してあげる。",
         "word_base_list": [
             "貸す",
             "て",
@@ -10131,6 +10435,7 @@
         "id": "A_TonarinoTotoro_306",
         "deck_name": "My Neighbor Totoro",
         "sentence": "早く　(メイ)が落ちちゃう。",
+        "sentence_with_furigana": "早[はや]く　(メイ)が 落[お]ちちゃう。",
         "word_base_list": [
             "早い",
             " ",
@@ -10161,6 +10466,7 @@
         "id": "A_TonarinoTotoro_307",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こうやって使うのよ。",
+        "sentence_with_furigana": "こうやって 使[つか]うのよ。",
         "word_base_list": [
             "こう",
             "遣る",
@@ -10187,6 +10493,7 @@
         "id": "A_TonarinoTotoro_308",
         "deck_name": "My Neighbor Totoro",
         "sentence": "バスが来た！",
+        "sentence_with_furigana": "バスが 来[き]た！",
         "word_base_list": [
             "バス",
             "が",
@@ -10209,6 +10516,7 @@
         "id": "A_TonarinoTotoro_309",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)　お父さんの傘　持ってっちゃった。",
+        "sentence_with_furigana": "(トトロ)　お 父[とう]さんの 傘[かさ]　 持[も]ってっちゃった。",
         "word_base_list": [
             "（",
             "トトロ",
@@ -10249,6 +10557,7 @@
         "id": "A_TonarinoTotoro_310",
         "deck_name": "My Neighbor Totoro",
         "sentence": "や　すまん　すまん。　発車オーライ！",
+        "sentence_with_furigana": "や　すまん　すまん。　 発車[はっしゃ]オーライ！",
         "word_base_list": [
             "や",
             " ",
@@ -10285,6 +10594,7 @@
         "id": "A_TonarinoTotoro_311",
         "deck_name": "My Neighbor Totoro",
         "sentence": "電車が遅れてね　バスに間に合わなかったんだ。",
+        "sentence_with_furigana": "電車[でんしゃ]が 遅[おく]れてね　バスに 間に合[まにあ]わなかったんだ。",
         "word_base_list": [
             "電車",
             "が",
@@ -10325,6 +10635,7 @@
         "id": "A_TonarinoTotoro_312",
         "deck_name": "My Neighbor Totoro",
         "sentence": "心配したかい？",
+        "sentence_with_furigana": "心配[しんぱい]したかい？",
         "word_base_list": [
             "心配",
             "為る",
@@ -10349,6 +10660,7 @@
         "id": "A_TonarinoTotoro_313",
         "deck_name": "My Neighbor Totoro",
         "sentence": "出たの！　お父さん　出た出た!!",
+        "sentence_with_furigana": "出[で]たの！　お 父[とう]さん　 出[で]た 出[で]た!!",
         "word_base_list": [
             "出る",
             "た",
@@ -10389,6 +10701,7 @@
         "id": "A_TonarinoTotoro_314",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ねこ！　ねこのバス！",
+        "sentence_with_furigana": "ねこ！　ねこのバス！",
         "word_base_list": [
             "猫",
             "！",
@@ -10415,6 +10728,7 @@
         "id": "A_TonarinoTotoro_315",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ん？",
+        "sentence_with_furigana": "ん？",
         "word_base_list": [
             "んっ",
             "？"
@@ -10431,6 +10745,7 @@
         "id": "A_TonarinoTotoro_316",
         "deck_name": "My Neighbor Totoro",
         "sentence": "すっごく大きいの！　こんな目してるの！　怖い！　怖い！",
+        "sentence_with_furigana": "すっごく 大[おお]きいの！　こんな 目[め]してるの！　 怖[こわ]い！　 怖[こわ]い！",
         "word_base_list": [
             "凄い",
             "大きい",
@@ -10477,6 +10792,7 @@
         "id": "A_TonarinoTotoro_317",
         "deck_name": "My Neighbor Totoro",
         "sentence": "会っちゃった！　(トトロ)に会っちゃった!!",
+        "sentence_with_furigana": "会[あ]っちゃった！　(トトロ)に 会[あ]っちゃった!!",
         "word_base_list": [
             "会う",
             "ちゃう",
@@ -10517,6 +10833,7 @@
         "id": "A_TonarinoTotoro_318",
         "deck_name": "My Neighbor Totoro",
         "sentence": "すてき！　怖い！",
+        "sentence_with_furigana": "すてき！　 怖[こわ]い！",
         "word_base_list": [
             "素敵",
             "！",
@@ -10539,6 +10856,7 @@
         "id": "A_TonarinoTotoro_319",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ねぇ！",
+        "sentence_with_furigana": "ねぇ！",
         "word_base_list": [
             "ねえ",
             "！"
@@ -10555,6 +10873,7 @@
         "id": "A_TonarinoTotoro_320",
         "deck_name": "My Neighbor Totoro",
         "sentence": "「お家の庭が森になったら　すてきなので　木の実は　庭にまくことにしました　でも…」。なかなか芽が出ません。",
+        "sentence_with_furigana": "「お 家[うち]の 庭[にわ]が 森[もり]になったら　すてきなので　 木の実[このみ]は　 庭[にわ]にまくことにしました　でも…」。なかなか 芽[め]が 出[で]ません。",
         "word_base_list": [
             "「",
             "御",
@@ -10651,6 +10970,7 @@
         "id": "A_TonarinoTotoro_321",
         "deck_name": "My Neighbor Totoro",
         "sentence": "これこれ…",
+        "sentence_with_furigana": "これこれ…",
         "word_base_list": [
             "此れ",
             "此れ",
@@ -10673,6 +10993,7 @@
         "id": "A_TonarinoTotoro_322",
         "deck_name": "My Neighbor Totoro",
         "sentence": "消すよ。　待って！",
+        "sentence_with_furigana": "消[け]すよ。　 待[ま]って！",
         "word_base_list": [
             "消す",
             "よ",
@@ -10699,6 +11020,7 @@
         "id": "A_TonarinoTotoro_323",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お父さん　明日　芽出るかな？",
+        "sentence_with_furigana": "お 父[とう]さん　 明日[あした]　 芽[め] 出[で]るかな？",
         "word_base_list": [
             "御",
             "父さん",
@@ -10731,6 +11053,7 @@
         "id": "A_TonarinoTotoro_324",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうだな　(トトロ)なら　知っているんだろうけどな。　おやすみ。",
+        "sentence_with_furigana": "そうだな　(トトロ)なら　 知[し]っているんだろうけどな。　おやすみ。",
         "word_base_list": [
             "そう",
             "だ",
@@ -10783,6 +11106,7 @@
         "id": "A_TonarinoTotoro_325",
         "deck_name": "My Neighbor Totoro",
         "sentence": "木の実をまいたとこだよ。",
+        "sentence_with_furigana": "木の実[このみ]をまいたとこだよ。",
         "word_base_list": [
             "木の実",
             "を",
@@ -10811,6 +11135,7 @@
         "id": "A_TonarinoTotoro_326",
         "deck_name": "My Neighbor Totoro",
         "sentence": "わい！　やった！",
+        "sentence_with_furigana": "わい！　やった！",
         "word_base_list": [
             "わ",
             "い",
@@ -10837,6 +11162,7 @@
         "id": "A_TonarinoTotoro_327",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　私達　風になってる！",
+        "sentence_with_furigana": "(メイ)　 私[わたし] 達[たち]　 風[かぜ]になってる！",
         "word_base_list": [
             "（",
             "メイ",
@@ -10873,6 +11199,7 @@
         "id": "A_TonarinoTotoro_328",
         "deck_name": "My Neighbor Totoro",
         "sentence": "木がない。　あっ！　あっ!!",
+        "sentence_with_furigana": "木[き]がない。　あっ！　あっ!!",
         "word_base_list": [
             "木",
             "が",
@@ -10907,6 +11234,7 @@
         "id": "A_TonarinoTotoro_329",
         "deck_name": "My Neighbor Totoro",
         "sentence": "やった！　出た！",
+        "sentence_with_furigana": "やった！　 出[で]た！",
         "word_base_list": [
             "遣る",
             "た",
@@ -10933,6 +11261,7 @@
         "id": "A_TonarinoTotoro_330",
         "deck_name": "My Neighbor Totoro",
         "sentence": "夢だけど！",
+        "sentence_with_furigana": "夢[ゆめ]だけど！",
         "word_base_list": [
             "夢",
             "だ",
@@ -10953,6 +11282,7 @@
         "id": "A_TonarinoTotoro_331",
         "deck_name": "My Neighbor Totoro",
         "sentence": "夢じゃなかった！　夢だけど！",
+        "sentence_with_furigana": "夢[ゆめ]じゃなかった！　 夢[ゆめ]だけど！",
         "word_base_list": [
             "夢",
             "だ",
@@ -10985,6 +11315,7 @@
         "id": "A_TonarinoTotoro_332",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(草壁)さん　電報です！　(草壁)さん！",
+        "sentence_with_furigana": "(草壁)[くさかべ]さん　 電報[でんぽう]です！　 (草壁)[くさかべ]さん！",
         "word_base_list": [
             "（",
             "草壁",
@@ -11025,6 +11356,7 @@
         "id": "A_TonarinoTotoro_333",
         "deck_name": "My Neighbor Totoro",
         "sentence": "留守かな…？",
+        "sentence_with_furigana": "留守[るす]かな…？",
         "word_base_list": [
             "留守",
             "か",
@@ -11051,6 +11383,7 @@
         "id": "A_TonarinoTotoro_334",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん！",
+        "sentence_with_furigana": "おばあちゃん！",
         "word_base_list": [
             "御",
             "婆",
@@ -11071,6 +11404,7 @@
         "id": "A_TonarinoTotoro_335",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こっちだよぉ。",
+        "sentence_with_furigana": "こっちだよぉ。",
         "word_base_list": [
             "此方",
             "だ",
@@ -11091,6 +11425,7 @@
         "id": "A_TonarinoTotoro_336",
         "deck_name": "My Neighbor Totoro",
         "sentence": "これなら食べ頃だ。",
+        "sentence_with_furigana": "これなら 食べ頃[たべごろ]だ。",
         "word_base_list": [
             "此れ",
             "だ",
@@ -11113,6 +11448,7 @@
         "id": "A_TonarinoTotoro_337",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　これは？　ええよ。",
+        "sentence_with_furigana": "おばあちゃん　これは？　ええよ。",
         "word_base_list": [
             "御",
             "婆",
@@ -11147,6 +11483,7 @@
         "id": "A_TonarinoTotoro_338",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃんの畑って　宝の山みたいね。",
+        "sentence_with_furigana": "おばあちゃんの 畑[はたけ]って　 宝[たから]の 山[やま]みたいね。",
         "word_base_list": [
             "御",
             "婆",
@@ -11185,6 +11522,7 @@
         "id": "A_TonarinoTotoro_339",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ハハハ…　さあ　ひと休み　ひと休み。",
+        "sentence_with_furigana": "ハハハ…　さあ　ひと 休[やす]み　ひと 休[やす]み。",
         "word_base_list": [
             "ははは",
             ".",
@@ -11219,6 +11557,7 @@
         "id": "A_TonarinoTotoro_340",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よく冷えてるよ。",
+        "sentence_with_furigana": "よく 冷[ひ]えてるよ。",
         "word_base_list": [
             "良く",
             "冷える",
@@ -11241,6 +11580,7 @@
         "id": "A_TonarinoTotoro_341",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いただきます。",
+        "sentence_with_furigana": "いただきます。",
         "word_base_list": [
             "頂く",
             "ます",
@@ -11259,6 +11599,7 @@
         "id": "A_TonarinoTotoro_342",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おいしい。　そうかい。　お天道さま　いっぱい浴びてっから　体にもいいんだ。",
+        "sentence_with_furigana": "おいしい。　そうかい。　お 天道[てんとう]さま　いっぱい 浴[あ]びてっから　 体[からだ]にもいいんだ。",
         "word_base_list": [
             "美味しい",
             "。",
@@ -11319,6 +11660,7 @@
         "id": "A_TonarinoTotoro_343",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さんの病気にも？",
+        "sentence_with_furigana": "お 母[かあ]さんの 病気[びょうき]にも？",
         "word_base_list": [
             "御",
             "母さん",
@@ -11345,6 +11687,7 @@
         "id": "A_TonarinoTotoro_344",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もちろんさ。　ばあちゃんの畑のもん食べりゃ　すぐ元気になっちゃうの。",
+        "sentence_with_furigana": "もちろんさ。　ばあちゃんの 畑[はたけ]のもん 食[た]べりゃ　すぐ 元気[げんき]になっちゃうの。",
         "word_base_list": [
             "勿論",
             "さ",
@@ -11395,6 +11738,7 @@
         "id": "A_TonarinoTotoro_345",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今度の土曜日　お母さん　帰って来んの。",
+        "sentence_with_furigana": "今度[こんど]の 土曜日[どようび]　お 母[かあ]さん　 帰[かえ]って 来[く]んの。",
         "word_base_list": [
             "今度",
             "の",
@@ -11433,6 +11777,7 @@
         "id": "A_TonarinoTotoro_346",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)のお布団で一緒に寝るんだよ。",
+        "sentence_with_furigana": "(メイ)のお 布団[ふとん]で 一緒[いっしょ]に 寝[ね]るんだよ。",
         "word_base_list": [
             "（",
             "メイ",
@@ -11473,6 +11818,7 @@
         "id": "A_TonarinoTotoro_347",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうかい　いよいよ退院か。",
+        "sentence_with_furigana": "そうかい　いよいよ 退院[たいいん]か。",
         "word_base_list": [
             "そう",
             "か",
@@ -11501,6 +11847,7 @@
         "id": "A_TonarinoTotoro_348",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ううん　まだ本当の退院じゃなくて　月曜日には病院へ戻るの　少しずつ慣らすんだって。",
+        "sentence_with_furigana": "ううん　まだ 本当[ほんとう]の 退院[たいいん]じゃなくて　 月曜日[げつようび]には 病院[びょういん]へ 戻[もど]るの　 少[すこ]しずつ 慣[な]らすんだって。",
         "word_base_list": [
             "ううん",
             " ",
@@ -11565,6 +11912,7 @@
         "id": "A_TonarinoTotoro_349",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうかい　ンじゃ　どんどん食べてもらわなくちゃ。",
+        "sentence_with_furigana": "そうかい　ンじゃ　どんどん 食[た]べてもらわなくちゃ。",
         "word_base_list": [
             "そう",
             "か",
@@ -11605,6 +11953,7 @@
         "id": "A_TonarinoTotoro_350",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)が取ったトウモコロシ　お母さんに　あげるの。",
+        "sentence_with_furigana": "(メイ)が 取[と]ったトウモコロシ　お 母[かあ]さんに　あげるの。",
         "word_base_list": [
             "（",
             "メイ",
@@ -11647,6 +11996,7 @@
         "id": "A_TonarinoTotoro_351",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おかあさん　きっと喜ぶよ。",
+        "sentence_with_furigana": "おかあさん　きっと 喜[よろこ]ぶよ。",
         "word_base_list": [
             "御",
             "かあさん",
@@ -11673,6 +12023,7 @@
         "id": "A_TonarinoTotoro_352",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん！",
+        "sentence_with_furigana": "うん！",
         "word_base_list": [
             "うん",
             "！"
@@ -11689,6 +12040,7 @@
         "id": "A_TonarinoTotoro_353",
         "deck_name": "My Neighbor Totoro",
         "sentence": "電報　留守だからって預かった。",
+        "sentence_with_furigana": "電報[でんぽう]　 留守[るす]だからって 預[あず]かった。",
         "word_base_list": [
             "電報",
             " ",
@@ -11719,6 +12071,7 @@
         "id": "A_TonarinoTotoro_354",
         "deck_name": "My Neighbor Totoro",
         "sentence": "私ん家？",
+        "sentence_with_furigana": "私[あたし]ん 家[うち]？",
         "word_base_list": [
             "私",
             "ん",
@@ -11739,6 +12092,7 @@
         "id": "A_TonarinoTotoro_355",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　お父さん　夕方まで帰らないの。",
+        "sentence_with_furigana": "おばあちゃん　お 父[とう]さん　 夕方[ゆうがた]まで 帰[かえ]らないの。",
         "word_base_list": [
             "御",
             "婆",
@@ -11777,6 +12131,7 @@
         "id": "A_TonarinoTotoro_356",
         "deck_name": "My Neighbor Totoro",
         "sentence": "開けてみな　急ぎだといけねえから。",
+        "sentence_with_furigana": "開[あ]けてみな　 急[きゅう]ぎだといけねえから。",
         "word_base_list": [
             "開く",
             "て",
@@ -11811,6 +12166,7 @@
         "id": "A_TonarinoTotoro_357",
         "deck_name": "My Neighbor Totoro",
         "sentence": "七国山病院！　お母さんの病院からだわ。　お母さんに何かあったんだ…。",
+        "sentence_with_furigana": "七国山[しちくにやま] 病院[びょういん]！　お 母[かあ]さんの 病院[びょういん]からだわ。　お 母[かあ]さんに 何[なに]かあったんだ…。",
         "word_base_list": [
             "七国",
             "山",
@@ -11877,6 +12233,7 @@
         "id": "A_TonarinoTotoro_358",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　どうしよう　連絡しろって。",
+        "sentence_with_furigana": "おばあちゃん　どうしよう　 連絡[れんらく]しろって。",
         "word_base_list": [
             "御",
             "婆",
@@ -11911,6 +12268,7 @@
         "id": "A_TonarinoTotoro_359",
         "deck_name": "My Neighbor Totoro",
         "sentence": "落ち着いて　落ち着いて…　おとうさんの居場所　分かんのか？",
+        "sentence_with_furigana": "落ち着[おちつ]いて　 落ち着[おちつ]いて…　おとうさんの 居場所[いばしょ]　 分[わ]かんのか？",
         "word_base_list": [
             "落ちる",
             "着く",
@@ -11965,6 +12323,7 @@
         "id": "A_TonarinoTotoro_360",
         "deck_name": "My Neighbor Totoro",
         "sentence": "研究室の番号は知ってるけど　でも電話がないもん。",
+        "sentence_with_furigana": "研究[けんきゅう] 室[しつ]の 番号[ばんごう]は 知[し]ってるけど　でも 電話[でんわ]がないもん。",
         "word_base_list": [
             "研究",
             "室",
@@ -12009,6 +12368,7 @@
         "id": "A_TonarinoTotoro_361",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(カンタ)　本家へ連れてってあげな　電話　貸してもらえ。　うん。",
+        "sentence_with_furigana": "(カンタ)　 本家[ほんけ]へ 連[つ]れてってあげな　 電話[でんわ]　 貸[か]してもらえ。　うん。",
         "word_base_list": [
             "（",
             "カンタ",
@@ -12063,6 +12423,7 @@
         "id": "A_TonarinoTotoro_362",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)ちゃんは　ここにいな！",
+        "sentence_with_furigana": "(メイ)ちゃんは　ここにいな！",
         "word_base_list": [
             "（",
             "メイ",
@@ -12097,6 +12458,7 @@
         "id": "A_TonarinoTotoro_363",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)！　おばあちゃんとこにいな！",
+        "sentence_with_furigana": "(メイ)！　おばあちゃんとこにいな！",
         "word_base_list": [
             "（",
             "メイ",
@@ -12135,6 +12497,7 @@
         "id": "A_TonarinoTotoro_364",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もしもし　市外をお願いします。",
+        "sentence_with_furigana": "もしもし　 市外[しがい]をお 願[ねが]いします。",
         "word_base_list": [
             "もしもし",
             " ",
@@ -12167,6 +12530,7 @@
         "id": "A_TonarinoTotoro_365",
         "deck_name": "My Neighbor Totoro",
         "sentence": "東京の３１局の１３８２番です　はい。",
+        "sentence_with_furigana": "東京[とうきょう]の３１ 局[きょく]の１３８２ 番[ばん]です　はい。",
         "word_base_list": [
             "東京",
             "の",
@@ -12201,6 +12565,7 @@
         "id": "A_TonarinoTotoro_366",
         "deck_name": "My Neighbor Totoro",
         "sentence": "かわいい子じゃねぇ　(カンタ)。",
+        "sentence_with_furigana": "かわいい 子[こ]じゃねぇ　(カンタ)。",
         "word_base_list": [
             "可愛い",
             "子",
@@ -12231,6 +12596,7 @@
         "id": "A_TonarinoTotoro_367",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もしもし…　はい。",
+        "sentence_with_furigana": "もしもし…　はい。",
         "word_base_list": [
             "もしもし",
             ".",
@@ -12257,6 +12623,7 @@
         "id": "A_TonarinoTotoro_368",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もしもし　考古学教室ですか？　父を…　あの…　(草壁)をお願いします。",
+        "sentence_with_furigana": "もしもし　 考古学[こうこがく] 教室[きょうしつ]ですか？　 父[ちち]を…　あの…　 (草壁)[くさかべ]をお 願[ねが]いします。",
         "word_base_list": [
             "もしもし",
             " ",
@@ -12327,6 +12694,7 @@
         "id": "A_TonarinoTotoro_369",
         "deck_name": "My Neighbor Totoro",
         "sentence": "私　(草壁)(サツキ)です…　はい。",
+        "sentence_with_furigana": "私[わたし]　 (草壁)[くさかべ](サツキ)です…　はい。",
         "word_base_list": [
             "私",
             " ",
@@ -12369,6 +12737,7 @@
         "id": "A_TonarinoTotoro_370",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ　お父さん！　私　(サツキ)！",
+        "sentence_with_furigana": "あっ　お 父[とう]さん！　 私[わたし]　(サツキ)！",
         "word_base_list": [
             "あっ",
             " ",
@@ -12405,6 +12774,7 @@
         "id": "A_TonarinoTotoro_371",
         "deck_name": "My Neighbor Totoro",
         "sentence": "何だい？　うんうん…　病院から？",
+        "sentence_with_furigana": "何[なん]だい？　うんうん…　 病院[びょういん]から？",
         "word_base_list": [
             "何",
             "だ",
@@ -12445,6 +12815,7 @@
         "id": "A_TonarinoTotoro_372",
         "deck_name": "My Neighbor Totoro",
         "sentence": "分かった　今すぐ病院に電話してみるよ。　お母さんに何かあったの？　どうしよう　お父さん！",
+        "sentence_with_furigana": "分[わ]かった　 今[いま]すぐ 病院[びょういん]に 電話[でんわ]してみるよ。　お 母[かあ]さんに 何[なに]かあったの？　どうしよう　お 父[とう]さん！",
         "word_base_list": [
             "分かる",
             "た",
@@ -12517,6 +12888,7 @@
         "id": "A_TonarinoTotoro_373",
         "deck_name": "My Neighbor Totoro",
         "sentence": "じゃあ　いったん切るからね。",
+        "sentence_with_furigana": "じゃあ　いったん 切[き]るからね。",
         "word_base_list": [
             "で",
             " ",
@@ -12543,6 +12915,7 @@
         "id": "A_TonarinoTotoro_374",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん　ここで待たせてください。　お父さんが電話して来るの。",
+        "sentence_with_furigana": "おばあちゃん　ここで 待[ま]たせてください。　お 父[とう]さんが 電話[でんわ]して 来[く]るの。",
         "word_base_list": [
             "御",
             "婆",
@@ -12597,6 +12970,7 @@
         "id": "A_TonarinoTotoro_375",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あ　ゆっくりしてきな。",
+        "sentence_with_furigana": "あ　ゆっくりしてきな。",
         "word_base_list": [
             "あー",
             " ",
@@ -12625,6 +12999,7 @@
         "id": "A_TonarinoTotoro_376",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お姉ちゃん!!",
+        "sentence_with_furigana": "お 姉[ねえ]ちゃん!!",
         "word_base_list": [
             "御",
             "姉ちゃん",
@@ -12645,6 +13020,7 @@
         "id": "A_TonarinoTotoro_377",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ダメだよ！　これ　お母さんのトウモロコシだよ！",
+        "sentence_with_furigana": "ダメだよ！　これ　お 母[かあ]さんのトウモロコシだよ！",
         "word_base_list": [
             "駄目",
             "だ",
@@ -12685,6 +13061,7 @@
         "id": "A_TonarinoTotoro_378",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ダメだもん！　お母さんに　あげるんだもん！",
+        "sentence_with_furigana": "ダメだもん！　お 母[かあ]さんに　あげるんだもん！",
         "word_base_list": [
             "駄目",
             "だ",
@@ -12725,6 +13102,7 @@
         "id": "A_TonarinoTotoro_379",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　お母さんの体の具合が　悪いんだって。　だから　今度　帰って来るの　延ばすって。",
+        "sentence_with_furigana": "(メイ)　お 母[かあ]さんの 体[からだ]の 具合[ぐあい]が　 悪[わる]いんだって。　だから　 今度[こんど]　 帰[かえ]って 来[く]るの　 延[の]ばすって。",
         "word_base_list": [
             "（",
             "メイ",
@@ -12799,6 +13177,7 @@
         "id": "A_TonarinoTotoro_380",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ヤダ！",
+        "sentence_with_furigana": "ヤダ！",
         "word_base_list": [
             "ヤダ",
             "！"
@@ -12815,6 +13194,7 @@
         "id": "A_TonarinoTotoro_381",
         "deck_name": "My Neighbor Totoro",
         "sentence": "仕方ないじゃない　無理して病気が　重くなったら困るでしょ。",
+        "sentence_with_furigana": "仕方[しかた]ないじゃない　 無理[むり]して 病気[びょうき]が　 重[おも]くなったら 困[こま]るでしょ。",
         "word_base_list": [
             "仕方無い",
             "だ",
@@ -12859,6 +13239,7 @@
         "id": "A_TonarinoTotoro_382",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ヤダ！",
+        "sentence_with_furigana": "ヤダ！",
         "word_base_list": [
             "ヤダ",
             "！"
@@ -12875,6 +13256,7 @@
         "id": "A_TonarinoTotoro_383",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ねぇ　ちょっと延ばすだけだから。",
+        "sentence_with_furigana": "ねぇ　ちょっと 延[の]ばすだけだから。",
         "word_base_list": [
             "ねえ",
             " ",
@@ -12903,6 +13285,7 @@
         "id": "A_TonarinoTotoro_384",
         "deck_name": "My Neighbor Totoro",
         "sentence": "じゃあ　お母さんが　死んじゃってもいいのね!?",
+        "sentence_with_furigana": "じゃあ　お 母[かあ]さんが　 死[し]んじゃってもいいのね!?",
         "word_base_list": [
             "で",
             " ",
@@ -12945,6 +13328,7 @@
         "id": "A_TonarinoTotoro_385",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)のバカ！　もう知らない！",
+        "sentence_with_furigana": "(メイ)のバカ！　もう 知[し]らない！",
         "word_base_list": [
             "（",
             "メイ",
@@ -12979,6 +13363,7 @@
         "id": "A_TonarinoTotoro_386",
         "deck_name": "My Neighbor Totoro",
         "sentence": "行こうよ。",
+        "sentence_with_furigana": "行[い]こうよ。",
         "word_base_list": [
             "行く",
             "よ",
@@ -12997,6 +13382,7 @@
         "id": "A_TonarinoTotoro_387",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うわん…　お姉ちゃんのバカ！",
+        "sentence_with_furigana": "うわん…　お 姉[ねえ]ちゃんのバカ！",
         "word_base_list": [
             "うわん",
             ".",
@@ -13029,6 +13415,7 @@
         "id": "A_TonarinoTotoro_388",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そろそろ洗濯物しまわねえと…。",
+        "sentence_with_furigana": "そろそろ 洗濯物[せんたくもの]しまわねえと…。",
         "word_base_list": [
             "そろそろ",
             "洗濯",
@@ -13061,6 +13448,7 @@
         "id": "A_TonarinoTotoro_389",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そんなに気を落とさんでぇ　ばあちゃんが手伝いに　来てやったから元気出しな。",
+        "sentence_with_furigana": "そんなに 気[き]を 落[お]とさんでぇ　ばあちゃんが 手伝[てつだ]いに　 来[き]てやったから 元気[げんき] 出[だ]しな。",
         "word_base_list": [
             "そんな",
             "だ",
@@ -13119,6 +13507,7 @@
         "id": "A_TonarinoTotoro_390",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おとうさんは　病院に寄ると　言ってんだしよぉ。",
+        "sentence_with_furigana": "おとうさんは　 病院[びょういん]に 寄[よ]ると　 言[い]ってんだしよぉ。",
         "word_base_list": [
             "御",
             "父さん",
@@ -13163,6 +13552,7 @@
         "id": "A_TonarinoTotoro_391",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おかあさん　風邪だっていうんだから　次の土曜にゃ　戻って来るよぉ。",
+        "sentence_with_furigana": "おかあさん　 風邪[かぜ]だっていうんだから　 次[つぎ]の 土曜[どよう]にゃ　 戻[もど]って 来[く]るよぉ。",
         "word_base_list": [
             "御",
             "かあさん",
@@ -13217,6 +13607,7 @@
         "id": "A_TonarinoTotoro_392",
         "deck_name": "My Neighbor Totoro",
         "sentence": "この前も　そうだったの。　ほんのちょっと　入院するだけだって…。",
+        "sentence_with_furigana": "この 前[まえ]も　そうだったの。　ほんのちょっと　 入院[にゅういん]するだけだって…。",
         "word_base_list": [
             "此の",
             "前",
@@ -13273,6 +13664,7 @@
         "id": "A_TonarinoTotoro_393",
         "deck_name": "My Neighbor Totoro",
         "sentence": "風邪みたいなものだって…。",
+        "sentence_with_furigana": "風邪[かぜ]みたいなものだって…。",
         "word_base_list": [
             "風邪",
             "みたい",
@@ -13305,6 +13697,7 @@
         "id": "A_TonarinoTotoro_394",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん死んじゃったら　どうしよう！",
+        "sentence_with_furigana": "お 母[かあ]さん 死[し]んじゃったら　どうしよう！",
         "word_base_list": [
             "御",
             "母さん",
@@ -13335,6 +13728,7 @@
         "id": "A_TonarinoTotoro_395",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)ちゃん…。",
+        "sentence_with_furigana": "(サツキ)ちゃん…。",
         "word_base_list": [
             "（",
             "五月",
@@ -13363,6 +13757,7 @@
         "id": "A_TonarinoTotoro_396",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もしかしたら　お母さん…。",
+        "sentence_with_furigana": "もしかしたら　お 母[かあ]さん…。",
         "word_base_list": [
             "若し",
             "か",
@@ -13397,6 +13792,7 @@
         "id": "A_TonarinoTotoro_397",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大丈夫　大丈夫。　こんな　かわいい子達を置いて　どこの誰が死ねっかい。",
+        "sentence_with_furigana": "大丈夫[だいじょうぶ]　 大丈夫[だいじょうぶ]。　こんな　かわいい 子達[こたち]を 置[お]いて　どこの 誰[だれ]が 死[し]ねっかい。",
         "word_base_list": [
             "大丈夫",
             " ",
@@ -13455,6 +13851,7 @@
         "id": "A_TonarinoTotoro_398",
         "deck_name": "My Neighbor Totoro",
         "sentence": "泣くんでねえ　泣くんでねえ。",
+        "sentence_with_furigana": "泣[な]くんでねえ　 泣[な]くんでねえ。",
         "word_base_list": [
             "泣く",
             "の",
@@ -13487,6 +13884,7 @@
         "id": "A_TonarinoTotoro_399",
         "deck_name": "My Neighbor Totoro",
         "sentence": "とうちゃんが戻るまで　ばあちゃんが　いてやっから　なっ。",
+        "sentence_with_furigana": "とうちゃんが 戻[もど]るまで　ばあちゃんが　いてやっから　なっ。",
         "word_base_list": [
             "父ちゃん",
             "が",
@@ -13531,6 +13929,7 @@
         "id": "A_TonarinoTotoro_400",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)ちゃん！",
+        "sentence_with_furigana": "(メイ)ちゃん！",
         "word_base_list": [
             "（",
             "メイ",
@@ -13553,6 +13952,7 @@
         "id": "A_TonarinoTotoro_401",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)　戻って来た？",
+        "sentence_with_furigana": "(メイ)　 戻[もど]って 来[き]た？",
         "word_base_list": [
             "（",
             "メイ",
@@ -13583,6 +13983,7 @@
         "id": "A_TonarinoTotoro_402",
         "deck_name": "My Neighbor Totoro",
         "sentence": "バス停にも　いなかったけ？　うん。",
+        "sentence_with_furigana": "バス停[ばすてい]にも　いなかったけ？　うん。",
         "word_base_list": [
             "バス",
             "停",
@@ -13621,6 +14022,7 @@
         "id": "A_TonarinoTotoro_403",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おかしいな　どこさ行っちゃったもんだか。",
+        "sentence_with_furigana": "おかしいな　どこさ 行[い]っちゃったもんだか。",
         "word_base_list": [
             "可笑しい",
             "な",
@@ -13657,6 +14059,7 @@
         "id": "A_TonarinoTotoro_404",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さっき(メイ)とケンカしたの　だって(メイ)ったら…。",
+        "sentence_with_furigana": "さっき(メイ)とケンカしたの　だって(メイ)ったら…。",
         "word_base_list": [
             "さっき",
             "（",
@@ -13709,6 +14112,7 @@
         "id": "A_TonarinoTotoro_405",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あの子　お母さんの病院に　行ったんじゃないかしら!?",
+        "sentence_with_furigana": "あの 子[こ]　お 母[かあ]さんの 病院[びょういん]に　 行[おこな]ったんじゃないかしら!?",
         "word_base_list": [
             "彼の",
             "子",
@@ -13755,6 +14159,7 @@
         "id": "A_TonarinoTotoro_406",
         "deck_name": "My Neighbor Totoro",
         "sentence": "七国山の病院か？　大人の足でも３時間かかるわ。　見て来る！",
+        "sentence_with_furigana": "七国山[ななくにやま]の 病院[びょういん]か？　 大人[おとな]の 足[あし]でも３ 時間[じかん]かかるわ。　 見[み]て 来[く]る！",
         "word_base_list": [
             "七国",
             "山",
@@ -13811,6 +14216,7 @@
         "id": "A_TonarinoTotoro_407",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(カンタ)！　早く　とうちゃん呼んで来い！　(メイ)ちゃんが　いなくなっちゃたんだ！",
+        "sentence_with_furigana": "(カンタ)！　 早[はや]く　とうちゃん 呼[よ]んで 来[こ]い！　(メイ)ちゃんが　いなくなっちゃたんだ！",
         "word_base_list": [
             "（",
             "カンタ",
@@ -13877,6 +14283,7 @@
         "id": "A_TonarinoTotoro_409",
         "deck_name": "My Neighbor Totoro",
         "sentence": "すいません！　おじさん　あの…。",
+        "sentence_with_furigana": "すいません！　おじさん　あの…。",
         "word_base_list": [
             "すむ",
             "ます",
@@ -13915,6 +14322,7 @@
         "id": "A_TonarinoTotoro_410",
         "deck_name": "My Neighbor Totoro",
         "sentence": "この道を小さな女の子が　通らなかったですか？",
+        "sentence_with_furigana": "この 道[みち]を 小[ちい]さな 女の子[おんなのこ]が　 通[とお]らなかったですか？",
         "word_base_list": [
             "此の",
             "道",
@@ -13953,6 +14361,7 @@
         "id": "A_TonarinoTotoro_411",
         "deck_name": "My Neighbor Totoro",
         "sentence": "私の妹なの。　さてねぇ　女の子…。　見たら気がついただろうけどな。",
+        "sentence_with_furigana": "私[わたし]の 妹[いもうと]なの。　さてねぇ　 女の子[おんなのこ]…。　 見[み]たら 気[き]がついただろうけどな。",
         "word_base_list": [
             "私",
             "の",
@@ -14017,6 +14426,7 @@
         "id": "A_TonarinoTotoro_412",
         "deck_name": "My Neighbor Totoro",
         "sentence": "こっちじゃないのかしら…。",
+        "sentence_with_furigana": "こっちじゃないのかしら…。",
         "word_base_list": [
             "此方",
             "だ",
@@ -14047,6 +14457,7 @@
         "id": "A_TonarinoTotoro_413",
         "deck_name": "My Neighbor Totoro",
         "sentence": "確かに　こっちへ来たのかい？",
+        "sentence_with_furigana": "確[たし]かに　こっちへ 来[き]たのかい？",
         "word_base_list": [
             "確か",
             "だ",
@@ -14081,6 +14492,7 @@
         "id": "A_TonarinoTotoro_414",
         "deck_name": "My Neighbor Totoro",
         "sentence": "分からないの。",
+        "sentence_with_furigana": "分[わ]からないの。",
         "word_base_list": [
             "分かる",
             "ない",
@@ -14101,6 +14513,7 @@
         "id": "A_TonarinoTotoro_415",
         "deck_name": "My Neighbor Totoro",
         "sentence": "止まってください！",
+        "sentence_with_furigana": "止[と]まってください！",
         "word_base_list": [
             "止まる",
             "て",
@@ -14121,6 +14534,7 @@
         "id": "A_TonarinoTotoro_416",
         "deck_name": "My Neighbor Totoro",
         "sentence": "バッカヤロ！　危ねぇ…。",
+        "sentence_with_furigana": "バッカヤロ！　 危[き]ねぇ…。",
         "word_base_list": [
             "バッカヤロ",
             "！",
@@ -14149,6 +14563,7 @@
         "id": "A_TonarinoTotoro_417",
         "deck_name": "My Neighbor Totoro",
         "sentence": "妹を捜してるんです！　女の子　見ませんでしたか？",
+        "sentence_with_furigana": "妹[いもうと]を 捜[さが]してるんです！　 女の子[おんなのこ]　 見[み]ませんでしたか？",
         "word_base_list": [
             "妹",
             "を",
@@ -14195,6 +14610,7 @@
         "id": "A_TonarinoTotoro_418",
         "deck_name": "My Neighbor Totoro",
         "sentence": "妹さん？",
+        "sentence_with_furigana": "妹[いもうと]さん？",
         "word_base_list": [
             "妹",
             "さん",
@@ -14213,6 +14629,7 @@
         "id": "A_TonarinoTotoro_419",
         "deck_name": "My Neighbor Totoro",
         "sentence": "七国山病院へ行ったらしいの　４歳の女の子です。",
+        "sentence_with_furigana": "七国山[ななくにやま] 病院[びょういん]へ 行[い]ったらしいの　４ 歳[さい]の 女の子[おんなのこ]です。",
         "word_base_list": [
             "七国",
             "山",
@@ -14255,6 +14672,7 @@
         "id": "A_TonarinoTotoro_420",
         "deck_name": "My Neighbor Totoro",
         "sentence": "良子ちゃん　気がついた？　ううん。",
+        "sentence_with_furigana": "良子[りょうこ]ちゃん　 気[き]がついた？　ううん。",
         "word_base_list": [
             "良子",
             "ちゃん",
@@ -14289,6 +14707,7 @@
         "id": "A_TonarinoTotoro_421",
         "deck_name": "My Neighbor Totoro",
         "sentence": "私達ね　七国山から来たの。　けど　そういう子は　見なかったわよ。",
+        "sentence_with_furigana": "私[わたし] 達[たち]ね　 七国山[ななくにやま]から 来[き]たの。　けど　そういう 子[こ]は　 見[み]なかったわよ。",
         "word_base_list": [
             "私",
             "達",
@@ -14351,6 +14770,7 @@
         "id": "A_TonarinoTotoro_422",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そう…　ありがとう。",
+        "sentence_with_furigana": "そう…　ありがとう。",
         "word_base_list": [
             "そう",
             ".",
@@ -14377,6 +14797,7 @@
         "id": "A_TonarinoTotoro_423",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お前どこから来たの？　(松郷)です。",
+        "sentence_with_furigana": "お 前[まえ]どこから 来[き]たの？　 (松郷)[まつごう]です。",
         "word_base_list": [
             "御前",
             "どこ",
@@ -14415,6 +14836,7 @@
         "id": "A_TonarinoTotoro_424",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(松郷)!?　何かの間違いじゃない？",
+        "sentence_with_furigana": "(松郷)[まつごう]!?　 何[なに]かの 間違[まちが]いじゃない？",
         "word_base_list": [
             "（",
             "松郷",
@@ -14453,6 +14875,7 @@
         "id": "A_TonarinoTotoro_425",
         "deck_name": "My Neighbor Totoro",
         "sentence": "じゃあな。",
+        "sentence_with_furigana": "じゃあな。",
         "word_base_list": [
             "で",
             "な",
@@ -14471,6 +14894,7 @@
         "id": "A_TonarinoTotoro_426",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いた？　ダメだ　こっちも？",
+        "sentence_with_furigana": "いた？　ダメだ　こっちも？",
         "word_base_list": [
             "居る",
             "た",
@@ -14503,6 +14927,7 @@
         "id": "A_TonarinoTotoro_427",
         "deck_name": "My Neighbor Totoro",
         "sentence": "うん。　今　父ちゃん達が捜してる。　俺　代わりに七国山へ　行ってやるから　お前は家に戻れ。",
+        "sentence_with_furigana": "うん。　 今[いま]　 父[とう]ちゃん 達[たち]が 捜[さが]してる。　 俺[おれ]　 代[か]わりに 七国山[ななくにやま]へ　 行[おこな]ってやるから　お 前[まえ]は 家[うち]に 戻[もど]れ。",
         "word_base_list": [
             "うん",
             "。",
@@ -14577,6 +15002,7 @@
         "id": "A_TonarinoTotoro_428",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)は病院へ行こうとして　途中で道を間違えたのよ　きっと。",
+        "sentence_with_furigana": "(メイ)は 病院[びょういん]へ 行[い]こうとして　 途中[とちゅう]で 道[みち]を 間違[まちが]えたのよ　きっと。",
         "word_base_list": [
             "（",
             "メイ",
@@ -14633,6 +15059,7 @@
         "id": "A_TonarinoTotoro_429",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さっき　神池で　サンダルが見つかったんだ。",
+        "sentence_with_furigana": "さっき　 神池[かみいけ]で　サンダルが 見[み]つかったんだ。",
         "word_base_list": [
             "さっき",
             " ",
@@ -14669,6 +15096,7 @@
         "id": "A_TonarinoTotoro_430",
         "deck_name": "My Neighbor Totoro",
         "sentence": "まだ(メイ)のものって　決まってないぞ！",
+        "sentence_with_furigana": "まだ(メイ)のものって　 決[き]まってないぞ！",
         "word_base_list": [
             "未だ",
             "（",
@@ -14707,6 +15135,7 @@
         "id": "A_TonarinoTotoro_431",
         "deck_name": "My Neighbor Totoro",
         "sentence": "見つかったかい？",
+        "sentence_with_furigana": "見[み]つかったかい？",
         "word_base_list": [
             "見付かる",
             "た",
@@ -14729,6 +15158,7 @@
         "id": "A_TonarinoTotoro_432",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ナンマンダブ　ナンマンダブ　ナンマンダブ　ナンマンダブ…。",
+        "sentence_with_furigana": "ナンマンダブ　ナンマンダブ　ナンマンダブ　ナンマンダブ…。",
         "word_base_list": [
             "南無阿弥陀仏",
             " ",
@@ -14763,6 +15193,7 @@
         "id": "A_TonarinoTotoro_433",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そっちのほうは泥が深いから　その先！",
+        "sentence_with_furigana": "そっちのほうは 泥[どろ]が 深[ふか]いから　その 先[さき]！",
         "word_base_list": [
             "其方",
             "の",
@@ -14799,6 +15230,7 @@
         "id": "A_TonarinoTotoro_434",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おい　サオ余ってないか！",
+        "sentence_with_furigana": "おい　サオ 余[あま]ってないか！",
         "word_base_list": [
             "おい",
             " ",
@@ -14827,6 +15259,7 @@
         "id": "A_TonarinoTotoro_435",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ばあちゃん　(サツキ)ちゃんが来た！　えっ！",
+        "sentence_with_furigana": "ばあちゃん　(サツキ)ちゃんが 来[き]た！　えっ！",
         "word_base_list": [
             "婆",
             "ちゃん",
@@ -14867,6 +15300,7 @@
         "id": "A_TonarinoTotoro_436",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おばあちゃん！",
+        "sentence_with_furigana": "おばあちゃん！",
         "word_base_list": [
             "御",
             "婆",
@@ -14887,6 +15321,7 @@
         "id": "A_TonarinoTotoro_437",
         "deck_name": "My Neighbor Totoro",
         "sentence": "これ…　これだよぉ。",
+        "sentence_with_furigana": "これ…　これだよぉ。",
         "word_base_list": [
             "此れ",
             ".",
@@ -14917,6 +15352,7 @@
         "id": "A_TonarinoTotoro_438",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)んじゃ　ない。",
+        "sentence_with_furigana": "(メイ)んじゃ　ない。",
         "word_base_list": [
             "（",
             "メイ",
@@ -14945,6 +15381,7 @@
         "id": "A_TonarinoTotoro_439",
         "deck_name": "My Neighbor Totoro",
         "sentence": "よかったよぉ　わたしゃ　てっきり　(メイ)ちゃんのかと思って…。",
+        "sentence_with_furigana": "よかったよぉ　わたしゃ　てっきり　(メイ)ちゃんのかと 思[おも]って…。",
         "word_base_list": [
             "良い",
             "た",
@@ -14999,6 +15436,7 @@
         "id": "A_TonarinoTotoro_440",
         "deck_name": "My Neighbor Totoro",
         "sentence": "何だ　ばあちゃんの早トチリかよ。",
+        "sentence_with_furigana": "何[なん]だ　ばあちゃんの 早[はや]トチリかよ。",
         "word_base_list": [
             "何",
             "だ",
@@ -15031,6 +15469,7 @@
         "id": "A_TonarinoTotoro_441",
         "deck_name": "My Neighbor Totoro",
         "sentence": "おい　間違いだとよ！",
+        "sentence_with_furigana": "おい　 間違[まちが]いだとよ！",
         "word_base_list": [
             "おい",
             " ",
@@ -15057,6 +15496,7 @@
         "id": "A_TonarinoTotoro_442",
         "deck_name": "My Neighbor Totoro",
         "sentence": "じゃあ　どこ行ったんだろう？　もういっぺん捜し直しだな",
+        "sentence_with_furigana": "じゃあ　どこ 行[おこな]ったんだろう？　もういっぺん 捜[さが]し 直[なお]しだな",
         "word_base_list": [
             "で",
             " ",
@@ -15099,6 +15539,7 @@
         "id": "A_TonarinoTotoro_443",
         "deck_name": "My Neighbor Totoro",
         "sentence": "早くしないと暗くなるよ",
+        "sentence_with_furigana": "早[はや]くしないと 暗[くら]くなるよ",
         "word_base_list": [
             "早い",
             "為る",
@@ -15125,6 +15566,7 @@
         "id": "A_TonarinoTotoro_444",
         "deck_name": "My Neighbor Totoro",
         "sentence": "すまねえな　みんな　ご苦労でも　手分けして頼むよ",
+        "sentence_with_furigana": "すまねえな　みんな　ご 苦労[くろう]でも　 手分[てわ]けして 頼[たの]むよ",
         "word_base_list": [
             "すむ",
             "ない",
@@ -15169,6 +15611,7 @@
         "id": "A_TonarinoTotoro_445",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いや　お互いさまだから",
+        "sentence_with_furigana": "いや　お 互[たが]いさまだから",
         "word_base_list": [
             "否",
             " ",
@@ -15195,6 +15638,7 @@
         "id": "A_TonarinoTotoro_446",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お願い！　(トトロ)の所へ通して　(メイ)が迷子になっちゃったの。",
+        "sentence_with_furigana": "お 願[ねが]い！　(トトロ)の 所[ところ]へ 通[とお]して　(メイ)が 迷子[まいご]になっちゃったの。",
         "word_base_list": [
             "御",
             "願い",
@@ -15255,6 +15699,7 @@
         "id": "A_TonarinoTotoro_447",
         "deck_name": "My Neighbor Totoro",
         "sentence": "もうじき暗くなるのに　あの子　どこかで道に迷ってるの。",
+        "sentence_with_furigana": "もうじき 暗[くら]くなるのに　あの 子[こ]　どこかで 道[みち]に 迷[まよ]ってるの。",
         "word_base_list": [
             "もう",
             "直",
@@ -15305,6 +15750,7 @@
         "id": "A_TonarinoTotoro_448",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(トトロ)！　(メイ)が迷子になっちゃったの　捜したけど見つからないの。",
+        "sentence_with_furigana": "(トトロ)！　(メイ)が 迷子[まいご]になっちゃったの　 捜[さが]したけど 見[み]つからないの。",
         "word_base_list": [
             "（",
             "トトロ",
@@ -15363,6 +15809,7 @@
         "id": "A_TonarinoTotoro_449",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お願い　(メイ)を捜して。　今頃　きっと　どこかで泣いてるわ。",
+        "sentence_with_furigana": "お 願[ねが]い　(メイ)を 捜[さが]して。　 今頃[いまごろ]　きっと　どこかで 泣[な]いてるわ。",
         "word_base_list": [
             "御",
             "願い",
@@ -15419,6 +15866,7 @@
         "id": "A_TonarinoTotoro_450",
         "deck_name": "My Neighbor Totoro",
         "sentence": "どうしたらいいか分からないの！",
+        "sentence_with_furigana": "どうしたらいいか 分[わ]からないの！",
         "word_base_list": [
             "どう",
             "為る",
@@ -15449,6 +15897,7 @@
         "id": "A_TonarinoTotoro_451",
         "deck_name": "My Neighbor Totoro",
         "sentence": "みんなには見えないんだわ。",
+        "sentence_with_furigana": "みんなには 見[み]えないんだわ。",
         "word_base_list": [
             "皆",
             "に",
@@ -15479,6 +15928,7 @@
         "id": "A_TonarinoTotoro_452",
         "deck_name": "My Neighbor Totoro",
         "sentence": "木が　よけてる！",
+        "sentence_with_furigana": "木[き]が　よけてる！",
         "word_base_list": [
             "木",
             "が",
@@ -15503,6 +15953,7 @@
         "id": "A_TonarinoTotoro_453",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お姉ちゃん！",
+        "sentence_with_furigana": "お 姉[ねえ]ちゃん！",
         "word_base_list": [
             "御",
             "姉ちゃん",
@@ -15521,6 +15972,7 @@
         "id": "A_TonarinoTotoro_454",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)！　お姉ちゃん!!",
+        "sentence_with_furigana": "(メイ)！　お 姉[ねえ]ちゃん!!",
         "word_base_list": [
             "（",
             "メイ",
@@ -15551,6 +16003,7 @@
         "id": "A_TonarinoTotoro_455",
         "deck_name": "My Neighbor Totoro",
         "sentence": "バカ　(メイ)。　ごめんなさい！",
+        "sentence_with_furigana": "バカ　(メイ)。　ごめんなさい！",
         "word_base_list": [
             "ばか",
             " ",
@@ -15583,6 +16036,7 @@
         "id": "A_TonarinoTotoro_456",
         "deck_name": "My Neighbor Totoro",
         "sentence": "トウモロコシを　お母さんに届ける気だったの？",
+        "sentence_with_furigana": "トウモロコシを　お 母[かあ]さんに 届[とど]ける 気[き]だったの？",
         "word_base_list": [
             "玉蜀黍",
             "を",
@@ -15619,6 +16073,7 @@
         "id": "A_TonarinoTotoro_457",
         "deck_name": "My Neighbor Totoro",
         "sentence": "病院へ行ってくれるの!?",
+        "sentence_with_furigana": "病院[びょういん]へ 行[い]ってくれるの!?",
         "word_base_list": [
             "病院",
             "へ",
@@ -15647,6 +16102,7 @@
         "id": "A_TonarinoTotoro_458",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ありがとう！！　うわ。",
+        "sentence_with_furigana": "ありがとう！！　うわ。",
         "word_base_list": [
             "有り難う",
             "！",
@@ -15671,6 +16127,7 @@
         "id": "A_TonarinoTotoro_459",
         "deck_name": "My Neighbor Totoro",
         "sentence": "ごめんなさい　ただの風邪なのに　病院が電報を打ったりしたから。",
+        "sentence_with_furigana": "ごめんなさい　ただの 風邪[かぜ]なのに　 病院[びょういん]が 電報[でんぽう]を 打[う]ったりしたから。",
         "word_base_list": [
             "御免",
             "為す",
@@ -15723,6 +16180,7 @@
         "id": "A_TonarinoTotoro_460",
         "deck_name": "My Neighbor Totoro",
         "sentence": "子供達　きっと心配してるわね　かわいそうなことしちゃった。",
+        "sentence_with_furigana": "子供達[こどもたち]　きっと 心配[しんぱい]してるわね　かわいそうなことしちゃった。",
         "word_base_list": [
             "子供",
             "達",
@@ -15769,6 +16227,7 @@
         "id": "A_TonarinoTotoro_461",
         "deck_name": "My Neighbor Totoro",
         "sentence": "いや　分かれば安心するさ。",
+        "sentence_with_furigana": "いや　 分[わ]かれば 安心[あんしん]するさ。",
         "word_base_list": [
             "否",
             " ",
@@ -15797,6 +16256,7 @@
         "id": "A_TonarinoTotoro_462",
         "deck_name": "My Neighbor Totoro",
         "sentence": "君も　みんなも　これまで　よく頑張って来たんだもの。　楽しみが　ちょっと延びるだけだよ。",
+        "sentence_with_furigana": "君[きみ]も　みんなも　これまで　よく 頑張[がんば]って 来[き]たんだもの。　 楽[たの]しみが　ちょっと 延[の]びるだけだよ。",
         "word_base_list": [
             "君",
             "も",
@@ -15867,6 +16327,7 @@
         "id": "A_TonarinoTotoro_463",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あの子達　見かけより　ずっと無理して来たと思うの。",
+        "sentence_with_furigana": "あの 子[こ] 達[たち]　 見[み]かけより　ずっと 無理[むり]して 来[き]たと 思[おも]うの。",
         "word_base_list": [
             "彼の",
             "子",
@@ -15913,6 +16374,7 @@
         "id": "A_TonarinoTotoro_464",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(サツキ)なんか聞き分けがいいから　なおのこと　かわいそう。",
+        "sentence_with_furigana": "(サツキ)なんか 聞き分[ききわ]けがいいから　なおのこと　かわいそう。",
         "word_base_list": [
             "（",
             "五月",
@@ -15955,6 +16417,7 @@
         "id": "A_TonarinoTotoro_465",
         "deck_name": "My Neighbor Totoro",
         "sentence": "そうだね。",
+        "sentence_with_furigana": "そうだね。",
         "word_base_list": [
             "そう",
             "だ",
@@ -15975,6 +16438,7 @@
         "id": "A_TonarinoTotoro_466",
         "deck_name": "My Neighbor Totoro",
         "sentence": "退院したら　今度は　あの子達に　うんと　わがままを　させてあげるつもりよ。　オイオイ…。",
+        "sentence_with_furigana": "退院[たいいん]したら　 今度[こんど]は　あの 子[こ] 達[たち]に　うんと　わがままを　させてあげるつもりよ。　オイオイ…。",
         "word_base_list": [
             "退院",
             "為る",
@@ -16049,6 +16513,7 @@
         "id": "A_TonarinoTotoro_467",
         "deck_name": "My Neighbor Totoro",
         "sentence": "お母さん笑ってるよ。",
+        "sentence_with_furigana": "お 母[かあ]さん 笑[わら]ってるよ。",
         "word_base_list": [
             "御",
             "母さん",
@@ -16073,6 +16538,7 @@
         "id": "A_TonarinoTotoro_468",
         "deck_name": "My Neighbor Totoro",
         "sentence": "大丈夫みたいだね。　うん。",
+        "sentence_with_furigana": "大丈夫[だいじょうぶ]みたいだね。　うん。",
         "word_base_list": [
             "大丈夫",
             "みたい",
@@ -16101,6 +16567,7 @@
         "id": "A_TonarinoTotoro_469",
         "deck_name": "My Neighbor Totoro",
         "sentence": "さあ　早く元気に　ならなくっちゃね。　ああ。",
+        "sentence_with_furigana": "さあ　 早[はや]く 元気[げんき]に　ならなくっちゃね。　ああ。",
         "word_base_list": [
             "さあ",
             " ",
@@ -16141,6 +16608,7 @@
         "id": "A_TonarinoTotoro_470",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あれ？",
+        "sentence_with_furigana": "あれ？",
         "word_base_list": [
             "あれ",
             "？"
@@ -16157,6 +16625,7 @@
         "id": "A_TonarinoTotoro_471",
         "deck_name": "My Neighbor Totoro",
         "sentence": "誰だろう？",
+        "sentence_with_furigana": "誰[だれ]だろう？",
         "word_base_list": [
             "誰",
             "だ",
@@ -16175,6 +16644,7 @@
         "id": "A_TonarinoTotoro_472",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あっ？　どうしたの？",
+        "sentence_with_furigana": "あっ？　どうしたの？",
         "word_base_list": [
             "あっ",
             "？",
@@ -16203,6 +16673,7 @@
         "id": "A_TonarinoTotoro_473",
         "deck_name": "My Neighbor Totoro",
         "sentence": "今　そこの松の木で　(サツキ)と(メイ)が　笑ったように見えたの。",
+        "sentence_with_furigana": "今[いま]　そこの 松の木[まつのき]で　(サツキ)と(メイ)が　 笑[わら]ったように 見[み]えたの。",
         "word_base_list": [
             "今",
             " ",
@@ -16267,6 +16738,7 @@
         "id": "A_TonarinoTotoro_474",
         "deck_name": "My Neighbor Totoro",
         "sentence": "案外そうかもしれないよ　ホラ。",
+        "sentence_with_furigana": "案外[あんがい]そうかもしれないよ　ホラ。",
         "word_base_list": [
             "案外",
             "そう",
@@ -16299,6 +16771,7 @@
         "id": "A_TonarinoTotoro_253",
         "deck_name": "My Neighbor Totoro",
         "sentence": "あの　妹が…。",
+        "sentence_with_furigana": "あの　 妹[いもうと]が…。",
         "word_base_list": [
             "彼の",
             " ",
@@ -16327,6 +16800,7 @@
         "id": "A_TonarinoTotoro_408",
         "deck_name": "My Neighbor Totoro",
         "sentence": "(メイ)のバカ…　すぐ迷子になるくせに。",
+        "sentence_with_furigana": "(メイ)のバカ…　すぐ 迷子[まいご]になるくせに。",
         "word_base_list": [
             "（",
             "メイ",

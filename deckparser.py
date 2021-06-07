@@ -4,12 +4,13 @@ import os
 from pathlib import Path
 from sudachipy import tokenizer
 from sudachipy import dictionary
+import re
 
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
 bundle_path = os.path.dirname(os.path.abspath(__file__))
-EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime', 'Studio Ghibli')
+EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
 
 def getDeckStructure(folder_name):
     file = Path(EXAMPLE_PATH, folder_name, 'deck-structure.json')
@@ -36,6 +37,7 @@ def parseDeck(folder_name):
                 'id': note['fields'][deck_structure['id-column']],
                 'deck_name': deck_name,
                 'sentence': text,
+                'sentence_with_furigana': note['fields'][deck_structure['text-with-furigana-column']],
                 'word_base_list': word_base_list,
                 'word_list': word_list,
                 'translation': note['fields'][deck_structure['translation-column']],
@@ -47,15 +49,13 @@ def parseDeck(folder_name):
     with open(Path(EXAMPLE_PATH, folder_name, 'data.json'), 'w', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
-parseDeck('Spirited Away')
+category = "Slice Of Life"
+deck = "K-On!" 
+parseDeck("{}/{}".format(category, deck))
 
 # def get_base_form(word):
 #     print([m.normalized_form() for m in tokenizer_obj.tokenize(word, mode)])
 #     return tokenizer_obj.tokenize(word, mode)[0].dictionary_form()
 #     word_base_list = [m.surface() for m in tokenizer_obj.tokenize(word, mode)]
 #     return word_base_list[0]
-
-# a = get_base_form("それとも")
-# print(a)
-
 
