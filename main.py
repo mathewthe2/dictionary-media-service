@@ -11,10 +11,13 @@ def index(name):
 @route('/look_up_dictionary')
 def look_up_dictionary():
     keyword = request.query.get('keyword')
+    category = request.query.get('category')
     if keyword is None:
         return 'No keyword specified.'
     else:
-        return look_up(request.query.keyword[:50])
+        return look_up(
+            text=request.query.keyword[:50], 
+            category_name= '' if category is None else request.query.category)
 
 @route('/anime/<filepath:path>')
 def server_static(filepath):

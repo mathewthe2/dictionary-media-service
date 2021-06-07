@@ -31,10 +31,11 @@ def parse(text):
     word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
     return word_base_list
 
-def look_up(text, category_name='Studio Ghibli'):
+def look_up(text, category_name='Slice Of Life'):
     text = text.replace(" ", "") 
     word_bases = parse(text)
     words = [word for word in word_bases if word in dictionary_map]
+    print('category name', category_name)
     example_map = category_map[category_name]
     result = [
         {
@@ -91,6 +92,9 @@ def load_example_by_path(example_path, output_map, category_name):
         if sentence is not None:
             words = example['word_base_list']
             for (index, word) in enumerate(words):
+                is_repeat = words.index(word) != index
+                if is_repeat:
+                    continue
                 if (word not in dictionary_map) or word in '？?!.。,()（）':
                     continue
                 custom_example = example
@@ -132,5 +136,6 @@ def load_examples(category_name):
         category_map[category_name] = load_example_by_path(deck_folder, category_map[category_name], category_name)
 
 load_dictionary('jmdict_english')
+load_examples('Slice Of Life')
 load_examples('Studio Ghibli')
 # print(look_up('ゆめ'))

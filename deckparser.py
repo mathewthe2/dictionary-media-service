@@ -9,7 +9,7 @@ tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
 bundle_path = os.path.dirname(os.path.abspath(__file__))
-EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
+EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime', 'Studio Ghibli')
 
 def getDeckStructure(folder_name):
     file = Path(EXAMPLE_PATH, folder_name, 'deck-structure.json')
@@ -47,7 +47,7 @@ def parseDeck(folder_name):
     with open(Path(EXAMPLE_PATH, folder_name, 'data.json'), 'w', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
-parseDeck('Anime - Spirited Away')
+parseDeck('Spirited Away')
 
 # def get_base_form(word):
 #     print([m.normalized_form() for m in tokenizer_obj.tokenize(word, mode)])
