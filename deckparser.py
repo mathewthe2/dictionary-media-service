@@ -8,14 +8,14 @@ from config import EXAMPLE_PATH
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
-def getDeckStructure(filename):
+def get_deck_structure(filename):
     file = Path(EXAMPLE_PATH, filename, 'deck-structure.json')
     with open(file, encoding='utf-8') as f:
         data = json.load(f)
         return data
 
-def parseDeck(filename):
-    deck_structure = getDeckStructure(filename)
+def parse_deck(filename):
+    deck_structure = get_deck_structure(filename)
     file = Path(EXAMPLE_PATH, filename, 'deck.json')
     examples = []
     with open(file, encoding='utf-8') as f:
