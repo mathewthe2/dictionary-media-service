@@ -54,30 +54,3 @@ def parseDeck(filename):
     with open(Path(EXAMPLE_PATH, filename, 'data.json'), 'w+', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
-# tagMap = {}
-
-# def loadTags():
-#     global tagMap
-#     deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
-#     for deck_folder in deck_folders:
-#         deck_name = Path(deck_folder).name
-#         tags = getDeckTags(deck_folder)
-#         for tag in tags:
-#             if tag not in tagMap:
-#                 tagMap[tag] = set()
-#             tagMap[tag].add(deck_name)
-
-# def getDeckTags(filename):
-#     file = Path(EXAMPLE_PATH, filename, 'tags.json')
-#     with open(file, encoding='utf-8') as f:
-#         data = json.load(f)
-#         return data
-
-tagger = Tagger()
-tagger.load_tags()
-tags = ['Slice Of Life', 'Kyoto Animation']
-print(tagger.get_decks_by_tags(tags))
-# deck = "K-On!" 
-# parseDeck("{}/{}".format(category, deck))
-# a = getDeckTags(deck)
-# print(a)
