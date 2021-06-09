@@ -1,14 +1,10 @@
-from json import decoder
 import json
-import os
 import re
 import string
 import zipfile
 from pathlib import Path
 from glob import glob
-from bottle import abort, request
-from socket import gethostname, gethostbyname 
-from englishtokenizer import analyze, STOPWORDS
+from englishtokenizer import analyze
 from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, CATEGORY_LIMIT
 from tagger import Tagger
 
@@ -196,7 +192,7 @@ def load_examples():
 
 load_dictionary('jmdict_english')
 load_examples()
-print('finished loading')
-a = look_up('love', tags=["Music"])['data'][0]['examples']
-print(a)
-print(len(a))
+# print('finished loading')
+# a = look_up('love', tags=["Music"])['data'][0]['examples']
+# print(a)
+# print(len(a))
