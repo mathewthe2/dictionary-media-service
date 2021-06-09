@@ -3,12 +3,19 @@
 Provides full-text search for Japanese and English text in Anki decks.
 
 ## Develop
+
 ```bash
 python -m venv .env
 source .env/bin/activate
 pip install -u pip setuptools wheel
 pip install -r requirements.txt
 python -m spacy download en
+```
+
+## Run
+
+```bash
+python main.py
 ```
 
 ## Add a Deck
