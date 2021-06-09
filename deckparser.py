@@ -1,12 +1,9 @@
 import json
-import os
 from pathlib import Path
 from englishtokenizer import analyze
-from glob import glob
 from sudachipy import tokenizer
 from sudachipy import dictionary
 from config import EXAMPLE_PATH
-from tagger import Tagger
 
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
@@ -19,7 +16,7 @@ def getDeckStructure(filename):
 
 def parseDeck(filename):
     deck_structure = getDeckStructure(filename)
-    file = Path(EXAMPLE_PATH, category, deck, 'deck.json')
+    file = Path(EXAMPLE_PATH, filename, 'deck.json')
     examples = []
     with open(file, encoding='utf-8') as f:
         data = json.load(f)
