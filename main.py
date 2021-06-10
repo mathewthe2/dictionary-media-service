@@ -15,9 +15,11 @@ def look_up_dictionary():
         return 'No keyword specified.'
     else:
         tags = request.query.get('tags')
+        has_jlpt = request.query.get('jlpt') is not None and request.query.get('jlpt') != ''
+        has_wk = request.query.get('wk') is not None and request.query.get('wk') != ''
         user_levels = {
-            'JLPT': None if request.query.get('jlpt') is None else request.query.jlpt,
-            'WK': None if request.query.get('wk') is None else request.query.wk
+            'JLPT': None if not has_jlpt else int(request.query.jlpt),
+            'WK': None if not has_wk else int(request.query.wk)
         }
         return look_up(
             text=request.query.keyword[:50], 

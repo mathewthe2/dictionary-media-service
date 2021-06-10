@@ -173,17 +173,3 @@ def load_examples():
 
 load_dictionary('JMdict+')
 load_examples()
-# b_levels = {
-#     'JLPT': 3,
-#     'WK': None
-# }
-# c_levels = {
-#     'JLPT': None,
-#     'WK': 15
-# }
-# no_level = look_up('です', tags=[], user_levels={})['data'][0]['examples']
-# print('no_level', len(no_level), 'sentences')
-# jlpt_3 = look_up('です', tags=[], user_levels=b_levels)['data'][0]['examples']
-# print('jlpt_3', len(jlpt_3), 'sentences')
-# wk_15 = look_up('です', tags=[], user_levels=c_levels)['data'][0]['examples']
-# print('wk_15', len(wk_15), 'sentences')

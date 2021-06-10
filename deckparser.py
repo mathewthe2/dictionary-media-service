@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from glob import glob
 from englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
@@ -51,3 +52,7 @@ def parse_deck(filename):
     with open(Path(EXAMPLE_PATH, filename, 'data.json'), 'w+', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
+def parse_all_decks():
+    deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
+    for deck_folder in deck_folders:
+        parse_deck(Path(deck_folder).name)
