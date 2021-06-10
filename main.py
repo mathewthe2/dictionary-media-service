@@ -11,13 +11,18 @@ def index(name):
 @route('/look_up_dictionary')
 def look_up_dictionary():
     keyword = request.query.get('keyword')
-    tags = request.query.get('tags')
     if keyword is None:
         return 'No keyword specified.'
     else:
+        tags = request.query.get('tags')
+        user_levels = {
+            'JLPT': None if request.query.get('jlpt') is None else request.query.jlpt,
+            'WK': None if request.query.get('wk') is None else request.query.wk
+        }
         return look_up(
             text=request.query.keyword[:50], 
-            tags = [] if tags is None else request.query.tags.split(','))
+            tags = [] if tags is None else request.query.tags.split(','),
+            user_levels=user_levels)
 
 @route('/anime/<filepath:path>')
 def server_static(filepath):

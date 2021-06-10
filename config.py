@@ -7,3 +7,4 @@ EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
 MEDIA_FILE_HOST = 'https://dictionary-media.netlify.app/media'
 EXAMPLE_LIMIT = 20
 RESULTS_LIMIT = 500
+NEW_WORDS_TO_USER_PER_SENTENCE = 1

@@ -1,4 +1,5 @@
 import json
+from logging import basicConfig
 import re
 import string
 import zipfile
@@ -6,8 +7,9 @@ from pathlib import Path
 from glob import glob
 from englishtokenizer import analyze_english
 from japanesetokenizer import analyze_japanese
-from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT
+from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
+from dictionarytags import get_level, word_is_within_difficulty
 
 example_map = {} # id to example
 dictionary_map = {} # word to definition
@@ -20,11 +22,12 @@ tagger.load_tags()
 def is_alphaneumeric(text):
     return re.search('[a-zA-Z]', text) is not None
 
-def get_examples(is_english, words_map, word_bases, tags=[]):
+def get_examples(is_english, words_map, word_bases, tags=[], user_levels={}):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
         examples = [example_map[example_id] for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
+        examples = filter_examples_by_level(user_levels, examples)
         examples = limit_examples(examples)
         examples = parse_examples(examples, is_english, word_bases)
         return examples
@@ -37,7 +40,8 @@ def parse_dictionary_entries(entries):
         'reading': entry[1],
         'tags': entry[2],
         'glossary_list': entry[5],
-        'sequence': entry[6]
+        'sequence': entry[6],
+        'tags': entry[7]
     } for entry in entries]
 
 def parse_examples(examples, is_english, word_bases):
@@ -51,12 +55,12 @@ def parse_examples(examples, is_english, word_bases):
             example['word_index'] = [example['word_base_list'].index(word) for word in word_bases]
     return examples
 
-def look_up(text, tags=[]):
+def look_up(text, tags=[], user_levels={}):
     is_english = is_alphaneumeric(text)
     words_map = sentence_map if not is_english else sentence_translation_map
     text = text if is_english else text.replace(" ", "")
     word_bases = analyze_japanese(text)['base_tokens'] if not is_english else analyze_english(text)['base_tokens']
-    examples = get_examples(is_english, words_map, word_bases, tags)
+    examples = get_examples(is_english, words_map, word_bases, tags, user_levels)
     dictionary_words = [] if is_english else [word for word in word_bases if word in dictionary_map]
     result = [{
         'dictionary': [] if not dictionary_words else [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words],
@@ -134,6 +138,22 @@ def filter_examples_by_tags(examples, tags):
     deck_names = tagger.get_decks_by_tags(tags)
     return [example for example in examples if example['deck_name'] in deck_names]
 
+def filter_examples_by_level(user_levels, examples):
+    if not user_levels:
+        return examples
+    new_examples = []
+    for example in examples:
+        new_word_count = 0
+        for word in example['word_base_list']:
+            if word in dictionary_map:
+                first_entry = dictionary_map[word][0]
+                if not word_is_within_difficulty(user_levels, first_entry):
+                    new_word_count += 1
+        if new_word_count <= NEW_WORDS_TO_USER_PER_SENTENCE:
+            new_examples.append(example)
+    return new_examples
+
+
 def limit_examples(examples):
     example_count_map = {}
     new_examples = []
@@ -151,5 +171,19 @@ def load_examples():
     for deck_folder in deck_folders:
         load_example_by_path(deck_folder)
 
-load_dictionary('jmdict_english')
+load_dictionary('JMdict+')
 load_examples()
+# b_levels = {
+#     'JLPT': 3,
+#     'WK': None
+# }
+# c_levels = {
+#     'JLPT': None,
+#     'WK': 15
+# }
+# no_level = look_up('です', tags=[], user_levels={})['data'][0]['examples']
+# print('no_level', len(no_level), 'sentences')
+# jlpt_3 = look_up('です', tags=[], user_levels=b_levels)['data'][0]['examples']
+# print('jlpt_3', len(jlpt_3), 'sentences')
+# wk_15 = look_up('です', tags=[], user_levels=c_levels)['data'][0]['examples']
+# print('wk_15', len(wk_15), 'sentences')
