@@ -6,4 +6,4 @@ DICTIONARY_PATH = Path(bundle_path, 'resources', 'dictionaries')
 EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
 MEDIA_FILE_HOST = 'https://dictionary-media.netlify.app/media'
 EXAMPLE_LIMIT = 20
-CATEGORY_LIMIT = 100
+RESULTS_LIMIT = 500

@@ -4,70 +4,64 @@ import string
 import zipfile
 from pathlib import Path
 from glob import glob
-from englishtokenizer import analyze
-from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, CATEGORY_LIMIT
+from englishtokenizer import analyze_english
+from japanesetokenizer import analyze_japanese
+from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT
 from tagger import Tagger
 
-from sudachipy import tokenizer
-from sudachipy import dictionary
+example_map = {} # id to example
+dictionary_map = {} # word to definition
+sentence_map = {} # word to matching example ids
+sentence_translation_map = {} # English word to matching example ids
 
-example_map = {}
-dictionary_map = {}
-sentence_map = {}
-sentence_translation_map = {}
-number_of_examples_per_category_map = {}
 tagger = Tagger()
 tagger.load_tags()
-
-tokenizer_obj = dictionary.Dictionary().create()
-mode = tokenizer.Tokenizer.SplitMode.A
-
-def get_base_form(word):
-    word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(word, mode)]
-    return word_base_list[0]
-
-def parse(text):
-    word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
-    return word_base_list
 
 def is_alphaneumeric(text):
     return re.search('[a-zA-Z]', text) is not None
 
-def english_look_up(text, tags=[], category_name='Slice Of Life'):
-    word_bases = analyze(text)['base_tokens']
-    results =  [sentence_translation_map.get(token, set()) for token in word_bases]
+def get_examples(is_english, words_map, word_bases, tags=[]):
+    results = [words_map.get(token, set()) for token in word_bases]
     if results:
         examples = [example_map[example_id] for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
         examples = limit_examples(examples)
-        return dict(data=[{
-            'dictionary': [],
-            'examples':examples
-         },])
+        examples = parse_examples(examples, is_english, word_bases)
+        return examples
     else:
         return []
 
+def parse_dictionary_entries(entries):
+    return  [{
+        'headword': entry[0],
+        'reading': entry[1],
+        'tags': entry[2],
+        'glossary_list': entry[5],
+        'sequence': entry[6]
+    } for entry in entries]
 
-def look_up(text, tags=[], category_name='anime'):
-    if (is_alphaneumeric(text)):
-        return english_look_up(text, tags, category_name)
-    text = text.replace(" ", "") 
-    word_bases = parse(text)
-    words = [word for word in word_bases if word in dictionary_map]
-    result = [
-        {
-            'dictionary': 
-            [
-                {
-                'headword': entry[0],
-                'reading': entry[1],
-                'tags': entry[2],
-                'glossary_list': entry[5],
-                'sequence': entry[6]
-                } for entry in dictionary_map[word]
-            ],
-            'examples': [] if word not in sentence_map else sentence_map[word]
-        } for word in words]
+def parse_examples(examples, is_english, word_bases):
+    for example in examples:
+        example['tags'] = tagger.get_tags_by_deck(example['deck_name'])
+        example['word_index'] = []
+        example['translation_word_index'] = []
+        if is_english:
+            example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
+        else:
+            example['word_index'] = [example['word_base_list'].index(word) for word in word_bases]
+    return examples
+
+def look_up(text, tags=[]):
+    is_english = is_alphaneumeric(text)
+    words_map = sentence_map if not is_english else sentence_translation_map
+    text = text if is_english else text.replace(" ", "")
+    word_bases = analyze_japanese(text)['base_tokens'] if not is_english else analyze_english(text)['base_tokens']
+    examples = get_examples(is_english, words_map, word_bases, tags)
+    dictionary_words = [] if is_english else [word for word in word_bases if word in dictionary_map]
+    result = [{
+        'dictionary': [] if not dictionary_words else [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words],
+        'examples': examples
+    }]
     return dict(data=result)
 
 def load_dictionary_by_path(dictionary_path):
@@ -108,45 +102,21 @@ def load_example_by_path(example_path):
     for example in examples:
         example = parse_example(example)
         if 'word_base_list' in example:
-            map_japanese_sentence(example, sentence_map)
+            map_sentence(example['word_base_list'], example['id'], sentence_map)
         if 'translation_word_base_list' in example:
-            map_english_sentence(example, sentence_translation_map)
+            map_sentence(example['translation_word_base_list'], example['id'], sentence_translation_map)
         example_map[example["id"]] = example
 
-def map_japanese_sentence(example, output_map):
-    words = example['word_base_list']
+def map_sentence(words, example_id, output_map):
     for (index, word) in enumerate(words):
         is_repeat = words.index(word) != index
         if is_repeat:
             continue
-        if word in string.punctuation:
+        if word in string.punctuation or word in '！？。、（）':
             continue
-        custom_example = example
-        custom_example['word_index'] = index
-        if (word not in dictionary_map) or word in '？?!.。,()（）':
-            continue
-        custom_example = example
-        custom_example['word_index'] = index
-        if word in output_map:
-            # if (len(output_map[word]) < EXAMPLE_LIMIT):
-            if not has_reached_example_limit_for_category(example['deck_name'], word, output_map):
-                output_map[word].append(dict(custom_example))
-        else:
-            output_map[word] = [dict(custom_example)] 
-
-def map_english_sentence(example, output_map):
-    words = example['translation_word_base_list']
-    for (index, word) in enumerate(words):
-        is_repeat = words.index(word) != index
-        if is_repeat:
-            continue
-        if word in string.punctuation:
-            continue
-        custom_example = example
-        custom_example['translated_word_index'] = index
         if word not in output_map:
             output_map[word] = set()
-        output_map[word].add(custom_example["id"])
+        output_map[word].add(example_id)
 
 def parse_example(example):
     # image
@@ -174,16 +144,7 @@ def limit_examples(examples):
         example_count_map[deck_name] += 1
         if (example_count_map[deck_name] <= EXAMPLE_LIMIT):
             new_examples.append(example)
-    return new_examples
-
-def has_reached_example_limit_for_category(deck_name, word, output_map):
-    if word not in output_map:
-        return False
-    elif len(output_map[word]) > CATEGORY_LIMIT:
-        return False
-    else:
-        words_in_category = [example for example in output_map[word] if example['deck_name'] == deck_name]
-        return len(words_in_category) >= EXAMPLE_LIMIT
+    return new_examples[:RESULTS_LIMIT]
 
 def load_examples():
     deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
@@ -192,7 +153,3 @@ def load_examples():
 
 load_dictionary('jmdict_english')
 load_examples()
-# print('finished loading')
-# a = look_up('love', tags=["Music"])['data'][0]['examples']
-# print(a)
-# print(len(a))

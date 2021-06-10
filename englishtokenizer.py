@@ -9,7 +9,7 @@ STOPWORDS = set(['the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have',
                  'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'you',
                  'do', 'at', 'this', 'but', 'his', 'by', 'from'])
 
-def analyze(text):
+def analyze_english(text):
     # Create a Doc object
     doc = nlp(text)
     

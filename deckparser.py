@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from englishtokenizer import analyze
+from englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
 from config import EXAMPLE_PATH
@@ -29,7 +29,7 @@ def parse_deck(filename):
             word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
             word_list = [m.surface() for m in tokenizer_obj.tokenize(text, mode)]
             translation = note['fields'][deck_structure['translation-column']]
-            translation_tokens = analyze(translation)
+            translation_tokens = analyze_english(translation)
             translation_word_list = translation_tokens['tokens']
             translation_word_base_list = translation_tokens['base_tokens']
             print('parsing note', note['fields'][deck_structure['id-column']])
