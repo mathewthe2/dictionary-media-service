@@ -1,12 +1,11 @@
 import json
-import re
 import string
 import zipfile
 from pathlib import Path
 from glob import glob
 from wanakana import to_hiragana, is_japanese
 from englishtokenizer import analyze_english
-from japanesetokenizer import analyze_japanese, normalize_japanese_word
+from japanesetokenizer import analyze_japanese, KANA_MAPPING
 from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
 from dictionarytags import word_is_within_difficulty
@@ -18,9 +17,6 @@ sentence_translation_map = {} # English word to matching example ids
 
 tagger = Tagger()
 tagger.load_tags()
-
-def is_alphaneumeric(text):
-    return re.search('[a-zA-Z]', text) is not None
 
 def get_examples(text_is_japanese, words_map, word_bases, tags=[], user_levels={}):
     results = [words_map.get(token, set()) for token in word_bases]
@@ -60,13 +56,12 @@ def look_up(text, tags=[], user_levels={}):
         if '"' in text: # force English search
             text = text.split('"')[1]
         else:
-            hiragana_text = to_hiragana(text)
+            hiragana_text = to_hiragana(text, custom_kana_mapping=KANA_MAPPING)
+            hiragana_text = hiragana_text.replace(" ", "") 
             if is_japanese(hiragana_text):
-                word = normalize_japanese_word(hiragana_text)
-                if word in dictionary_map:
-                    text = word
-                    text_is_japanese = True
-    # is_english = is_alphaneumeric(text)
+                text_is_japanese = True
+                text = hiragana_text
+
     words_map = sentence_map if text_is_japanese else sentence_translation_map
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']

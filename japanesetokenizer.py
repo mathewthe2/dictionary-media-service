@@ -4,8 +4,18 @@ from sudachipy import dictionary
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
-def normalize_japanese_word(word):
-    return tokenizer_obj.tokenize(word, mode)[0].normalized_form()
+KANA_MAPPING = {
+    'ca': 'ca',
+    'ci': 'ci',
+    'cu': 'cu',
+    'ce': 'ce',
+    'co': 'co',
+    'la': 'la',
+    'li': 'li',
+    'lu': 'lu',
+    'le': 'le',
+    'lo': 'lo'
+}
 
 def analyze_japanese(text):
     tokens = [m for m in tokenizer_obj.tokenize(text, mode)]
