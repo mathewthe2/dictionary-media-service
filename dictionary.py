@@ -1,15 +1,15 @@
 import json
-from logging import basicConfig
 import re
 import string
 import zipfile
 from pathlib import Path
 from glob import glob
+from wanakana import to_hiragana, is_japanese
 from englishtokenizer import analyze_english
-from japanesetokenizer import analyze_japanese
+from japanesetokenizer import analyze_japanese, normalize_japanese_word
 from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
-from dictionarytags import get_level, word_is_within_difficulty
+from dictionarytags import word_is_within_difficulty
 
 example_map = {} # id to example
 dictionary_map = {} # word to definition
@@ -22,14 +22,14 @@ tagger.load_tags()
 def is_alphaneumeric(text):
     return re.search('[a-zA-Z]', text) is not None
 
-def get_examples(is_english, words_map, word_bases, tags=[], user_levels={}):
+def get_examples(text_is_japanese, words_map, word_bases, tags=[], user_levels={}):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
         examples = [example_map[example_id] for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
         examples = limit_examples(examples)
-        examples = parse_examples(examples, is_english, word_bases)
+        examples = parse_examples(examples, text_is_japanese, word_bases)
         return examples
     else:
         return []
@@ -41,27 +41,37 @@ def parse_dictionary_entries(entries):
         'tags': entry[2],
         'glossary_list': entry[5],
         'sequence': entry[6],
-        'tags': entry[7]
     } for entry in entries]
 
-def parse_examples(examples, is_english, word_bases):
+def parse_examples(examples, text_is_japanese, word_bases):
     for example in examples:
         example['tags'] = tagger.get_tags_by_deck(example['deck_name'])
         example['word_index'] = []
         example['translation_word_index'] = []
-        if is_english:
-            example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
-        else:
+        if text_is_japanese:
             example['word_index'] = [example['word_base_list'].index(word) for word in word_bases]
+        else:
+            example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
     return examples
 
 def look_up(text, tags=[], user_levels={}):
-    is_english = is_alphaneumeric(text)
-    words_map = sentence_map if not is_english else sentence_translation_map
-    text = text if is_english else text.replace(" ", "")
-    word_bases = analyze_japanese(text)['base_tokens'] if not is_english else analyze_english(text)['base_tokens']
-    examples = get_examples(is_english, words_map, word_bases, tags, user_levels)
-    dictionary_words = [] if is_english else [word for word in word_bases if word in dictionary_map]
+    text_is_japanese = is_japanese(text)
+    if not text_is_japanese:
+        if '"' in text: # force English search
+            text = text.split('"')[1]
+        else:
+            hiragana_text = to_hiragana(text)
+            if is_japanese(hiragana_text):
+                word = normalize_japanese_word(hiragana_text)
+                if word in dictionary_map:
+                    text = word
+                    text_is_japanese = True
+    # is_english = is_alphaneumeric(text)
+    words_map = sentence_map if text_is_japanese else sentence_translation_map
+    text = text.replace(" ", "") if text_is_japanese else text
+    word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
+    examples = get_examples(text_is_japanese, words_map, word_bases, tags, user_levels)
+    dictionary_words = [] if not text_is_japanese else [word for word in word_bases if word in dictionary_map]
     result = [{
         'dictionary': [] if not dictionary_words else [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words],
         'examples': examples
@@ -152,7 +162,6 @@ def filter_examples_by_level(user_levels, examples):
         if new_word_count <= NEW_WORDS_TO_USER_PER_SENTENCE:
             new_examples.append(example)
     return new_examples
-
 
 def limit_examples(examples):
     example_count_map = {}

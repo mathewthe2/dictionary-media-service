@@ -3,3 +3,4 @@ bottle-websocket==0.2.9
 spacy==3.0.6
 SudachiDict-core==20201223.post1
 SudachiPy==0.5.2
+wanakana-python==1.2.2
