@@ -66,4 +66,4 @@ def print_deck_statistics():
             data = json.load(f)
             print('{}: {}'.format(Path(deck_folder).name, len(data)))
             total_notes += len(data)
-    print("Total: " + str(total_notes))
+    print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
