@@ -56,3 +56,14 @@ def parse_all_decks():
     deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
     for deck_folder in deck_folders:
         parse_deck(Path(deck_folder).name)
+
+def print_deck_statistics():
+    deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
+    total_notes = 0
+    for deck_folder in deck_folders:
+        file = Path(deck_folder, 'data.json')
+        with open(file, encoding='utf-8') as f:
+            data = json.load(f)
+            print('{}: {}'.format(Path(deck_folder).name, len(data)))
+            total_notes += len(data)
+    print("Total: " + str(total_notes))
