@@ -35,3 +35,15 @@ class Dictionary:
             self.dictionary_map = self.load_dictionary_by_path(str(dictionary_path))
         else:
             print('failed to find path for dictionary')
+
+    def get_definition(self, word):
+        return self.parse_dictionary_entries(self.dictionary_map[word])
+
+    def parse_dictionary_entries(self, entries):
+        return  [{
+            'headword': entry[0],
+            'reading': entry[1],
+            'tags': entry[2],
+            'glossary_list': entry[5],
+            'sequence': entry[6],
+        } for entry in entries]

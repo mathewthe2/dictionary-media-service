@@ -30,15 +30,6 @@ def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_le
     else:
         return []
 
-def parse_dictionary_entries(entries):
-    return  [{
-        'headword': entry[0],
-        'reading': entry[1],
-        'tags': entry[2],
-        'glossary_list': entry[5],
-        'sequence': entry[6],
-    } for entry in entries]
-
 def parse_examples(examples, text_is_japanese, word_bases):
     for example in examples:
         example['tags'] = tagger.get_tags_by_deck(example['deck_name'])
@@ -70,17 +61,17 @@ def look_up(text, tags=[], user_levels={}):
     examples = get_examples(text_is_japanese, words_map, text, word_bases, tags, user_levels, is_exact_match)
     dictionary_words = [] if not text_is_japanese else [word for word in word_bases if word in dictionary_map]
     result = [{
-        'dictionary': get_definition(text, dictionary_words),
+        'dictionary': get_text_definition(text, dictionary_words),
         'examples': examples
     }]
     return dict(data=result)
 
-def get_definition(text, dictionary_words):
+def get_text_definition(text, dictionary_words):
     dictionary_map = dictionary.get_dictionary_map()
     if text in dictionary_map:
-        return [parse_dictionary_entries(dictionary_map[text])]
+        return [dictionary.get_definition(text)]
     elif dictionary_words:
-        return [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words]
+        return [dictionary.get_definition(word) for word in dictionary_words]
     else:
         return []
 
