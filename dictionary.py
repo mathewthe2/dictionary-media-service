@@ -68,10 +68,18 @@ def look_up(text, tags=[], user_levels={}):
     examples = get_examples(text_is_japanese, words_map, word_bases, tags, user_levels)
     dictionary_words = [] if not text_is_japanese else [word for word in word_bases if word in dictionary_map]
     result = [{
-        'dictionary': [] if not dictionary_words else [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words],
+        'dictionary': get_definition(text, dictionary_words),
         'examples': examples
     }]
     return dict(data=result)
+
+def get_definition(text, dictionary_words):
+    if text in dictionary_map:
+        return [parse_dictionary_entries(dictionary_map[text])]
+    elif dictionary_words:
+        return [parse_dictionary_entries(dictionary_map[word]) for word in dictionary_words]
+    else:
+        return []
 
 def load_dictionary_by_path(dictionary_path):
     output_map = {}
