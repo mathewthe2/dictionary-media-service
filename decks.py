@@ -1,5 +1,3 @@
-
-
 from glob import glob
 from config import EXAMPLE_PATH, MEDIA_FILE_HOST
 import json
