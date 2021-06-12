@@ -1,7 +1,7 @@
 
 
 from glob import glob
-from config import EXAMPLE_PATH
+from config import EXAMPLE_PATH, MEDIA_FILE_HOST
 import json
 import string
 from pathlib import Path
@@ -33,26 +33,24 @@ class Decks:
             decks = json.load(f)
         
         for deck in decks:
-            deck = self.parse_decks(deck)
+            deck = self.parse_deck(deck)
             if 'word_base_list' in deck:
                 self.sentence_map = self.map_sentence(deck['word_base_list'], deck['id'], self.sentence_map)
             if 'translation_word_base_list' in deck:
                 self.sentence_translation_map = self.map_sentence(deck['translation_word_base_list'], deck['id'], self.sentence_translation_map)
             self.deck_map[deck["id"]] = deck
 
-    def parse_decks(self, decks, text_is_japanese, word_bases, tagger):
-        for deck in decks:
-            deck['tags'] = tagger.get_tags_by_deck(deck['deck_name'])
-            deck['word_index'] = []
-            deck['translation_word_index'] = []
-            if text_is_japanese:
-                deck['word_index'] = [deck['word_base_list'].index(word) for word in word_bases]
-            else:
-                deck['translation_word_index'] = [deck['translation_word_base_list'].index(word) for word in word_bases]
-        return decks
-
+    def parse_deck(self, deck):
+        # image
+        image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, deck['deck_name'], deck['image'])
+        deck['image_url'] = image_path
+        
+        # sound
+        sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, deck['deck_name'], deck['sound'])
+        deck['sound_url'] = sound_path
+        return deck
     
-    def map_sentence(words, example_id, output_map):
+    def map_sentence(self, words, example_id, output_map):
         for (index, word) in enumerate(words):
             is_repeat = words.index(word) != index
             if is_repeat:

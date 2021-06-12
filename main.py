@@ -1,5 +1,5 @@
 from bottle import request, route, run, template, static_file
-from dictionary import look_up
+from search import look_up
 import os
 
 basepath = os.path.abspath(".")
