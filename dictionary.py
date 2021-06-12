@@ -8,20 +8,21 @@ from englishtokenizer import analyze_english
 from japanesetokenizer import analyze_japanese, KANA_MAPPING
 from config import DICTIONARY_PATH, EXAMPLE_PATH, MEDIA_FILE_HOST, EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
+from decks import Decks
 from dictionarytags import word_is_within_difficulty
 
-example_map = {} # id to example
 dictionary_map = {} # word to definition
-sentence_map = {} # word to matching example ids
-sentence_translation_map = {} # English word to matching example ids
 
 tagger = Tagger()
 tagger.load_tags()
 
+decks = Decks()
+decks.load_decks()
+
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
-        examples = [example_map[example_id] for example_id in set.intersection(*results)]
+        examples = [decks.get_deck_map()[example_id] for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
         if is_exact_match:
@@ -65,7 +66,7 @@ def look_up(text, tags=[], user_levels={}):
                 text = hiragana_text
     
     is_exact_match = text_is_japanese and text in dictionary_map
-    words_map = sentence_map if text_is_japanese else sentence_translation_map
+    words_map = decks.get_sentence_map() if text_is_japanese else decks.get_sentence_translation_map()
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
     examples = get_examples(text_is_japanese, words_map, text, word_bases, tags, user_levels, is_exact_match)
@@ -110,33 +111,6 @@ def load_dictionary(dictionary_name):
         dictionary_map = load_dictionary_by_path(str(dictionary_path))
     else:
         print('failed to find path for dictionary')
-
-def load_example_by_path(example_path):
-    global sentence_map
-    global sentence_translation_map
-    examples = []
-    file = Path(example_path, 'data.json')
-    with open(file, encoding='utf-8') as f:
-        examples = json.load(f)
-    
-    for example in examples:
-        example = parse_example(example)
-        if 'word_base_list' in example:
-            map_sentence(example['word_base_list'], example['id'], sentence_map)
-        if 'translation_word_base_list' in example:
-            map_sentence(example['translation_word_base_list'], example['id'], sentence_translation_map)
-        example_map[example["id"]] = example
-
-def map_sentence(words, example_id, output_map):
-    for (index, word) in enumerate(words):
-        is_repeat = words.index(word) != index
-        if is_repeat:
-            continue
-        if word in string.punctuation or word in '！？。、（）':
-            continue
-        if word not in output_map:
-            output_map[word] = set()
-        output_map[word].add(example_id)
 
 def parse_example(example):
     # image
@@ -184,10 +158,4 @@ def limit_examples(examples):
             new_examples.append(example)
     return new_examples[:RESULTS_LIMIT]
 
-def load_examples():
-    deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
-    for deck_folder in deck_folders:
-        load_example_by_path(deck_folder)
-
 load_dictionary('JMdict+')
-load_examples()
