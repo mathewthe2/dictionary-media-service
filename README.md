@@ -44,6 +44,10 @@ python main.py
 
 [spaCy](https://github.com/explosion/spaCy)
 
+[wanakana-py](https://github.com/Starwort/wanakana-py)
+
+[JMdict+](https://community.wanikani.com/t/yomichan-and-wanikanijlpt-tags/37535/14)
+
 ## References
 
 [Python – Lemmatization Approaches with Examples](https://www.geeksforgeeks.org/python-lemmatization-approaches-with-examples/)
