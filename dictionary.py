@@ -18,12 +18,14 @@ sentence_translation_map = {} # English word to matching example ids
 tagger = Tagger()
 tagger.load_tags()
 
-def get_examples(text_is_japanese, words_map, word_bases, tags=[], user_levels={}):
+def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
         examples = [example_map[example_id] for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
+        if is_exact_match:
+            examples = filter_examples_by_exact_match(examples, text)
         examples = limit_examples(examples)
         examples = parse_examples(examples, text_is_japanese, word_bases)
         return examples
@@ -61,11 +63,12 @@ def look_up(text, tags=[], user_levels={}):
             if is_japanese(hiragana_text):
                 text_is_japanese = True
                 text = hiragana_text
-
+    
+    is_exact_match = text_is_japanese and text in dictionary_map
     words_map = sentence_map if text_is_japanese else sentence_translation_map
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
-    examples = get_examples(text_is_japanese, words_map, word_bases, tags, user_levels)
+    examples = get_examples(text_is_japanese, words_map, text, word_bases, tags, user_levels, is_exact_match)
     dictionary_words = [] if not text_is_japanese else [word for word in word_bases if word in dictionary_map]
     result = [{
         'dictionary': get_definition(text, dictionary_words),
@@ -165,6 +168,9 @@ def filter_examples_by_level(user_levels, examples):
         if new_word_count <= NEW_WORDS_TO_USER_PER_SENTENCE:
             new_examples.append(example)
     return new_examples
+
+def filter_examples_by_exact_match(examples, text):
+    return [example for example in examples if text in example['sentence']]
 
 def limit_examples(examples):
     example_count_map = {}
