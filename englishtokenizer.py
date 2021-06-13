@@ -1,7 +1,9 @@
 import spacy
+import enchant 
 import re
 import string
 nlp = spacy.load('en_core_web_sm')
+vocabulary = enchant.Dict("en_US")
 
 PUNCTUATION = re.compile('[%s]' % re.escape(string.punctuation))
 
@@ -22,3 +24,6 @@ def analyze_english(text):
         'tokens': [token.orth_ for token in tokens],
         'base_tokens': [token.lemma_ for token in doc]
     }
+
+def is_english_word(word):
+    return vocabulary.check(word)

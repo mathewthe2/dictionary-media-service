@@ -1,5 +1,5 @@
 from wanakana import to_hiragana, is_japanese
-from englishtokenizer import analyze_english
+from englishtokenizer import analyze_english, is_english_word
 from japanesetokenizer import analyze_japanese, KANA_MAPPING
 from config import EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
@@ -46,12 +46,22 @@ def look_up(text, tags=[], user_levels={}):
     if not text_is_japanese:
         if '"' in text: # force English search
             text = text.split('"')[1]
-        else:
+        else:  
             hiragana_text = to_hiragana(text, custom_kana_mapping=KANA_MAPPING)
             hiragana_text = hiragana_text.replace(" ", "") 
             if is_japanese(hiragana_text):
-                text_is_japanese = True
-                text = hiragana_text
+                text_is_english_word = " " not in text and is_english_word(text)  
+                if not text_is_english_word:
+                    text_is_japanese = True
+                    text = hiragana_text
+                else:
+                    word_bases = analyze_japanese(hiragana_text)['base_tokens']
+                    if len(word_bases) > 1:
+                        text_is_japanese = False
+                    else:
+                        text_is_japanese = True
+                        text = hiragana_text
+                        # TODO: suggest english word in return query here
     
     dictionary_map = dictionary.get_dictionary_map()
     is_exact_match = text_is_japanese and text in dictionary_map
