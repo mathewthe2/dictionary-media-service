@@ -42,7 +42,12 @@ def parse_examples(examples, text_is_japanese, word_bases):
     return examples
 
 def look_up(text, tags=[], user_levels={}):
-    text_is_japanese = is_japanese(text)
+    
+    is_exact_match = '「' in text and '」' in text
+    if is_exact_match:
+        text = text.split('「')[1].split('」')[0]
+    
+    text_is_japanese = is_japanese(text) 
     if not text_is_japanese:
         if '"' in text: # force English search
             text = text.split('"')[1]
@@ -64,7 +69,9 @@ def look_up(text, tags=[], user_levels={}):
                         # TODO: suggest english word in return query here
     
     dictionary_map = dictionary.get_dictionary_map()
-    is_exact_match = text_is_japanese and text in dictionary_map
+    if not is_exact_match:
+        is_word_in_dictionary = text_is_japanese and text in dictionary_map
+        is_exact_match = is_word_in_dictionary
     words_map = decks.get_sentence_map() if text_is_japanese else decks.get_sentence_translation_map()
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
