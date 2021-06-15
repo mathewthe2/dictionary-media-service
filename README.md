@@ -12,6 +12,13 @@ pip install -r requirements.txt
 python -m spacy download en
 ```
 
+## Features
+
+- Parse JSON Anki decks exported from CrowdAnki
+- Tokenize decks for Japanese, English, and Romaji lookup
+- Filer decks by tags
+- Filter text by JLPT and WK tags in JMdict+ dictionary
+
 ## Run
 
 ```bash
