@@ -7,8 +7,11 @@ class Dictionary:
     def __init__(self):
         self.dictionary_map = {}
 
-    def get_dictionary_map(self):
-        return self.dictionary_map
+    def is_entry(self, word):
+        return word in self.dictionary_map
+
+    def get_first_entry(self, word):
+        return self.dictionary_map[word][0]
 
     def load_dictionary_by_path(self, dictionary_path):
         output_map = {}

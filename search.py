@@ -68,15 +68,14 @@ def look_up(text, tags=[], user_levels={}):
                         text = hiragana_text
                         # TODO: suggest english word in return query here
     
-    dictionary_map = dictionary.get_dictionary_map()
     if not is_exact_match:
-        is_word_in_dictionary = text_is_japanese and text in dictionary_map
+        is_word_in_dictionary = text_is_japanese and dictionary.is_entry(text)
         is_exact_match = is_word_in_dictionary
     words_map = decks.get_sentence_map() if text_is_japanese else decks.get_sentence_translation_map()
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
     examples = get_examples(text_is_japanese, words_map, text, word_bases, tags, user_levels, is_exact_match)
-    dictionary_words = [] if not text_is_japanese else [word for word in word_bases if word in dictionary_map]
+    dictionary_words = [] if not text_is_japanese else [word for word in word_bases if dictionary.is_entry(word)]
     result = [{
         'dictionary': get_text_definition(text, dictionary_words),
         'examples': examples
@@ -84,8 +83,7 @@ def look_up(text, tags=[], user_levels={}):
     return dict(data=result)
 
 def get_text_definition(text, dictionary_words):
-    dictionary_map = dictionary.get_dictionary_map()
-    if text in dictionary_map:
+    if dictionary.is_entry(text):
         return [dictionary.get_definition(text)]
     elif dictionary_words:
         return [dictionary.get_definition(word) for word in dictionary_words]
@@ -105,9 +103,8 @@ def filter_examples_by_level(user_levels, examples):
     for example in examples:
         new_word_count = 0
         for word in example['word_base_list']:
-            dictionary_map = dictionary.get_dictionary_map()
-            if word in dictionary_map:
-                first_entry = dictionary_map[word][0]
+            if dictionary.is_entry(word):
+                first_entry = dictionary.get_first_entry(word)
                 if not word_is_within_difficulty(user_levels, first_entry):
                     new_word_count += 1
         if new_word_count <= NEW_WORDS_TO_USER_PER_SENTENCE:
