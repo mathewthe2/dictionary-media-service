@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from glob import glob
-from englishtokenizer import analyze_english
+from tokenizer.englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
 from config import EXAMPLE_PATH
