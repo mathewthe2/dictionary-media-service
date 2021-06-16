@@ -1,6 +1,6 @@
 from wanakana import to_hiragana, is_japanese
-from englishtokenizer import analyze_english, is_english_word
-from japanesetokenizer import analyze_japanese, KANA_MAPPING
+from tokenizer.englishtokenizer import analyze_english, is_english_word
+from tokenizer.japanesetokenizer import analyze_japanese, KANA_MAPPING
 from config import EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
 from decks import Decks
