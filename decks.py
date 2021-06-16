@@ -6,12 +6,12 @@ from pathlib import Path
 
 class Decks:
     def __init__(self):
-        self.deck_map = {}
+        self.sentences = {}
         self.sentence_map = {}
         self.sentence_translation_map = {}
 
-    def get_deck_map(self):
-        return self.deck_map
+    def get_sentence(self, sentence_id):
+        return self.sentences[sentence_id]
 
     def get_sentence_map(self):
         return self.sentence_map
@@ -25,28 +25,28 @@ class Decks:
             self.load_deck_by_path(deck_folder)
     
     def load_deck_by_path(self, path):
-        decks = []
+        sentences = []
         file = Path(path, 'data.json')
         with open(file, encoding='utf-8') as f:
-            decks = json.load(f)
+            sentences = json.load(f)
         
-        for deck in decks:
-            deck = self.parse_deck(deck)
-            if 'word_base_list' in deck:
-                self.sentence_map = self.map_sentence(deck['word_base_list'], deck['id'], self.sentence_map)
-            if 'translation_word_base_list' in deck:
-                self.sentence_translation_map = self.map_sentence(deck['translation_word_base_list'], deck['id'], self.sentence_translation_map)
-            self.deck_map[deck["id"]] = deck
+        for sentence in sentences:
+            sentence = self.parse_sentence(sentence)
+            if 'word_base_list' in sentence:
+                self.sentence_map = self.map_sentence(sentence['word_base_list'], sentence['id'], self.sentence_map)
+            if 'translation_word_base_list' in sentence:
+                self.sentence_translation_map = self.map_sentence(sentence['translation_word_base_list'], sentence['id'], self.sentence_translation_map)
+            self.sentences[sentence["id"]] = sentence
 
-    def parse_deck(self, deck):
+    def parse_sentence(self, sentence):
         # image
-        image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, deck['deck_name'], deck['image'])
-        deck['image_url'] = image_path
+        image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['image'])
+        sentence['image_url'] = image_path
         
         # sound
-        sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, deck['deck_name'], deck['sound'])
-        deck['sound_url'] = sound_path
-        return deck
+        sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['sound'])
+        sentence['sound_url'] = sound_path
+        return sentence
     
     def map_sentence(self, words, example_id, output_map):
         for (index, word) in enumerate(words):

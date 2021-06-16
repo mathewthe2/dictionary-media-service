@@ -19,7 +19,7 @@ decks.load_decks()
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
-        examples = [decks.get_deck_map()[example_id] for example_id in set.intersection(*results)]
+        examples = [decks.get_sentence(example_id) for example_id in set.intersection(*results)]
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
         if is_exact_match:
