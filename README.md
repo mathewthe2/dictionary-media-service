@@ -55,6 +55,8 @@ python main.py
 
 [JMdict+](https://community.wanikani.com/t/yomichan-and-wanikanijlpt-tags/37535/14)
 
+[genanki](https://github.com/kerrickstaley/genanki)
+
 ## References
 
 [Python – Lemmatization Approaches with Examples](https://www.geeksforgeeks.org/python-lemmatization-approaches-with-examples/)
