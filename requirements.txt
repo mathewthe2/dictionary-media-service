@@ -1,5 +1,6 @@
 bottle==0.12.19
 bottle-websocket==0.2.9
+genanki==0.11.0
 spacy==3.0.6
 SudachiDict-core==20201223.post1
 SudachiPy==0.5.2

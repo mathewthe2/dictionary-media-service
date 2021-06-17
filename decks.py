@@ -11,7 +11,10 @@ class Decks:
         self.sentence_translation_map = {}
 
     def get_sentence(self, sentence_id):
-        return self.sentences[sentence_id]
+        if sentence_id in self.sentences:
+            return self.sentences[sentence_id]
+        else:
+            return None
 
     def get_sentence_map(self):
         return self.sentence_map

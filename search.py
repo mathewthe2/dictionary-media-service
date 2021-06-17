@@ -16,6 +16,9 @@ dictionary.load_dictionary('JMdict+')
 decks = Decks()
 decks.load_decks()
 
+def get_sentence_by_id(sentence_id):
+    return decks.get_sentence(sentence_id)
+
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
