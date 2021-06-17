@@ -32,7 +32,7 @@ def server_static(filepath):
     return static_file(filepath, root= basepath + '/resources/anime/')
 
 @route('/download_sentence')
-def look_up_dictionary():   
+def download_sentence():   
     sentence_id = request.query.get('id')
     if sentence_id is None:
         return 'No sentence id specified.'
