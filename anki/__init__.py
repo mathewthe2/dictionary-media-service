@@ -2,6 +2,8 @@ import genanki
 import random
 import requests
 import os
+from pathlib import Path
+from config import RESOURCES_PATH
 
 # model_id = random.randrange(1 << 30, 1 << 31)
 
@@ -33,14 +35,14 @@ def generate_deck(sentence):
 
   # Download Image
   response = requests.get(sentence["image_url"])
-  image_file_name = "resources/images/{}".format(sentence["image"])
+  image_file_name = Path(RESOURCES_PATH, "images", sentence["image"])
   file = open(image_file_name, "wb")
   file.write(response.content)
   file.close()
 
   # Download Sound
   response = requests.get(sentence["sound_url"])
-  sound_file_name = "resources/sound/{}".format(sentence["sound"])
+  sound_file_name = Path(RESOURCES_PATH, "sound", sentence["sound"])
   file = open(sound_file_name, "wb")
   file.write(response.content)
   file.close()
@@ -57,10 +59,14 @@ def generate_deck(sentence):
   ])
 
   my_deck.add_note(my_note)
-  my_package = genanki.Package(my_deck)
-  my_package.media_files = [image_file_name, sound_file_name]
   file_name = '{}.apkg'.format(sentence['id'])
-  my_package.write_to_file('resources/decks/{}'.format(file_name))
+  file_name_with_path = Path(RESOURCES_PATH, "decks", file_name)
+  if not os.path.exists(file_name_with_path):
+    open(file_name_with_path, 'w').close()
+  if os.path.exists(file_name_with_path):
+    my_package = genanki.Package(my_deck)
+    my_package.media_files = [image_file_name, sound_file_name]
+    my_package.write_to_file(file_name_with_path)
   os.remove(image_file_name)
   os.remove(sound_file_name)
   return file_name

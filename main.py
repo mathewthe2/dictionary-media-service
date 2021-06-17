@@ -2,6 +2,8 @@ from bottle import request, route, run, template, static_file, hook
 from search import look_up, get_sentence_by_id
 from anki import generate_deck
 import os
+from pathlib import Path
+from config import RESOURCES_PATH
 
 basepath = os.path.abspath(".")
 
@@ -32,7 +34,7 @@ def server_static(filepath):
     return static_file(filepath, root= basepath + '/resources/anime/')
 
 @route('/download_sentence')
-def download_sentence():   
+def download_sentence():
     sentence_id = request.query.get('id')
     if sentence_id is None:
         return 'No sentence id specified.'
@@ -44,10 +46,10 @@ def download_sentence():
             deck = generate_deck(sentence)
             @hook('after_request')
             def deleteDeck():
-                file = 'resources/decks/{}'.format(deck)
+                file =  Path(RESOURCES_PATH, 'decks', deck)
                 if os.path.exists(file):
-                    os.remove(file)   
-            return static_file(deck, root= basepath + '/resources/decks/', download=deck)
+                    os.remove(file)
+            return static_file(deck, root= str(Path(RESOURCES_PATH, 'decks')), download=deck)
 
 
 run(host='localhost', port=8080)
