@@ -20,12 +20,14 @@ def look_up_dictionary():
         tags = request.query.get('tags')
         has_jlpt = request.query.get('jlpt') is not None and request.query.get('jlpt') != ''
         has_wk = request.query.get('wk') is not None and request.query.get('wk') != ''
+        has_sorting = request.query.get('sort') is not None and request.query.get('sort') != ''
         user_levels = {
             'JLPT': None if not has_jlpt else int(request.query.jlpt),
             'WK': None if not has_wk else int(request.query.wk)
         }
         return look_up(
-            text=request.query.keyword[:50], 
+            text = request.query.keyword[:50], 
+            sorting = None if not has_sorting else request.query.sort,
             tags = [] if tags is None else request.query.tags.split(','),
             user_levels=user_levels)
 

@@ -44,7 +44,7 @@ def parse_examples(examples, text_is_japanese, word_bases):
             example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
     return examples
 
-def look_up(text, tags=[], user_levels={}):
+def look_up(text, sorting, tags=[], user_levels={}):
     
     is_exact_match = '「' in text and '」' in text
     if is_exact_match:
@@ -78,12 +78,19 @@ def look_up(text, tags=[], user_levels={}):
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
     examples = get_examples(text_is_japanese, words_map, text, word_bases, tags, user_levels, is_exact_match)
+    if sorting:
+        examples = sort_examples(examples, sorting)
     dictionary_words = [] if not text_is_japanese else [word for word in word_bases if dictionary.is_entry(word)]
     result = [{
         'dictionary': get_text_definition(text, dictionary_words),
         'examples': examples
     }]
     return dict(data=result)
+
+def sort_examples(examples, sorting):
+    if sorting.lower() == 'sentence length':
+        return sorted(examples, key=lambda example: len(example['sentence']))
+    return examples
 
 def get_text_definition(text, dictionary_words):
     if dictionary.is_entry(text):
