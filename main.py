@@ -17,7 +17,7 @@ def look_up_dictionary():
     if keyword is None:
         return 'No keyword specified.'
     else:
-        tags = request.query.get('tags')
+        has_tags = request.query.get('tags') is not None and request.query.get('tags') != ''
         has_jlpt = request.query.get('jlpt') is not None and request.query.get('jlpt') != ''
         has_wk = request.query.get('wk') is not None and request.query.get('wk') != ''
         has_sorting = request.query.get('sort') is not None and request.query.get('sort') != ''
@@ -28,7 +28,7 @@ def look_up_dictionary():
         return look_up(
             text = request.query.keyword[:50], 
             sorting = None if not has_sorting else request.query.sort,
-            tags = [] if tags is None else request.query.tags.split(','),
+            tags = [] if not has_tags else request.query.tags.split(','),
             user_levels=user_levels)
 
 @route('/anime/<filepath:path>')
