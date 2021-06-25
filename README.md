@@ -28,7 +28,28 @@ python main.py
 ## Add a Deck
 
 1. Export the deck to JSON with [CrowdAnki](https://ankiweb.net/shared/info/1788670778) to the folder */resources/anime/*
-2. Parse the deck:
+2. Add a *deck-structure.json* to define the data of each column.
+
+    ```json
+    {
+      "id-column": 0,
+      "text-column": 1,
+      "translation-column": 2,
+      "text-with-furigana-column": 3,
+      "image-column": 4,
+      "sound-column": 5
+    }
+    ```
+    
+3. Add a *tags.json* file to the folder:
+
+   ```json
+    [
+      "Action", 
+      "Slice Of Life"
+    ]
+    ```
+4. Parse the deck:
 
     ```python
     from deckparser import parse_deck 
@@ -36,16 +57,8 @@ python main.py
     ```
     This extracts media data from `deck.json`, adds tokenized word lists and exports to `data.json`.
     
-3. Add a *tags.json* file to the folder:
 
-    ```json
-    [
-      "Action", 
-      "Slice Of Life"
-    ]
-    ```
-    
-## Acknolwedgements
+## Acknowledgements
 
 [SudachiPy](https://github.com/WorksApplications/SudachiPy)
 
