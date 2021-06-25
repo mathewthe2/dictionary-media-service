@@ -4,7 +4,7 @@ from glob import glob
 from tokenizer.englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
-from config import EXAMPLE_PATH, CONTEXT_RANGE
+from config import EXAMPLE_PATH
 
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
@@ -34,10 +34,6 @@ def parse_deck(filename):
             translation_word_list = translation_tokens['tokens']
             translation_word_base_list = translation_tokens['base_tokens']
             print('parsing note', note['fields'][deck_structure['id-column']])
-            pretext_notes = notes[0:index] if index < CONTEXT_RANGE else notes[index-CONTEXT_RANGE:index] 
-            posttext_notes = []
-            if index < len(notes):
-                posttext_notes = notes[index+1:len(notes)] if index+CONTEXT_RANGE > len(notes) else notes[index+1:index+CONTEXT_RANGE] 
             example = {
                 'id': note['fields'][deck_structure['id-column']],
                 'deck_name': deck_name,
@@ -49,9 +45,7 @@ def parse_deck(filename):
                 'translation_word_base_list': translation_word_base_list,
                 'translation': translation,
                 'image': note['fields'][deck_structure['image-column']].split('src="')[1].split('">')[0],
-                'sound': note['fields'][deck_structure['sound-column']].split('sound:')[1].split(']')[0],
-                'pretext':[note['fields'][deck_structure['id-column']] for note in pretext_notes],
-                'posttext': [note['fields'][deck_structure['id-column']] for note in posttext_notes]
+                'sound': note['fields'][deck_structure['sound-column']].split('sound:')[1].split(']')[0]
             }
             examples.append(example)
 
