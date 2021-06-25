@@ -19,6 +19,12 @@ decks.load_decks()
 def get_sentence_by_id(sentence_id):
     return decks.get_sentence(sentence_id)
 
+def get_sentence_with_context(sentence_id):
+    sentence = get_sentence_by_id(sentence_id)
+    sentence["pretext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["pretext"]]
+    sentence["posttext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["posttext"]]
+    return sentence
+
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:

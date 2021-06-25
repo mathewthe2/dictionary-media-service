@@ -1,5 +1,5 @@
 from bottle import request, route, run, template, static_file, hook
-from search import look_up, get_sentence_by_id
+from search import look_up, get_sentence_by_id, get_sentence_with_context
 from anki import generate_deck
 import os
 from pathlib import Path
@@ -30,6 +30,14 @@ def look_up_dictionary():
             sorting = None if not has_sorting else request.query.sort,
             tags = [] if not has_tags else request.query.tags.split(','),
             user_levels=user_levels)
+
+@route('/sentence_with_context')
+def sentence_with_context():
+    sentence_id = request.query.get('id')
+    if sentence_id is None:
+        return 'No sentence id specified.'
+    else: 
+        return get_sentence_with_context(request.query.id)
 
 @route('/anime/<filepath:path>')
 def server_static(filepath):
