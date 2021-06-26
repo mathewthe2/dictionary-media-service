@@ -21,6 +21,8 @@ def get_sentence_by_id(sentence_id):
 
 def get_sentence_with_context(sentence_id):
     sentence = get_sentence_by_id(sentence_id)
+    if sentence is None:
+        return None
     sentence["pretext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["pretext"]]
     sentence["posttext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["posttext"]]
     return sentence
