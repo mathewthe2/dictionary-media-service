@@ -5,9 +5,25 @@ bundle_path = os.path.dirname(os.path.abspath(__file__))
 RESOURCES_PATH = Path(bundle_path, 'resources')
 DICTIONARY_PATH = Path(bundle_path, 'resources', 'dictionaries')
 EXAMPLE_PATH = Path(bundle_path, 'resources', 'anime')
+LITERATURE_EXAMPLE_PATH = Path(bundle_path, 'resources', 'literature')
 
 # Parsing
 CONTEXT_RANGE = 10
+
+# Decks
+DEFAULT_CATEGORY = 'anime'
+DECK_CATEGORIES = {
+    'anime': {
+        'path': EXAMPLE_PATH,
+        'has_image': True,
+        'has_sound': True
+    },
+    'literature': {
+        'path': LITERATURE_EXAMPLE_PATH,
+        'has_image': False,
+        'has_sound': False
+    }
+} 
 
 # Serving
 MEDIA_FILE_HOST = 'https://media.immersionkit.com/media'

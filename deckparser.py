@@ -4,7 +4,7 @@ from glob import glob
 from tokenizer.englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
-from config import EXAMPLE_PATH
+from config import EXAMPLE_PATH, LITERATURE_EXAMPLE_PATH
 
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
@@ -15,6 +15,39 @@ def get_deck_structure(filename):
         data = json.load(f)
         return data
 
+def parse_literature_deck(filename, skip_author=True):
+    meta_data_file = Path(LITERATURE_EXAMPLE_PATH, filename, 'metadata.json')
+    metadata = {}
+    with open(meta_data_file, encoding='utf-8') as f:
+        metadata = json.load(f)
+    file = Path(LITERATURE_EXAMPLE_PATH, filename, 'deck.json')
+    examples = []
+    with open(file, encoding='utf-8') as f:
+        data = json.load(f)
+        for index, entry in enumerate(data):
+            if (skip_author and index == 0):
+                continue
+            text = entry["sentence"]
+            word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
+            word_list = [m.surface() for m in tokenizer_obj.tokenize(text, mode)]
+            print('parsing note', entry["id"])
+            example = {
+                'id': entry["id"],
+                'author': metadata["author"],
+                'author_english': metadata["author_english"],
+                'deck_name': metadata["title"],
+                'deck_name_english': metadata["title_english"],
+                'sentence': text,
+                'sentence_with_furigana': entry["sentence_with_furigana"],
+                'word_base_list': word_base_list,
+                'word_list': word_list,
+                'sound': entry["id"]
+            }
+            examples.append(example)
+
+    with open(Path(LITERATURE_EXAMPLE_PATH, filename, 'data.json'), 'w+', encoding='utf8') as outfile:
+        json.dump(examples, outfile, indent=4, ensure_ascii=False)
+
 def parse_deck(filename):
     deck_structure = get_deck_structure(filename)
     file = Path(EXAMPLE_PATH, filename, 'deck.json')
@@ -23,8 +56,7 @@ def parse_deck(filename):
         data = json.load(f)
         notes = data['notes']
         deck_name = data['name']
-        for index, note in enumerate(notes):
-
+        for note in notes:
             # segmentation
             text = note['fields'][deck_structure['text-column']]
             word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
@@ -67,3 +99,5 @@ def print_deck_statistics():
             print('{}: {}'.format(Path(deck_folder).name, len(data)))
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
+
+parse_literature_deck("Aashindo")

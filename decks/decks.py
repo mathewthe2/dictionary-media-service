@@ -5,10 +5,14 @@ import string
 from pathlib import Path
 
 class Decks:
-    def __init__(self):
+    def __init__(self, category="anime", path=EXAMPLE_PATH, has_image=True, has_sound=True):
         self.sentences = {}
         self.sentence_map = {}
         self.sentence_translation_map = {}
+        self.category = category
+        self.path = path
+        self.has_image = has_image
+        self.has_sound = has_sound
 
     def get_sentence(self, sentence_id):
         if sentence_id in self.sentences:
@@ -23,7 +27,7 @@ class Decks:
         return self.sentence_translation_map
 
     def load_decks(self):
-        deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
+        deck_folders = glob(str(self.path) + '/*/')
         for deck_folder in deck_folders:
             self.load_deck_by_path(deck_folder)
     
@@ -48,13 +52,13 @@ class Decks:
             self.sentences[sentence["id"]] = sentence
 
     def parse_sentence(self, sentence):
-        # image
-        image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['image'])
-        sentence['image_url'] = image_path
+        if (self.has_image):
+            image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['image'])
+            sentence['image_url'] = image_path
         
-        # sound
-        sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['sound'])
-        sentence['sound_url'] = sound_path
+        if (self.has_sound):
+            sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['sound'])
+            sentence['sound_url'] = sound_path
         return sentence
     
     def map_sentence(self, words, example_id, output_map):

@@ -3,7 +3,7 @@ from tokenizer.englishtokenizer import analyze_english, is_english_word
 from tokenizer.japanesetokenizer import analyze_japanese, KANA_MAPPING
 from config import EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
-from decks import Decks
+from decks.decksmanager import DecksManager
 from dictionary import Dictionary
 from dictionarytags import word_is_within_difficulty
 
@@ -13,7 +13,7 @@ tagger.load_tags()
 dictionary = Dictionary()
 dictionary.load_dictionary('JMdict+')
 
-decks = Decks()
+decks = DecksManager()
 decks.load_decks()
 
 def get_sentence_by_id(sentence_id):
@@ -52,8 +52,8 @@ def parse_examples(examples, text_is_japanese, word_bases):
             example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
     return examples
 
-def look_up(text, sorting, tags=[], user_levels={}):
-    
+def look_up(text, sorting, category='anime', tags=[], user_levels={}):
+
     is_exact_match = '「' in text and '」' in text
     if is_exact_match:
         text = text.split('「')[1].split('」')[0]
@@ -82,6 +82,7 @@ def look_up(text, sorting, tags=[], user_levels={}):
     if not is_exact_match:
         is_word_in_dictionary = text_is_japanese and dictionary.is_entry(text)
         is_exact_match = is_word_in_dictionary
+    decks.set_category(category)
     words_map = decks.get_sentence_map() if text_is_japanese else decks.get_sentence_translation_map()
     text = text.replace(" ", "") if text_is_japanese else text
     word_bases = analyze_japanese(text)['base_tokens'] if text_is_japanese else analyze_english(text)['base_tokens']
@@ -144,3 +145,5 @@ def limit_examples(examples):
             new_examples.append(example)
     return new_examples[:RESULTS_LIMIT]
 
+text = "これ"
+look_up(text, sorting=None, category='anime', tags=[], user_levels={})

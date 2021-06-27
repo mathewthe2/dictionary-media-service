@@ -3,7 +3,7 @@ from search import look_up, get_sentence_by_id, get_sentence_with_context
 from anki import generate_deck
 import os
 from pathlib import Path
-from config import RESOURCES_PATH
+from config import RESOURCES_PATH, DEFAULT_CATEGORY
 
 basepath = os.path.abspath(".")
 
@@ -21,6 +21,7 @@ def look_up_dictionary():
         has_jlpt = request.query.get('jlpt') is not None and request.query.get('jlpt') != ''
         has_wk = request.query.get('wk') is not None and request.query.get('wk') != ''
         has_sorting = request.query.get('sort') is not None and request.query.get('sort') != ''
+        has_category = request.query.get('category') is not None and request.query.get('category') != ''
         user_levels = {
             'JLPT': None if not has_jlpt else int(request.query.jlpt),
             'WK': None if not has_wk else int(request.query.wk)
@@ -28,6 +29,7 @@ def look_up_dictionary():
         return look_up(
             text = request.query.keyword[:50], 
             sorting = None if not has_sorting else request.query.sort,
+            category = DEFAULT_CATEGORY if not has_category else request.query.category,
             tags = [] if not has_tags else request.query.tags.split(','),
             user_levels=user_levels)
 
