@@ -33,7 +33,7 @@ def parse_literature_deck(filename, skip_author=True):
             print('name', metadata["title_english"])
             print('parsing note', entry["id"])
             example = {
-                'id': entry["id"],
+                'id': metadata["title_english"] + "-" + entry["id"],
                 'author': metadata["author_english"],
                 'author_japanese': metadata["author"],
                 'deck_name': metadata["title_english"],
@@ -105,3 +105,4 @@ def print_deck_statistics():
             print('{}: {}'.format(Path(deck_folder).name, len(data)))
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
+    
