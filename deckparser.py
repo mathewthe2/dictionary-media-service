@@ -33,15 +33,15 @@ def parse_literature_deck(filename, skip_author=True):
             print('parsing note', entry["id"])
             example = {
                 'id': entry["id"],
-                'author': metadata["author"],
-                'author_english': metadata["author_english"],
-                'deck_name': metadata["title"],
-                'deck_name_english': metadata["title_english"],
+                'author': metadata["author_english"],
+                'author_japanese': metadata["author"],
+                'deck_name': metadata["title_english"],
+                'deck_name_japanese': metadata["title_english"],
                 'sentence': text,
                 'sentence_with_furigana': entry["sentence_with_furigana"],
                 'word_base_list': word_base_list,
                 'word_list': word_list,
-                'sound': entry["id"]
+                'sound': entry["id"] + '.mp3'
             }
             examples.append(example)
 
@@ -100,4 +100,4 @@ def print_deck_statistics():
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
 
-parse_literature_deck("Aashindo")
+# parse_literature_deck("Aashindo")

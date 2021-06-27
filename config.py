@@ -21,7 +21,7 @@ DECK_CATEGORIES = {
     'literature': {
         'path': LITERATURE_EXAMPLE_PATH,
         'has_image': False,
-        'has_sound': False
+        'has_sound': True
     }
 } 
 

@@ -36,10 +36,11 @@ def look_up_dictionary():
 @route('/sentence_with_context')
 def sentence_with_context():
     sentence_id = request.query.get('id')
+    has_category = request.query.get('category') is not None and request.query.get('category') != ''
     if sentence_id is None:
         return 'No sentence id specified.'
     else: 
-        return get_sentence_with_context(request.query.id)
+        return get_sentence_with_context(request.query.id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
 
 @route('/anime/<filepath:path>')
 def server_static(filepath):
@@ -51,7 +52,8 @@ def download_sentence():
     if sentence_id is None:
         return 'No sentence id specified.'
     else:
-        sentence = get_sentence_by_id(sentence_id)
+        has_category = request.query.get('category') is not None and request.query.get('category') != ''
+        sentence = get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
         if sentence is None:
             return 'File not found.'
         else:

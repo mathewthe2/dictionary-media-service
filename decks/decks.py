@@ -53,11 +53,11 @@ class Decks:
 
     def parse_sentence(self, sentence):
         if (self.has_image):
-            image_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['image'])
+            image_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['image'])
             sentence['image_url'] = image_path
         
         if (self.has_sound):
-            sound_path = '{}/anime/{}/media/{}'.format(MEDIA_FILE_HOST, sentence['deck_name'], sentence['sound'])
+            sound_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['sound'])
             sentence['sound_url'] = sound_path
         return sentence
     

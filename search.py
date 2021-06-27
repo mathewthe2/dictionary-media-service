@@ -1,7 +1,7 @@
 from wanakana import to_hiragana, is_japanese
 from tokenizer.englishtokenizer import analyze_english, is_english_word
 from tokenizer.japanesetokenizer import analyze_japanese, KANA_MAPPING
-from config import EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
+from config import DEFAULT_CATEGORY, EXAMPLE_LIMIT, RESULTS_LIMIT, NEW_WORDS_TO_USER_PER_SENTENCE
 from tagger import Tagger
 from decks.decksmanager import DecksManager
 from dictionary import Dictionary
@@ -16,10 +16,11 @@ dictionary.load_dictionary('JMdict+')
 decks = DecksManager()
 decks.load_decks()
 
-def get_sentence_by_id(sentence_id):
+def get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY):
+    decks.set_category(category)
     return decks.get_sentence(sentence_id)
 
-def get_sentence_with_context(sentence_id):
+def get_sentence_with_context(sentence_id, category=DEFAULT_CATEGORY):
     sentence = get_sentence_by_id(sentence_id)
     if sentence is None:
         return None
@@ -52,7 +53,7 @@ def parse_examples(examples, text_is_japanese, word_bases):
             example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
     return examples
 
-def look_up(text, sorting, category='anime', tags=[], user_levels={}):
+def look_up(text, sorting, category=DEFAULT_CATEGORY, tags=[], user_levels={}):
 
     is_exact_match = '「' in text and '」' in text
     if is_exact_match:
@@ -143,7 +144,4 @@ def limit_examples(examples):
         example_count_map[deck_name] += 1
         if (example_count_map[deck_name] <= EXAMPLE_LIMIT):
             new_examples.append(example)
-    return new_examples[:RESULTS_LIMIT]
-
-text = "これ"
-look_up(text, sorting=None, category='anime', tags=[], user_levels={})
+    return new_examples[:RESULTS_LIMIT] 
