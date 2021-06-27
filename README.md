@@ -57,6 +57,9 @@ python main.py
     ```
     This extracts media data from `deck.json`, adds tokenized word lists and exports to `data.json`.
     
+## How to get decks
+
+[Create a deck from Aozora Epub files](https://github.com/mathewthe2/Aozora-Epub-Extractor)
 
 ## Acknowledgements
 
