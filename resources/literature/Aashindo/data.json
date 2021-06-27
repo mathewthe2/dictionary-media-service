@@ -1,0 +1,1626 @@
+[
+    {
+        "id": "f000002",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "「ああしんど」",
+        "sentence_with_furigana": "「ああしんど」",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "しんどい",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "しんど",
+            "」"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "f000003",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "よっぽど古いお話なんで御座いますよ。",
+        "sentence_with_furigana": "よっぽど古いお話なんで 御座[ござ]いますよ。",
+        "word_base_list": [
+            "余程",
+            "古い",
+            "御",
+            "話",
+            "だ",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "よっぽど",
+            "古い",
+            "お",
+            "話",
+            "な",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "f000004",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "私の祖父の子供の時分に居りました、",
+        "sentence_with_furigana": "私の 祖父[じじい]の子供の時分に居りました、",
+        "word_base_list": [
+            "私",
+            "の",
+            "祖父",
+            "の",
+            "子供",
+            "の",
+            "時分",
+            "に",
+            "居る",
+            "ます",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "私",
+            "の",
+            "祖父",
+            "の",
+            "子供",
+            "の",
+            "時分",
+            "に",
+            "居り",
+            "まし",
+            "た",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "f000005",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "「三」という猫なんで御座います。",
+        "sentence_with_furigana": "「 三[さん]」という猫なんで 御座[ござ]います。",
+        "word_base_list": [
+            "「",
+            "3",
+            "」",
+            "と",
+            "言う",
+            "猫",
+            "だ",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "三",
+            "」",
+            "と",
+            "いう",
+            "猫",
+            "な",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "f000006",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "三毛だったんで御座いますって。",
+        "sentence_with_furigana": "三毛[みけ]だったんで 御座[ござ]いますって。",
+        "word_base_list": [
+            "三毛",
+            "だ",
+            "た",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "って",
+            "。"
+        ],
+        "word_list": [
+            "三毛",
+            "だっ",
+            "た",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "って",
+            "。"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "f000007",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "何でも、",
+        "sentence_with_furigana": "何でも、",
+        "word_base_list": [
+            "何",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "何",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "f000008",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "あの、",
+        "sentence_with_furigana": "あの、",
+        "word_base_list": [
+            "あの",
+            "、"
+        ],
+        "word_list": [
+            "あの",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "f000009",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "その祖父の話に、",
+        "sentence_with_furigana": "その 祖父[じじい]の話に、",
+        "word_base_list": [
+            "其の",
+            "祖父",
+            "の",
+            "話",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "祖父",
+            "の",
+            "話",
+            "に",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "f000010",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "おばあさんがお嫁に来る時に——",
+        "sentence_with_furigana": "おばあさんがお嫁に来る時に——",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "が",
+            "御",
+            "嫁",
+            "に",
+            "来る",
+            "時",
+            "に",
+            "—",
+            "—"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "が",
+            "お",
+            "嫁",
+            "に",
+            "来る",
+            "時",
+            "に",
+            "—",
+            "—"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "f000011",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "祖父のお母さんなんで御座いましょうねえ——",
+        "sentence_with_furigana": "祖父[じじい]のお母さんなんで 御座[ござ]いましょうねえ——",
+        "word_base_list": [
+            "祖父",
+            "の",
+            "御",
+            "母さん",
+            "だ",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "ね",
+            "—",
+            "—"
+        ],
+        "word_list": [
+            "祖父",
+            "の",
+            "お",
+            "母さん",
+            "な",
+            "ん",
+            "で",
+            "御座い",
+            "ましょう",
+            "ねえ",
+            "—",
+            "—"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "f000012",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "泉州堺から連れて来た猫なんで御座いますって。",
+        "sentence_with_furigana": "泉州堺[せんしゅうさかい]から連れて来た猫なんで御座いますって。",
+        "word_base_list": [
+            "泉州",
+            "堺",
+            "から",
+            "連れる",
+            "て",
+            "来る",
+            "た",
+            "猫",
+            "だ",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "って",
+            "。"
+        ],
+        "word_list": [
+            "泉州",
+            "堺",
+            "から",
+            "連れ",
+            "て",
+            "来",
+            "た",
+            "猫",
+            "な",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "って",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "f000013",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "随分永く——",
+        "sentence_with_furigana": "随分[ずいぶん]永く——",
+        "word_base_list": [
+            "随分",
+            "長い",
+            "—",
+            "—"
+        ],
+        "word_list": [
+            "随分",
+            "永く",
+            "—",
+            "—"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "f000014",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "家に十八年も居たんで御座いますよ。",
+        "sentence_with_furigana": "家に十八年も居たんで 御座[ござ]いますよ。",
+        "word_base_list": [
+            "家",
+            "に",
+            "18",
+            "年",
+            "も",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "家",
+            "に",
+            "十八",
+            "年",
+            "も",
+            "居",
+            "た",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "f000015",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "大きくなっておりましたそうです。",
+        "sentence_with_furigana": "大きくなっておりましたそうです。",
+        "word_base_list": [
+            "大きい",
+            "成る",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "そう",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "大きく",
+            "なっ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "そう",
+            "です",
+            "。"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "f000016",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "word_base_list": [
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "f000017",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "耳なんか、",
+        "sentence_with_furigana": "耳なんか、",
+        "word_base_list": [
+            "耳",
+            "なんか",
+            "、"
+        ],
+        "word_list": [
+            "耳",
+            "なんか",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "f000018",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "厚ぼったく、",
+        "sentence_with_furigana": "厚ぼったく、",
+        "word_base_list": [
+            "厚ぼったい",
+            "、"
+        ],
+        "word_list": [
+            "厚ぼったく",
+            "、"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "f000019",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "五分ぐらいになっていたそうで御座いますよ。",
+        "sentence_with_furigana": "五 分[ぶ]ぐらいになっていたそうで 御座[ござ]いますよ。",
+        "word_base_list": [
+            "5",
+            "分",
+            "くらい",
+            "に",
+            "成る",
+            "て",
+            "居る",
+            "た",
+            "そう",
+            "だ",
+            "御座る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "五",
+            "分",
+            "ぐらい",
+            "に",
+            "なっ",
+            "て",
+            "い",
+            "た",
+            "そう",
+            "で",
+            "御座い",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "f000020",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "もう年を老ってしまっておりましたから、",
+        "sentence_with_furigana": "もう年を 老[と]ってしまっておりましたから、",
+        "word_base_list": [
+            "もう",
+            "年",
+            "を",
+            "老い",
+            "って",
+            "仕舞う",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "年",
+            "を",
+            "老",
+            "って",
+            "しまっ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "f000021",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "まるで御隠居様のようになっていたんで御座いましょうね。",
+        "sentence_with_furigana": "まるで御隠居様のようになっていたんで 御座[ござ]いましょうね。",
+        "word_base_list": [
+            "丸で",
+            "御",
+            "隠居",
+            "様",
+            "の",
+            "様",
+            "だ",
+            "成る",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "まるで",
+            "御",
+            "隠居",
+            "様",
+            "の",
+            "よう",
+            "に",
+            "なっ",
+            "て",
+            "い",
+            "た",
+            "ん",
+            "で",
+            "御座い",
+            "ましょう",
+            "ね",
+            "。"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "f000022",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "冬、",
+        "sentence_with_furigana": "冬、",
+        "word_base_list": [
+            "冬",
+            "、"
+        ],
+        "word_list": [
+            "冬",
+            "、"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "f000023",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "炬燵の上にまあるくなって、",
+        "sentence_with_furigana": "炬燵[こたつ]の上にまあるくなって、",
+        "word_base_list": [
+            "火燵",
+            "の",
+            "上",
+            "に",
+            "丸い",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "炬燵",
+            "の",
+            "上",
+            "に",
+            "まあるく",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "f000024",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "寐ていたんで御座いますって。",
+        "sentence_with_furigana": "寐[ね]ていたんで 御座[ござ]いますって。",
+        "word_base_list": [
+            "寝る",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "って",
+            "。"
+        ],
+        "word_list": [
+            "寐",
+            "て",
+            "い",
+            "た",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "って",
+            "。"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "f000025",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "f000026",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "伸をしまして、",
+        "sentence_with_furigana": "伸[のび]をしまして、",
+        "word_base_list": [
+            "伸",
+            "を",
+            "為る",
+            "ます",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "伸",
+            "を",
+            "し",
+            "まし",
+            "て",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "f000027",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "にゅっと高くなって、",
+        "sentence_with_furigana": "にゅっと高くなって、",
+        "word_base_list": [
+            "にゅっ",
+            "と",
+            "高い",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "にゅっ",
+            "と",
+            "高く",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "f000028",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "「ああしんど」と言ったんだそうで御座いますよ。",
+        "sentence_with_furigana": "「ああしんど」と言ったんだそうで 御座[ござ]いますよ。",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "しんどい",
+            "」",
+            "と",
+            "言う",
+            "た",
+            "の",
+            "だ",
+            "そう",
+            "だ",
+            "御座る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "しんど",
+            "」",
+            "と",
+            "言っ",
+            "た",
+            "ん",
+            "だ",
+            "そう",
+            "で",
+            "御座い",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "f000029",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "屹度、",
+        "sentence_with_furigana": "屹度[きっと]、",
+        "word_base_list": [
+            "急度",
+            "、"
+        ],
+        "word_list": [
+            "屹度",
+            "、"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "f000030",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "曾祖母さんは、",
+        "sentence_with_furigana": "曾祖母[おおばあ]さんは、",
+        "word_base_list": [
+            "曾祖母",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "曾祖母",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "f000031",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "炬燵へ煖って、",
+        "sentence_with_furigana": "炬燵[こたつ]へ 煖[あた]って、",
+        "word_base_list": [
+            "火燵",
+            "へ",
+            "煖",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "炬燵",
+            "へ",
+            "煖",
+            "って",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "f000032",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "眼鏡を懸けて、",
+        "sentence_with_furigana": "眼鏡を懸けて、",
+        "word_base_list": [
+            "眼鏡",
+            "を",
+            "掛ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "眼鏡",
+            "を",
+            "懸け",
+            "て",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "f000033",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "本でも見ていたんで御座いましょうね。",
+        "sentence_with_furigana": "本でも見ていたんで 御座[ござ]いましょうね。",
+        "word_base_list": [
+            "本",
+            "で",
+            "も",
+            "見る",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "本",
+            "で",
+            "も",
+            "見",
+            "て",
+            "い",
+            "た",
+            "ん",
+            "で",
+            "御座い",
+            "ましょう",
+            "ね",
+            "。"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "f000034",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "で、",
+        "sentence_with_furigana": "で、",
+        "word_base_list": [
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "f000035",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "吃驚致しまして、",
+        "sentence_with_furigana": "吃驚[びつくり]致しまして、",
+        "word_base_list": [
+            "びっくり",
+            "致す",
+            "ます",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "吃驚",
+            "致し",
+            "まし",
+            "て",
+            "、"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "f000036",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "この猫は屹度化けると思ったんです。",
+        "sentence_with_furigana": "この猫は 屹度[きっと]化けると思ったんです。",
+        "word_base_list": [
+            "此の",
+            "猫",
+            "は",
+            "急度",
+            "化ける",
+            "と",
+            "思う",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "猫",
+            "は",
+            "屹度",
+            "化ける",
+            "と",
+            "思っ",
+            "た",
+            "ん",
+            "です",
+            "。"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "f000037",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "、"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "f000038",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "捨てようと思いましたけれども、",
+        "sentence_with_furigana": "捨てようと思いましたけれども、",
+        "word_base_list": [
+            "捨てる",
+            "と",
+            "思う",
+            "ます",
+            "た",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "捨てよう",
+            "と",
+            "思い",
+            "まし",
+            "た",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "f000039",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "幾ら捨てても帰って来るんで御座いますって。",
+        "sentence_with_furigana": "幾ら捨てても帰って来るんで 御座[ごぎ]いますって。",
+        "word_base_list": [
+            "幾ら",
+            "捨てる",
+            "て",
+            "も",
+            "帰る",
+            "て",
+            "来る",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "って",
+            "。"
+        ],
+        "word_list": [
+            "幾ら",
+            "捨て",
+            "て",
+            "も",
+            "帰っ",
+            "て",
+            "来る",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "って",
+            "。"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "f000040",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "でも大人しくて、",
+        "sentence_with_furigana": "でも 大人[おとな]しくて、",
+        "word_base_list": [
+            "で",
+            "も",
+            "大人しい",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "も",
+            "大人しく",
+            "て",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "f000041",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "何にも悪い事はあるんじゃありませんけれども、",
+        "sentence_with_furigana": "何[なん]にも悪い事はあるんじゃありませんけれども、",
+        "word_base_list": [
+            "何",
+            "も",
+            "悪い",
+            "事",
+            "は",
+            "有る",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "ず",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "何に",
+            "も",
+            "悪い",
+            "事",
+            "は",
+            "ある",
+            "ん",
+            "じゃ",
+            "あり",
+            "ませ",
+            "ん",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "f000042",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "私の祖父は、",
+        "sentence_with_furigana": "私の 祖父[じじい]は、",
+        "word_base_list": [
+            "私",
+            "の",
+            "祖父",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "私",
+            "の",
+            "祖父",
+            "は",
+            "、"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "f000043",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "「口を利くから、",
+        "sentence_with_furigana": "「口を利くから、",
+        "word_base_list": [
+            "「",
+            "口",
+            "を",
+            "利く",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "口",
+            "を",
+            "利く",
+            "から",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "f000044",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "怖くって怖くって、",
+        "sentence_with_furigana": "怖くって怖くって、",
+        "word_base_list": [
+            "怖い",
+            "って",
+            "怖い",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "怖く",
+            "って",
+            "怖く",
+            "って",
+            "、"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "f000045",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "仕方がなかった。",
+        "sentence_with_furigana": "仕方がなかった。",
+        "word_base_list": [
+            "仕方",
+            "が",
+            "無い",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "仕方",
+            "が",
+            "なかっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "f000046",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "」って言っておりましたよ。",
+        "sentence_with_furigana": "」って言っておりましたよ。",
+        "word_base_list": [
+            "」",
+            "って",
+            "言う",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "って",
+            "言っ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "よ",
+            "。"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "f000047",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "祖父は私共の知っておりました時分でも、",
+        "sentence_with_furigana": "祖父[じじい]は私共の知っておりました時分でも、",
+        "word_base_list": [
+            "祖父",
+            "は",
+            "私",
+            "共",
+            "の",
+            "知る",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "時分",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "祖父",
+            "は",
+            "私",
+            "共",
+            "の",
+            "知っ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "時分",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "f000048",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "猫は大嫌いなんで御座います。",
+        "sentence_with_furigana": "猫は大嫌いなんで 御座[ござ]います。",
+        "word_base_list": [
+            "猫",
+            "は",
+            "大嫌い",
+            "だ",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "猫",
+            "は",
+            "大嫌い",
+            "な",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "f000049",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "私共が所好で飼っておりましても、",
+        "sentence_with_furigana": "私共が 所好[すき]で飼っておりましても、",
+        "word_base_list": [
+            "私",
+            "共",
+            "が",
+            "所",
+            "好",
+            "で",
+            "飼う",
+            "て",
+            "おる",
+            "ます",
+            "て",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "私",
+            "共",
+            "が",
+            "所",
+            "好",
+            "で",
+            "飼っ",
+            "て",
+            "おり",
+            "まし",
+            "て",
+            "も",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "f000050",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "「猫は化けるからな」と言ってるんで御座います。",
+        "sentence_with_furigana": "「猫は化けるからな」と言ってるんで 御座[ござ]います。",
+        "word_base_list": [
+            "「",
+            "猫",
+            "は",
+            "化ける",
+            "から",
+            "な",
+            "」",
+            "と",
+            "言う",
+            "てる",
+            "の",
+            "だ",
+            "御座る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "猫",
+            "は",
+            "化ける",
+            "から",
+            "な",
+            "」",
+            "と",
+            "言っ",
+            "てる",
+            "ん",
+            "で",
+            "御座い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "f000051",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "で、",
+        "sentence_with_furigana": "で、",
+        "word_base_list": [
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "、"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "f000052",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "祖父は、",
+        "sentence_with_furigana": "祖父[じじい]は、",
+        "word_base_list": [
+            "祖父",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "祖父",
+            "は",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "f000053",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "猫をあんまり可愛がっちゃ、",
+        "sentence_with_furigana": "猫をあんまり 可愛[かあい]がっちゃ、",
+        "word_base_list": [
+            "猫",
+            "を",
+            "余り",
+            "可愛い",
+            "がる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "猫",
+            "を",
+            "あんまり",
+            "可愛",
+            "がっ",
+            "ちゃ",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "f000054",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "可けない可けないって言っておりましたけれど、",
+        "sentence_with_furigana": "可[い]けない 可[い]けないって言っておりましたけれど、",
+        "word_base_list": [
+            "べし",
+            "ない",
+            "べし",
+            "ない",
+            "って",
+            "言う",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "可け",
+            "ない",
+            "可け",
+            "ない",
+            "って",
+            "言っ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "f000055",
+        "author": "Ikeda Shoen",
+        "author_japanese": "池田 焦園",
+        "deck_name": "Aashindo",
+        "deck_name_japanese": "Aashindo",
+        "sentence": "その後の猫は化けるまで居た事は御座いません。",
+        "sentence_with_furigana": "その 後[ご]の猫は化けるまで居た事は 御座[ござ]いません。",
+        "word_base_list": [
+            "其の",
+            "後",
+            "の",
+            "猫",
+            "は",
+            "化ける",
+            "まで",
+            "居る",
+            "た",
+            "事",
+            "は",
+            "御座る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "後",
+            "の",
+            "猫",
+            "は",
+            "化ける",
+            "まで",
+            "居",
+            "た",
+            "事",
+            "は",
+            "御座い",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    }
+]
