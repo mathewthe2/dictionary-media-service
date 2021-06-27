@@ -1,0 +1,7884 @@
+[
+    {
+        "id": "f000001",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "word_base_list": [
+            "新美",
+            "南吉",
+            " ",
+            "作"
+        ],
+        "word_list": [
+            "新美",
+            "南吉",
+            "　",
+            "作"
+        ],
+        "sound": "f000001.mp3"
+    },
+    {
+        "id": "f000002",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼ",
+        "sentence_with_furigana": "赤とんぼ",
+        "word_base_list": [
+            "赤蜻蛉"
+        ],
+        "word_list": [
+            "赤とんぼ"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "E000002",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000002.mp3"
+    },
+    {
+        "id": "f000003",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "f000004",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "三回ほど空をまわって、",
+        "sentence_with_furigana": "三回ほど空をまわって、",
+        "word_base_list": [
+            "3",
+            "回",
+            "ほど",
+            "空",
+            "を",
+            "回る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "三",
+            "回",
+            "ほど",
+            "空",
+            "を",
+            "まわっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "f000005",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "いつも休む一本の垣根の竹の上に、",
+        "sentence_with_furigana": "いつも休む一本の 垣根[かきね]の竹の上に、",
+        "word_base_list": [
+            "いつも",
+            "休む",
+            "1",
+            "本",
+            "の",
+            "垣根",
+            "の",
+            "竹",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "いつも",
+            "休む",
+            "一",
+            "本",
+            "の",
+            "垣根",
+            "の",
+            "竹",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "f000006",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "チョイととまりました。",
+        "sentence_with_furigana": "チョイととまりました。",
+        "word_base_list": [
+            "ちょい",
+            "と",
+            "とまる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "チョイ",
+            "と",
+            "とまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "f000007",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "山里の昼は静かです。",
+        "sentence_with_furigana": "山里の昼は静かです。",
+        "word_base_list": [
+            "山里",
+            "の",
+            "昼",
+            "は",
+            "静か",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "山里",
+            "の",
+            "昼",
+            "は",
+            "静か",
+            "です",
+            "。"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "f000008",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "f000009",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "初夏の山里は、",
+        "sentence_with_furigana": "初夏の山里は、",
+        "word_base_list": [
+            "初夏",
+            "の",
+            "山里",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "初夏",
+            "の",
+            "山里",
+            "は",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "f000010",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "真実に緑につつまれています。",
+        "sentence_with_furigana": "真実[ほんとう]に緑につつまれています。",
+        "word_base_list": [
+            "真実",
+            "に",
+            "緑",
+            "に",
+            "包む",
+            "れる",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "真実",
+            "に",
+            "緑",
+            "に",
+            "つつま",
+            "れ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "E000010",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000010.mp3"
+    },
+    {
+        "id": "f000011",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "f000012",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "クルリと眼玉を転じました。",
+        "sentence_with_furigana": "クルリと 眼玉[めだま]を 転[てん]じました。",
+        "word_base_list": [
+            "クルリ",
+            "と",
+            "目玉",
+            "を",
+            "転ずる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "クルリ",
+            "と",
+            "眼玉",
+            "を",
+            "転じ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "f000013",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼの休んでいる竹には、",
+        "sentence_with_furigana": "赤とんぼの休んでいる竹には、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "の",
+            "休む",
+            "で",
+            "居る",
+            "竹",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "の",
+            "休ん",
+            "で",
+            "いる",
+            "竹",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "f000014",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "朝顔のつるがまきついています。",
+        "sentence_with_furigana": "朝顔[あさがお]のつるがまきついています。",
+        "word_base_list": [
+            "朝顔",
+            "の",
+            "つる",
+            "が",
+            "まく",
+            "付く",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "朝顔",
+            "の",
+            "つる",
+            "が",
+            "まき",
+            "つい",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "S000015",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000015.mp3"
+    },
+    {
+        "id": "f000015",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "昨年の夏、",
+        "sentence_with_furigana": "昨年[さくねん]の夏、",
+        "word_base_list": [
+            "昨年",
+            "の",
+            "夏",
+            "、"
+        ],
+        "word_list": [
+            "昨年",
+            "の",
+            "夏",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "f000016",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "この別荘の主人が植えていった朝顔の結んだ実が、",
+        "sentence_with_furigana": "この 別荘[べっそう]の主人が 植[う]えていった朝顔の結んだ実が、",
+        "word_base_list": [
+            "此の",
+            "別荘",
+            "の",
+            "主人",
+            "が",
+            "植える",
+            "て",
+            "行く",
+            "た",
+            "朝顔",
+            "の",
+            "結ぶ",
+            "た",
+            "実",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "別荘",
+            "の",
+            "主人",
+            "が",
+            "植え",
+            "て",
+            "いっ",
+            "た",
+            "朝顔",
+            "の",
+            "結ん",
+            "だ",
+            "実",
+            "が",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "f000017",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "また生えたんだろう──",
+        "sentence_with_furigana": "また 生[は]えたんだろう──",
+        "word_base_list": [
+            "又",
+            "生える",
+            "た",
+            "の",
+            "だ",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "また",
+            "生え",
+            "た",
+            "ん",
+            "だろう",
+            "─",
+            "─"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "f000018",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と赤とんぼは思いました。",
+        "sentence_with_furigana": "と赤とんぼは思いました。",
+        "word_base_list": [
+            "と",
+            "赤蜻蛉",
+            "は",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "赤とんぼ",
+            "は",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "E000018",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000018.mp3"
+    },
+    {
+        "id": "f000019",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今はこの家には誰もいないので、",
+        "sentence_with_furigana": "今はこの家には 誰[だれ]もいないので、",
+        "word_base_list": [
+            "今",
+            "は",
+            "此の",
+            "家",
+            "に",
+            "は",
+            "誰",
+            "も",
+            "居る",
+            "ない",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "今",
+            "は",
+            "この",
+            "家",
+            "に",
+            "は",
+            "誰",
+            "も",
+            "い",
+            "ない",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "f000020",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "雨戸が淋しくしまっています。",
+        "sentence_with_furigana": "雨戸が 淋[さび]しくしまっています。",
+        "word_base_list": [
+            "雨戸",
+            "が",
+            "寂しい",
+            "仕舞う",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "雨戸",
+            "が",
+            "淋しく",
+            "しまっ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "f000021",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "f000022",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "ツイと竹の先からからだを離して、",
+        "sentence_with_furigana": "ツイと竹の先からからだを 離[はな]して、",
+        "word_base_list": [
+            "ツイ",
+            "と",
+            "竹",
+            "の",
+            "先",
+            "から",
+            "体",
+            "を",
+            "離す",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ツイ",
+            "と",
+            "竹",
+            "の",
+            "先",
+            "から",
+            "からだ",
+            "を",
+            "離し",
+            "て",
+            "、"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "f000023",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "高い空に舞い上がりました。",
+        "sentence_with_furigana": "高い空に 舞[ま]い上がりました。",
+        "word_base_list": [
+            "高い",
+            "空",
+            "に",
+            "舞う",
+            "上がる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "高い",
+            "空",
+            "に",
+            "舞い",
+            "上がり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "E000023",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000023.mp3"
+    },
+    {
+        "id": "f000024",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "三四人の人が、",
+        "sentence_with_furigana": "三四人の人が、",
+        "word_base_list": [
+            "34",
+            "人",
+            "の",
+            "人",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "三四",
+            "人",
+            "の",
+            "人",
+            "が",
+            "、"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "f000025",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "こっちへやって来ます。",
+        "sentence_with_furigana": "こっちへやって来ます。",
+        "word_base_list": [
+            "此方",
+            "へ",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "こっち",
+            "へ",
+            "やっ",
+            "て",
+            "来",
+            "ます",
+            "。"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "f000026",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "f000027",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "さっきの竹にまたとまって、",
+        "sentence_with_furigana": "さっきの竹にまたとまって、",
+        "word_base_list": [
+            "さっき",
+            "の",
+            "竹",
+            "に",
+            "又",
+            "とまる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "さっき",
+            "の",
+            "竹",
+            "に",
+            "また",
+            "とまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "f000028",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "じっと近づいて来る人々を見ていました。",
+        "sentence_with_furigana": "じっと近づいて来る人々を見ていました。",
+        "word_base_list": [
+            "じっと",
+            "近付く",
+            "て",
+            "来る",
+            "人々",
+            "を",
+            "見る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "じっと",
+            "近づい",
+            "て",
+            "来る",
+            "人々",
+            "を",
+            "見",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "E000028",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000028.mp3"
+    },
+    {
+        "id": "f000029",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "一番最初にかけて来たのは、",
+        "sentence_with_furigana": "一番最初にかけて来たのは、",
+        "word_base_list": [
+            "一番",
+            "最初",
+            "に",
+            "掛ける",
+            "て",
+            "来る",
+            "た",
+            "の",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "一番",
+            "最初",
+            "に",
+            "かけ",
+            "て",
+            "来",
+            "た",
+            "の",
+            "は",
+            "、"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "f000030",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤いリボンの帽子をかぶったかあいいおじょうちゃんでした。",
+        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]をかぶったかあいいおじょうちゃんでした。",
+        "word_base_list": [
+            "赤い",
+            "リボン",
+            "の",
+            "帽子",
+            "を",
+            "被る",
+            "た",
+            "か",
+            "あー",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "リボン",
+            "の",
+            "帽子",
+            "を",
+            "かぶっ",
+            "た",
+            "か",
+            "あ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "f000031",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "f000032",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんのお母さん、",
+        "sentence_with_furigana": "おじょうちゃんのお母さん、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "御",
+            "母さん",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "お",
+            "母さん",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "f000033",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "荷物をドッサリ持った書生さん──",
+        "sentence_with_furigana": "荷物[にもつ]をドッサリ持った 書生[しょせい]さん──",
+        "word_base_list": [
+            "荷物",
+            "を",
+            "どっさり",
+            "持つ",
+            "た",
+            "書生",
+            "さん",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "荷物",
+            "を",
+            "ドッサリ",
+            "持っ",
+            "た",
+            "書生",
+            "さん",
+            "─",
+            "─"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "f000034",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "f000035",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "こう三人です。",
+        "sentence_with_furigana": "こう三人です。",
+        "word_base_list": [
+            "こう",
+            "3",
+            "人",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "こう",
+            "三",
+            "人",
+            "です",
+            "。"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "f000036",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "f000037",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。",
+        "sentence_with_furigana": "かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。",
+        "word_base_list": [
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "赤い",
+            "リボン",
+            "に",
+            "とまる",
+            "て",
+            "見る",
+            "たい",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "赤い",
+            "リボン",
+            "に",
+            "とまっ",
+            "て",
+            "み",
+            "たく",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "f000038",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、",
+        "word_base_list": [
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "f000039",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんが怒るとこわいな──",
+        "sentence_with_furigana": "おじょうちゃんが 怒[おこ]るとこわいな──",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "が",
+            "怒る",
+            "と",
+            "怖い",
+            "な",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "が",
+            "怒る",
+            "と",
+            "こわい",
+            "な",
+            "─",
+            "─"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "f000040",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "f000041",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは頭をかたげました。",
+        "sentence_with_furigana": "赤とんぼは頭をかたげました。",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "頭",
+            "を",
+            "かたげる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "頭",
+            "を",
+            "かたげ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "S000042",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000042.mp3"
+    },
+    {
+        "id": "f000042",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "けど、",
+        "sentence_with_furigana": "けど、",
+        "word_base_list": [
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "けど",
+            "、"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "f000043",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とうとう、",
+        "sentence_with_furigana": "とうとう、",
+        "word_base_list": [
+            "到頭",
+            "、"
+        ],
+        "word_list": [
+            "とうとう",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "f000044",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんが前へ来たとき、",
+        "sentence_with_furigana": "おじょうちゃんが前へ来たとき、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "が",
+            "前",
+            "へ",
+            "来る",
+            "た",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "が",
+            "前",
+            "へ",
+            "来",
+            "た",
+            "とき",
+            "、"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "f000045",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "f000046",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんの赤いリボンに飛びうつりました。",
+        "sentence_with_furigana": "おじょうちゃんの赤いリボンに飛びうつりました。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "赤い",
+            "リボン",
+            "に",
+            "飛ぶ",
+            "うつる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "赤い",
+            "リボン",
+            "に",
+            "飛び",
+            "うつり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "f000047",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「あッ、",
+        "sentence_with_furigana": "「あッ、",
+        "word_base_list": [
+            "「",
+            "あっ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あッ",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "f000048",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうさん、",
+        "sentence_with_furigana": "おじょうさん、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "f000049",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "帽子に赤とんぼがとまりましたよ。",
+        "sentence_with_furigana": "帽子[ぼうし]に赤とんぼがとまりましたよ。",
+        "word_base_list": [
+            "帽子",
+            "に",
+            "赤蜻蛉",
+            "が",
+            "とまる",
+            "ます",
+            "た",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "帽子",
+            "に",
+            "赤とんぼ",
+            "が",
+            "とまり",
+            "まし",
+            "た",
+            "よ",
+            "。"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "f000050",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "f000051",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんがさけびました。",
+        "sentence_with_furigana": "書生さんがさけびました。",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "が",
+            "叫ぶ",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "が",
+            "さけび",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "f000052",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "f000053",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今におじょうちゃんの手が、",
+        "sentence_with_furigana": "今におじょうちゃんの手が、",
+        "word_base_list": [
+            "今",
+            "に",
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "手",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "今",
+            "に",
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "手",
+            "が",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "f000054",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "自分をつかまえに来やしないかと思って、",
+        "sentence_with_furigana": "自分をつかまえに来やしないかと思って、",
+        "word_base_list": [
+            "自分",
+            "を",
+            "捕まえる",
+            "に",
+            "来る",
+            "は",
+            "為る",
+            "ない",
+            "か",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "を",
+            "つかまえ",
+            "に",
+            "来",
+            "や",
+            "し",
+            "ない",
+            "か",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "f000055",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "すぐ飛ぶ用意をしました。",
+        "sentence_with_furigana": "すぐ飛ぶ用意をしました。",
+        "word_base_list": [
+            "直ぐ",
+            "飛ぶ",
+            "用意",
+            "を",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "すぐ",
+            "飛ぶ",
+            "用意",
+            "を",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "f000056",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "f000057",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんは、",
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "f000058",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼをつかまえようともせず、",
+        "sentence_with_furigana": "赤とんぼをつかまえようともせず、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "を",
+            "捕まえる",
+            "と",
+            "も",
+            "為る",
+            "ず",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "を",
+            "つかまえよう",
+            "と",
+            "も",
+            "せ",
+            "ず",
+            "、"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "f000059",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「まア、",
+        "sentence_with_furigana": "「まア、",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "まア",
+            "、"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "f000060",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あたしの帽子に！",
+        "sentence_with_furigana": "あたしの 帽子[ぼうし]に！",
+        "word_base_list": [
+            "私",
+            "の",
+            "帽子",
+            "に",
+            "！"
+        ],
+        "word_list": [
+            "あたし",
+            "の",
+            "帽子",
+            "に",
+            "！"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "f000061",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "うれしいわ！",
+        "sentence_with_furigana": "うれしいわ！",
+        "word_base_list": [
+            "嬉しい",
+            "わ",
+            "！"
+        ],
+        "word_list": [
+            "うれしい",
+            "わ",
+            "！"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "f000062",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "f000063",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "うれしさに跳び上がりました。",
+        "sentence_with_furigana": "うれしさに 跳[と]び上がりました。",
+        "word_base_list": [
+            "嬉しい",
+            "さ",
+            "に",
+            "飛ぶ",
+            "上がる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "うれし",
+            "さ",
+            "に",
+            "跳び",
+            "上がり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "S000064",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000064.mp3"
+    },
+    {
+        "id": "f000064",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "つばくらが、",
+        "sentence_with_furigana": "つばくらが、",
+        "word_base_list": [
+            "燕",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "つばくら",
+            "が",
+            "、"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "f000065",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "風のようにかけて行きます。",
+        "sentence_with_furigana": "風のようにかけて行きます。",
+        "word_base_list": [
+            "風",
+            "の",
+            "様",
+            "だ",
+            "掛ける",
+            "て",
+            "行く",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "風",
+            "の",
+            "よう",
+            "に",
+            "かけ",
+            "て",
+            "行き",
+            "ます",
+            "。"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "S000066",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000066.mp3"
+    },
+    {
+        "id": "f000066",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "かあいいおじょうちゃんは、",
+        "sentence_with_furigana": "かあいいおじょうちゃんは、",
+        "word_base_list": [
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "f000067",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今まで空家だったその家に住みこみました。",
+        "sentence_with_furigana": "今まで 空家[あきや]だったその家に住みこみました。",
+        "word_base_list": [
+            "今",
+            "まで",
+            "空き家",
+            "だ",
+            "た",
+            "其の",
+            "家",
+            "に",
+            "住む",
+            "込む",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "今",
+            "まで",
+            "空家",
+            "だっ",
+            "た",
+            "その",
+            "家",
+            "に",
+            "住み",
+            "こみ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "f000068",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "もちろん、",
+        "sentence_with_furigana": "もちろん、",
+        "word_base_list": [
+            "勿論",
+            "、"
+        ],
+        "word_list": [
+            "もちろん",
+            "、"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "f000069",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "お母さんや書生さんもいっしょです。",
+        "sentence_with_furigana": "お母さんや 書生[しょせい]さんもいっしょです。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "や",
+            "書生",
+            "さん",
+            "も",
+            "一緒",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "や",
+            "書生",
+            "さん",
+            "も",
+            "いっしょ",
+            "です",
+            "。"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "f000070",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "f000071",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今日も空をまわっています。",
+        "sentence_with_furigana": "今日も空をまわっています。",
+        "word_base_list": [
+            "今日",
+            "も",
+            "空",
+            "を",
+            "回る",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "今日",
+            "も",
+            "空",
+            "を",
+            "まわっ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "f000072",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "夕陽が、",
+        "sentence_with_furigana": "夕陽[ゆうひ]が、",
+        "word_base_list": [
+            "夕日",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "夕陽",
+            "が",
+            "、"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "f000073",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "その羽をいっそう赤くしています。",
+        "sentence_with_furigana": "その 羽[はね]をいっそう赤くしています。",
+        "word_base_list": [
+            "其の",
+            "羽根",
+            "を",
+            "一層",
+            "赤い",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "羽",
+            "を",
+            "いっそう",
+            "赤く",
+            "し",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "S000074",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000074.mp3"
+    },
+    {
+        "id": "f000074",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「とんぼとんぼ",
+        "sentence_with_furigana": "「とんぼとんぼ",
+        "word_base_list": [
+            "「",
+            "蜻蛉",
+            "蜻蛉"
+        ],
+        "word_list": [
+            "「",
+            "とんぼ",
+            "とんぼ"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "f000075",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼ",
+        "sentence_with_furigana": "赤とんぼ",
+        "word_base_list": [
+            "赤蜻蛉"
+        ],
+        "word_list": [
+            "赤とんぼ"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "f000076",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "すすきの中は",
+        "sentence_with_furigana": "すすきの中は",
+        "word_base_list": [
+            "薄",
+            "の",
+            "中",
+            "は"
+        ],
+        "word_list": [
+            "すすき",
+            "の",
+            "中",
+            "は"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "f000077",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あぶないよ」",
+        "sentence_with_furigana": "あぶないよ」",
+        "word_base_list": [
+            "危ない",
+            "よ",
+            "」"
+        ],
+        "word_list": [
+            "あぶない",
+            "よ",
+            "」"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "f000078",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あどけない声で、",
+        "sentence_with_furigana": "あどけない声で、",
+        "word_base_list": [
+            "あどけない",
+            "声",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "あどけない",
+            "声",
+            "で",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "f000079",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "こんな歌をうたっているのが、",
+        "sentence_with_furigana": "こんな歌をうたっているのが、",
+        "word_base_list": [
+            "こんな",
+            "歌",
+            "を",
+            "歌う",
+            "て",
+            "居る",
+            "の",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "こんな",
+            "歌",
+            "を",
+            "うたっ",
+            "て",
+            "いる",
+            "の",
+            "が",
+            "、"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "f000080",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "聞こえて来ました。",
+        "sentence_with_furigana": "聞こえて来ました。",
+        "word_base_list": [
+            "聞こえる",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "聞こえ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "f000081",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "f000082",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あのおじょうちゃんだろうと思って、",
+        "sentence_with_furigana": "あのおじょうちゃんだろうと思って、",
+        "word_base_list": [
+            "彼の",
+            "御",
+            "じょう",
+            "ちゃん",
+            "だ",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あの",
+            "お",
+            "じょう",
+            "ちゃん",
+            "だろう",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "f000083",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そのまま、",
+        "sentence_with_furigana": "そのまま、",
+        "word_base_list": [
+            "其の",
+            "侭",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "まま",
+            "、"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "f000084",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "声のする方へ飛んで行きました。",
+        "sentence_with_furigana": "声のする方へ飛んで行きました。",
+        "word_base_list": [
+            "声",
+            "の",
+            "為る",
+            "方",
+            "へ",
+            "飛ぶ",
+            "で",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "声",
+            "の",
+            "する",
+            "方",
+            "へ",
+            "飛ん",
+            "で",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "f000085",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "思った通り、",
+        "sentence_with_furigana": "思った通り、",
+        "word_base_list": [
+            "思う",
+            "た",
+            "通り",
+            "、"
+        ],
+        "word_list": [
+            "思っ",
+            "た",
+            "通り",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "f000086",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "うたってるのは、",
+        "sentence_with_furigana": "うたってるのは、",
+        "word_base_list": [
+            "歌う",
+            "てる",
+            "の",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "うたっ",
+            "てる",
+            "の",
+            "は",
+            "、"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "f000087",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あのおじょうちゃんでした。",
+        "sentence_with_furigana": "あのおじょうちゃんでした。",
+        "word_base_list": [
+            "彼の",
+            "御",
+            "じょう",
+            "ちゃん",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "お",
+            "じょう",
+            "ちゃん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "f000088",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんは、",
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "f000089",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "庭で行水をしながら、",
+        "sentence_with_furigana": "庭で 行水[ぎょうずい]をしながら、",
+        "word_base_list": [
+            "庭",
+            "で",
+            "行水",
+            "を",
+            "為る",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "庭",
+            "で",
+            "行水",
+            "を",
+            "し",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "f000090",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "一人うたってたのです。",
+        "sentence_with_furigana": "一人うたってたのです。",
+        "word_base_list": [
+            "一人",
+            "歌う",
+            "てる",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "一人",
+            "うたっ",
+            "て",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "f000091",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼが、",
+        "sentence_with_furigana": "赤とんぼが、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "が",
+            "、"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "f000092",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "頭の上へ来ると、",
+        "sentence_with_furigana": "頭の上へ来ると、",
+        "word_base_list": [
+            "頭",
+            "の",
+            "上",
+            "へ",
+            "来る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "頭",
+            "の",
+            "上",
+            "へ",
+            "来る",
+            "と",
+            "、"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "f000093",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんは、",
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "f000094",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "持ってたおもちゃの金魚をにぎったまま、",
+        "sentence_with_furigana": "持ってたおもちゃの金魚をにぎったまま、",
+        "word_base_list": [
+            "持つ",
+            "てる",
+            "た",
+            "玩具",
+            "の",
+            "金魚",
+            "を",
+            "握る",
+            "た",
+            "侭",
+            "、"
+        ],
+        "word_list": [
+            "持っ",
+            "て",
+            "た",
+            "おもちゃ",
+            "の",
+            "金魚",
+            "を",
+            "にぎっ",
+            "た",
+            "まま",
+            "、"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "f000095",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「あたしの赤とんぼ！",
+        "sentence_with_furigana": "「あたしの赤とんぼ！",
+        "word_base_list": [
+            "「",
+            "私",
+            "の",
+            "赤蜻蛉",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "あたし",
+            "の",
+            "赤とんぼ",
+            "！"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "f000096",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "」とさけんで、",
+        "sentence_with_furigana": "」とさけんで、",
+        "word_base_list": [
+            "」",
+            "と",
+            "叫ぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "さけん",
+            "で",
+            "、"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "f000097",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "両手を高くさし上げました。",
+        "sentence_with_furigana": "両手を高くさし上げました。",
+        "word_base_list": [
+            "両手",
+            "を",
+            "高い",
+            "さす",
+            "上げる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "両手",
+            "を",
+            "高く",
+            "さし",
+            "上げ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "f000098",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "f000099",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とても愉快です。",
+        "sentence_with_furigana": "とても 愉快[ゆかい]です。",
+        "word_base_list": [
+            "迚も",
+            "愉快",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "とても",
+            "愉快",
+            "です",
+            "。"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "E000099",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000099.mp3"
+    },
+    {
+        "id": "f000100",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんが、",
+        "sentence_with_furigana": "書生[しょせい]さんが、",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "が",
+            "、"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "f000101",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "シャボンを持ってやって来ました。",
+        "sentence_with_furigana": "シャボンを持ってやって来ました。",
+        "word_base_list": [
+            "シャボン",
+            "を",
+            "持つ",
+            "て",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "シャボン",
+            "を",
+            "持っ",
+            "て",
+            "やっ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "f000102",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「おじょうさん、",
+        "sentence_with_furigana": "「おじょうさん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "f000103",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "背中を洗いましょうか？」",
+        "sentence_with_furigana": "背中[せなか]を 洗[あら]いましょうか？」",
+        "word_base_list": [
+            "背中",
+            "を",
+            "洗う",
+            "ます",
+            "か",
+            "？",
+            "」"
+        ],
+        "word_list": [
+            "背中",
+            "を",
+            "洗い",
+            "ましょう",
+            "か",
+            "？",
+            "」"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "f000104",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「いや──」",
+        "sentence_with_furigana": "「いや──」",
+        "word_base_list": [
+            "「",
+            "否",
+            "─",
+            "─",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "いや",
+            "─",
+            "─",
+            "」"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "f000105",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「だって──」",
+        "sentence_with_furigana": "「だって──」",
+        "word_base_list": [
+            "「",
+            "だ",
+            "って",
+            "─",
+            "─",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "だ",
+            "って",
+            "─",
+            "─",
+            "」"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "f000106",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「いや！",
+        "sentence_with_furigana": "「いや！",
+        "word_base_list": [
+            "「",
+            "否",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "いや",
+            "！"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "f000107",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "いや！",
+        "sentence_with_furigana": "いや！",
+        "word_base_list": [
+            "否",
+            "！"
+        ],
+        "word_list": [
+            "いや",
+            "！"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "f000108",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "お母さんでなくっちゃ──」",
+        "sentence_with_furigana": "お母さんでなくっちゃ──」",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "だ",
+            "無い",
+            "て",
+            "─",
+            "─",
+            "」"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "で",
+            "なく",
+            "っちゃ",
+            "─",
+            "─",
+            "」"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "f000109",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「困ったおじょうさん。」",
+        "sentence_with_furigana": "「 困[こま]ったおじょうさん。」",
+        "word_base_list": [
+            "「",
+            "困る",
+            "た",
+            "御",
+            "じょう",
+            "さん",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "困っ",
+            "た",
+            "お",
+            "じょう",
+            "さん",
+            "。",
+            "」"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "f000110",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんは、",
+        "sentence_with_furigana": "書生[しょせい]さんは、",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "f000111",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "頭をかきながら歩き出しましたが、",
+        "sentence_with_furigana": "頭をかきながら歩き出しましたが、",
+        "word_base_list": [
+            "頭",
+            "を",
+            "かく",
+            "ながら",
+            "歩く",
+            "出す",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "頭",
+            "を",
+            "かき",
+            "ながら",
+            "歩き",
+            "出し",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "f000112",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "朝顔の葉にとまって、",
+        "sentence_with_furigana": "朝顔の葉にとまって、",
+        "word_base_list": [
+            "朝顔",
+            "の",
+            "葉",
+            "に",
+            "とまる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "朝顔",
+            "の",
+            "葉",
+            "に",
+            "とまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "f000113",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "ふたりの話をきいてる赤とんぼを見つけると、",
+        "sentence_with_furigana": "ふたりの話をきいてる赤とんぼを見つけると、",
+        "word_base_list": [
+            "二人",
+            "の",
+            "話",
+            "を",
+            "きく",
+            "てる",
+            "赤蜻蛉",
+            "を",
+            "見付ける",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "ふたり",
+            "の",
+            "話",
+            "を",
+            "きい",
+            "てる",
+            "赤とんぼ",
+            "を",
+            "見つける",
+            "と",
+            "、"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "f000114",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "右手を大きくグルーッと一回まわしました。",
+        "sentence_with_furigana": "右手を大きくグルーッと一回まわしました。",
+        "word_base_list": [
+            "右手",
+            "を",
+            "大きい",
+            "ぐるー",
+            "と",
+            "一",
+            "回",
+            "回す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "右手",
+            "を",
+            "大きく",
+            "グルーッ",
+            "と",
+            "一",
+            "回",
+            "まわし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "f000115",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "妙な事をするな──",
+        "sentence_with_furigana": "妙[みょう]な事をするな──",
+        "word_base_list": [
+            "妙",
+            "だ",
+            "事",
+            "を",
+            "為る",
+            "な",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "妙",
+            "な",
+            "事",
+            "を",
+            "する",
+            "な",
+            "─",
+            "─"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "f000116",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と思って、",
+        "sentence_with_furigana": "と思って、",
+        "word_base_list": [
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "f000117",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼはその指先を見ていました。",
+        "sentence_with_furigana": "赤とんぼはその指先を見ていました。",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "其の",
+            "指先",
+            "を",
+            "見る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "その",
+            "指先",
+            "を",
+            "見",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "S000118",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000118.mp3"
+    },
+    {
+        "id": "f000118",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "つづけて、",
+        "sentence_with_furigana": "つづけて、",
+        "word_base_list": [
+            "続ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "つづけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "f000119",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "グルグルと書生さんは右手をまわします。",
+        "sentence_with_furigana": "グルグルと書生さんは右手をまわします。",
+        "word_base_list": [
+            "ぐるぐる",
+            "と",
+            "書生",
+            "さん",
+            "は",
+            "右手",
+            "を",
+            "回す",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "グルグル",
+            "と",
+            "書生",
+            "さん",
+            "は",
+            "右手",
+            "を",
+            "まわし",
+            "ます",
+            "。"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "f000120",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "f000121",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "だんだん、",
+        "sentence_with_furigana": "だんだん、",
+        "word_base_list": [
+            "段々",
+            "、"
+        ],
+        "word_list": [
+            "だんだん",
+            "、"
+        ],
+        "sound": "f000121.mp3"
+    },
+    {
+        "id": "f000122",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "その円を小さくして赤とんぼに近づいて来ます。",
+        "sentence_with_furigana": "その円を小さくして赤とんぼに近づいて来ます。",
+        "word_base_list": [
+            "其の",
+            "円",
+            "を",
+            "小さい",
+            "為る",
+            "て",
+            "赤蜻蛉",
+            "に",
+            "近付く",
+            "て",
+            "来る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "円",
+            "を",
+            "小さく",
+            "し",
+            "て",
+            "赤とんぼ",
+            "に",
+            "近づい",
+            "て",
+            "来",
+            "ます",
+            "。"
+        ],
+        "sound": "f000122.mp3"
+    },
+    {
+        "id": "E000122",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000122.mp3"
+    },
+    {
+        "id": "f000123",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000123.mp3"
+    },
+    {
+        "id": "f000124",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "大きな眼をギョロギョロ動かして、",
+        "sentence_with_furigana": "大きな 眼[め]をギョロギョロ動かして、",
+        "word_base_list": [
+            "大きな",
+            "目",
+            "を",
+            "ぎょろぎょろ",
+            "動かす",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "大きな",
+            "眼",
+            "を",
+            "ギョロギョロ",
+            "動かし",
+            "て",
+            "、"
+        ],
+        "sound": "f000124.mp3"
+    },
+    {
+        "id": "f000125",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんの指先をみつめています。",
+        "sentence_with_furigana": "書生さんの指先をみつめています。",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "の",
+            "指先",
+            "を",
+            "見る",
+            "つめる",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "の",
+            "指先",
+            "を",
+            "み",
+            "つめ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000125.mp3"
+    },
+    {
+        "id": "E000125",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000125.mp3"
+    },
+    {
+        "id": "f000126",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "だんだん、",
+        "sentence_with_furigana": "だんだん、",
+        "word_base_list": [
+            "段々",
+            "、"
+        ],
+        "word_list": [
+            "だんだん",
+            "、"
+        ],
+        "sound": "f000126.mp3"
+    },
+    {
+        "id": "f000127",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "円は小さく近く、",
+        "sentence_with_furigana": "円は小さく近く、",
+        "word_base_list": [
+            "円",
+            "は",
+            "小さい",
+            "近い",
+            "、"
+        ],
+        "word_list": [
+            "円",
+            "は",
+            "小さく",
+            "近く",
+            "、"
+        ],
+        "sound": "f000127.mp3"
+    },
+    {
+        "id": "f000128",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そして早くまわって来ます。",
+        "sentence_with_furigana": "そして早くまわって来ます。",
+        "word_base_list": [
+            "そして",
+            "早い",
+            "回る",
+            "て",
+            "来る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "そして",
+            "早く",
+            "まわっ",
+            "て",
+            "来",
+            "ます",
+            "。"
+        ],
+        "sound": "f000128.mp3"
+    },
+    {
+        "id": "f000129",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000129.mp3"
+    },
+    {
+        "id": "f000130",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "眼まいをしてしまいました。",
+        "sentence_with_furigana": "眼[め]まいをしてしまいました。",
+        "word_base_list": [
+            "目眩",
+            "を",
+            "為る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "眼まい",
+            "を",
+            "し",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000130.mp3"
+    },
+    {
+        "id": "f000131",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "つぎの瞬間、",
+        "sentence_with_furigana": "つぎの 瞬間[しゅんかん]、",
+        "word_base_list": [
+            "次",
+            "の",
+            "瞬間",
+            "、"
+        ],
+        "word_list": [
+            "つぎ",
+            "の",
+            "瞬間",
+            "、"
+        ],
+        "sound": "f000131.mp3"
+    },
+    {
+        "id": "f000132",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000132.mp3"
+    },
+    {
+        "id": "f000133",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんの大きな指にはさまれていました。",
+        "sentence_with_furigana": "書生[しょせい]さんの大きな指にはさまれていました。",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "の",
+            "大きな",
+            "指",
+            "に",
+            "挟む",
+            "れる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "の",
+            "大きな",
+            "指",
+            "に",
+            "はさま",
+            "れ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000133.mp3"
+    },
+    {
+        "id": "f000134",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「おじょうさん、",
+        "sentence_with_furigana": "「おじょうさん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "じょう",
+            "さん",
+            "、"
+        ],
+        "sound": "f000134.mp3"
+    },
+    {
+        "id": "f000135",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼをつかまえましたよ。",
+        "sentence_with_furigana": "赤とんぼをつかまえましたよ。",
+        "word_base_list": [
+            "赤蜻蛉",
+            "を",
+            "捕まえる",
+            "ます",
+            "た",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "を",
+            "つかまえ",
+            "まし",
+            "た",
+            "よ",
+            "。"
+        ],
+        "sound": "f000135.mp3"
+    },
+    {
+        "id": "f000136",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あげましょうか？」",
+        "sentence_with_furigana": "あげましょうか？」",
+        "word_base_list": [
+            "上げる",
+            "ます",
+            "か",
+            "？",
+            "」"
+        ],
+        "word_list": [
+            "あげ",
+            "ましょう",
+            "か",
+            "？",
+            "」"
+        ],
+        "sound": "f000136.mp3"
+    },
+    {
+        "id": "f000137",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「ばか！",
+        "sentence_with_furigana": "「ばか！",
+        "word_base_list": [
+            "「",
+            "ばか",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "ばか",
+            "！"
+        ],
+        "sound": "f000137.mp3"
+    },
+    {
+        "id": "f000138",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あたしの赤とんぼをつかまえたりなんかして──",
+        "sentence_with_furigana": "あたしの赤とんぼをつかまえたりなんかして──",
+        "word_base_list": [
+            "私",
+            "の",
+            "赤蜻蛉",
+            "を",
+            "捕まえる",
+            "たり",
+            "なんか",
+            "為る",
+            "て",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "あたし",
+            "の",
+            "赤とんぼ",
+            "を",
+            "つかまえ",
+            "たり",
+            "なんか",
+            "し",
+            "て",
+            "─",
+            "─"
+        ],
+        "sound": "f000138.mp3"
+    },
+    {
+        "id": "f000139",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "山田のばか！」",
+        "sentence_with_furigana": "山田のばか！」",
+        "word_base_list": [
+            "山田",
+            "の",
+            "ばか",
+            "！",
+            "」"
+        ],
+        "word_list": [
+            "山田",
+            "の",
+            "ばか",
+            "！",
+            "」"
+        ],
+        "sound": "f000139.mp3"
+    },
+    {
+        "id": "f000140",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんは、",
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000140.mp3"
+    },
+    {
+        "id": "f000141",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "口をとがらして、",
+        "sentence_with_furigana": "口をとがらして、",
+        "word_base_list": [
+            "口",
+            "を",
+            "尖らす",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "口",
+            "を",
+            "とがらし",
+            "て",
+            "、"
+        ],
+        "sound": "f000141.mp3"
+    },
+    {
+        "id": "f000142",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "湯を書生さんにぶっかけました。",
+        "sentence_with_furigana": "湯[ゆ]を書生さんにぶっかけました。",
+        "word_base_list": [
+            "湯",
+            "を",
+            "書生",
+            "さん",
+            "に",
+            "打つ",
+            "掛ける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "湯",
+            "を",
+            "書生",
+            "さん",
+            "に",
+            "ぶっ",
+            "かけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000142.mp3"
+    },
+    {
+        "id": "f000143",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんは、",
+        "sentence_with_furigana": "書生さんは、",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000143.mp3"
+    },
+    {
+        "id": "f000144",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼをはなして逃げて行きました。",
+        "sentence_with_furigana": "赤とんぼをはなして 逃[に]げて行きました。",
+        "word_base_list": [
+            "赤蜻蛉",
+            "を",
+            "はなす",
+            "て",
+            "逃げる",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "を",
+            "はなし",
+            "て",
+            "逃げ",
+            "て",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000144.mp3"
+    },
+    {
+        "id": "E000144",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000144.mp3"
+    },
+    {
+        "id": "f000145",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000145.mp3"
+    },
+    {
+        "id": "f000146",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "ホッとして空へ飛び上がりました。",
+        "sentence_with_furigana": "ホッとして空へ飛び上がりました。",
+        "word_base_list": [
+            "ほっと",
+            "為る",
+            "て",
+            "空",
+            "へ",
+            "飛ぶ",
+            "上がる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ホッと",
+            "し",
+            "て",
+            "空",
+            "へ",
+            "飛び",
+            "上がり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000146.mp3"
+    },
+    {
+        "id": "S000147",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000147.mp3"
+    },
+    {
+        "id": "f000147",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "良いおじょうちゃんだな、",
+        "sentence_with_furigana": "良いおじょうちゃんだな、",
+        "word_base_list": [
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "だ",
+            "な",
+            "、"
+        ],
+        "word_list": [
+            "良い",
+            "お",
+            "じょう",
+            "ちゃん",
+            "だ",
+            "な",
+            "、"
+        ],
+        "sound": "f000147.mp3"
+    },
+    {
+        "id": "f000148",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と思いながら──",
+        "sentence_with_furigana": "と思いながら──",
+        "word_base_list": [
+            "と",
+            "思う",
+            "ながら",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "と",
+            "思い",
+            "ながら",
+            "─",
+            "─"
+        ],
+        "sound": "f000148.mp3"
+    },
+    {
+        "id": "E000148",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000148.mp3"
+    },
+    {
+        "id": "f000149",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "空は真青に晴れています。",
+        "sentence_with_furigana": "空は 真青[まっさお]に晴れています。",
+        "word_base_list": [
+            "空",
+            "は",
+            "真っ青",
+            "だ",
+            "晴れる",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "空",
+            "は",
+            "真青",
+            "に",
+            "晴れ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000149.mp3"
+    },
+    {
+        "id": "f000150",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "どこまでも澄んでいます。",
+        "sentence_with_furigana": "どこまでも 澄[す]んでいます。",
+        "word_base_list": [
+            "どこ",
+            "まで",
+            "も",
+            "澄む",
+            "で",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "どこ",
+            "まで",
+            "も",
+            "澄ん",
+            "で",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000150.mp3"
+    },
+    {
+        "id": "f000151",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000151.mp3"
+    },
+    {
+        "id": "f000152",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "窓に羽を休めて、",
+        "sentence_with_furigana": "窓[まど]に 羽[はね]を休めて、",
+        "word_base_list": [
+            "窓",
+            "に",
+            "羽根",
+            "を",
+            "休む",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "窓",
+            "に",
+            "羽",
+            "を",
+            "休め",
+            "て",
+            "、"
+        ],
+        "sound": "f000152.mp3"
+    },
+    {
+        "id": "f000153",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんのお話に耳をかたむけています、",
+        "sentence_with_furigana": "書生さんのお話に耳をかたむけています、",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "の",
+            "御",
+            "話",
+            "に",
+            "耳",
+            "を",
+            "傾く",
+            "て",
+            "居る",
+            "ます",
+            "、"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "の",
+            "お",
+            "話",
+            "に",
+            "耳",
+            "を",
+            "かたむけ",
+            "て",
+            "い",
+            "ます",
+            "、"
+        ],
+        "sound": "f000153.mp3"
+    },
+    {
+        "id": "f000154",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "かあいいおじょうちゃんと同じように。",
+        "sentence_with_furigana": "かあいいおじょうちゃんと同じように。",
+        "word_base_list": [
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "と",
+            "同じ",
+            "様",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "と",
+            "同じ",
+            "よう",
+            "に",
+            "。"
+        ],
+        "sound": "f000154.mp3"
+    },
+    {
+        "id": "E000154",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000154.mp3"
+    },
+    {
+        "id": "f000155",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「それからね、",
+        "sentence_with_furigana": "「それからね、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "から",
+            "ね",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "それ",
+            "から",
+            "ね",
+            "、"
+        ],
+        "sound": "f000155.mp3"
+    },
+    {
+        "id": "f000156",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そのとんぼは、",
+        "sentence_with_furigana": "そのとんぼは、",
+        "word_base_list": [
+            "其の",
+            "蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000156.mp3"
+    },
+    {
+        "id": "f000157",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "怒って大蜘蛛のやつにくいかかりました。",
+        "sentence_with_furigana": "怒[おこ]って大 蜘蛛[ぐも]のやつにくいかかりました。",
+        "word_base_list": [
+            "怒る",
+            "て",
+            "大蜘蛛",
+            "の",
+            "奴",
+            "難い",
+            "掛かる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "怒っ",
+            "て",
+            "大蜘蛛",
+            "の",
+            "やつ",
+            "にくい",
+            "かかり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000157.mp3"
+    },
+    {
+        "id": "f000158",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "くいつかれた大蜘蛛は、",
+        "sentence_with_furigana": "くいつかれた大 蜘蛛[ぐも]は、",
+        "word_base_list": [
+            "食う",
+            "付く",
+            "れる",
+            "た",
+            "大蜘蛛",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "くい",
+            "つか",
+            "れ",
+            "た",
+            "大蜘蛛",
+            "は",
+            "、"
+        ],
+        "sound": "f000158.mp3"
+    },
+    {
+        "id": "f000159",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "痛い！",
+        "sentence_with_furigana": "痛[いた]い！",
+        "word_base_list": [
+            "痛い",
+            "！"
+        ],
+        "word_list": [
+            "痛い",
+            "！"
+        ],
+        "sound": "f000159.mp3"
+    },
+    {
+        "id": "f000160",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "痛い！",
+        "sentence_with_furigana": "痛[いた]い！",
+        "word_base_list": [
+            "痛い",
+            "！"
+        ],
+        "word_list": [
+            "痛い",
+            "！"
+        ],
+        "sound": "f000160.mp3"
+    },
+    {
+        "id": "f000161",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "助けてくれってね、",
+        "sentence_with_furigana": "助けてくれってね、",
+        "word_base_list": [
+            "助ける",
+            "て",
+            "呉れる",
+            "って",
+            "ね",
+            "、"
+        ],
+        "word_list": [
+            "助け",
+            "て",
+            "くれ",
+            "って",
+            "ね",
+            "、"
+        ],
+        "sound": "f000161.mp3"
+    },
+    {
+        "id": "f000162",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "大声にさけんだのですよ。",
+        "sentence_with_furigana": "大声にさけんだのですよ。",
+        "word_base_list": [
+            "大声",
+            "に",
+            "叫ぶ",
+            "た",
+            "の",
+            "です",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "大声",
+            "に",
+            "さけん",
+            "だ",
+            "の",
+            "です",
+            "よ",
+            "。"
+        ],
+        "sound": "f000162.mp3"
+    },
+    {
+        "id": "f000163",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000163.mp3"
+    },
+    {
+        "id": "f000164",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "出て来たわ、",
+        "sentence_with_furigana": "出て来たわ、",
+        "word_base_list": [
+            "出る",
+            "て",
+            "来る",
+            "た",
+            "わ",
+            "、"
+        ],
+        "word_list": [
+            "出",
+            "て",
+            "来",
+            "た",
+            "わ",
+            "、"
+        ],
+        "sound": "f000164.mp3"
+    },
+    {
+        "id": "f000165",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "出て来たわ、",
+        "sentence_with_furigana": "出て来たわ、",
+        "word_base_list": [
+            "出る",
+            "て",
+            "来る",
+            "た",
+            "わ",
+            "、"
+        ],
+        "word_list": [
+            "出",
+            "て",
+            "来",
+            "た",
+            "わ",
+            "、"
+        ],
+        "sound": "f000165.mp3"
+    },
+    {
+        "id": "f000166",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "小さな蜘蛛が、",
+        "sentence_with_furigana": "小さな 蜘蛛[くも]が、",
+        "word_base_list": [
+            "小さな",
+            "蜘蛛",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "小さな",
+            "蜘蛛",
+            "が",
+            "、"
+        ],
+        "sound": "f000166.mp3"
+    },
+    {
+        "id": "f000167",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "雲のように出て来ました。",
+        "sentence_with_furigana": "雲のように出て来ました。",
+        "word_base_list": [
+            "雲",
+            "の",
+            "様",
+            "だ",
+            "出る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "雲",
+            "の",
+            "よう",
+            "に",
+            "出",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000167.mp3"
+    },
+    {
+        "id": "S000168",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000168.mp3"
+    },
+    {
+        "id": "f000168",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "word_base_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000168.mp3"
+    },
+    {
+        "id": "f000169",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とんぼは、",
+        "sentence_with_furigana": "とんぼは、",
+        "word_base_list": [
+            "蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000169.mp3"
+    },
+    {
+        "id": "f000170",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "もともと強いんですから、",
+        "sentence_with_furigana": "もともと強いんですから、",
+        "word_base_list": [
+            "元々",
+            "強い",
+            "の",
+            "です",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "もともと",
+            "強い",
+            "ん",
+            "です",
+            "から",
+            "、"
+        ],
+        "sound": "f000170.mp3"
+    },
+    {
+        "id": "f000171",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "片端から蜘蛛にくいついて、",
+        "sentence_with_furigana": "片端[かたはし]から 蜘蛛[くも]にくいついて、",
+        "word_base_list": [
+            "片端",
+            "から",
+            "蜘蛛",
+            "に",
+            "食う",
+            "付く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "片端",
+            "から",
+            "蜘蛛",
+            "に",
+            "くい",
+            "つい",
+            "て",
+            "、"
+        ],
+        "sound": "f000171.mp3"
+    },
+    {
+        "id": "f000172",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とうとう一匹残らず殺してしまいました。",
+        "sentence_with_furigana": "とうとう一 匹[ぴき] 残[のこ]らず 殺[ころ]してしまいました。",
+        "word_base_list": [
+            "到頭",
+            "1",
+            "匹",
+            "残る",
+            "ず",
+            "殺す",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "とうとう",
+            "一",
+            "匹",
+            "残ら",
+            "ず",
+            "殺し",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000172.mp3"
+    },
+    {
+        "id": "f000173",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "ホッとしてそのとんぼが、",
+        "sentence_with_furigana": "ホッとしてそのとんぼが、",
+        "word_base_list": [
+            "ほっと",
+            "為る",
+            "て",
+            "其の",
+            "蜻蛉",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ホッと",
+            "し",
+            "て",
+            "その",
+            "とんぼ",
+            "が",
+            "、"
+        ],
+        "sound": "f000173.mp3"
+    },
+    {
+        "id": "f000174",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "自分の姿を見ると、",
+        "sentence_with_furigana": "自分の 姿[すがた]を見ると、",
+        "word_base_list": [
+            "自分",
+            "の",
+            "姿",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "の",
+            "姿",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000174.mp3"
+    },
+    {
+        "id": "f000175",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "これはまあどうでしょう、",
+        "sentence_with_furigana": "これはまあどうでしょう、",
+        "word_base_list": [
+            "此れ",
+            "は",
+            "まあ",
+            "どう",
+            "です",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "は",
+            "まあ",
+            "どう",
+            "でしょう",
+            "、"
+        ],
+        "sound": "f000175.mp3"
+    },
+    {
+        "id": "f000176",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "蜘蛛の血が、",
+        "sentence_with_furigana": "蜘蛛[くも]の血が、",
+        "word_base_list": [
+            "蜘蛛",
+            "の",
+            "血",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "蜘蛛",
+            "の",
+            "血",
+            "が",
+            "、"
+        ],
+        "sound": "f000176.mp3"
+    },
+    {
+        "id": "f000177",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "まっかについてるじゃありませんか。",
+        "sentence_with_furigana": "まっかについてるじゃありませんか。",
+        "word_base_list": [
+            "真っ赤",
+            "だ",
+            "つく",
+            "てる",
+            "だ",
+            "有る",
+            "ます",
+            "ず",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "まっか",
+            "に",
+            "つい",
+            "てる",
+            "じゃ",
+            "あり",
+            "ませ",
+            "ん",
+            "か",
+            "。"
+        ],
+        "sound": "f000177.mp3"
+    },
+    {
+        "id": "f000178",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "さあ大変だって、",
+        "sentence_with_furigana": "さあ大変だって、",
+        "word_base_list": [
+            "さあ",
+            "大変",
+            "だ",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "さあ",
+            "大変",
+            "だ",
+            "って",
+            "、"
+        ],
+        "sound": "f000178.mp3"
+    },
+    {
+        "id": "f000179",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とんぼは、",
+        "sentence_with_furigana": "とんぼは、",
+        "word_base_list": [
+            "蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000179.mp3"
+    },
+    {
+        "id": "f000180",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "泉へ飛んで行って、",
+        "sentence_with_furigana": "泉へ飛んで行って、",
+        "word_base_list": [
+            "泉",
+            "へ",
+            "飛ぶ",
+            "で",
+            "行く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "泉",
+            "へ",
+            "飛ん",
+            "で",
+            "行っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000180.mp3"
+    },
+    {
+        "id": "f000181",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "からだを洗いました。",
+        "sentence_with_furigana": "からだを 洗[あら]いました。",
+        "word_base_list": [
+            "体",
+            "を",
+            "洗う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "からだ",
+            "を",
+            "洗い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000181.mp3"
+    },
+    {
+        "id": "f000182",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "が、",
+        "sentence_with_furigana": "が、",
+        "word_base_list": [
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "が",
+            "、"
+        ],
+        "sound": "f000182.mp3"
+    },
+    {
+        "id": "f000183",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤い血はちっともとれません。",
+        "sentence_with_furigana": "赤い血はちっともとれません。",
+        "word_base_list": [
+            "赤い",
+            "血",
+            "は",
+            "些とも",
+            "取る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "血",
+            "は",
+            "ちっとも",
+            "とれ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000183.mp3"
+    },
+    {
+        "id": "f000184",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "で、",
+        "sentence_with_furigana": "で、",
+        "word_base_list": [
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "、"
+        ],
+        "sound": "f000184.mp3"
+    },
+    {
+        "id": "f000185",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "神様にお願いしてみると、",
+        "sentence_with_furigana": "神様にお 願[ねが]いしてみると、",
+        "word_base_list": [
+            "神",
+            "様",
+            "に",
+            "御",
+            "願う",
+            "為る",
+            "て",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "神",
+            "様",
+            "に",
+            "お",
+            "願い",
+            "し",
+            "て",
+            "みる",
+            "と",
+            "、"
+        ],
+        "sound": "f000185.mp3"
+    },
+    {
+        "id": "f000186",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "お前は、",
+        "sentence_with_furigana": "お前は、",
+        "word_base_list": [
+            "御前",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お前",
+            "は",
+            "、"
+        ],
+        "sound": "f000186.mp3"
+    },
+    {
+        "id": "f000187",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "罪の無い蜘蛛をたくさん殺したから、",
+        "sentence_with_furigana": "罪[つみ]の無い 蜘蛛[くも]をたくさん 殺[ころ]したから、",
+        "word_base_list": [
+            "罪",
+            "の",
+            "無い",
+            "蜘蛛",
+            "を",
+            "沢山",
+            "殺す",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "罪",
+            "の",
+            "無い",
+            "蜘蛛",
+            "を",
+            "たくさん",
+            "殺し",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000187.mp3"
+    },
+    {
+        "id": "f000188",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そのたたりでそんなになったんだと、",
+        "sentence_with_furigana": "そのたたりでそんなになったんだと、",
+        "word_base_list": [
+            "其の",
+            "祟り",
+            "で",
+            "そんな",
+            "だ",
+            "成る",
+            "た",
+            "の",
+            "だ",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "たたり",
+            "で",
+            "そんな",
+            "に",
+            "なっ",
+            "た",
+            "ん",
+            "だ",
+            "と",
+            "、"
+        ],
+        "sound": "f000188.mp3"
+    },
+    {
+        "id": "f000189",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "叱られてしまいました。",
+        "sentence_with_furigana": "叱[しか]られてしまいました。",
+        "word_base_list": [
+            "叱る",
+            "れる",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "叱ら",
+            "れ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000189.mp3"
+    },
+    {
+        "id": "f000190",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そのとんぼが今の赤とんぼなんですよ。",
+        "sentence_with_furigana": "そのとんぼが今の赤とんぼなんですよ。",
+        "word_base_list": [
+            "其の",
+            "蜻蛉",
+            "が",
+            "今",
+            "の",
+            "赤蜻蛉",
+            "だ",
+            "の",
+            "です",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "とんぼ",
+            "が",
+            "今",
+            "の",
+            "赤とんぼ",
+            "な",
+            "ん",
+            "です",
+            "よ",
+            "。"
+        ],
+        "sound": "f000190.mp3"
+    },
+    {
+        "id": "f000191",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "だから、",
+        "sentence_with_furigana": "だから、",
+        "word_base_list": [
+            "だ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "だ",
+            "から",
+            "、"
+        ],
+        "sound": "f000191.mp3"
+    },
+    {
+        "id": "f000192",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは良くないとんぼです。」",
+        "sentence_with_furigana": "赤とんぼは良くないとんぼです。」",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "良い",
+            "無い",
+            "蜻蛉",
+            "です",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "良く",
+            "ない",
+            "とんぼ",
+            "です",
+            "。",
+            "」"
+        ],
+        "sound": "f000192.mp3"
+    },
+    {
+        "id": "f000193",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "書生さんのお話は終わりました。",
+        "sentence_with_furigana": "書生[しょせい]さんのお話は終わりました。",
+        "word_base_list": [
+            "書生",
+            "さん",
+            "の",
+            "御",
+            "話",
+            "は",
+            "終わる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "書生",
+            "さん",
+            "の",
+            "お",
+            "話",
+            "は",
+            "終わり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000193.mp3"
+    },
+    {
+        "id": "f000194",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "私は、",
+        "sentence_with_furigana": "私[わたし]は、",
+        "word_base_list": [
+            "私",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "私",
+            "は",
+            "、"
+        ],
+        "sound": "f000194.mp3"
+    },
+    {
+        "id": "f000195",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そんな酷い事をしたおぼえはないがと、",
+        "sentence_with_furigana": "そんな 酷[むご]い事をしたおぼえはないがと、",
+        "word_base_list": [
+            "そんな",
+            "酷い",
+            "事",
+            "を",
+            "為る",
+            "た",
+            "覚え",
+            "は",
+            "無い",
+            "が",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "そんな",
+            "酷い",
+            "事",
+            "を",
+            "し",
+            "た",
+            "おぼえ",
+            "は",
+            "ない",
+            "が",
+            "と",
+            "、"
+        ],
+        "sound": "f000195.mp3"
+    },
+    {
+        "id": "f000196",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼが、",
+        "sentence_with_furigana": "赤とんぼが、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "が",
+            "、"
+        ],
+        "sound": "f000196.mp3"
+    },
+    {
+        "id": "f000197",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "首をひねって考えましたとき、",
+        "sentence_with_furigana": "首をひねって考えましたとき、",
+        "word_base_list": [
+            "首",
+            "を",
+            "捻る",
+            "て",
+            "考える",
+            "ます",
+            "た",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "首",
+            "を",
+            "ひねっ",
+            "て",
+            "考え",
+            "まし",
+            "た",
+            "とき",
+            "、"
+        ],
+        "sound": "f000197.mp3"
+    },
+    {
+        "id": "f000198",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんが大声でさけびました。",
+        "sentence_with_furigana": "おじょうちゃんが大声でさけびました。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "が",
+            "大声",
+            "で",
+            "叫ぶ",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "が",
+            "大声",
+            "で",
+            "さけび",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000198.mp3"
+    },
+    {
+        "id": "f000199",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「嘘だ嘘だ！",
+        "sentence_with_furigana": "「 嘘[うそ]だ 嘘[うそ]だ！",
+        "word_base_list": [
+            "「",
+            "嘘",
+            "だ",
+            "嘘",
+            "だ",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "嘘",
+            "だ",
+            "嘘",
+            "だ",
+            "！"
+        ],
+        "sound": "f000199.mp3"
+    },
+    {
+        "id": "f000200",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "山田のお話は、",
+        "sentence_with_furigana": "山田のお話は、",
+        "word_base_list": [
+            "山田",
+            "の",
+            "御",
+            "話",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "山田",
+            "の",
+            "お",
+            "話",
+            "は",
+            "、"
+        ],
+        "sound": "f000200.mp3"
+    },
+    {
+        "id": "f000201",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "みんな嘘だよ。",
+        "sentence_with_furigana": "みんな 嘘[うそ]だよ。",
+        "word_base_list": [
+            "皆",
+            "嘘",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "嘘",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000201.mp3"
+    },
+    {
+        "id": "f000202",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あんなかあいらしい赤とんぼが、",
+        "sentence_with_furigana": "あんなかあいらしい赤とんぼが、",
+        "word_base_list": [
+            "あんな",
+            "か",
+            "愛らしい",
+            "赤蜻蛉",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "あんな",
+            "か",
+            "あいらしい",
+            "赤とんぼ",
+            "が",
+            "、"
+        ],
+        "sound": "f000202.mp3"
+    },
+    {
+        "id": "f000203",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そんな酷い事をするなんて、",
+        "sentence_with_furigana": "そんな 酷[むご]い事をするなんて、",
+        "word_base_list": [
+            "そんな",
+            "酷い",
+            "事",
+            "を",
+            "為る",
+            "なんて",
+            "、"
+        ],
+        "word_list": [
+            "そんな",
+            "酷い",
+            "事",
+            "を",
+            "する",
+            "なんて",
+            "、"
+        ],
+        "sound": "f000203.mp3"
+    },
+    {
+        "id": "f000204",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "蜘蛛の赤血だなんて──",
+        "sentence_with_furigana": "蜘蛛[くも]の赤血だなんて──",
+        "word_base_list": [
+            "蜘蛛",
+            "の",
+            "赤血",
+            "だ",
+            "なんて",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "蜘蛛",
+            "の",
+            "赤血",
+            "だ",
+            "なんて",
+            "─",
+            "─"
+        ],
+        "sound": "f000204.mp3"
+    },
+    {
+        "id": "f000205",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "みんな嘘だよ。」",
+        "sentence_with_furigana": "みんな 嘘[うそ]だよ。」",
+        "word_base_list": [
+            "皆",
+            "嘘",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "みんな",
+            "嘘",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000205.mp3"
+    },
+    {
+        "id": "f000206",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000206.mp3"
+    },
+    {
+        "id": "f000207",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "真実にうれしく思いました。",
+        "sentence_with_furigana": "真実[ほんとう]にうれしく思いました。",
+        "word_base_list": [
+            "真実",
+            "に",
+            "嬉しい",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "真実",
+            "に",
+            "うれしく",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000207.mp3"
+    },
+    {
+        "id": "f000208",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "例の書生さんは、",
+        "sentence_with_furigana": "例の書生さんは、",
+        "word_base_list": [
+            "例",
+            "の",
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "例",
+            "の",
+            "書生",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000208.mp3"
+    },
+    {
+        "id": "f000209",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "顔をあかくして行ってしまいました。",
+        "sentence_with_furigana": "顔をあかくして行ってしまいました。",
+        "word_base_list": [
+            "顔",
+            "を",
+            "赤い",
+            "為る",
+            "て",
+            "行く",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "顔",
+            "を",
+            "あかく",
+            "し",
+            "て",
+            "行っ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000209.mp3"
+    },
+    {
+        "id": "E000209",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000209.mp3"
+    },
+    {
+        "id": "f000210",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "窓から離れて、",
+        "sentence_with_furigana": "窓[まど]から 離[はな]れて、",
+        "word_base_list": [
+            "窓",
+            "から",
+            "離れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "窓",
+            "から",
+            "離れ",
+            "て",
+            "、"
+        ],
+        "sound": "f000210.mp3"
+    },
+    {
+        "id": "f000211",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000211.mp3"
+    },
+    {
+        "id": "f000212",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんの肩につかまりました。",
+        "sentence_with_furigana": "おじょうちゃんの 肩[かた]につかまりました。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "に",
+            "捕まる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "に",
+            "つかまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000212.mp3"
+    },
+    {
+        "id": "f000213",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「まア！",
+        "sentence_with_furigana": "「まア！",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "まア",
+            "！"
+        ],
+        "sound": "f000213.mp3"
+    },
+    {
+        "id": "f000214",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あたしの赤とんぼ！",
+        "sentence_with_furigana": "あたしの赤とんぼ！",
+        "word_base_list": [
+            "私",
+            "の",
+            "赤蜻蛉",
+            "！"
+        ],
+        "word_list": [
+            "あたし",
+            "の",
+            "赤とんぼ",
+            "！"
+        ],
+        "sound": "f000214.mp3"
+    },
+    {
+        "id": "f000215",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "かあいい赤とんぼ！」",
+        "sentence_with_furigana": "かあいい赤とんぼ！」",
+        "word_base_list": [
+            "母",
+            "良い",
+            "赤蜻蛉",
+            "！",
+            "」"
+        ],
+        "word_list": [
+            "かあ",
+            "いい",
+            "赤とんぼ",
+            "！",
+            "」"
+        ],
+        "sound": "f000215.mp3"
+    },
+    {
+        "id": "f000216",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんの瞳は、",
+        "sentence_with_furigana": "おじょうちゃんの 瞳[ひとみ]は、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "瞳",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "瞳",
+            "は",
+            "、"
+        ],
+        "sound": "f000216.mp3"
+    },
+    {
+        "id": "f000217",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "黒く澄んでいました。",
+        "sentence_with_furigana": "黒く 澄[す]んでいました。",
+        "word_base_list": [
+            "黒い",
+            "澄む",
+            "で",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "黒く",
+            "澄ん",
+            "で",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000217.mp3"
+    },
+    {
+        "id": "E000217",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000217.mp3"
+    },
+    {
+        "id": "f000218",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "暑かった夏は、",
+        "sentence_with_furigana": "暑[あつ]かった夏は、",
+        "word_base_list": [
+            "暑い",
+            "た",
+            "夏",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "暑かっ",
+            "た",
+            "夏",
+            "は",
+            "、"
+        ],
+        "sound": "f000218.mp3"
+    },
+    {
+        "id": "f000219",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "いつの間にかすぎさってしまいました。",
+        "sentence_with_furigana": "いつの間にかすぎさってしまいました。",
+        "word_base_list": [
+            "いつ",
+            "の",
+            "間",
+            "に",
+            "か",
+            "過ぎる",
+            "去る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いつ",
+            "の",
+            "間",
+            "に",
+            "か",
+            "すぎ",
+            "さっ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000219.mp3"
+    },
+    {
+        "id": "f000220",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "朝顔は、",
+        "sentence_with_furigana": "朝顔[あさがお]は、",
+        "word_base_list": [
+            "朝顔",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "朝顔",
+            "は",
+            "、"
+        ],
+        "sound": "f000220.mp3"
+    },
+    {
+        "id": "f000221",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "垣根にまきついたまま、",
+        "sentence_with_furigana": "垣根[かきね]にまきついたまま、",
+        "word_base_list": [
+            "垣根",
+            "に",
+            "まく",
+            "付く",
+            "た",
+            "侭",
+            "、"
+        ],
+        "word_list": [
+            "垣根",
+            "に",
+            "まき",
+            "つい",
+            "た",
+            "まま",
+            "、"
+        ],
+        "sound": "f000221.mp3"
+    },
+    {
+        "id": "f000222",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "しおれました。",
+        "sentence_with_furigana": "しおれました。",
+        "word_base_list": [
+            "萎れる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しおれ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000222.mp3"
+    },
+    {
+        "id": "S000223",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000223.mp3"
+    },
+    {
+        "id": "f000223",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "鈴虫が、",
+        "sentence_with_furigana": "鈴虫[すずむし]が、",
+        "word_base_list": [
+            "鈴虫",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "鈴虫",
+            "が",
+            "、"
+        ],
+        "sound": "f000223.mp3"
+    },
+    {
+        "id": "f000224",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "涼しい声でなくようになりました。",
+        "sentence_with_furigana": "涼[すず]しい声でなくようになりました。",
+        "word_base_list": [
+            "涼しい",
+            "声",
+            "だ",
+            "無い",
+            "様",
+            "だ",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "涼しい",
+            "声",
+            "で",
+            "なく",
+            "よう",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000224.mp3"
+    },
+    {
+        "id": "S000225",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000225.mp3"
+    },
+    {
+        "id": "f000225",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今日も、",
+        "sentence_with_furigana": "今日も、",
+        "word_base_list": [
+            "今日",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "今日",
+            "も",
+            "、"
+        ],
+        "sound": "f000225.mp3"
+    },
+    {
+        "id": "f000226",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000226.mp3"
+    },
+    {
+        "id": "f000227",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんに会いにやって来ました。",
+        "sentence_with_furigana": "おじょうちゃんに会いにやって来ました。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "に",
+            "会う",
+            "に",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "に",
+            "会い",
+            "に",
+            "やっ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000227.mp3"
+    },
+    {
+        "id": "f000228",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000228.mp3"
+    },
+    {
+        "id": "f000229",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "ちょっとびっくりしました。",
+        "sentence_with_furigana": "ちょっとびっくりしました。",
+        "word_base_list": [
+            "一寸",
+            "びっくり",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ちょっと",
+            "びっくり",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000229.mp3"
+    },
+    {
+        "id": "f000230",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000230.mp3"
+    },
+    {
+        "id": "f000231",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "いつも開いている窓が、",
+        "sentence_with_furigana": "いつも開いている 窓[まど]が、",
+        "word_base_list": [
+            "いつも",
+            "開く",
+            "て",
+            "居る",
+            "窓",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "いつも",
+            "開い",
+            "て",
+            "いる",
+            "窓",
+            "が",
+            "、"
+        ],
+        "sound": "f000231.mp3"
+    },
+    {
+        "id": "f000232",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "皆しまっているからです。",
+        "sentence_with_furigana": "皆[みな]しまっているからです。",
+        "word_base_list": [
+            "皆",
+            "仕舞う",
+            "て",
+            "居る",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "皆",
+            "しまっ",
+            "て",
+            "いる",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000232.mp3"
+    },
+    {
+        "id": "f000233",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "どうしたのかしら？",
+        "sentence_with_furigana": "どうしたのかしら？",
+        "word_base_list": [
+            "どう",
+            "為る",
+            "た",
+            "の",
+            "かしら",
+            "？"
+        ],
+        "word_list": [
+            "どう",
+            "し",
+            "た",
+            "の",
+            "かしら",
+            "？"
+        ],
+        "sound": "f000233.mp3"
+    },
+    {
+        "id": "f000234",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000234.mp3"
+    },
+    {
+        "id": "f000235",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼが考えたとき、",
+        "sentence_with_furigana": "赤とんぼが考えたとき、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "が",
+            "考える",
+            "た",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "が",
+            "考え",
+            "た",
+            "とき",
+            "、"
+        ],
+        "sound": "f000235.mp3"
+    },
+    {
+        "id": "f000236",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "玄関から誰か跳び出して来ました。",
+        "sentence_with_furigana": "玄関[げんかん]から 誰[だれ]か 跳[と]び出して来ました。",
+        "word_base_list": [
+            "玄関",
+            "から",
+            "誰",
+            "か",
+            "飛ぶ",
+            "出す",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "玄関",
+            "から",
+            "誰",
+            "か",
+            "跳び",
+            "出し",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000236.mp3"
+    },
+    {
+        "id": "f000237",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんです。",
+        "sentence_with_furigana": "おじょうちゃんです。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "です",
+            "。"
+        ],
+        "sound": "f000237.mp3"
+    },
+    {
+        "id": "f000238",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あのかあいいおじょうちゃんです。",
+        "sentence_with_furigana": "あのかあいいおじょうちゃんです。",
+        "word_base_list": [
+            "彼の",
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "です",
+            "。"
+        ],
+        "sound": "f000238.mp3"
+    },
+    {
+        "id": "f000239",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "word_base_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000239.mp3"
+    },
+    {
+        "id": "f000240",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "今日のおじょうちゃんは、",
+        "sentence_with_furigana": "今日のおじょうちゃんは、",
+        "word_base_list": [
+            "今日",
+            "の",
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "今日",
+            "の",
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000240.mp3"
+    },
+    {
+        "id": "f000241",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "悲しい顔つきでした。",
+        "sentence_with_furigana": "悲しい顔つきでした。",
+        "word_base_list": [
+            "悲しい",
+            "顔付き",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "悲しい",
+            "顔つき",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000241.mp3"
+    },
+    {
+        "id": "f000242",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000242.mp3"
+    },
+    {
+        "id": "f000243",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "この別荘へはじめて来たときかぶってた、",
+        "sentence_with_furigana": "この 別荘[べっそう]へはじめて来たときかぶってた、",
+        "word_base_list": [
+            "此の",
+            "別荘",
+            "へ",
+            "初めて",
+            "来る",
+            "た",
+            "時",
+            "被る",
+            "てる",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "別荘",
+            "へ",
+            "はじめて",
+            "来",
+            "た",
+            "とき",
+            "かぶっ",
+            "て",
+            "た",
+            "、"
+        ],
+        "sound": "f000243.mp3"
+    },
+    {
+        "id": "f000244",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤いリボンの帽子を着け、",
+        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]を着け、",
+        "word_base_list": [
+            "赤い",
+            "リボン",
+            "の",
+            "帽子",
+            "を",
+            "着ける",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "リボン",
+            "の",
+            "帽子",
+            "を",
+            "着け",
+            "、"
+        ],
+        "sound": "f000244.mp3"
+    },
+    {
+        "id": "f000245",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "きれいな服を着ていました。",
+        "sentence_with_furigana": "きれいな 服[ふく]を着ていました。",
+        "word_base_list": [
+            "奇麗",
+            "だ",
+            "服",
+            "を",
+            "着る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "きれい",
+            "な",
+            "服",
+            "を",
+            "着",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000245.mp3"
+    },
+    {
+        "id": "f000246",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼはいつものように飛んで行って、",
+        "sentence_with_furigana": "赤とんぼはいつものように飛んで行って、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "いつも",
+            "の",
+            "様",
+            "だ",
+            "飛ぶ",
+            "で",
+            "行く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "いつも",
+            "の",
+            "よう",
+            "に",
+            "飛ん",
+            "で",
+            "行っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000246.mp3"
+    },
+    {
+        "id": "f000247",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんの肩にとまりました。",
+        "sentence_with_furigana": "おじょうちゃんの 肩[かた]にとまりました。",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "に",
+            "とまる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "に",
+            "とまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000247.mp3"
+    },
+    {
+        "id": "f000248",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「あたしの赤とんぼ……かあいい赤とんぼ……あたし、",
+        "sentence_with_furigana": "「あたしの赤とんぼ……かあいい赤とんぼ……あたし、",
+        "word_base_list": [
+            "「",
+            "私",
+            "の",
+            "赤蜻蛉",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "母",
+            "良い",
+            "赤蜻蛉",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "私",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あたし",
+            "の",
+            "赤とんぼ",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "かあ",
+            "いい",
+            "赤とんぼ",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "あたし",
+            "、"
+        ],
+        "sound": "f000248.mp3"
+    },
+    {
+        "id": "f000249",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "東京へ帰るのよ、",
+        "sentence_with_furigana": "東京へ帰るのよ、",
+        "word_base_list": [
+            "東京",
+            "へ",
+            "帰る",
+            "の",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "東京",
+            "へ",
+            "帰る",
+            "の",
+            "よ",
+            "、"
+        ],
+        "sound": "f000249.mp3"
+    },
+    {
+        "id": "f000250",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "もうお別れよ。」",
+        "sentence_with_furigana": "もうお別れよ。」",
+        "word_base_list": [
+            "もう",
+            "御",
+            "別れ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "もう",
+            "お",
+            "別れ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000250.mp3"
+    },
+    {
+        "id": "f000251",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんは、",
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000251.mp3"
+    },
+    {
+        "id": "f000252",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "小さい細い声で泣くように言いました。",
+        "sentence_with_furigana": "小さい細い声で 泣[な]くように言いました。",
+        "word_base_list": [
+            "小さい",
+            "細い",
+            "声",
+            "で",
+            "泣く",
+            "様",
+            "だ",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "小さい",
+            "細い",
+            "声",
+            "で",
+            "泣く",
+            "よう",
+            "に",
+            "言い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000252.mp3"
+    },
+    {
+        "id": "f000253",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは悲しくなりました。",
+        "sentence_with_furigana": "赤とんぼは悲しくなりました。",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "悲しい",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "悲しく",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000253.mp3"
+    },
+    {
+        "id": "f000254",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。",
+        "sentence_with_furigana": "自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。",
+        "word_base_list": [
+            "自分",
+            "も",
+            "御",
+            "じょう",
+            "ちゃん",
+            "と",
+            "一緒",
+            "に",
+            "東京",
+            "へ",
+            "行く",
+            "たい",
+            "な",
+            "と",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "自分",
+            "も",
+            "お",
+            "じょう",
+            "ちゃん",
+            "と",
+            "いっしょ",
+            "に",
+            "東京",
+            "へ",
+            "行き",
+            "たい",
+            "な",
+            "と",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000254.mp3"
+    },
+    {
+        "id": "f000255",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、",
+        "word_base_list": [
+            "其の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "とき",
+            "、"
+        ],
+        "sound": "f000255.mp3"
+    },
+    {
+        "id": "f000256",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "おじょうちゃんのお母さんと、",
+        "sentence_with_furigana": "おじょうちゃんのお母さんと、",
+        "word_base_list": [
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "御",
+            "母さん",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "お",
+            "母さん",
+            "と",
+            "、"
+        ],
+        "sound": "f000256.mp3"
+    },
+    {
+        "id": "f000257",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼにいたずらをした書生さんが、",
+        "sentence_with_furigana": "赤とんぼにいたずらをした 書生[しょせい]さんが、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "に",
+            "悪戯",
+            "を",
+            "為る",
+            "た",
+            "書生",
+            "さん",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "に",
+            "いたずら",
+            "を",
+            "し",
+            "た",
+            "書生",
+            "さん",
+            "が",
+            "、"
+        ],
+        "sound": "f000257.mp3"
+    },
+    {
+        "id": "f000258",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "出てまいりました。",
+        "sentence_with_furigana": "出てまいりました。",
+        "word_base_list": [
+            "出る",
+            "て",
+            "参る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "出",
+            "て",
+            "まいり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000258.mp3"
+    },
+    {
+        "id": "f000259",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「ではまいりましょう。」",
+        "sentence_with_furigana": "「ではまいりましょう。」",
+        "word_base_list": [
+            "「",
+            "で",
+            "は",
+            "参る",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "で",
+            "は",
+            "まいり",
+            "ましょう",
+            "。",
+            "」"
+        ],
+        "sound": "f000259.mp3"
+    },
+    {
+        "id": "f000260",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "皆、",
+        "sentence_with_furigana": "皆[みな]、",
+        "word_base_list": [
+            "皆",
+            "、"
+        ],
+        "word_list": [
+            "皆",
+            "、"
+        ],
+        "sound": "f000260.mp3"
+    },
+    {
+        "id": "f000261",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "歩き出しました。",
+        "sentence_with_furigana": "歩き出しました。",
+        "word_base_list": [
+            "歩く",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "歩き",
+            "出し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000261.mp3"
+    },
+    {
+        "id": "f000262",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000262.mp3"
+    },
+    {
+        "id": "f000263",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "やがておじょうちゃんの肩を離れて、",
+        "sentence_with_furigana": "やがておじょうちゃんの 肩[かた]を 離[はな]れて、",
+        "word_base_list": [
+            "軈て",
+            "御",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "を",
+            "離れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "やがて",
+            "お",
+            "じょう",
+            "ちゃん",
+            "の",
+            "肩",
+            "を",
+            "離れ",
+            "て",
+            "、"
+        ],
+        "sound": "f000263.mp3"
+    },
+    {
+        "id": "f000264",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "垣根の竹の先にうつりました。",
+        "sentence_with_furigana": "垣根[かきね]の竹の先にうつりました。",
+        "word_base_list": [
+            "垣根",
+            "の",
+            "竹",
+            "の",
+            "先",
+            "に",
+            "うつる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "垣根",
+            "の",
+            "竹",
+            "の",
+            "先",
+            "に",
+            "うつり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000264.mp3"
+    },
+    {
+        "id": "E000264",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000264.mp3"
+    },
+    {
+        "id": "f000265",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "「あたしの赤とんぼよ、",
+        "sentence_with_furigana": "「あたしの赤とんぼよ、",
+        "word_base_list": [
+            "「",
+            "私",
+            "の",
+            "赤蜻蛉",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あたし",
+            "の",
+            "赤とんぼ",
+            "よ",
+            "、"
+        ],
+        "sound": "f000265.mp3"
+    },
+    {
+        "id": "f000266",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "さようなら──」",
+        "sentence_with_furigana": "さようなら──」",
+        "word_base_list": [
+            "さようなら",
+            "─",
+            "─",
+            "」"
+        ],
+        "word_list": [
+            "さようなら",
+            "─",
+            "─",
+            "」"
+        ],
+        "sound": "f000266.mp3"
+    },
+    {
+        "id": "S000267",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "S000267.mp3"
+    },
+    {
+        "id": "f000267",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "かあいいおじょうちゃんは、",
+        "sentence_with_furigana": "かあいいおじょうちゃんは、",
+        "word_base_list": [
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "は",
+            "、"
+        ],
+        "sound": "f000267.mp3"
+    },
+    {
+        "id": "f000268",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "なんべんもふりかえっていいました。",
+        "sentence_with_furigana": "なんべんもふりかえっていいました。",
+        "word_base_list": [
+            "何",
+            "遍",
+            "も",
+            "ふる",
+            "かえる",
+            "て",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "なん",
+            "べん",
+            "も",
+            "ふり",
+            "かえっ",
+            "て",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000268.mp3"
+    },
+    {
+        "id": "f000269",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "けど、",
+        "sentence_with_furigana": "けど、",
+        "word_base_list": [
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "けど",
+            "、"
+        ],
+        "sound": "f000269.mp3"
+    },
+    {
+        "id": "f000270",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "とうとう、",
+        "sentence_with_furigana": "とうとう、",
+        "word_base_list": [
+            "到頭",
+            "、"
+        ],
+        "word_list": [
+            "とうとう",
+            "、"
+        ],
+        "sound": "f000270.mp3"
+    },
+    {
+        "id": "f000271",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "皆の姿は見えなくなってしまったのです。",
+        "sentence_with_furigana": "皆[みな]の 姿[すがた]は見えなくなってしまったのです。",
+        "word_base_list": [
+            "皆",
+            "の",
+            "姿",
+            "は",
+            "見える",
+            "ない",
+            "成る",
+            "て",
+            "仕舞う",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "皆",
+            "の",
+            "姿",
+            "は",
+            "見え",
+            "なく",
+            "なっ",
+            "て",
+            "しまっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000271.mp3"
+    },
+    {
+        "id": "f000272",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "word_base_list": [
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "、"
+        ],
+        "sound": "f000272.mp3"
+    },
+    {
+        "id": "f000273",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "これからは、",
+        "sentence_with_furigana": "これからは、",
+        "word_base_list": [
+            "此れ",
+            "から",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "から",
+            "は",
+            "、"
+        ],
+        "sound": "f000273.mp3"
+    },
+    {
+        "id": "f000274",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "この家は空家になるのかな──",
+        "sentence_with_furigana": "この家は 空家[あきや]になるのかな──",
+        "word_base_list": [
+            "此の",
+            "家",
+            "は",
+            "空き家",
+            "に",
+            "成る",
+            "の",
+            "か",
+            "な",
+            "─",
+            "─"
+        ],
+        "word_list": [
+            "この",
+            "家",
+            "は",
+            "空家",
+            "に",
+            "なる",
+            "の",
+            "か",
+            "な",
+            "─",
+            "─"
+        ],
+        "sound": "f000274.mp3"
+    },
+    {
+        "id": "f000275",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000275.mp3"
+    },
+    {
+        "id": "f000276",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "しずかに首をかたむけました。",
+        "sentence_with_furigana": "しずかに首をかたむけました。",
+        "word_base_list": [
+            "静か",
+            "だ",
+            "首",
+            "を",
+            "傾く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しずか",
+            "に",
+            "首",
+            "を",
+            "かたむけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000276.mp3"
+    },
+    {
+        "id": "f000277",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "淋しい秋の夕方など、",
+        "sentence_with_furigana": "淋[さび]しい秋の夕方など、",
+        "word_base_list": [
+            "寂しい",
+            "秋",
+            "の",
+            "夕方",
+            "など",
+            "、"
+        ],
+        "word_list": [
+            "淋しい",
+            "秋",
+            "の",
+            "夕方",
+            "など",
+            "、"
+        ],
+        "sound": "f000277.mp3"
+    },
+    {
+        "id": "f000278",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "赤とんぼは、",
+        "sentence_with_furigana": "赤とんぼは、",
+        "word_base_list": [
+            "赤蜻蛉",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤とんぼ",
+            "は",
+            "、"
+        ],
+        "sound": "f000278.mp3"
+    },
+    {
+        "id": "f000279",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "尾花の穂先にとまって、",
+        "sentence_with_furigana": "尾花[おばな]の 穂先[ほさき]にとまって、",
+        "word_base_list": [
+            "尾花",
+            "の",
+            "穂先",
+            "に",
+            "とまる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "尾花",
+            "の",
+            "穂先",
+            "に",
+            "とまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000279.mp3"
+    },
+    {
+        "id": "f000280",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "あのかあいいおじょうちゃんを思い出しています。",
+        "sentence_with_furigana": "あのかあいいおじょうちゃんを思い出しています。",
+        "word_base_list": [
+            "彼の",
+            "母",
+            "良い",
+            "御",
+            "じょう",
+            "ちゃん",
+            "を",
+            "思う",
+            "出す",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "かあ",
+            "いい",
+            "お",
+            "じょう",
+            "ちゃん",
+            "を",
+            "思い",
+            "出し",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000280.mp3"
+    },
+    {
+        "id": "E000280",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Akatonbo",
+        "deck_name_japanese": "赤とんぼ",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "E000280.mp3"
+    }
+]

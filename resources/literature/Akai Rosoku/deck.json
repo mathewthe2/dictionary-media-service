@@ -1,0 +1,457 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "赤い蝋燭",
+        "sentence_with_furigana": "赤い蝋燭"
+    },
+    {
+        "id": "f000003",
+        "sentence": "山から里の方へ遊びにいった猿が一本の赤い蝋燭を拾いました。",
+        "sentence_with_furigana": "山から里の方へ遊びにいった 猿[さる]が一本の赤い 蝋燭[ろうそく]を拾いました。"
+    },
+    {
+        "id": "f000004",
+        "sentence": "赤い蝋燭は沢山あるものではありません。",
+        "sentence_with_furigana": "赤い蝋燭は 沢山[たくさん]あるものではありません。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "それで猿は赤い蝋燭を花火だと思い込んでしまいました。",
+        "sentence_with_furigana": "それで猿は赤い蝋燭を花火だと思い込んでしまいました。"
+    },
+    {
+        "id": "S000006",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000006",
+        "sentence": "猿は拾った赤い蝋燭を大事に山へ持って帰りました。",
+        "sentence_with_furigana": "猿は拾った赤い蝋燭を大事に山へ持って帰りました。"
+    },
+    {
+        "id": "E000006",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000007",
+        "sentence": "山では大へんな騒になりました。",
+        "sentence_with_furigana": "山では大へんな 騒[さわぎ]になりました。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "何しろ花火などというものは、",
+        "sentence_with_furigana": "何しろ花火などというものは、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "鹿にしても猪にしても兎にしても、",
+        "sentence_with_furigana": "鹿[しか]にしても 猪[しし]にしても 兎[うさぎ]にしても、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "亀にしても、",
+        "sentence_with_furigana": "亀[かめ]にしても、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "鼬にしても、",
+        "sentence_with_furigana": "鼬[いたち]にしても、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "狸にしても、",
+        "sentence_with_furigana": "狸[たぬき]にしても、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "狐にしても、",
+        "sentence_with_furigana": "狐[きつね]にしても、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "まだ一度も見たことがありません。",
+        "sentence_with_furigana": "まだ一度も見たことがありません。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "その花火を猿が拾って来たというのであります。",
+        "sentence_with_furigana": "その花火を猿が拾って来たというのであります。"
+    },
+    {
+        "id": "E000015",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000016",
+        "sentence": "「ほう、",
+        "sentence_with_furigana": "「ほう、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "すばらしい」",
+        "sentence_with_furigana": "すばらしい」"
+    },
+    {
+        "id": "S000018",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000018",
+        "sentence": "「これは、",
+        "sentence_with_furigana": "「これは、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "すてきなものだ」",
+        "sentence_with_furigana": "すてきなものだ」"
+    },
+    {
+        "id": "E000019",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000020",
+        "sentence": "鹿や猪や兎や亀や鼬や狸や狐が押合いへしあいして赤い蝋燭を覗きました。",
+        "sentence_with_furigana": "鹿や猪や兎や亀や鼬や狸や狐が押合いへしあいして赤い蝋燭を 覗[のぞ]きました。"
+    },
+    {
+        "id": "S000021",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000021",
+        "sentence": "すると猿が、",
+        "sentence_with_furigana": "すると猿が、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "「危い危い。",
+        "sentence_with_furigana": "「 危[あぶな]い危い。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "そんなに近よってはいけない。",
+        "sentence_with_furigana": "そんなに近よってはいけない。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "爆発するから」といいました。",
+        "sentence_with_furigana": "爆発するから」といいました。"
+    },
+    {
+        "id": "f000025",
+        "sentence": "みんなは驚いて後込しました。",
+        "sentence_with_furigana": "みんなは驚いて 後込[しりごみ]しました。"
+    },
+    {
+        "id": "E000025",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000026",
+        "sentence": "そこで猿は花火というものが、",
+        "sentence_with_furigana": "そこで猿は花火というものが、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "どんなに大きな音をして飛出すか、",
+        "sentence_with_furigana": "どんなに大きな音をして 飛出[とびだ]すか、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "そしてどんなに美しく空にひろがるか、",
+        "sentence_with_furigana": "そしてどんなに美しく空にひろがるか、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "みんなに話して聞かせました。",
+        "sentence_with_furigana": "みんなに話して聞かせました。"
+    },
+    {
+        "id": "E000029",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000030",
+        "sentence": "そんなに美しいものなら見たいものだとみんなは思いました。",
+        "sentence_with_furigana": "そんなに美しいものなら見たいものだとみんなは思いました。"
+    },
+    {
+        "id": "E000030",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000031",
+        "sentence": "「それなら、",
+        "sentence_with_furigana": "「それなら、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "今晩山の頂上に行ってあそこで打上げて見よう」と猿がいいました。",
+        "sentence_with_furigana": "今晩山の 頂上[てっぺん]に行ってあそこで打上げて見よう」と猿がいいました。"
+    },
+    {
+        "id": "E000032",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000033",
+        "sentence": "みんなは大へん喜びました。",
+        "sentence_with_furigana": "みんなは大へん喜びました。"
+    },
+    {
+        "id": "E000033",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000034",
+        "sentence": "夜の空に星をふりまくようにぱあっとひろがる花火を眼に浮べてみんなはうっとりしました。",
+        "sentence_with_furigana": "夜の空に星をふりまくようにぱあっとひろがる花火を 眼[め]に浮べてみんなはうっとりしました。"
+    },
+    {
+        "id": "E000034",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000035",
+        "sentence": "さて夜になりました。",
+        "sentence_with_furigana": "さて夜になりました。"
+    },
+    {
+        "id": "E000035",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000036",
+        "sentence": "みんなは胸をおどらせて山の頂上にやって行きました。",
+        "sentence_with_furigana": "みんなは胸をおどらせて山の 頂上[てっぺん]にやって行きました。"
+    },
+    {
+        "id": "E000036",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000037",
+        "sentence": "猿はもう赤い蝋燭を木の枝にくくりつけてみんなの来るのを待っていました。",
+        "sentence_with_furigana": "猿はもう赤い蝋燭を木の枝にくくりつけてみんなの来るのを待っていました。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "いよいよこれから花火を打上げることになりました。",
+        "sentence_with_furigana": "いよいよこれから花火を打上げることになりました。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "しかし困ったことが出来ました。",
+        "sentence_with_furigana": "しかし困ったことが出来ました。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "と申しますのは、",
+        "sentence_with_furigana": "と 申[もう]しますのは、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "誰も花火に火をつけようとしなかったからです。",
+        "sentence_with_furigana": "誰も花火に火をつけようとしなかったからです。"
+    },
+    {
+        "id": "E000041",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000042",
+        "sentence": "みんな花火を見ることは好きでしたが火をつけにいくことは、",
+        "sentence_with_furigana": "みんな花火を見ることは好きでしたが火をつけにいくことは、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "好きでなかったのであります。",
+        "sentence_with_furigana": "好きでなかったのであります。"
+    },
+    {
+        "id": "S000044",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000044",
+        "sentence": "これでは花火はあがりません。",
+        "sentence_with_furigana": "これでは花火はあがりません。"
+    },
+    {
+        "id": "S000045",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000045",
+        "sentence": "そこでくじをひいて、",
+        "sentence_with_furigana": "そこでくじをひいて、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "火をつけに行くものを決めることになりました。",
+        "sentence_with_furigana": "火をつけに行くものを決めることになりました。"
+    },
+    {
+        "id": "S000047",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000047",
+        "sentence": "第一にあたったものは亀でありました。",
+        "sentence_with_furigana": "第一にあたったものは亀でありました。"
+    },
+    {
+        "id": "S000048",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000048",
+        "sentence": "亀は元気を出して花火の方へやって行きました。",
+        "sentence_with_furigana": "亀は元気を出して花火の方へやって行きました。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "だがうまく火をつけることが出来たでしょうか。",
+        "sentence_with_furigana": "だがうまく火をつけることが出来たでしょうか。"
+    },
+    {
+        "id": "f000050",
+        "sentence": "いえ、",
+        "sentence_with_furigana": "いえ、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "いえ。",
+        "sentence_with_furigana": "いえ。"
+    },
+    {
+        "id": "S000052",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000052",
+        "sentence": "亀は花火のそばまで来ると首が自然に引込んでしまって出て来なかったのでありました。",
+        "sentence_with_furigana": "亀は花火のそばまで来ると首が自然に 引込[ひっこ]んでしまって出て来なかったのでありました。"
+    },
+    {
+        "id": "E000052",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000053",
+        "sentence": "そこでくじがまたひかれて、",
+        "sentence_with_furigana": "そこでくじがまたひかれて、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "こんどは鼬が行くことになりました。",
+        "sentence_with_furigana": "こんどは鼬が行くことになりました。"
+    },
+    {
+        "id": "E000054",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000055",
+        "sentence": "鼬は亀よりは幾分ましでした。",
+        "sentence_with_furigana": "鼬は亀よりは幾分ましでした。"
+    },
+    {
+        "id": "S000056",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000056",
+        "sentence": "というのは首を引込めてしまわなかったからであります。",
+        "sentence_with_furigana": "というのは首を引込めてしまわなかったからであります。"
+    },
+    {
+        "id": "E000056",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000057",
+        "sentence": "しかし鼬はひどい近眼でありました。",
+        "sentence_with_furigana": "しかし鼬はひどい 近眼[きんがん]でありました。"
+    },
+    {
+        "id": "S000058",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000058",
+        "sentence": "だから蝋燭のまわりをきょろきょろとうろついているばかりでありました。",
+        "sentence_with_furigana": "だから蝋燭のまわりをきょろきょろとうろついているばかりでありました。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "遂々猪が飛出しました。",
+        "sentence_with_furigana": "遂々[とうとう]猪が飛出しました。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "猪は全く勇しい獣でした。",
+        "sentence_with_furigana": "猪は 全[まった]く 勇[いさま]しい 獣[けだもの]でした。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "猪はほんとうにやっていって火をつけてしまいました。",
+        "sentence_with_furigana": "猪はほんとうにやっていって火をつけてしまいました。"
+    },
+    {
+        "id": "E000061",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000062",
+        "sentence": "みんなはびっくりして草むらに飛込み耳を固くふさぎました。",
+        "sentence_with_furigana": "みんなはびっくりして草むらに飛込み耳を固くふさぎました。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "耳ばかりでなく眼もふさいでしまいました。",
+        "sentence_with_furigana": "耳ばかりでなく眼もふさいでしまいました。"
+    },
+    {
+        "id": "S000064",
+        "sentence": "",
+        "sentence_with_furigana": ""
+    },
+    {
+        "id": "f000064",
+        "sentence": "しかし蝋燭はぽんともいわずに静かに燃えているばかりでした。",
+        "sentence_with_furigana": "しかし蝋燭はぽんともいわずに静かに燃えているばかりでした。"
+    }
+]

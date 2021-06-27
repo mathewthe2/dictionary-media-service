@@ -1,0 +1,3274 @@
+[
+    {
+        "id": "f000002",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船とつばめ",
+        "sentence_with_furigana": "赤い船とつばめ",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "と",
+            "燕"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "と",
+            "つばめ"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "f000003",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "ある日の晩方、",
+        "sentence_with_furigana": "ある 日[ひ]の 晩方[ばんがた]、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "の",
+            "晩方",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "の",
+            "晩方",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "f000004",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船が、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が、",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "が",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "f000005",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "浜辺につきました。",
+        "sentence_with_furigana": "浜辺[はまべ]につきました。",
+        "word_base_list": [
+            "浜辺",
+            "に",
+            "つく",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "浜辺",
+            "に",
+            "つき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "f000006",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "その船は、",
+        "sentence_with_furigana": "その 船[ふね]は、",
+        "word_base_list": [
+            "其の",
+            "船",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "船",
+            "は",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "f000007",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "南の国からきたので、",
+        "sentence_with_furigana": "南[みなみ]の 国[くに]からきたので、",
+        "word_base_list": [
+            "南",
+            "の",
+            "国",
+            "から",
+            "来る",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "南",
+            "の",
+            "国",
+            "から",
+            "き",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "f000008",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "つばめを迎えに、",
+        "sentence_with_furigana": "つばめを 迎[むか]えに、",
+        "word_base_list": [
+            "燕",
+            "を",
+            "迎える",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "つばめ",
+            "を",
+            "迎え",
+            "に",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "f000009",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "王さまが、",
+        "sentence_with_furigana": "王[おう]さまが、",
+        "word_base_list": [
+            "王",
+            "様",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "が",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "f000010",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "よこされたものです。",
+        "sentence_with_furigana": "よこされたものです。",
+        "word_base_list": [
+            "寄越す",
+            "れる",
+            "た",
+            "物",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "よこさ",
+            "れ",
+            "た",
+            "もの",
+            "です",
+            "。"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "f000011",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "長い間、",
+        "sentence_with_furigana": "長[なが]い 間[あいだ]、",
+        "word_base_list": [
+            "長い",
+            "間",
+            "、"
+        ],
+        "word_list": [
+            "長い",
+            "間",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "f000012",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "北の青い海の上を飛んだり、",
+        "sentence_with_furigana": "北[きた]の 青[あお]い 海[うみ]の 上[うえ]を 飛[と]んだり、",
+        "word_base_list": [
+            "北",
+            "の",
+            "青い",
+            "海",
+            "の",
+            "上",
+            "を",
+            "飛ぶ",
+            "たり",
+            "、"
+        ],
+        "word_list": [
+            "北",
+            "の",
+            "青い",
+            "海",
+            "の",
+            "上",
+            "を",
+            "飛ん",
+            "だり",
+            "、"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "f000013",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "電信柱の上にとまって、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]の 上[うえ]にとまって、",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "の",
+            "上",
+            "に",
+            "とまる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "の",
+            "上",
+            "に",
+            "とまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "f000014",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "さえずっていましたつばめたちは、",
+        "sentence_with_furigana": "さえずっていましたつばめたちは、",
+        "word_base_list": [
+            "囀る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "燕",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "さえずっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "つばめ",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "f000015",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "秋風がそよそよと吹いて、",
+        "sentence_with_furigana": "秋風[あきかぜ]がそよそよと 吹[ふ]いて、",
+        "word_base_list": [
+            "秋風",
+            "が",
+            "そよそよ",
+            "と",
+            "吹く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "秋風",
+            "が",
+            "そよそよ",
+            "と",
+            "吹い",
+            "て",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "f000016",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "木の葉が色づくころになると、",
+        "sentence_with_furigana": "木[き]の 葉[は]が 色[いろ]づくころになると、",
+        "word_base_list": [
+            "木の葉",
+            "が",
+            "色付く",
+            "頃",
+            "に",
+            "成る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "木の葉",
+            "が",
+            "色づく",
+            "ころ",
+            "に",
+            "なる",
+            "と",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "f000017",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "もはや、",
+        "sentence_with_furigana": "もはや、",
+        "word_base_list": [
+            "最早",
+            "、"
+        ],
+        "word_list": [
+            "もはや",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "f000018",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "南の方のお家へ帰らなければなりませんでした。",
+        "sentence_with_furigana": "南[みなみ]の 方[ほう]のお 家[うち]へ 帰[かえ]らなければなりませんでした。",
+        "word_base_list": [
+            "南",
+            "の",
+            "方",
+            "の",
+            "御",
+            "家",
+            "へ",
+            "帰る",
+            "ない",
+            "ば",
+            "成る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "南",
+            "の",
+            "方",
+            "の",
+            "お",
+            "家",
+            "へ",
+            "帰ら",
+            "なけれ",
+            "ば",
+            "なり",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "f000019",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "寒さに弱い、",
+        "sentence_with_furigana": "寒[さむ]さに 弱[よわ]い、",
+        "word_base_list": [
+            "寒い",
+            "さ",
+            "に",
+            "弱い",
+            "、"
+        ],
+        "word_list": [
+            "寒",
+            "さ",
+            "に",
+            "弱い",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "f000020",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "この小鳥は、",
+        "sentence_with_furigana": "この 小鳥[ことり]は、",
+        "word_base_list": [
+            "此の",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "f000021",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "あたたかなところに育つように生まれついたからです。",
+        "sentence_with_furigana": "あたたかなところに 育[そだ]つように 生[う]まれついたからです。",
+        "word_base_list": [
+            "温か",
+            "だ",
+            "所",
+            "に",
+            "育つ",
+            "様",
+            "だ",
+            "生まれる",
+            "付く",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "あたたか",
+            "な",
+            "ところ",
+            "に",
+            "育つ",
+            "よう",
+            "に",
+            "生まれ",
+            "つい",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "f000022",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "王さまは、",
+        "sentence_with_furigana": "王[おう]さまは、",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "f000023",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "もうつばめらの帰る時分だと思うと、",
+        "sentence_with_furigana": "もうつばめらの 帰[かえ]る 時分[じぶん]だと 思[おも]うと、",
+        "word_base_list": [
+            "もう",
+            "燕",
+            "等",
+            "の",
+            "帰る",
+            "時分",
+            "だ",
+            "と",
+            "思う",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "つばめ",
+            "ら",
+            "の",
+            "帰る",
+            "時分",
+            "だ",
+            "と",
+            "思う",
+            "と",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "f000024",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船を迎えによこされました。",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]を 迎[むか]えによこされました。",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "を",
+            "迎える",
+            "に",
+            "寄越す",
+            "れる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "を",
+            "迎え",
+            "に",
+            "よこさ",
+            "れ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "f000025",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "つばめたちも、",
+        "sentence_with_furigana": "つばめたちも、",
+        "word_base_list": [
+            "燕",
+            "達",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "つばめ",
+            "たち",
+            "も",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "f000026",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "船に乗りおくれてはならぬと思って、",
+        "sentence_with_furigana": "船[ふね]に 乗[の]りおくれてはならぬと 思[おも]って、",
+        "word_base_list": [
+            "船",
+            "に",
+            "乗る",
+            "遅れる",
+            "て",
+            "は",
+            "成る",
+            "ず",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "船",
+            "に",
+            "乗り",
+            "おくれ",
+            "て",
+            "は",
+            "なら",
+            "ぬ",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "f000027",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "その時分には、",
+        "sentence_with_furigana": "その 時分[じぶん]には、",
+        "word_base_list": [
+            "其の",
+            "時分",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "時分",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "f000028",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "海岸の近くにきて、",
+        "sentence_with_furigana": "海岸[かいがん]の 近[ちか]くにきて、",
+        "word_base_list": [
+            "海岸",
+            "の",
+            "近く",
+            "に",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "海岸",
+            "の",
+            "近く",
+            "に",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "f000029",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "気をつけていました。",
+        "sentence_with_furigana": "気[き]をつけていました。",
+        "word_base_list": [
+            "気",
+            "を",
+            "つける",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "気",
+            "を",
+            "つけ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "f000030",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "f000031",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "波間に、",
+        "sentence_with_furigana": "波間[なみま]に、",
+        "word_base_list": [
+            "波間",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "波間",
+            "に",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "f000032",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船が見えると、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が 見[み]えると、",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "が",
+            "見える",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "が",
+            "見える",
+            "と",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "f000033",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "「キイ、",
+        "sentence_with_furigana": "「キイ、",
+        "word_base_list": [
+            "「",
+            "キー",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "キイ",
+            "、"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "f000034",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "キイ……。",
+        "sentence_with_furigana": "キイ……。",
+        "word_base_list": [
+            "キー",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "。"
+        ],
+        "word_list": [
+            "キイ",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "。"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "f000035",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "f000036",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "喜んで鳴いたのです。",
+        "sentence_with_furigana": "喜[よろこ]んで 鳴[な]いたのです。",
+        "word_base_list": [
+            "喜ぶ",
+            "で",
+            "鳴く",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "喜ん",
+            "で",
+            "鳴い",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "f000037",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "早く見つけたつばめは、",
+        "sentence_with_furigana": "早[はや]く 見[み]つけたつばめは、",
+        "word_base_list": [
+            "早い",
+            "見付ける",
+            "た",
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "早く",
+            "見つけ",
+            "た",
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "f000038",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "それをまだ知らない友だちに告げるために、",
+        "sentence_with_furigana": "それをまだ 知[し]らない 友[とも]だちに 告[つ]げるために、",
+        "word_base_list": [
+            "其れ",
+            "を",
+            "未だ",
+            "知る",
+            "ない",
+            "友達",
+            "に",
+            "告げる",
+            "為",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "を",
+            "まだ",
+            "知ら",
+            "ない",
+            "友だち",
+            "に",
+            "告げる",
+            "ため",
+            "に",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "f000039",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "空高く舞い上がって、",
+        "sentence_with_furigana": "空高[そらたか]く 舞[ま]い 上[あ]がって、",
+        "word_base_list": [
+            "空",
+            "高い",
+            "舞う",
+            "上がる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "空",
+            "高く",
+            "舞い",
+            "上がっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "f000040",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "紺色の美しい翼をひるがえしながら、",
+        "sentence_with_furigana": "紺色[こんいろ]の 美[うつく]しい 翼[つばさ]をひるがえしながら、",
+        "word_base_list": [
+            "紺",
+            "色",
+            "の",
+            "美しい",
+            "翼",
+            "を",
+            "翻す",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "紺",
+            "色",
+            "の",
+            "美しい",
+            "翼",
+            "を",
+            "ひるがえし",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "f000041",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "「赤い船がきましたよ。",
+        "sentence_with_furigana": "「 赤[あか]い 船[ふね]がきましたよ。",
+        "word_base_list": [
+            "「",
+            "赤い",
+            "船",
+            "が",
+            "来る",
+            "ます",
+            "た",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "赤い",
+            "船",
+            "が",
+            "き",
+            "まし",
+            "た",
+            "よ",
+            "。"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "f000042",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "さあ、",
+        "sentence_with_furigana": "さあ、",
+        "word_base_list": [
+            "さあ",
+            "、"
+        ],
+        "word_list": [
+            "さあ",
+            "、"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "f000043",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "もう私たちは、",
+        "sentence_with_furigana": "もう 私[わたし]たちは、",
+        "word_base_list": [
+            "もう",
+            "私",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "私",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "f000044",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "立つときです。",
+        "sentence_with_furigana": "立[た]つときです。",
+        "word_base_list": [
+            "立つ",
+            "時",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "立つ",
+            "とき",
+            "です",
+            "。"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "f000045",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "どうか、",
+        "sentence_with_furigana": "どうか、",
+        "word_base_list": [
+            "どう",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "f000046",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "遠方にいるお友だちに知らせてください。",
+        "sentence_with_furigana": "遠方[えんぽう]にいるお 友[とも]だちに 知[し]らせてください。",
+        "word_base_list": [
+            "遠方",
+            "に",
+            "居る",
+            "御",
+            "友達",
+            "に",
+            "知る",
+            "せる",
+            "て",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "遠方",
+            "に",
+            "いる",
+            "お",
+            "友だち",
+            "に",
+            "知ら",
+            "せ",
+            "て",
+            "ください",
+            "。"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "f000047",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "f000048",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "なかには遠いところにいて、",
+        "sentence_with_furigana": "なかには 遠[とお]いところにいて、",
+        "word_base_list": [
+            "中",
+            "に",
+            "は",
+            "遠い",
+            "所",
+            "に",
+            "居る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "なか",
+            "に",
+            "は",
+            "遠い",
+            "ところ",
+            "に",
+            "い",
+            "て",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "f000049",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "まだ知らずにいるものもありました。",
+        "sentence_with_furigana": "まだ 知[し]らずにいるものもありました。",
+        "word_base_list": [
+            "未だ",
+            "知る",
+            "ず",
+            "に",
+            "居る",
+            "物",
+            "も",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "まだ",
+            "知ら",
+            "ず",
+            "に",
+            "いる",
+            "もの",
+            "も",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "f000050",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そういうつばめは、",
+        "sentence_with_furigana": "そういうつばめは、",
+        "word_base_list": [
+            "そう",
+            "言う",
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そう",
+            "いう",
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "f000051",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "村に他のいいお友だちができて、",
+        "sentence_with_furigana": "村[むら]に 他[た]のいいお 友[とも]だちができて、",
+        "word_base_list": [
+            "村",
+            "に",
+            "他",
+            "の",
+            "良い",
+            "御",
+            "友達",
+            "が",
+            "出来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "村",
+            "に",
+            "他",
+            "の",
+            "いい",
+            "お",
+            "友だち",
+            "が",
+            "でき",
+            "て",
+            "、"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "f000052",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "f000053",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "まあ、",
+        "sentence_with_furigana": "まあ、",
+        "word_base_list": [
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "まあ",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "f000054",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そんなに急いで、",
+        "sentence_with_furigana": "そんなに 急[いそ]いで、",
+        "word_base_list": [
+            "そんな",
+            "だ",
+            "急ぐ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "そんな",
+            "に",
+            "急い",
+            "で",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "f000055",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "お帰りなさることはない。",
+        "sentence_with_furigana": "お 帰[かえ]りなさることはない。",
+        "word_base_list": [
+            "御",
+            "帰る",
+            "為す",
+            "こと",
+            "は",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "帰り",
+            "なさる",
+            "こと",
+            "は",
+            "ない",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "f000056",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "」といわれて、",
+        "sentence_with_furigana": "」といわれて、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いわ",
+            "れ",
+            "て",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "f000057",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "引きとめられているつばめたちであったのでした。",
+        "sentence_with_furigana": "引[ひ]きとめられているつばめたちであったのでした。",
+        "word_base_list": [
+            "引く",
+            "とめる",
+            "られる",
+            "て",
+            "居る",
+            "燕",
+            "達",
+            "だ",
+            "有る",
+            "た",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "引き",
+            "とめ",
+            "られ",
+            "て",
+            "いる",
+            "つばめ",
+            "たち",
+            "で",
+            "あっ",
+            "た",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "f000058",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船は、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]は、",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "は",
+            "、"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "f000059",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "浜辺に四日、",
+        "sentence_with_furigana": "浜辺[はまべ]に 四日[よっか]、",
+        "word_base_list": [
+            "浜辺",
+            "に",
+            "4",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "浜辺",
+            "に",
+            "四",
+            "日",
+            "、"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "f000060",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "五日、",
+        "sentence_with_furigana": "五日[いつか]、",
+        "word_base_list": [
+            "5",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "五",
+            "日",
+            "、"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "f000061",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "とまっていました。",
+        "sentence_with_furigana": "とまっていました。",
+        "word_base_list": [
+            "とまる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "とまっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "f000062",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "f000063",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "四方から、",
+        "sentence_with_furigana": "四 方[ほう]から、",
+        "word_base_list": [
+            "四方",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "四方",
+            "から",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "f000064",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "毎日のように集まってくるつばめを待っていました。",
+        "sentence_with_furigana": "毎日[まいにち]のように 集[あつ]まってくるつばめを 待[ま]っていました。",
+        "word_base_list": [
+            "毎日",
+            "の",
+            "様",
+            "だ",
+            "集まる",
+            "て",
+            "来る",
+            "燕",
+            "を",
+            "待つ",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "毎日",
+            "の",
+            "よう",
+            "に",
+            "集まっ",
+            "て",
+            "くる",
+            "つばめ",
+            "を",
+            "待っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "f000065",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "word_base_list": [
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "、"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "f000066",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "たくさんつばめが船に乗って、",
+        "sentence_with_furigana": "たくさんつばめが 船[ふね]に 乗[の]って、",
+        "word_base_list": [
+            "沢山",
+            "燕",
+            "が",
+            "船",
+            "に",
+            "乗る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "たくさん",
+            "つばめ",
+            "が",
+            "船",
+            "に",
+            "乗っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "f000067",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "最後には、",
+        "sentence_with_furigana": "最後[さいご]には、",
+        "word_base_list": [
+            "最後",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "最後",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "f000068",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "ほばしらの上まで止まって、",
+        "sentence_with_furigana": "ほばしらの 上[うえ]まで 止[と]まって、",
+        "word_base_list": [
+            "帆柱",
+            "の",
+            "上",
+            "まで",
+            "止まる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ほばしら",
+            "の",
+            "上",
+            "まで",
+            "止まっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "f000069",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "まったく、",
+        "sentence_with_furigana": "まったく、",
+        "word_base_list": [
+            "全く",
+            "、"
+        ],
+        "word_list": [
+            "まったく",
+            "、"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "f000070",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "はいる席がなくなった時分、",
+        "sentence_with_furigana": "はいる 席[せき]がなくなった 時分[じぶん]、",
+        "word_base_list": [
+            "入る",
+            "席",
+            "が",
+            "なくなる",
+            "た",
+            "時分",
+            "、"
+        ],
+        "word_list": [
+            "はいる",
+            "席",
+            "が",
+            "なくなっ",
+            "た",
+            "時分",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "f000071",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "静かに海岸をはなれたのです。",
+        "sentence_with_furigana": "静[しず]かに 海岸[かいがん]をはなれたのです。",
+        "word_base_list": [
+            "静か",
+            "だ",
+            "海岸",
+            "を",
+            "離れる",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "静か",
+            "に",
+            "海岸",
+            "を",
+            "はなれ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "f000072",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "たいていは、",
+        "sentence_with_furigana": "たいていは、",
+        "word_base_list": [
+            "大抵",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "たいてい",
+            "は",
+            "、"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "f000073",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "月のいい晩を見はからって、",
+        "sentence_with_furigana": "月[つき]のいい 晩[ばん]を 見[み]はからって、",
+        "word_base_list": [
+            "月",
+            "の",
+            "良い",
+            "晩",
+            "を",
+            "見る",
+            "計らう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "月",
+            "の",
+            "いい",
+            "晩",
+            "を",
+            "見",
+            "はからっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "f000074",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "出発しました。",
+        "sentence_with_furigana": "出発[しゅっぱつ]しました。",
+        "word_base_list": [
+            "出発",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "出発",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "f000075",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、",
+        "word_base_list": [
+            "何故",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "なぜ",
+            "なら",
+            "、"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "f000076",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "長い海の上をゆくには、",
+        "sentence_with_furigana": "長[なが]い 海[うみ]の 上[うえ]をゆくには、",
+        "word_base_list": [
+            "長い",
+            "海",
+            "の",
+            "上",
+            "を",
+            "行く",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "長い",
+            "海",
+            "の",
+            "上",
+            "を",
+            "ゆく",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "f000077",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "景色が見えなければ、",
+        "sentence_with_furigana": "景色[けしき]が 見[み]えなければ、",
+        "word_base_list": [
+            "景色",
+            "が",
+            "見える",
+            "ない",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "景色",
+            "が",
+            "見え",
+            "なけれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "f000078",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "退屈であるし、",
+        "sentence_with_furigana": "退屈[たいくつ]であるし、",
+        "word_base_list": [
+            "退屈",
+            "だ",
+            "有る",
+            "し",
+            "、"
+        ],
+        "word_list": [
+            "退屈",
+            "で",
+            "ある",
+            "し",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "f000079",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "また途中から、",
+        "sentence_with_furigana": "また 途中[とちゅう]から、",
+        "word_base_list": [
+            "又",
+            "途中",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "途中",
+            "から",
+            "、"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "f000080",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "船をたよって、",
+        "sentence_with_furigana": "船[ふね]をたよって、",
+        "word_base_list": [
+            "船",
+            "を",
+            "頼る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "船",
+            "を",
+            "たよっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "f000081",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "飛んできて加わるものがないとはかぎらなかったからです。",
+        "sentence_with_furigana": "飛[と]んできて 加[くわ]わるものがないとはかぎらなかったからです。",
+        "word_base_list": [
+            "飛ぶ",
+            "で",
+            "来る",
+            "て",
+            "加わる",
+            "物",
+            "が",
+            "無い",
+            "と",
+            "は",
+            "限る",
+            "ない",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "飛ん",
+            "で",
+            "き",
+            "て",
+            "加わる",
+            "もの",
+            "が",
+            "ない",
+            "と",
+            "は",
+            "かぎら",
+            "なかっ",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "f000082",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "あるとき、",
+        "sentence_with_furigana": "あるとき、",
+        "word_base_list": [
+            "或る",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "とき",
+            "、"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "f000083",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "一羽のつばめは、",
+        "sentence_with_furigana": "一 羽[わ]のつばめは、",
+        "word_base_list": [
+            "1",
+            "羽",
+            "の",
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "羽",
+            "の",
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "f000084",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "船に乗ろうと思って、",
+        "sentence_with_furigana": "船[ふね]に 乗[の]ろうと 思[おも]って、",
+        "word_base_list": [
+            "船",
+            "に",
+            "乗る",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "船",
+            "に",
+            "乗ろう",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "f000085",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "遠いところから、",
+        "sentence_with_furigana": "遠[とお]いところから、",
+        "word_base_list": [
+            "遠い",
+            "所",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "遠い",
+            "ところ",
+            "から",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "f000086",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "急いで飛んできましたが、",
+        "sentence_with_furigana": "急[いそ]いで 飛[と]んできましたが、",
+        "word_base_list": [
+            "急ぐ",
+            "で",
+            "飛ぶ",
+            "で",
+            "来る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "急い",
+            "で",
+            "飛ん",
+            "で",
+            "き",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "f000087",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "すでに船の立ってしまった後でした。",
+        "sentence_with_furigana": "すでに 船[ふね]の 立[た]ってしまった 後[あと]でした。",
+        "word_base_list": [
+            "既に",
+            "船",
+            "の",
+            "立つ",
+            "て",
+            "仕舞う",
+            "た",
+            "後",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "すでに",
+            "船",
+            "の",
+            "立っ",
+            "て",
+            "しまっ",
+            "た",
+            "後",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "f000088",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そのつばめは、",
+        "sentence_with_furigana": "そのつばめは、",
+        "word_base_list": [
+            "其の",
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "f000089",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "ひじょうにがっかりしました。",
+        "sentence_with_furigana": "ひじょうにがっかりしました。",
+        "word_base_list": [
+            "非常",
+            "だ",
+            "がっかり",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ひじょう",
+            "に",
+            "がっかり",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "f000090",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "しかたなく、",
+        "sentence_with_furigana": "しかたなく、",
+        "word_base_list": [
+            "仕方無い",
+            "、"
+        ],
+        "word_list": [
+            "しかたなく",
+            "、"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "f000091",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "木の葉を船として、",
+        "sentence_with_furigana": "木[き]の 葉[は]を 船[ふね]として、",
+        "word_base_list": [
+            "木の葉",
+            "を",
+            "船",
+            "と",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "木の葉",
+            "を",
+            "船",
+            "と",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "f000092",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "これに乗ってゆこうと決心しました。",
+        "sentence_with_furigana": "これに 乗[の]ってゆこうと 決心[けっしん]しました。",
+        "word_base_list": [
+            "此れ",
+            "に",
+            "乗る",
+            "て",
+            "行く",
+            "と",
+            "決心",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "これ",
+            "に",
+            "乗っ",
+            "て",
+            "ゆこう",
+            "と",
+            "決心",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "f000093",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "それより海のかなたへ、",
+        "sentence_with_furigana": "それより 海[うみ]のかなたへ、",
+        "word_base_list": [
+            "其れ",
+            "より",
+            "海",
+            "の",
+            "彼方",
+            "へ",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "より",
+            "海",
+            "の",
+            "かなた",
+            "へ",
+            "、"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "f000094",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "渡る途はなかったのです。",
+        "sentence_with_furigana": "渡[わた]る 途[みち]はなかったのです。",
+        "word_base_list": [
+            "渡る",
+            "途",
+            "は",
+            "無い",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "渡る",
+            "途",
+            "は",
+            "なかっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "f000095",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "昼間は、",
+        "sentence_with_furigana": "昼間[ひるま]は、",
+        "word_base_list": [
+            "昼間",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "昼間",
+            "は",
+            "、"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "f000096",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "木の葉をくわえて飛んで、",
+        "sentence_with_furigana": "木[き]の 葉[は]をくわえて 飛[と]んで、",
+        "word_base_list": [
+            "木の葉",
+            "を",
+            "くわえる",
+            "て",
+            "飛ぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "木の葉",
+            "を",
+            "くわえ",
+            "て",
+            "飛ん",
+            "で",
+            "、"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "f000097",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "夜になると葉を船にして、",
+        "sentence_with_furigana": "夜[よる]になると 葉[は]を 船[ふね]にして、",
+        "word_base_list": [
+            "夜",
+            "に",
+            "成る",
+            "と",
+            "葉",
+            "を",
+            "船",
+            "に",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "夜",
+            "に",
+            "なる",
+            "と",
+            "葉",
+            "を",
+            "船",
+            "に",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "f000098",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "その上で休みました。",
+        "sentence_with_furigana": "その 上[うえ]で 休[やす]みました。",
+        "word_base_list": [
+            "其の",
+            "上",
+            "で",
+            "休む",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "上",
+            "で",
+            "休み",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "f000099",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "そのつばめは、",
+        "sentence_with_furigana": "そのつばめは、",
+        "word_base_list": [
+            "其の",
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "f000100",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、",
+        "word_base_list": [
+            "こう",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "こう",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "f000101",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "旅をしているうちに、",
+        "sentence_with_furigana": "旅[たび]をしているうちに、",
+        "word_base_list": [
+            "旅",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "内",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "旅",
+            "を",
+            "し",
+            "て",
+            "いる",
+            "うち",
+            "に",
+            "、"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "f000102",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "一夜、",
+        "sentence_with_furigana": "一 夜[や]、",
+        "word_base_list": [
+            "一夜",
+            "、"
+        ],
+        "word_list": [
+            "一夜",
+            "、"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "f000103",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "ひじょうな暴風に出あいました。",
+        "sentence_with_furigana": "ひじょうな 暴風[ぼうふう]に 出[で]あいました。",
+        "word_base_list": [
+            "非常",
+            "だ",
+            "暴風",
+            "に",
+            "出る",
+            "あう",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ひじょう",
+            "な",
+            "暴風",
+            "に",
+            "出",
+            "あい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "f000104",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "驚いて、",
+        "sentence_with_furigana": "驚[おどろ]いて、",
+        "word_base_list": [
+            "驚く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "驚い",
+            "て",
+            "、"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "f000105",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "木の葉をしっかりとくわえて暗い空に舞い上がり、",
+        "sentence_with_furigana": "木[き]の 葉[は]をしっかりとくわえて 暗[くら]い 空[そら]に 舞[ま]い 上[あ]がり、",
+        "word_base_list": [
+            "木の葉",
+            "を",
+            "確り",
+            "と",
+            "くわえる",
+            "て",
+            "暗い",
+            "空",
+            "に",
+            "舞う",
+            "上がる",
+            "、"
+        ],
+        "word_list": [
+            "木の葉",
+            "を",
+            "しっかり",
+            "と",
+            "くわえ",
+            "て",
+            "暗い",
+            "空",
+            "に",
+            "舞い",
+            "上がり",
+            "、"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "f000106",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "死にもの狂いで夜の間を暴風と戦いながらかけりました。",
+        "sentence_with_furigana": "死[し]にもの 狂[ぐる]いで 夜[よる]の 間[あいだ]を 暴風[ぼうふう]と 戦[たたか]いながらかけりました。",
+        "word_base_list": [
+            "死",
+            "に",
+            "物狂い",
+            "で",
+            "夜",
+            "の",
+            "間",
+            "を",
+            "暴風",
+            "と",
+            "戦う",
+            "ながら",
+            "翔る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "死",
+            "に",
+            "もの狂い",
+            "で",
+            "夜",
+            "の",
+            "間",
+            "を",
+            "暴風",
+            "と",
+            "戦い",
+            "ながら",
+            "かけり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "f000107",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "夜が明けると、",
+        "sentence_with_furigana": "夜[よ]が 明[あ]けると、",
+        "word_base_list": [
+            "夜",
+            "が",
+            "明ける",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "夜",
+            "が",
+            "明ける",
+            "と",
+            "、"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "f000108",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "はるか目の下の波間に、",
+        "sentence_with_furigana": "はるか 目[め]の 下[した]の 波間[なみま]に、",
+        "word_base_list": [
+            "はるか",
+            "目",
+            "の",
+            "下",
+            "の",
+            "波間",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "はるか",
+            "目",
+            "の",
+            "下",
+            "の",
+            "波間",
+            "に",
+            "、"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "f000109",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船が、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が、",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "が",
+            "、"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "f000110",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "暴風のために、",
+        "sentence_with_furigana": "暴風[ぼうふう]のために、",
+        "word_base_list": [
+            "暴風",
+            "の",
+            "為",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "暴風",
+            "の",
+            "ため",
+            "に",
+            "、"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "f000111",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "くつがえっているのを見ました。",
+        "sentence_with_furigana": "くつがえっているのを 見[み]ました。",
+        "word_base_list": [
+            "覆る",
+            "て",
+            "居る",
+            "の",
+            "を",
+            "見る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "くつがえっ",
+            "て",
+            "いる",
+            "の",
+            "を",
+            "見",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "f000112",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "f000113",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "王さまのお迎えに出された赤い船です。",
+        "sentence_with_furigana": "王[おう]さまのお 迎[むか]えに 出[だ]された 赤[あか]い 船[ふね]です。",
+        "word_base_list": [
+            "王",
+            "様",
+            "の",
+            "御",
+            "迎え",
+            "に",
+            "出す",
+            "れる",
+            "た",
+            "赤い",
+            "船",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "の",
+            "お",
+            "迎え",
+            "に",
+            "出さ",
+            "れ",
+            "た",
+            "赤い",
+            "船",
+            "です",
+            "。"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "f000114",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "つばめは、",
+        "sentence_with_furigana": "つばめは、",
+        "word_base_list": [
+            "燕",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "つばめ",
+            "は",
+            "、"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "f000115",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "急いで帰って、",
+        "sentence_with_furigana": "急[いそ]いで 帰[かえ]って、",
+        "word_base_list": [
+            "急ぐ",
+            "で",
+            "帰る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "急い",
+            "で",
+            "帰っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "f000116",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "このことを王さまに申し上げました。",
+        "sentence_with_furigana": "このことを 王[おう]さまに 申[もう]し 上[あ]げました。",
+        "word_base_list": [
+            "此の",
+            "こと",
+            "を",
+            "王",
+            "様",
+            "に",
+            "申す",
+            "上げる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "こと",
+            "を",
+            "王",
+            "さま",
+            "に",
+            "申し",
+            "上げ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "f000117",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "──王さまは、",
+        "sentence_with_furigana": "── 王[おう]さまは、",
+        "word_base_list": [
+            "─",
+            "─",
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "─",
+            "─",
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "f000118",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "ここにはじめて、",
+        "sentence_with_furigana": "ここにはじめて、",
+        "word_base_list": [
+            "此処",
+            "に",
+            "初めて",
+            "、"
+        ],
+        "word_list": [
+            "ここ",
+            "に",
+            "はじめて",
+            "、"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "f000119",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "自らの力をたよることのいちばん安心なのを悟られ、",
+        "sentence_with_furigana": "自[みずか]らの 力[ちから]をたよることのいちばん 安心[あんしん]なのを 悟[さと]られ、",
+        "word_base_list": [
+            "自ら",
+            "の",
+            "力",
+            "を",
+            "頼る",
+            "こと",
+            "の",
+            "一番",
+            "安心",
+            "だ",
+            "の",
+            "を",
+            "悟る",
+            "れる",
+            "、"
+        ],
+        "word_list": [
+            "自ら",
+            "の",
+            "力",
+            "を",
+            "たよる",
+            "こと",
+            "の",
+            "いちばん",
+            "安心",
+            "な",
+            "の",
+            "を",
+            "悟ら",
+            "れ",
+            "、"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "f000120",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "あくる年から、",
+        "sentence_with_furigana": "あくる 年[とし]から、",
+        "word_base_list": [
+            "明ける",
+            "年",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "あくる",
+            "年",
+            "から",
+            "、"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "f000121",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Funeto Tsubame",
+        "deck_name_japanese": "赤い船とつばめ",
+        "sentence": "赤い船を出すことを見合わせられたのであります。",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]を 出[だ]すことを 見合[みあ]わせられたのであります。",
+        "word_base_list": [
+            "赤い",
+            "船",
+            "を",
+            "出す",
+            "こと",
+            "を",
+            "見る",
+            "合う",
+            "られる",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "船",
+            "を",
+            "出す",
+            "こと",
+            "を",
+            "見",
+            "合わせ",
+            "られ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000121.mp3"
+    }
+]

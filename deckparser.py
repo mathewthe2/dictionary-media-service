@@ -30,13 +30,14 @@ def parse_literature_deck(filename, skip_author=True):
             text = entry["sentence"]
             word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
             word_list = [m.surface() for m in tokenizer_obj.tokenize(text, mode)]
+            print('name', metadata["title_english"])
             print('parsing note', entry["id"])
             example = {
                 'id': entry["id"],
                 'author': metadata["author_english"],
                 'author_japanese': metadata["author"],
                 'deck_name': metadata["title_english"],
-                'deck_name_japanese': metadata["title_english"],
+                'deck_name_japanese': metadata["title"],
                 'sentence': text,
                 'sentence_with_furigana': entry["sentence_with_furigana"],
                 'word_base_list': word_base_list,
@@ -84,6 +85,11 @@ def parse_deck(filename):
     with open(Path(EXAMPLE_PATH, filename, 'data.json'), 'w+', encoding='utf8') as outfile:
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
+def parse_all_literature_decks():
+    deck_folders = glob(str(LITERATURE_EXAMPLE_PATH) + '/*/')
+    for deck_folder in deck_folders:
+        parse_literature_deck(Path(deck_folder).name, skip_author=True)
+
 def parse_all_decks():
     deck_folders = glob(str(EXAMPLE_PATH) + '/*/')
     for deck_folder in deck_folders:
@@ -99,5 +105,3 @@ def print_deck_statistics():
             print('{}: {}'.format(Path(deck_folder).name, len(data)))
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
-
-# parse_literature_deck("Aashindo")

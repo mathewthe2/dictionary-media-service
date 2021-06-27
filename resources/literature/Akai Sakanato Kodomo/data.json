@@ -1,0 +1,6918 @@
+[
+    {
+        "id": "f000002",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い魚と子供",
+        "sentence_with_furigana": "赤い魚と子供",
+        "word_base_list": [
+            "赤い",
+            "魚",
+            "と",
+            "子供"
+        ],
+        "word_list": [
+            "赤い",
+            "魚",
+            "と",
+            "子供"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "f000003",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川の中に、",
+        "sentence_with_furigana": "川[かわ]の 中[なか]に、",
+        "word_base_list": [
+            "川",
+            "の",
+            "中",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "川",
+            "の",
+            "中",
+            "に",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "f000004",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "魚がすんでいました。",
+        "sentence_with_furigana": "魚[さかな]がすんでいました。",
+        "word_base_list": [
+            "魚",
+            "が",
+            "すむ",
+            "で",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "魚",
+            "が",
+            "すん",
+            "で",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "f000005",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "春になると、",
+        "sentence_with_furigana": "春[はる]になると、",
+        "word_base_list": [
+            "春",
+            "に",
+            "成る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "春",
+            "に",
+            "なる",
+            "と",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "f000006",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いろいろの花が川のほとりに咲きました。",
+        "sentence_with_furigana": "いろいろの 花[はな]が 川[かわ]のほとりに 咲[さ]きました。",
+        "word_base_list": [
+            "色々",
+            "の",
+            "花",
+            "が",
+            "川",
+            "の",
+            "辺",
+            "に",
+            "咲く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いろいろ",
+            "の",
+            "花",
+            "が",
+            "川",
+            "の",
+            "ほとり",
+            "に",
+            "咲き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "f000007",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "木が、",
+        "sentence_with_furigana": "木[き]が、",
+        "word_base_list": [
+            "木",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "木",
+            "が",
+            "、"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "f000008",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "枝を川の上に拡げていましたから、",
+        "sentence_with_furigana": "枝[えだ]を 川[かわ]の 上[うえ]に 拡[ひろ]げていましたから、",
+        "word_base_list": [
+            "枝",
+            "を",
+            "川",
+            "の",
+            "上",
+            "に",
+            "広げる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "枝",
+            "を",
+            "川",
+            "の",
+            "上",
+            "に",
+            "拡げ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "f000009",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "こずえに咲いた、",
+        "sentence_with_furigana": "こずえに 咲[さ]いた、",
+        "word_base_list": [
+            "梢",
+            "に",
+            "咲く",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "こずえ",
+            "に",
+            "咲い",
+            "た",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "f000010",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "真紅な花や、",
+        "sentence_with_furigana": "真紅[まっか]な 花[はな]や、",
+        "word_base_list": [
+            "深紅",
+            "だ",
+            "花",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "真紅",
+            "な",
+            "花",
+            "や",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "f000011",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "またうす紅の花は、",
+        "sentence_with_furigana": "またうす 紅[くれない]の 花[はな]は、",
+        "word_base_list": [
+            "又",
+            "薄紅",
+            "の",
+            "花",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "うす紅",
+            "の",
+            "花",
+            "は",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "f000012",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その美しい姿を水の面に映したのであります。",
+        "sentence_with_furigana": "その 美[うつく]しい 姿[すがた]を 水[みず]の 面[おもて]に 映[うつ]したのであります。",
+        "word_base_list": [
+            "其の",
+            "美しい",
+            "姿",
+            "を",
+            "水",
+            "の",
+            "面",
+            "に",
+            "映す",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "美しい",
+            "姿",
+            "を",
+            "水",
+            "の",
+            "面",
+            "に",
+            "映し",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "f000013",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なんのたのしみもない、",
+        "sentence_with_furigana": "なんのたのしみもない、",
+        "word_base_list": [
+            "何",
+            "の",
+            "楽しい",
+            "味",
+            "も",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "なん",
+            "の",
+            "たのし",
+            "み",
+            "も",
+            "ない",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "f000014",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この川の魚たちは、",
+        "sentence_with_furigana": "この 川[かわ]の 魚[さかな]たちは、",
+        "word_base_list": [
+            "此の",
+            "川",
+            "の",
+            "魚",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "川",
+            "の",
+            "魚",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "f000015",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どんなに上を向いて、",
+        "sentence_with_furigana": "どんなに 上[うえ]を 向[む]いて、",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "上",
+            "を",
+            "向く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "上",
+            "を",
+            "向い",
+            "て",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "f000016",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "水の面に映った花をながめてうれしがったでありましょう。",
+        "sentence_with_furigana": "水[みず]の 面[おもて]に 映[うつ]った 花[はな]をながめてうれしがったでありましょう。",
+        "word_base_list": [
+            "水",
+            "の",
+            "面",
+            "に",
+            "映る",
+            "た",
+            "花",
+            "を",
+            "眺める",
+            "て",
+            "嬉しい",
+            "がる",
+            "た",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "水",
+            "の",
+            "面",
+            "に",
+            "映っ",
+            "た",
+            "花",
+            "を",
+            "ながめ",
+            "て",
+            "うれし",
+            "がっ",
+            "た",
+            "で",
+            "あり",
+            "ましょう",
+            "。"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "f000017",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「なんというきれいな花でしょう。",
+        "sentence_with_furigana": "「なんというきれいな 花[はな]でしょう。",
+        "word_base_list": [
+            "「",
+            "何",
+            "と",
+            "言う",
+            "奇麗",
+            "だ",
+            "花",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "なん",
+            "と",
+            "いう",
+            "きれい",
+            "な",
+            "花",
+            "でしょう",
+            "。"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "f000018",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "水の上の世界にはあんなに美しいものがたくさんあるのだ。",
+        "sentence_with_furigana": "水[みず]の 上[うえ]の 世界[せかい]にはあんなに 美[うつく]しいものがたくさんあるのだ。",
+        "word_base_list": [
+            "水",
+            "の",
+            "上",
+            "の",
+            "世界",
+            "に",
+            "は",
+            "あんな",
+            "だ",
+            "美しい",
+            "物",
+            "が",
+            "沢山",
+            "有る",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "水",
+            "の",
+            "上",
+            "の",
+            "世界",
+            "に",
+            "は",
+            "あんな",
+            "に",
+            "美しい",
+            "もの",
+            "が",
+            "たくさん",
+            "ある",
+            "の",
+            "だ",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "f000019",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "こんどの世には、",
+        "sentence_with_furigana": "こんどの 世[よ]には、",
+        "word_base_list": [
+            "今度",
+            "の",
+            "世",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "こんど",
+            "の",
+            "世",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "f000020",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どうかして私たちは水の上の世界に生まれ変わってきたいものです。",
+        "sentence_with_furigana": "どうかして 私[わたし]たちは 水[みず]の 上[うえ]の 世界[せかい]に 生[う]まれ 変[か]わってきたいものです。",
+        "word_base_list": [
+            "どう",
+            "か",
+            "為る",
+            "て",
+            "私",
+            "達",
+            "は",
+            "水",
+            "の",
+            "上",
+            "の",
+            "世界",
+            "に",
+            "生まれる",
+            "変わる",
+            "て",
+            "来る",
+            "たい",
+            "物",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "し",
+            "て",
+            "私",
+            "たち",
+            "は",
+            "水",
+            "の",
+            "上",
+            "の",
+            "世界",
+            "に",
+            "生まれ",
+            "変わっ",
+            "て",
+            "き",
+            "たい",
+            "もの",
+            "です",
+            "。"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "f000021",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "f000022",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "魚たちは話し合っていました。",
+        "sentence_with_furigana": "魚[さかな]たちは 話[はな]し 合[あ]っていました。",
+        "word_base_list": [
+            "魚",
+            "達",
+            "は",
+            "話す",
+            "合う",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "魚",
+            "たち",
+            "は",
+            "話し",
+            "合っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "f000023",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なかにも、",
+        "sentence_with_furigana": "なかにも、",
+        "word_base_list": [
+            "中",
+            "に",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "なか",
+            "に",
+            "も",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "f000024",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "魚の子供らは躍り上がって、",
+        "sentence_with_furigana": "魚[さかな]の 子供[こども]らは 躍[おど]り 上[あ]がって、",
+        "word_base_list": [
+            "魚",
+            "の",
+            "子供",
+            "等",
+            "は",
+            "踊る",
+            "上がる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "魚",
+            "の",
+            "子供",
+            "ら",
+            "は",
+            "躍り",
+            "上がっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "f000025",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "とどきもしない花に向かって、",
+        "sentence_with_furigana": "とどきもしない 花[はな]に 向[む]かって、",
+        "word_base_list": [
+            "と",
+            "時",
+            "も",
+            "為る",
+            "ない",
+            "花",
+            "に",
+            "向かう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "どき",
+            "も",
+            "し",
+            "ない",
+            "花",
+            "に",
+            "向かっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "f000026",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "飛びつこうと騒いだのです。",
+        "sentence_with_furigana": "飛[と]びつこうと 騒[さわ]いだのです。",
+        "word_base_list": [
+            "飛ぶ",
+            "付く",
+            "と",
+            "騒ぐ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "飛び",
+            "つこう",
+            "と",
+            "騒い",
+            "だ",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "f000027",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "母さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "母さん",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "f000028",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "あのきれいな花がほしいのです。",
+        "sentence_with_furigana": "あのきれいな 花[はな]がほしいのです。",
+        "word_base_list": [
+            "彼の",
+            "奇麗",
+            "だ",
+            "花",
+            "が",
+            "欲しい",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "きれい",
+            "な",
+            "花",
+            "が",
+            "ほしい",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "f000029",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "f000030",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "f000031",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "魚の母親は、",
+        "sentence_with_furigana": "魚[さかな]の 母親[ははおや]は、",
+        "word_base_list": [
+            "魚",
+            "の",
+            "母親",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "魚",
+            "の",
+            "母親",
+            "は",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "f000032",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その子供をいましめて、",
+        "sentence_with_furigana": "その 子供[こども]をいましめて、",
+        "word_base_list": [
+            "其の",
+            "子供",
+            "を",
+            "戒める",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "子供",
+            "を",
+            "いましめ",
+            "て",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "f000033",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いいますのには、",
+        "sentence_with_furigana": "いいますのには、",
+        "word_base_list": [
+            "言う",
+            "ます",
+            "の",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "いい",
+            "ます",
+            "の",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "f000034",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「あれは、",
+        "sentence_with_furigana": "「あれは、",
+        "word_base_list": [
+            "「",
+            "彼れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あれ",
+            "は",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "f000035",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ただ遠くからながめているものです。",
+        "sentence_with_furigana": "ただ 遠[とお]くからながめているものです。",
+        "word_base_list": [
+            "唯",
+            "遠く",
+            "から",
+            "眺める",
+            "て",
+            "居る",
+            "物",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "ただ",
+            "遠く",
+            "から",
+            "ながめ",
+            "て",
+            "いる",
+            "もの",
+            "です",
+            "。"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "f000036",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "けっして、",
+        "sentence_with_furigana": "けっして、",
+        "word_base_list": [
+            "決して",
+            "、"
+        ],
+        "word_list": [
+            "けっして",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "f000037",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "あの花が水の上に落ちてきたとて食べてはなりません。",
+        "sentence_with_furigana": "あの 花[はな]が 水[みず]の 上[うえ]に 落[お]ちてきたとて 食[た]べてはなりません。",
+        "word_base_list": [
+            "彼の",
+            "花",
+            "が",
+            "水",
+            "の",
+            "上",
+            "に",
+            "落ちる",
+            "て",
+            "来る",
+            "た",
+            "とて",
+            "食べる",
+            "て",
+            "は",
+            "成る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "花",
+            "が",
+            "水",
+            "の",
+            "上",
+            "に",
+            "落ち",
+            "て",
+            "き",
+            "た",
+            "とて",
+            "食べ",
+            "て",
+            "は",
+            "なり",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "f000038",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と教えました。",
+        "sentence_with_furigana": "」と 教[おし]えました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "教える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "教え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "f000039",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供らは、",
+        "sentence_with_furigana": "子供[こども]らは、",
+        "word_base_list": [
+            "子供",
+            "等",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "ら",
+            "は",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "f000040",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親のいうことが、",
+        "sentence_with_furigana": "母親[ははおや]のいうことが、",
+        "word_base_list": [
+            "母親",
+            "の",
+            "言う",
+            "こと",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "母親",
+            "の",
+            "いう",
+            "こと",
+            "が",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "f000041",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なぜだか信じられなかった。",
+        "sentence_with_furigana": "なぜだか 信[しん]じられなかった。",
+        "word_base_list": [
+            "何故",
+            "だ",
+            "か",
+            "信ずる",
+            "られる",
+            "ない",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "なぜ",
+            "だ",
+            "か",
+            "信じ",
+            "られ",
+            "なかっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "f000042",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「なぜ、",
+        "sentence_with_furigana": "「なぜ、",
+        "word_base_list": [
+            "「",
+            "何故",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "なぜ",
+            "、"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "f000043",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "お母さん、",
+        "sentence_with_furigana": "お 母[かあ]さん、",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "f000044",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "あの花びらが落ちてきたら、",
+        "sentence_with_furigana": "あの 花[はな]びらが 落[お]ちてきたら、",
+        "word_base_list": [
+            "彼の",
+            "花弁",
+            "が",
+            "落ちる",
+            "て",
+            "来る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "あの",
+            "花びら",
+            "が",
+            "落ち",
+            "て",
+            "き",
+            "たら",
+            "、"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "f000045",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "食べてはなりませんのですか。",
+        "sentence_with_furigana": "食[た]べてはなりませんのですか。",
+        "word_base_list": [
+            "食べる",
+            "て",
+            "は",
+            "成る",
+            "ます",
+            "ず",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "食べ",
+            "て",
+            "は",
+            "なり",
+            "ませ",
+            "ん",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "f000046",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と聞きました。",
+        "sentence_with_furigana": "」と 聞[き]きました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "聞く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "聞き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "f000047",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親は、",
+        "sentence_with_furigana": "母親[ははおや]は、",
+        "word_base_list": [
+            "母親",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "母親",
+            "は",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "f000048",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "思案顔をして、",
+        "sentence_with_furigana": "思案顔[しあんがお]をして、",
+        "word_base_list": [
+            "思案",
+            "顔",
+            "を",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "思案",
+            "顔",
+            "を",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "f000049",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供らを見守りながら、",
+        "sentence_with_furigana": "子供[こども]らを 見守[みまも]りながら、",
+        "word_base_list": [
+            "子供",
+            "等",
+            "を",
+            "見る",
+            "守る",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "ら",
+            "を",
+            "見",
+            "守り",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "f000050",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「昔から、",
+        "sentence_with_furigana": "「 昔[むかし]から、",
+        "word_base_list": [
+            "「",
+            "昔",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "昔",
+            "から",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "f000051",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花を食べてはいけないといわれています。",
+        "sentence_with_furigana": "花[はな]を 食[た]べてはいけないといわれています。",
+        "word_base_list": [
+            "花",
+            "を",
+            "食べる",
+            "ては",
+            "行く",
+            "ない",
+            "と",
+            "言う",
+            "れる",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "を",
+            "食べ",
+            "ては",
+            "いけ",
+            "ない",
+            "と",
+            "いわ",
+            "れ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "f000052",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "あれを食べると、",
+        "sentence_with_furigana": "あれを 食[た]べると、",
+        "word_base_list": [
+            "彼れ",
+            "を",
+            "食べる",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "あれ",
+            "を",
+            "食べる",
+            "と",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "f000053",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "体に変わりができるということです。",
+        "sentence_with_furigana": "体[からだ]に 変[か]わりができるということです。",
+        "word_base_list": [
+            "体",
+            "に",
+            "変わり",
+            "が",
+            "出来る",
+            "と",
+            "言う",
+            "こと",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "体",
+            "に",
+            "変わり",
+            "が",
+            "できる",
+            "と",
+            "いう",
+            "こと",
+            "です",
+            "。"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "f000054",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "食べるなというものは、",
+        "sentence_with_furigana": "食[た]べるなというものは、",
+        "word_base_list": [
+            "食べる",
+            "な",
+            "と",
+            "言う",
+            "物",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "食べる",
+            "な",
+            "と",
+            "いう",
+            "もの",
+            "は",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "f000055",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なんでも食べないほうがいいのです。",
+        "sentence_with_furigana": "なんでも 食[た]べないほうがいいのです。",
+        "word_base_list": [
+            "何",
+            "で",
+            "も",
+            "食べる",
+            "ない",
+            "方",
+            "が",
+            "良い",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "なん",
+            "で",
+            "も",
+            "食べ",
+            "ない",
+            "ほう",
+            "が",
+            "いい",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "f000056",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "f000057",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「あんなにきれいな花を、",
+        "sentence_with_furigana": "「あんなにきれいな 花[はな]を、",
+        "word_base_list": [
+            "「",
+            "あんな",
+            "だ",
+            "奇麗",
+            "だ",
+            "花",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あんな",
+            "に",
+            "きれい",
+            "な",
+            "花",
+            "を",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "f000058",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なぜ食べてはいけないのだろう。",
+        "sentence_with_furigana": "なぜ 食[た]べてはいけないのだろう。",
+        "word_base_list": [
+            "何故",
+            "食べる",
+            "ては",
+            "行く",
+            "ない",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "なぜ",
+            "食べ",
+            "ては",
+            "いけ",
+            "ない",
+            "の",
+            "だろう",
+            "。"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "f000059",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "f000060",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "一ぴきの子供の魚は、",
+        "sentence_with_furigana": "一ぴきの 子供[こども]の 魚[さかな]は、",
+        "word_base_list": [
+            "1",
+            "匹",
+            "の",
+            "子供",
+            "の",
+            "魚",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "ぴき",
+            "の",
+            "子供",
+            "の",
+            "魚",
+            "は",
+            "、"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "f000061",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "頭をかしげました。",
+        "sentence_with_furigana": "頭[かしら]をかしげました。",
+        "word_base_list": [
+            "頭",
+            "を",
+            "傾げる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "頭",
+            "を",
+            "かしげ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "f000062",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「あの花が、",
+        "sentence_with_furigana": "「あの 花[はな]が、",
+        "word_base_list": [
+            "「",
+            "彼の",
+            "花",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あの",
+            "花",
+            "が",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "f000063",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この水の上に、",
+        "sentence_with_furigana": "この 水[みず]の 上[うえ]に、",
+        "word_base_list": [
+            "此の",
+            "水",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "水",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "f000064",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "みんな落ちてきたら、",
+        "sentence_with_furigana": "みんな 落[お]ちてきたら、",
+        "word_base_list": [
+            "皆",
+            "落ちる",
+            "て",
+            "来る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "みんな",
+            "落ち",
+            "て",
+            "き",
+            "たら",
+            "、"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "f000065",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どんなにきれいだろう。",
+        "sentence_with_furigana": "どんなにきれいだろう。",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "奇麗",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "きれい",
+            "だろう",
+            "。"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "f000066",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "f000067",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ほかの一ぴきは目を輝かしながらいいました。",
+        "sentence_with_furigana": "ほかの一ぴきは 目[め]を 輝[かがや]かしながらいいました。",
+        "word_base_list": [
+            "他",
+            "の",
+            "1",
+            "匹",
+            "は",
+            "目",
+            "を",
+            "輝く",
+            "ながら",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ほか",
+            "の",
+            "一",
+            "ぴき",
+            "は",
+            "目",
+            "を",
+            "輝かし",
+            "ながら",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "f000068",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "f000069",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供らは、",
+        "sentence_with_furigana": "子供[こども]らは、",
+        "word_base_list": [
+            "子供",
+            "等",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "ら",
+            "は",
+            "、"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "f000070",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "word_base_list": [
+            "毎日",
+            "、"
+        ],
+        "word_list": [
+            "毎日",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "f000071",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "水の面を見上げて、",
+        "sentence_with_furigana": "水[みず]の 面[おもて]を 見上[みあ]げて、",
+        "word_base_list": [
+            "水",
+            "の",
+            "面",
+            "を",
+            "見る",
+            "上げる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "水",
+            "の",
+            "面",
+            "を",
+            "見",
+            "上げ",
+            "て",
+            "、"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "f000072",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花の散る日をたのしみにして待っていました。",
+        "sentence_with_furigana": "花[はな]の 散[ち]る 日[ひ]をたのしみにして 待[ま]っていました。",
+        "word_base_list": [
+            "花",
+            "の",
+            "散る",
+            "日",
+            "を",
+            "楽しむ",
+            "に",
+            "為る",
+            "て",
+            "待つ",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "の",
+            "散る",
+            "日",
+            "を",
+            "たのしみ",
+            "に",
+            "し",
+            "て",
+            "待っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "f000073",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ひとり、",
+        "sentence_with_furigana": "ひとり、",
+        "word_base_list": [
+            "一人",
+            "、"
+        ],
+        "word_list": [
+            "ひとり",
+            "、"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "f000074",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親だけは、",
+        "sentence_with_furigana": "母親[ははおや]だけは、",
+        "word_base_list": [
+            "母親",
+            "だけ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "母親",
+            "だけ",
+            "は",
+            "、"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "f000075",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供らが自分のいましめをきかないのを心配していました。",
+        "sentence_with_furigana": "子供[こども]らが 自分[じぶん]のいましめをきかないのを 心配[しんぱい]していました。",
+        "word_base_list": [
+            "子供",
+            "等",
+            "が",
+            "自分",
+            "の",
+            "戒め",
+            "を",
+            "きく",
+            "ない",
+            "の",
+            "を",
+            "心配",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "ら",
+            "が",
+            "自分",
+            "の",
+            "いましめ",
+            "を",
+            "きか",
+            "ない",
+            "の",
+            "を",
+            "心配",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "f000076",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、",
+        "word_base_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "f000077",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花を私の知らぬまに食べてくれぬといいけれど。",
+        "sentence_with_furigana": "花[はな]を 私[わたし]の 知[し]らぬまに 食[た]べてくれぬといいけれど。",
+        "word_base_list": [
+            "花",
+            "を",
+            "私",
+            "の",
+            "知る",
+            "ず",
+            "ま",
+            "に",
+            "食べる",
+            "て",
+            "呉れる",
+            "ず",
+            "と",
+            "言う",
+            "けれど",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "を",
+            "私",
+            "の",
+            "知ら",
+            "ぬ",
+            "ま",
+            "に",
+            "食べ",
+            "て",
+            "くれ",
+            "ぬ",
+            "と",
+            "いい",
+            "けれど",
+            "。"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "f000078",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "f000079",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "独り言をしていました。",
+        "sentence_with_furigana": "独[ひと]り 言[ごと]をしていました。",
+        "word_base_list": [
+            "独り言",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "独り言",
+            "を",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "f000080",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "木々の咲いた花には、",
+        "sentence_with_furigana": "木々[きぎ]の 咲[さ]いた 花[はな]には、",
+        "word_base_list": [
+            "木々",
+            "の",
+            "咲く",
+            "た",
+            "花",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "木々",
+            "の",
+            "咲い",
+            "た",
+            "花",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "f000081",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "朝から、",
+        "sentence_with_furigana": "朝[あさ]から、",
+        "word_base_list": [
+            "朝",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "朝",
+            "から",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "f000082",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "晩になるまで、",
+        "sentence_with_furigana": "晩[ばん]になるまで、",
+        "word_base_list": [
+            "晩",
+            "に",
+            "成る",
+            "まで",
+            "、"
+        ],
+        "word_list": [
+            "晩",
+            "に",
+            "なる",
+            "まで",
+            "、"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "f000083",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ちょうや、",
+        "sentence_with_furigana": "ちょうや、",
+        "word_base_list": [
+            "蝶",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "ちょう",
+            "や",
+            "、"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "f000084",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "はちがきてにぎやかでありましたが、",
+        "sentence_with_furigana": "はちがきてにぎやかでありましたが、",
+        "word_base_list": [
+            "八",
+            "が",
+            "来る",
+            "て",
+            "賑やか",
+            "だ",
+            "有る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "はち",
+            "が",
+            "き",
+            "て",
+            "にぎやか",
+            "で",
+            "あり",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "f000085",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "日がたつにつれて、",
+        "sentence_with_furigana": "日[ひ]がたつにつれて、",
+        "word_base_list": [
+            "日",
+            "が",
+            "たつ",
+            "に",
+            "つれる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "日",
+            "が",
+            "たつ",
+            "に",
+            "つれ",
+            "て",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "f000086",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花は開ききってしまいました。",
+        "sentence_with_furigana": "花[はな]は 開[ひら]ききってしまいました。",
+        "word_base_list": [
+            "花",
+            "は",
+            "開く",
+            "切る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "は",
+            "開き",
+            "きっ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "f000087",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "f000088",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "f000089",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ひとしきり風が吹いたときに、",
+        "sentence_with_furigana": "ひとしきり 風[かぜ]が 吹[ふ]いたときに、",
+        "word_base_list": [
+            "一頻り",
+            "風",
+            "が",
+            "吹く",
+            "た",
+            "時",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "ひとしきり",
+            "風",
+            "が",
+            "吹い",
+            "た",
+            "とき",
+            "に",
+            "、"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "f000090",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花はこぼれるように水の面にちりかかったのであります。",
+        "sentence_with_furigana": "花[はな]はこぼれるように 水[みず]の 面[おもて]にちりかかったのであります。",
+        "word_base_list": [
+            "花",
+            "は",
+            "こぼれる",
+            "様",
+            "だ",
+            "水",
+            "の",
+            "面",
+            "に",
+            "散る",
+            "掛かる",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "は",
+            "こぼれる",
+            "よう",
+            "に",
+            "水",
+            "の",
+            "面",
+            "に",
+            "ちり",
+            "かかっ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "f000091",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "f000092",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花が降ってきた。",
+        "sentence_with_furigana": "花[はな]が 降[ふ]ってきた。",
+        "word_base_list": [
+            "花",
+            "が",
+            "降る",
+            "て",
+            "来る",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "が",
+            "降っ",
+            "て",
+            "き",
+            "た",
+            "。"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "f000093",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "f000094",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川の中の魚は、",
+        "sentence_with_furigana": "川[かわ]の 中[なか]の 魚[さかな]は、",
+        "word_base_list": [
+            "川",
+            "の",
+            "中",
+            "の",
+            "魚",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "川",
+            "の",
+            "中",
+            "の",
+            "魚",
+            "は",
+            "、"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "f000095",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "みんな大騒ぎをしました。",
+        "sentence_with_furigana": "みんな 大騒[おおさわ]ぎをしました。",
+        "word_base_list": [
+            "皆",
+            "大騒ぎ",
+            "を",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "大騒ぎ",
+            "を",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "f000096",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "f000097",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なんというりっぱさでしょう。",
+        "sentence_with_furigana": "なんというりっぱさでしょう。",
+        "word_base_list": [
+            "何",
+            "と",
+            "言う",
+            "立派",
+            "さ",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "なん",
+            "と",
+            "いう",
+            "りっぱ",
+            "さ",
+            "でしょう",
+            "。"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "f000098",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "f000099",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供らが、",
+        "sentence_with_furigana": "子供[こども]らが、",
+        "word_base_list": [
+            "子供",
+            "等",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "ら",
+            "が",
+            "、"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "f000100",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "うっかりこの花をのまなければいいが。",
+        "sentence_with_furigana": "うっかりこの 花[はな]をのまなければいいが。",
+        "word_base_list": [
+            "うっかり",
+            "此の",
+            "花",
+            "を",
+            "飲む",
+            "ない",
+            "ば",
+            "良い",
+            "が",
+            "。"
+        ],
+        "word_list": [
+            "うっかり",
+            "この",
+            "花",
+            "を",
+            "のま",
+            "なけれ",
+            "ば",
+            "いい",
+            "が",
+            "。"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "f000101",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "f000102",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "大きな魚は心配していました。",
+        "sentence_with_furigana": "大[おお]きな 魚[さかな]は 心配[しんぱい]していました。",
+        "word_base_list": [
+            "大きな",
+            "魚",
+            "は",
+            "心配",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "大きな",
+            "魚",
+            "は",
+            "心配",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "f000103",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花は、",
+        "sentence_with_furigana": "花[はな]は、",
+        "word_base_list": [
+            "花",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "花",
+            "は",
+            "、"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "f000104",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "水の上に浮かんで、",
+        "sentence_with_furigana": "水[みず]の 上[うえ]に 浮[う]かんで、",
+        "word_base_list": [
+            "水",
+            "の",
+            "上",
+            "に",
+            "浮かぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "水",
+            "の",
+            "上",
+            "に",
+            "浮かん",
+            "で",
+            "、"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "f000105",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "流れ流れてゆきました。",
+        "sentence_with_furigana": "流[なが]れ 流[なが]れてゆきました。",
+        "word_base_list": [
+            "流れる",
+            "流れる",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "流れ",
+            "流れ",
+            "て",
+            "ゆき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "f000106",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "f000107",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "後から、",
+        "sentence_with_furigana": "後[あと]から、",
+        "word_base_list": [
+            "後",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "後",
+            "から",
+            "、"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "f000108",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "後から、",
+        "sentence_with_furigana": "後[あと]から、",
+        "word_base_list": [
+            "後",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "後",
+            "から",
+            "、"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "f000109",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花がこぼれて落ちてきました。",
+        "sentence_with_furigana": "花[はな]がこぼれて 落[お]ちてきました。",
+        "word_base_list": [
+            "花",
+            "が",
+            "こぼれる",
+            "て",
+            "落ちる",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "花",
+            "が",
+            "こぼれ",
+            "て",
+            "落ち",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "f000110",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「どんなに、",
+        "sentence_with_furigana": "「どんなに、",
+        "word_base_list": [
+            "「",
+            "どんな",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "どんな",
+            "に",
+            "、"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "f000111",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "おいしかろう。",
+        "sentence_with_furigana": "おいしかろう。",
+        "word_base_list": [
+            "美味しい",
+            "。"
+        ],
+        "word_list": [
+            "おいしかろう",
+            "。"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "f000112",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "f000113",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "三びきの魚の子供は、",
+        "sentence_with_furigana": "三びきの 魚[さかな]の 子供[こども]は、",
+        "word_base_list": [
+            "3",
+            "匹",
+            "の",
+            "魚",
+            "の",
+            "子供",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三",
+            "びき",
+            "の",
+            "魚",
+            "の",
+            "子供",
+            "は",
+            "、"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "f000114",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ついに、",
+        "sentence_with_furigana": "ついに、",
+        "word_base_list": [
+            "遂に",
+            "、"
+        ],
+        "word_list": [
+            "ついに",
+            "、"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "f000115",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その花びらをのんでしまいました。",
+        "sentence_with_furigana": "その 花[はな]びらをのんでしまいました。",
+        "word_base_list": [
+            "其の",
+            "花弁",
+            "を",
+            "飲む",
+            "で",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "花びら",
+            "を",
+            "のん",
+            "で",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "f000116",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その子供らの母親は、",
+        "sentence_with_furigana": "その 子供[こども]らの 母親[ははおや]は、",
+        "word_base_list": [
+            "其の",
+            "子供",
+            "等",
+            "の",
+            "母親",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "子供",
+            "ら",
+            "の",
+            "母親",
+            "は",
+            "、"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "f000117",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その翌日、",
+        "sentence_with_furigana": "その 翌日[よくじつ]、",
+        "word_base_list": [
+            "其の",
+            "翌日",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "翌日",
+            "、"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "f000118",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "我が子の姿を見て、",
+        "sentence_with_furigana": "我[わ]が 子[こ]の 姿[すがた]を 見[み]て、",
+        "word_base_list": [
+            "我が",
+            "子",
+            "の",
+            "姿",
+            "を",
+            "見る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "我が",
+            "子",
+            "の",
+            "姿",
+            "を",
+            "見",
+            "て",
+            "、"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "f000119",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "さめざめと泣いたのです。",
+        "sentence_with_furigana": "さめざめと 泣[な]いたのです。",
+        "word_base_list": [
+            "さめざめ",
+            "と",
+            "泣く",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "さめざめ",
+            "と",
+            "泣い",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "f000120",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「あれほど、",
+        "sentence_with_furigana": "「あれほど、",
+        "word_base_list": [
+            "「",
+            "彼れ",
+            "ほど",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あれ",
+            "ほど",
+            "、"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "f000121",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "花びらをたべてはいけないといったのに。",
+        "sentence_with_furigana": "花[はな]びらをたべてはいけないといったのに。",
+        "word_base_list": [
+            "花弁",
+            "を",
+            "食べる",
+            "ては",
+            "行く",
+            "ない",
+            "と",
+            "言う",
+            "た",
+            "の",
+            "に",
+            "。"
+        ],
+        "word_list": [
+            "花びら",
+            "を",
+            "たべ",
+            "ては",
+            "いけ",
+            "ない",
+            "と",
+            "いっ",
+            "た",
+            "の",
+            "に",
+            "。"
+        ],
+        "sound": "f000121.mp3"
+    },
+    {
+        "id": "f000122",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000122.mp3"
+    },
+    {
+        "id": "f000123",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "黒い子供の体は、",
+        "sentence_with_furigana": "黒[くろ]い 子供[こども]の 体[からだ]は、",
+        "word_base_list": [
+            "黒い",
+            "子供",
+            "の",
+            "体",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "黒い",
+            "子供",
+            "の",
+            "体",
+            "は",
+            "、"
+        ],
+        "sound": "f000123.mp3"
+    },
+    {
+        "id": "f000124",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いつのまにか、",
+        "sentence_with_furigana": "いつのまにか、",
+        "word_base_list": [
+            "いつ",
+            "の",
+            "ま",
+            "に",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "の",
+            "ま",
+            "に",
+            "か",
+            "、"
+        ],
+        "sound": "f000124.mp3"
+    },
+    {
+        "id": "f000125",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "二ひきは、",
+        "sentence_with_furigana": "二ひきは、",
+        "word_base_list": [
+            "2",
+            "匹",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "二",
+            "ひき",
+            "は",
+            "、"
+        ],
+        "sound": "f000125.mp3"
+    },
+    {
+        "id": "f000126",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い色に、",
+        "sentence_with_furigana": "赤[あか]い 色[いろ]に、",
+        "word_base_list": [
+            "赤い",
+            "色",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "色",
+            "に",
+            "、"
+        ],
+        "sound": "f000126.mp3"
+    },
+    {
+        "id": "f000127",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "一ぴきは白と赤の斑色になっていたからです。",
+        "sentence_with_furigana": "一ぴきは 白[しろ]と 赤[あか]の 斑色[ぶちいろ]になっていたからです。",
+        "word_base_list": [
+            "1",
+            "匹",
+            "は",
+            "白",
+            "と",
+            "赤",
+            "の",
+            "斑",
+            "色",
+            "に",
+            "成る",
+            "て",
+            "居る",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "一",
+            "ぴき",
+            "は",
+            "白",
+            "と",
+            "赤",
+            "の",
+            "斑",
+            "色",
+            "に",
+            "なっ",
+            "て",
+            "い",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000127.mp3"
+    },
+    {
+        "id": "f000128",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親の歎いたのも、",
+        "sentence_with_furigana": "母親[ははおや]の 歎[なげ]いたのも、",
+        "word_base_list": [
+            "母親",
+            "の",
+            "嘆く",
+            "た",
+            "の",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "母親",
+            "の",
+            "歎い",
+            "た",
+            "の",
+            "も",
+            "、"
+        ],
+        "sound": "f000128.mp3"
+    },
+    {
+        "id": "f000129",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "無理はありませんでした。",
+        "sentence_with_furigana": "無理[むり]はありませんでした。",
+        "word_base_list": [
+            "無理",
+            "は",
+            "有る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "無理",
+            "は",
+            "あり",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000129.mp3"
+    },
+    {
+        "id": "f000130",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この三びきの子供が、",
+        "sentence_with_furigana": "この三びきの 子供[こども]が、",
+        "word_base_list": [
+            "此の",
+            "3",
+            "匹",
+            "の",
+            "子供",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "三",
+            "びき",
+            "の",
+            "子供",
+            "が",
+            "、"
+        ],
+        "sound": "f000130.mp3"
+    },
+    {
+        "id": "f000131",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川中でいちばん目立って美しく見えたからであります。",
+        "sentence_with_furigana": "川中[かわなか]でいちばん 目立[めだ]って 美[うつく]しく 見[み]えたからであります。",
+        "word_base_list": [
+            "川中",
+            "で",
+            "一番",
+            "目立つ",
+            "て",
+            "美しい",
+            "見える",
+            "た",
+            "から",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "川中",
+            "で",
+            "いちばん",
+            "目立っ",
+            "て",
+            "美しく",
+            "見え",
+            "た",
+            "から",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000131.mp3"
+    },
+    {
+        "id": "f000132",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000132.mp3"
+    },
+    {
+        "id": "f000133",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川の水は、",
+        "sentence_with_furigana": "川[かわ]の 水[みず]は、",
+        "word_base_list": [
+            "川",
+            "の",
+            "水",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "川",
+            "の",
+            "水",
+            "は",
+            "、"
+        ],
+        "sound": "f000133.mp3"
+    },
+    {
+        "id": "f000134",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "よく澄んでいましたから、",
+        "sentence_with_furigana": "よく 澄[す]んでいましたから、",
+        "word_base_list": [
+            "良く",
+            "澄む",
+            "で",
+            "居る",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "よく",
+            "澄ん",
+            "で",
+            "い",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000134.mp3"
+    },
+    {
+        "id": "f000135",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "上からでものぞけば、",
+        "sentence_with_furigana": "上[うえ]からでものぞけば、",
+        "word_base_list": [
+            "上",
+            "から",
+            "だ",
+            "も",
+            "のぞく",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "上",
+            "から",
+            "で",
+            "も",
+            "のぞけ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000135.mp3"
+    },
+    {
+        "id": "f000136",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この三びきの子供らが遊んでいる姿がよくわかったのであります。",
+        "sentence_with_furigana": "この三びきの 子供[こども]らが 遊[あそ]んでいる 姿[すがた]がよくわかったのであります。",
+        "word_base_list": [
+            "此の",
+            "3",
+            "匹",
+            "の",
+            "子供",
+            "等",
+            "が",
+            "遊ぶ",
+            "で",
+            "居る",
+            "姿",
+            "が",
+            "良く",
+            "分かる",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "三",
+            "びき",
+            "の",
+            "子供",
+            "ら",
+            "が",
+            "遊ん",
+            "で",
+            "いる",
+            "姿",
+            "が",
+            "よく",
+            "わかっ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000136.mp3"
+    },
+    {
+        "id": "f000137",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「人間が、",
+        "sentence_with_furigana": "「 人間[にんげん]が、",
+        "word_base_list": [
+            "「",
+            "人間",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "人間",
+            "が",
+            "、"
+        ],
+        "sound": "f000137.mp3"
+    },
+    {
+        "id": "f000138",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "おまえらを見つけたら、",
+        "sentence_with_furigana": "おまえらを 見[み]つけたら、",
+        "word_base_list": [
+            "御前",
+            "等",
+            "を",
+            "見付ける",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "おまえ",
+            "ら",
+            "を",
+            "見つけ",
+            "たら",
+            "、"
+        ],
+        "sound": "f000138.mp3"
+    },
+    {
+        "id": "f000139",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "きっと捕らえるから、",
+        "sentence_with_furigana": "きっと 捕[と]らえるから、",
+        "word_base_list": [
+            "きっと",
+            "捕らえる",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "きっと",
+            "捕らえる",
+            "から",
+            "、"
+        ],
+        "sound": "f000139.mp3"
+    },
+    {
+        "id": "f000140",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "けっして水の上へ浮いてはならないぞ。",
+        "sentence_with_furigana": "けっして 水[みず]の 上[うえ]へ 浮[う]いてはならないぞ。",
+        "word_base_list": [
+            "決して",
+            "水",
+            "の",
+            "上",
+            "へ",
+            "浮く",
+            "て",
+            "は",
+            "成る",
+            "ない",
+            "ぞ",
+            "。"
+        ],
+        "word_list": [
+            "けっして",
+            "水",
+            "の",
+            "上",
+            "へ",
+            "浮い",
+            "て",
+            "は",
+            "なら",
+            "ない",
+            "ぞ",
+            "。"
+        ],
+        "sound": "f000140.mp3"
+    },
+    {
+        "id": "f000141",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000141.mp3"
+    },
+    {
+        "id": "f000142",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親は、",
+        "sentence_with_furigana": "母親[ははおや]は、",
+        "word_base_list": [
+            "母親",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "母親",
+            "は",
+            "、"
+        ],
+        "sound": "f000142.mp3"
+    },
+    {
+        "id": "f000143",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その子供らをいましめました。",
+        "sentence_with_furigana": "その 子供[こども]らをいましめました。",
+        "word_base_list": [
+            "其の",
+            "子供",
+            "等",
+            "を",
+            "戒める",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "子供",
+            "ら",
+            "を",
+            "いましめ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000143.mp3"
+    },
+    {
+        "id": "f000144",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "町からは、",
+        "sentence_with_furigana": "町[まち]からは、",
+        "word_base_list": [
+            "町",
+            "から",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "から",
+            "は",
+            "、"
+        ],
+        "sound": "f000144.mp3"
+    },
+    {
+        "id": "f000145",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "こんどは、",
+        "sentence_with_furigana": "こんどは、",
+        "word_base_list": [
+            "今度",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "こんど",
+            "は",
+            "、"
+        ],
+        "sound": "f000145.mp3"
+    },
+    {
+        "id": "f000146",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "人間の子供たちが毎日川へ遊びにやってきました。",
+        "sentence_with_furigana": "人間[にんげん]の 子供[こども]たちが 毎日[まいにち] 川[かわ]へ 遊[あそ]びにやってきました。",
+        "word_base_list": [
+            "人間",
+            "の",
+            "子供",
+            "達",
+            "が",
+            "毎日",
+            "川",
+            "へ",
+            "遊ぶ",
+            "に",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "人間",
+            "の",
+            "子供",
+            "たち",
+            "が",
+            "毎日",
+            "川",
+            "へ",
+            "遊び",
+            "に",
+            "やっ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000146.mp3"
+    },
+    {
+        "id": "f000147",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "町の子供たちの中で、",
+        "sentence_with_furigana": "町[まち]の 子供[こども]たちの 中[なか]で、",
+        "word_base_list": [
+            "町",
+            "の",
+            "子供",
+            "達",
+            "の",
+            "中",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "の",
+            "子供",
+            "たち",
+            "の",
+            "中",
+            "で",
+            "、"
+        ],
+        "sound": "f000147.mp3"
+    },
+    {
+        "id": "f000148",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川にすむ、",
+        "sentence_with_furigana": "川[かわ]にすむ、",
+        "word_base_list": [
+            "川",
+            "に",
+            "すむ",
+            "、"
+        ],
+        "word_list": [
+            "川",
+            "に",
+            "すむ",
+            "、"
+        ],
+        "sound": "f000148.mp3"
+    },
+    {
+        "id": "f000149",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い魚を見つけたものがあります。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 見[み]つけたものがあります。",
+        "word_base_list": [
+            "赤い",
+            "魚",
+            "を",
+            "見付ける",
+            "た",
+            "物",
+            "が",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "魚",
+            "を",
+            "見つけ",
+            "た",
+            "もの",
+            "が",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000149.mp3"
+    },
+    {
+        "id": "f000150",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「この川の中に、",
+        "sentence_with_furigana": "「この 川[かわ]の 中[なか]に、",
+        "word_base_list": [
+            "「",
+            "此の",
+            "川",
+            "の",
+            "中",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "川",
+            "の",
+            "中",
+            "に",
+            "、"
+        ],
+        "sound": "f000150.mp3"
+    },
+    {
+        "id": "f000151",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "金魚がいるよ。",
+        "sentence_with_furigana": "金魚[きんぎょ]がいるよ。",
+        "word_base_list": [
+            "金魚",
+            "が",
+            "居る",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "金魚",
+            "が",
+            "いる",
+            "よ",
+            "。"
+        ],
+        "sound": "f000151.mp3"
+    },
+    {
+        "id": "f000152",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000152.mp3"
+    },
+    {
+        "id": "f000153",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その魚を見た子供がいいました。",
+        "sentence_with_furigana": "その 魚[さかな]を 見[み]た 子供[こども]がいいました。",
+        "word_base_list": [
+            "其の",
+            "魚",
+            "を",
+            "見る",
+            "た",
+            "子供",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "魚",
+            "を",
+            "見",
+            "た",
+            "子供",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000153.mp3"
+    },
+    {
+        "id": "f000154",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「なんで、",
+        "sentence_with_furigana": "「なんで、",
+        "word_base_list": [
+            "「",
+            "何",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "なん",
+            "で",
+            "、"
+        ],
+        "sound": "f000154.mp3"
+    },
+    {
+        "id": "f000155",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この川の中に金魚なんかがいるもんか、",
+        "sentence_with_furigana": "この 川[かわ]の 中[なか]に 金魚[きんぎょ]なんかがいるもんか、",
+        "word_base_list": [
+            "此の",
+            "川",
+            "の",
+            "中",
+            "に",
+            "金魚",
+            "なんか",
+            "が",
+            "居る",
+            "もん",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "川",
+            "の",
+            "中",
+            "に",
+            "金魚",
+            "なんか",
+            "が",
+            "いる",
+            "もん",
+            "か",
+            "、"
+        ],
+        "sound": "f000155.mp3"
+    },
+    {
+        "id": "f000156",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "きっとひごいだろう。",
+        "sentence_with_furigana": "きっとひごいだろう。",
+        "word_base_list": [
+            "きっと",
+            "緋鯉",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "きっと",
+            "ひごい",
+            "だろう",
+            "。"
+        ],
+        "sound": "f000156.mp3"
+    },
+    {
+        "id": "f000157",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000157.mp3"
+    },
+    {
+        "id": "f000158",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ほかの子供がいいました。",
+        "sentence_with_furigana": "ほかの 子供[こども]がいいました。",
+        "word_base_list": [
+            "他",
+            "の",
+            "子供",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ほか",
+            "の",
+            "子供",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000158.mp3"
+    },
+    {
+        "id": "f000159",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「ひごいなんか、",
+        "sentence_with_furigana": "「ひごいなんか、",
+        "word_base_list": [
+            "「",
+            "緋鯉",
+            "なんか",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ひごい",
+            "なんか",
+            "、"
+        ],
+        "sound": "f000159.mp3"
+    },
+    {
+        "id": "f000160",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なんでこの川中にいるもんか。",
+        "sentence_with_furigana": "なんでこの 川[かわ] 中[なか]にいるもんか。",
+        "word_base_list": [
+            "何",
+            "で",
+            "此の",
+            "川中",
+            "に",
+            "居る",
+            "もん",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "なん",
+            "で",
+            "この",
+            "川中",
+            "に",
+            "いる",
+            "もん",
+            "か",
+            "。"
+        ],
+        "sound": "f000160.mp3"
+    },
+    {
+        "id": "f000161",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "それはお化けだよ。",
+        "sentence_with_furigana": "それはお 化[ば]けだよ。",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "お化け",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "お化け",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000161.mp3"
+    },
+    {
+        "id": "f000162",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000162.mp3"
+    },
+    {
+        "id": "f000163",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ほかの子供がいいました。",
+        "sentence_with_furigana": "ほかの 子供[こども]がいいました。",
+        "word_base_list": [
+            "他",
+            "の",
+            "子供",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ほか",
+            "の",
+            "子供",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000163.mp3"
+    },
+    {
+        "id": "f000164",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、",
+        "word_base_list": [
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "、"
+        ],
+        "sound": "f000164.mp3"
+    },
+    {
+        "id": "f000165",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000165.mp3"
+    },
+    {
+        "id": "f000166",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どうかして、",
+        "sentence_with_furigana": "どうかして、",
+        "word_base_list": [
+            "どう",
+            "か",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000166.mp3"
+    },
+    {
+        "id": "f000167",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その赤い魚を捕らえたいばかりに、",
+        "sentence_with_furigana": "その 赤[あか]い 魚[さかな]を 捕[と]らえたいばかりに、",
+        "word_base_list": [
+            "其の",
+            "赤い",
+            "魚",
+            "を",
+            "捕らえる",
+            "たい",
+            "ばかり",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "赤い",
+            "魚",
+            "を",
+            "捕らえ",
+            "たい",
+            "ばかり",
+            "に",
+            "、"
+        ],
+        "sound": "f000167.mp3"
+    },
+    {
+        "id": "f000168",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "毎日川のほとりへやってきました。",
+        "sentence_with_furigana": "毎日[まいにち] 川[かわ]のほとりへやってきました。",
+        "word_base_list": [
+            "毎日",
+            "川",
+            "の",
+            "辺",
+            "へ",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "毎日",
+            "川",
+            "の",
+            "ほとり",
+            "へ",
+            "やっ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000168.mp3"
+    },
+    {
+        "id": "f000169",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "町では、",
+        "sentence_with_furigana": "町[まち]では、",
+        "word_base_list": [
+            "町",
+            "で",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "で",
+            "は",
+            "、"
+        ],
+        "sound": "f000169.mp3"
+    },
+    {
+        "id": "f000170",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちの母親が心配いたしました。",
+        "sentence_with_furigana": "子供[こども]たちの 母親[ははおや]が 心配[しんぱい]いたしました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "の",
+            "母親",
+            "が",
+            "心配",
+            "致す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "の",
+            "母親",
+            "が",
+            "心配",
+            "いたし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000170.mp3"
+    },
+    {
+        "id": "f000171",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「どうして、",
+        "sentence_with_furigana": "「どうして、",
+        "word_base_list": [
+            "「",
+            "どう",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "どう",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000171.mp3"
+    },
+    {
+        "id": "f000172",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そう毎日川へばかりゆくのだえ。",
+        "sentence_with_furigana": "そう 毎日[まいにち] 川[かわ]へばかりゆくのだえ。",
+        "word_base_list": [
+            "そう",
+            "毎日",
+            "川",
+            "へ",
+            "ばかり",
+            "行く",
+            "の",
+            "だ",
+            "え",
+            "。"
+        ],
+        "word_list": [
+            "そう",
+            "毎日",
+            "川",
+            "へ",
+            "ばかり",
+            "ゆく",
+            "の",
+            "だ",
+            "え",
+            "。"
+        ],
+        "sound": "f000172.mp3"
+    },
+    {
+        "id": "f000173",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000173.mp3"
+    },
+    {
+        "id": "f000174",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちをしかりました。",
+        "sentence_with_furigana": "子供[こども]たちをしかりました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "を",
+            "然り",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "を",
+            "しかり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000174.mp3"
+    },
+    {
+        "id": "f000175",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「だって、",
+        "sentence_with_furigana": "「だって、",
+        "word_base_list": [
+            "「",
+            "だ",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "だ",
+            "って",
+            "、"
+        ],
+        "sound": "f000175.mp3"
+    },
+    {
+        "id": "f000176",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い魚がいるんですもの。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]がいるんですもの。",
+        "word_base_list": [
+            "赤い",
+            "魚",
+            "が",
+            "居る",
+            "の",
+            "です",
+            "もの",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "魚",
+            "が",
+            "いる",
+            "ん",
+            "です",
+            "もの",
+            "。"
+        ],
+        "sound": "f000176.mp3"
+    },
+    {
+        "id": "f000177",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000177.mp3"
+    },
+    {
+        "id": "f000178",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供は答えました。",
+        "sentence_with_furigana": "子供[こども]は 答[こた]えました。",
+        "word_base_list": [
+            "子供",
+            "は",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "は",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000178.mp3"
+    },
+    {
+        "id": "f000179",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000179.mp3"
+    },
+    {
+        "id": "f000180",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "昔から、",
+        "sentence_with_furigana": "昔[むかし]から、",
+        "word_base_list": [
+            "昔",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "昔",
+            "から",
+            "、"
+        ],
+        "sound": "f000180.mp3"
+    },
+    {
+        "id": "f000181",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "あの川には赤い魚がいるんですよ。",
+        "sentence_with_furigana": "あの 川[かわ]には 赤[あか]い 魚[さかな]がいるんですよ。",
+        "word_base_list": [
+            "彼の",
+            "川",
+            "に",
+            "は",
+            "赤い",
+            "魚",
+            "が",
+            "居る",
+            "の",
+            "です",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "川",
+            "に",
+            "は",
+            "赤い",
+            "魚",
+            "が",
+            "いる",
+            "ん",
+            "です",
+            "よ",
+            "。"
+        ],
+        "sound": "f000181.mp3"
+    },
+    {
+        "id": "f000182",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000182.mp3"
+    },
+    {
+        "id": "f000183",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "それを捕らえるとよくないことがあるというから、",
+        "sentence_with_furigana": "それを 捕[と]らえるとよくないことがあるというから、",
+        "word_base_list": [
+            "其れ",
+            "を",
+            "捕らえる",
+            "と",
+            "良い",
+            "無い",
+            "こと",
+            "が",
+            "有る",
+            "と",
+            "言う",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "を",
+            "捕らえる",
+            "と",
+            "よく",
+            "ない",
+            "こと",
+            "が",
+            "ある",
+            "と",
+            "いう",
+            "から",
+            "、"
+        ],
+        "sound": "f000183.mp3"
+    },
+    {
+        "id": "f000184",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "けっして、",
+        "sentence_with_furigana": "けっして、",
+        "word_base_list": [
+            "決して",
+            "、"
+        ],
+        "word_list": [
+            "けっして",
+            "、"
+        ],
+        "sound": "f000184.mp3"
+    },
+    {
+        "id": "f000185",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川などへいってはいけません。",
+        "sentence_with_furigana": "川[かわ]などへいってはいけません。",
+        "word_base_list": [
+            "川",
+            "など",
+            "へ",
+            "行く",
+            "て",
+            "は",
+            "行く",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "川",
+            "など",
+            "へ",
+            "いっ",
+            "て",
+            "は",
+            "いけ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000185.mp3"
+    },
+    {
+        "id": "f000186",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000186.mp3"
+    },
+    {
+        "id": "f000187",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親はいいました。",
+        "sentence_with_furigana": "母親[ははおや]はいいました。",
+        "word_base_list": [
+            "母親",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "母親",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000187.mp3"
+    },
+    {
+        "id": "f000188",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000188.mp3"
+    },
+    {
+        "id": "f000189",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "母親がいったことをほんとうにしませんでした。",
+        "sentence_with_furigana": "母親[ははおや]がいったことをほんとうにしませんでした。",
+        "word_base_list": [
+            "母親",
+            "が",
+            "言う",
+            "た",
+            "こと",
+            "を",
+            "本当",
+            "に",
+            "為る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "母親",
+            "が",
+            "いっ",
+            "た",
+            "こと",
+            "を",
+            "ほんとう",
+            "に",
+            "し",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000189.mp3"
+    },
+    {
+        "id": "f000190",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どうかして、",
+        "sentence_with_furigana": "どうかして、",
+        "word_base_list": [
+            "どう",
+            "か",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000190.mp3"
+    },
+    {
+        "id": "f000191",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い魚を捕まえたいものだと、",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 捕[つか]まえたいものだと、",
+        "word_base_list": [
+            "赤い",
+            "魚",
+            "を",
+            "捕まえる",
+            "たい",
+            "物",
+            "だ",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "赤い",
+            "魚",
+            "を",
+            "捕まえ",
+            "たい",
+            "もの",
+            "だ",
+            "と",
+            "、"
+        ],
+        "sound": "f000191.mp3"
+    },
+    {
+        "id": "f000192",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "word_base_list": [
+            "毎日",
+            "、"
+        ],
+        "word_list": [
+            "毎日",
+            "、"
+        ],
+        "sound": "f000192.mp3"
+    },
+    {
+        "id": "f000193",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "川のふちへきてはうろついていました。",
+        "sentence_with_furigana": "川[かわ]のふちへきてはうろついていました。",
+        "word_base_list": [
+            "川",
+            "の",
+            "縁",
+            "へ",
+            "来る",
+            "て",
+            "は",
+            "彷徨く",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "川",
+            "の",
+            "ふち",
+            "へ",
+            "き",
+            "て",
+            "は",
+            "うろつい",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000193.mp3"
+    },
+    {
+        "id": "f000194",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000194.mp3"
+    },
+    {
+        "id": "f000195",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000195.mp3"
+    },
+    {
+        "id": "f000196",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "とうとう赤い魚を三びきとも捕まえてしまいました。",
+        "sentence_with_furigana": "とうとう 赤[あか]い 魚[さかな]を三びきとも 捕[つか]まえてしまいました。",
+        "word_base_list": [
+            "到頭",
+            "赤い",
+            "魚",
+            "を",
+            "3",
+            "匹",
+            "と",
+            "も",
+            "捕まえる",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "とうとう",
+            "赤い",
+            "魚",
+            "を",
+            "三",
+            "びき",
+            "と",
+            "も",
+            "捕まえ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000196.mp3"
+    },
+    {
+        "id": "f000197",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000197.mp3"
+    },
+    {
+        "id": "f000198",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "家へ持って帰りました。",
+        "sentence_with_furigana": "家[うち]へ 持[も]って 帰[かえ]りました。",
+        "word_base_list": [
+            "家",
+            "へ",
+            "持つ",
+            "て",
+            "帰る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "家",
+            "へ",
+            "持っ",
+            "て",
+            "帰り",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000198.mp3"
+    },
+    {
+        "id": "f000199",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "母さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "母さん",
+            "、"
+        ],
+        "sound": "f000199.mp3"
+    },
+    {
+        "id": "f000200",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "赤い魚を捕まえてきましたよ。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 捕[つか]まえてきましたよ。",
+        "word_base_list": [
+            "赤い",
+            "魚",
+            "を",
+            "捕まえる",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "赤い",
+            "魚",
+            "を",
+            "捕まえ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "よ",
+            "。"
+        ],
+        "sound": "f000200.mp3"
+    },
+    {
+        "id": "f000201",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000201.mp3"
+    },
+    {
+        "id": "f000202",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちはいいました。",
+        "sentence_with_furigana": "子供[こども]たちはいいました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000202.mp3"
+    },
+    {
+        "id": "f000203",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お 母[かあ]さんは、",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000203.mp3"
+    },
+    {
+        "id": "f000204",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちの捕まえてきた赤い魚を見ました。",
+        "sentence_with_furigana": "子供[こども]たちの 捕[つか]まえてきた 赤[あか]い 魚[さかな]を 見[み]ました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "の",
+            "捕まえる",
+            "て",
+            "来る",
+            "た",
+            "赤い",
+            "魚",
+            "を",
+            "見る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "の",
+            "捕まえ",
+            "て",
+            "き",
+            "た",
+            "赤い",
+            "魚",
+            "を",
+            "見",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000204.mp3"
+    },
+    {
+        "id": "f000205",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「おお、",
+        "sentence_with_furigana": "「おお、",
+        "word_base_list": [
+            "「",
+            "おお",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "おお",
+            "、"
+        ],
+        "sound": "f000205.mp3"
+    },
+    {
+        "id": "f000206",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "小さいかわいらしい魚だね！",
+        "sentence_with_furigana": "小[ちい]さいかわいらしい 魚[さかな]だね！",
+        "word_base_list": [
+            "小さい",
+            "可愛らしい",
+            "魚",
+            "だ",
+            "ね",
+            "！"
+        ],
+        "word_list": [
+            "小さい",
+            "かわいらしい",
+            "魚",
+            "だ",
+            "ね",
+            "！"
+        ],
+        "sound": "f000206.mp3"
+    },
+    {
+        "id": "f000207",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "どんなにか、",
+        "sentence_with_furigana": "どんなにか、",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "か",
+            "、"
+        ],
+        "sound": "f000207.mp3"
+    },
+    {
+        "id": "f000208",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この魚の母親が、",
+        "sentence_with_furigana": "この 魚[さかな]の 母親[ははおや]が、",
+        "word_base_list": [
+            "此の",
+            "魚",
+            "の",
+            "母親",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "魚",
+            "の",
+            "母親",
+            "が",
+            "、"
+        ],
+        "sound": "f000208.mp3"
+    },
+    {
+        "id": "f000209",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いまごろ悲しんでいるでしょう。",
+        "sentence_with_furigana": "いまごろ 悲[かな]しんでいるでしょう。",
+        "word_base_list": [
+            "今頃",
+            "悲しむ",
+            "で",
+            "居る",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "いまごろ",
+            "悲しん",
+            "で",
+            "いる",
+            "でしょう",
+            "。"
+        ],
+        "sound": "f000209.mp3"
+    },
+    {
+        "id": "f000210",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000210.mp3"
+    },
+    {
+        "id": "f000211",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "お母さんはいいました。",
+        "sentence_with_furigana": "お 母[かあ]さんはいいました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000211.mp3"
+    },
+    {
+        "id": "f000212",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "母さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "母さん",
+            "、"
+        ],
+        "sound": "f000212.mp3"
+    },
+    {
+        "id": "f000213",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "この魚にもお母さんがあるのですか？",
+        "sentence_with_furigana": "この 魚[さかな]にもお 母[かあ]さんがあるのですか？",
+        "word_base_list": [
+            "此の",
+            "魚",
+            "に",
+            "も",
+            "御",
+            "母さん",
+            "が",
+            "有る",
+            "の",
+            "です",
+            "か",
+            "？"
+        ],
+        "word_list": [
+            "この",
+            "魚",
+            "に",
+            "も",
+            "お",
+            "母さん",
+            "が",
+            "ある",
+            "の",
+            "です",
+            "か",
+            "？"
+        ],
+        "sound": "f000213.mp3"
+    },
+    {
+        "id": "f000214",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000214.mp3"
+    },
+    {
+        "id": "f000215",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちはききました。",
+        "sentence_with_furigana": "子供[こども]たちはききました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "きく",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "きき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000215.mp3"
+    },
+    {
+        "id": "f000216",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「ありますよ。",
+        "sentence_with_furigana": "「ありますよ。",
+        "word_base_list": [
+            "「",
+            "有る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "あり",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000216.mp3"
+    },
+    {
+        "id": "f000217",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000217.mp3"
+    },
+    {
+        "id": "f000218",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いまごろ、",
+        "sentence_with_furigana": "いまごろ、",
+        "word_base_list": [
+            "今頃",
+            "、"
+        ],
+        "word_list": [
+            "いまごろ",
+            "、"
+        ],
+        "sound": "f000218.mp3"
+    },
+    {
+        "id": "f000219",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供がいなくなったといって心配しているでしょう。",
+        "sentence_with_furigana": "子供[こども]がいなくなったといって 心配[しんぱい]しているでしょう。",
+        "word_base_list": [
+            "子供",
+            "が",
+            "居る",
+            "ない",
+            "成る",
+            "た",
+            "と",
+            "言う",
+            "て",
+            "心配",
+            "為る",
+            "て",
+            "居る",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "が",
+            "い",
+            "なく",
+            "なっ",
+            "た",
+            "と",
+            "いっ",
+            "て",
+            "心配",
+            "し",
+            "て",
+            "いる",
+            "でしょう",
+            "。"
+        ],
+        "sound": "f000219.mp3"
+    },
+    {
+        "id": "f000220",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000220.mp3"
+    },
+    {
+        "id": "f000221",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "お母さんは答えました。",
+        "sentence_with_furigana": "お 母[かあ]さんは 答[こた]えました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000221.mp3"
+    },
+    {
+        "id": "f000222",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000222.mp3"
+    },
+    {
+        "id": "f000223",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その話をきくとかわいそうになりました。",
+        "sentence_with_furigana": "その 話[はなし]をきくとかわいそうになりました。",
+        "word_base_list": [
+            "其の",
+            "話",
+            "を",
+            "きく",
+            "と",
+            "可哀想",
+            "だ",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "話",
+            "を",
+            "きく",
+            "と",
+            "かわいそう",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000223.mp3"
+    },
+    {
+        "id": "f000224",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「この魚を逃がしてやろうか。",
+        "sentence_with_furigana": "「この 魚[さかな]を 逃[に]がしてやろうか。",
+        "word_base_list": [
+            "「",
+            "此の",
+            "魚",
+            "を",
+            "逃がす",
+            "て",
+            "遣る",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "魚",
+            "を",
+            "逃がし",
+            "て",
+            "やろう",
+            "か",
+            "。"
+        ],
+        "sound": "f000224.mp3"
+    },
+    {
+        "id": "f000225",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000225.mp3"
+    },
+    {
+        "id": "f000226",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "一人がいいました。",
+        "sentence_with_furigana": "一人[ひとり]がいいました。",
+        "word_base_list": [
+            "一人",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "一人",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000226.mp3"
+    },
+    {
+        "id": "f000227",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「ああもう、",
+        "sentence_with_furigana": "「ああもう、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "もう",
+            "、"
+        ],
+        "sound": "f000227.mp3"
+    },
+    {
+        "id": "f000228",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "だれも捕まえないように大きな河へ逃がしてやろう。",
+        "sentence_with_furigana": "だれも 捕[つか]まえないように 大[おお]きな 河[かわ]へ 逃[に]がしてやろう。",
+        "word_base_list": [
+            "誰",
+            "も",
+            "捕まえる",
+            "ない",
+            "様",
+            "だ",
+            "大きな",
+            "河",
+            "へ",
+            "逃がす",
+            "て",
+            "遣る",
+            "。"
+        ],
+        "word_list": [
+            "だれ",
+            "も",
+            "捕まえ",
+            "ない",
+            "よう",
+            "に",
+            "大きな",
+            "河",
+            "へ",
+            "逃がし",
+            "て",
+            "やろう",
+            "。"
+        ],
+        "sound": "f000228.mp3"
+    },
+    {
+        "id": "f000229",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000229.mp3"
+    },
+    {
+        "id": "f000230",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "もう一人がいいました。",
+        "sentence_with_furigana": "もう 一人[ひとり]がいいました。",
+        "word_base_list": [
+            "もう",
+            "一人",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "もう",
+            "一人",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000230.mp3"
+    },
+    {
+        "id": "f000231",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000231.mp3"
+    },
+    {
+        "id": "f000232",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "三びきのきれいな魚を町はずれの大きな河へ逃がしてやりました、",
+        "sentence_with_furigana": "三びきのきれいな 魚[さかな]を 町[まち]はずれの 大[おお]きな 河[かわ]へ 逃[に]がしてやりました、",
+        "word_base_list": [
+            "3",
+            "匹",
+            "の",
+            "奇麗",
+            "だ",
+            "魚",
+            "を",
+            "町外れ",
+            "の",
+            "大きな",
+            "河",
+            "へ",
+            "逃がす",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "三",
+            "びき",
+            "の",
+            "きれい",
+            "な",
+            "魚",
+            "を",
+            "町はずれ",
+            "の",
+            "大きな",
+            "河",
+            "へ",
+            "逃がし",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "、"
+        ],
+        "sound": "f000232.mp3"
+    },
+    {
+        "id": "f000233",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その後で子供たちは、",
+        "sentence_with_furigana": "その 後[あと]で 子供[こども]たちは、",
+        "word_base_list": [
+            "其の",
+            "後",
+            "で",
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "後",
+            "で",
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000233.mp3"
+    },
+    {
+        "id": "f000234",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "はじめて気がついていいました。",
+        "sentence_with_furigana": "はじめて 気[き]がついていいました。",
+        "word_base_list": [
+            "初めて",
+            "気",
+            "が",
+            "付く",
+            "て",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "はじめて",
+            "気",
+            "が",
+            "つい",
+            "て",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000234.mp3"
+    },
+    {
+        "id": "f000235",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "「あの三びきの赤い魚は、",
+        "sentence_with_furigana": "「あの三びきの 赤[あか]い 魚[さかな]は、",
+        "word_base_list": [
+            "「",
+            "彼の",
+            "3",
+            "匹",
+            "の",
+            "赤い",
+            "魚",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あの",
+            "三",
+            "びき",
+            "の",
+            "赤い",
+            "魚",
+            "は",
+            "、"
+        ],
+        "sound": "f000235.mp3"
+    },
+    {
+        "id": "f000236",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "はたして、",
+        "sentence_with_furigana": "はたして、",
+        "word_base_list": [
+            "果たして",
+            "、"
+        ],
+        "word_list": [
+            "はたして",
+            "、"
+        ],
+        "sound": "f000236.mp3"
+    },
+    {
+        "id": "f000237",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "魚のお母さんにあえるのだろうか？」",
+        "sentence_with_furigana": "魚[さかな]のお 母[かあ]さんにあえるのだろうか？」",
+        "word_base_list": [
+            "魚",
+            "の",
+            "御",
+            "母さん",
+            "に",
+            "あえる",
+            "の",
+            "だ",
+            "か",
+            "？",
+            "」"
+        ],
+        "word_list": [
+            "魚",
+            "の",
+            "お",
+            "母さん",
+            "に",
+            "あえる",
+            "の",
+            "だろう",
+            "か",
+            "？",
+            "」"
+        ],
+        "sound": "f000237.mp3"
+    },
+    {
+        "id": "f000238",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000238.mp3"
+    },
+    {
+        "id": "f000239",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "それはだれにもわからなかったのです。",
+        "sentence_with_furigana": "それはだれにもわからなかったのです。",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "誰",
+            "に",
+            "も",
+            "分かる",
+            "ない",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "だれ",
+            "に",
+            "も",
+            "わから",
+            "なかっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000239.mp3"
+    },
+    {
+        "id": "f000240",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちはその後、",
+        "sentence_with_furigana": "子供[こども]たちはその 後[のち]、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "其の",
+            "後",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "その",
+            "後",
+            "、"
+        ],
+        "sound": "f000240.mp3"
+    },
+    {
+        "id": "f000241",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "気にかかるので、",
+        "sentence_with_furigana": "気[き]にかかるので、",
+        "word_base_list": [
+            "気",
+            "に",
+            "掛かる",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "気",
+            "に",
+            "かかる",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000241.mp3"
+    },
+    {
+        "id": "f000242",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "いつか三びきの赤い魚を捕まえた川にいってみましたけれど、",
+        "sentence_with_furigana": "いつか三びきの 赤[あか]い 魚[さかな]を 捕[つか]まえた 川[かわ]にいってみましたけれど、",
+        "word_base_list": [
+            "いつ",
+            "か",
+            "3",
+            "匹",
+            "の",
+            "赤い",
+            "魚",
+            "を",
+            "捕まえる",
+            "た",
+            "川",
+            "に",
+            "行く",
+            "て",
+            "見る",
+            "ます",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "か",
+            "三",
+            "びき",
+            "の",
+            "赤い",
+            "魚",
+            "を",
+            "捕まえ",
+            "た",
+            "川",
+            "に",
+            "いっ",
+            "て",
+            "み",
+            "まし",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000242.mp3"
+    },
+    {
+        "id": "f000243",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ついにふたたび赤い魚の姿を見ませんでした。",
+        "sentence_with_furigana": "ついにふたたび 赤[あか]い 魚[さかな]の 姿[すがた]を 見[み]ませんでした。",
+        "word_base_list": [
+            "遂に",
+            "再び",
+            "赤い",
+            "魚",
+            "の",
+            "姿",
+            "を",
+            "見る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ついに",
+            "ふたたび",
+            "赤い",
+            "魚",
+            "の",
+            "姿",
+            "を",
+            "見",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000243.mp3"
+    },
+    {
+        "id": "f000244",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "夏の夕暮れ方、",
+        "sentence_with_furigana": "夏[なつ]の 夕暮[ゆうぐ]れ 方[がた]、",
+        "word_base_list": [
+            "夏",
+            "の",
+            "夕暮れ",
+            "方",
+            "、"
+        ],
+        "word_list": [
+            "夏",
+            "の",
+            "夕暮れ",
+            "方",
+            "、"
+        ],
+        "sound": "f000244.mp3"
+    },
+    {
+        "id": "f000245",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "西の空の、",
+        "sentence_with_furigana": "西[にし]の 空[そら]の、",
+        "word_base_list": [
+            "西",
+            "の",
+            "空",
+            "の",
+            "、"
+        ],
+        "word_list": [
+            "西",
+            "の",
+            "空",
+            "の",
+            "、"
+        ],
+        "sound": "f000245.mp3"
+    },
+    {
+        "id": "f000246",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "ちょうど町のとがった塔の上に、",
+        "sentence_with_furigana": "ちょうど 町[まち]のとがった 塔[とう]の 上[うえ]に、",
+        "word_base_list": [
+            "丁度",
+            "町",
+            "の",
+            "尖る",
+            "た",
+            "塔",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "ちょうど",
+            "町",
+            "の",
+            "とがっ",
+            "た",
+            "塔",
+            "の",
+            "上",
+            "に",
+            "、"
+        ],
+        "sound": "f000246.mp3"
+    },
+    {
+        "id": "f000247",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "その赤い魚のような雲が、",
+        "sentence_with_furigana": "その 赤[あか]い 魚[さかな]のような 雲[くも]が、",
+        "word_base_list": [
+            "其の",
+            "赤い",
+            "魚",
+            "の",
+            "様",
+            "だ",
+            "雲",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "赤い",
+            "魚",
+            "の",
+            "よう",
+            "な",
+            "雲",
+            "が",
+            "、"
+        ],
+        "sound": "f000247.mp3"
+    },
+    {
+        "id": "f000248",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "しばしば浮かぶことがありました。",
+        "sentence_with_furigana": "しばしば 浮[う]かぶことがありました。",
+        "word_base_list": [
+            "屡々",
+            "浮かぶ",
+            "こと",
+            "が",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しばしば",
+            "浮かぶ",
+            "こと",
+            "が",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000248.mp3"
+    },
+    {
+        "id": "f000249",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000249.mp3"
+    },
+    {
+        "id": "f000250",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "それを見ると、",
+        "sentence_with_furigana": "それを 見[み]ると、",
+        "word_base_list": [
+            "其れ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000250.mp3"
+    },
+    {
+        "id": "f000251",
+        "author": "Mimei Ogawa",
+        "author_japanese": "小川 未明",
+        "deck_name": "Akai Sakanato Kodomo",
+        "deck_name_japanese": "赤い魚と子供",
+        "sentence": "なんとなく悲しく思ったのです。",
+        "sentence_with_furigana": "なんとなく 悲[かな]しく 思[おも]ったのです。",
+        "word_base_list": [
+            "何",
+            "と",
+            "無い",
+            "悲しい",
+            "思う",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "なん",
+            "と",
+            "なく",
+            "悲しく",
+            "思っ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000251.mp3"
+    }
+]

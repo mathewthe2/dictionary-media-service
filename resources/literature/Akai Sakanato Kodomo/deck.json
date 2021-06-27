@@ -1,0 +1,1257 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "赤い魚と子供",
+        "sentence_with_furigana": "赤い魚と子供"
+    },
+    {
+        "id": "f000003",
+        "sentence": "川の中に、",
+        "sentence_with_furigana": "川[かわ]の 中[なか]に、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "魚がすんでいました。",
+        "sentence_with_furigana": "魚[さかな]がすんでいました。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "春になると、",
+        "sentence_with_furigana": "春[はる]になると、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "いろいろの花が川のほとりに咲きました。",
+        "sentence_with_furigana": "いろいろの 花[はな]が 川[かわ]のほとりに 咲[さ]きました。"
+    },
+    {
+        "id": "f000007",
+        "sentence": "木が、",
+        "sentence_with_furigana": "木[き]が、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "枝を川の上に拡げていましたから、",
+        "sentence_with_furigana": "枝[えだ]を 川[かわ]の 上[うえ]に 拡[ひろ]げていましたから、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "こずえに咲いた、",
+        "sentence_with_furigana": "こずえに 咲[さ]いた、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "真紅な花や、",
+        "sentence_with_furigana": "真紅[まっか]な 花[はな]や、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "またうす紅の花は、",
+        "sentence_with_furigana": "またうす 紅[くれない]の 花[はな]は、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "その美しい姿を水の面に映したのであります。",
+        "sentence_with_furigana": "その 美[うつく]しい 姿[すがた]を 水[みず]の 面[おもて]に 映[うつ]したのであります。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "なんのたのしみもない、",
+        "sentence_with_furigana": "なんのたのしみもない、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "この川の魚たちは、",
+        "sentence_with_furigana": "この 川[かわ]の 魚[さかな]たちは、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "どんなに上を向いて、",
+        "sentence_with_furigana": "どんなに 上[うえ]を 向[む]いて、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "水の面に映った花をながめてうれしがったでありましょう。",
+        "sentence_with_furigana": "水[みず]の 面[おもて]に 映[うつ]った 花[はな]をながめてうれしがったでありましょう。"
+    },
+    {
+        "id": "f000017",
+        "sentence": "「なんというきれいな花でしょう。",
+        "sentence_with_furigana": "「なんというきれいな 花[はな]でしょう。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "水の上の世界にはあんなに美しいものがたくさんあるのだ。",
+        "sentence_with_furigana": "水[みず]の 上[うえ]の 世界[せかい]にはあんなに 美[うつく]しいものがたくさんあるのだ。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "こんどの世には、",
+        "sentence_with_furigana": "こんどの 世[よ]には、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "どうかして私たちは水の上の世界に生まれ変わってきたいものです。",
+        "sentence_with_furigana": "どうかして 私[わたし]たちは 水[みず]の 上[うえ]の 世界[せかい]に 生[う]まれ 変[か]わってきたいものです。"
+    },
+    {
+        "id": "f000021",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "魚たちは話し合っていました。",
+        "sentence_with_furigana": "魚[さかな]たちは 話[はな]し 合[あ]っていました。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "なかにも、",
+        "sentence_with_furigana": "なかにも、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "魚の子供らは躍り上がって、",
+        "sentence_with_furigana": "魚[さかな]の 子供[こども]らは 躍[おど]り 上[あ]がって、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "とどきもしない花に向かって、",
+        "sentence_with_furigana": "とどきもしない 花[はな]に 向[む]かって、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "飛びつこうと騒いだのです。",
+        "sentence_with_furigana": "飛[と]びつこうと 騒[さわ]いだのです。"
+    },
+    {
+        "id": "f000027",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "あのきれいな花がほしいのです。",
+        "sentence_with_furigana": "あのきれいな 花[はな]がほしいのです。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "魚の母親は、",
+        "sentence_with_furigana": "魚[さかな]の 母親[ははおや]は、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "その子供をいましめて、",
+        "sentence_with_furigana": "その 子供[こども]をいましめて、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "いいますのには、",
+        "sentence_with_furigana": "いいますのには、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "「あれは、",
+        "sentence_with_furigana": "「あれは、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "ただ遠くからながめているものです。",
+        "sentence_with_furigana": "ただ 遠[とお]くからながめているものです。"
+    },
+    {
+        "id": "f000036",
+        "sentence": "けっして、",
+        "sentence_with_furigana": "けっして、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "あの花が水の上に落ちてきたとて食べてはなりません。",
+        "sentence_with_furigana": "あの 花[はな]が 水[みず]の 上[うえ]に 落[お]ちてきたとて 食[た]べてはなりません。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "」と教えました。",
+        "sentence_with_furigana": "」と 教[おし]えました。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "子供らは、",
+        "sentence_with_furigana": "子供[こども]らは、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "母親のいうことが、",
+        "sentence_with_furigana": "母親[ははおや]のいうことが、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "なぜだか信じられなかった。",
+        "sentence_with_furigana": "なぜだか 信[しん]じられなかった。"
+    },
+    {
+        "id": "f000042",
+        "sentence": "「なぜ、",
+        "sentence_with_furigana": "「なぜ、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "お母さん、",
+        "sentence_with_furigana": "お 母[かあ]さん、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "あの花びらが落ちてきたら、",
+        "sentence_with_furigana": "あの 花[はな]びらが 落[お]ちてきたら、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "食べてはなりませんのですか。",
+        "sentence_with_furigana": "食[た]べてはなりませんのですか。"
+    },
+    {
+        "id": "f000046",
+        "sentence": "」と聞きました。",
+        "sentence_with_furigana": "」と 聞[き]きました。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "母親は、",
+        "sentence_with_furigana": "母親[ははおや]は、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "思案顔をして、",
+        "sentence_with_furigana": "思案顔[しあんがお]をして、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "子供らを見守りながら、",
+        "sentence_with_furigana": "子供[こども]らを 見守[みまも]りながら、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "「昔から、",
+        "sentence_with_furigana": "「 昔[むかし]から、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "花を食べてはいけないといわれています。",
+        "sentence_with_furigana": "花[はな]を 食[た]べてはいけないといわれています。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "あれを食べると、",
+        "sentence_with_furigana": "あれを 食[た]べると、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "体に変わりができるということです。",
+        "sentence_with_furigana": "体[からだ]に 変[か]わりができるということです。"
+    },
+    {
+        "id": "f000054",
+        "sentence": "食べるなというものは、",
+        "sentence_with_furigana": "食[た]べるなというものは、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "なんでも食べないほうがいいのです。",
+        "sentence_with_furigana": "なんでも 食[た]べないほうがいいのです。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000057",
+        "sentence": "「あんなにきれいな花を、",
+        "sentence_with_furigana": "「あんなにきれいな 花[はな]を、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "なぜ食べてはいけないのだろう。",
+        "sentence_with_furigana": "なぜ 食[た]べてはいけないのだろう。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "一ぴきの子供の魚は、",
+        "sentence_with_furigana": "一ぴきの 子供[こども]の 魚[さかな]は、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "頭をかしげました。",
+        "sentence_with_furigana": "頭[かしら]をかしげました。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "「あの花が、",
+        "sentence_with_furigana": "「あの 花[はな]が、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "この水の上に、",
+        "sentence_with_furigana": "この 水[みず]の 上[うえ]に、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "みんな落ちてきたら、",
+        "sentence_with_furigana": "みんな 落[お]ちてきたら、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "どんなにきれいだろう。",
+        "sentence_with_furigana": "どんなにきれいだろう。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "ほかの一ぴきは目を輝かしながらいいました。",
+        "sentence_with_furigana": "ほかの一ぴきは 目[め]を 輝[かがや]かしながらいいました。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "子供らは、",
+        "sentence_with_furigana": "子供[こども]らは、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "水の面を見上げて、",
+        "sentence_with_furigana": "水[みず]の 面[おもて]を 見上[みあ]げて、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "花の散る日をたのしみにして待っていました。",
+        "sentence_with_furigana": "花[はな]の 散[ち]る 日[ひ]をたのしみにして 待[ま]っていました。"
+    },
+    {
+        "id": "f000073",
+        "sentence": "ひとり、",
+        "sentence_with_furigana": "ひとり、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "母親だけは、",
+        "sentence_with_furigana": "母親[ははおや]だけは、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "子供らが自分のいましめをきかないのを心配していました。",
+        "sentence_with_furigana": "子供[こども]らが 自分[じぶん]のいましめをきかないのを 心配[しんぱい]していました。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "花を私の知らぬまに食べてくれぬといいけれど。",
+        "sentence_with_furigana": "花[はな]を 私[わたし]の 知[し]らぬまに 食[た]べてくれぬといいけれど。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "独り言をしていました。",
+        "sentence_with_furigana": "独[ひと]り 言[ごと]をしていました。"
+    },
+    {
+        "id": "f000080",
+        "sentence": "木々の咲いた花には、",
+        "sentence_with_furigana": "木々[きぎ]の 咲[さ]いた 花[はな]には、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "朝から、",
+        "sentence_with_furigana": "朝[あさ]から、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "晩になるまで、",
+        "sentence_with_furigana": "晩[ばん]になるまで、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "ちょうや、",
+        "sentence_with_furigana": "ちょうや、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "はちがきてにぎやかでありましたが、",
+        "sentence_with_furigana": "はちがきてにぎやかでありましたが、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "日がたつにつれて、",
+        "sentence_with_furigana": "日[ひ]がたつにつれて、"
+    },
+    {
+        "id": "f000086",
+        "sentence": "花は開ききってしまいました。",
+        "sentence_with_furigana": "花[はな]は 開[ひら]ききってしまいました。"
+    },
+    {
+        "id": "f000087",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "ひとしきり風が吹いたときに、",
+        "sentence_with_furigana": "ひとしきり 風[かぜ]が 吹[ふ]いたときに、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "花はこぼれるように水の面にちりかかったのであります。",
+        "sentence_with_furigana": "花[はな]はこぼれるように 水[みず]の 面[おもて]にちりかかったのであります。"
+    },
+    {
+        "id": "f000091",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "花が降ってきた。",
+        "sentence_with_furigana": "花[はな]が 降[ふ]ってきた。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "川の中の魚は、",
+        "sentence_with_furigana": "川[かわ]の 中[なか]の 魚[さかな]は、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "みんな大騒ぎをしました。",
+        "sentence_with_furigana": "みんな 大騒[おおさわ]ぎをしました。"
+    },
+    {
+        "id": "f000096",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "なんというりっぱさでしょう。",
+        "sentence_with_furigana": "なんというりっぱさでしょう。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "子供らが、",
+        "sentence_with_furigana": "子供[こども]らが、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "うっかりこの花をのまなければいいが。",
+        "sentence_with_furigana": "うっかりこの 花[はな]をのまなければいいが。"
+    },
+    {
+        "id": "f000101",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "大きな魚は心配していました。",
+        "sentence_with_furigana": "大[おお]きな 魚[さかな]は 心配[しんぱい]していました。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "花は、",
+        "sentence_with_furigana": "花[はな]は、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "水の上に浮かんで、",
+        "sentence_with_furigana": "水[みず]の 上[うえ]に 浮[う]かんで、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "流れ流れてゆきました。",
+        "sentence_with_furigana": "流[なが]れ 流[なが]れてゆきました。"
+    },
+    {
+        "id": "f000106",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "後から、",
+        "sentence_with_furigana": "後[あと]から、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "後から、",
+        "sentence_with_furigana": "後[あと]から、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "花がこぼれて落ちてきました。",
+        "sentence_with_furigana": "花[はな]がこぼれて 落[お]ちてきました。"
+    },
+    {
+        "id": "f000110",
+        "sentence": "「どんなに、",
+        "sentence_with_furigana": "「どんなに、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "おいしかろう。",
+        "sentence_with_furigana": "おいしかろう。"
+    },
+    {
+        "id": "f000112",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "三びきの魚の子供は、",
+        "sentence_with_furigana": "三びきの 魚[さかな]の 子供[こども]は、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "ついに、",
+        "sentence_with_furigana": "ついに、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "その花びらをのんでしまいました。",
+        "sentence_with_furigana": "その 花[はな]びらをのんでしまいました。"
+    },
+    {
+        "id": "f000116",
+        "sentence": "その子供らの母親は、",
+        "sentence_with_furigana": "その 子供[こども]らの 母親[ははおや]は、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "その翌日、",
+        "sentence_with_furigana": "その 翌日[よくじつ]、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "我が子の姿を見て、",
+        "sentence_with_furigana": "我[わ]が 子[こ]の 姿[すがた]を 見[み]て、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "さめざめと泣いたのです。",
+        "sentence_with_furigana": "さめざめと 泣[な]いたのです。"
+    },
+    {
+        "id": "f000120",
+        "sentence": "「あれほど、",
+        "sentence_with_furigana": "「あれほど、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "花びらをたべてはいけないといったのに。",
+        "sentence_with_furigana": "花[はな]びらをたべてはいけないといったのに。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000123",
+        "sentence": "黒い子供の体は、",
+        "sentence_with_furigana": "黒[くろ]い 子供[こども]の 体[からだ]は、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "いつのまにか、",
+        "sentence_with_furigana": "いつのまにか、"
+    },
+    {
+        "id": "f000125",
+        "sentence": "二ひきは、",
+        "sentence_with_furigana": "二ひきは、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "赤い色に、",
+        "sentence_with_furigana": "赤[あか]い 色[いろ]に、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "一ぴきは白と赤の斑色になっていたからです。",
+        "sentence_with_furigana": "一ぴきは 白[しろ]と 赤[あか]の 斑色[ぶちいろ]になっていたからです。"
+    },
+    {
+        "id": "f000128",
+        "sentence": "母親の歎いたのも、",
+        "sentence_with_furigana": "母親[ははおや]の 歎[なげ]いたのも、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "無理はありませんでした。",
+        "sentence_with_furigana": "無理[むり]はありませんでした。"
+    },
+    {
+        "id": "f000130",
+        "sentence": "この三びきの子供が、",
+        "sentence_with_furigana": "この三びきの 子供[こども]が、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "川中でいちばん目立って美しく見えたからであります。",
+        "sentence_with_furigana": "川中[かわなか]でいちばん 目立[めだ]って 美[うつく]しく 見[み]えたからであります。"
+    },
+    {
+        "id": "f000132",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "川の水は、",
+        "sentence_with_furigana": "川[かわ]の 水[みず]は、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "よく澄んでいましたから、",
+        "sentence_with_furigana": "よく 澄[す]んでいましたから、"
+    },
+    {
+        "id": "f000135",
+        "sentence": "上からでものぞけば、",
+        "sentence_with_furigana": "上[うえ]からでものぞけば、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "この三びきの子供らが遊んでいる姿がよくわかったのであります。",
+        "sentence_with_furigana": "この三びきの 子供[こども]らが 遊[あそ]んでいる 姿[すがた]がよくわかったのであります。"
+    },
+    {
+        "id": "f000137",
+        "sentence": "「人間が、",
+        "sentence_with_furigana": "「 人間[にんげん]が、"
+    },
+    {
+        "id": "f000138",
+        "sentence": "おまえらを見つけたら、",
+        "sentence_with_furigana": "おまえらを 見[み]つけたら、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "きっと捕らえるから、",
+        "sentence_with_furigana": "きっと 捕[と]らえるから、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "けっして水の上へ浮いてはならないぞ。",
+        "sentence_with_furigana": "けっして 水[みず]の 上[うえ]へ 浮[う]いてはならないぞ。"
+    },
+    {
+        "id": "f000141",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "母親は、",
+        "sentence_with_furigana": "母親[ははおや]は、"
+    },
+    {
+        "id": "f000143",
+        "sentence": "その子供らをいましめました。",
+        "sentence_with_furigana": "その 子供[こども]らをいましめました。"
+    },
+    {
+        "id": "f000144",
+        "sentence": "町からは、",
+        "sentence_with_furigana": "町[まち]からは、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "こんどは、",
+        "sentence_with_furigana": "こんどは、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "人間の子供たちが毎日川へ遊びにやってきました。",
+        "sentence_with_furigana": "人間[にんげん]の 子供[こども]たちが 毎日[まいにち] 川[かわ]へ 遊[あそ]びにやってきました。"
+    },
+    {
+        "id": "f000147",
+        "sentence": "町の子供たちの中で、",
+        "sentence_with_furigana": "町[まち]の 子供[こども]たちの 中[なか]で、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "川にすむ、",
+        "sentence_with_furigana": "川[かわ]にすむ、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "赤い魚を見つけたものがあります。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 見[み]つけたものがあります。"
+    },
+    {
+        "id": "f000150",
+        "sentence": "「この川の中に、",
+        "sentence_with_furigana": "「この 川[かわ]の 中[なか]に、"
+    },
+    {
+        "id": "f000151",
+        "sentence": "金魚がいるよ。",
+        "sentence_with_furigana": "金魚[きんぎょ]がいるよ。"
+    },
+    {
+        "id": "f000152",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000153",
+        "sentence": "その魚を見た子供がいいました。",
+        "sentence_with_furigana": "その 魚[さかな]を 見[み]た 子供[こども]がいいました。"
+    },
+    {
+        "id": "f000154",
+        "sentence": "「なんで、",
+        "sentence_with_furigana": "「なんで、"
+    },
+    {
+        "id": "f000155",
+        "sentence": "この川の中に金魚なんかがいるもんか、",
+        "sentence_with_furigana": "この 川[かわ]の 中[なか]に 金魚[きんぎょ]なんかがいるもんか、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "きっとひごいだろう。",
+        "sentence_with_furigana": "きっとひごいだろう。"
+    },
+    {
+        "id": "f000157",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "ほかの子供がいいました。",
+        "sentence_with_furigana": "ほかの 子供[こども]がいいました。"
+    },
+    {
+        "id": "f000159",
+        "sentence": "「ひごいなんか、",
+        "sentence_with_furigana": "「ひごいなんか、"
+    },
+    {
+        "id": "f000160",
+        "sentence": "なんでこの川中にいるもんか。",
+        "sentence_with_furigana": "なんでこの 川[かわ] 中[なか]にいるもんか。"
+    },
+    {
+        "id": "f000161",
+        "sentence": "それはお化けだよ。",
+        "sentence_with_furigana": "それはお 化[ば]けだよ。"
+    },
+    {
+        "id": "f000162",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000163",
+        "sentence": "ほかの子供がいいました。",
+        "sentence_with_furigana": "ほかの 子供[こども]がいいました。"
+    },
+    {
+        "id": "f000164",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、"
+    },
+    {
+        "id": "f000165",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "どうかして、",
+        "sentence_with_furigana": "どうかして、"
+    },
+    {
+        "id": "f000167",
+        "sentence": "その赤い魚を捕らえたいばかりに、",
+        "sentence_with_furigana": "その 赤[あか]い 魚[さかな]を 捕[と]らえたいばかりに、"
+    },
+    {
+        "id": "f000168",
+        "sentence": "毎日川のほとりへやってきました。",
+        "sentence_with_furigana": "毎日[まいにち] 川[かわ]のほとりへやってきました。"
+    },
+    {
+        "id": "f000169",
+        "sentence": "町では、",
+        "sentence_with_furigana": "町[まち]では、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "子供たちの母親が心配いたしました。",
+        "sentence_with_furigana": "子供[こども]たちの 母親[ははおや]が 心配[しんぱい]いたしました。"
+    },
+    {
+        "id": "f000171",
+        "sentence": "「どうして、",
+        "sentence_with_furigana": "「どうして、"
+    },
+    {
+        "id": "f000172",
+        "sentence": "そう毎日川へばかりゆくのだえ。",
+        "sentence_with_furigana": "そう 毎日[まいにち] 川[かわ]へばかりゆくのだえ。"
+    },
+    {
+        "id": "f000173",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000174",
+        "sentence": "子供たちをしかりました。",
+        "sentence_with_furigana": "子供[こども]たちをしかりました。"
+    },
+    {
+        "id": "f000175",
+        "sentence": "「だって、",
+        "sentence_with_furigana": "「だって、"
+    },
+    {
+        "id": "f000176",
+        "sentence": "赤い魚がいるんですもの。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]がいるんですもの。"
+    },
+    {
+        "id": "f000177",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000178",
+        "sentence": "子供は答えました。",
+        "sentence_with_furigana": "子供[こども]は 答[こた]えました。"
+    },
+    {
+        "id": "f000179",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000180",
+        "sentence": "昔から、",
+        "sentence_with_furigana": "昔[むかし]から、"
+    },
+    {
+        "id": "f000181",
+        "sentence": "あの川には赤い魚がいるんですよ。",
+        "sentence_with_furigana": "あの 川[かわ]には 赤[あか]い 魚[さかな]がいるんですよ。"
+    },
+    {
+        "id": "f000182",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000183",
+        "sentence": "それを捕らえるとよくないことがあるというから、",
+        "sentence_with_furigana": "それを 捕[と]らえるとよくないことがあるというから、"
+    },
+    {
+        "id": "f000184",
+        "sentence": "けっして、",
+        "sentence_with_furigana": "けっして、"
+    },
+    {
+        "id": "f000185",
+        "sentence": "川などへいってはいけません。",
+        "sentence_with_furigana": "川[かわ]などへいってはいけません。"
+    },
+    {
+        "id": "f000186",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000187",
+        "sentence": "母親はいいました。",
+        "sentence_with_furigana": "母親[ははおや]はいいました。"
+    },
+    {
+        "id": "f000188",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000189",
+        "sentence": "母親がいったことをほんとうにしませんでした。",
+        "sentence_with_furigana": "母親[ははおや]がいったことをほんとうにしませんでした。"
+    },
+    {
+        "id": "f000190",
+        "sentence": "どうかして、",
+        "sentence_with_furigana": "どうかして、"
+    },
+    {
+        "id": "f000191",
+        "sentence": "赤い魚を捕まえたいものだと、",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 捕[つか]まえたいものだと、"
+    },
+    {
+        "id": "f000192",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、"
+    },
+    {
+        "id": "f000193",
+        "sentence": "川のふちへきてはうろついていました。",
+        "sentence_with_furigana": "川[かわ]のふちへきてはうろついていました。"
+    },
+    {
+        "id": "f000194",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000195",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000196",
+        "sentence": "とうとう赤い魚を三びきとも捕まえてしまいました。",
+        "sentence_with_furigana": "とうとう 赤[あか]い 魚[さかな]を三びきとも 捕[つか]まえてしまいました。"
+    },
+    {
+        "id": "f000197",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000198",
+        "sentence": "家へ持って帰りました。",
+        "sentence_with_furigana": "家[うち]へ 持[も]って 帰[かえ]りました。"
+    },
+    {
+        "id": "f000199",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、"
+    },
+    {
+        "id": "f000200",
+        "sentence": "赤い魚を捕まえてきましたよ。",
+        "sentence_with_furigana": "赤[あか]い 魚[さかな]を 捕[つか]まえてきましたよ。"
+    },
+    {
+        "id": "f000201",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000202",
+        "sentence": "子供たちはいいました。",
+        "sentence_with_furigana": "子供[こども]たちはいいました。"
+    },
+    {
+        "id": "f000203",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お 母[かあ]さんは、"
+    },
+    {
+        "id": "f000204",
+        "sentence": "子供たちの捕まえてきた赤い魚を見ました。",
+        "sentence_with_furigana": "子供[こども]たちの 捕[つか]まえてきた 赤[あか]い 魚[さかな]を 見[み]ました。"
+    },
+    {
+        "id": "f000205",
+        "sentence": "「おお、",
+        "sentence_with_furigana": "「おお、"
+    },
+    {
+        "id": "f000206",
+        "sentence": "小さいかわいらしい魚だね！",
+        "sentence_with_furigana": "小[ちい]さいかわいらしい 魚[さかな]だね！"
+    },
+    {
+        "id": "f000207",
+        "sentence": "どんなにか、",
+        "sentence_with_furigana": "どんなにか、"
+    },
+    {
+        "id": "f000208",
+        "sentence": "この魚の母親が、",
+        "sentence_with_furigana": "この 魚[さかな]の 母親[ははおや]が、"
+    },
+    {
+        "id": "f000209",
+        "sentence": "いまごろ悲しんでいるでしょう。",
+        "sentence_with_furigana": "いまごろ 悲[かな]しんでいるでしょう。"
+    },
+    {
+        "id": "f000210",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000211",
+        "sentence": "お母さんはいいました。",
+        "sentence_with_furigana": "お 母[かあ]さんはいいました。"
+    },
+    {
+        "id": "f000212",
+        "sentence": "「お母さん、",
+        "sentence_with_furigana": "「お 母[かあ]さん、"
+    },
+    {
+        "id": "f000213",
+        "sentence": "この魚にもお母さんがあるのですか？",
+        "sentence_with_furigana": "この 魚[さかな]にもお 母[かあ]さんがあるのですか？"
+    },
+    {
+        "id": "f000214",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000215",
+        "sentence": "子供たちはききました。",
+        "sentence_with_furigana": "子供[こども]たちはききました。"
+    },
+    {
+        "id": "f000216",
+        "sentence": "「ありますよ。",
+        "sentence_with_furigana": "「ありますよ。"
+    },
+    {
+        "id": "f000217",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000218",
+        "sentence": "いまごろ、",
+        "sentence_with_furigana": "いまごろ、"
+    },
+    {
+        "id": "f000219",
+        "sentence": "子供がいなくなったといって心配しているでしょう。",
+        "sentence_with_furigana": "子供[こども]がいなくなったといって 心配[しんぱい]しているでしょう。"
+    },
+    {
+        "id": "f000220",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000221",
+        "sentence": "お母さんは答えました。",
+        "sentence_with_furigana": "お 母[かあ]さんは 答[こた]えました。"
+    },
+    {
+        "id": "f000222",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000223",
+        "sentence": "その話をきくとかわいそうになりました。",
+        "sentence_with_furigana": "その 話[はなし]をきくとかわいそうになりました。"
+    },
+    {
+        "id": "f000224",
+        "sentence": "「この魚を逃がしてやろうか。",
+        "sentence_with_furigana": "「この 魚[さかな]を 逃[に]がしてやろうか。"
+    },
+    {
+        "id": "f000225",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000226",
+        "sentence": "一人がいいました。",
+        "sentence_with_furigana": "一人[ひとり]がいいました。"
+    },
+    {
+        "id": "f000227",
+        "sentence": "「ああもう、",
+        "sentence_with_furigana": "「ああもう、"
+    },
+    {
+        "id": "f000228",
+        "sentence": "だれも捕まえないように大きな河へ逃がしてやろう。",
+        "sentence_with_furigana": "だれも 捕[つか]まえないように 大[おお]きな 河[かわ]へ 逃[に]がしてやろう。"
+    },
+    {
+        "id": "f000229",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000230",
+        "sentence": "もう一人がいいました。",
+        "sentence_with_furigana": "もう 一人[ひとり]がいいました。"
+    },
+    {
+        "id": "f000231",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000232",
+        "sentence": "三びきのきれいな魚を町はずれの大きな河へ逃がしてやりました、",
+        "sentence_with_furigana": "三びきのきれいな 魚[さかな]を 町[まち]はずれの 大[おお]きな 河[かわ]へ 逃[に]がしてやりました、"
+    },
+    {
+        "id": "f000233",
+        "sentence": "その後で子供たちは、",
+        "sentence_with_furigana": "その 後[あと]で 子供[こども]たちは、"
+    },
+    {
+        "id": "f000234",
+        "sentence": "はじめて気がついていいました。",
+        "sentence_with_furigana": "はじめて 気[き]がついていいました。"
+    },
+    {
+        "id": "f000235",
+        "sentence": "「あの三びきの赤い魚は、",
+        "sentence_with_furigana": "「あの三びきの 赤[あか]い 魚[さかな]は、"
+    },
+    {
+        "id": "f000236",
+        "sentence": "はたして、",
+        "sentence_with_furigana": "はたして、"
+    },
+    {
+        "id": "f000237",
+        "sentence": "魚のお母さんにあえるのだろうか？」",
+        "sentence_with_furigana": "魚[さかな]のお 母[かあ]さんにあえるのだろうか？」"
+    },
+    {
+        "id": "f000238",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、"
+    },
+    {
+        "id": "f000239",
+        "sentence": "それはだれにもわからなかったのです。",
+        "sentence_with_furigana": "それはだれにもわからなかったのです。"
+    },
+    {
+        "id": "f000240",
+        "sentence": "子供たちはその後、",
+        "sentence_with_furigana": "子供[こども]たちはその 後[のち]、"
+    },
+    {
+        "id": "f000241",
+        "sentence": "気にかかるので、",
+        "sentence_with_furigana": "気[き]にかかるので、"
+    },
+    {
+        "id": "f000242",
+        "sentence": "いつか三びきの赤い魚を捕まえた川にいってみましたけれど、",
+        "sentence_with_furigana": "いつか三びきの 赤[あか]い 魚[さかな]を 捕[つか]まえた 川[かわ]にいってみましたけれど、"
+    },
+    {
+        "id": "f000243",
+        "sentence": "ついにふたたび赤い魚の姿を見ませんでした。",
+        "sentence_with_furigana": "ついにふたたび 赤[あか]い 魚[さかな]の 姿[すがた]を 見[み]ませんでした。"
+    },
+    {
+        "id": "f000244",
+        "sentence": "夏の夕暮れ方、",
+        "sentence_with_furigana": "夏[なつ]の 夕暮[ゆうぐ]れ 方[がた]、"
+    },
+    {
+        "id": "f000245",
+        "sentence": "西の空の、",
+        "sentence_with_furigana": "西[にし]の 空[そら]の、"
+    },
+    {
+        "id": "f000246",
+        "sentence": "ちょうど町のとがった塔の上に、",
+        "sentence_with_furigana": "ちょうど 町[まち]のとがった 塔[とう]の 上[うえ]に、"
+    },
+    {
+        "id": "f000247",
+        "sentence": "その赤い魚のような雲が、",
+        "sentence_with_furigana": "その 赤[あか]い 魚[さかな]のような 雲[くも]が、"
+    },
+    {
+        "id": "f000248",
+        "sentence": "しばしば浮かぶことがありました。",
+        "sentence_with_furigana": "しばしば 浮[う]かぶことがありました。"
+    },
+    {
+        "id": "f000249",
+        "sentence": "子供たちは、",
+        "sentence_with_furigana": "子供[こども]たちは、"
+    },
+    {
+        "id": "f000250",
+        "sentence": "それを見ると、",
+        "sentence_with_furigana": "それを 見[み]ると、"
+    },
+    {
+        "id": "f000251",
+        "sentence": "なんとなく悲しく思ったのです。",
+        "sentence_with_furigana": "なんとなく 悲[かな]しく 思[おも]ったのです。"
+    }
+]

@@ -1,0 +1,607 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "赤い船とつばめ",
+        "sentence_with_furigana": "赤い船とつばめ"
+    },
+    {
+        "id": "f000003",
+        "sentence": "ある日の晩方、",
+        "sentence_with_furigana": "ある 日[ひ]の 晩方[ばんがた]、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "赤い船が、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "浜辺につきました。",
+        "sentence_with_furigana": "浜辺[はまべ]につきました。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "その船は、",
+        "sentence_with_furigana": "その 船[ふね]は、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "南の国からきたので、",
+        "sentence_with_furigana": "南[みなみ]の 国[くに]からきたので、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "つばめを迎えに、",
+        "sentence_with_furigana": "つばめを 迎[むか]えに、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "王さまが、",
+        "sentence_with_furigana": "王[おう]さまが、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "よこされたものです。",
+        "sentence_with_furigana": "よこされたものです。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "長い間、",
+        "sentence_with_furigana": "長[なが]い 間[あいだ]、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "北の青い海の上を飛んだり、",
+        "sentence_with_furigana": "北[きた]の 青[あお]い 海[うみ]の 上[うえ]を 飛[と]んだり、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "電信柱の上にとまって、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]の 上[うえ]にとまって、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "さえずっていましたつばめたちは、",
+        "sentence_with_furigana": "さえずっていましたつばめたちは、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "秋風がそよそよと吹いて、",
+        "sentence_with_furigana": "秋風[あきかぜ]がそよそよと 吹[ふ]いて、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "木の葉が色づくころになると、",
+        "sentence_with_furigana": "木[き]の 葉[は]が 色[いろ]づくころになると、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "もはや、",
+        "sentence_with_furigana": "もはや、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "南の方のお家へ帰らなければなりませんでした。",
+        "sentence_with_furigana": "南[みなみ]の 方[ほう]のお 家[うち]へ 帰[かえ]らなければなりませんでした。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "寒さに弱い、",
+        "sentence_with_furigana": "寒[さむ]さに 弱[よわ]い、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "この小鳥は、",
+        "sentence_with_furigana": "この 小鳥[ことり]は、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "あたたかなところに育つように生まれついたからです。",
+        "sentence_with_furigana": "あたたかなところに 育[そだ]つように 生[う]まれついたからです。"
+    },
+    {
+        "id": "f000022",
+        "sentence": "王さまは、",
+        "sentence_with_furigana": "王[おう]さまは、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "もうつばめらの帰る時分だと思うと、",
+        "sentence_with_furigana": "もうつばめらの 帰[かえ]る 時分[じぶん]だと 思[おも]うと、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "赤い船を迎えによこされました。",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]を 迎[むか]えによこされました。"
+    },
+    {
+        "id": "f000025",
+        "sentence": "つばめたちも、",
+        "sentence_with_furigana": "つばめたちも、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "船に乗りおくれてはならぬと思って、",
+        "sentence_with_furigana": "船[ふね]に 乗[の]りおくれてはならぬと 思[おも]って、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "その時分には、",
+        "sentence_with_furigana": "その 時分[じぶん]には、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "海岸の近くにきて、",
+        "sentence_with_furigana": "海岸[かいがん]の 近[ちか]くにきて、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "気をつけていました。",
+        "sentence_with_furigana": "気[き]をつけていました。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "波間に、",
+        "sentence_with_furigana": "波間[なみま]に、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "赤い船が見えると、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が 見[み]えると、"
+    },
+    {
+        "id": "f000033",
+        "sentence": "「キイ、",
+        "sentence_with_furigana": "「キイ、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "キイ……。",
+        "sentence_with_furigana": "キイ……。"
+    },
+    {
+        "id": "f000035",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "喜んで鳴いたのです。",
+        "sentence_with_furigana": "喜[よろこ]んで 鳴[な]いたのです。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "早く見つけたつばめは、",
+        "sentence_with_furigana": "早[はや]く 見[み]つけたつばめは、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "それをまだ知らない友だちに告げるために、",
+        "sentence_with_furigana": "それをまだ 知[し]らない 友[とも]だちに 告[つ]げるために、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "空高く舞い上がって、",
+        "sentence_with_furigana": "空高[そらたか]く 舞[ま]い 上[あ]がって、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "紺色の美しい翼をひるがえしながら、",
+        "sentence_with_furigana": "紺色[こんいろ]の 美[うつく]しい 翼[つばさ]をひるがえしながら、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "「赤い船がきましたよ。",
+        "sentence_with_furigana": "「 赤[あか]い 船[ふね]がきましたよ。"
+    },
+    {
+        "id": "f000042",
+        "sentence": "さあ、",
+        "sentence_with_furigana": "さあ、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "もう私たちは、",
+        "sentence_with_furigana": "もう 私[わたし]たちは、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "立つときです。",
+        "sentence_with_furigana": "立[た]つときです。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "どうか、",
+        "sentence_with_furigana": "どうか、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "遠方にいるお友だちに知らせてください。",
+        "sentence_with_furigana": "遠方[えんぽう]にいるお 友[とも]だちに 知[し]らせてください。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "なかには遠いところにいて、",
+        "sentence_with_furigana": "なかには 遠[とお]いところにいて、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "まだ知らずにいるものもありました。",
+        "sentence_with_furigana": "まだ 知[し]らずにいるものもありました。"
+    },
+    {
+        "id": "f000050",
+        "sentence": "そういうつばめは、",
+        "sentence_with_furigana": "そういうつばめは、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "村に他のいいお友だちができて、",
+        "sentence_with_furigana": "村[むら]に 他[た]のいいお 友[とも]だちができて、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "まあ、",
+        "sentence_with_furigana": "まあ、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "そんなに急いで、",
+        "sentence_with_furigana": "そんなに 急[いそ]いで、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "お帰りなさることはない。",
+        "sentence_with_furigana": "お 帰[かえ]りなさることはない。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "」といわれて、",
+        "sentence_with_furigana": "」といわれて、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "引きとめられているつばめたちであったのでした。",
+        "sentence_with_furigana": "引[ひ]きとめられているつばめたちであったのでした。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "赤い船は、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]は、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "浜辺に四日、",
+        "sentence_with_furigana": "浜辺[はまべ]に 四日[よっか]、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "五日、",
+        "sentence_with_furigana": "五日[いつか]、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "とまっていました。",
+        "sentence_with_furigana": "とまっていました。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "四方から、",
+        "sentence_with_furigana": "四 方[ほう]から、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "毎日のように集まってくるつばめを待っていました。",
+        "sentence_with_furigana": "毎日[まいにち]のように 集[あつ]まってくるつばめを 待[ま]っていました。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "たくさんつばめが船に乗って、",
+        "sentence_with_furigana": "たくさんつばめが 船[ふね]に 乗[の]って、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "最後には、",
+        "sentence_with_furigana": "最後[さいご]には、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "ほばしらの上まで止まって、",
+        "sentence_with_furigana": "ほばしらの 上[うえ]まで 止[と]まって、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "まったく、",
+        "sentence_with_furigana": "まったく、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "はいる席がなくなった時分、",
+        "sentence_with_furigana": "はいる 席[せき]がなくなった 時分[じぶん]、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "静かに海岸をはなれたのです。",
+        "sentence_with_furigana": "静[しず]かに 海岸[かいがん]をはなれたのです。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "たいていは、",
+        "sentence_with_furigana": "たいていは、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "月のいい晩を見はからって、",
+        "sentence_with_furigana": "月[つき]のいい 晩[ばん]を 見[み]はからって、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "出発しました。",
+        "sentence_with_furigana": "出発[しゅっぱつ]しました。"
+    },
+    {
+        "id": "f000075",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、"
+    },
+    {
+        "id": "f000076",
+        "sentence": "長い海の上をゆくには、",
+        "sentence_with_furigana": "長[なが]い 海[うみ]の 上[うえ]をゆくには、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "景色が見えなければ、",
+        "sentence_with_furigana": "景色[けしき]が 見[み]えなければ、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "退屈であるし、",
+        "sentence_with_furigana": "退屈[たいくつ]であるし、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "また途中から、",
+        "sentence_with_furigana": "また 途中[とちゅう]から、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "船をたよって、",
+        "sentence_with_furigana": "船[ふね]をたよって、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "飛んできて加わるものがないとはかぎらなかったからです。",
+        "sentence_with_furigana": "飛[と]んできて 加[くわ]わるものがないとはかぎらなかったからです。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "あるとき、",
+        "sentence_with_furigana": "あるとき、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "一羽のつばめは、",
+        "sentence_with_furigana": "一 羽[わ]のつばめは、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "船に乗ろうと思って、",
+        "sentence_with_furigana": "船[ふね]に 乗[の]ろうと 思[おも]って、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "遠いところから、",
+        "sentence_with_furigana": "遠[とお]いところから、"
+    },
+    {
+        "id": "f000086",
+        "sentence": "急いで飛んできましたが、",
+        "sentence_with_furigana": "急[いそ]いで 飛[と]んできましたが、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "すでに船の立ってしまった後でした。",
+        "sentence_with_furigana": "すでに 船[ふね]の 立[た]ってしまった 後[あと]でした。"
+    },
+    {
+        "id": "f000088",
+        "sentence": "そのつばめは、",
+        "sentence_with_furigana": "そのつばめは、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "ひじょうにがっかりしました。",
+        "sentence_with_furigana": "ひじょうにがっかりしました。"
+    },
+    {
+        "id": "f000090",
+        "sentence": "しかたなく、",
+        "sentence_with_furigana": "しかたなく、"
+    },
+    {
+        "id": "f000091",
+        "sentence": "木の葉を船として、",
+        "sentence_with_furigana": "木[き]の 葉[は]を 船[ふね]として、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "これに乗ってゆこうと決心しました。",
+        "sentence_with_furigana": "これに 乗[の]ってゆこうと 決心[けっしん]しました。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "それより海のかなたへ、",
+        "sentence_with_furigana": "それより 海[うみ]のかなたへ、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "渡る途はなかったのです。",
+        "sentence_with_furigana": "渡[わた]る 途[みち]はなかったのです。"
+    },
+    {
+        "id": "f000095",
+        "sentence": "昼間は、",
+        "sentence_with_furigana": "昼間[ひるま]は、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "木の葉をくわえて飛んで、",
+        "sentence_with_furigana": "木[き]の 葉[は]をくわえて 飛[と]んで、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "夜になると葉を船にして、",
+        "sentence_with_furigana": "夜[よる]になると 葉[は]を 船[ふね]にして、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "その上で休みました。",
+        "sentence_with_furigana": "その 上[うえ]で 休[やす]みました。"
+    },
+    {
+        "id": "f000099",
+        "sentence": "そのつばめは、",
+        "sentence_with_furigana": "そのつばめは、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "旅をしているうちに、",
+        "sentence_with_furigana": "旅[たび]をしているうちに、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "一夜、",
+        "sentence_with_furigana": "一 夜[や]、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "ひじょうな暴風に出あいました。",
+        "sentence_with_furigana": "ひじょうな 暴風[ぼうふう]に 出[で]あいました。"
+    },
+    {
+        "id": "f000104",
+        "sentence": "驚いて、",
+        "sentence_with_furigana": "驚[おどろ]いて、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "木の葉をしっかりとくわえて暗い空に舞い上がり、",
+        "sentence_with_furigana": "木[き]の 葉[は]をしっかりとくわえて 暗[くら]い 空[そら]に 舞[ま]い 上[あ]がり、"
+    },
+    {
+        "id": "f000106",
+        "sentence": "死にもの狂いで夜の間を暴風と戦いながらかけりました。",
+        "sentence_with_furigana": "死[し]にもの 狂[ぐる]いで 夜[よる]の 間[あいだ]を 暴風[ぼうふう]と 戦[たたか]いながらかけりました。"
+    },
+    {
+        "id": "f000107",
+        "sentence": "夜が明けると、",
+        "sentence_with_furigana": "夜[よ]が 明[あ]けると、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "はるか目の下の波間に、",
+        "sentence_with_furigana": "はるか 目[め]の 下[した]の 波間[なみま]に、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "赤い船が、",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]が、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "暴風のために、",
+        "sentence_with_furigana": "暴風[ぼうふう]のために、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "くつがえっているのを見ました。",
+        "sentence_with_furigana": "くつがえっているのを 見[み]ました。"
+    },
+    {
+        "id": "f000112",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "王さまのお迎えに出された赤い船です。",
+        "sentence_with_furigana": "王[おう]さまのお 迎[むか]えに 出[だ]された 赤[あか]い 船[ふね]です。"
+    },
+    {
+        "id": "f000114",
+        "sentence": "つばめは、",
+        "sentence_with_furigana": "つばめは、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "急いで帰って、",
+        "sentence_with_furigana": "急[いそ]いで 帰[かえ]って、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "このことを王さまに申し上げました。",
+        "sentence_with_furigana": "このことを 王[おう]さまに 申[もう]し 上[あ]げました。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "──王さまは、",
+        "sentence_with_furigana": "── 王[おう]さまは、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "ここにはじめて、",
+        "sentence_with_furigana": "ここにはじめて、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "自らの力をたよることのいちばん安心なのを悟られ、",
+        "sentence_with_furigana": "自[みずか]らの 力[ちから]をたよることのいちばん 安心[あんしん]なのを 悟[さと]られ、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "あくる年から、",
+        "sentence_with_furigana": "あくる 年[とし]から、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "赤い船を出すことを見合わせられたのであります。",
+        "sentence_with_furigana": "赤[あか]い 船[ふね]を 出[だ]すことを 見合[みあ]わせられたのであります。"
+    }
+]
