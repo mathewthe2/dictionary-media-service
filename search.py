@@ -21,7 +21,7 @@ def get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY):
     return decks.get_sentence(sentence_id)
 
 def get_sentence_with_context(sentence_id, category=DEFAULT_CATEGORY):
-    sentence = get_sentence_by_id(sentence_id)
+    sentence = get_sentence_by_id(sentence_id, category)
     if sentence is None:
         return None
     sentence["pretext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["pretext"]]
@@ -38,9 +38,19 @@ def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_le
             examples = filter_examples_by_exact_match(examples, text)
         examples = limit_examples(examples)
         examples = parse_examples(examples, text_is_japanese, word_bases)
-        return examples
+        return filter_fields(examples, excluded_fields=["pretext", "posttext"])
     else:
         return []
+
+def filter_fields(examples, excluded_fields):
+    filtered_examples =[]
+    for example in examples:
+        filtered_example= {}
+        for key in example:
+            if key not in excluded_fields:
+                filtered_example[key] = example[key]
+        filtered_examples.append(filtered_example)
+    return filtered_examples
 
 def parse_examples(examples, text_is_japanese, word_bases):
     for example in examples:
