@@ -1,10 +1,5 @@
 [
     {
-        "id": "S000001",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000001",
         "sentence": "林芙美子　作",
         "sentence_with_furigana": "林芙美子　作"
@@ -15,11 +10,6 @@
         "sentence_with_furigana": "ひらめの学校"
     },
     {
-        "id": "E000002",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000003",
         "sentence": "ひらめの学校の女の校長先生は、",
         "sentence_with_furigana": "ひらめの学校の女の校長先生は、"
@@ -28,11 +18,6 @@
         "id": "f000004",
         "sentence": "このごろお年をとって眼鏡をかけました。",
         "sentence_with_furigana": "このごろお年をとって眼鏡をかけました。"
-    },
-    {
-        "id": "S000005",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000005",
@@ -60,11 +45,6 @@
         "sentence_with_furigana": "あれでは陸の上まで見えるでしょうよ。"
     },
     {
-        "id": "S000010",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000010",
         "sentence": "此の間、",
         "sentence_with_furigana": "此の間、"
@@ -85,11 +65,6 @@
         "sentence_with_furigana": "あの眼鏡を貰っていらっしゃったンですって。」"
     },
     {
-        "id": "E000013",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000014",
         "sentence": "生徒たちは、",
         "sentence_with_furigana": "生徒たちは、"
@@ -98,11 +73,6 @@
         "id": "f000015",
         "sentence": "海の底の砂地に腹這ってそんな話をしていました。",
         "sentence_with_furigana": "海の底の砂地に腹這ってそんな話をしていました。"
-    },
-    {
-        "id": "S000016",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000016",
@@ -130,11 +100,6 @@
         "sentence_with_furigana": "体操の先生よ。」"
     },
     {
-        "id": "S000021",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000021",
         "sentence": "この間、",
         "sentence_with_furigana": "この間、"
@@ -160,11 +125,6 @@
         "sentence_with_furigana": "大きい尻尾にほうたいをしていらっしゃいました。"
     },
     {
-        "id": "S000026",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000026",
         "sentence": "「先生、",
         "sentence_with_furigana": "「先生、"
@@ -185,19 +145,9 @@
         "sentence_with_furigana": "おはよう。」"
     },
     {
-        "id": "S000030",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000030",
         "sentence": "体操の先生はちょこんと紅白の運動帽をかぶって生徒たちのところへいらっしゃいました。",
         "sentence_with_furigana": "体操の先生はちょこんと紅白の運動帽をかぶって生徒たちのところへいらっしゃいました。"
-    },
-    {
-        "id": "S000031",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000031",
@@ -235,11 +185,6 @@
         "sentence_with_furigana": "何だかものすごく大きくて動く事も出来ないものだそうです。」"
     },
     {
-        "id": "S000038",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000038",
         "sentence": "小さいひらめの生徒は、",
         "sentence_with_furigana": "小さいひらめの生徒は、"
@@ -258,11 +203,6 @@
         "id": "f000041",
         "sentence": "ごぼごぼと舞い上ってゆくものもありました。",
         "sentence_with_furigana": "ごぼごぼと舞い上ってゆくものもありました。"
-    },
-    {
-        "id": "E000041",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000042",
@@ -315,11 +255,6 @@
         "sentence_with_furigana": "先生の後からしずかに泳ぐのですよ。"
     },
     {
-        "id": "S000052",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000052",
         "sentence": "鯖村では、",
         "sentence_with_furigana": "鯖村では、"
@@ -360,11 +295,6 @@
         "sentence_with_furigana": "さあっと二列に並びました。"
     },
     {
-        "id": "S000060",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000060",
         "sentence": "校長先生が、",
         "sentence_with_furigana": "校長先生が、"
@@ -375,11 +305,6 @@
         "sentence_with_furigana": "大きい眼鏡をかけて出ていらっしゃいました。"
     },
     {
-        "id": "S000062",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000062",
         "sentence": "生徒はいっせいに、",
         "sentence_with_furigana": "生徒はいっせいに、"
@@ -388,11 +313,6 @@
         "id": "f000063",
         "sentence": "平べったい尻尾をひらひらとうち振って校長先生をお迎えしました。",
         "sentence_with_furigana": "平べったい尻尾をひらひらとうち振って校長先生をお迎えしました。"
-    },
-    {
-        "id": "S000064",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000064",
@@ -408,11 +328,6 @@
         "id": "f000066",
         "sentence": "木で出来たブイがついていました。",
         "sentence_with_furigana": "木で出来たブイがついていました。"
-    },
-    {
-        "id": "S000067",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000067",
@@ -435,11 +350,6 @@
         "sentence_with_furigana": "丁度都合よくつりあっています。"
     },
     {
-        "id": "E000070",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000071",
         "sentence": "海のなかでは、",
         "sentence_with_furigana": "海のなかでは、"
@@ -460,11 +370,6 @@
         "sentence_with_furigana": "どこでも自由に食べる事が出来ました。"
     },
     {
-        "id": "E000074",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000075",
         "sentence": "ひらめの生徒の行列は校長先生の後から、",
         "sentence_with_furigana": "ひらめの生徒の行列は校長先生の後から、"
@@ -475,11 +380,6 @@
         "sentence_with_furigana": "愉しそうに泳いでゆきました。"
     },
     {
-        "id": "S000077",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000077",
         "sentence": "昆布の林を抜けたり、",
         "sentence_with_furigana": "昆布の林を抜けたり、"
@@ -488,11 +388,6 @@
         "id": "f000078",
         "sentence": "サンゴの森をくぐって行きました。",
         "sentence_with_furigana": "サンゴの森をくぐって行きました。"
-    },
-    {
-        "id": "S000079",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000079",
@@ -520,11 +415,6 @@
         "sentence_with_furigana": "ピッと笛を吹きます。"
     },
     {
-        "id": "E000083",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000084",
         "sentence": "生徒は校長先生をまんなかにして、",
         "sentence_with_furigana": "生徒は校長先生をまんなかにして、"
@@ -538,11 +428,6 @@
         "id": "f000086",
         "sentence": "ぶりの家族をやりすごしてやります。",
         "sentence_with_furigana": "ぶりの家族をやりすごしてやります。"
-    },
-    {
-        "id": "E000086",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000087",
@@ -580,11 +465,6 @@
         "sentence_with_furigana": "まことに珍らしいものです。"
     },
     {
-        "id": "S000094",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000094",
         "sentence": "校長先生は、",
         "sentence_with_furigana": "校長先生は、"
@@ -593,11 +473,6 @@
         "id": "f000095",
         "sentence": "眼鏡のブイを握ってじいっと見とれていました。",
         "sentence_with_furigana": "眼鏡のブイを握ってじいっと見とれていました。"
-    },
-    {
-        "id": "S000096",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000096",
@@ -628,11 +503,6 @@
         "id": "f000101",
         "sentence": "よくいらっしゃいましたね。",
         "sentence_with_furigana": "よくいらっしゃいましたね。"
-    },
-    {
-        "id": "S000102",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000102",
@@ -680,11 +550,6 @@
         "sentence_with_furigana": "鱶村全部で南の海へ戦争を見に行ったそうです。"
     },
     {
-        "id": "S000111",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000111",
         "sentence": "鯛王も、",
         "sentence_with_furigana": "鯛王も、"
@@ -715,19 +580,9 @@
         "sentence_with_furigana": "飛行機と云うものをごらん下さい。」"
     },
     {
-        "id": "E000116",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000117",
         "sentence": "ひらめの生徒はよろこんで飛行機のまわりを泳ぎはじめました。",
         "sentence_with_furigana": "ひらめの生徒はよろこんで飛行機のまわりを泳ぎはじめました。"
-    },
-    {
-        "id": "E000117",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000118",
@@ -750,11 +605,6 @@
         "sentence_with_furigana": "「これはすべり台かもわからないわ。」"
     },
     {
-        "id": "E000121",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000122",
         "sentence": "みんな珍らしくて仕方がありません。",
         "sentence_with_furigana": "みんな珍らしくて仕方がありません。"
@@ -768,11 +618,6 @@
         "id": "f000124",
         "sentence": "小さい人形がぶらさがっています。",
         "sentence_with_furigana": "小さい人形がぶらさがっています。"
-    },
-    {
-        "id": "S000125",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000125",
@@ -810,29 +655,14 @@
         "sentence_with_furigana": "夕方ぢかくひらめ村へみんなで戻って来ました。"
     },
     {
-        "id": "S000132",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000132",
         "sentence": "学校には夜光虫の灯がついていました。",
         "sentence_with_furigana": "学校には夜光虫の灯がついていました。"
     },
     {
-        "id": "E000132",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000133",
         "sentence": "みんな灯のそばへあつまって歌をうたいました。",
         "sentence_with_furigana": "みんな灯のそばへあつまって歌をうたいました。"
-    },
-    {
-        "id": "S000134",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000134",
@@ -860,19 +690,9 @@
         "sentence_with_furigana": "われらたのしくはたらく海の国"
     },
     {
-        "id": "E000138",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000139",
         "sentence": "女の先生が昆布で出来た楽器を鳴らしています。",
         "sentence_with_furigana": "女の先生が昆布で出来た楽器を鳴らしています。"
-    },
-    {
-        "id": "S000140",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000140",
@@ -925,11 +745,6 @@
         "sentence_with_furigana": "人間の国に遊びに行ってみたいものだね。」"
     },
     {
-        "id": "E000149",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000150",
         "sentence": "ひらめの村の衆がささやいています。",
         "sentence_with_furigana": "ひらめの村の衆がささやいています。"
@@ -960,11 +775,6 @@
         "sentence_with_furigana": "海の世界ほどよいところはありません。"
     },
     {
-        "id": "S000156",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000156",
         "sentence": "この間も、",
         "sentence_with_furigana": "この間も、"
@@ -985,19 +795,9 @@
         "sentence_with_furigana": "人間の戦争を見に行って随分殺ろされたそうです。"
     },
     {
-        "id": "S000160",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000160",
         "sentence": "近々に帰えって来るということです。",
         "sentence_with_furigana": "近々に帰えって来るということです。"
-    },
-    {
-        "id": "S000161",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000161",
@@ -1020,11 +820,6 @@
         "sentence_with_furigana": "今日の祈りをいたしましょう。」"
     },
     {
-        "id": "E000164",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000165",
         "sentence": "村の衆も、",
         "sentence_with_furigana": "村の衆も、"
@@ -1045,11 +840,6 @@
         "sentence_with_furigana": "暗い海の底で祈りの歌をうたいました。"
     },
     {
-        "id": "E000168",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000169",
         "sentence": "夜がふけてくるにつけ、",
         "sentence_with_furigana": "夜がふけてくるにつけ、"
@@ -1065,19 +855,9 @@
         "sentence_with_furigana": "海の底がぼおっと明るくなりました。"
     },
     {
-        "id": "S000172",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000172",
         "sentence": "隣り村のたこさんの部落からもお祈りの声がしています。",
         "sentence_with_furigana": "隣り村のたこさんの部落からもお祈りの声がしています。"
-    },
-    {
-        "id": "S000173",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000173",
@@ -1088,11 +868,6 @@
         "id": "f000174",
         "sentence": "よく神様にお祈りをあげました。",
         "sentence_with_furigana": "よく神様にお祈りをあげました。"
-    },
-    {
-        "id": "S000175",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000175",
@@ -1113,11 +888,6 @@
         "id": "f000178",
         "sentence": "お祈りが好きです。",
         "sentence_with_furigana": "お祈りが好きです。"
-    },
-    {
-        "id": "E000178",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000179",
@@ -1145,11 +915,6 @@
         "sentence_with_furigana": "みんな立派になって戻って来ました。"
     },
     {
-        "id": "E000183",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000184",
         "sentence": "そして、",
         "sentence_with_furigana": "そして、"
@@ -1158,11 +923,6 @@
         "id": "f000185",
         "sentence": "いつでも村の為になることばかりしようと競走します。",
         "sentence_with_furigana": "いつでも村の為になることばかりしようと競走します。"
-    },
-    {
-        "id": "E000185",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000186",
@@ -1180,11 +940,6 @@
         "sentence_with_furigana": "みんな仲よしでした。"
     },
     {
-        "id": "E000188",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000189",
         "sentence": "校長先生はいつも、",
         "sentence_with_furigana": "校長先生はいつも、"
@@ -1195,11 +950,6 @@
         "sentence_with_furigana": "眼鏡をかけたまま学校のなかをゆらゆら泳いでいらっしゃいます。"
     },
     {
-        "id": "E000190",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000191",
         "sentence": "本当に、",
         "sentence_with_furigana": "本当に、"
@@ -1208,10 +958,5 @@
         "id": "f000192",
         "sentence": "その眼鏡はひらめ学校の校長先生にふさわしのものでした。",
         "sentence_with_furigana": "その眼鏡はひらめ学校の校長先生にふさわしのものでした。"
-    },
-    {
-        "id": "E000192",
-        "sentence": "",
-        "sentence_with_furigana": ""
     }
 ]

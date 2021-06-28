@@ -1,0 +1,672 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "土田耕平　作",
+        "sentence_with_furigana": "土田耕平　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "お母さんの思ひ出",
+        "sentence_with_furigana": "お母さんの思ひ出"
+    },
+    {
+        "id": "f000003",
+        "sentence": "私が十一か二の年の冬の夜だつたと覚えてゐる。",
+        "sentence_with_furigana": "私[わたし]が十一か二の年の冬の夜だつたと覚えてゐる。"
+    },
+    {
+        "id": "f000004",
+        "sentence": "お父さんは役所の宿直番で、",
+        "sentence_with_furigana": "お父さんは役所の宿直番で、"
+    },
+    {
+        "id": "f000005",
+        "sentence": "私はお母さんと二人炬燵にさしむかひにあたつてゐた。",
+        "sentence_with_furigana": "私はお母さんと二人 炬燵[こたつ]にさしむかひにあたつてゐた。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "背戸の丸木川の水も、",
+        "sentence_with_furigana": "背戸の 丸木川[まるきがは]の水も、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "氷りつめて、",
+        "sentence_with_furigana": "氷りつめて、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "しん／＼と寒さが身にしみるやうだ。",
+        "sentence_with_furigana": "しん／＼と寒さが身にしみるやうだ。"
+    },
+    {
+        "id": "f000009",
+        "sentence": "お母さんは縫物をしてゐる。",
+        "sentence_with_furigana": "お母さんは縫物をしてゐる。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "私は太閤記かなんぞ読みふけつてゐる。",
+        "sentence_with_furigana": "私は 太閤記[たいかふき]かなんぞ読みふけつてゐる。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "二人とも黙りこくつて、",
+        "sentence_with_furigana": "二人とも黙りこくつて、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "大分夜も更けた頃だつた。",
+        "sentence_with_furigana": "大分夜も更けた 頃[ころ]だつた。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "「孝一や。」",
+        "sentence_with_furigana": "「 孝[かう]一や。」"
+    },
+    {
+        "id": "f000014",
+        "sentence": "とお母さんが呼んだ。",
+        "sentence_with_furigana": "とお母さんが呼んだ。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "私は本が面白くて、",
+        "sentence_with_furigana": "私は本が面白くて、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "釣りこまれてゐたので、",
+        "sentence_with_furigana": "釣[つ]りこまれてゐたので、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "「ええ。」",
+        "sentence_with_furigana": "「ええ。」"
+    },
+    {
+        "id": "f000018",
+        "sentence": "と空返事をしたままでゐると、",
+        "sentence_with_furigana": "と空返事をしたままでゐると、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "「孝一や。」",
+        "sentence_with_furigana": "「孝一や。」"
+    },
+    {
+        "id": "f000020",
+        "sentence": "とまたお母さんの声がする。",
+        "sentence_with_furigana": "とまたお母さんの声がする。"
+    },
+    {
+        "id": "f000021",
+        "sentence": "私は読みさしの本を置いて、",
+        "sentence_with_furigana": "私は読みさしの本を置いて、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "顔をあげた。",
+        "sentence_with_furigana": "顔をあげた。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お母さんは、"
+    },
+    {
+        "id": "f000024",
+        "sentence": "ぽつと頬を赤らめて、",
+        "sentence_with_furigana": "ぽつと 頬[ほほ]を赤らめて、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "（これはお母さんのいつもの癖だつた）",
+        "sentence_with_furigana": "（これはお母さんのいつもの癖だつた）"
+    },
+    {
+        "id": "f000026",
+        "sentence": "「あのね、",
+        "sentence_with_furigana": "「あのね、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "お前熟柿を買つて来ないかえ。」",
+        "sentence_with_furigana": "お前 熟柿[じゆくし]を買つて来ないかえ。」"
+    },
+    {
+        "id": "f000028",
+        "sentence": "といふ。",
+        "sentence_with_furigana": "といふ。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "「ええ？」",
+        "sentence_with_furigana": "「ええ？」"
+    },
+    {
+        "id": "f000030",
+        "sentence": "と私は聞きかへした。",
+        "sentence_with_furigana": "と私は聞きかへした。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "お銭をいただいて買ひ食ひをしたことなど、",
+        "sentence_with_furigana": "お 銭[あし]をいただいて買ひ食ひをしたことなど、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "一度だつてなかつた。",
+        "sentence_with_furigana": "一度だつてなかつた。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "まして、",
+        "sentence_with_furigana": "まして、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "お母さんから、",
+        "sentence_with_furigana": "お母さんから、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "そんなことを云ひ出したことなどあらう筈がない。",
+        "sentence_with_furigana": "そんなことを 云[い]ひ出したことなどあらう 筈[はず]がない。"
+    },
+    {
+        "id": "f000036",
+        "sentence": "私は何だか偽のやうな気がして、",
+        "sentence_with_furigana": "私は何だか 偽[うそ]のやうな気がして、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "ぼんやりお母さんの顔を見てゐると、",
+        "sentence_with_furigana": "ぼんやりお母さんの顔を見てゐると、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "「あのね、",
+        "sentence_with_furigana": "「あのね、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "熟柿を一つ買つてきておくれよ。",
+        "sentence_with_furigana": "熟柿[じゆくし]を一つ買つてきておくれよ。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "おいしいだらうと思ふから。」",
+        "sentence_with_furigana": "おいしいだらうと思ふから。」"
+    },
+    {
+        "id": "f000041",
+        "sentence": "とお母さんは、",
+        "sentence_with_furigana": "とお母さんは、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "顔を赤くしてまた云つた。",
+        "sentence_with_furigana": "顔を赤くしてまた云つた。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "かりかりと氷つた冬の熟柿ほど、",
+        "sentence_with_furigana": "かりかりと氷つた冬の 熟柿[じゆくし]ほど、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "身にしみておいしいものはない。",
+        "sentence_with_furigana": "身にしみておいしいものはない。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "私は田舎の親戚で食べたことが幾度もあるので、",
+        "sentence_with_furigana": "私は田舎の 親戚[しんせき]で食べたことが幾度もあるので、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "お母さんに云はれると、",
+        "sentence_with_furigana": "お母さんに云はれると、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "あのざつくりと、",
+        "sentence_with_furigana": "あのざつくりと、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "歯にさはつてくる味がたまらなくなつてきた。",
+        "sentence_with_furigana": "歯にさはつてくる味がたまらなくなつてきた。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "「ああ買つて来るよ。」",
+        "sentence_with_furigana": "「ああ買つて来るよ。」"
+    },
+    {
+        "id": "f000050",
+        "sentence": "と答へて、",
+        "sentence_with_furigana": "と答へて、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "炬燵からはねおきた。",
+        "sentence_with_furigana": "炬燵[こたつ]からはねおきた。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お母さんは、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "箪笥の抽斗から、",
+        "sentence_with_furigana": "箪笥[たんす]の 抽斗[ひきだし]から、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "五銭玉一つ出して、",
+        "sentence_with_furigana": "五銭玉一つ出して、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "「これで、",
+        "sentence_with_furigana": "「これで、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "大きなのを一つ買つておいで。」",
+        "sentence_with_furigana": "大きなのを一つ買つておいで。」"
+    },
+    {
+        "id": "f000057",
+        "sentence": "と云つた。",
+        "sentence_with_furigana": "と云つた。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "私の家は、",
+        "sentence_with_furigana": "私の家は、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "細い露路の奥にあつて、",
+        "sentence_with_furigana": "細い露路の奥にあつて、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "門燈一つついてゐるきりで、",
+        "sentence_with_furigana": "門燈一つついてゐるきりで、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "うす暗いところだ。",
+        "sentence_with_furigana": "うす暗いところだ。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "そこから二三町ゆくと、",
+        "sentence_with_furigana": "そこから二三町ゆくと、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "大通がひらけて、",
+        "sentence_with_furigana": "大通がひらけて、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "まぶしいほど明るい。",
+        "sentence_with_furigana": "まぶしいほど明るい。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "私は五銭玉をしつかり握つた手を、",
+        "sentence_with_furigana": "私は五銭玉をしつかり握つた手を、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "ふところへ入れて駈けて行つた。",
+        "sentence_with_furigana": "ふところへ入れて 駈[か]けて行つた。"
+    },
+    {
+        "id": "f000067",
+        "sentence": "頬ぺたがちぎれるやうに冷たい。",
+        "sentence_with_furigana": "頬[ほほ]ぺたがちぎれるやうに冷たい。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "大通へ出たすじかひに、",
+        "sentence_with_furigana": "大通へ出たすじかひに、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "果物屋のあることは、",
+        "sentence_with_furigana": "果物屋のあることは、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "よく知つてゐたけれど、",
+        "sentence_with_furigana": "よく知つてゐたけれど、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "ふだん買ひつけたことなんかないので、",
+        "sentence_with_furigana": "ふだん買ひつけたことなんかないので、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "何と云つてよいか、",
+        "sentence_with_furigana": "何と云つてよいか、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "すぐ言葉が出ないで、",
+        "sentence_with_furigana": "すぐ言葉が出ないで、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "私は黙つて店さきに突立つてゐた。",
+        "sentence_with_furigana": "私は黙つて店さきに突立つてゐた。"
+    },
+    {
+        "id": "f000075",
+        "sentence": "すると店の爺さんから、",
+        "sentence_with_furigana": "すると店の 爺[ぢい]さんから、"
+    },
+    {
+        "id": "f000076",
+        "sentence": "「坊ちやん、",
+        "sentence_with_furigana": "「坊ちやん、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "何ですい。」",
+        "sentence_with_furigana": "何ですい。」"
+    },
+    {
+        "id": "f000078",
+        "sentence": "と云はれ、",
+        "sentence_with_furigana": "と云はれ、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "私は少しまごついてしまつて、",
+        "sentence_with_furigana": "私は少しまごついてしまつて、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "「か、",
+        "sentence_with_furigana": "「か、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "かき。」",
+        "sentence_with_furigana": "かき。」"
+    },
+    {
+        "id": "f000082",
+        "sentence": "と云つた。",
+        "sentence_with_furigana": "と云つた。"
+    },
+    {
+        "id": "f000083",
+        "sentence": "店さきには、",
+        "sentence_with_furigana": "店さきには、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "蜜柑やバナナが山のやうに積んであつて、",
+        "sentence_with_furigana": "蜜柑[みかん]やバナナが山のやうに積んであつて、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "柿なんか見えなかつた。",
+        "sentence_with_furigana": "柿[かき]なんか見えなかつた。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "これが二銭、",
+        "sentence_with_furigana": "これが二銭、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "この大きい方が五銭。」",
+        "sentence_with_furigana": "この大きい方が五銭。」"
+    },
+    {
+        "id": "f000089",
+        "sentence": "と爺さんの指さす方を見ると、",
+        "sentence_with_furigana": "と 爺[ぢい]さんの指さす方を見ると、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "店の隅の方に、",
+        "sentence_with_furigana": "店の 隅[すみ]の方に、"
+    },
+    {
+        "id": "f000091",
+        "sentence": "たんとはなかつたけれど、",
+        "sentence_with_furigana": "たんとはなかつたけれど、"
+    },
+    {
+        "id": "f000092",
+        "sentence": "うす皮の真赤に熟した柿が山盛にしてあつた。",
+        "sentence_with_furigana": "うす皮の真赤に熟した柿が山盛にしてあつた。"
+    },
+    {
+        "id": "f000093",
+        "sentence": "私は大きい五銭のを一つえりとつて、",
+        "sentence_with_furigana": "私は大きい五銭のを一つえりとつて、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "氷のやうに冷たいやつを、",
+        "sentence_with_furigana": "氷のやうに冷たいやつを、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "両手でつぶれないやうに握りしめて、",
+        "sentence_with_furigana": "両手でつぶれないやうに握りしめて、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "駈けてかへつた。",
+        "sentence_with_furigana": "駈[か]けてかへつた。"
+    },
+    {
+        "id": "f000097",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お母さんは、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "炬燵の上に庖丁とおこがしを、",
+        "sentence_with_furigana": "炬燵[こたつ]の上に 庖丁[はうちやう]とおこがしを、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "用意してゐた。",
+        "sentence_with_furigana": "用意してゐた。"
+    },
+    {
+        "id": "f000100",
+        "sentence": "おこがしは柿へつけて食べるのだ。",
+        "sentence_with_furigana": "おこがしは柿へつけて食べるのだ。"
+    },
+    {
+        "id": "f000101",
+        "sentence": "お母さんは、",
+        "sentence_with_furigana": "お母さんは、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "柿を二つに切つて、",
+        "sentence_with_furigana": "柿を二つに切つて、"
+    },
+    {
+        "id": "f000103",
+        "sentence": "大きい分を私の前において、",
+        "sentence_with_furigana": "大きい分を私の前において、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "お食べよ。」",
+        "sentence_with_furigana": "お食べよ。」"
+    },
+    {
+        "id": "f000106",
+        "sentence": "と云つて、",
+        "sentence_with_furigana": "と云つて、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "小さい方を自分で小口に食べながら、",
+        "sentence_with_furigana": "小さい方を自分で小口に食べながら、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "おいしいわね。」",
+        "sentence_with_furigana": "おいしいわね。」"
+    },
+    {
+        "id": "f000110",
+        "sentence": "と云つた笑顔が、",
+        "sentence_with_furigana": "と云つた笑顔が、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "電燈のかんかんしてゐる光にうつつて、",
+        "sentence_with_furigana": "電燈のかんかんしてゐる光にうつつて、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "うつくしく見えた。",
+        "sentence_with_furigana": "うつくしく見えた。"
+    },
+    {
+        "id": "f000113",
+        "sentence": "私もほんとにおいしかつたけれど、",
+        "sentence_with_furigana": "私もほんとにおいしかつたけれど、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "何とも云はなかつた。",
+        "sentence_with_furigana": "何とも云はなかつた。"
+    },
+    {
+        "id": "f000115",
+        "sentence": "熟柿を食べてしまふと、",
+        "sentence_with_furigana": "熟柿[じゆくし]を食べてしまふと、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "すぐに読みさしの太閤記をひらき、",
+        "sentence_with_furigana": "すぐに読みさしの 太閤記[たいかふき]をひらき、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "お母さんは縫物をはじめた。",
+        "sentence_with_furigana": "お母さんは縫物をはじめた。"
+    },
+    {
+        "id": "f000118",
+        "sentence": "それから後のことは、",
+        "sentence_with_furigana": "それから後のことは、"
+    },
+    {
+        "id": "f000119",
+        "sentence": "おぼえてゐない。",
+        "sentence_with_furigana": "おぼえてゐない。"
+    },
+    {
+        "id": "f000120",
+        "sentence": "もう二十年余りも昔のことだから。",
+        "sentence_with_furigana": "もう二十年余りも昔のことだから。"
+    },
+    {
+        "id": "f000121",
+        "sentence": "お母さんは今は生きてはゐない。",
+        "sentence_with_furigana": "お母さんは今は生きてはゐない。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "一生不幸に過ぎた人だといふことを今になつて、",
+        "sentence_with_furigana": "一生不幸に過ぎた人だといふことを今になつて、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "私はよく知つてゐる。",
+        "sentence_with_furigana": "私はよく知つてゐる。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "だからあの時、",
+        "sentence_with_furigana": "だからあの時、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "幼い私と、",
+        "sentence_with_furigana": "幼い私と、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "一つの熟柿を半分わけにして、",
+        "sentence_with_furigana": "一つの 熟柿[じゆくし]を半分わけにして、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "いかにも、",
+        "sentence_with_furigana": "いかにも、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "おいしさうにして食べたお母さんの顔を思ひ出すと、",
+        "sentence_with_furigana": "おいしさうにして食べたお母さんの顔を思ひ出すと、"
+    },
+    {
+        "id": "f000130",
+        "sentence": "何だか悲しくなつてならない。",
+        "sentence_with_furigana": "何だか悲しくなつてならない。"
+    },
+    {
+        "id": "f000131",
+        "sentence": "半分わけにした大きい方を、",
+        "sentence_with_furigana": "半分わけにした大きい方を、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "お母さんにあげればよかつたに、",
+        "sentence_with_furigana": "お母さんにあげればよかつたに、"
+    },
+    {
+        "id": "f000133",
+        "sentence": "などと考へるのだが、",
+        "sentence_with_furigana": "などと考へるのだが、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "も早遠い昔のかへらぬ夢になつてしまつた。",
+        "sentence_with_furigana": "も早遠い昔のかへらぬ夢になつてしまつた。"
+    }
+]

@@ -1,0 +1,837 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "おかめどんぐり",
+        "sentence_with_furigana": "おかめどんぐり"
+    },
+    {
+        "id": "f000003",
+        "sentence": "ねえやの田舎は、",
+        "sentence_with_furigana": "ねえやの 田舎[いなか]は、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "山奥のさびしい村です。",
+        "sentence_with_furigana": "山奥[やまおく]のさびしい 村[むら]です。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "町がなかなか遠いので、",
+        "sentence_with_furigana": "町[まち]がなかなか 遠[とお]いので、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "子供たちは本屋へいって雑誌を見るということも、",
+        "sentence_with_furigana": "子供[こども]たちは 本屋[ほんや]へいって 雑誌[ざっし]を 見[み]るということも、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "めったにありません。",
+        "sentence_with_furigana": "めったにありません。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "自分の見た雑誌をねえやの弟さんに、",
+        "sentence_with_furigana": "自分[じぶん]の 見[み]た 雑誌[ざっし]をねえやの 弟[おとうと]さんに、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "送ってやりました。",
+        "sentence_with_furigana": "送[おく]ってやりました。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "ありがとうございます。",
+        "sentence_with_furigana": "ありがとうございます。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "弟は、",
+        "sentence_with_furigana": "弟[おとうと]は、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "どんなに喜ぶかしれません。",
+        "sentence_with_furigana": "どんなに 喜[よろこ]ぶかしれません。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000016",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "目をうるませて、",
+        "sentence_with_furigana": "目[め]をうるませて、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "いいました。",
+        "sentence_with_furigana": "いいました。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "弟の孝二くんから、",
+        "sentence_with_furigana": "弟[おとうと]の 孝二[こうじ]くんから、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "たいそうよろこんで、",
+        "sentence_with_furigana": "たいそうよろこんで、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "手紙がまいりました。",
+        "sentence_with_furigana": "手紙[てがみ]がまいりました。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "山で拾った、",
+        "sentence_with_furigana": "山[やま]で 拾[ひろ]った、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "くりや、",
+        "sentence_with_furigana": "くりや、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "どんぐりを送ると書いてありました。",
+        "sentence_with_furigana": "どんぐりを 送[おく]ると 書[か]いてありました。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "「町が遠いのに、",
+        "sentence_with_furigana": "「 町[まち]が 遠[とお]いのに、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "弟さんは、",
+        "sentence_with_furigana": "弟[おとうと]さんは、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "小包を出しにいったんだね。",
+        "sentence_with_furigana": "小包[こづつみ]を 出[だ]しにいったんだね。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "三郎さんはききました。",
+        "sentence_with_furigana": "三郎[さぶろう]さんはききました。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "「いえ、",
+        "sentence_with_furigana": "「いえ、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "町へは、",
+        "sentence_with_furigana": "町[まち]へは、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "村から、",
+        "sentence_with_furigana": "村[むら]から、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "だれかついでがありますから。",
+        "sentence_with_furigana": "だれかついでがありますから。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、"
+    },
+    {
+        "id": "f000040",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。"
+    },
+    {
+        "id": "f000041",
+        "sentence": "手紙のあとから、",
+        "sentence_with_furigana": "手紙[てがみ]のあとから、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "小包がとどきました。",
+        "sentence_with_furigana": "小包[こづつみ]がとどきました。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "あけると、",
+        "sentence_with_furigana": "あけると、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "紫色のくりや、",
+        "sentence_with_furigana": "紫色[むらさきいろ]のくりや、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "まるいどんぐりや、",
+        "sentence_with_furigana": "まるいどんぐりや、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "ぎんなんなどが、",
+        "sentence_with_furigana": "ぎんなんなどが、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "はいっていました。",
+        "sentence_with_furigana": "はいっていました。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "そして山から、",
+        "sentence_with_furigana": "そして 山[やま]から、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "いっしょについてきた、",
+        "sentence_with_furigana": "いっしょについてきた、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "木の葉もまじっていました。",
+        "sentence_with_furigana": "木[こ]の 葉[は]もまじっていました。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "これを見ると、",
+        "sentence_with_furigana": "これを 見[み]ると、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "子供の時分のことを思い出して、",
+        "sentence_with_furigana": "子供[こども]の 時分[じぶん]のことを 思[おも]い 出[だ]して、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "なつかしそうにながめていました。",
+        "sentence_with_furigana": "なつかしそうにながめていました。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "「こんなのが、",
+        "sentence_with_furigana": "「こんなのが、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "山にたくさんなっているの？」",
+        "sentence_with_furigana": "山[やま]にたくさんなっているの？」"
+    },
+    {
+        "id": "f000058",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "たくさん、",
+        "sentence_with_furigana": "たくさん、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "なっています。」",
+        "sentence_with_furigana": "なっています。」"
+    },
+    {
+        "id": "f000061",
+        "sentence": "「いってみたいなあ。",
+        "sentence_with_furigana": "「いってみたいなあ。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "田舎の秋の景色を思いました。",
+        "sentence_with_furigana": "田舎[いなか]の 秋[あき]の 景色[けしき]を 思[おも]いました。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "さっそく、",
+        "sentence_with_furigana": "さっそく、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "孝二くんに、",
+        "sentence_with_furigana": "孝二[こうじ]くんに、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "礼をいってやりました。",
+        "sentence_with_furigana": "礼[れい]をいってやりました。"
+    },
+    {
+        "id": "f000069",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "そのうちに、",
+        "sentence_with_furigana": "そのうちに、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "また雑誌を送るからと書きました。",
+        "sentence_with_furigana": "また 雑誌[ざっし]を 送[おく]るからと 書[か]きました。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "しばらくたつと、",
+        "sentence_with_furigana": "しばらくたつと、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "孝二くんから手紙がきたのであります。",
+        "sentence_with_furigana": "孝二[こうじ]くんから 手紙[てがみ]がきたのであります。"
+    },
+    {
+        "id": "f000074",
+        "sentence": "「なんといって、",
+        "sentence_with_furigana": "「なんといって、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "きたんだろうな。」",
+        "sentence_with_furigana": "きたんだろうな。」"
+    },
+    {
+        "id": "f000076",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "あけてよんでみると、",
+        "sentence_with_furigana": "あけてよんでみると、"
+    },
+    {
+        "id": "f000078",
+        "sentence": "「送っていただいた、",
+        "sentence_with_furigana": "「 送[おく]っていただいた、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "美しい雑誌を友だちに見せると、",
+        "sentence_with_furigana": "美[うつく]しい 雑誌[ざっし]を 友[とも]だちに 見[み]せると、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "みんなが、",
+        "sentence_with_furigana": "みんなが、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "奪い合って、",
+        "sentence_with_furigana": "奪[うば]い 合[あ]って、"
+    },
+    {
+        "id": "f000082",
+        "sentence": "たちまち、",
+        "sentence_with_furigana": "たちまち、"
+    },
+    {
+        "id": "f000083",
+        "sentence": "汚くしてしまいました。",
+        "sentence_with_furigana": "汚[きたな]くしてしまいました。"
+    },
+    {
+        "id": "f000084",
+        "sentence": "残念でなりません。",
+        "sentence_with_furigana": "残念[ざんねん]でなりません。"
+    },
+    {
+        "id": "f000085",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000086",
+        "sentence": "送っていただいて、",
+        "sentence_with_furigana": "送[おく]っていただいて、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "破るといけないから、",
+        "sentence_with_furigana": "破[やぶ]るといけないから、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "どうか、",
+        "sentence_with_furigana": "どうか、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "もう送らないでください。",
+        "sentence_with_furigana": "もう 送[おく]らないでください。"
+    },
+    {
+        "id": "f000090",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000091",
+        "sentence": "書いてありました。",
+        "sentence_with_furigana": "書[か]いてありました。"
+    },
+    {
+        "id": "f000092",
+        "sentence": "「そんなに、",
+        "sentence_with_furigana": "「そんなに、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "あんな雑誌がめずらしいのかなあ。」",
+        "sentence_with_furigana": "あんな 雑誌[ざっし]がめずらしいのかなあ。」"
+    },
+    {
+        "id": "f000094",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000095",
+        "sentence": "活動もなければ、",
+        "sentence_with_furigana": "活動[かつどう]もなければ、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "りっぱな店もない、",
+        "sentence_with_furigana": "りっぱな 店[みせ]もない、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "電車もなければ、",
+        "sentence_with_furigana": "電車[でんしゃ]もなければ、"
+    },
+    {
+        "id": "f000098",
+        "sentence": "自動車も通らない、",
+        "sentence_with_furigana": "自動車[じどうしゃ]も 通[とお]らない、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "にぎやかなものは、",
+        "sentence_with_furigana": "にぎやかなものは、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "なに一つもない、",
+        "sentence_with_furigana": "なに一つもない、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "田舎の景色を目にえがいて、",
+        "sentence_with_furigana": "田舎[いなか]の 景色[けしき]を 目[め]にえがいて、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "そこに遊ぶ子供の姿を想像した。",
+        "sentence_with_furigana": "そこに 遊[あそ]ぶ 子供[こども]の 姿[すがた]を 想像[そうぞう]した。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "そのかわり、",
+        "sentence_with_furigana": "そのかわり、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "林が茂っていれば、",
+        "sentence_with_furigana": "林[はやし]が 茂[しげ]っていれば、"
+    },
+    {
+        "id": "f000105",
+        "sentence": "美しい小川も流れています。",
+        "sentence_with_furigana": "美[うつく]しい 小川[おがわ]も 流[なが]れています。"
+    },
+    {
+        "id": "f000106",
+        "sentence": "「僕たちだって、",
+        "sentence_with_furigana": "「 僕[ぼく]たちだって、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "そのかわり、",
+        "sentence_with_furigana": "そのかわり、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "くりや、",
+        "sentence_with_furigana": "くりや、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "どんぐりを、",
+        "sentence_with_furigana": "どんぐりを、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "拾うことができないのだから、",
+        "sentence_with_furigana": "拾[ひろ]うことができないのだから、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "おんなじこった。",
+        "sentence_with_furigana": "おんなじこった。"
+    },
+    {
+        "id": "f000112",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "三郎さんは思いました。",
+        "sentence_with_furigana": "三郎[さぶろう]さんは 思[おも]いました。"
+    },
+    {
+        "id": "f000114",
+        "sentence": "三郎さんが、",
+        "sentence_with_furigana": "三郎[さぶろう]さんが、"
+    },
+    {
+        "id": "f000115",
+        "sentence": "孝二くんの送ってくれた、",
+        "sentence_with_furigana": "孝二[こうじ]くんの 送[おく]ってくれた、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "どんぐりを、",
+        "sentence_with_furigana": "どんぐりを、"
+    },
+    {
+        "id": "f000117",
+        "sentence": "学校へ持ってゆくと、",
+        "sentence_with_furigana": "学校[がっこう]へ 持[も]ってゆくと、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "さあたいへんでした。",
+        "sentence_with_furigana": "さあたいへんでした。"
+    },
+    {
+        "id": "f000119",
+        "sentence": "みんなは、",
+        "sentence_with_furigana": "みんなは、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "珍しがって、",
+        "sentence_with_furigana": "珍[めずら]しがって、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "「見せておくれ。",
+        "sentence_with_furigana": "「 見[み]せておくれ。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000123",
+        "sentence": "そばへ寄ってきました。",
+        "sentence_with_furigana": "そばへ 寄[よ]ってきました。"
+    },
+    {
+        "id": "f000124",
+        "sentence": "「君、",
+        "sentence_with_furigana": "「 君[きみ]、"
+    },
+    {
+        "id": "f000125",
+        "sentence": "このおかめどんぐりを、",
+        "sentence_with_furigana": "このおかめどんぐりを、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "どこから拾ってきたんだい。」",
+        "sentence_with_furigana": "どこから 拾[ひろ]ってきたんだい。」"
+    },
+    {
+        "id": "f000127",
+        "sentence": "「一個、",
+        "sentence_with_furigana": "「一 個[こ]、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "おくれよ。」",
+        "sentence_with_furigana": "おくれよ。」"
+    },
+    {
+        "id": "f000129",
+        "sentence": "「僕にもね。」",
+        "sentence_with_furigana": "「 僕[ぼく]にもね。」"
+    },
+    {
+        "id": "f000130",
+        "sentence": "みんなは、",
+        "sentence_with_furigana": "みんなは、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "三郎さんのまわりにたかって、",
+        "sentence_with_furigana": "三郎[さぶろう]さんのまわりにたかって、"
+    },
+    {
+        "id": "f000132",
+        "sentence": "はなれないのでした。",
+        "sentence_with_furigana": "はなれないのでした。"
+    },
+    {
+        "id": "f000133",
+        "sentence": "そのうち、",
+        "sentence_with_furigana": "そのうち、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "奪い合いから、",
+        "sentence_with_furigana": "奪[うば]い 合[あ]いから、"
+    },
+    {
+        "id": "f000135",
+        "sentence": "けんかをはじめたのであります。",
+        "sentence_with_furigana": "けんかをはじめたのであります。"
+    },
+    {
+        "id": "f000136",
+        "sentence": "その晩、",
+        "sentence_with_furigana": "その 晩[ばん]、"
+    },
+    {
+        "id": "f000137",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000138",
+        "sentence": "考えました。",
+        "sentence_with_furigana": "考[かんが]えました。"
+    },
+    {
+        "id": "f000139",
+        "sentence": "「田舎の子は、",
+        "sentence_with_furigana": "「 田舎[いなか]の 子[こ]は、"
+    },
+    {
+        "id": "f000140",
+        "sentence": "雑誌を見たいのだ。",
+        "sentence_with_furigana": "雑誌[ざっし]を 見[み]たいのだ。"
+    },
+    {
+        "id": "f000141",
+        "sentence": "僕たち街の子は、",
+        "sentence_with_furigana": "僕[ぼく]たち 街[まち]の 子[こ]は、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "おかめどんぐりがほしいのだ。",
+        "sentence_with_furigana": "おかめどんぐりがほしいのだ。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "かえっこすればいいじゃないか。」",
+        "sentence_with_furigana": "かえっこすればいいじゃないか。」"
+    },
+    {
+        "id": "f000144",
+        "sentence": "あくる日、",
+        "sentence_with_furigana": "あくる 日[ひ]、"
+    },
+    {
+        "id": "f000145",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "学校へいって、",
+        "sentence_with_furigana": "学校[がっこう]へいって、"
+    },
+    {
+        "id": "f000147",
+        "sentence": "「君たちのよんだ雑誌を田舎の子供へ、",
+        "sentence_with_furigana": "「 君[きみ]たちのよんだ 雑誌[ざっし]を 田舎[いなか]の 子供[こども]へ、"
+    },
+    {
+        "id": "f000148",
+        "sentence": "送ってやって、",
+        "sentence_with_furigana": "送[おく]ってやって、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "田舎の子供たちから、",
+        "sentence_with_furigana": "田舎[いなか]の 子供[こども]たちから、"
+    },
+    {
+        "id": "f000150",
+        "sentence": "おかめどんぐりを送ってもらおうよ。",
+        "sentence_with_furigana": "おかめどんぐりを 送[おく]ってもらおうよ。"
+    },
+    {
+        "id": "f000151",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000152",
+        "sentence": "相談しました。",
+        "sentence_with_furigana": "相談[そうだん]しました。"
+    },
+    {
+        "id": "f000153",
+        "sentence": "「賛成、",
+        "sentence_with_furigana": "「 賛成[さんせい]、"
+    },
+    {
+        "id": "f000154",
+        "sentence": "賛成！」",
+        "sentence_with_furigana": "賛成[さんせい]！」"
+    },
+    {
+        "id": "f000155",
+        "sentence": "そのことを、",
+        "sentence_with_furigana": "そのことを、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "三郎さんから、",
+        "sentence_with_furigana": "三郎[さぶろう]さんから、"
+    },
+    {
+        "id": "f000157",
+        "sentence": "孝二くんにいってやると、",
+        "sentence_with_furigana": "孝二[こうじ]くんにいってやると、"
+    },
+    {
+        "id": "f000158",
+        "sentence": "すぐに返事がきて、",
+        "sentence_with_furigana": "すぐに 返事[へんじ]がきて、"
+    },
+    {
+        "id": "f000159",
+        "sentence": "田舎の子供たちも大喜びだというのでした。",
+        "sentence_with_furigana": "田舎[いなか]の 子供[こども]たちも 大喜[おおよろこ]びだというのでした。"
+    },
+    {
+        "id": "f000160",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000161",
+        "sentence": "雑誌やおかめどんぐりよりも、",
+        "sentence_with_furigana": "雑誌[ざっし]やおかめどんぐりよりも、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "まだ知らない、",
+        "sentence_with_furigana": "まだ 知[し]らない、"
+    },
+    {
+        "id": "f000163",
+        "sentence": "遠い田舎と、",
+        "sentence_with_furigana": "遠[とお]い 田舎[いなか]と、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "街とで、",
+        "sentence_with_furigana": "街[まち]とで、"
+    },
+    {
+        "id": "f000165",
+        "sentence": "おたがいに、",
+        "sentence_with_furigana": "おたがいに、"
+    },
+    {
+        "id": "f000166",
+        "sentence": "交際するのが、",
+        "sentence_with_furigana": "交際[こうさい]するのが、"
+    },
+    {
+        "id": "f000167",
+        "sentence": "とてもうれしかったのであります。",
+        "sentence_with_furigana": "とてもうれしかったのであります。"
+    }
+]

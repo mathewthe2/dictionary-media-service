@@ -1,0 +1,5926 @@
+[
+    {
+        "id": "Ojiisanga Sutetara-f000002",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんが捨てたら",
+        "sentence_with_furigana": "おじいさんが捨てたら",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "が",
+            "捨てる",
+            "た"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "が",
+            "捨て",
+            "たら"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000003",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある 日[ひ]、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000004",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんはいつものように、",
+        "sentence_with_furigana": "おじいさんはいつものように、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "様",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "よう",
+            "に",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000005",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "小さな手車を引きながら、",
+        "sentence_with_furigana": "小[ちい]さな 手車[てぐるま]を 引[ひ]きながら、",
+        "word_base_list": [
+            "小さな",
+            "手車",
+            "を",
+            "引く",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "小さな",
+            "手車",
+            "を",
+            "引き",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000006",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "その上に、",
+        "sentence_with_furigana": "その 上[うえ]に、",
+        "word_base_list": [
+            "其の",
+            "上",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "上",
+            "に",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000007",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "くずかごをのせて、",
+        "sentence_with_furigana": "くずかごをのせて、",
+        "word_base_list": [
+            "屑籠",
+            "を",
+            "乗せる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "くずかご",
+            "を",
+            "のせ",
+            "て",
+            "、"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000008",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "裏道を歩いていました。",
+        "sentence_with_furigana": "裏道[うらみち]を 歩[ある]いていました。",
+        "word_base_list": [
+            "裏道",
+            "を",
+            "歩く",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "裏道",
+            "を",
+            "歩い",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000009",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000010",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "一軒の家から、",
+        "sentence_with_furigana": "一 軒[けん]の 家[いえ]から、",
+        "word_base_list": [
+            "1",
+            "軒",
+            "の",
+            "家",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "軒",
+            "の",
+            "家",
+            "から",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000011",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "呼んだのであります。",
+        "sentence_with_furigana": "呼[よ]んだのであります。",
+        "word_base_list": [
+            "呼ぶ",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "呼ん",
+            "だ",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000012",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "いってみると、",
+        "sentence_with_furigana": "いってみると、",
+        "word_base_list": [
+            "行く",
+            "て",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "いっ",
+            "て",
+            "みる",
+            "と",
+            "、"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000013",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "家の中のうす暗い、",
+        "sentence_with_furigana": "家[いえ]の 中[なか]のうす 暗[ぐら]い、",
+        "word_base_list": [
+            "家",
+            "の",
+            "中",
+            "の",
+            "薄暗い",
+            "、"
+        ],
+        "word_list": [
+            "家",
+            "の",
+            "中",
+            "の",
+            "うす暗い",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000014",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "喫茶店でありました。",
+        "sentence_with_furigana": "喫茶店[きっさてん]でありました。",
+        "word_base_list": [
+            "喫茶",
+            "店",
+            "だ",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "喫茶",
+            "店",
+            "で",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000015",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こわれた道具や、",
+        "sentence_with_furigana": "こわれた 道具[どうぐ]や、",
+        "word_base_list": [
+            "壊れる",
+            "た",
+            "道具",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "こわれ",
+            "た",
+            "道具",
+            "や",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000016",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "不用のがらくたを買ってくれというのでした。",
+        "sentence_with_furigana": "不用[ふよう]のがらくたを 買[か]ってくれというのでした。",
+        "word_base_list": [
+            "不用",
+            "の",
+            "我楽多",
+            "を",
+            "買う",
+            "て",
+            "呉れる",
+            "と",
+            "言う",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "不用",
+            "の",
+            "がらくた",
+            "を",
+            "買っ",
+            "て",
+            "くれ",
+            "と",
+            "いう",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000017",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、",
+        "word_base_list": [
+            "「",
+            "はい",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "はい",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000018",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "はい。",
+        "sentence_with_furigana": "はい。",
+        "word_base_list": [
+            "はい",
+            "。"
+        ],
+        "word_list": [
+            "はい",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000019",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000020",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000021",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "一つ一つ、",
+        "sentence_with_furigana": "一つ一つ、",
+        "word_base_list": [
+            "1",
+            "つ",
+            "1",
+            "つ",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "つ",
+            "一",
+            "つ",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000022",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "その品物に目を通しました。",
+        "sentence_with_furigana": "その 品物[しなもの]に 目[め]を 通[とお]しました。",
+        "word_base_list": [
+            "其の",
+            "品物",
+            "に",
+            "目",
+            "を",
+            "通す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "品物",
+            "に",
+            "目",
+            "を",
+            "通し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000023",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「この植木鉢も、",
+        "sentence_with_furigana": "「この 植木鉢[うえきばち]も、",
+        "word_base_list": [
+            "「",
+            "此の",
+            "植木",
+            "鉢",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "植木",
+            "鉢",
+            "も",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000024",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "持っていってくださいませんか。",
+        "sentence_with_furigana": "持[も]っていってくださいませんか。",
+        "word_base_list": [
+            "持つ",
+            "て",
+            "行く",
+            "て",
+            "下さる",
+            "ます",
+            "ず",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "持っ",
+            "て",
+            "いっ",
+            "て",
+            "ください",
+            "ませ",
+            "ん",
+            "か",
+            "。"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000025",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000026",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おかみさんらしい人がいいました。",
+        "sentence_with_furigana": "おかみさんらしい 人[ひと]がいいました。",
+        "word_base_list": [
+            "女将",
+            "さん",
+            "らしい",
+            "人",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "おかみ",
+            "さん",
+            "らしい",
+            "人",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000027",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000028",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "粗末だけれど、",
+        "sentence_with_furigana": "粗末[そまつ]だけれど、",
+        "word_base_list": [
+            "粗末",
+            "だ",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "粗末",
+            "だ",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000029",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "大きな鉢に植えてある南天であります。",
+        "sentence_with_furigana": "大[おお]きな 鉢[はち]に 植[う]えてある 南天[なんてん]であります。",
+        "word_base_list": [
+            "大きな",
+            "鉢",
+            "に",
+            "植える",
+            "て",
+            "有る",
+            "南天",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "大きな",
+            "鉢",
+            "に",
+            "植え",
+            "て",
+            "ある",
+            "南天",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000030",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "word_base_list": [
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000031",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "幾日も水をやらなかったとみえて、",
+        "sentence_with_furigana": "幾日[いくにち]も 水[みず]をやらなかったとみえて、",
+        "word_base_list": [
+            "幾",
+            "日",
+            "も",
+            "水",
+            "を",
+            "遣る",
+            "ない",
+            "た",
+            "と",
+            "見える",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "幾",
+            "日",
+            "も",
+            "水",
+            "を",
+            "やら",
+            "なかっ",
+            "た",
+            "と",
+            "みえ",
+            "て",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000032",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "根もとの土は白く乾いていました。",
+        "sentence_with_furigana": "根[ね]もとの 土[つち]は 白[しろ]く 乾[かわ]いていました。",
+        "word_base_list": [
+            "根元",
+            "の",
+            "土",
+            "は",
+            "白い",
+            "乾く",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "根もと",
+            "の",
+            "土",
+            "は",
+            "白く",
+            "乾い",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000033",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "紅みがかった、",
+        "sentence_with_furigana": "紅[あか]みがかった、",
+        "word_base_list": [
+            "紅",
+            "見る",
+            "がかる",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "紅",
+            "み",
+            "がかっ",
+            "た",
+            "、"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000034",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "光沢のある葉がついていたのであろうけれど、",
+        "sentence_with_furigana": "光沢[こうたく]のある 葉[は]がついていたのであろうけれど、",
+        "word_base_list": [
+            "光沢",
+            "の",
+            "有る",
+            "葉",
+            "が",
+            "付く",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "光沢",
+            "の",
+            "ある",
+            "葉",
+            "が",
+            "つい",
+            "て",
+            "い",
+            "た",
+            "の",
+            "で",
+            "あろう",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000035",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ほとんど落ちてしまい、",
+        "sentence_with_furigana": "ほとんど 落[お]ちてしまい、",
+        "word_base_list": [
+            "殆ど",
+            "落ちる",
+            "て",
+            "仕舞う",
+            "、"
+        ],
+        "word_list": [
+            "ほとんど",
+            "落ち",
+            "て",
+            "しまい",
+            "、"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000036",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000037",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "美しい、",
+        "sentence_with_furigana": "美[うつく]しい、",
+        "word_base_list": [
+            "美しい",
+            "、"
+        ],
+        "word_list": [
+            "美しい",
+            "、"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000038",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ぬれたさんご珠のような実のかたまった房が、",
+        "sentence_with_furigana": "ぬれたさんご 珠[じゅ]のような 実[み]のかたまった 房[ふさ]が、",
+        "word_base_list": [
+            "ぬれる",
+            "た",
+            "珊瑚",
+            "珠",
+            "の",
+            "様",
+            "だ",
+            "実",
+            "の",
+            "固まる",
+            "た",
+            "房",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ぬれ",
+            "た",
+            "さんご",
+            "珠",
+            "の",
+            "よう",
+            "な",
+            "実",
+            "の",
+            "かたまっ",
+            "た",
+            "房",
+            "が",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000039",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ついていたのだろうけれど、",
+        "sentence_with_furigana": "ついていたのだろうけれど、",
+        "word_base_list": [
+            "付く",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "つい",
+            "て",
+            "い",
+            "た",
+            "の",
+            "だろう",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000040",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それも落ちてしまって、",
+        "sentence_with_furigana": "それも 落[お]ちてしまって、",
+        "word_base_list": [
+            "其れ",
+            "も",
+            "落ちる",
+            "て",
+            "仕舞う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "も",
+            "落ち",
+            "て",
+            "しまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000041",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "まったく見る影はありませんでした。",
+        "sentence_with_furigana": "まったく 見[み]る 影[かげ]はありませんでした。",
+        "word_base_list": [
+            "全く",
+            "見る",
+            "影",
+            "は",
+            "有る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "まったく",
+            "見る",
+            "影",
+            "は",
+            "あり",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000042",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000043",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "かわいそうに。",
+        "sentence_with_furigana": "かわいそうに。",
+        "word_base_list": [
+            "可哀想",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "かわいそう",
+            "に",
+            "。"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000044",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000045",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000046",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "思わずつぶやきました。",
+        "sentence_with_furigana": "思[おも]わずつぶやきました。",
+        "word_base_list": [
+            "思う",
+            "ず",
+            "呟く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "思わ",
+            "ず",
+            "つぶやき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000047",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "これを聞くと、",
+        "sentence_with_furigana": "これを 聞[き]くと、",
+        "word_base_list": [
+            "此れ",
+            "を",
+            "聞く",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "を",
+            "聞く",
+            "と",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000048",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "若いおかみさんは、",
+        "sentence_with_furigana": "若[わか]いおかみさんは、",
+        "word_base_list": [
+            "若い",
+            "女将",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "若い",
+            "おかみ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000049",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "爺",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "じい",
+            "さん",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000050",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "どうせその木は、",
+        "sentence_with_furigana": "どうせその 木[き]は、",
+        "word_base_list": [
+            "どうせ",
+            "其の",
+            "木",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "どうせ",
+            "その",
+            "木",
+            "は",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000051",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "だめなんですから、",
+        "sentence_with_furigana": "だめなんですから、",
+        "word_base_list": [
+            "駄目",
+            "だ",
+            "の",
+            "です",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "だめ",
+            "な",
+            "ん",
+            "です",
+            "から",
+            "、"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000052",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "どこかへ捨てて、",
+        "sentence_with_furigana": "どこかへ 捨[す]てて、",
+        "word_base_list": [
+            "どこ",
+            "か",
+            "へ",
+            "捨てる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "どこ",
+            "か",
+            "へ",
+            "捨て",
+            "て",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000053",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "鉢だけ持っていってくださいな。",
+        "sentence_with_furigana": "鉢[はち]だけ 持[も]っていってくださいな。",
+        "word_base_list": [
+            "鉢",
+            "だけ",
+            "持つ",
+            "て",
+            "行く",
+            "て",
+            "下さる",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "鉢",
+            "だけ",
+            "持っ",
+            "て",
+            "いっ",
+            "て",
+            "ください",
+            "な",
+            "。"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000054",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000055",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "笑いながらいいました。",
+        "sentence_with_furigana": "笑[わら]いながらいいました。",
+        "word_base_list": [
+            "笑う",
+            "ながら",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "笑い",
+            "ながら",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000056",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、",
+        "word_base_list": [
+            "此の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "とき",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000057",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんはまだ木に命があるかどうかと、",
+        "sentence_with_furigana": "おじいさんはまだ 木[き]に 命[いのち]があるかどうかと、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "未だ",
+            "木",
+            "に",
+            "命",
+            "が",
+            "有る",
+            "か",
+            "どう",
+            "か",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "まだ",
+            "木",
+            "に",
+            "命",
+            "が",
+            "ある",
+            "か",
+            "どう",
+            "か",
+            "と",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000058",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "まゆをひそめて枝などを折ってしらべていましたが、",
+        "sentence_with_furigana": "まゆをひそめて 枝[えだ]などを 折[お]ってしらべていましたが、",
+        "word_base_list": [
+            "まゆ",
+            "を",
+            "ひそめる",
+            "て",
+            "枝",
+            "など",
+            "を",
+            "折る",
+            "て",
+            "調べる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "まゆ",
+            "を",
+            "ひそめ",
+            "て",
+            "枝",
+            "など",
+            "を",
+            "折っ",
+            "て",
+            "しらべ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000059",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「この木が助かるものなら、",
+        "sentence_with_furigana": "「この 木[き]が 助[たす]かるものなら、",
+        "word_base_list": [
+            "「",
+            "此の",
+            "木",
+            "が",
+            "助かる",
+            "物",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "木",
+            "が",
+            "助かる",
+            "もの",
+            "なら",
+            "、"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000060",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "枯らすのはかわいそうです。",
+        "sentence_with_furigana": "枯[か]らすのはかわいそうです。",
+        "word_base_list": [
+            "枯らす",
+            "の",
+            "は",
+            "可哀想",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "枯らす",
+            "の",
+            "は",
+            "かわいそう",
+            "です",
+            "。"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000061",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と答えました。",
+        "sentence_with_furigana": "」と 答[こた]えました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000062",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おかみさんは、",
+        "sentence_with_furigana": "おかみさんは、",
+        "word_base_list": [
+            "女将",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "おかみ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000063",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ただ笑って、",
+        "sentence_with_furigana": "ただ 笑[わら]って、",
+        "word_base_list": [
+            "唯",
+            "笑う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ただ",
+            "笑っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000064",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "だまっていましたが、",
+        "sentence_with_furigana": "だまっていましたが、",
+        "word_base_list": [
+            "黙る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "だまっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000065",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "心の中で、",
+        "sentence_with_furigana": "心[こころ]の 中[なか]で、",
+        "word_base_list": [
+            "心",
+            "の",
+            "中",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "心",
+            "の",
+            "中",
+            "で",
+            "、"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000066",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "きっとやさしいおじいさんだと思ったでありましょう。",
+        "sentence_with_furigana": "きっとやさしいおじいさんだと 思[おも]ったでありましょう。",
+        "word_base_list": [
+            "きっと",
+            "優しい",
+            "御",
+            "爺",
+            "さん",
+            "だ",
+            "と",
+            "思う",
+            "た",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "きっと",
+            "やさしい",
+            "お",
+            "じい",
+            "さん",
+            "だ",
+            "と",
+            "思っ",
+            "た",
+            "で",
+            "あり",
+            "ましょう",
+            "。"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000067",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それとも、",
+        "sentence_with_furigana": "それとも、",
+        "word_base_list": [
+            "其れ",
+            "と",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "と",
+            "も",
+            "、"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000068",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そんなことを思う人でなかったかもしれません。",
+        "sentence_with_furigana": "そんなことを 思[おも]う 人[ひと]でなかったかもしれません。",
+        "word_base_list": [
+            "そんな",
+            "こと",
+            "を",
+            "思う",
+            "人",
+            "だ",
+            "無い",
+            "た",
+            "か",
+            "も",
+            "知る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "そんな",
+            "こと",
+            "を",
+            "思う",
+            "人",
+            "で",
+            "なかっ",
+            "た",
+            "か",
+            "も",
+            "しれ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000069",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "やがて、",
+        "sentence_with_furigana": "やがて、",
+        "word_base_list": [
+            "軈て",
+            "、"
+        ],
+        "word_list": [
+            "やがて",
+            "、"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000070",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000071",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "いろいろなものを買って、",
+        "sentence_with_furigana": "いろいろなものを 買[か]って、",
+        "word_base_list": [
+            "色々",
+            "だ",
+            "物",
+            "を",
+            "買う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いろいろ",
+            "な",
+            "もの",
+            "を",
+            "買っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000072",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それを手車の上にのせました。",
+        "sentence_with_furigana": "それを 手車[てぐるま]の 上[うえ]にのせました。",
+        "word_base_list": [
+            "其れ",
+            "を",
+            "手車",
+            "の",
+            "上",
+            "に",
+            "乗せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "それ",
+            "を",
+            "手車",
+            "の",
+            "上",
+            "に",
+            "のせ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000073",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "南天の鉢ものせました。",
+        "sentence_with_furigana": "南天[なんてん]の 鉢[はち]ものせました。",
+        "word_base_list": [
+            "南天",
+            "の",
+            "鉢",
+            "も",
+            "乗せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "南天",
+            "の",
+            "鉢",
+            "も",
+            "のせ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000074",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000075",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ガラガラと引いて運び去りました。",
+        "sentence_with_furigana": "ガラガラと 引[ひ]いて 運[はこ]び 去[さ]りました。",
+        "word_base_list": [
+            "がらがら",
+            "と",
+            "引く",
+            "て",
+            "運ぶ",
+            "去る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ガラガラ",
+            "と",
+            "引い",
+            "て",
+            "運び",
+            "去り",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000076",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "帰る道筋、",
+        "sentence_with_furigana": "帰[かえ]る 道筋[みちすじ]、",
+        "word_base_list": [
+            "帰る",
+            "道筋",
+            "、"
+        ],
+        "word_list": [
+            "帰る",
+            "道筋",
+            "、"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000077",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000078",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "うつ向きかげんに歩いて、",
+        "sentence_with_furigana": "うつ 向[む]きかげんに 歩[ある]いて、",
+        "word_base_list": [
+            "俯く",
+            "加減",
+            "に",
+            "歩く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "うつ向き",
+            "かげん",
+            "に",
+            "歩い",
+            "て",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000079",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "考えていました。",
+        "sentence_with_furigana": "考[かんが]えていました。",
+        "word_base_list": [
+            "考える",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "考え",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000080",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「あの店も、",
+        "sentence_with_furigana": "「あの 店[みせ]も、",
+        "word_base_list": [
+            "「",
+            "彼の",
+            "店",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あの",
+            "店",
+            "も",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000081",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "はやらないとみえて、",
+        "sentence_with_furigana": "はやらないとみえて、",
+        "word_base_list": [
+            "はやる",
+            "ない",
+            "と",
+            "見える",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "はやら",
+            "ない",
+            "と",
+            "みえ",
+            "て",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000082",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "店を閉めるのだな。",
+        "sentence_with_furigana": "店[みせ]を 閉[し]めるのだな。",
+        "word_base_list": [
+            "店",
+            "を",
+            "閉める",
+            "の",
+            "だ",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "店",
+            "を",
+            "閉める",
+            "の",
+            "だ",
+            "な",
+            "。"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000083",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000084",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "生き物を、",
+        "sentence_with_furigana": "生[い]き 物[もの]を、",
+        "word_base_list": [
+            "生き物",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "生き物",
+            "を",
+            "、"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000085",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こんなに、",
+        "sentence_with_furigana": "こんなに、",
+        "word_base_list": [
+            "こんな",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "こんな",
+            "に",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000086",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ぞんざいにするようでは、",
+        "sentence_with_furigana": "ぞんざいにするようでは、",
+        "word_base_list": [
+            "ぞんざい",
+            "だ",
+            "為る",
+            "様",
+            "だ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ぞんざい",
+            "に",
+            "する",
+            "よう",
+            "で",
+            "は",
+            "、"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000087",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "なに商売だって、",
+        "sentence_with_furigana": "なに 商売[しょうばい]だって、",
+        "word_base_list": [
+            "何",
+            "商売",
+            "だ",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "なに",
+            "商売",
+            "だ",
+            "って",
+            "、"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000088",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "栄えないのも無理はない。",
+        "sentence_with_furigana": "栄[さか]えないのも 無理[むり]はない。",
+        "word_base_list": [
+            "栄える",
+            "ない",
+            "の",
+            "も",
+            "無理",
+            "は",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "栄え",
+            "ない",
+            "の",
+            "も",
+            "無理",
+            "は",
+            "ない",
+            "。"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000089",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000090",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こんなことを考えたのであります。",
+        "sentence_with_furigana": "こんなことを 考[かんが]えたのであります。",
+        "word_base_list": [
+            "こんな",
+            "こと",
+            "を",
+            "考える",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "こんな",
+            "こと",
+            "を",
+            "考え",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000091",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "家に帰るとさっそく、",
+        "sentence_with_furigana": "家[いえ]に 帰[かえ]るとさっそく、",
+        "word_base_list": [
+            "家",
+            "に",
+            "帰る",
+            "と",
+            "早速",
+            "、"
+        ],
+        "word_list": [
+            "家",
+            "に",
+            "帰る",
+            "と",
+            "さっそく",
+            "、"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000092",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "木に水をやりました。",
+        "sentence_with_furigana": "木[き]に 水[みず]をやりました。",
+        "word_base_list": [
+            "木",
+            "に",
+            "水",
+            "を",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "木",
+            "に",
+            "水",
+            "を",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000093",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000094",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "わずかばかり残っていた、",
+        "sentence_with_furigana": "わずかばかり 残[のこ]っていた、",
+        "word_base_list": [
+            "僅か",
+            "ばかり",
+            "残る",
+            "て",
+            "居る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "わずか",
+            "ばかり",
+            "残っ",
+            "て",
+            "い",
+            "た",
+            "、"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000095",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "葉についているほこりを洗ってやりました。",
+        "sentence_with_furigana": "葉[は]についているほこりを 洗[あら]ってやりました。",
+        "word_base_list": [
+            "葉",
+            "に",
+            "つく",
+            "て",
+            "居る",
+            "ほこり",
+            "を",
+            "洗う",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "葉",
+            "に",
+            "つい",
+            "て",
+            "いる",
+            "ほこり",
+            "を",
+            "洗っ",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000096",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そして日のよく当たるところへ出してやりました。",
+        "sentence_with_furigana": "そして 日[ひ]のよく 当[あ]たるところへ 出[だ]してやりました。",
+        "word_base_list": [
+            "そして",
+            "日",
+            "の",
+            "良く",
+            "当たる",
+            "所",
+            "へ",
+            "出す",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "そして",
+            "日",
+            "の",
+            "よく",
+            "当たる",
+            "ところ",
+            "へ",
+            "出し",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000097",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "仕事をしていた、",
+        "sentence_with_furigana": "仕事[しごと]をしていた、",
+        "word_base_list": [
+            "仕事",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "仕事",
+            "を",
+            "し",
+            "て",
+            "い",
+            "た",
+            "、"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000098",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "息子の嫁さんが出てきてこれをながめながら、",
+        "sentence_with_furigana": "息子[むすこ]の 嫁[よめ]さんが 出[で]てきてこれをながめながら、",
+        "word_base_list": [
+            "息子",
+            "の",
+            "嫁",
+            "さん",
+            "が",
+            "出る",
+            "て",
+            "来る",
+            "て",
+            "此れ",
+            "を",
+            "眺める",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "息子",
+            "の",
+            "嫁",
+            "さん",
+            "が",
+            "出",
+            "て",
+            "き",
+            "て",
+            "これ",
+            "を",
+            "ながめ",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000099",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "爺",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "じい",
+            "さん",
+            "、"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000100",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "その木は枯れてはいませんか。",
+        "sentence_with_furigana": "その 木[き]は 枯[か]れてはいませんか。",
+        "word_base_list": [
+            "其の",
+            "木",
+            "は",
+            "枯れる",
+            "て",
+            "は",
+            "居る",
+            "ます",
+            "ず",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "木",
+            "は",
+            "枯れ",
+            "て",
+            "は",
+            "い",
+            "ませ",
+            "ん",
+            "か",
+            "。"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000101",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」とたずねました。",
+        "sentence_with_furigana": "」とたずねました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000102",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「枯れたのも同然のものだが、",
+        "sentence_with_furigana": "「 枯[か]れたのも 同然[どうぜん]のものだが、",
+        "word_base_list": [
+            "「",
+            "枯れる",
+            "た",
+            "の",
+            "も",
+            "同然",
+            "の",
+            "物",
+            "だ",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "枯れ",
+            "た",
+            "の",
+            "も",
+            "同然",
+            "の",
+            "もの",
+            "だ",
+            "が",
+            "、"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000103",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "まだすこしばかり命があるらしい。",
+        "sentence_with_furigana": "まだすこしばかり 命[いのち]があるらしい。",
+        "word_base_list": [
+            "未だ",
+            "少し",
+            "ばかり",
+            "命",
+            "が",
+            "有る",
+            "らしい",
+            "。"
+        ],
+        "word_list": [
+            "まだ",
+            "すこし",
+            "ばかり",
+            "命",
+            "が",
+            "ある",
+            "らしい",
+            "。"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000104",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "私の丹誠で助けたいと思っている。",
+        "sentence_with_furigana": "私[わたし]の 丹誠[たんせい]で 助[たす]けたいと 思[おも]っている。",
+        "word_base_list": [
+            "私",
+            "の",
+            "丹誠",
+            "で",
+            "助ける",
+            "たい",
+            "と",
+            "思う",
+            "て",
+            "居る",
+            "。"
+        ],
+        "word_list": [
+            "私",
+            "の",
+            "丹誠",
+            "で",
+            "助け",
+            "たい",
+            "と",
+            "思っ",
+            "て",
+            "いる",
+            "。"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000105",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000106",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは答えました。",
+        "sentence_with_furigana": "おじいさんは 答[こた]えました。",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000107",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こうしたやさしいおじいさんでありますから、",
+        "sentence_with_furigana": "こうしたやさしいおじいさんでありますから、",
+        "word_base_list": [
+            "こう",
+            "為る",
+            "た",
+            "優しい",
+            "御",
+            "爺",
+            "さん",
+            "だ",
+            "有る",
+            "ます",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "こう",
+            "し",
+            "た",
+            "やさしい",
+            "お",
+            "じい",
+            "さん",
+            "で",
+            "あり",
+            "ます",
+            "から",
+            "、"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000108",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "小さいもの、",
+        "sentence_with_furigana": "小[ちい]さいもの、",
+        "word_base_list": [
+            "小さい",
+            "物",
+            "、"
+        ],
+        "word_list": [
+            "小さい",
+            "もの",
+            "、"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000109",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "弱いものに対して、",
+        "sentence_with_furigana": "弱[よわ]いものに 対[たい]して、",
+        "word_base_list": [
+            "弱い",
+            "物",
+            "に",
+            "対する",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "弱い",
+            "もの",
+            "に",
+            "対し",
+            "て",
+            "、"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000110",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "平常からしんせつでありました。",
+        "sentence_with_furigana": "平常[ふだん]からしんせつでありました。",
+        "word_base_list": [
+            "平常",
+            "から",
+            "親切",
+            "だ",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "平常",
+            "から",
+            "しんせつ",
+            "で",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000111",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「正坊はどうしたか。",
+        "sentence_with_furigana": "「 正坊[まさぼう]はどうしたか。",
+        "word_base_list": [
+            "「",
+            "正坊",
+            "は",
+            "どう",
+            "為る",
+            "た",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "正坊",
+            "は",
+            "どう",
+            "し",
+            "た",
+            "か",
+            "。"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000112",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000113",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "帰るとすぐに、",
+        "sentence_with_furigana": "帰[かえ]るとすぐに、",
+        "word_base_list": [
+            "帰る",
+            "と",
+            "直ぐ",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "帰る",
+            "と",
+            "すぐ",
+            "に",
+            "、"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000114",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "孫のことをききました。",
+        "sentence_with_furigana": "孫[まご]のことをききました。",
+        "word_base_list": [
+            "孫",
+            "の",
+            "こと",
+            "を",
+            "きく",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "孫",
+            "の",
+            "こと",
+            "を",
+            "きき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000115",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「いま、",
+        "sentence_with_furigana": "「いま、",
+        "word_base_list": [
+            "「",
+            "今",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いま",
+            "、"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000116",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "どこか外へ出て遊んでいます。",
+        "sentence_with_furigana": "どこか 外[そと]へ 出[で]て 遊[あそ]んでいます。",
+        "word_base_list": [
+            "どこ",
+            "か",
+            "外",
+            "へ",
+            "出る",
+            "て",
+            "遊ぶ",
+            "で",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "どこ",
+            "か",
+            "外",
+            "へ",
+            "出",
+            "て",
+            "遊ん",
+            "で",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000117",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000118",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "嫁さんは答えました。",
+        "sentence_with_furigana": "嫁[よめ]さんは 答[こた]えました。",
+        "word_base_list": [
+            "嫁",
+            "さん",
+            "は",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "嫁",
+            "さん",
+            "は",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000119",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「よく、",
+        "sentence_with_furigana": "「よく、",
+        "word_base_list": [
+            "「",
+            "良く",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "よく",
+            "、"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000120",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "気をつけて、",
+        "sentence_with_furigana": "気[き]をつけて、",
+        "word_base_list": [
+            "気",
+            "を",
+            "つける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "気",
+            "を",
+            "つけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000121",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "けがをさしてはいけない。",
+        "sentence_with_furigana": "けがをさしてはいけない。",
+        "word_base_list": [
+            "怪我",
+            "を",
+            "さす",
+            "て",
+            "は",
+            "行く",
+            "ない",
+            "。"
+        ],
+        "word_list": [
+            "けが",
+            "を",
+            "さし",
+            "て",
+            "は",
+            "いけ",
+            "ない",
+            "。"
+        ],
+        "sound": "f000121.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000122",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "この木のようなもので、",
+        "sentence_with_furigana": "この 木[き]のようなもので、",
+        "word_base_list": [
+            "此の",
+            "木",
+            "の",
+            "様",
+            "だ",
+            "物",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "木",
+            "の",
+            "よう",
+            "な",
+            "もの",
+            "で",
+            "、"
+        ],
+        "sound": "f000122.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000123",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "折れた枝が、",
+        "sentence_with_furigana": "折[お]れた 枝[えだ]が、",
+        "word_base_list": [
+            "折れる",
+            "た",
+            "枝",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "折れ",
+            "た",
+            "枝",
+            "が",
+            "、"
+        ],
+        "sound": "f000123.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000124",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "芽をふいて、",
+        "sentence_with_furigana": "芽[め]をふいて、",
+        "word_base_list": [
+            "芽",
+            "を",
+            "ふく",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "芽",
+            "を",
+            "ふい",
+            "て",
+            "、"
+        ],
+        "sound": "f000124.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000125",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "もとのようになるのには容易なことでない。",
+        "sentence_with_furigana": "もとのようになるのには 容易[ようい]なことでない。",
+        "word_base_list": [
+            "もと",
+            "の",
+            "様",
+            "だ",
+            "成る",
+            "の",
+            "に",
+            "は",
+            "容易",
+            "だ",
+            "こと",
+            "だ",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "もと",
+            "の",
+            "よう",
+            "に",
+            "なる",
+            "の",
+            "に",
+            "は",
+            "容易",
+            "な",
+            "こと",
+            "で",
+            "ない",
+            "。"
+        ],
+        "sound": "f000125.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000126",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "病気をしたり、",
+        "sentence_with_furigana": "病気[びょうき]をしたり、",
+        "word_base_list": [
+            "病気",
+            "を",
+            "為る",
+            "たり",
+            "、"
+        ],
+        "word_list": [
+            "病気",
+            "を",
+            "し",
+            "たり",
+            "、"
+        ],
+        "sound": "f000126.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000127",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "けがをしたりすると、",
+        "sentence_with_furigana": "けがをしたりすると、",
+        "word_base_list": [
+            "怪我",
+            "を",
+            "為る",
+            "たり",
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "けが",
+            "を",
+            "し",
+            "たり",
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000127.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000128",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "とりかえしがつかぬから。",
+        "sentence_with_furigana": "とりかえしがつかぬから。",
+        "word_base_list": [
+            "取る",
+            "かえす",
+            "が",
+            "付く",
+            "ず",
+            "から",
+            "。"
+        ],
+        "word_list": [
+            "とり",
+            "かえし",
+            "が",
+            "つか",
+            "ぬ",
+            "から",
+            "。"
+        ],
+        "sound": "f000128.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000129",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000129.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000130",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000130.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000131",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "注意しました。",
+        "sentence_with_furigana": "注意[ちゅうい]しました。",
+        "word_base_list": [
+            "注意",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "注意",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000131.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000132",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "晩方、",
+        "sentence_with_furigana": "晩方[ばんがた]、",
+        "word_base_list": [
+            "晩方",
+            "、"
+        ],
+        "word_list": [
+            "晩方",
+            "、"
+        ],
+        "sound": "f000132.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000133",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "息子が工場からもどって、",
+        "sentence_with_furigana": "息子[むすこ]が 工場[こうば]からもどって、",
+        "word_base_list": [
+            "息子",
+            "が",
+            "工場",
+            "から",
+            "戻る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "息子",
+            "が",
+            "工場",
+            "から",
+            "もどっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000133.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000134",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "店さきにある南天の鉢を見ました。",
+        "sentence_with_furigana": "店[みせ]さきにある 南天[なんてん]の 鉢[はち]を 見[み]ました。",
+        "word_base_list": [
+            "店先",
+            "に",
+            "有る",
+            "南天",
+            "の",
+            "鉢",
+            "を",
+            "見る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "店さき",
+            "に",
+            "ある",
+            "南天",
+            "の",
+            "鉢",
+            "を",
+            "見",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000134.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000135",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、",
+        "word_base_list": [
+            "「",
+            "御",
+            "爺",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "じい",
+            "さん",
+            "、"
+        ],
+        "sound": "f000135.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000136",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "この南天は枯れているじゃありませんか。",
+        "sentence_with_furigana": "この 南天[なんてん]は 枯[か]れているじゃありませんか。",
+        "word_base_list": [
+            "此の",
+            "南天",
+            "は",
+            "枯れる",
+            "て",
+            "居る",
+            "だ",
+            "有る",
+            "ます",
+            "ず",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "南天",
+            "は",
+            "枯れ",
+            "て",
+            "いる",
+            "じゃ",
+            "あり",
+            "ませ",
+            "ん",
+            "か",
+            "。"
+        ],
+        "sound": "f000136.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000137",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "なぜ、",
+        "sentence_with_furigana": "なぜ、",
+        "word_base_list": [
+            "何故",
+            "、"
+        ],
+        "word_list": [
+            "なぜ",
+            "、"
+        ],
+        "sound": "f000137.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000138",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こんなものを置くのですか。",
+        "sentence_with_furigana": "こんなものを 置[お]くのですか。",
+        "word_base_list": [
+            "こんな",
+            "物",
+            "を",
+            "置く",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "こんな",
+            "もの",
+            "を",
+            "置く",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "sound": "f000138.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000139",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000139.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000140",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「私が、",
+        "sentence_with_furigana": "「 私[わたし]が、",
+        "word_base_list": [
+            "「",
+            "私",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "私",
+            "が",
+            "、"
+        ],
+        "sound": "f000140.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000141",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "手をかけてみようと思っているのだ。",
+        "sentence_with_furigana": "手[て]をかけてみようと 思[おも]っているのだ。",
+        "word_base_list": [
+            "手",
+            "を",
+            "掛ける",
+            "て",
+            "見る",
+            "と",
+            "思う",
+            "て",
+            "居る",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "手",
+            "を",
+            "かけ",
+            "て",
+            "みよう",
+            "と",
+            "思っ",
+            "て",
+            "いる",
+            "の",
+            "だ",
+            "。"
+        ],
+        "sound": "f000141.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000142",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000142.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000143",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000143.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000144",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。",
+        "word_base_list": [
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000144.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000145",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「この木がよくなるのは、",
+        "sentence_with_furigana": "「この 木[き]がよくなるのは、",
+        "word_base_list": [
+            "「",
+            "此の",
+            "木",
+            "が",
+            "良い",
+            "成る",
+            "の",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "木",
+            "が",
+            "よく",
+            "なる",
+            "の",
+            "は",
+            "、"
+        ],
+        "sound": "f000145.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000146",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "たいへんなことですね。」",
+        "sentence_with_furigana": "たいへんなことですね。」",
+        "word_base_list": [
+            "大変",
+            "だ",
+            "こと",
+            "です",
+            "ね",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "たいへん",
+            "な",
+            "こと",
+            "です",
+            "ね",
+            "。",
+            "」"
+        ],
+        "sound": "f000146.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000147",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「子供を育てると同じようなもので、",
+        "sentence_with_furigana": "「 子供[こども]を 育[そだ]てると 同[おな]じようなもので、",
+        "word_base_list": [
+            "「",
+            "子供",
+            "を",
+            "育つ",
+            "と",
+            "同じ",
+            "様",
+            "だ",
+            "物",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "子供",
+            "を",
+            "育てる",
+            "と",
+            "同じ",
+            "よう",
+            "な",
+            "もの",
+            "で",
+            "、"
+        ],
+        "sound": "f000147.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000148",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "草でも木でも丹誠ひとつだ。」",
+        "sentence_with_furigana": "草[くさ]でも 木[き]でも 丹誠[たんせい]ひとつだ。」",
+        "word_base_list": [
+            "草",
+            "で",
+            "も",
+            "木",
+            "で",
+            "も",
+            "丹誠",
+            "一",
+            "つ",
+            "だ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "草",
+            "で",
+            "も",
+            "木",
+            "で",
+            "も",
+            "丹誠",
+            "ひと",
+            "つ",
+            "だ",
+            "。",
+            "」"
+        ],
+        "sound": "f000148.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000149",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こう、",
+        "sentence_with_furigana": "こう、",
+        "word_base_list": [
+            "こう",
+            "、"
+        ],
+        "word_list": [
+            "こう",
+            "、"
+        ],
+        "sound": "f000149.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000150",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000150.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000151",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "いったのでした。",
+        "sentence_with_furigana": "いったのでした。",
+        "word_base_list": [
+            "行く",
+            "た",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いっ",
+            "た",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000151.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000152",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "、"
+        ],
+        "sound": "f000152.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000153",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000153.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000154",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "朝起きて、",
+        "sentence_with_furigana": "朝[あさ] 起[お]きて、",
+        "word_base_list": [
+            "朝",
+            "起きる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "朝",
+            "起き",
+            "て",
+            "、"
+        ],
+        "sound": "f000154.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000155",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "出かける前に、",
+        "sentence_with_furigana": "出[で]かける 前[まえ]に、",
+        "word_base_list": [
+            "出る",
+            "掛ける",
+            "前",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "出",
+            "かける",
+            "前",
+            "に",
+            "、"
+        ],
+        "sound": "f000155.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000156",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "鉢を日あたりに出してやりました。",
+        "sentence_with_furigana": "鉢[はち]を 日[ひ]あたりに 出[だ]してやりました。",
+        "word_base_list": [
+            "鉢",
+            "を",
+            "日当たり",
+            "に",
+            "出す",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "鉢",
+            "を",
+            "日あたり",
+            "に",
+            "出し",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000156.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000157",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "また帰れば店さきにいれてやり、",
+        "sentence_with_furigana": "また 帰[かえ]れば 店[みせ]さきにいれてやり、",
+        "word_base_list": [
+            "又",
+            "帰る",
+            "ば",
+            "店先",
+            "に",
+            "入れる",
+            "て",
+            "遣る",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "帰れ",
+            "ば",
+            "店さき",
+            "に",
+            "いれ",
+            "て",
+            "やり",
+            "、"
+        ],
+        "sound": "f000157.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000158",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そしてときどきは雨にあわせてやるというふうに手をかけましたから、",
+        "sentence_with_furigana": "そしてときどきは 雨[あめ]にあわせてやるというふうに 手[て]をかけましたから、",
+        "word_base_list": [
+            "そして",
+            "時々",
+            "は",
+            "雨",
+            "に",
+            "合う",
+            "て",
+            "遣る",
+            "と",
+            "言う",
+            "風",
+            "だ",
+            "手",
+            "を",
+            "掛ける",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "ときどき",
+            "は",
+            "雨",
+            "に",
+            "あわせ",
+            "て",
+            "やる",
+            "と",
+            "いう",
+            "ふう",
+            "に",
+            "手",
+            "を",
+            "かけ",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000158.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000159",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "枯れかかった南天もすこしずつ精がついて、",
+        "sentence_with_furigana": "枯[か]れかかった 南天[なんてん]もすこしずつ 精[せい]がついて、",
+        "word_base_list": [
+            "枯れる",
+            "掛かる",
+            "た",
+            "南天",
+            "も",
+            "少し",
+            "ずつ",
+            "精",
+            "が",
+            "付く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "枯れ",
+            "かかっ",
+            "た",
+            "南天",
+            "も",
+            "すこし",
+            "ずつ",
+            "精",
+            "が",
+            "つい",
+            "て",
+            "、"
+        ],
+        "sound": "f000159.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000160",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "新しい芽をだしました。",
+        "sentence_with_furigana": "新[あたら]しい 芽[め]をだしました。",
+        "word_base_list": [
+            "新しい",
+            "芽",
+            "を",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "新しい",
+            "芽",
+            "を",
+            "だし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000160.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000161",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "新しい芽は、",
+        "sentence_with_furigana": "新[あたら]しい 芽[め]は、",
+        "word_base_list": [
+            "新しい",
+            "芽",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "新しい",
+            "芽",
+            "は",
+            "、"
+        ],
+        "sound": "f000161.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000162",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "また子供のように、",
+        "sentence_with_furigana": "また 子供[こども]のように、",
+        "word_base_list": [
+            "又",
+            "子供",
+            "の",
+            "様",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "子供",
+            "の",
+            "よう",
+            "に",
+            "、"
+        ],
+        "sound": "f000162.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000163",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "太陽の光と新鮮な大気の中で元気よく伸びてゆきました。",
+        "sentence_with_furigana": "太陽[たいよう]の 光[ひかり]と 新鮮[しんせん]な 大気[たいき]の 中[うち]で 元気[げんき]よく 伸[の]びてゆきました。",
+        "word_base_list": [
+            "太陽",
+            "の",
+            "光",
+            "と",
+            "新鮮",
+            "だ",
+            "大気",
+            "の",
+            "中",
+            "で",
+            "元気",
+            "良い",
+            "伸びる",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "太陽",
+            "の",
+            "光",
+            "と",
+            "新鮮",
+            "な",
+            "大気",
+            "の",
+            "中",
+            "で",
+            "元気",
+            "よく",
+            "伸び",
+            "て",
+            "ゆき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000163.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000164",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そして夏のころ白い花が咲き、",
+        "sentence_with_furigana": "そして 夏[なつ]のころ 白[しろ]い 花[はな]が 咲[さ]き、",
+        "word_base_list": [
+            "そして",
+            "夏",
+            "の",
+            "頃",
+            "白い",
+            "花",
+            "が",
+            "咲く",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "夏",
+            "の",
+            "ころ",
+            "白い",
+            "花",
+            "が",
+            "咲き",
+            "、"
+        ],
+        "sound": "f000164.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000165",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "その年の暮れには真っ赤な実が重そうに垂れさがったのであります。",
+        "sentence_with_furigana": "その 年[とし]の 暮[く]れには 真[ま]っ 赤[っか]な 実[み]が 重[おも]そうに 垂[た]れさがったのであります。",
+        "word_base_list": [
+            "其の",
+            "年の暮れ",
+            "に",
+            "は",
+            "真っ赤",
+            "だ",
+            "実",
+            "が",
+            "重い",
+            "そう",
+            "だ",
+            "垂れる",
+            "下がる",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "年の暮れ",
+            "に",
+            "は",
+            "真っ赤",
+            "な",
+            "実",
+            "が",
+            "重",
+            "そう",
+            "に",
+            "垂れ",
+            "さがっ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000165.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000166",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "軒端にくるすずめまでが、",
+        "sentence_with_furigana": "軒端[のきば]にくるすずめまでが、",
+        "word_base_list": [
+            "軒端",
+            "に",
+            "来る",
+            "雀",
+            "まで",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "軒端",
+            "に",
+            "くる",
+            "すずめ",
+            "まで",
+            "が",
+            "、"
+        ],
+        "sound": "f000166.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000167",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "目を円くして、",
+        "sentence_with_furigana": "目[め]を 円[まる]くして、",
+        "word_base_list": [
+            "目",
+            "を",
+            "丸い",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "目",
+            "を",
+            "円く",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000167.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000168",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ほめそやしたほどですから、",
+        "sentence_with_furigana": "ほめそやしたほどですから、",
+        "word_base_list": [
+            "褒める",
+            "そやす",
+            "た",
+            "ほど",
+            "です",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "ほめ",
+            "そやし",
+            "た",
+            "ほど",
+            "です",
+            "から",
+            "、"
+        ],
+        "sound": "f000168.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000169",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "近所の人たちも、",
+        "sentence_with_furigana": "近所[きんじょ]の 人[ひと]たちも、",
+        "word_base_list": [
+            "近所",
+            "の",
+            "人",
+            "達",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "近所",
+            "の",
+            "人",
+            "たち",
+            "も",
+            "、"
+        ],
+        "sound": "f000169.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000170",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「あんな枯れかかった木が、",
+        "sentence_with_furigana": "「あんな 枯[か]れかかった 木[き]が、",
+        "word_base_list": [
+            "「",
+            "あんな",
+            "枯れる",
+            "掛かる",
+            "た",
+            "木",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あんな",
+            "枯れ",
+            "かかっ",
+            "た",
+            "木",
+            "が",
+            "、"
+        ],
+        "sound": "f000170.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000171",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "こんなによくなるとは、",
+        "sentence_with_furigana": "こんなによくなるとは、",
+        "word_base_list": [
+            "こんな",
+            "だ",
+            "良い",
+            "成る",
+            "と",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "こんな",
+            "に",
+            "よく",
+            "なる",
+            "と",
+            "は",
+            "、"
+        ],
+        "sound": "f000171.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000172",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "生きものは、",
+        "sentence_with_furigana": "生[い]きものは、",
+        "word_base_list": [
+            "生き物",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "生きもの",
+            "は",
+            "、"
+        ],
+        "sound": "f000172.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000173",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "丹誠ひとつですね。",
+        "sentence_with_furigana": "丹誠[たんせい]ひとつですね。",
+        "word_base_list": [
+            "丹誠",
+            "一",
+            "つ",
+            "です",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "丹誠",
+            "ひと",
+            "つ",
+            "です",
+            "ね",
+            "。"
+        ],
+        "sound": "f000173.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000174",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000174.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000175",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "たまげました。",
+        "sentence_with_furigana": "たまげました。",
+        "word_base_list": [
+            "魂消る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "たまげ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000175.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000176",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "がらくたと並べた店さきに、",
+        "sentence_with_furigana": "がらくたと 並[なら]べた 店[みせ]さきに、",
+        "word_base_list": [
+            "我楽多",
+            "と",
+            "並ぶ",
+            "た",
+            "店先",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "がらくた",
+            "と",
+            "並べ",
+            "た",
+            "店さき",
+            "に",
+            "、"
+        ],
+        "sound": "f000176.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000177",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "南天の鉢を出しておくと、",
+        "sentence_with_furigana": "南天[なんてん]の 鉢[はち]を 出[だ]しておくと、",
+        "word_base_list": [
+            "南天",
+            "の",
+            "鉢",
+            "を",
+            "出す",
+            "て",
+            "おく",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "南天",
+            "の",
+            "鉢",
+            "を",
+            "出し",
+            "て",
+            "おく",
+            "と",
+            "、"
+        ],
+        "sound": "f000177.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000178",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "通りがかりの人々がながめて、",
+        "sentence_with_furigana": "通[とお]りがかりの 人々[ひとびと]がながめて、",
+        "word_base_list": [
+            "通り掛かり",
+            "の",
+            "人々",
+            "が",
+            "眺める",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "通りがかり",
+            "の",
+            "人々",
+            "が",
+            "ながめ",
+            "て",
+            "、"
+        ],
+        "sound": "f000178.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000179",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「いい南天だな。",
+        "sentence_with_furigana": "「いい 南天[なんてん]だな。",
+        "word_base_list": [
+            "「",
+            "良い",
+            "南天",
+            "だ",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "いい",
+            "南天",
+            "だ",
+            "な",
+            "。"
+        ],
+        "sound": "f000179.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000180",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といってゆくものもあれば、",
+        "sentence_with_furigana": "」といってゆくものもあれば、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "行く",
+            "物",
+            "も",
+            "有る",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "ゆく",
+            "もの",
+            "も",
+            "あれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000180.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000181",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "なかには、",
+        "sentence_with_furigana": "なかには、",
+        "word_base_list": [
+            "中",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "なか",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000181.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000182",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "売ってくれぬかといったものもありますけれど、",
+        "sentence_with_furigana": "売[う]ってくれぬかといったものもありますけれど、",
+        "word_base_list": [
+            "売る",
+            "て",
+            "呉れる",
+            "ず",
+            "か",
+            "と",
+            "言う",
+            "た",
+            "物",
+            "も",
+            "有る",
+            "ます",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "売っ",
+            "て",
+            "くれ",
+            "ぬ",
+            "か",
+            "と",
+            "いっ",
+            "た",
+            "もの",
+            "も",
+            "あり",
+            "ます",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000182.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000183",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000183.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000184",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「これは、",
+        "sentence_with_furigana": "「これは、",
+        "word_base_list": [
+            "「",
+            "此れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "これ",
+            "は",
+            "、"
+        ],
+        "sound": "f000184.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000185",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "金銭では売られない代物だ。",
+        "sentence_with_furigana": "金銭[きんせん]では 売[う]られない 代物[しろもの]だ。",
+        "word_base_list": [
+            "金銭",
+            "で",
+            "は",
+            "売る",
+            "れる",
+            "ない",
+            "代物",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "金銭",
+            "で",
+            "は",
+            "売ら",
+            "れ",
+            "ない",
+            "代物",
+            "だ",
+            "。"
+        ],
+        "sound": "f000185.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000186",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000186.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000187",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "断ったのでありました。",
+        "sentence_with_furigana": "断[ことわ]ったのでありました。",
+        "word_base_list": [
+            "断る",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "断っ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000187.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000188",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "word_base_list": [
+            "所",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ところ",
+            "が",
+            "、"
+        ],
+        "sound": "f000188.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000189",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんのかわいがっている正坊が、",
+        "sentence_with_furigana": "おじいさんのかわいがっている 正坊[まさぼう]が、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "の",
+            "可愛い",
+            "がる",
+            "て",
+            "居る",
+            "正坊",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "の",
+            "かわい",
+            "がっ",
+            "て",
+            "いる",
+            "正坊",
+            "が",
+            "、"
+        ],
+        "sound": "f000189.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000190",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "重いかぜをひいて臥ました。",
+        "sentence_with_furigana": "重[おも]いかぜをひいて 臥[ね]ました。",
+        "word_base_list": [
+            "重い",
+            "かぜ",
+            "を",
+            "ひく",
+            "て",
+            "臥せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "重い",
+            "かぜ",
+            "を",
+            "ひい",
+            "て",
+            "臥",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000190.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000191",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、",
+        "word_base_list": [
+            "其の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "とき",
+            "、"
+        ],
+        "sound": "f000191.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000192",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "診てもらったお医者さまが、",
+        "sentence_with_furigana": "診[み]てもらったお 医者[いしゃ]さまが、",
+        "word_base_list": [
+            "見る",
+            "て",
+            "貰う",
+            "た",
+            "御",
+            "医者",
+            "様",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "診",
+            "て",
+            "もらっ",
+            "た",
+            "お",
+            "医者",
+            "さま",
+            "が",
+            "、"
+        ],
+        "sound": "f000192.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000193",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "またしんせつな人であって、",
+        "sentence_with_furigana": "またしんせつな 人[ひと]であって、",
+        "word_base_list": [
+            "又",
+            "親切",
+            "だ",
+            "人",
+            "だ",
+            "有る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "しんせつ",
+            "な",
+            "人",
+            "で",
+            "あっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000193.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000194",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "たとえ、",
+        "sentence_with_furigana": "たとえ、",
+        "word_base_list": [
+            "たとえ",
+            "、"
+        ],
+        "word_list": [
+            "たとえ",
+            "、"
+        ],
+        "sound": "f000194.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000195",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "夜中でも、",
+        "sentence_with_furigana": "夜中[よなか]でも、",
+        "word_base_list": [
+            "夜中",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "夜中",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000195.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000196",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "熱が高くなって、",
+        "sentence_with_furigana": "熱[ねつ]が 高[たか]くなって、",
+        "word_base_list": [
+            "熱",
+            "が",
+            "高い",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "熱",
+            "が",
+            "高く",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000196.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000197",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "迎えにゆけば、",
+        "sentence_with_furigana": "迎[むか]えにゆけば、",
+        "word_base_list": [
+            "迎える",
+            "に",
+            "行く",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "迎え",
+            "に",
+            "ゆけ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000197.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000198",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "いやな顔をせずに、",
+        "sentence_with_furigana": "いやな 顔[かお]をせずに、",
+        "word_base_list": [
+            "嫌",
+            "だ",
+            "顔",
+            "を",
+            "為る",
+            "ず",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "いや",
+            "な",
+            "顔",
+            "を",
+            "せ",
+            "ず",
+            "に",
+            "、"
+        ],
+        "sound": "f000198.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000199",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "すぐにきてくだされたから、",
+        "sentence_with_furigana": "すぐにきてくだされたから、",
+        "word_base_list": [
+            "直ぐ",
+            "に",
+            "来る",
+            "て",
+            "下さる",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "すぐ",
+            "に",
+            "き",
+            "て",
+            "くだされ",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000199.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000200",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "家じゅうのものが、",
+        "sentence_with_furigana": "家[うち]じゅうのものが、",
+        "word_base_list": [
+            "家",
+            "中",
+            "の",
+            "物",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "家",
+            "じゅう",
+            "の",
+            "もの",
+            "が",
+            "、"
+        ],
+        "sound": "f000200.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000201",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "みんなありがたく思いました。",
+        "sentence_with_furigana": "みんなありがたく 思[おも]いました。",
+        "word_base_list": [
+            "皆",
+            "有り難い",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "ありがたく",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000201.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000202",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "それで、",
+        "sentence_with_furigana": "それで、",
+        "word_base_list": [
+            "其れ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "で",
+            "、"
+        ],
+        "sound": "f000202.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000203",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "正坊の病気もだんだんとよくなりました。",
+        "sentence_with_furigana": "正坊[まさぼう]の 病気[びょうき]もだんだんとよくなりました。",
+        "word_base_list": [
+            "正坊",
+            "の",
+            "病気",
+            "も",
+            "段々",
+            "と",
+            "良い",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "正坊",
+            "の",
+            "病気",
+            "も",
+            "だんだん",
+            "と",
+            "よく",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000203.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000204",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある 日[ひ]、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "、"
+        ],
+        "sound": "f000204.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000205",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "このお医者さまが、",
+        "sentence_with_furigana": "このお 医者[いしゃ]さまが、",
+        "word_base_list": [
+            "此の",
+            "御",
+            "医者",
+            "様",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "お",
+            "医者",
+            "さま",
+            "が",
+            "、"
+        ],
+        "sound": "f000205.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000206",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "この南天を見て、",
+        "sentence_with_furigana": "この 南天[なんてん]を 見[み]て、",
+        "word_base_list": [
+            "此の",
+            "南天",
+            "を",
+            "見る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "南天",
+            "を",
+            "見",
+            "て",
+            "、"
+        ],
+        "sound": "f000206.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000207",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "たいそうみごとだといってほめられたので、",
+        "sentence_with_furigana": "たいそうみごとだといってほめられたので、",
+        "word_base_list": [
+            "大層",
+            "見事",
+            "だ",
+            "と",
+            "言う",
+            "て",
+            "褒める",
+            "られる",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "たいそう",
+            "みごと",
+            "だ",
+            "と",
+            "いっ",
+            "て",
+            "ほめ",
+            "られ",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000207.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000208",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000208.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000209",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "だいじにしていたのだけれど、",
+        "sentence_with_furigana": "だいじにしていたのだけれど、",
+        "word_base_list": [
+            "大事",
+            "だ",
+            "為る",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "だ",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "だいじ",
+            "に",
+            "し",
+            "て",
+            "い",
+            "た",
+            "の",
+            "だ",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000209.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000210",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "お礼の志にお医者さまにあげたのであります。",
+        "sentence_with_furigana": "お 礼[れい]の 志[こころざし]にお 医者[いしゃ]さまにあげたのであります。",
+        "word_base_list": [
+            "御",
+            "礼",
+            "の",
+            "志",
+            "に",
+            "御",
+            "医者",
+            "様",
+            "に",
+            "上げる",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "礼",
+            "の",
+            "志",
+            "に",
+            "お",
+            "医者",
+            "さま",
+            "に",
+            "あげ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000210.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000211",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000211.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000212",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "そのあとで、",
+        "sentence_with_furigana": "そのあとで、",
+        "word_base_list": [
+            "其の",
+            "後",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "あと",
+            "で",
+            "、"
+        ],
+        "sound": "f000212.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000213",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "「あの人なら、",
+        "sentence_with_furigana": "「あの 人[ひと]なら、",
+        "word_base_list": [
+            "「",
+            "彼の",
+            "人",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あの",
+            "人",
+            "なら",
+            "、"
+        ],
+        "sound": "f000213.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000214",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "だいじょうぶ枯らすことはない。",
+        "sentence_with_furigana": "だいじょうぶ 枯[か]らすことはない。",
+        "word_base_list": [
+            "大丈夫",
+            "枯らす",
+            "こと",
+            "は",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "だいじょうぶ",
+            "枯らす",
+            "こと",
+            "は",
+            "ない",
+            "。"
+        ],
+        "sound": "f000214.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000215",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000215.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000216",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000216.mp3"
+    },
+    {
+        "id": "Ojiisanga Sutetara-f000217",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Ojiisanga Sutetara",
+        "deck_name_japanese": "おじいさんが捨てたら",
+        "sentence": "安心していました。",
+        "sentence_with_furigana": "安心[あんしん]していました。",
+        "word_base_list": [
+            "安心",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "安心",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000217.mp3"
+    }
+]

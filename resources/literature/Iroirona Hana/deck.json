@@ -1,0 +1,747 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "いろいろな花",
+        "sentence_with_furigana": "いろいろな花"
+    },
+    {
+        "id": "f000003",
+        "sentence": "さまざまの草が、",
+        "sentence_with_furigana": "さまざまの 草[くさ]が、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "いろいろな運命をもってこの世に生まれてきました。",
+        "sentence_with_furigana": "いろいろな 運命[うんめい]をもってこの 世[よ]に 生[う]まれてきました。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "ちょうど人間の身の上と変わりがなかったのです。",
+        "sentence_with_furigana": "ちょうど 人間[にんげん]の 身[み]の 上[うえ]と 変[か]わりがなかったのです。"
+    },
+    {
+        "id": "f000007",
+        "sentence": "広い野原の中に、",
+        "sentence_with_furigana": "広[ひろ]い 野原[のはら]の 中[なか]に、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "紫色のすみれの花が咲きかけましたときは、",
+        "sentence_with_furigana": "紫色[むらさきいろ]のすみれの 花[はな]が 咲[さ]きかけましたときは、"
+    },
+    {
+        "id": "f000009",
+        "sentence": "まだ山の端に雪が白くかかっていました。",
+        "sentence_with_furigana": "まだ 山[やま]の 端[は]に 雪[ゆき]が 白[しろ]くかかっていました。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "春といっても、",
+        "sentence_with_furigana": "春[はる]といっても、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "ほんの名ばかりであって、",
+        "sentence_with_furigana": "ほんの 名[な]ばかりであって、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "どこを見ても冬枯れのままの景色でありました。",
+        "sentence_with_furigana": "どこを 見[み]ても 冬枯[ふゆが]れのままの 景色[けしき]でありました。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "すみれは、",
+        "sentence_with_furigana": "すみれは、"
+    },
+    {
+        "id": "f000014",
+        "sentence": "小鳥があちらの林の中で、",
+        "sentence_with_furigana": "小鳥[ことり]があちらの 林[はやし]の 中[なか]で、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "さびしそうにないているのをききました。",
+        "sentence_with_furigana": "さびしそうにないているのをききました。"
+    },
+    {
+        "id": "f000016",
+        "sentence": "すみれは、",
+        "sentence_with_furigana": "すみれは、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "おりおり寒い風に吹かれて、",
+        "sentence_with_furigana": "おりおり 寒[さむ]い 風[かぜ]に 吹[ふ]かれて、"
+    },
+    {
+        "id": "f000018",
+        "sentence": "小さな体が凍えるようでありましたが、",
+        "sentence_with_furigana": "小[ちい]さな 体[からだ]が 凍[こご]えるようでありましたが、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "一日一日と、",
+        "sentence_with_furigana": "一 日[にち]一 日[にち]と、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "それでも雲の色が、",
+        "sentence_with_furigana": "それでも 雲[くも]の 色[いろ]が、"
+    },
+    {
+        "id": "f000021",
+        "sentence": "だんだん明るくなって、",
+        "sentence_with_furigana": "だんだん 明[あか]るくなって、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "その雲間からもれる日の光が野の上を暖かそうに照らすのを見ますと、",
+        "sentence_with_furigana": "その 雲間[くもま]からもれる 日[ひ]の 光[ひかり]が 野[の]の 上[うえ]を 暖[あたた]かそうに 照[て]らすのを 見[み]ますと、"
+    },
+    {
+        "id": "f000023",
+        "sentence": "うれしい気持ちがしました。",
+        "sentence_with_furigana": "うれしい 気持[きも]ちがしました。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "すみれは、",
+        "sentence_with_furigana": "すみれは、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "毎朝、",
+        "sentence_with_furigana": "毎朝[まいあさ]、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "太陽が上るころから、",
+        "sentence_with_furigana": "太陽[たいよう]が 上[のぼ]るころから、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "日の暮れるころまで、",
+        "sentence_with_furigana": "日[ひ]の 暮[く]れるころまで、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "そのいい小鳥のなき声をききました。",
+        "sentence_with_furigana": "そのいい 小鳥[ことり]のなき 声[ごえ]をききました。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "「どんな鳥だろうか、",
+        "sentence_with_furigana": "「どんな 鳥[とり]だろうか、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "どうか見たいものだ。",
+        "sentence_with_furigana": "どうか 見[み]たいものだ。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "すみれは思いました。",
+        "sentence_with_furigana": "すみれは 思[おも]いました。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "すみれは、",
+        "sentence_with_furigana": "すみれは、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "ついにその鳥の姿を見ずして、",
+        "sentence_with_furigana": "ついにその 鳥[とり]の 姿[すがた]を 見[み]ずして、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "いつしか散る日がきたのであります。",
+        "sentence_with_furigana": "いつしか 散[ち]る 日[ひ]がきたのであります。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "ちょうどかたわらに生えていた、",
+        "sentence_with_furigana": "ちょうどかたわらに 生[は]えていた、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "ぼけの花が咲きかけていました。",
+        "sentence_with_furigana": "ぼけの 花[はな]が 咲[さ]きかけていました。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "すみれが独り言をしてさびしく散ってゆく、",
+        "sentence_with_furigana": "すみれが 独[ひと]り 言[ごと]をしてさびしく 散[ち]ってゆく、"
+    },
+    {
+        "id": "f000042",
+        "sentence": "はかない影を見たのであります。",
+        "sentence_with_furigana": "はかない 影[かげ]を 見[み]たのであります。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "真紅にみごとに咲きました。",
+        "sentence_with_furigana": "真紅[まっか]にみごとに 咲[さ]きました。"
+    },
+    {
+        "id": "f000045",
+        "sentence": "そして日の光に照らされて、",
+        "sentence_with_furigana": "そして 日[ひ]の 光[ひかり]に 照[て]らされて、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "それは美しかったのであります。",
+        "sentence_with_furigana": "それは 美[うつく]しかったのであります。"
+    },
+    {
+        "id": "f000047",
+        "sentence": "ある朝、",
+        "sentence_with_furigana": "ある 朝[あさ]、"
+    },
+    {
+        "id": "f000048",
+        "sentence": "ぼけの枝に、",
+        "sentence_with_furigana": "ぼけの 枝[えだ]に、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "きれいな小鳥が飛んできて、",
+        "sentence_with_furigana": "きれいな 小鳥[ことり]が 飛[と]んできて、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "いい声でなきました。",
+        "sentence_with_furigana": "いい 声[こえ]でなきました。"
+    },
+    {
+        "id": "f000051",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "その小鳥に向かって、",
+        "sentence_with_furigana": "その 小鳥[ことり]に 向[む]かって、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、"
+    },
+    {
+        "id": "f000055",
+        "sentence": "なんといういい声なんですか。",
+        "sentence_with_furigana": "なんといういい 声[こえ]なんですか。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "あなたの声に、",
+        "sentence_with_furigana": "あなたの 声[こえ]に、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、"
+    },
+    {
+        "id": "f000058",
+        "sentence": "すみれさんは憧れていましたか。",
+        "sentence_with_furigana": "すみれさんは 憧[あこが]れていましたか。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "どうか一目あなたの姿を見たいものだといっていましたが、",
+        "sentence_with_furigana": "どうか 一目[ひとめ]あなたの 姿[すがた]を 見[み]たいものだといっていましたが、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "かわいそうに、",
+        "sentence_with_furigana": "かわいそうに、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "二日ばかり前にさびしく散ってしまいました。",
+        "sentence_with_furigana": "二日[ふつか]ばかり 前[まえ]にさびしく 散[ち]ってしまいました。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000064",
+        "sentence": "小鳥に向かっていいました。",
+        "sentence_with_furigana": "小鳥[ことり]に 向[む]かっていいました。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "小鳥は、",
+        "sentence_with_furigana": "小鳥[ことり]は、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "くびをかしげて聞いていましたが、",
+        "sentence_with_furigana": "くびをかしげて 聞[き]いていましたが、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、"
+    },
+    {
+        "id": "f000068",
+        "sentence": "私でない。",
+        "sentence_with_furigana": "私[わたし]でない。"
+    },
+    {
+        "id": "f000069",
+        "sentence": "こちょうのことではありませんか。",
+        "sentence_with_furigana": "こちょうのことではありませんか。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "私みたいな醜い姿を見たとて、",
+        "sentence_with_furigana": "私[わたし]みたいな 醜[みにく]い 姿[すがた]を 見[み]たとて、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "なんで目を楽しませることがあるもんですか。",
+        "sentence_with_furigana": "なんで 目[め]を 楽[たの]しませることがあるもんですか。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "小鳥は答えた。",
+        "sentence_with_furigana": "小鳥[ことり]は 答[こた]えた。"
+    },
+    {
+        "id": "f000074",
+        "sentence": "「こちょうの姿は、",
+        "sentence_with_furigana": "「こちょうの 姿[すがた]は、"
+    },
+    {
+        "id": "f000075",
+        "sentence": "そんなにきれいなんですか。",
+        "sentence_with_furigana": "そんなにきれいなんですか。"
+    },
+    {
+        "id": "f000076",
+        "sentence": "あなたの姿よりも、",
+        "sentence_with_furigana": "あなたの 姿[すがた]よりも、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "もっときれいなんですか。",
+        "sentence_with_furigana": "もっときれいなんですか。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000079",
+        "sentence": "ぼけの花は驚いてききました。",
+        "sentence_with_furigana": "ぼけの 花[はな]は 驚[おどろ]いてききました。"
+    },
+    {
+        "id": "f000080",
+        "sentence": "「私はいい声で唄をうたいますが、",
+        "sentence_with_furigana": "「 私[わたし]はいい 声[こえ]で 唄[うた]をうたいますが、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "こちょうは黙っています。",
+        "sentence_with_furigana": "こちょうは 黙[だま]っています。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "そのかわり私よりも幾倍となくきれいなんです。",
+        "sentence_with_furigana": "そのかわり 私[わたし]よりも 幾倍[いくばい]となくきれいなんです。"
+    },
+    {
+        "id": "f000083",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000084",
+        "sentence": "小鳥は答えて、",
+        "sentence_with_furigana": "小鳥[ことり]は 答[こた]えて、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "やがてどこにか飛び去ってしまいました。",
+        "sentence_with_furigana": "やがてどこにか 飛[と]び 去[さ]ってしまいました。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "そのときから一目こちょうを見たいものだと、",
+        "sentence_with_furigana": "そのときから 一目[ひとめ]こちょうを 見[み]たいものだと、"
+    },
+    {
+        "id": "f000088",
+        "sentence": "その姿に憧れました。",
+        "sentence_with_furigana": "その 姿[すがた]に 憧[あこが]れました。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、"
+    },
+    {
+        "id": "f000090",
+        "sentence": "まだ野原の上は寒くて、",
+        "sentence_with_furigana": "まだ 野原[のはら]の 上[うえ]は 寒[さむ]くて、"
+    },
+    {
+        "id": "f000091",
+        "sentence": "弱いこちょうは飛んでいませんでした。",
+        "sentence_with_furigana": "弱[よわ]いこちょうは 飛[と]んでいませんでした。"
+    },
+    {
+        "id": "f000092",
+        "sentence": "ある風の強い日の暮れ方に、",
+        "sentence_with_furigana": "ある 風[かぜ]の 強[つよ]い 日[ひ]の 暮[く]れ 方[がた]に、"
+    },
+    {
+        "id": "f000093",
+        "sentence": "そのぼけの花は音もなく散って、",
+        "sentence_with_furigana": "そのぼけの 花[はな]は 音[おと]もなく 散[ち]って、"
+    },
+    {
+        "id": "f000094",
+        "sentence": "土に帰らなければなりませんでした。",
+        "sentence_with_furigana": "土[つち]に 帰[かえ]らなければなりませんでした。"
+    },
+    {
+        "id": "f000095",
+        "sentence": "ついに、",
+        "sentence_with_furigana": "ついに、"
+    },
+    {
+        "id": "f000096",
+        "sentence": "ぼけの花は、",
+        "sentence_with_furigana": "ぼけの 花[はな]は、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "こちょうを見ずにしまったのです。",
+        "sentence_with_furigana": "こちょうを 見[み]ずにしまったのです。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、"
+    },
+    {
+        "id": "f000099",
+        "sentence": "幾日かたつと、",
+        "sentence_with_furigana": "幾日[いくにち]かたつと、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "野の上は暖かで、",
+        "sentence_with_furigana": "野[の]の 上[うえ]は 暖[あたた]かで、"
+    },
+    {
+        "id": "f000101",
+        "sentence": "そこには、",
+        "sentence_with_furigana": "そこには、"
+    },
+    {
+        "id": "f000102",
+        "sentence": "いろいろな花が咲き誇っていました。",
+        "sentence_with_furigana": "いろいろな 花[はな]が 咲[さ]き 誇[ほこ]っていました。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "はねの美しいこちょうは、",
+        "sentence_with_furigana": "はねの 美[うつく]しいこちょうは、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "黄色く炎の燃えるように咲き誇ったたんぽぽの花の上に止まっていました。",
+        "sentence_with_furigana": "黄色[きいろ]く 炎[ほのお]の 燃[も]えるように 咲[さ]き 誇[ほこ]ったたんぽぽの 花[はな]の 上[うえ]に 止[と]まっていました。"
+    },
+    {
+        "id": "f000105",
+        "sentence": "ほかのいろいろの多くの花は、",
+        "sentence_with_furigana": "ほかのいろいろの 多[おお]くの 花[はな]は、"
+    },
+    {
+        "id": "f000106",
+        "sentence": "みんなそのたんぽぽの花をうらやましく思っていたのです。",
+        "sentence_with_furigana": "みんなそのたんぽぽの 花[はな]をうらやましく 思[おも]っていたのです。"
+    },
+    {
+        "id": "f000107",
+        "sentence": "その時分には、",
+        "sentence_with_furigana": "その 時分[じぶん]には、"
+    },
+    {
+        "id": "f000108",
+        "sentence": "いつか小鳥の声をきいて、",
+        "sentence_with_furigana": "いつか 小鳥[ことり]の 声[こえ]をきいて、"
+    },
+    {
+        "id": "f000109",
+        "sentence": "その姿を見たいといっていたすみれの花も、",
+        "sentence_with_furigana": "その 姿[すがた]を 見[み]たいといっていたすみれの 花[はな]も、"
+    },
+    {
+        "id": "f000110",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、"
+    },
+    {
+        "id": "f000111",
+        "sentence": "小鳥からこちょうの姿をきいて、",
+        "sentence_with_furigana": "小鳥[ことり]からこちょうの 姿[すがた]をきいて、"
+    },
+    {
+        "id": "f000112",
+        "sentence": "一目見たいといっていたぼけの花も、",
+        "sentence_with_furigana": "一目[ひとめ] 見[み]たいといっていたぼけの 花[はな]も、"
+    },
+    {
+        "id": "f000113",
+        "sentence": "朽ちて土となって、",
+        "sentence_with_furigana": "朽[く]ちて 土[つち]となって、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "まったくその影をとどめなかったのでありました。",
+        "sentence_with_furigana": "まったくその 影[かげ]をとどめなかったのでありました。"
+    },
+    {
+        "id": "f000115",
+        "sentence": "たんぽぽの花は、",
+        "sentence_with_furigana": "たんぽぽの 花[はな]は、"
+    },
+    {
+        "id": "f000116",
+        "sentence": "こちょうと楽しく話をしていました。",
+        "sentence_with_furigana": "こちょうと 楽[たの]しく 話[はなし]をしていました。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "それは静かな、",
+        "sentence_with_furigana": "それは 静[しず]かな、"
+    },
+    {
+        "id": "f000118",
+        "sentence": "いい日でありました。",
+        "sentence_with_furigana": "いい 日[ひ]でありました。"
+    },
+    {
+        "id": "f000119",
+        "sentence": "たちまち、",
+        "sentence_with_furigana": "たちまち、"
+    },
+    {
+        "id": "f000120",
+        "sentence": "カッポ、",
+        "sentence_with_furigana": "カッポ、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "カッポという地に響く音が聞こえました。",
+        "sentence_with_furigana": "カッポという 地[ち]に 響[ひび]く 音[おと]が 聞[き]こえました。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "「なんだろう。",
+        "sentence_with_furigana": "「なんだろう。"
+    },
+    {
+        "id": "f000123",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000124",
+        "sentence": "たんぽぽの花はいいました。",
+        "sentence_with_furigana": "たんぽぽの 花[はな]はいいました。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "「なにか、",
+        "sentence_with_furigana": "「なにか、"
+    },
+    {
+        "id": "f000126",
+        "sentence": "怖ろしいものが、",
+        "sentence_with_furigana": "怖[おそ]ろしいものが、"
+    },
+    {
+        "id": "f000127",
+        "sentence": "こちらへやってくるようだ。",
+        "sentence_with_furigana": "こちらへやってくるようだ。"
+    },
+    {
+        "id": "f000128",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000129",
+        "sentence": "こちょうはいいました。",
+        "sentence_with_furigana": "こちょうはいいました。"
+    },
+    {
+        "id": "f000130",
+        "sentence": "「どうかこちょうさん、",
+        "sentence_with_furigana": "「どうかこちょうさん、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "私のそばにいてください。",
+        "sentence_with_furigana": "私[わたし]のそばにいてください。"
+    },
+    {
+        "id": "f000132",
+        "sentence": "私は怖ろしくてしかたがない。",
+        "sentence_with_furigana": "私[わたし]は 怖[おそ]ろしくてしかたがない。"
+    },
+    {
+        "id": "f000133",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000134",
+        "sentence": "たんぽぽの花は震えながらいいました。",
+        "sentence_with_furigana": "たんぽぽの 花[はな]は 震[ふる]えながらいいました。"
+    },
+    {
+        "id": "f000135",
+        "sentence": "「私は、",
+        "sentence_with_furigana": "「 私[わたし]は、"
+    },
+    {
+        "id": "f000136",
+        "sentence": "こうしてはいられませんよ。",
+        "sentence_with_furigana": "こうしてはいられませんよ。"
+    },
+    {
+        "id": "f000137",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、"
+    },
+    {
+        "id": "f000138",
+        "sentence": "こちょうはいって、",
+        "sentence_with_furigana": "こちょうはいって、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "花の上から飛びたちました。",
+        "sentence_with_furigana": "花[はな]の 上[うえ]から 飛[と]びたちました。"
+    },
+    {
+        "id": "f000140",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、"
+    },
+    {
+        "id": "f000141",
+        "sentence": "カッポ、",
+        "sentence_with_furigana": "カッポ、"
+    },
+    {
+        "id": "f000142",
+        "sentence": "カッポの音は近づきました。",
+        "sentence_with_furigana": "カッポの 音[おと]は 近[ちか]づきました。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "百姓にひかれて、",
+        "sentence_with_furigana": "百 姓[しょう]にひかれて、"
+    },
+    {
+        "id": "f000144",
+        "sentence": "大きな馬がその路を通ったのです。",
+        "sentence_with_furigana": "大[おお]きな 馬[うま]がその 路[みち]を 通[とお]ったのです。"
+    },
+    {
+        "id": "f000145",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、"
+    },
+    {
+        "id": "f000146",
+        "sentence": "路傍に咲いているたんぽぽの花は馬に踏まれて砕かれてしまいました。",
+        "sentence_with_furigana": "路傍[ろぼう]に 咲[さ]いているたんぽぽの 花[はな]は 馬[うま]に 踏[ふ]まれて 砕[くだ]かれてしまいました。"
+    },
+    {
+        "id": "f000147",
+        "sentence": "野原の上は静かになりました。",
+        "sentence_with_furigana": "野原[のはら]の 上[うえ]は 静[しず]かになりました。"
+    },
+    {
+        "id": "f000148",
+        "sentence": "あくる日もあくる日もいい天気で、",
+        "sentence_with_furigana": "あくる 日[ひ]もあくる 日[ひ]もいい 天気[てんき]で、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "もう馬は通らなかった。",
+        "sentence_with_furigana": "もう 馬[うま]は 通[とお]らなかった。"
+    }
+]

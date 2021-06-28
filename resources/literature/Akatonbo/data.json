@@ -1,27 +1,5 @@
 [
     {
-        "id": "Akatonbo-f000001",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "新美南吉　作",
-        "sentence_with_furigana": "新美南吉　作",
-        "word_base_list": [
-            "新美",
-            "南吉",
-            " ",
-            "作"
-        ],
-        "word_list": [
-            "新美",
-            "南吉",
-            "　",
-            "作"
-        ],
-        "sound": "f000001.mp3"
-    },
-    {
         "id": "Akatonbo-f000002",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -36,18 +14,6 @@
             "赤とんぼ"
         ],
         "sound": "f000002.mp3"
-    },
-    {
-        "id": "Akatonbo-E000002",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000002.mp3"
     },
     {
         "id": "Akatonbo-f000003",
@@ -268,18 +234,6 @@
         "sound": "f000010.mp3"
     },
     {
-        "id": "Akatonbo-E000010",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000010.mp3"
-    },
-    {
         "id": "Akatonbo-f000011",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -394,18 +348,6 @@
             "。"
         ],
         "sound": "f000014.mp3"
-    },
-    {
-        "id": "Akatonbo-S000015",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000015.mp3"
     },
     {
         "id": "Akatonbo-f000015",
@@ -530,18 +472,6 @@
             "。"
         ],
         "sound": "f000018.mp3"
-    },
-    {
-        "id": "Akatonbo-E000018",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000018.mp3"
     },
     {
         "id": "Akatonbo-f000019",
@@ -700,18 +630,6 @@
         "sound": "f000023.mp3"
     },
     {
-        "id": "Akatonbo-E000023",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000023.mp3"
-    },
-    {
         "id": "Akatonbo-f000024",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -852,18 +770,6 @@
             "。"
         ],
         "sound": "f000028.mp3"
-    },
-    {
-        "id": "Akatonbo-E000028",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000028.mp3"
     },
     {
         "id": "Akatonbo-f000029",
@@ -1236,18 +1142,6 @@
             "。"
         ],
         "sound": "f000041.mp3"
-    },
-    {
-        "id": "Akatonbo-S000042",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000042.mp3"
     },
     {
         "id": "Akatonbo-f000042",
@@ -1812,18 +1706,6 @@
         "sound": "f000063.mp3"
     },
     {
-        "id": "Akatonbo-S000064",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000064.mp3"
-    },
-    {
         "id": "Akatonbo-f000064",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -1874,18 +1756,6 @@
             "。"
         ],
         "sound": "f000065.mp3"
-    },
-    {
-        "id": "Akatonbo-S000066",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000066.mp3"
     },
     {
         "id": "Akatonbo-f000066",
@@ -2110,18 +1980,6 @@
             "。"
         ],
         "sound": "f000073.mp3"
-    },
-    {
-        "id": "Akatonbo-S000074",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000074.mp3"
     },
     {
         "id": "Akatonbo-f000074",
@@ -2772,18 +2630,6 @@
         "sound": "f000099.mp3"
     },
     {
-        "id": "Akatonbo-E000099",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000099.mp3"
-    },
-    {
         "id": "Akatonbo-f000100",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -3284,18 +3130,6 @@
         "sound": "f000117.mp3"
     },
     {
-        "id": "Akatonbo-S000118",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000118.mp3"
-    },
-    {
         "id": "Akatonbo-f000118",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -3426,18 +3260,6 @@
         "sound": "f000122.mp3"
     },
     {
-        "id": "Akatonbo-E000122",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000122.mp3"
-    },
-    {
         "id": "Akatonbo-f000123",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -3520,18 +3342,6 @@
             "。"
         ],
         "sound": "f000125.mp3"
-    },
-    {
-        "id": "Akatonbo-E000125",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000125.mp3"
     },
     {
         "id": "Akatonbo-f000126",
@@ -4030,18 +3840,6 @@
         "sound": "f000144.mp3"
     },
     {
-        "id": "Akatonbo-E000144",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000144.mp3"
-    },
-    {
         "id": "Akatonbo-f000145",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -4096,18 +3894,6 @@
         "sound": "f000146.mp3"
     },
     {
-        "id": "Akatonbo-S000147",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000147.mp3"
-    },
-    {
         "id": "Akatonbo-f000147",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -4158,18 +3944,6 @@
             "─"
         ],
         "sound": "f000148.mp3"
-    },
-    {
-        "id": "Akatonbo-E000148",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000148.mp3"
     },
     {
         "id": "Akatonbo-f000149",
@@ -4354,18 +4128,6 @@
             "。"
         ],
         "sound": "f000154.mp3"
-    },
-    {
-        "id": "Akatonbo-E000154",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000154.mp3"
     },
     {
         "id": "Akatonbo-f000155",
@@ -4694,18 +4456,6 @@
             "。"
         ],
         "sound": "f000167.mp3"
-    },
-    {
-        "id": "Akatonbo-S000168",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000168.mp3"
     },
     {
         "id": "Akatonbo-f000168",
@@ -5854,18 +5604,6 @@
         "sound": "f000209.mp3"
     },
     {
-        "id": "Akatonbo-E000209",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000209.mp3"
-    },
-    {
         "id": "Akatonbo-f000210",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -6066,18 +5804,6 @@
         "sound": "f000217.mp3"
     },
     {
-        "id": "Akatonbo-E000217",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000217.mp3"
-    },
-    {
         "id": "Akatonbo-f000218",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -6210,18 +5936,6 @@
         "sound": "f000222.mp3"
     },
     {
-        "id": "Akatonbo-S000223",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000223.mp3"
-    },
-    {
         "id": "Akatonbo-f000223",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -6274,18 +5988,6 @@
             "。"
         ],
         "sound": "f000224.mp3"
-    },
-    {
-        "id": "Akatonbo-S000225",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000225.mp3"
     },
     {
         "id": "Akatonbo-f000225",
@@ -7420,18 +7122,6 @@
         "sound": "f000264.mp3"
     },
     {
-        "id": "Akatonbo-E000264",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000264.mp3"
-    },
-    {
         "id": "Akatonbo-f000265",
         "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
@@ -7478,18 +7168,6 @@
             "」"
         ],
         "sound": "f000266.mp3"
-    },
-    {
-        "id": "Akatonbo-S000267",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "S000267.mp3"
     },
     {
         "id": "Akatonbo-f000267",
@@ -7868,17 +7546,5 @@
             "。"
         ],
         "sound": "f000280.mp3"
-    },
-    {
-        "id": "Akatonbo-E000280",
-        "author": "Nankichi Niimi",
-        "author_japanese": "新美 南吉",
-        "deck_name": "Akatonbo",
-        "deck_name_japanese": "赤とんぼ",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "E000280.mp3"
     }
 ]

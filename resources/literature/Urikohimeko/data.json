@@ -1,0 +1,6998 @@
+[
+    {
+        "id": "Urikohimeko-f000002",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子",
+        "sentence_with_furigana": "瓜子姫子",
+        "word_base_list": [
+            "瓜子姫",
+            "子"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000003",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "一",
+        "sentence_with_furigana": "一",
+        "word_base_list": [
+            "1"
+        ],
+        "word_list": [
+            "一"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000004",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "むかし、",
+        "sentence_with_furigana": "むかし、",
+        "word_base_list": [
+            "昔",
+            "、"
+        ],
+        "word_list": [
+            "むかし",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000005",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "むかし、",
+        "sentence_with_furigana": "むかし、",
+        "word_base_list": [
+            "昔",
+            "、"
+        ],
+        "word_list": [
+            "むかし",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000006",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんがありました。",
+        "sentence_with_furigana": "おじいさんとおばあさんがありました。",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "が",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "が",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000007",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ある日おじいさんは山へしば刈りに行きました。",
+        "sentence_with_furigana": "ある日おじいさんは山へしば 刈[か]りに行きました。",
+        "word_base_list": [
+            "或る",
+            "日",
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "山",
+            "へ",
+            "為る",
+            "ば",
+            "刈り",
+            "に",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "山",
+            "へ",
+            "し",
+            "ば",
+            "刈り",
+            "に",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000008",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんは川へ洗濯に行きました。",
+        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に行きました。",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "川",
+            "へ",
+            "洗濯",
+            "に",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "川",
+            "へ",
+            "洗濯",
+            "に",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000009",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんが川でぼちゃぼちゃ洗濯をしていますと、",
+        "sentence_with_furigana": "おばあさんが川でぼちゃぼちゃ 洗濯[せんたく]をしていますと、",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "が",
+            "川",
+            "で",
+            "ぼちゃぼちゃ",
+            "洗濯",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "が",
+            "川",
+            "で",
+            "ぼちゃぼちゃ",
+            "洗濯",
+            "を",
+            "し",
+            "て",
+            "い",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000010",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "向こうから大きな瓜が一つ、",
+        "sentence_with_furigana": "向[む]こうから大きな 瓜[うり]が一つ、",
+        "word_base_list": [
+            "向こう",
+            "から",
+            "大きな",
+            "瓜",
+            "が",
+            "1",
+            "つ",
+            "、"
+        ],
+        "word_list": [
+            "向こう",
+            "から",
+            "大きな",
+            "瓜",
+            "が",
+            "一",
+            "つ",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000011",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぽっかり、",
+        "sentence_with_furigana": "ぽっかり、",
+        "word_base_list": [
+            "ぽっかり",
+            "、"
+        ],
+        "word_list": [
+            "ぽっかり",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000012",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぽっかり、",
+        "sentence_with_furigana": "ぽっかり、",
+        "word_base_list": [
+            "ぽっかり",
+            "、"
+        ],
+        "word_list": [
+            "ぽっかり",
+            "、"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000013",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "流れて来ました。",
+        "sentence_with_furigana": "流[なが]れて 来[き]ました。",
+        "word_base_list": [
+            "流れる",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "流れ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000014",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんはそれを見て、",
+        "sentence_with_furigana": "おばあさんはそれを 見[み]て、",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "其れ",
+            "を",
+            "見る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "それ",
+            "を",
+            "見",
+            "て",
+            "、"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000015",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「おやおや、",
+        "sentence_with_furigana": "「おやおや、",
+        "word_base_list": [
+            "「",
+            "御",
+            "八百屋",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "やおや",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000016",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "まあ。",
+        "sentence_with_furigana": "まあ。",
+        "word_base_list": [
+            "まあ",
+            "。"
+        ],
+        "word_list": [
+            "まあ",
+            "。"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000017",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "めずらしい大きな瓜だこと、",
+        "sentence_with_furigana": "めずらしい大きな 瓜[うり]だこと、",
+        "word_base_list": [
+            "珍しい",
+            "大きな",
+            "瓜",
+            "だ",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "めずらしい",
+            "大きな",
+            "瓜",
+            "だ",
+            "こと",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000018",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "さぞおいしいでしょう。",
+        "sentence_with_furigana": "さぞおいしいでしょう。",
+        "word_base_list": [
+            "嘸",
+            "美味しい",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "さぞ",
+            "おいしい",
+            "でしょう",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000019",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "うちへ持って帰って、",
+        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]って、",
+        "word_base_list": [
+            "内",
+            "へ",
+            "持つ",
+            "て",
+            "帰る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "うち",
+            "へ",
+            "持っ",
+            "て",
+            "帰っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000020",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんと二人で食べましょう。」",
+        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょう。」",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "二人",
+            "で",
+            "食べる",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "二人",
+            "で",
+            "食べ",
+            "ましょう",
+            "。",
+            "」"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000021",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいいい、",
+        "sentence_with_furigana": "といいいい、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "言う",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "いい",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000022",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "つえの先で瓜をかき寄せて、",
+        "sentence_with_furigana": "つえの 先[さき]で 瓜[うり]をかき 寄[よ]せて、",
+        "word_base_list": [
+            "杖",
+            "の",
+            "先",
+            "で",
+            "瓜",
+            "を",
+            "かく",
+            "寄せる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "つえ",
+            "の",
+            "先",
+            "で",
+            "瓜",
+            "を",
+            "かき",
+            "寄せ",
+            "て",
+            "、"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000023",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "拾い上げて、",
+        "sentence_with_furigana": "拾[ひろ]い 上[あ]げて、",
+        "word_base_list": [
+            "拾う",
+            "上げる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "拾い",
+            "上げ",
+            "て",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000024",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "うちへ持って帰りました。",
+        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]りました。",
+        "word_base_list": [
+            "内",
+            "へ",
+            "持つ",
+            "て",
+            "帰る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "うち",
+            "へ",
+            "持っ",
+            "て",
+            "帰り",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000025",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "夕方になると、",
+        "sentence_with_furigana": "夕方[ゆうがた]になると、",
+        "word_base_list": [
+            "夕方",
+            "に",
+            "成る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "夕方",
+            "に",
+            "なる",
+            "と",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000026",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんはいつものとおり、",
+        "sentence_with_furigana": "おじいさんはいつものとおり、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "通り",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "とおり",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000027",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しばをしょって山から帰って来ました。",
+        "sentence_with_furigana": "しばをしょって山から 帰[かえ]って 来[き]ました。",
+        "word_base_list": [
+            "しば",
+            "を",
+            "背負う",
+            "て",
+            "山",
+            "から",
+            "帰る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しば",
+            "を",
+            "しょっ",
+            "て",
+            "山",
+            "から",
+            "帰っ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000028",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんはにこにこしながら出迎えて、",
+        "sentence_with_furigana": "おばあさんはにこにこしながら 出迎[でむか]えて、",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "にこにこ",
+            "為る",
+            "ながら",
+            "出る",
+            "迎える",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "にこにこ",
+            "し",
+            "ながら",
+            "出",
+            "迎え",
+            "て",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000029",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「おやおや、",
+        "sentence_with_furigana": "「おやおや、",
+        "word_base_list": [
+            "「",
+            "御",
+            "八百屋",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "やおや",
+            "、"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000030",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさん、",
+        "sentence_with_furigana": "おじいさん、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000031",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お帰りかえ。",
+        "sentence_with_furigana": "お 帰[かえ]りかえ。",
+        "word_base_list": [
+            "御",
+            "帰り",
+            "か",
+            "え",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "帰り",
+            "か",
+            "え",
+            "。"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000032",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "きょうはおじいさんのお好きな、",
+        "sentence_with_furigana": "きょうはおじいさんのお 好[す]きな、",
+        "word_base_list": [
+            "今日",
+            "は",
+            "御",
+            "爺",
+            "さん",
+            "の",
+            "御",
+            "好き",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "きょう",
+            "は",
+            "お",
+            "じい",
+            "さん",
+            "の",
+            "お",
+            "好き",
+            "な",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000033",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "いいものを川で拾って来ましたから、",
+        "sentence_with_furigana": "いいものを川で 拾[ひろ]って 来[き]ましたから、",
+        "word_base_list": [
+            "良い",
+            "物",
+            "を",
+            "川",
+            "で",
+            "拾う",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "いい",
+            "もの",
+            "を",
+            "川",
+            "で",
+            "拾っ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000034",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんと二人で食べましょうと思って、",
+        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょうと 思[おも]って、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "二人",
+            "で",
+            "食べる",
+            "ます",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "二人",
+            "で",
+            "食べ",
+            "ましょう",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000035",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "さっきから待っていたのですよ。」",
+        "sentence_with_furigana": "さっきから 待[ま]っていたのですよ。」",
+        "word_base_list": [
+            "さっき",
+            "から",
+            "待つ",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "です",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "さっき",
+            "から",
+            "待っ",
+            "て",
+            "い",
+            "た",
+            "の",
+            "です",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000036",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といって、",
+        "sentence_with_furigana": "といって、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000037",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "拾って来た瓜を出して見せました。",
+        "sentence_with_furigana": "拾[ひろ]って 来[き]た 瓜[うり]を 出[だ]して 見[み]せました。",
+        "word_base_list": [
+            "拾う",
+            "て",
+            "来る",
+            "た",
+            "瓜",
+            "を",
+            "出す",
+            "て",
+            "見せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "拾っ",
+            "て",
+            "来",
+            "た",
+            "瓜",
+            "を",
+            "出し",
+            "て",
+            "見せ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000038",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「ほう、",
+        "sentence_with_furigana": "「ほう、",
+        "word_base_list": [
+            "「",
+            "ほう",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ほう",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000039",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ほう、",
+        "sentence_with_furigana": "ほう、",
+        "word_base_list": [
+            "ほう",
+            "、"
+        ],
+        "word_list": [
+            "ほう",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000040",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "これはめずらしい大きな瓜だ。",
+        "sentence_with_furigana": "これはめずらしい大きな 瓜[うり]だ。",
+        "word_base_list": [
+            "此れ",
+            "は",
+            "珍しい",
+            "大きな",
+            "瓜",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "これ",
+            "は",
+            "めずらしい",
+            "大きな",
+            "瓜",
+            "だ",
+            "。"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000041",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "さぞおいしいだろう。",
+        "sentence_with_furigana": "さぞおいしいだろう。",
+        "word_base_list": [
+            "嘸",
+            "美味しい",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "さぞ",
+            "おいしい",
+            "だろう",
+            "。"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000042",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "早く食べたいなあ。」",
+        "sentence_with_furigana": "早[はや]く 食[た]べたいなあ。」",
+        "word_base_list": [
+            "早い",
+            "食べる",
+            "たい",
+            "な",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "早く",
+            "食べ",
+            "たい",
+            "なあ",
+            "。",
+            "」"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000043",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000044",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんはいいました。",
+        "sentence_with_furigana": "おじいさんはいいました。",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000045",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そこでおばあさんは、",
+        "sentence_with_furigana": "そこでおばあさんは、",
+        "word_base_list": [
+            "其処",
+            "で",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "で",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000046",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "台所から庖丁を持って来て、",
+        "sentence_with_furigana": "台所[だいどころ]から 庖丁[ほうちょう]を 持[も]って 来[き]て、",
+        "word_base_list": [
+            "台所",
+            "から",
+            "包丁",
+            "を",
+            "持つ",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "台所",
+            "から",
+            "庖丁",
+            "を",
+            "持っ",
+            "て",
+            "来",
+            "て",
+            "、"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000047",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜を二つに割ろうとしますと、",
+        "sentence_with_furigana": "瓜[うり]を二つに 割[わ]ろうとしますと、",
+        "word_base_list": [
+            "瓜",
+            "を",
+            "2",
+            "つ",
+            "に",
+            "割る",
+            "と",
+            "為る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "瓜",
+            "を",
+            "二",
+            "つ",
+            "に",
+            "割ろう",
+            "と",
+            "し",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000048",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜はひとりでに中からぽんと割れて、",
+        "sentence_with_furigana": "瓜[うり]はひとりでに中からぽんと 割[わ]れて、",
+        "word_base_list": [
+            "瓜",
+            "は",
+            "独りでに",
+            "中",
+            "から",
+            "ぽん",
+            "と",
+            "割る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "瓜",
+            "は",
+            "ひとりでに",
+            "中",
+            "から",
+            "ぽん",
+            "と",
+            "割れ",
+            "て",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000049",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "かわいらしい女の子がとび出しました。",
+        "sentence_with_furigana": "かわいらしい女の子がとび 出[だ]しました。",
+        "word_base_list": [
+            "可愛らしい",
+            "女の子",
+            "が",
+            "飛ぶ",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "かわいらしい",
+            "女の子",
+            "が",
+            "とび",
+            "出し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000050",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「おやおや、",
+        "sentence_with_furigana": "「おやおや、",
+        "word_base_list": [
+            "「",
+            "御",
+            "八百屋",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "やおや",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000051",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "まあ」",
+        "sentence_with_furigana": "まあ」",
+        "word_base_list": [
+            "まあ",
+            "」"
+        ],
+        "word_list": [
+            "まあ",
+            "」"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000052",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といったまま、",
+        "sentence_with_furigana": "といったまま、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "た",
+            "侭",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "た",
+            "まま",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000053",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんもおばあさんも、",
+        "sentence_with_furigana": "おじいさんもおばあさんも、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "も",
+            "御",
+            "婆",
+            "さん",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "も",
+            "お",
+            "ばあ",
+            "さん",
+            "も",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000054",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "びっくりして腰を抜かしてしまいました。",
+        "sentence_with_furigana": "びっくりして 腰[こし]を 抜[ぬ]かしてしまいました。",
+        "word_base_list": [
+            "びっくり",
+            "為る",
+            "て",
+            "腰",
+            "を",
+            "抜かす",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "びっくり",
+            "し",
+            "て",
+            "腰",
+            "を",
+            "抜かし",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000055",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しばらくしておじいさんが、",
+        "sentence_with_furigana": "しばらくしておじいさんが、",
+        "word_base_list": [
+            "暫く",
+            "為る",
+            "て",
+            "御",
+            "爺",
+            "さん",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "しばらく",
+            "し",
+            "て",
+            "お",
+            "じい",
+            "さん",
+            "が",
+            "、"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000056",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「これはきっと、",
+        "sentence_with_furigana": "「これはきっと、",
+        "word_base_list": [
+            "「",
+            "此れ",
+            "は",
+            "きっと",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "これ",
+            "は",
+            "きっと",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000057",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "わたしたちに子供の無いのをかわいそうに思って、",
+        "sentence_with_furigana": "わたしたちに 子供[こども]の 無[な]いのをかわいそうに 思[おも]って、",
+        "word_base_list": [
+            "私",
+            "達",
+            "に",
+            "子供",
+            "の",
+            "無い",
+            "の",
+            "を",
+            "可哀想",
+            "だ",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "わたし",
+            "たち",
+            "に",
+            "子供",
+            "の",
+            "無い",
+            "の",
+            "を",
+            "かわいそう",
+            "に",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000058",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "神さまがさずけて下さったものにちがいない。",
+        "sentence_with_furigana": "神[かみ]さまがさずけて 下[くだ]さったものにちがいない。",
+        "word_base_list": [
+            "神",
+            "様",
+            "が",
+            "授ける",
+            "て",
+            "下さる",
+            "た",
+            "物",
+            "に",
+            "違い",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "神",
+            "さま",
+            "が",
+            "さずけ",
+            "て",
+            "下さっ",
+            "た",
+            "もの",
+            "に",
+            "ちがい",
+            "ない",
+            "。"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000059",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "だいじに育ててやりましょう。」",
+        "sentence_with_furigana": "だいじに 育[そだ]ててやりましょう。」",
+        "word_base_list": [
+            "大事",
+            "だ",
+            "育つ",
+            "て",
+            "遣る",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "だいじ",
+            "に",
+            "育て",
+            "て",
+            "やり",
+            "ましょう",
+            "。",
+            "」"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000060",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「そうですとも。",
+        "sentence_with_furigana": "「そうですとも。",
+        "word_base_list": [
+            "「",
+            "そう",
+            "です",
+            "とも",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "そう",
+            "です",
+            "とも",
+            "。"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000061",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ごらんなさい。",
+        "sentence_with_furigana": "ごらんなさい。",
+        "word_base_list": [
+            "御覧",
+            "為す",
+            "。"
+        ],
+        "word_list": [
+            "ごらん",
+            "なさい",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000062",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "まあ、",
+        "sentence_with_furigana": "まあ、",
+        "word_base_list": [
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "まあ",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000063",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "かわいらしい顔をして、",
+        "sentence_with_furigana": "かわいらしい 顔[かお]をして、",
+        "word_base_list": [
+            "可愛らしい",
+            "顔",
+            "を",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "かわいらしい",
+            "顔",
+            "を",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000064",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "にこにこ笑っていますよ。」",
+        "sentence_with_furigana": "にこにこ 笑[わら]っていますよ。」",
+        "word_base_list": [
+            "にこにこ",
+            "笑う",
+            "て",
+            "居る",
+            "ます",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "にこにこ",
+            "笑っ",
+            "て",
+            "い",
+            "ます",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000065",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000066",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんはいいました。",
+        "sentence_with_furigana": "おばあさんはいいました。",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000067",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そこでおじいさんとおばあさんは、",
+        "sentence_with_furigana": "そこでおじいさんとおばあさんは、",
+        "word_base_list": [
+            "其処",
+            "で",
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "で",
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000068",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あわててお湯をわかして、",
+        "sentence_with_furigana": "あわててお 湯[ゆう]をわかして、",
+        "word_base_list": [
+            "慌てる",
+            "て",
+            "御",
+            "湯",
+            "を",
+            "わく",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あわて",
+            "て",
+            "お",
+            "湯",
+            "を",
+            "わかし",
+            "て",
+            "、"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000069",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "赤ちゃんにお湯をつかわせて、",
+        "sentence_with_furigana": "赤[あか]ちゃんにお 湯[ゆう]をつかわせて、",
+        "word_base_list": [
+            "赤ちゃん",
+            "に",
+            "御",
+            "湯",
+            "を",
+            "使う",
+            "せる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "赤ちゃん",
+            "に",
+            "お",
+            "湯",
+            "を",
+            "つかわ",
+            "せ",
+            "て",
+            "、"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000070",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "温い着物の中にくるんで、",
+        "sentence_with_furigana": "温[あたたか]い 着物[きもの]の中にくるんで、",
+        "word_base_list": [
+            "温い",
+            "着物",
+            "の",
+            "中",
+            "に",
+            "来る",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "温い",
+            "着物",
+            "の",
+            "中",
+            "に",
+            "くる",
+            "ん",
+            "で",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000071",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "かわいがって育てました。",
+        "sentence_with_furigana": "かわいがって 育[そだ]てました。",
+        "word_base_list": [
+            "可愛い",
+            "がる",
+            "て",
+            "育つ",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "かわい",
+            "がっ",
+            "て",
+            "育て",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000072",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜の中から生まれてきた子だからというので、",
+        "sentence_with_furigana": "瓜[うり]の中から 生[う]まれてきた子だからというので、",
+        "word_base_list": [
+            "瓜",
+            "の",
+            "中",
+            "から",
+            "生まれる",
+            "て",
+            "来る",
+            "た",
+            "子",
+            "だ",
+            "から",
+            "と",
+            "言う",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "瓜",
+            "の",
+            "中",
+            "から",
+            "生まれ",
+            "て",
+            "き",
+            "た",
+            "子",
+            "だ",
+            "から",
+            "と",
+            "いう",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000073",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子という名前をつけました。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]という 名前[なまえ]をつけました。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "と",
+            "言う",
+            "名前",
+            "を",
+            "つける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "と",
+            "いう",
+            "名前",
+            "を",
+            "つけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000074",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子は、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "、"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000075",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "いつまでもかわいらしい小さな女の子でした。",
+        "sentence_with_furigana": "いつまでもかわいらしい 小[ちい]さな女の子でした。",
+        "word_base_list": [
+            "いつ",
+            "まで",
+            "も",
+            "可愛らしい",
+            "小さな",
+            "女の子",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いつ",
+            "まで",
+            "も",
+            "かわいらしい",
+            "小さな",
+            "女の子",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000076",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "でも機を織ることが大すきで、",
+        "sentence_with_furigana": "でも 機[はた]を 織[お]ることが 大[だい]すきで、",
+        "word_base_list": [
+            "で",
+            "も",
+            "機",
+            "を",
+            "織る",
+            "こと",
+            "が",
+            "大好き",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "で",
+            "も",
+            "機",
+            "を",
+            "織る",
+            "こと",
+            "が",
+            "大すき",
+            "で",
+            "、"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000077",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "かわいらしい機をおじいさんにこしらえてもらって、",
+        "sentence_with_furigana": "かわいらしい 機[はた]をおじいさんにこしらえてもらって、",
+        "word_base_list": [
+            "可愛らしい",
+            "機",
+            "を",
+            "御",
+            "爺",
+            "さん",
+            "に",
+            "拵える",
+            "て",
+            "貰う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "かわいらしい",
+            "機",
+            "を",
+            "お",
+            "じい",
+            "さん",
+            "に",
+            "こしらえ",
+            "て",
+            "もらっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000078",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "word_base_list": [
+            "毎日",
+            "、"
+        ],
+        "word_list": [
+            "毎日",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000079",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "word_base_list": [
+            "毎日",
+            "、"
+        ],
+        "word_list": [
+            "毎日",
+            "、"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000080",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000081",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000082",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぎいぎいばったん、",
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "word_base_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "word_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000083",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぎいばったん、",
+        "sentence_with_furigana": "ぎいばったん、",
+        "word_base_list": [
+            "ぎい",
+            "ばったん",
+            "、"
+        ],
+        "word_list": [
+            "ぎい",
+            "ばったん",
+            "、"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000084",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "機を織っていました。",
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "word_base_list": [
+            "機",
+            "を",
+            "織る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "機",
+            "を",
+            "織っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000085",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんはいつものとおり、",
+        "sentence_with_furigana": "おじいさんはいつものとおり、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "通り",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "いつも",
+            "の",
+            "とおり",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000086",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "山へしば刈りに出かけます。",
+        "sentence_with_furigana": "山へしば 刈[か]りに 出[で]かけます。",
+        "word_base_list": [
+            "山",
+            "へ",
+            "為る",
+            "ば",
+            "刈り",
+            "に",
+            "出る",
+            "掛ける",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "山",
+            "へ",
+            "し",
+            "ば",
+            "刈り",
+            "に",
+            "出",
+            "かけ",
+            "ます",
+            "。"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000087",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おばあさんは川へ洗濯に出かけます。",
+        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に 出[で]かけます。",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "川",
+            "へ",
+            "洗濯",
+            "に",
+            "出る",
+            "掛ける",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "川",
+            "へ",
+            "洗濯",
+            "に",
+            "出",
+            "かけ",
+            "ます",
+            "。"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000088",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子はあとに一人、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はあとに 一人[ひとり]、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "後",
+            "に",
+            "一人",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "あと",
+            "に",
+            "一人",
+            "、"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000089",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おとなしくお留守番をして、",
+        "sentence_with_furigana": "おとなしくお 留守番[るすばん]をして、",
+        "word_base_list": [
+            "大人しい",
+            "御",
+            "留守",
+            "番",
+            "を",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "おとなしく",
+            "お",
+            "留守",
+            "番",
+            "を",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000090",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あいかわらず、",
+        "sentence_with_furigana": "あいかわらず、",
+        "word_base_list": [
+            "あいかわらず",
+            "、"
+        ],
+        "word_list": [
+            "あいかわらず",
+            "、"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000091",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000092",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000093",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぎいぎいばったん、",
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "word_base_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "word_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000094",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "機を織っていました。",
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "word_base_list": [
+            "機",
+            "を",
+            "織る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "機",
+            "を",
+            "織っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000095",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんは、",
+        "sentence_with_furigana": "おじいさんとおばあさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000096",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "いつも出がけに瓜子姫子に向かって、",
+        "sentence_with_furigana": "いつも 出[で]がけに 瓜子姫子[うりこひめこ]に 向[む]かって、",
+        "word_base_list": [
+            "いつも",
+            "出掛け",
+            "に",
+            "瓜子姫",
+            "子",
+            "に",
+            "向かう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いつも",
+            "出がけ",
+            "に",
+            "瓜子姫",
+            "子",
+            "に",
+            "向かっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000097",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「この山の上には、",
+        "sentence_with_furigana": "「この山の上には、",
+        "word_base_list": [
+            "「",
+            "此の",
+            "山",
+            "の",
+            "上",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "山",
+            "の",
+            "上",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000098",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくというわるものが住んでいる。",
+        "sentence_with_furigana": "あまんじゃくというわるものが 住[す]んでいる。",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "と",
+            "言う",
+            "悪者",
+            "が",
+            "住む",
+            "で",
+            "居る",
+            "。"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "と",
+            "いう",
+            "わるもの",
+            "が",
+            "住ん",
+            "で",
+            "いる",
+            "。"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000099",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "留守にお前をとりに来るかも知れないから、",
+        "sentence_with_furigana": "留守[るす]にお 前[まえ]をとりに 来[く]るかも 知[し]れないから、",
+        "word_base_list": [
+            "留守",
+            "に",
+            "御前",
+            "を",
+            "取る",
+            "に",
+            "来る",
+            "か",
+            "も",
+            "知る",
+            "ない",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "留守",
+            "に",
+            "お前",
+            "を",
+            "とり",
+            "に",
+            "来る",
+            "か",
+            "も",
+            "知れ",
+            "ない",
+            "から",
+            "、"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000100",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "けっして戸をあけてはいけないよ。」",
+        "sentence_with_furigana": "けっして 戸[と]をあけてはいけないよ。」",
+        "word_base_list": [
+            "決して",
+            "戸",
+            "を",
+            "あける",
+            "て",
+            "は",
+            "行く",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "けっして",
+            "戸",
+            "を",
+            "あけ",
+            "て",
+            "は",
+            "いけ",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000101",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といって、",
+        "sentence_with_furigana": "といって、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000102",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しっかり戸をしめて出て行きました。",
+        "sentence_with_furigana": "しっかり 戸[と]をしめて出て行きました。",
+        "word_base_list": [
+            "確り",
+            "戸",
+            "を",
+            "しめる",
+            "て",
+            "出る",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しっかり",
+            "戸",
+            "を",
+            "しめ",
+            "て",
+            "出",
+            "て",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000103",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "二",
+        "sentence_with_furigana": "二",
+        "word_base_list": [
+            "2"
+        ],
+        "word_list": [
+            "二"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000104",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "するとある日のこと、",
+        "sentence_with_furigana": "するとある日のこと、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "有る",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "ある",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000105",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子が一人で、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]が 一人[ひとり]で、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "一人",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "一人",
+            "で",
+            "、"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000106",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000107",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000108",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぎいぎいばったん、",
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "word_base_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "word_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000109",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "機を織っておりますと、",
+        "sentence_with_furigana": "機[はた]を 織[お]っておりますと、",
+        "word_base_list": [
+            "機",
+            "を",
+            "織る",
+            "て",
+            "おる",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "機",
+            "を",
+            "織っ",
+            "て",
+            "おり",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000110",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とうとうあまんじゃくがやって来ました。",
+        "sentence_with_furigana": "とうとうあまんじゃくがやって 来[き]ました。",
+        "word_base_list": [
+            "到頭",
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "が",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "とうとう",
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "が",
+            "やっ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000111",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そしてやさしい猫なで声をつくって、",
+        "sentence_with_furigana": "そしてやさしい 猫[ねこ]なで 声[ごえ]をつくって、",
+        "word_base_list": [
+            "そして",
+            "優しい",
+            "猫撫で",
+            "声",
+            "を",
+            "作る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "やさしい",
+            "猫なで",
+            "声",
+            "を",
+            "つくっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000112",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「もしもし、",
+        "sentence_with_furigana": "「もしもし、",
+        "word_base_list": [
+            "「",
+            "もしもし",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "もしもし",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000113",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000114",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "この戸をあけておくれな。",
+        "sentence_with_furigana": "この 戸[と]をあけておくれな。",
+        "word_base_list": [
+            "此の",
+            "戸",
+            "を",
+            "あける",
+            "て",
+            "御",
+            "呉れる",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "戸",
+            "を",
+            "あけ",
+            "て",
+            "お",
+            "くれ",
+            "な",
+            "。"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000115",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "二人で仲よく遊ぼうよ。」",
+        "sentence_with_furigana": "二人[ふたり]で 仲[なか]よく 遊[あそ]ぼうよ。」",
+        "word_base_list": [
+            "二人",
+            "で",
+            "仲良く",
+            "遊ぶ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "二人",
+            "で",
+            "仲よく",
+            "遊ぼう",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000116",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000117",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「いいえ、",
+        "sentence_with_furigana": "「いいえ、",
+        "word_base_list": [
+            "「",
+            "いいえ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いいえ",
+            "、"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000118",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あけられません。」",
+        "sentence_with_furigana": "あけられません。」",
+        "word_base_list": [
+            "あける",
+            "られる",
+            "ます",
+            "ず",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "あけ",
+            "られ",
+            "ませ",
+            "ん",
+            "。",
+            "」"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000119",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000120",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子はいいました。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はいいました。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000121",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「瓜子姫子、",
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "word_base_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "sound": "f000121.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000122",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "少しでいいからあけておくれ、",
+        "sentence_with_furigana": "少[すこ]しでいいからあけておくれ、",
+        "word_base_list": [
+            "少し",
+            "で",
+            "良い",
+            "から",
+            "あける",
+            "て",
+            "遅れる",
+            "、"
+        ],
+        "word_list": [
+            "少し",
+            "で",
+            "いい",
+            "から",
+            "あけ",
+            "て",
+            "おくれ",
+            "、"
+        ],
+        "sound": "f000122.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000123",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "指の入るだけあけておくれ。」",
+        "sentence_with_furigana": "指[ゆび]の 入[はい]るだけあけておくれ。」",
+        "word_base_list": [
+            "指",
+            "の",
+            "入る",
+            "だけ",
+            "あける",
+            "て",
+            "御",
+            "呉れる",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "指",
+            "の",
+            "入る",
+            "だけ",
+            "あけ",
+            "て",
+            "お",
+            "くれ",
+            "。",
+            "」"
+        ],
+        "sound": "f000123.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000124",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「そんなら、",
+        "sentence_with_furigana": "「そんなら、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "そん",
+            "なら",
+            "、"
+        ],
+        "sound": "f000124.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000125",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "それだけあけましょう。」",
+        "sentence_with_furigana": "それだけあけましょう。」",
+        "word_base_list": [
+            "其れ",
+            "だけ",
+            "あける",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "それ",
+            "だけ",
+            "あけ",
+            "ましょう",
+            "。",
+            "」"
+        ],
+        "sound": "f000125.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000126",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「もう少しあけておくれ、",
+        "sentence_with_furigana": "「もう 少[すこ]しあけておくれ、",
+        "word_base_list": [
+            "「",
+            "もう",
+            "少し",
+            "あける",
+            "て",
+            "遅れる",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "もう",
+            "少し",
+            "あけ",
+            "て",
+            "おくれ",
+            "、"
+        ],
+        "sound": "f000126.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000127",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "。"
+        ],
+        "sound": "f000127.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000128",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "せめてこの手が入るだけ。」",
+        "sentence_with_furigana": "せめてこの手が 入[はい]るだけ。」",
+        "word_base_list": [
+            "せめて",
+            "此の",
+            "手",
+            "が",
+            "入る",
+            "だけ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "せめて",
+            "この",
+            "手",
+            "が",
+            "入る",
+            "だけ",
+            "。",
+            "」"
+        ],
+        "sound": "f000128.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000129",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「そんなら、",
+        "sentence_with_furigana": "「そんなら、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "そん",
+            "なら",
+            "、"
+        ],
+        "sound": "f000129.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000130",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "それだけあけましょう。」",
+        "sentence_with_furigana": "それだけあけましょう。」",
+        "word_base_list": [
+            "其れ",
+            "だけ",
+            "あける",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "それ",
+            "だけ",
+            "あけ",
+            "ましょう",
+            "。",
+            "」"
+        ],
+        "sound": "f000130.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000131",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「瓜子姫子、",
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "word_base_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "sound": "f000131.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000132",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "もう少しだ。",
+        "sentence_with_furigana": "もう 少[すこ]しだ。",
+        "word_base_list": [
+            "もう",
+            "少し",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "もう",
+            "少し",
+            "だ",
+            "。"
+        ],
+        "sound": "f000132.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000133",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あけておくれ。",
+        "sentence_with_furigana": "あけておくれ。",
+        "word_base_list": [
+            "あける",
+            "て",
+            "御",
+            "呉れる",
+            "。"
+        ],
+        "word_list": [
+            "あけ",
+            "て",
+            "お",
+            "くれ",
+            "。"
+        ],
+        "sound": "f000133.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000134",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "せめて頭の入るだけ。」",
+        "sentence_with_furigana": "せめて 頭[あたま]の 入[はい]るだけ。」",
+        "word_base_list": [
+            "せめて",
+            "頭",
+            "の",
+            "入る",
+            "だけ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "せめて",
+            "頭",
+            "の",
+            "入る",
+            "だけ",
+            "。",
+            "」"
+        ],
+        "sound": "f000134.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000135",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しかたがないので、",
+        "sentence_with_furigana": "しかたがないので、",
+        "word_base_list": [
+            "仕方",
+            "が",
+            "無い",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "しかた",
+            "が",
+            "ない",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000135.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000136",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子は頭の入るだけあけてやりますと、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は 頭[あたま]の 入[はい]るだけあけてやりますと、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "頭",
+            "の",
+            "入る",
+            "だけ",
+            "あける",
+            "て",
+            "遣る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "頭",
+            "の",
+            "入る",
+            "だけ",
+            "あけ",
+            "て",
+            "やり",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000136.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000137",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくはするするとうちの中へ入って来ました。",
+        "sentence_with_furigana": "あまんじゃくはするするとうちの中へ 入[はい]って 来[き]ました。",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "は",
+            "為る",
+            "為る",
+            "と",
+            "内",
+            "の",
+            "中",
+            "へ",
+            "入る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "は",
+            "する",
+            "する",
+            "と",
+            "うち",
+            "の",
+            "中",
+            "へ",
+            "入っ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000137.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000138",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「瓜子姫子、",
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "word_base_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "sound": "f000138.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000139",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "裏の山へ柿を取りに行こうか。」",
+        "sentence_with_furigana": "裏[うら]の山へ 柿[かき]を 取[と]りに 行[い]こうか。」",
+        "word_base_list": [
+            "裏",
+            "の",
+            "山",
+            "へ",
+            "柿",
+            "を",
+            "取る",
+            "に",
+            "行く",
+            "か",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "裏",
+            "の",
+            "山",
+            "へ",
+            "柿",
+            "を",
+            "取り",
+            "に",
+            "行こう",
+            "か",
+            "。",
+            "」"
+        ],
+        "sound": "f000139.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000140",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000140.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000141",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくがいいました。",
+        "sentence_with_furigana": "あまんじゃくがいいました。",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000141.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000142",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「柿を取りに行くのはいや。",
+        "sentence_with_furigana": "「 柿[かき]を 取[と]りに 行[い]くのはいや。",
+        "word_base_list": [
+            "「",
+            "柿",
+            "を",
+            "取る",
+            "に",
+            "行く",
+            "の",
+            "は",
+            "否",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "柿",
+            "を",
+            "取り",
+            "に",
+            "行く",
+            "の",
+            "は",
+            "いや",
+            "。"
+        ],
+        "sound": "f000142.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000143",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんにしかられるから。」",
+        "sentence_with_furigana": "おじいさんにしかられるから。」",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "に",
+            "叱る",
+            "れる",
+            "から",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "に",
+            "しから",
+            "れる",
+            "から",
+            "。",
+            "」"
+        ],
+        "sound": "f000143.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000144",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000144.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000145",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子がいいました。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がいいました。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000145.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000146",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "するとあまんじゃくが、",
+        "sentence_with_furigana": "するとあまんじゃくが、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "あー",
+            "まー",
+            "で",
+            "くが",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "あ",
+            "ま",
+            "んじゃ",
+            "くが",
+            "、"
+        ],
+        "sound": "f000146.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000147",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "こわい目をして瓜子姫子をにらめつけました。",
+        "sentence_with_furigana": "こわい 目[め]をして 瓜子姫子[うりこひめこ]をにらめつけました。",
+        "word_base_list": [
+            "怖い",
+            "目",
+            "を",
+            "為る",
+            "て",
+            "瓜子姫",
+            "子",
+            "を",
+            "睨む",
+            "つける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "こわい",
+            "目",
+            "を",
+            "し",
+            "て",
+            "瓜子姫",
+            "子",
+            "を",
+            "にらめ",
+            "つけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000147.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000148",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子はこわくなって、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はこわくなって、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "怖い",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "こわく",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000148.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000149",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しかたなしに裏の山までついて行きました。",
+        "sentence_with_furigana": "しかたなしに 裏[うら]の山までついて行きました。",
+        "word_base_list": [
+            "仕方無い",
+            "に",
+            "裏",
+            "の",
+            "山",
+            "まで",
+            "付く",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "しかたなし",
+            "に",
+            "裏",
+            "の",
+            "山",
+            "まで",
+            "つい",
+            "て",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000149.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000150",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "裏の山へ行くと、",
+        "sentence_with_furigana": "裏[うら]の山へ 行[い]くと、",
+        "word_base_list": [
+            "裏",
+            "の",
+            "山",
+            "へ",
+            "行く",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "裏",
+            "の",
+            "山",
+            "へ",
+            "行く",
+            "と",
+            "、"
+        ],
+        "sound": "f000150.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000151",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくはするすると柿の木によじ登って、",
+        "sentence_with_furigana": "あまんじゃくはするすると 柿[かき]の木によじ 登[のぼ]って、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "は",
+            "為る",
+            "為る",
+            "と",
+            "柿の木",
+            "に",
+            "捩る",
+            "上る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "は",
+            "する",
+            "する",
+            "と",
+            "柿の木",
+            "に",
+            "よじ",
+            "登っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000151.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000152",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "真っ赤になった柿を、",
+        "sentence_with_furigana": "真[ま]っ 赤[か]になった 柿[かき]を、",
+        "word_base_list": [
+            "真っ赤",
+            "だ",
+            "成る",
+            "た",
+            "柿",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "真っ赤",
+            "に",
+            "なっ",
+            "た",
+            "柿",
+            "を",
+            "、"
+        ],
+        "sound": "f000152.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000153",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おいしそうに取っては食べ、",
+        "sentence_with_furigana": "おいしそうに 取[と]っては 食[た]べ、",
+        "word_base_list": [
+            "美味しい",
+            "そう",
+            "だ",
+            "取る",
+            "て",
+            "は",
+            "食べる",
+            "、"
+        ],
+        "word_list": [
+            "おいし",
+            "そう",
+            "に",
+            "取っ",
+            "て",
+            "は",
+            "食べ",
+            "、"
+        ],
+        "sound": "f000153.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000154",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "取っては食べしました。",
+        "sentence_with_furigana": "取[と]っては 食[た]べしました。",
+        "word_base_list": [
+            "取る",
+            "て",
+            "は",
+            "食べる",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "取っ",
+            "て",
+            "は",
+            "食べ",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000154.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000155",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そして下にいる瓜子姫子には、",
+        "sentence_with_furigana": "そして 下[した]にいる 瓜子姫子[うりこひめこ]には、",
+        "word_base_list": [
+            "そして",
+            "下",
+            "に",
+            "居る",
+            "瓜子姫",
+            "子",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "下",
+            "に",
+            "いる",
+            "瓜子姫",
+            "子",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000155.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000156",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "種や、",
+        "sentence_with_furigana": "種[たね]や、",
+        "word_base_list": [
+            "種",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "種",
+            "や",
+            "、"
+        ],
+        "sound": "f000156.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000157",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "へたばかり投げつけて、",
+        "sentence_with_furigana": "へたばかり 投[な]げつけて、",
+        "word_base_list": [
+            "蔕",
+            "ばかり",
+            "投げる",
+            "つける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "へた",
+            "ばかり",
+            "投げ",
+            "つけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000157.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000158",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "一つも落としてはくれません。",
+        "sentence_with_furigana": "一つも 落[お]としてはくれません。",
+        "word_base_list": [
+            "1",
+            "つ",
+            "も",
+            "落とす",
+            "ては",
+            "呉れる",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "一",
+            "つ",
+            "も",
+            "落とし",
+            "ては",
+            "くれ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000158.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000159",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子はうらやましくなって、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はうらやましくなって、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "羨ましい",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "は",
+            "うらやましく",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000159.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000160",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「わたしにも一つ下さい。」",
+        "sentence_with_furigana": "「わたしにも一つ 下[くだ]さい。」",
+        "word_base_list": [
+            "「",
+            "私",
+            "に",
+            "も",
+            "1",
+            "つ",
+            "下さる",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "わたし",
+            "に",
+            "も",
+            "一",
+            "つ",
+            "下さい",
+            "。",
+            "」"
+        ],
+        "sound": "f000160.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000161",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいますと、",
+        "sentence_with_furigana": "といいますと、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000161.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000162",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくは、",
+        "sentence_with_furigana": "あまんじゃくは、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "は",
+            "、"
+        ],
+        "sound": "f000162.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000163",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「お前も上がって、",
+        "sentence_with_furigana": "「お 前[まえ]も 上[あ]がって、",
+        "word_base_list": [
+            "「",
+            "御前",
+            "も",
+            "上がる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お前",
+            "も",
+            "上がっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000163.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000164",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "取って食べるがいい。」",
+        "sentence_with_furigana": "取[と]って 食[た]べるがいい。」",
+        "word_base_list": [
+            "取る",
+            "て",
+            "食べる",
+            "が",
+            "良い",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "取っ",
+            "て",
+            "食べる",
+            "が",
+            "いい",
+            "。",
+            "」"
+        ],
+        "sound": "f000164.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000165",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいながら、",
+        "sentence_with_furigana": "といいながら、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000165.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000166",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "下へおりて来て、",
+        "sentence_with_furigana": "下へおりて 来[き]て、",
+        "word_base_list": [
+            "下",
+            "へ",
+            "下りる",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "下",
+            "へ",
+            "おり",
+            "て",
+            "来",
+            "て",
+            "、"
+        ],
+        "sound": "f000166.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000167",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "こんどは代わりに瓜子姫子を木の上にのせました。",
+        "sentence_with_furigana": "こんどは 代[か]わりに 瓜子姫子[うりこひめこ]を木の上にのせました。",
+        "word_base_list": [
+            "今度",
+            "は",
+            "代わり",
+            "に",
+            "瓜子姫",
+            "子",
+            "を",
+            "木",
+            "の",
+            "上",
+            "に",
+            "乗せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "こんど",
+            "は",
+            "代わり",
+            "に",
+            "瓜子姫",
+            "子",
+            "を",
+            "木",
+            "の",
+            "上",
+            "に",
+            "のせ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000167.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000168",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "のせるときに、",
+        "sentence_with_furigana": "のせるときに、",
+        "word_base_list": [
+            "乗せる",
+            "時",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "のせる",
+            "とき",
+            "に",
+            "、"
+        ],
+        "sound": "f000168.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000169",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「そんな着物を着て登るとよごれるから。」",
+        "sentence_with_furigana": "「そんな 着物[きもの]を 着[き]て 登[のぼ]るとよごれるから。」",
+        "word_base_list": [
+            "「",
+            "そんな",
+            "着物",
+            "を",
+            "着る",
+            "て",
+            "上る",
+            "と",
+            "汚す",
+            "から",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "そんな",
+            "着物",
+            "を",
+            "着",
+            "て",
+            "登る",
+            "と",
+            "よごれる",
+            "から",
+            "。",
+            "」"
+        ],
+        "sound": "f000169.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000170",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といって、",
+        "sentence_with_furigana": "といって、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000170.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000171",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "自分の着物ととりかえて着かえさせました。",
+        "sentence_with_furigana": "自分[じぶん]の 着物[きもの]ととりかえて 着[き]かえさせました。",
+        "word_base_list": [
+            "自分",
+            "の",
+            "着物",
+            "と",
+            "取る",
+            "かえる",
+            "て",
+            "着る",
+            "かえる",
+            "させる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "自分",
+            "の",
+            "着物",
+            "と",
+            "とり",
+            "かえ",
+            "て",
+            "着",
+            "かえ",
+            "させ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000171.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000172",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子がやっと柿の木に登って柿を取ろうとしますと、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がやっと 柿[かき]の木に 登[のぼ]って 柿[かき]を 取[と]ろうとしますと、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "漸と",
+            "柿の木",
+            "に",
+            "上る",
+            "て",
+            "柿",
+            "を",
+            "取る",
+            "と",
+            "為る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "が",
+            "やっと",
+            "柿の木",
+            "に",
+            "登っ",
+            "て",
+            "柿",
+            "を",
+            "取ろう",
+            "と",
+            "し",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000172.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000173",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくは、",
+        "sentence_with_furigana": "あまんじゃくは、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "は",
+            "、"
+        ],
+        "sound": "f000173.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000174",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "どこから取って来たか、",
+        "sentence_with_furigana": "どこから 取[と]って 来[き]たか、",
+        "word_base_list": [
+            "どこ",
+            "から",
+            "取る",
+            "て",
+            "来る",
+            "た",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "どこ",
+            "から",
+            "取っ",
+            "て",
+            "来",
+            "た",
+            "か",
+            "、"
+        ],
+        "sound": "f000174.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000175",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "藤づるを持って来て、",
+        "sentence_with_furigana": "藤[ふじ]づるを 持[も]って 来[き]て、",
+        "word_base_list": [
+            "藤蔓",
+            "を",
+            "持つ",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "藤づる",
+            "を",
+            "持っ",
+            "て",
+            "来",
+            "て",
+            "、"
+        ],
+        "sound": "f000175.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000176",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子を柿の木にしばりつけてしまいました。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]を 柿[かき]の木にしばりつけてしまいました。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "を",
+            "柿の木",
+            "に",
+            "縛る",
+            "つける",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "を",
+            "柿の木",
+            "に",
+            "しばり",
+            "つけ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000176.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000177",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そして自分は瓜子姫子の着物を着て、",
+        "sentence_with_furigana": "そして 自分[じぶん]は 瓜子姫子[うりこひめこ]の 着物[きもの]を 着[き]て、",
+        "word_base_list": [
+            "そして",
+            "自分",
+            "は",
+            "瓜子姫",
+            "子",
+            "の",
+            "着物",
+            "を",
+            "着る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "自分",
+            "は",
+            "瓜子姫",
+            "子",
+            "の",
+            "着物",
+            "を",
+            "着",
+            "て",
+            "、"
+        ],
+        "sound": "f000177.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000178",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子に化けて、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けて、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "に",
+            "化ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "に",
+            "化け",
+            "て",
+            "、"
+        ],
+        "sound": "f000178.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000179",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "うちの中に入って、",
+        "sentence_with_furigana": "うちの中に 入[はい]って、",
+        "word_base_list": [
+            "内",
+            "の",
+            "中",
+            "に",
+            "入る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "うち",
+            "の",
+            "中",
+            "に",
+            "入っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000179.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000180",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "すました顔をして、",
+        "sentence_with_furigana": "すました 顔[かお]をして、",
+        "word_base_list": [
+            "すます",
+            "た",
+            "顔",
+            "を",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "すまし",
+            "た",
+            "顔",
+            "を",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000180.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000181",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "またとんからりこ、",
+        "sentence_with_furigana": "またとんからりこ、",
+        "word_base_list": [
+            "又",
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000181.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000182",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "とんからりこ、",
+        "sentence_with_furigana": "とんからりこ、",
+        "word_base_list": [
+            "とん",
+            "からり",
+            "来る",
+            "、"
+        ],
+        "word_list": [
+            "とん",
+            "からり",
+            "こ",
+            "、"
+        ],
+        "sound": "f000182.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000183",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぎいぎいばったん、",
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "word_base_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "word_list": [
+            "ぎいぎい",
+            "ばったん",
+            "、"
+        ],
+        "sound": "f000183.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000184",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "機を織っていました。",
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "word_base_list": [
+            "機",
+            "を",
+            "織る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "機",
+            "を",
+            "織っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000184.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000185",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "三",
+        "sentence_with_furigana": "三",
+        "word_base_list": [
+            "3"
+        ],
+        "word_list": [
+            "三"
+        ],
+        "sound": "f000185.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000186",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "しばらくすると、",
+        "sentence_with_furigana": "しばらくすると、",
+        "word_base_list": [
+            "暫く",
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "しばらく",
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000186.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000187",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんは帰って来ましたが、",
+        "sentence_with_furigana": "おじいさんとおばあさんは 帰[かえ]って 来[き]ましたが、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "帰る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "帰っ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000187.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000188",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "なんにも知らないものですから、",
+        "sentence_with_furigana": "なんにも 知[し]らないものですから、",
+        "word_base_list": [
+            "何",
+            "も",
+            "知る",
+            "ない",
+            "物",
+            "です",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "なんに",
+            "も",
+            "知ら",
+            "ない",
+            "もの",
+            "です",
+            "から",
+            "、"
+        ],
+        "sound": "f000188.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000189",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「瓜子姫子、",
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "word_base_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "瓜子姫",
+            "子",
+            "、"
+        ],
+        "sound": "f000189.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000190",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "よくお留守番をしていたね。",
+        "sentence_with_furigana": "よくお 留守番[るすばん]をしていたね。",
+        "word_base_list": [
+            "良く",
+            "御",
+            "留守",
+            "番",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "た",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "よく",
+            "お",
+            "留守",
+            "番",
+            "を",
+            "し",
+            "て",
+            "い",
+            "た",
+            "ね",
+            "。"
+        ],
+        "sound": "f000190.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000191",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "さぞさびしかったろう。」",
+        "sentence_with_furigana": "さぞさびしかったろう。」",
+        "word_base_list": [
+            "嘸",
+            "寂しい",
+            "た",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "さぞ",
+            "さびしかっ",
+            "たろう",
+            "。",
+            "」"
+        ],
+        "sound": "f000191.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000192",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といって、",
+        "sentence_with_furigana": "といって、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000192.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000193",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "頭をさすってやりますと、",
+        "sentence_with_furigana": "頭[あたま]をさすってやりますと、",
+        "word_base_list": [
+            "頭",
+            "を",
+            "摩る",
+            "て",
+            "遣る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "頭",
+            "を",
+            "さすっ",
+            "て",
+            "やり",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000193.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000194",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくは、",
+        "sentence_with_furigana": "あまんじゃくは、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "は",
+            "、"
+        ],
+        "sound": "f000194.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000195",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000195.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000196",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ああ。」",
+        "sentence_with_furigana": "ああ。」",
+        "word_base_list": [
+            "ああ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ああ",
+            "。",
+            "」"
+        ],
+        "sound": "f000196.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000197",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいながら、",
+        "sentence_with_furigana": "といいながら、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000197.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000198",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "舌をそっと出しました。",
+        "sentence_with_furigana": "舌[した]をそっと 出[だ]しました。",
+        "word_base_list": [
+            "舌",
+            "を",
+            "そっと",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "舌",
+            "を",
+            "そっと",
+            "出し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000198.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000199",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "するとおもての方が、",
+        "sentence_with_furigana": "するとおもての 方[ほう]が、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "おもて",
+            "の",
+            "方",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "おもて",
+            "の",
+            "方",
+            "が",
+            "、"
+        ],
+        "sound": "f000199.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000200",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "急にがやがやそうぞうしくなって、",
+        "sentence_with_furigana": "急[きゅう]にがやがやそうぞうしくなって、",
+        "word_base_list": [
+            "急",
+            "だ",
+            "がやがや",
+            "騒々しい",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "急",
+            "に",
+            "がやがや",
+            "そうぞうしく",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000200.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000201",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "りっぱななりをしたお侍が大ぜい、",
+        "sentence_with_furigana": "りっぱななりをしたお 侍[さむらい]が 大[おお]ぜい、",
+        "word_base_list": [
+            "立派",
+            "だ",
+            "なり",
+            "を",
+            "為る",
+            "た",
+            "御",
+            "侍",
+            "が",
+            "大勢",
+            "、"
+        ],
+        "word_list": [
+            "りっぱ",
+            "な",
+            "なり",
+            "を",
+            "し",
+            "た",
+            "お",
+            "侍",
+            "が",
+            "大ぜい",
+            "、"
+        ],
+        "sound": "f000201.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000202",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ぴかぴかぬり立てた、",
+        "sentence_with_furigana": "ぴかぴかぬり 立[た]てた、",
+        "word_base_list": [
+            "ぴかぴか",
+            "塗る",
+            "立つ",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "ぴかぴか",
+            "ぬり",
+            "立て",
+            "た",
+            "、"
+        ],
+        "sound": "f000202.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000203",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "きれいなおかごをかついでやって来て、",
+        "sentence_with_furigana": "きれいなおかごをかついでやって 来[き]て、",
+        "word_base_list": [
+            "奇麗",
+            "だ",
+            "御",
+            "かご",
+            "を",
+            "担ぐ",
+            "で",
+            "遣る",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "きれい",
+            "な",
+            "お",
+            "かご",
+            "を",
+            "かつい",
+            "で",
+            "やっ",
+            "て",
+            "来",
+            "て",
+            "、"
+        ],
+        "sound": "f000203.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000204",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんのうちの前にとまりました。",
+        "sentence_with_furigana": "おじいさんとおばあさんのうちの 前[まえ]にとまりました。",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "の",
+            "内",
+            "の",
+            "前",
+            "に",
+            "とまる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "の",
+            "うち",
+            "の",
+            "前",
+            "に",
+            "とまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000204.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000205",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんは、",
+        "sentence_with_furigana": "おじいさんとおばあさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000205.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000206",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "何事がはじまったのかと思って、",
+        "sentence_with_furigana": "何事[なにごと]がはじまったのかと 思[おも]って、",
+        "word_base_list": [
+            "何事",
+            "が",
+            "始まる",
+            "た",
+            "の",
+            "か",
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "何事",
+            "が",
+            "はじまっ",
+            "た",
+            "の",
+            "か",
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000206.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000207",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "びくびくしていますと、",
+        "sentence_with_furigana": "びくびくしていますと、",
+        "word_base_list": [
+            "びくびく",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "びくびく",
+            "し",
+            "て",
+            "い",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000207.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000208",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お侍はその時、",
+        "sentence_with_furigana": "お 侍[さむらい]はその 時[とき]、",
+        "word_base_list": [
+            "御",
+            "侍",
+            "は",
+            "其の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "侍",
+            "は",
+            "その",
+            "時",
+            "、"
+        ],
+        "sound": "f000208.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000209",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんに向かって、",
+        "sentence_with_furigana": "おじいさんとおばあさんに 向[む]かって、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "に",
+            "向かう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "に",
+            "向かっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000209.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000210",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「お前の娘は大そう美しい織物を織るという評判だ。",
+        "sentence_with_furigana": "「お 前[まえ]の 娘[むすめ]は 大[たい]そう 美[うつく]しい 織物[おりもの]を 織[お]るという 評判[ひょうばん]だ。",
+        "word_base_list": [
+            "「",
+            "御前",
+            "の",
+            "娘",
+            "は",
+            "大層",
+            "美しい",
+            "織物",
+            "を",
+            "織る",
+            "と",
+            "言う",
+            "評判",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "お前",
+            "の",
+            "娘",
+            "は",
+            "大そう",
+            "美しい",
+            "織物",
+            "を",
+            "織る",
+            "と",
+            "いう",
+            "評判",
+            "だ",
+            "。"
+        ],
+        "sound": "f000210.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000211",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お城の殿さまと奥方が、",
+        "sentence_with_furigana": "お 城[しろ]の 殿[との]さまと 奥方[おくがた]が、",
+        "word_base_list": [
+            "御",
+            "城",
+            "の",
+            "殿",
+            "様",
+            "と",
+            "奥方",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "城",
+            "の",
+            "殿",
+            "さま",
+            "と",
+            "奥方",
+            "が",
+            "、"
+        ],
+        "sound": "f000211.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000212",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お前の娘の機を織るところが見たいという仰せだから、",
+        "sentence_with_furigana": "お 前[まえ]の 娘[むすめ]の 機[はた]を 織[お]るところが 見[み]たいという 仰[おお]せだから、",
+        "word_base_list": [
+            "御前",
+            "の",
+            "娘",
+            "の",
+            "機",
+            "を",
+            "織る",
+            "所",
+            "が",
+            "見る",
+            "たい",
+            "と",
+            "言う",
+            "仰せ",
+            "だ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "お前",
+            "の",
+            "娘",
+            "の",
+            "機",
+            "を",
+            "織る",
+            "ところ",
+            "が",
+            "見",
+            "たい",
+            "と",
+            "いう",
+            "仰せ",
+            "だ",
+            "から",
+            "、"
+        ],
+        "sound": "f000212.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000213",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "このかごに乗って来てもらいたい。」",
+        "sentence_with_furigana": "このかごに 乗[の]って 来[き]てもらいたい。」",
+        "word_base_list": [
+            "此の",
+            "かご",
+            "に",
+            "乗る",
+            "て",
+            "来る",
+            "て",
+            "貰う",
+            "たい",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "この",
+            "かご",
+            "に",
+            "乗っ",
+            "て",
+            "来",
+            "て",
+            "もらい",
+            "たい",
+            "。",
+            "」"
+        ],
+        "sound": "f000213.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000214",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000214.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000215",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんとおばあさんは大そうよろこんで、",
+        "sentence_with_furigana": "おじいさんとおばあさんは 大[たい]そうよろこんで、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "と",
+            "御",
+            "婆",
+            "さん",
+            "は",
+            "大層",
+            "喜ぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "と",
+            "お",
+            "ばあ",
+            "さん",
+            "は",
+            "大そう",
+            "よろこん",
+            "で",
+            "、"
+        ],
+        "sound": "f000215.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000216",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子に化けたあまんじゃくをおかごに乗せました。",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けたあまんじゃくをおかごに 乗[の]せました。",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "に",
+            "化ける",
+            "た",
+            "あまん",
+            "で",
+            "九",
+            "を",
+            "御",
+            "かご",
+            "に",
+            "乗せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "に",
+            "化け",
+            "た",
+            "あまん",
+            "じゃ",
+            "く",
+            "を",
+            "お",
+            "かご",
+            "に",
+            "乗せ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000216.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000217",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お侍たちがあまんじゃくを乗せて、",
+        "sentence_with_furigana": "お 侍[さむらい]たちがあまんじゃくを 乗[の]せて、",
+        "word_base_list": [
+            "御",
+            "侍",
+            "達",
+            "が",
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "を",
+            "乗せる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "侍",
+            "たち",
+            "が",
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "を",
+            "乗せ",
+            "て",
+            "、"
+        ],
+        "sound": "f000217.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000218",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "裏の山を通りかかりますと、",
+        "sentence_with_furigana": "裏[うら]の山を 通[とお]りかかりますと、",
+        "word_base_list": [
+            "裏",
+            "の",
+            "山",
+            "を",
+            "通る",
+            "掛かる",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "裏",
+            "の",
+            "山",
+            "を",
+            "通り",
+            "かかり",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000218.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000219",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "柿の木の上で、",
+        "sentence_with_furigana": "柿[かき]の木の上で、",
+        "word_base_list": [
+            "柿の木",
+            "の",
+            "上",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "柿の木",
+            "の",
+            "上",
+            "で",
+            "、"
+        ],
+        "sound": "f000219.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000220",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「ああん、",
+        "sentence_with_furigana": "「ああん、",
+        "word_base_list": [
+            "「",
+            "ああん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああん",
+            "、"
+        ],
+        "sound": "f000220.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000221",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "ああん、",
+        "sentence_with_furigana": "ああん、",
+        "word_base_list": [
+            "ああん",
+            "、"
+        ],
+        "word_list": [
+            "ああん",
+            "、"
+        ],
+        "sound": "f000221.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000222",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子の乗るかごに、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "の",
+            "乗る",
+            "かご",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "の",
+            "乗る",
+            "かご",
+            "に",
+            "、"
+        ],
+        "sound": "f000222.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000223",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくが乗って行く。",
+        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "が",
+            "乗る",
+            "て",
+            "行く",
+            "。"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "が",
+            "乗っ",
+            "て",
+            "行く",
+            "。"
+        ],
+        "sound": "f000223.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000224",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "瓜子姫子の乗るかごに、",
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、",
+        "word_base_list": [
+            "瓜子姫",
+            "子",
+            "の",
+            "乗る",
+            "かご",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "瓜子姫",
+            "子",
+            "の",
+            "乗る",
+            "かご",
+            "に",
+            "、"
+        ],
+        "sound": "f000224.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000225",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくが乗って行く。」",
+        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。」",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "が",
+            "乗る",
+            "て",
+            "行く",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "が",
+            "乗っ",
+            "て",
+            "行く",
+            "。",
+            "」"
+        ],
+        "sound": "f000225.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000226",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "という声がしました。",
+        "sentence_with_furigana": "という 声[こえ]がしました。",
+        "word_base_list": [
+            "と",
+            "言う",
+            "声",
+            "が",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "いう",
+            "声",
+            "が",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000226.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000227",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "「おや、",
+        "sentence_with_furigana": "「おや、",
+        "word_base_list": [
+            "「",
+            "おや",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "おや",
+            "、"
+        ],
+        "sound": "f000227.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000228",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "へんだ。」",
+        "sentence_with_furigana": "へんだ。」",
+        "word_base_list": [
+            "へん",
+            "だ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "へん",
+            "だ",
+            "。",
+            "」"
+        ],
+        "sound": "f000228.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000229",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "と思って、",
+        "sentence_with_furigana": "と 思[おも]って、",
+        "word_base_list": [
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000229.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000230",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そばへ寄ってみますと、",
+        "sentence_with_furigana": "そばへ 寄[よ]ってみますと、",
+        "word_base_list": [
+            "そば",
+            "へ",
+            "寄る",
+            "て",
+            "見る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "そば",
+            "へ",
+            "寄っ",
+            "て",
+            "み",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000230.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000231",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "かわいそうに瓜子姫子は、",
+        "sentence_with_furigana": "かわいそうに 瓜子姫子[うりこひめこ]は、",
+        "word_base_list": [
+            "可哀想",
+            "だ",
+            "瓜子姫",
+            "子",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "かわいそう",
+            "に",
+            "瓜子姫",
+            "子",
+            "は",
+            "、"
+        ],
+        "sound": "f000231.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000232",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくのきたない着物を着せられて、",
+        "sentence_with_furigana": "あまんじゃくのきたない 着物[きもの]を 着[き]せられて、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "の",
+            "汚い",
+            "着物",
+            "を",
+            "着る",
+            "られる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "の",
+            "きたない",
+            "着物",
+            "を",
+            "着せ",
+            "られ",
+            "て",
+            "、"
+        ],
+        "sound": "f000232.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000233",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "木の上にしばりつけられていました。",
+        "sentence_with_furigana": "木の上にしばりつけられていました。",
+        "word_base_list": [
+            "木",
+            "の",
+            "上",
+            "に",
+            "縛る",
+            "つける",
+            "られる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "木",
+            "の",
+            "上",
+            "に",
+            "しばり",
+            "つけ",
+            "られ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000233.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000234",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "おじいさんは瓜子姫子を見つけると、",
+        "sentence_with_furigana": "おじいさんは 瓜子姫子[うりこひめこ]を 見[み]つけると、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "瓜子姫",
+            "子",
+            "を",
+            "見付ける",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "瓜子姫",
+            "子",
+            "を",
+            "見つける",
+            "と",
+            "、"
+        ],
+        "sound": "f000234.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000235",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "急いで行って、",
+        "sentence_with_furigana": "急[いそ]いで行って、",
+        "word_base_list": [
+            "急ぐ",
+            "で",
+            "行く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "急い",
+            "で",
+            "行っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000235.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000236",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "木から下ろしてやりました。",
+        "sentence_with_furigana": "木から 下[お]ろしてやりました。",
+        "word_base_list": [
+            "木",
+            "から",
+            "下ろす",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "木",
+            "から",
+            "下ろし",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000236.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000237",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "お侍たちも大そうおこって、",
+        "sentence_with_furigana": "お 侍[さむらい]たちも 大[たい]そうおこって、",
+        "word_base_list": [
+            "御",
+            "侍",
+            "達",
+            "も",
+            "大層",
+            "おこる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "侍",
+            "たち",
+            "も",
+            "大そう",
+            "おこっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000237.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000238",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "あまんじゃくをおかごから引きずり出して、",
+        "sentence_with_furigana": "あまんじゃくをおかごから 引[ひ]きずり 出[だ]して、",
+        "word_base_list": [
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "を",
+            "御",
+            "かご",
+            "から",
+            "引く",
+            "ずる",
+            "出す",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "を",
+            "お",
+            "かご",
+            "から",
+            "引き",
+            "ずり",
+            "出し",
+            "て",
+            "、"
+        ],
+        "sound": "f000238.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000239",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "その代わり瓜子姫子を乗せてお城に連れて行きました。",
+        "sentence_with_furigana": "その 代[か]わり 瓜子姫子[うりこひめこ]を 乗[の]せてお 城[しろ]に 連[つ]れて行きました。",
+        "word_base_list": [
+            "其の",
+            "代わり",
+            "瓜子姫",
+            "子",
+            "を",
+            "乗せる",
+            "て",
+            "御",
+            "城",
+            "に",
+            "連れる",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "代わり",
+            "瓜子姫",
+            "子",
+            "を",
+            "乗せ",
+            "て",
+            "お",
+            "城",
+            "に",
+            "連れ",
+            "て",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000239.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000240",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "そしてあまんじゃくの首を斬り落として、",
+        "sentence_with_furigana": "そしてあまんじゃくの 首[くび]を 斬[き]り 落[お]として、",
+        "word_base_list": [
+            "そして",
+            "あー",
+            "まー",
+            "で",
+            "九",
+            "の",
+            "首",
+            "を",
+            "切る",
+            "落とす",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "あ",
+            "ま",
+            "んじゃ",
+            "く",
+            "の",
+            "首",
+            "を",
+            "斬り",
+            "落とし",
+            "て",
+            "、"
+        ],
+        "sound": "f000240.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000241",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "畑の隅に捨てました。",
+        "sentence_with_furigana": "畑[はたけ]の 隅[すみ]に 捨[す]てました。",
+        "word_base_list": [
+            "畑",
+            "の",
+            "隅",
+            "に",
+            "捨てる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "畑",
+            "の",
+            "隅",
+            "に",
+            "捨て",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000241.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000242",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "その首から流れ出した血が、",
+        "sentence_with_furigana": "その 首[くび]から 流[なが]れ 出[だ]した 血[ち]が、",
+        "word_base_list": [
+            "其の",
+            "首",
+            "から",
+            "流れる",
+            "出す",
+            "た",
+            "血",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "首",
+            "から",
+            "流れ",
+            "出し",
+            "た",
+            "血",
+            "が",
+            "、"
+        ],
+        "sound": "f000242.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000243",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "きび殻にそまって、",
+        "sentence_with_furigana": "きび 殻[がら]にそまって、",
+        "word_base_list": [
+            "黍",
+            "殻",
+            "に",
+            "染まる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "きび",
+            "殻",
+            "に",
+            "そまっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000243.mp3"
+    },
+    {
+        "id": "Urikohimeko-f000244",
+        "author": "Masao Kusuyama",
+        "author_japanese": "楠山 正雄",
+        "deck_name": "Urikohimeko",
+        "deck_name_japanese": "瓜子姫子",
+        "sentence": "きびの色がその時から赤くなり出しました。",
+        "sentence_with_furigana": "きびの 色[いろ]がその 時[とき]から 赤[あか]くなり 出[だ]しました。",
+        "word_base_list": [
+            "黍",
+            "の",
+            "色",
+            "が",
+            "其の",
+            "時",
+            "から",
+            "赤い",
+            "成る",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "きび",
+            "の",
+            "色",
+            "が",
+            "その",
+            "時",
+            "から",
+            "赤く",
+            "なり",
+            "出し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000244.mp3"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "秋が　きました",
+        "sentence_with_furigana": "秋が　きました"
+    },
+    {
+        "id": "f000003",
+        "sentence": "にわの　コスモスが、",
+        "sentence_with_furigana": "にわの　コスモスが、"
+    },
+    {
+        "id": "f000004",
+        "sentence": "きれいに　さきました。",
+        "sentence_with_furigana": "きれいに　さきました。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "しずかな　秋の　いい　ひよりです。",
+        "sentence_with_furigana": "しずかな　 秋[あき]の　いい　ひよりです。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "ピイー、",
+        "sentence_with_furigana": "ピイー、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "ピイーと　いう、",
+        "sentence_with_furigana": "ピイーと　いう、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "ほそい　ふえの　音が　しました。",
+        "sentence_with_furigana": "ほそい　ふえの　 音[おと]が　しました。"
+    },
+    {
+        "id": "f000009",
+        "sentence": "「ラオの　すげかえやが　きたから、",
+        "sentence_with_furigana": "「ラオの　すげかえやが　きたから、"
+    },
+    {
+        "id": "f000010",
+        "sentence": "この　きせるを　たのんで　おくれ。」",
+        "sentence_with_furigana": "この　きせるを　たのんで　おくれ。」"
+    },
+    {
+        "id": "f000011",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "おばあさんが　おっしゃいました。",
+        "sentence_with_furigana": "おばあさんが　おっしゃいました。"
+    },
+    {
+        "id": "f000013",
+        "sentence": "「はい。」",
+        "sentence_with_furigana": "「はい。」"
+    },
+    {
+        "id": "f000014",
+        "sentence": "と　いって、",
+        "sentence_with_furigana": "と　いって、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "きよは　うけとって　そとへ　でました。",
+        "sentence_with_furigana": "きよは　うけとって　そとへ　でました。"
+    },
+    {
+        "id": "f000016",
+        "sentence": "しばらく　して、",
+        "sentence_with_furigana": "しばらく　して、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "きよは　かえって　きました。",
+        "sentence_with_furigana": "きよは　かえって　きました。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "「いくら　さがしましても、",
+        "sentence_with_furigana": "「いくら　さがしましても、"
+    },
+    {
+        "id": "f000019",
+        "sentence": "ラオやさんが　みつかりません。」",
+        "sentence_with_furigana": "ラオやさんが　みつかりません。」"
+    },
+    {
+        "id": "f000020",
+        "sentence": "と　いいました。",
+        "sentence_with_furigana": "と　いいました。"
+    },
+    {
+        "id": "f000021",
+        "sentence": "この　とき、",
+        "sentence_with_furigana": "この　とき、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "また　ピイー　ピイーと　いう　音が　しました。",
+        "sentence_with_furigana": "また　ピイー　ピイーと　いう　 音[おと]が　しました。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "「あんなに　きこえて　いるでしょう。」",
+        "sentence_with_furigana": "「あんなに　きこえて　いるでしょう。」"
+    },
+    {
+        "id": "f000024",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "おばあさんは　おっしゃいました。",
+        "sentence_with_furigana": "おばあさんは　おっしゃいました。"
+    },
+    {
+        "id": "f000026",
+        "sentence": "「ぼくが　さがして　あげるよ。」",
+        "sentence_with_furigana": "「ぼくが　さがして　あげるよ。」"
+    },
+    {
+        "id": "f000027",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "武ちゃんは　かけだしました。",
+        "sentence_with_furigana": "武[たけ]ちゃんは　かけだしました。"
+    },
+    {
+        "id": "f000029",
+        "sentence": "武ちゃんは、",
+        "sentence_with_furigana": "武[たけ]ちゃんは、"
+    },
+    {
+        "id": "f000030",
+        "sentence": "おうらいを　あちらこちらと　みまわしました。",
+        "sentence_with_furigana": "おうらいを　あちらこちらと　みまわしました。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、"
+    },
+    {
+        "id": "f000032",
+        "sentence": "やはり　わかりません。",
+        "sentence_with_furigana": "やはり　わかりません。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "「ラオやさんは　どこに　いるのだろう、",
+        "sentence_with_furigana": "「ラオやさんは　どこに　いるのだろう、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "ほんとうに　おかしいな。」",
+        "sentence_with_furigana": "ほんとうに　おかしいな。」"
+    },
+    {
+        "id": "f000035",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "武ちゃんは　ぼんやり　たって　いました。",
+        "sentence_with_furigana": "武[たけ]ちゃんは　ぼんやり　たって　いました。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "空は　青く　はれて　いました。",
+        "sentence_with_furigana": "空[そら]は　 青[あお]く　はれて　いました。"
+    },
+    {
+        "id": "f000038",
+        "sentence": "あの　はこの　ついた　車を　ひいて、",
+        "sentence_with_furigana": "あの　はこの　ついた　 車[くるま]を　ひいて、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "おじいさんは　どこを　あるいて　いるのかと　おもいました。",
+        "sentence_with_furigana": "おじいさんは　どこを　あるいて　いるのかと　おもいました。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "「武ちゃん、",
+        "sentence_with_furigana": "「 武[たけ]ちゃん、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "やきゅうを　しない？」",
+        "sentence_with_furigana": "やきゅうを　しない？」"
+    },
+    {
+        "id": "f000042",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000043",
+        "sentence": "ふいに　年ちゃんが　かたを　たたきました。",
+        "sentence_with_furigana": "ふいに　 年[とし]ちゃんが　かたを　たたきました。"
+    },
+    {
+        "id": "f000044",
+        "sentence": "「いま、",
+        "sentence_with_furigana": "「いま、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "これを　うちへ　おいて　くるからね。」",
+        "sentence_with_furigana": "これを　うちへ　おいて　くるからね。」"
+    },
+    {
+        "id": "f000046",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "武ちゃんは　こたえました。",
+        "sentence_with_furigana": "武[たけ]ちゃんは　こたえました。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "「おばあさん、",
+        "sentence_with_furigana": "「おばあさん、"
+    },
+    {
+        "id": "f000049",
+        "sentence": "やはり　いませんよ。」",
+        "sentence_with_furigana": "やはり　いませんよ。」"
+    },
+    {
+        "id": "f000050",
+        "sentence": "と　いうと、",
+        "sentence_with_furigana": "と　いうと、"
+    },
+    {
+        "id": "f000051",
+        "sentence": "おばあさんは、",
+        "sentence_with_furigana": "おばあさんは、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "「ああ　そうかい、",
+        "sentence_with_furigana": "「ああ　そうかい、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "秋だから　遠方の　音が、",
+        "sentence_with_furigana": "秋[あき]だから　 遠方[えんぽう]の　 音[おと]が、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "ちかく　きこえるのかも　しれないね。」",
+        "sentence_with_furigana": "ちかく　きこえるのかも　しれないね。」"
+    },
+    {
+        "id": "f000055",
+        "sentence": "と　おっしゃいました。",
+        "sentence_with_furigana": "と　おっしゃいました。"
+    },
+    {
+        "id": "f000056",
+        "sentence": "武ちゃんは　いそいで　はらっぱへ　いくと、",
+        "sentence_with_furigana": "武[たけ]ちゃんは　いそいで　はらっぱへ　いくと、"
+    },
+    {
+        "id": "f000057",
+        "sentence": "もう　みんなが　あつまって　いました。",
+        "sentence_with_furigana": "もう　みんなが　あつまって　いました。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "正ちゃんと　良ちゃんは、",
+        "sentence_with_furigana": "正[しょう]ちゃんと　 良[りょう]ちゃんは、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "あたらしい　ユニホームを　きて　いました。",
+        "sentence_with_furigana": "あたらしい　ユニホームを　きて　いました。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "はじめようか。」",
+        "sentence_with_furigana": "はじめようか。」"
+    },
+    {
+        "id": "f000062",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、"
+    },
+    {
+        "id": "f000063",
+        "sentence": "ピッチャーの　正ちゃんが　プレートに　たちました。",
+        "sentence_with_furigana": "ピッチャーの　 正[しょう]ちゃんが　プレートに　たちました。"
+    },
+    {
+        "id": "f000064",
+        "sentence": "そうして、",
+        "sentence_with_furigana": "そうして、"
+    },
+    {
+        "id": "f000065",
+        "sentence": "たまを　にぎった　手を　たかく　あげると、",
+        "sentence_with_furigana": "たまを　にぎった　 手[て]を　たかく　あげると、"
+    },
+    {
+        "id": "f000066",
+        "sentence": "みんなが　いっしょに　ブウー、",
+        "sentence_with_furigana": "みんなが　いっしょに　ブウー、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "と　サイレンの　まねを　しました。",
+        "sentence_with_furigana": "と　サイレンの　まねを　しました。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "その　こえは、",
+        "sentence_with_furigana": "その　こえは、"
+    },
+    {
+        "id": "f000069",
+        "sentence": "ほんとうの　サイレンのように　とおくまで　ひびきました。",
+        "sentence_with_furigana": "ほんとうの　サイレンのように　とおくまで　ひびきました。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "これを　ききつけて、",
+        "sentence_with_furigana": "これを　ききつけて、"
+    },
+    {
+        "id": "f000071",
+        "sentence": "あちらから、",
+        "sentence_with_furigana": "あちらから、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "きみ子さんと　かね子さんが　とんで　きました。",
+        "sentence_with_furigana": "きみ 子[こ]さんと　かね 子[こ]さんが　とんで　きました。"
+    }
+]

@@ -1,0 +1,4128 @@
+[
+    {
+        "id": "Okame Donguri-f000002",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おかめどんぐり",
+        "sentence_with_furigana": "おかめどんぐり",
+        "word_base_list": [
+            "御",
+            "噛む",
+            "団栗"
+        ],
+        "word_list": [
+            "お",
+            "かめ",
+            "どんぐり"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000003",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ねえやの田舎は、",
+        "sentence_with_furigana": "ねえやの 田舎[いなか]は、",
+        "word_base_list": [
+            "姉や",
+            "の",
+            "田舎",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ねえや",
+            "の",
+            "田舎",
+            "は",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000004",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "山奥のさびしい村です。",
+        "sentence_with_furigana": "山奥[やまおく]のさびしい 村[むら]です。",
+        "word_base_list": [
+            "山奥",
+            "の",
+            "寂しい",
+            "村",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "山奥",
+            "の",
+            "さびしい",
+            "村",
+            "です",
+            "。"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000005",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "町がなかなか遠いので、",
+        "sentence_with_furigana": "町[まち]がなかなか 遠[とお]いので、",
+        "word_base_list": [
+            "町",
+            "が",
+            "中々",
+            "遠い",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "が",
+            "なかなか",
+            "遠い",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000006",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "子供たちは本屋へいって雑誌を見るということも、",
+        "sentence_with_furigana": "子供[こども]たちは 本屋[ほんや]へいって 雑誌[ざっし]を 見[み]るということも、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "本屋",
+            "へ",
+            "行く",
+            "て",
+            "雑誌",
+            "を",
+            "見る",
+            "と",
+            "言う",
+            "こと",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "たち",
+            "は",
+            "本屋",
+            "へ",
+            "いっ",
+            "て",
+            "雑誌",
+            "を",
+            "見る",
+            "と",
+            "いう",
+            "こと",
+            "も",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000007",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "めったにありません。",
+        "sentence_with_furigana": "めったにありません。",
+        "word_base_list": [
+            "滅多",
+            "だ",
+            "有る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "めった",
+            "に",
+            "あり",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000008",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000009",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "自分の見た雑誌をねえやの弟さんに、",
+        "sentence_with_furigana": "自分[じぶん]の 見[み]た 雑誌[ざっし]をねえやの 弟[おとうと]さんに、",
+        "word_base_list": [
+            "自分",
+            "の",
+            "見る",
+            "た",
+            "雑誌",
+            "を",
+            "姉や",
+            "の",
+            "弟",
+            "さん",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "の",
+            "見",
+            "た",
+            "雑誌",
+            "を",
+            "ねえや",
+            "の",
+            "弟",
+            "さん",
+            "に",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000010",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "送ってやりました。",
+        "sentence_with_furigana": "送[おく]ってやりました。",
+        "word_base_list": [
+            "送る",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "送っ",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000011",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、",
+        "word_base_list": [
+            "「",
+            "坊",
+            "ちゃん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "坊",
+            "ちゃん",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000012",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ありがとうございます。",
+        "sentence_with_furigana": "ありがとうございます。",
+        "word_base_list": [
+            "有り難う",
+            "御座る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "ありがとう",
+            "ござい",
+            "ます",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000013",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "弟は、",
+        "sentence_with_furigana": "弟[おとうと]は、",
+        "word_base_list": [
+            "弟",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "弟",
+            "は",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000014",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どんなに喜ぶかしれません。",
+        "sentence_with_furigana": "どんなに 喜[よろこ]ぶかしれません。",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "喜ぶ",
+            "か",
+            "知る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "喜ぶ",
+            "か",
+            "しれ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000015",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000016",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、",
+        "word_base_list": [
+            "姉や",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ねえや",
+            "は",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000017",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "目をうるませて、",
+        "sentence_with_furigana": "目[め]をうるませて、",
+        "word_base_list": [
+            "目",
+            "を",
+            "潤む",
+            "せる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "目",
+            "を",
+            "うるま",
+            "せ",
+            "て",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000018",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "いいました。",
+        "sentence_with_furigana": "いいました。",
+        "word_base_list": [
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000019",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000020",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000021",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "弟の孝二くんから、",
+        "sentence_with_furigana": "弟[おとうと]の 孝二[こうじ]くんから、",
+        "word_base_list": [
+            "弟",
+            "の",
+            "孝二",
+            "君",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "弟",
+            "の",
+            "孝二",
+            "くん",
+            "から",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000022",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "たいそうよろこんで、",
+        "sentence_with_furigana": "たいそうよろこんで、",
+        "word_base_list": [
+            "大層",
+            "喜ぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "たいそう",
+            "よろこん",
+            "で",
+            "、"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000023",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "手紙がまいりました。",
+        "sentence_with_furigana": "手紙[てがみ]がまいりました。",
+        "word_base_list": [
+            "手紙",
+            "が",
+            "参る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "手紙",
+            "が",
+            "まいり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000024",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000025",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "山で拾った、",
+        "sentence_with_furigana": "山[やま]で 拾[ひろ]った、",
+        "word_base_list": [
+            "山",
+            "で",
+            "拾う",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "山",
+            "で",
+            "拾っ",
+            "た",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000026",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "くりや、",
+        "sentence_with_furigana": "くりや、",
+        "word_base_list": [
+            "厨",
+            "、"
+        ],
+        "word_list": [
+            "くりや",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000027",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どんぐりを送ると書いてありました。",
+        "sentence_with_furigana": "どんぐりを 送[おく]ると 書[か]いてありました。",
+        "word_base_list": [
+            "団栗",
+            "を",
+            "送る",
+            "と",
+            "書く",
+            "て",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "どんぐり",
+            "を",
+            "送る",
+            "と",
+            "書い",
+            "て",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000028",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「町が遠いのに、",
+        "sentence_with_furigana": "「 町[まち]が 遠[とお]いのに、",
+        "word_base_list": [
+            "「",
+            "町",
+            "が",
+            "遠い",
+            "の",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "町",
+            "が",
+            "遠い",
+            "の",
+            "に",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000029",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "弟さんは、",
+        "sentence_with_furigana": "弟[おとうと]さんは、",
+        "word_base_list": [
+            "弟",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "弟",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000030",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "小包を出しにいったんだね。",
+        "sentence_with_furigana": "小包[こづつみ]を 出[だ]しにいったんだね。",
+        "word_base_list": [
+            "小包み",
+            "を",
+            "出す",
+            "に",
+            "行く",
+            "た",
+            "の",
+            "だ",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "小包",
+            "を",
+            "出し",
+            "に",
+            "いっ",
+            "た",
+            "ん",
+            "だ",
+            "ね",
+            "。"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000031",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000032",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんはききました。",
+        "sentence_with_furigana": "三郎[さぶろう]さんはききました。",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "きく",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "きき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000033",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「いえ、",
+        "sentence_with_furigana": "「いえ、",
+        "word_base_list": [
+            "「",
+            "いえ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いえ",
+            "、"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000034",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "町へは、",
+        "sentence_with_furigana": "町[まち]へは、",
+        "word_base_list": [
+            "町",
+            "へ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "へ",
+            "は",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000035",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "毎日、",
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "word_base_list": [
+            "毎日",
+            "、"
+        ],
+        "word_list": [
+            "毎日",
+            "、"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000036",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "村から、",
+        "sentence_with_furigana": "村[むら]から、",
+        "word_base_list": [
+            "村",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "村",
+            "から",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000037",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "だれかついでがありますから。",
+        "sentence_with_furigana": "だれかついでがありますから。",
+        "word_base_list": [
+            "誰",
+            "か",
+            "序で",
+            "が",
+            "有る",
+            "ます",
+            "から",
+            "。"
+        ],
+        "word_list": [
+            "だれ",
+            "か",
+            "ついで",
+            "が",
+            "あり",
+            "ます",
+            "から",
+            "。"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000038",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000039",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、",
+        "word_base_list": [
+            "姉や",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ねえや",
+            "は",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000040",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。",
+        "word_base_list": [
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000041",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "手紙のあとから、",
+        "sentence_with_furigana": "手紙[てがみ]のあとから、",
+        "word_base_list": [
+            "手紙",
+            "の",
+            "後",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "手紙",
+            "の",
+            "あと",
+            "から",
+            "、"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000042",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "小包がとどきました。",
+        "sentence_with_furigana": "小包[こづつみ]がとどきました。",
+        "word_base_list": [
+            "小包み",
+            "が",
+            "届く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "小包",
+            "が",
+            "とどき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000043",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "あけると、",
+        "sentence_with_furigana": "あけると、",
+        "word_base_list": [
+            "あける",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "あける",
+            "と",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000044",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "紫色のくりや、",
+        "sentence_with_furigana": "紫色[むらさきいろ]のくりや、",
+        "word_base_list": [
+            "紫",
+            "色",
+            "の",
+            "厨",
+            "、"
+        ],
+        "word_list": [
+            "紫",
+            "色",
+            "の",
+            "くりや",
+            "、"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000045",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "まるいどんぐりや、",
+        "sentence_with_furigana": "まるいどんぐりや、",
+        "word_base_list": [
+            "丸い",
+            "団栗",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "まるい",
+            "どんぐり",
+            "や",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000046",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000047",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ぎんなんなどが、",
+        "sentence_with_furigana": "ぎんなんなどが、",
+        "word_base_list": [
+            "銀杏",
+            "など",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ぎんなん",
+            "など",
+            "が",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000048",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "はいっていました。",
+        "sentence_with_furigana": "はいっていました。",
+        "word_base_list": [
+            "入る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "はいっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000049",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そして山から、",
+        "sentence_with_furigana": "そして 山[やま]から、",
+        "word_base_list": [
+            "そして",
+            "山",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "山",
+            "から",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000050",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "いっしょについてきた、",
+        "sentence_with_furigana": "いっしょについてきた、",
+        "word_base_list": [
+            "一緒",
+            "に",
+            "つく",
+            "て",
+            "来る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "いっしょ",
+            "に",
+            "つい",
+            "て",
+            "き",
+            "た",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000051",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "木の葉もまじっていました。",
+        "sentence_with_furigana": "木[こ]の 葉[は]もまじっていました。",
+        "word_base_list": [
+            "木の葉",
+            "も",
+            "混じる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "木の葉",
+            "も",
+            "まじっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000052",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "これを見ると、",
+        "sentence_with_furigana": "これを 見[み]ると、",
+        "word_base_list": [
+            "此れ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000053",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "ねえやは、",
+        "sentence_with_furigana": "ねえやは、",
+        "word_base_list": [
+            "姉や",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ねえや",
+            "は",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000054",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "子供の時分のことを思い出して、",
+        "sentence_with_furigana": "子供[こども]の 時分[じぶん]のことを 思[おも]い 出[だ]して、",
+        "word_base_list": [
+            "子供",
+            "の",
+            "時分",
+            "の",
+            "こと",
+            "を",
+            "思う",
+            "出す",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "子供",
+            "の",
+            "時分",
+            "の",
+            "こと",
+            "を",
+            "思い",
+            "出し",
+            "て",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000055",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "なつかしそうにながめていました。",
+        "sentence_with_furigana": "なつかしそうにながめていました。",
+        "word_base_list": [
+            "懐かしい",
+            "そう",
+            "だ",
+            "眺める",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "なつかし",
+            "そう",
+            "に",
+            "ながめ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000056",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「こんなのが、",
+        "sentence_with_furigana": "「こんなのが、",
+        "word_base_list": [
+            "「",
+            "こんな",
+            "の",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "こんな",
+            "の",
+            "が",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000057",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "山にたくさんなっているの？」",
+        "sentence_with_furigana": "山[やま]にたくさんなっているの？」",
+        "word_base_list": [
+            "山",
+            "に",
+            "沢山",
+            "成る",
+            "て",
+            "居る",
+            "の",
+            "？",
+            "」"
+        ],
+        "word_list": [
+            "山",
+            "に",
+            "たくさん",
+            "なっ",
+            "て",
+            "いる",
+            "の",
+            "？",
+            "」"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000058",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、",
+        "word_base_list": [
+            "「",
+            "はい",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "はい",
+            "、"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000059",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "たくさん、",
+        "sentence_with_furigana": "たくさん、",
+        "word_base_list": [
+            "沢山",
+            "、"
+        ],
+        "word_list": [
+            "たくさん",
+            "、"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000060",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "なっています。」",
+        "sentence_with_furigana": "なっています。」",
+        "word_base_list": [
+            "成る",
+            "て",
+            "居る",
+            "ます",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "なっ",
+            "て",
+            "い",
+            "ます",
+            "。",
+            "」"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000061",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「いってみたいなあ。",
+        "sentence_with_furigana": "「いってみたいなあ。",
+        "word_base_list": [
+            "「",
+            "行く",
+            "て",
+            "見る",
+            "たい",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "いっ",
+            "て",
+            "み",
+            "たい",
+            "なあ",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000062",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000063",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000064",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "田舎の秋の景色を思いました。",
+        "sentence_with_furigana": "田舎[いなか]の 秋[あき]の 景色[けしき]を 思[おも]いました。",
+        "word_base_list": [
+            "田舎",
+            "の",
+            "秋",
+            "の",
+            "景色",
+            "を",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "田舎",
+            "の",
+            "秋",
+            "の",
+            "景色",
+            "を",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000065",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000066",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "さっそく、",
+        "sentence_with_furigana": "さっそく、",
+        "word_base_list": [
+            "早速",
+            "、"
+        ],
+        "word_list": [
+            "さっそく",
+            "、"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000067",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "孝二くんに、",
+        "sentence_with_furigana": "孝二[こうじ]くんに、",
+        "word_base_list": [
+            "孝二",
+            "君",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "孝二",
+            "くん",
+            "に",
+            "、"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000068",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "礼をいってやりました。",
+        "sentence_with_furigana": "礼[れい]をいってやりました。",
+        "word_base_list": [
+            "礼",
+            "を",
+            "言う",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "礼",
+            "を",
+            "いっ",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000069",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "、"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000070",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そのうちに、",
+        "sentence_with_furigana": "そのうちに、",
+        "word_base_list": [
+            "其の",
+            "内",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "うち",
+            "に",
+            "、"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000071",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "また雑誌を送るからと書きました。",
+        "sentence_with_furigana": "また 雑誌[ざっし]を 送[おく]るからと 書[か]きました。",
+        "word_base_list": [
+            "又",
+            "雑誌",
+            "を",
+            "送る",
+            "から",
+            "と",
+            "書く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "また",
+            "雑誌",
+            "を",
+            "送る",
+            "から",
+            "と",
+            "書き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000072",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "しばらくたつと、",
+        "sentence_with_furigana": "しばらくたつと、",
+        "word_base_list": [
+            "暫く",
+            "たつ",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "しばらく",
+            "たつ",
+            "と",
+            "、"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000073",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "孝二くんから手紙がきたのであります。",
+        "sentence_with_furigana": "孝二[こうじ]くんから 手紙[てがみ]がきたのであります。",
+        "word_base_list": [
+            "孝二",
+            "君",
+            "から",
+            "手紙",
+            "が",
+            "来る",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "孝二",
+            "くん",
+            "から",
+            "手紙",
+            "が",
+            "き",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000074",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「なんといって、",
+        "sentence_with_furigana": "「なんといって、",
+        "word_base_list": [
+            "「",
+            "何",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "なん",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000075",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "きたんだろうな。」",
+        "sentence_with_furigana": "きたんだろうな。」",
+        "word_base_list": [
+            "来る",
+            "た",
+            "の",
+            "だ",
+            "な",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "き",
+            "た",
+            "ん",
+            "だろう",
+            "な",
+            "。",
+            "」"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000076",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000077",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "あけてよんでみると、",
+        "sentence_with_furigana": "あけてよんでみると、",
+        "word_base_list": [
+            "あける",
+            "て",
+            "呼ぶ",
+            "で",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "あけ",
+            "て",
+            "よん",
+            "で",
+            "みる",
+            "と",
+            "、"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000078",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「送っていただいた、",
+        "sentence_with_furigana": "「 送[おく]っていただいた、",
+        "word_base_list": [
+            "「",
+            "送る",
+            "て",
+            "頂く",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "送っ",
+            "て",
+            "いただい",
+            "た",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000079",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "美しい雑誌を友だちに見せると、",
+        "sentence_with_furigana": "美[うつく]しい 雑誌[ざっし]を 友[とも]だちに 見[み]せると、",
+        "word_base_list": [
+            "美しい",
+            "雑誌",
+            "を",
+            "友達",
+            "に",
+            "見せる",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "美しい",
+            "雑誌",
+            "を",
+            "友だち",
+            "に",
+            "見せる",
+            "と",
+            "、"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000080",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "みんなが、",
+        "sentence_with_furigana": "みんなが、",
+        "word_base_list": [
+            "皆",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "みんな",
+            "が",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000081",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "奪い合って、",
+        "sentence_with_furigana": "奪[うば]い 合[あ]って、",
+        "word_base_list": [
+            "奪う",
+            "合う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "奪い",
+            "合っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000082",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "たちまち、",
+        "sentence_with_furigana": "たちまち、",
+        "word_base_list": [
+            "忽ち",
+            "、"
+        ],
+        "word_list": [
+            "たちまち",
+            "、"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000083",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "汚くしてしまいました。",
+        "sentence_with_furigana": "汚[きたな]くしてしまいました。",
+        "word_base_list": [
+            "汚い",
+            "為る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "汚く",
+            "し",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000084",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "残念でなりません。",
+        "sentence_with_furigana": "残念[ざんねん]でなりません。",
+        "word_base_list": [
+            "残念",
+            "だ",
+            "成る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "残念",
+            "で",
+            "なり",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000085",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000085.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000086",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "送っていただいて、",
+        "sentence_with_furigana": "送[おく]っていただいて、",
+        "word_base_list": [
+            "送る",
+            "て",
+            "頂く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "送っ",
+            "て",
+            "いただい",
+            "て",
+            "、"
+        ],
+        "sound": "f000086.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000087",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "破るといけないから、",
+        "sentence_with_furigana": "破[やぶ]るといけないから、",
+        "word_base_list": [
+            "破る",
+            "と",
+            "行く",
+            "ない",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "破る",
+            "と",
+            "いけ",
+            "ない",
+            "から",
+            "、"
+        ],
+        "sound": "f000087.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000088",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どうか、",
+        "sentence_with_furigana": "どうか、",
+        "word_base_list": [
+            "どう",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "、"
+        ],
+        "sound": "f000088.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000089",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "もう送らないでください。",
+        "sentence_with_furigana": "もう 送[おく]らないでください。",
+        "word_base_list": [
+            "もう",
+            "送る",
+            "ない",
+            "で",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "もう",
+            "送ら",
+            "ない",
+            "で",
+            "ください",
+            "。"
+        ],
+        "sound": "f000089.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000090",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000090.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000091",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "書いてありました。",
+        "sentence_with_furigana": "書[か]いてありました。",
+        "word_base_list": [
+            "書く",
+            "て",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "書い",
+            "て",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000091.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000092",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「そんなに、",
+        "sentence_with_furigana": "「そんなに、",
+        "word_base_list": [
+            "「",
+            "そんな",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "そんな",
+            "に",
+            "、"
+        ],
+        "sound": "f000092.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000093",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "あんな雑誌がめずらしいのかなあ。」",
+        "sentence_with_furigana": "あんな 雑誌[ざっし]がめずらしいのかなあ。」",
+        "word_base_list": [
+            "あんな",
+            "雑誌",
+            "が",
+            "珍しい",
+            "の",
+            "か",
+            "な",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "あんな",
+            "雑誌",
+            "が",
+            "めずらしい",
+            "の",
+            "か",
+            "なあ",
+            "。",
+            "」"
+        ],
+        "sound": "f000093.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000094",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000094.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000095",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "活動もなければ、",
+        "sentence_with_furigana": "活動[かつどう]もなければ、",
+        "word_base_list": [
+            "活動",
+            "も",
+            "無い",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "活動",
+            "も",
+            "なけれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000095.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000096",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "りっぱな店もない、",
+        "sentence_with_furigana": "りっぱな 店[みせ]もない、",
+        "word_base_list": [
+            "立派",
+            "だ",
+            "店",
+            "も",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "りっぱ",
+            "な",
+            "店",
+            "も",
+            "ない",
+            "、"
+        ],
+        "sound": "f000096.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000097",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "電車もなければ、",
+        "sentence_with_furigana": "電車[でんしゃ]もなければ、",
+        "word_base_list": [
+            "電車",
+            "も",
+            "無い",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "電車",
+            "も",
+            "なけれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000097.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000098",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "自動車も通らない、",
+        "sentence_with_furigana": "自動車[じどうしゃ]も 通[とお]らない、",
+        "word_base_list": [
+            "自動車",
+            "も",
+            "通る",
+            "ない",
+            "、"
+        ],
+        "word_list": [
+            "自動車",
+            "も",
+            "通ら",
+            "ない",
+            "、"
+        ],
+        "sound": "f000098.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000099",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "にぎやかなものは、",
+        "sentence_with_furigana": "にぎやかなものは、",
+        "word_base_list": [
+            "賑やか",
+            "だ",
+            "物",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "にぎやか",
+            "な",
+            "もの",
+            "は",
+            "、"
+        ],
+        "sound": "f000099.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000100",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "なに一つもない、",
+        "sentence_with_furigana": "なに一つもない、",
+        "word_base_list": [
+            "何",
+            "1",
+            "つ",
+            "も",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "なに",
+            "一",
+            "つ",
+            "も",
+            "ない",
+            "、"
+        ],
+        "sound": "f000100.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000101",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "田舎の景色を目にえがいて、",
+        "sentence_with_furigana": "田舎[いなか]の 景色[けしき]を 目[め]にえがいて、",
+        "word_base_list": [
+            "田舎",
+            "の",
+            "景色",
+            "を",
+            "目",
+            "に",
+            "描く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "田舎",
+            "の",
+            "景色",
+            "を",
+            "目",
+            "に",
+            "えがい",
+            "て",
+            "、"
+        ],
+        "sound": "f000101.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000102",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そこに遊ぶ子供の姿を想像した。",
+        "sentence_with_furigana": "そこに 遊[あそ]ぶ 子供[こども]の 姿[すがた]を 想像[そうぞう]した。",
+        "word_base_list": [
+            "其処",
+            "に",
+            "遊ぶ",
+            "子供",
+            "の",
+            "姿",
+            "を",
+            "想像",
+            "為る",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "そこ",
+            "に",
+            "遊ぶ",
+            "子供",
+            "の",
+            "姿",
+            "を",
+            "想像",
+            "し",
+            "た",
+            "。"
+        ],
+        "sound": "f000102.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000103",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そのかわり、",
+        "sentence_with_furigana": "そのかわり、",
+        "word_base_list": [
+            "其の",
+            "かわり",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "かわり",
+            "、"
+        ],
+        "sound": "f000103.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000104",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "林が茂っていれば、",
+        "sentence_with_furigana": "林[はやし]が 茂[しげ]っていれば、",
+        "word_base_list": [
+            "林",
+            "が",
+            "茂る",
+            "て",
+            "居る",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "林",
+            "が",
+            "茂っ",
+            "て",
+            "いれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000104.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000105",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "美しい小川も流れています。",
+        "sentence_with_furigana": "美[うつく]しい 小川[おがわ]も 流[なが]れています。",
+        "word_base_list": [
+            "美しい",
+            "小川",
+            "も",
+            "流れる",
+            "て",
+            "居る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "美しい",
+            "小川",
+            "も",
+            "流れ",
+            "て",
+            "い",
+            "ます",
+            "。"
+        ],
+        "sound": "f000105.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000106",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「僕たちだって、",
+        "sentence_with_furigana": "「 僕[ぼく]たちだって、",
+        "word_base_list": [
+            "「",
+            "僕",
+            "達",
+            "だ",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "僕",
+            "たち",
+            "だ",
+            "って",
+            "、"
+        ],
+        "sound": "f000106.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000107",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そのかわり、",
+        "sentence_with_furigana": "そのかわり、",
+        "word_base_list": [
+            "其の",
+            "かわり",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "かわり",
+            "、"
+        ],
+        "sound": "f000107.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000108",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "くりや、",
+        "sentence_with_furigana": "くりや、",
+        "word_base_list": [
+            "厨",
+            "、"
+        ],
+        "word_list": [
+            "くりや",
+            "、"
+        ],
+        "sound": "f000108.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000109",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どんぐりを、",
+        "sentence_with_furigana": "どんぐりを、",
+        "word_base_list": [
+            "団栗",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "どんぐり",
+            "を",
+            "、"
+        ],
+        "sound": "f000109.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000110",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "拾うことができないのだから、",
+        "sentence_with_furigana": "拾[ひろ]うことができないのだから、",
+        "word_base_list": [
+            "拾う",
+            "こと",
+            "が",
+            "出来る",
+            "ない",
+            "の",
+            "だ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "拾う",
+            "こと",
+            "が",
+            "でき",
+            "ない",
+            "の",
+            "だ",
+            "から",
+            "、"
+        ],
+        "sound": "f000110.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000111",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おんなじこった。",
+        "sentence_with_furigana": "おんなじこった。",
+        "word_base_list": [
+            "同じ",
+            "こる",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "おんなじ",
+            "こっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000111.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000112",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000112.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000113",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは思いました。",
+        "sentence_with_furigana": "三郎[さぶろう]さんは 思[おも]いました。",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000113.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000114",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんが、",
+        "sentence_with_furigana": "三郎[さぶろう]さんが、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "が",
+            "、"
+        ],
+        "sound": "f000114.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000115",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "孝二くんの送ってくれた、",
+        "sentence_with_furigana": "孝二[こうじ]くんの 送[おく]ってくれた、",
+        "word_base_list": [
+            "孝二",
+            "君",
+            "の",
+            "送る",
+            "て",
+            "呉れる",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "孝二",
+            "くん",
+            "の",
+            "送っ",
+            "て",
+            "くれ",
+            "た",
+            "、"
+        ],
+        "sound": "f000115.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000116",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どんぐりを、",
+        "sentence_with_furigana": "どんぐりを、",
+        "word_base_list": [
+            "団栗",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "どんぐり",
+            "を",
+            "、"
+        ],
+        "sound": "f000116.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000117",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "学校へ持ってゆくと、",
+        "sentence_with_furigana": "学校[がっこう]へ 持[も]ってゆくと、",
+        "word_base_list": [
+            "学校",
+            "へ",
+            "持つ",
+            "て",
+            "行く",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "学校",
+            "へ",
+            "持っ",
+            "て",
+            "ゆく",
+            "と",
+            "、"
+        ],
+        "sound": "f000117.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000118",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "さあたいへんでした。",
+        "sentence_with_furigana": "さあたいへんでした。",
+        "word_base_list": [
+            "さあ",
+            "大変",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "さあ",
+            "たいへん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000118.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000119",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "みんなは、",
+        "sentence_with_furigana": "みんなは、",
+        "word_base_list": [
+            "皆",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "みんな",
+            "は",
+            "、"
+        ],
+        "sound": "f000119.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000120",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "珍しがって、",
+        "sentence_with_furigana": "珍[めずら]しがって、",
+        "word_base_list": [
+            "珍しい",
+            "がる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "珍し",
+            "がっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000120.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000121",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「見せておくれ。",
+        "sentence_with_furigana": "「 見[み]せておくれ。",
+        "word_base_list": [
+            "「",
+            "見せる",
+            "て",
+            "御",
+            "呉れる",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "見せ",
+            "て",
+            "お",
+            "くれ",
+            "。"
+        ],
+        "sound": "f000121.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000122",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000122.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000123",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そばへ寄ってきました。",
+        "sentence_with_furigana": "そばへ 寄[よ]ってきました。",
+        "word_base_list": [
+            "そば",
+            "へ",
+            "寄る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "そば",
+            "へ",
+            "寄っ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000123.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000124",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「君、",
+        "sentence_with_furigana": "「 君[きみ]、",
+        "word_base_list": [
+            "「",
+            "君",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "君",
+            "、"
+        ],
+        "sound": "f000124.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000125",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "このおかめどんぐりを、",
+        "sentence_with_furigana": "このおかめどんぐりを、",
+        "word_base_list": [
+            "此の",
+            "御",
+            "噛む",
+            "団栗",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "お",
+            "かめ",
+            "どんぐり",
+            "を",
+            "、"
+        ],
+        "sound": "f000125.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000126",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "どこから拾ってきたんだい。」",
+        "sentence_with_furigana": "どこから 拾[ひろ]ってきたんだい。」",
+        "word_base_list": [
+            "どこ",
+            "から",
+            "拾う",
+            "て",
+            "来る",
+            "た",
+            "の",
+            "だ",
+            "い",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "どこ",
+            "から",
+            "拾っ",
+            "て",
+            "き",
+            "た",
+            "ん",
+            "だ",
+            "い",
+            "。",
+            "」"
+        ],
+        "sound": "f000126.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000127",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「一個、",
+        "sentence_with_furigana": "「一 個[こ]、",
+        "word_base_list": [
+            "「",
+            "1",
+            "個",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "一",
+            "個",
+            "、"
+        ],
+        "sound": "f000127.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000128",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おくれよ。」",
+        "sentence_with_furigana": "おくれよ。」",
+        "word_base_list": [
+            "御",
+            "呉れる",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "お",
+            "くれ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000128.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000129",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「僕にもね。」",
+        "sentence_with_furigana": "「 僕[ぼく]にもね。」",
+        "word_base_list": [
+            "「",
+            "僕",
+            "に",
+            "も",
+            "ね",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "僕",
+            "に",
+            "も",
+            "ね",
+            "。",
+            "」"
+        ],
+        "sound": "f000129.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000130",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "みんなは、",
+        "sentence_with_furigana": "みんなは、",
+        "word_base_list": [
+            "皆",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "みんな",
+            "は",
+            "、"
+        ],
+        "sound": "f000130.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000131",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんのまわりにたかって、",
+        "sentence_with_furigana": "三郎[さぶろう]さんのまわりにたかって、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "の",
+            "周り",
+            "に",
+            "集る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "の",
+            "まわり",
+            "に",
+            "たかっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000131.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000132",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "はなれないのでした。",
+        "sentence_with_furigana": "はなれないのでした。",
+        "word_base_list": [
+            "は",
+            "なれる",
+            "ない",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "は",
+            "なれ",
+            "ない",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000132.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000133",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そのうち、",
+        "sentence_with_furigana": "そのうち、",
+        "word_base_list": [
+            "其の",
+            "内",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "うち",
+            "、"
+        ],
+        "sound": "f000133.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000134",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "奪い合いから、",
+        "sentence_with_furigana": "奪[うば]い 合[あ]いから、",
+        "word_base_list": [
+            "奪い合い",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "奪い合い",
+            "から",
+            "、"
+        ],
+        "sound": "f000134.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000135",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "けんかをはじめたのであります。",
+        "sentence_with_furigana": "けんかをはじめたのであります。",
+        "word_base_list": [
+            "喧嘩",
+            "を",
+            "始める",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "けんか",
+            "を",
+            "はじめ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000135.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000136",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "その晩、",
+        "sentence_with_furigana": "その 晩[ばん]、",
+        "word_base_list": [
+            "其の",
+            "晩",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "晩",
+            "、"
+        ],
+        "sound": "f000136.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000137",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000137.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000138",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "考えました。",
+        "sentence_with_furigana": "考[かんが]えました。",
+        "word_base_list": [
+            "考える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "考え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000138.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000139",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「田舎の子は、",
+        "sentence_with_furigana": "「 田舎[いなか]の 子[こ]は、",
+        "word_base_list": [
+            "「",
+            "田舎",
+            "の",
+            "子",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "田舎",
+            "の",
+            "子",
+            "は",
+            "、"
+        ],
+        "sound": "f000139.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000140",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "雑誌を見たいのだ。",
+        "sentence_with_furigana": "雑誌[ざっし]を 見[み]たいのだ。",
+        "word_base_list": [
+            "雑誌",
+            "を",
+            "見る",
+            "たい",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "雑誌",
+            "を",
+            "見",
+            "たい",
+            "の",
+            "だ",
+            "。"
+        ],
+        "sound": "f000140.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000141",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "僕たち街の子は、",
+        "sentence_with_furigana": "僕[ぼく]たち 街[まち]の 子[こ]は、",
+        "word_base_list": [
+            "僕",
+            "達",
+            "街",
+            "の",
+            "子",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "僕",
+            "たち",
+            "街",
+            "の",
+            "子",
+            "は",
+            "、"
+        ],
+        "sound": "f000141.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000142",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おかめどんぐりがほしいのだ。",
+        "sentence_with_furigana": "おかめどんぐりがほしいのだ。",
+        "word_base_list": [
+            "御",
+            "噛む",
+            "団栗",
+            "が",
+            "欲しい",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "かめ",
+            "どんぐり",
+            "が",
+            "ほしい",
+            "の",
+            "だ",
+            "。"
+        ],
+        "sound": "f000142.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000143",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "かえっこすればいいじゃないか。」",
+        "sentence_with_furigana": "かえっこすればいいじゃないか。」",
+        "word_base_list": [
+            "替え",
+            "っこ",
+            "為る",
+            "ば",
+            "良い",
+            "だ",
+            "無い",
+            "か",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "かえ",
+            "っこ",
+            "すれ",
+            "ば",
+            "いい",
+            "じゃ",
+            "ない",
+            "か",
+            "。",
+            "」"
+        ],
+        "sound": "f000143.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000144",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "あくる日、",
+        "sentence_with_furigana": "あくる 日[ひ]、",
+        "word_base_list": [
+            "翌る日",
+            "、"
+        ],
+        "word_list": [
+            "あくる日",
+            "、"
+        ],
+        "sound": "f000144.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000145",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんは、",
+        "sentence_with_furigana": "三郎[さぶろう]さんは、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000145.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000146",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "学校へいって、",
+        "sentence_with_furigana": "学校[がっこう]へいって、",
+        "word_base_list": [
+            "学校",
+            "へ",
+            "行く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "学校",
+            "へ",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000146.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000147",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「君たちのよんだ雑誌を田舎の子供へ、",
+        "sentence_with_furigana": "「 君[きみ]たちのよんだ 雑誌[ざっし]を 田舎[いなか]の 子供[こども]へ、",
+        "word_base_list": [
+            "「",
+            "君",
+            "達",
+            "の",
+            "呼ぶ",
+            "た",
+            "雑誌",
+            "を",
+            "田舎",
+            "の",
+            "子供",
+            "へ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "君",
+            "たち",
+            "の",
+            "よん",
+            "だ",
+            "雑誌",
+            "を",
+            "田舎",
+            "の",
+            "子供",
+            "へ",
+            "、"
+        ],
+        "sound": "f000147.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000148",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "送ってやって、",
+        "sentence_with_furigana": "送[おく]ってやって、",
+        "word_base_list": [
+            "送る",
+            "て",
+            "遣る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "送っ",
+            "て",
+            "やっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000148.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000149",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "田舎の子供たちから、",
+        "sentence_with_furigana": "田舎[いなか]の 子供[こども]たちから、",
+        "word_base_list": [
+            "田舎",
+            "の",
+            "子供",
+            "達",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "田舎",
+            "の",
+            "子供",
+            "たち",
+            "から",
+            "、"
+        ],
+        "sound": "f000149.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000150",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おかめどんぐりを送ってもらおうよ。",
+        "sentence_with_furigana": "おかめどんぐりを 送[おく]ってもらおうよ。",
+        "word_base_list": [
+            "御",
+            "噛む",
+            "団栗",
+            "を",
+            "送る",
+            "て",
+            "貰う",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "かめ",
+            "どんぐり",
+            "を",
+            "送っ",
+            "て",
+            "もらおう",
+            "よ",
+            "。"
+        ],
+        "sound": "f000150.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000151",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000151.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000152",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "相談しました。",
+        "sentence_with_furigana": "相談[そうだん]しました。",
+        "word_base_list": [
+            "相談",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "相談",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000152.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000153",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "「賛成、",
+        "sentence_with_furigana": "「 賛成[さんせい]、",
+        "word_base_list": [
+            "「",
+            "賛成",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "賛成",
+            "、"
+        ],
+        "sound": "f000153.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000154",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "賛成！」",
+        "sentence_with_furigana": "賛成[さんせい]！」",
+        "word_base_list": [
+            "賛成",
+            "！",
+            "」"
+        ],
+        "word_list": [
+            "賛成",
+            "！",
+            "」"
+        ],
+        "sound": "f000154.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000155",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そのことを、",
+        "sentence_with_furigana": "そのことを、",
+        "word_base_list": [
+            "其の",
+            "こと",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "こと",
+            "を",
+            "、"
+        ],
+        "sound": "f000155.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000156",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "三郎さんから、",
+        "sentence_with_furigana": "三郎[さぶろう]さんから、",
+        "word_base_list": [
+            "三郎",
+            "さん",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "三郎",
+            "さん",
+            "から",
+            "、"
+        ],
+        "sound": "f000156.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000157",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "孝二くんにいってやると、",
+        "sentence_with_furigana": "孝二[こうじ]くんにいってやると、",
+        "word_base_list": [
+            "孝二",
+            "君",
+            "に",
+            "行く",
+            "て",
+            "遣る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "孝二",
+            "くん",
+            "に",
+            "いっ",
+            "て",
+            "やる",
+            "と",
+            "、"
+        ],
+        "sound": "f000157.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000158",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "すぐに返事がきて、",
+        "sentence_with_furigana": "すぐに 返事[へんじ]がきて、",
+        "word_base_list": [
+            "直ぐ",
+            "に",
+            "返事",
+            "が",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "すぐ",
+            "に",
+            "返事",
+            "が",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000158.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000159",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "田舎の子供たちも大喜びだというのでした。",
+        "sentence_with_furigana": "田舎[いなか]の 子供[こども]たちも 大喜[おおよろこ]びだというのでした。",
+        "word_base_list": [
+            "田舎",
+            "の",
+            "子供",
+            "達",
+            "も",
+            "大喜び",
+            "だ",
+            "と",
+            "言う",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "田舎",
+            "の",
+            "子供",
+            "たち",
+            "も",
+            "大喜び",
+            "だ",
+            "と",
+            "いう",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000159.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000160",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000160.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000161",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "雑誌やおかめどんぐりよりも、",
+        "sentence_with_furigana": "雑誌[ざっし]やおかめどんぐりよりも、",
+        "word_base_list": [
+            "雑誌",
+            "や",
+            "御",
+            "噛む",
+            "団栗",
+            "より",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "雑誌",
+            "や",
+            "お",
+            "かめ",
+            "どんぐり",
+            "より",
+            "も",
+            "、"
+        ],
+        "sound": "f000161.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000162",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "まだ知らない、",
+        "sentence_with_furigana": "まだ 知[し]らない、",
+        "word_base_list": [
+            "未だ",
+            "知る",
+            "ない",
+            "、"
+        ],
+        "word_list": [
+            "まだ",
+            "知ら",
+            "ない",
+            "、"
+        ],
+        "sound": "f000162.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000163",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "遠い田舎と、",
+        "sentence_with_furigana": "遠[とお]い 田舎[いなか]と、",
+        "word_base_list": [
+            "遠い",
+            "田舎",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "遠い",
+            "田舎",
+            "と",
+            "、"
+        ],
+        "sound": "f000163.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000164",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "街とで、",
+        "sentence_with_furigana": "街[まち]とで、",
+        "word_base_list": [
+            "街",
+            "と",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "街",
+            "と",
+            "で",
+            "、"
+        ],
+        "sound": "f000164.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000165",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "おたがいに、",
+        "sentence_with_furigana": "おたがいに、",
+        "word_base_list": [
+            "御",
+            "互い",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "たがい",
+            "に",
+            "、"
+        ],
+        "sound": "f000165.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000166",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "交際するのが、",
+        "sentence_with_furigana": "交際[こうさい]するのが、",
+        "word_base_list": [
+            "交際",
+            "為る",
+            "の",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "交際",
+            "する",
+            "の",
+            "が",
+            "、"
+        ],
+        "sound": "f000166.mp3"
+    },
+    {
+        "id": "Okame Donguri-f000167",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okame Donguri",
+        "deck_name_japanese": "おかめどんぐり",
+        "sentence": "とてもうれしかったのであります。",
+        "sentence_with_furigana": "とてもうれしかったのであります。",
+        "word_base_list": [
+            "迚も",
+            "嬉しい",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "とても",
+            "うれしかっ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000167.mp3"
+    }
+]

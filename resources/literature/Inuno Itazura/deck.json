@@ -1,0 +1,457 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "夢野久作　作",
+        "sentence_with_furigana": "夢野久作　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "犬のいたずら",
+        "sentence_with_furigana": "犬のいたずら"
+    },
+    {
+        "id": "f000003",
+        "sentence": "去年の十二月の三十一日の真夜中の事でした。",
+        "sentence_with_furigana": "去年の十二月の三十一日の真夜中の事でした。"
+    },
+    {
+        "id": "f000004",
+        "sentence": "一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。",
+        "sentence_with_furigana": "一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "「ヤア犬さん、",
+        "sentence_with_furigana": "「ヤア犬さん、"
+    },
+    {
+        "id": "f000006",
+        "sentence": "もう帰るのかね」",
+        "sentence_with_furigana": "もう帰るのかね」"
+    },
+    {
+        "id": "f000007",
+        "sentence": "「ヤア猪さん、",
+        "sentence_with_furigana": "「ヤア猪さん、"
+    },
+    {
+        "id": "f000008",
+        "sentence": "もう来たのかね」",
+        "sentence_with_furigana": "もう来たのかね」"
+    },
+    {
+        "id": "f000009",
+        "sentence": "と二人は握手しました。",
+        "sentence_with_furigana": "と二人は握手しました。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "「もうじき来年になるのだが、",
+        "sentence_with_furigana": "「もうじき来年になるのだが、"
+    },
+    {
+        "id": "f000011",
+        "sentence": "それまでにはまだ時間があるから、",
+        "sentence_with_furigana": "それまでにはまだ時間があるから、"
+    },
+    {
+        "id": "f000012",
+        "sentence": "そこらでお別れに御馳走を食べようじゃないか」",
+        "sentence_with_furigana": "そこらでお別れに御馳走を食べようじゃないか」"
+    },
+    {
+        "id": "f000013",
+        "sentence": "「それはいいね」",
+        "sentence_with_furigana": "「それはいいね」"
+    },
+    {
+        "id": "f000014",
+        "sentence": "二人はそこらの御飯屋へ行って、",
+        "sentence_with_furigana": "二人はそこらの御飯屋へ行って、"
+    },
+    {
+        "id": "f000015",
+        "sentence": "御飯を食べ始めました。",
+        "sentence_with_furigana": "御飯を食べ始めました。"
+    },
+    {
+        "id": "f000016",
+        "sentence": "「時に犬さん、",
+        "sentence_with_furigana": "「時に犬さん、"
+    },
+    {
+        "id": "f000017",
+        "sentence": "お前の持っているその大きな荷物は何だね」",
+        "sentence_with_furigana": "お前の持っているその大きな荷物は何だね」"
+    },
+    {
+        "id": "f000018",
+        "sentence": "と猪は小さな眼をキョロキョロさせて尋ねました。",
+        "sentence_with_furigana": "と猪は小さな眼をキョロキョロさせて尋ねました。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "「これは犬の年の子供がした、",
+        "sentence_with_furigana": "「これは犬の年の子供がした、"
+    },
+    {
+        "id": "f000020",
+        "sentence": "いい事と悪い事を集めたものさ」",
+        "sentence_with_furigana": "いい事と悪い事を集めたものさ」"
+    },
+    {
+        "id": "f000021",
+        "sentence": "「ヘー。",
+        "sentence_with_furigana": "「ヘー。"
+    },
+    {
+        "id": "f000022",
+        "sentence": "善い事悪い事ってどんな事だね」",
+        "sentence_with_furigana": "善[い]い事悪い事ってどんな事だね」"
+    },
+    {
+        "id": "f000023",
+        "sentence": "「それはいろいろあるよ。",
+        "sentence_with_furigana": "「それはいろいろあるよ。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "他人の草履を隠したり、",
+        "sentence_with_furigana": "他人の草履を隠したり、"
+    },
+    {
+        "id": "f000025",
+        "sentence": "拾い食いをしたり、",
+        "sentence_with_furigana": "拾い食いをしたり、"
+    },
+    {
+        "id": "f000026",
+        "sentence": "盗み食いをしたり、",
+        "sentence_with_furigana": "盗み食いをしたり、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "垣根を破って出入りしたり、",
+        "sentence_with_furigana": "垣根を破って出入りしたり、"
+    },
+    {
+        "id": "f000028",
+        "sentence": "猫をいじめたり、",
+        "sentence_with_furigana": "猫をいじめたり、"
+    },
+    {
+        "id": "f000029",
+        "sentence": "お母さんや姉さんに食いついたり」",
+        "sentence_with_furigana": "お母さんや姉さんに食いついたり」"
+    },
+    {
+        "id": "f000030",
+        "sentence": "「ヘエ、",
+        "sentence_with_furigana": "「ヘエ、"
+    },
+    {
+        "id": "f000031",
+        "sentence": "そんな事をするかね」",
+        "sentence_with_furigana": "そんな事をするかね」"
+    },
+    {
+        "id": "f000032",
+        "sentence": "「するとも。",
+        "sentence_with_furigana": "「するとも。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "それから良い方では、",
+        "sentence_with_furigana": "それから良い方では、"
+    },
+    {
+        "id": "f000034",
+        "sentence": "人のものを探してやったり、",
+        "sentence_with_furigana": "人のものを探してやったり、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "落ちたものをひろってやったり、",
+        "sentence_with_furigana": "落ちたものをひろってやったり、"
+    },
+    {
+        "id": "f000036",
+        "sentence": "小さい子をお守してやったり、",
+        "sentence_with_furigana": "小さい子をお守してやったり、"
+    },
+    {
+        "id": "f000037",
+        "sentence": "人の命を助けたり」",
+        "sentence_with_furigana": "人の命を助けたり」"
+    },
+    {
+        "id": "f000038",
+        "sentence": "「ヘエー、",
+        "sentence_with_furigana": "「ヘエー、"
+    },
+    {
+        "id": "f000039",
+        "sentence": "それはえらいね。",
+        "sentence_with_furigana": "それはえらいね。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "しかしそんなものを集めて持って行ってどうするのかね」",
+        "sentence_with_furigana": "しかしそんなものを集めて持って行ってどうするのかね」"
+    },
+    {
+        "id": "f000041",
+        "sentence": "「今に十二年目になると僕が帰って来る。",
+        "sentence_with_furigana": "「今に十二年目になると僕が帰って来る。"
+    },
+    {
+        "id": "f000042",
+        "sentence": "その時には犬の年の子供は最早二十五になっている。",
+        "sentence_with_furigana": "その時には犬の年の子供は最早二十五になっている。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "男の児は最早兵隊に行って帰って来ているし、",
+        "sentence_with_furigana": "男の児は最早兵隊に行って帰って来ているし、"
+    },
+    {
+        "id": "f000044",
+        "sentence": "女の児ならばお嫁さんに行く年頃だから、",
+        "sentence_with_furigana": "女の児ならばお嫁さんに行く年頃だから、"
+    },
+    {
+        "id": "f000045",
+        "sentence": "その時に良い事をした児には良い事をしてやり、",
+        "sentence_with_furigana": "その時に良い事をした児には良い事をしてやり、"
+    },
+    {
+        "id": "f000046",
+        "sentence": "悪い事をした子には何か非道い罰を当ててやろうと思うんだ」",
+        "sentence_with_furigana": "悪い事をした子には何か非道い罰を当ててやろうと思うんだ」"
+    },
+    {
+        "id": "f000047",
+        "sentence": "「フーン」",
+        "sentence_with_furigana": "「フーン」"
+    },
+    {
+        "id": "f000048",
+        "sentence": "と猪は犬の言葉を聞いて腕を組んで考えました。",
+        "sentence_with_furigana": "と猪は犬の言葉を聞いて腕を組んで考えました。"
+    },
+    {
+        "id": "f000049",
+        "sentence": "「オヤ猪君、",
+        "sentence_with_furigana": "「オヤ猪君、"
+    },
+    {
+        "id": "f000050",
+        "sentence": "何を考えているのだい」",
+        "sentence_with_furigana": "何を考えているのだい」"
+    },
+    {
+        "id": "f000051",
+        "sentence": "「ウン。",
+        "sentence_with_furigana": "「ウン。"
+    },
+    {
+        "id": "f000052",
+        "sentence": "犬さんがそう言うと、",
+        "sentence_with_furigana": "犬さんがそう言うと、"
+    },
+    {
+        "id": "f000053",
+        "sentence": "成る程一々尤もだが、",
+        "sentence_with_furigana": "成る程一々尤もだが、"
+    },
+    {
+        "id": "f000054",
+        "sentence": "それはあまり感心しないぜ」",
+        "sentence_with_furigana": "それはあまり感心しないぜ」"
+    },
+    {
+        "id": "f000055",
+        "sentence": "「何故、",
+        "sentence_with_furigana": "「何故、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "何故」",
+        "sentence_with_furigana": "何故」"
+    },
+    {
+        "id": "f000057",
+        "sentence": "と犬は眼を瞠って申しました。",
+        "sentence_with_furigana": "と犬は眼を 瞠[みは]って申しました。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、"
+    },
+    {
+        "id": "f000059",
+        "sentence": "今年はまだ小僧だからまだいたずらをするだろう。",
+        "sentence_with_furigana": "今年はまだ小僧だからまだいたずらをするだろう。"
+    },
+    {
+        "id": "f000060",
+        "sentence": "しかし二十四にも五にもなったら、",
+        "sentence_with_furigana": "しかし二十四にも五にもなったら、"
+    },
+    {
+        "id": "f000061",
+        "sentence": "だんだんわけがわかって来て、",
+        "sentence_with_furigana": "だんだんわけがわかって来て、"
+    },
+    {
+        "id": "f000062",
+        "sentence": "そんないたずらをしなくなるだろう。",
+        "sentence_with_furigana": "そんないたずらをしなくなるだろう。"
+    },
+    {
+        "id": "f000063",
+        "sentence": "そんなにいい人になった時に罰を喰わせるのは可哀そうではないか」",
+        "sentence_with_furigana": "そんなにいい人になった時に罰を 喰[く]わせるのは可哀そうではないか」"
+    },
+    {
+        "id": "f000064",
+        "sentence": "このように言われると犬も考えました。",
+        "sentence_with_furigana": "このように言われると犬も考えました。"
+    },
+    {
+        "id": "f000065",
+        "sentence": "「成る程。",
+        "sentence_with_furigana": "「成る程。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "君は猪と言う位で無暗にあばれるばかりと思ったら、",
+        "sentence_with_furigana": "君は猪と言う位で 無暗[むやみ]にあばれるばかりと思ったら、"
+    },
+    {
+        "id": "f000067",
+        "sentence": "中々ちえが深い。",
+        "sentence_with_furigana": "中々ちえが深い。"
+    },
+    {
+        "id": "f000068",
+        "sentence": "そんならこうしようではないか。",
+        "sentence_with_furigana": "そんならこうしようではないか。"
+    },
+    {
+        "id": "f000069",
+        "sentence": "このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、",
+        "sentence_with_furigana": "このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、"
+    },
+    {
+        "id": "f000070",
+        "sentence": "罰を喰わせる事にしよう。",
+        "sentence_with_furigana": "罰を喰わせる事にしよう。"
+    },
+    {
+        "id": "f000071",
+        "sentence": "又良い児が悪くなっていたら、",
+        "sentence_with_furigana": "又良い児が悪くなっていたら、"
+    },
+    {
+        "id": "f000072",
+        "sentence": "御褒美をやらない事にしよう」",
+        "sentence_with_furigana": "御褒美をやらない事にしよう」"
+    },
+    {
+        "id": "f000073",
+        "sentence": "「うん、",
+        "sentence_with_furigana": "「うん、"
+    },
+    {
+        "id": "f000074",
+        "sentence": "それがいい。",
+        "sentence_with_furigana": "それがいい。"
+    },
+    {
+        "id": "f000075",
+        "sentence": "僕もそれじゃ来年は勉強をして、",
+        "sentence_with_furigana": "僕もそれじゃ来年は勉強をして、"
+    },
+    {
+        "id": "f000076",
+        "sentence": "猪のようにあばれて悪い事をする児と、",
+        "sentence_with_furigana": "猪のようにあばれて悪い事をする児と、"
+    },
+    {
+        "id": "f000077",
+        "sentence": "猪のように一所懸命に好い事をする児の名前を集めよう。",
+        "sentence_with_furigana": "猪のように一所懸命に好い事をする児の名前を集めよう。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」",
+        "sentence_with_furigana": "そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」"
+    },
+    {
+        "id": "f000079",
+        "sentence": "二人は手を打って、",
+        "sentence_with_furigana": "二人は手を打って、"
+    },
+    {
+        "id": "f000080",
+        "sentence": "「それがいい、",
+        "sentence_with_furigana": "「それがいい、"
+    },
+    {
+        "id": "f000081",
+        "sentence": "それがいい」",
+        "sentence_with_furigana": "それがいい」"
+    },
+    {
+        "id": "f000082",
+        "sentence": "と言いました。",
+        "sentence_with_furigana": "と言いました。"
+    },
+    {
+        "id": "f000083",
+        "sentence": "そのうちに十二時の鐘が鳴りました。",
+        "sentence_with_furigana": "そのうちに十二時の鐘が鳴りました。"
+    },
+    {
+        "id": "f000084",
+        "sentence": "「やあ鐘が鳴った。",
+        "sentence_with_furigana": "「やあ鐘が鳴った。"
+    },
+    {
+        "id": "f000085",
+        "sentence": "君も僕の大好きの処まで降って来たようだ。",
+        "sentence_with_furigana": "君も僕の大好きの処まで降って来たようだ。"
+    },
+    {
+        "id": "f000086",
+        "sentence": "では出かけようではないか」",
+        "sentence_with_furigana": "では出かけようではないか」"
+    },
+    {
+        "id": "f000087",
+        "sentence": "二人は表に出て右と左に別れました。",
+        "sentence_with_furigana": "二人は表に出て右と左に別れました。"
+    },
+    {
+        "id": "f000088",
+        "sentence": "その時二人は帽子をふって、",
+        "sentence_with_furigana": "その時二人は帽子をふって、"
+    },
+    {
+        "id": "f000089",
+        "sentence": "「犬の年の児万歳」",
+        "sentence_with_furigana": "「犬の年の児万歳」"
+    },
+    {
+        "id": "f000090",
+        "sentence": "「猪の年の児万歳」",
+        "sentence_with_furigana": "「猪の年の児万歳」"
+    },
+    {
+        "id": "f000091",
+        "sentence": "と叫びました。",
+        "sentence_with_furigana": "と叫びました。"
+    }
+]

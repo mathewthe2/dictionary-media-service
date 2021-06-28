@@ -1,10 +1,5 @@
 [
     {
-        "id": "S000001",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000001",
         "sentence": "新美南吉　作",
         "sentence_with_furigana": "新美南吉　作"
@@ -13,11 +8,6 @@
         "id": "f000002",
         "sentence": "赤とんぼ",
         "sentence_with_furigana": "赤とんぼ"
-    },
-    {
-        "id": "E000002",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000003",
@@ -60,11 +50,6 @@
         "sentence_with_furigana": "真実[ほんとう]に緑につつまれています。"
     },
     {
-        "id": "E000010",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000011",
         "sentence": "赤とんぼは、",
         "sentence_with_furigana": "赤とんぼは、"
@@ -85,11 +70,6 @@
         "sentence_with_furigana": "朝顔[あさがお]のつるがまきついています。"
     },
     {
-        "id": "S000015",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000015",
         "sentence": "昨年の夏、",
         "sentence_with_furigana": "昨年[さくねん]の夏、"
@@ -108,11 +88,6 @@
         "id": "f000018",
         "sentence": "と赤とんぼは思いました。",
         "sentence_with_furigana": "と赤とんぼは思いました。"
-    },
-    {
-        "id": "E000018",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000019",
@@ -140,11 +115,6 @@
         "sentence_with_furigana": "高い空に 舞[ま]い上がりました。"
     },
     {
-        "id": "E000023",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000024",
         "sentence": "三四人の人が、",
         "sentence_with_furigana": "三四人の人が、"
@@ -168,11 +138,6 @@
         "id": "f000028",
         "sentence": "じっと近づいて来る人々を見ていました。",
         "sentence_with_furigana": "じっと近づいて来る人々を見ていました。"
-    },
-    {
-        "id": "E000028",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000029",
@@ -238,11 +203,6 @@
         "id": "f000041",
         "sentence": "赤とんぼは頭をかたげました。",
         "sentence_with_furigana": "赤とんぼは頭をかたげました。"
-    },
-    {
-        "id": "S000042",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000042",
@@ -355,11 +315,6 @@
         "sentence_with_furigana": "うれしさに 跳[と]び上がりました。"
     },
     {
-        "id": "S000064",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000064",
         "sentence": "つばくらが、",
         "sentence_with_furigana": "つばくらが、"
@@ -368,11 +323,6 @@
         "id": "f000065",
         "sentence": "風のようにかけて行きます。",
         "sentence_with_furigana": "風のようにかけて行きます。"
-    },
-    {
-        "id": "S000066",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000066",
@@ -413,11 +363,6 @@
         "id": "f000073",
         "sentence": "その羽をいっそう赤くしています。",
         "sentence_with_furigana": "その 羽[はね]をいっそう赤くしています。"
-    },
-    {
-        "id": "S000074",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000074",
@@ -550,11 +495,6 @@
         "sentence_with_furigana": "とても 愉快[ゆかい]です。"
     },
     {
-        "id": "E000099",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000100",
         "sentence": "書生さんが、",
         "sentence_with_furigana": "書生[しょせい]さんが、"
@@ -645,11 +585,6 @@
         "sentence_with_furigana": "赤とんぼはその指先を見ていました。"
     },
     {
-        "id": "S000118",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000118",
         "sentence": "つづけて、",
         "sentence_with_furigana": "つづけて、"
@@ -675,11 +610,6 @@
         "sentence_with_furigana": "その円を小さくして赤とんぼに近づいて来ます。"
     },
     {
-        "id": "E000122",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000123",
         "sentence": "赤とんぼは、",
         "sentence_with_furigana": "赤とんぼは、"
@@ -693,11 +623,6 @@
         "id": "f000125",
         "sentence": "書生さんの指先をみつめています。",
         "sentence_with_furigana": "書生さんの指先をみつめています。"
-    },
-    {
-        "id": "E000125",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000126",
@@ -795,11 +720,6 @@
         "sentence_with_furigana": "赤とんぼをはなして 逃[に]げて行きました。"
     },
     {
-        "id": "E000144",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000145",
         "sentence": "赤とんぼは、",
         "sentence_with_furigana": "赤とんぼは、"
@@ -810,11 +730,6 @@
         "sentence_with_furigana": "ホッとして空へ飛び上がりました。"
     },
     {
-        "id": "S000147",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000147",
         "sentence": "良いおじょうちゃんだな、",
         "sentence_with_furigana": "良いおじょうちゃんだな、"
@@ -823,11 +738,6 @@
         "id": "f000148",
         "sentence": "と思いながら──",
         "sentence_with_furigana": "と思いながら──"
-    },
-    {
-        "id": "E000148",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000149",
@@ -858,11 +768,6 @@
         "id": "f000154",
         "sentence": "かあいいおじょうちゃんと同じように。",
         "sentence_with_furigana": "かあいいおじょうちゃんと同じように。"
-    },
-    {
-        "id": "E000154",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000155",
@@ -928,11 +833,6 @@
         "id": "f000167",
         "sentence": "雲のように出て来ました。",
         "sentence_with_furigana": "雲のように出て来ました。"
-    },
-    {
-        "id": "S000168",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000168",
@@ -1145,11 +1045,6 @@
         "sentence_with_furigana": "顔をあかくして行ってしまいました。"
     },
     {
-        "id": "E000209",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000210",
         "sentence": "窓から離れて、",
         "sentence_with_furigana": "窓[まど]から 離[はな]れて、"
@@ -1190,11 +1085,6 @@
         "sentence_with_furigana": "黒く 澄[す]んでいました。"
     },
     {
-        "id": "E000217",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000218",
         "sentence": "暑かった夏は、",
         "sentence_with_furigana": "暑[あつ]かった夏は、"
@@ -1220,11 +1110,6 @@
         "sentence_with_furigana": "しおれました。"
     },
     {
-        "id": "S000223",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000223",
         "sentence": "鈴虫が、",
         "sentence_with_furigana": "鈴虫[すずむし]が、"
@@ -1233,11 +1118,6 @@
         "id": "f000224",
         "sentence": "涼しい声でなくようになりました。",
         "sentence_with_furigana": "涼[すず]しい声でなくようになりました。"
-    },
-    {
-        "id": "S000225",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000225",
@@ -1440,11 +1320,6 @@
         "sentence_with_furigana": "垣根[かきね]の竹の先にうつりました。"
     },
     {
-        "id": "E000264",
-        "sentence": "",
-        "sentence_with_furigana": ""
-    },
-    {
         "id": "f000265",
         "sentence": "「あたしの赤とんぼよ、",
         "sentence_with_furigana": "「あたしの赤とんぼよ、"
@@ -1453,11 +1328,6 @@
         "id": "f000266",
         "sentence": "さようなら──」",
         "sentence_with_furigana": "さようなら──」"
-    },
-    {
-        "id": "S000267",
-        "sentence": "",
-        "sentence_with_furigana": ""
     },
     {
         "id": "f000267",
@@ -1528,10 +1398,5 @@
         "id": "f000280",
         "sentence": "あのかあいいおじょうちゃんを思い出しています。",
         "sentence_with_furigana": "あのかあいいおじょうちゃんを思い出しています。"
-    },
-    {
-        "id": "E000280",
-        "sentence": "",
-        "sentence_with_furigana": ""
     }
 ]

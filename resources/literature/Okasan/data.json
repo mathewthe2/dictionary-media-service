@@ -1,0 +1,448 @@
+[
+    {
+        "id": "Okasan-f000002",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "お母さん",
+        "sentence_with_furigana": "お母さん",
+        "word_base_list": [
+            "御",
+            "母さん"
+        ],
+        "word_list": [
+            "お",
+            "母さん"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Okasan-f000003",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "「お母さん海が見えた！",
+        "sentence_with_furigana": "「お 母[かあ]さん 海[うみ]が 見[み]えた！",
+        "word_base_list": [
+            "「",
+            "御",
+            "母さん",
+            "海",
+            "が",
+            "見える",
+            "た",
+            "！"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "母さん",
+            "海",
+            "が",
+            "見え",
+            "た",
+            "！"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Okasan-f000004",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "あれあれかもめが飛んでいるよ。",
+        "sentence_with_furigana": "あれあれかもめが 飛[と]んでいるよ。",
+        "word_base_list": [
+            "あれ",
+            "あれ",
+            "鴎",
+            "が",
+            "飛ぶ",
+            "で",
+            "居る",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "あれ",
+            "あれ",
+            "かもめ",
+            "が",
+            "飛ん",
+            "で",
+            "いる",
+            "よ",
+            "。"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Okasan-f000005",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "あれあれあんなに遠く帆掛船が",
+        "sentence_with_furigana": "あれあれあんなに 遠[とお]く 帆掛船[ほかけぶね]が",
+        "word_base_list": [
+            "あれ",
+            "あれ",
+            "あんな",
+            "だ",
+            "遠い",
+            "帆掛け",
+            "船",
+            "が"
+        ],
+        "word_list": [
+            "あれ",
+            "あれ",
+            "あんな",
+            "に",
+            "遠く",
+            "帆掛",
+            "船",
+            "が"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Okasan-f000006",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "見えるよ。",
+        "sentence_with_furigana": "見[み]えるよ。",
+        "word_base_list": [
+            "見える",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "見える",
+            "よ",
+            "。"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Okasan-f000007",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "お母さんお母さん海が見えたよ！",
+        "sentence_with_furigana": "お 母[かあ]さんお 母[かあ]さん 海[うみ]が 見[み]えたよ！",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "御",
+            "母さん",
+            "海",
+            "が",
+            "見える",
+            "た",
+            "よ",
+            "！"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "お",
+            "母さん",
+            "海",
+            "が",
+            "見え",
+            "た",
+            "よ",
+            "！"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Okasan-f000008",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "」と",
+        "sentence_with_furigana": "」と",
+        "word_base_list": [
+            "」",
+            "と"
+        ],
+        "word_list": [
+            "」",
+            "と"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Okasan-f000009",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "子供がいった。",
+        "sentence_with_furigana": "子供[こども]がいった。",
+        "word_base_list": [
+            "子供",
+            "が",
+            "言う",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子供",
+            "が",
+            "いっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Okasan-f000010",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "「沖の白帆が白いか、",
+        "sentence_with_furigana": "「 沖[おき]の 白帆[しらほ]が 白[しろ]いか、",
+        "word_base_list": [
+            "「",
+            "沖",
+            "の",
+            "白帆",
+            "が",
+            "白い",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "沖",
+            "の",
+            "白帆",
+            "が",
+            "白い",
+            "か",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Okasan-f000011",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "飛んでいるかもめが白いか、",
+        "sentence_with_furigana": "飛[と]んでいるかもめが 白[しろ]いか、",
+        "word_base_list": [
+            "飛ぶ",
+            "で",
+            "居る",
+            "鴎",
+            "が",
+            "白い",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "飛ん",
+            "で",
+            "いる",
+            "かもめ",
+            "が",
+            "白い",
+            "か",
+            "、"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Okasan-f000012",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "わたしの姿が白いか。",
+        "sentence_with_furigana": "わたしの 姿[すがた]が 白[しろ]いか。",
+        "word_base_list": [
+            "私",
+            "の",
+            "姿",
+            "が",
+            "白い",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "わたし",
+            "の",
+            "姿",
+            "が",
+            "白い",
+            "か",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Okasan-f000013",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "」と",
+        "sentence_with_furigana": "」と",
+        "word_base_list": [
+            "」",
+            "と"
+        ],
+        "word_list": [
+            "」",
+            "と"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Okasan-f000014",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "波がいった。",
+        "sentence_with_furigana": "波[なみ]がいった。",
+        "word_base_list": [
+            "波",
+            "が",
+            "言う",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "波",
+            "が",
+            "いっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Okasan-f000015",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、",
+        "word_base_list": [
+            "「",
+            "さあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "さあ",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Okasan-f000016",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "車夫さん、",
+        "sentence_with_furigana": "車夫[くるまや]さん、",
+        "word_base_list": [
+            "車夫",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "車夫",
+            "さん",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Okasan-f000017",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "かまわんで引いてください。",
+        "sentence_with_furigana": "かまわんで 引[ひ]いてください。",
+        "word_base_list": [
+            "構う",
+            "ず",
+            "で",
+            "引く",
+            "て",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "かまわ",
+            "ん",
+            "で",
+            "引い",
+            "て",
+            "ください",
+            "。"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Okasan-f000018",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "」と",
+        "sentence_with_furigana": "」と",
+        "word_base_list": [
+            "」",
+            "と"
+        ],
+        "word_list": [
+            "」",
+            "と"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Okasan-f000019",
+        "author": "Ogawa Mimei",
+        "author_japanese": "小川 未明",
+        "deck_name": "Okasan",
+        "deck_name_japanese": "お母さん",
+        "sentence": "母がいった。",
+        "sentence_with_furigana": "母[はは]がいった。",
+        "word_base_list": [
+            "母",
+            "が",
+            "言う",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "母",
+            "が",
+            "いっ",
+            "た",
+            "。"
+        ],
+        "sound": "f000019.mp3"
+    }
+]

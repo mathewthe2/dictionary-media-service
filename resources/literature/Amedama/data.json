@@ -1,0 +1,2266 @@
+[
+    {
+        "id": "Amedama-f000002",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "飴だま",
+        "sentence_with_furigana": "飴だま",
+        "word_base_list": [
+            "飴",
+            "だ",
+            "まー"
+        ],
+        "word_list": [
+            "飴",
+            "だ",
+            "ま"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Amedama-f000003",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "春のあたたかい日のこと、",
+        "sentence_with_furigana": "春のあたたかい日のこと、",
+        "word_base_list": [
+            "春",
+            "の",
+            "温かい",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "春",
+            "の",
+            "あたたかい",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Amedama-f000004",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "わたし舟にふたりの小さな子どもをつれた女の旅人がのりました。",
+        "sentence_with_furigana": "わたし 舟[ぶね]にふたりの小さな子どもをつれた女の 旅人[たびびと]がのりました。",
+        "word_base_list": [
+            "私",
+            "舟",
+            "に",
+            "二人",
+            "の",
+            "小さな",
+            "子供",
+            "を",
+            "つれる",
+            "た",
+            "女",
+            "の",
+            "旅人",
+            "が",
+            "乗る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "わたし",
+            "舟",
+            "に",
+            "ふたり",
+            "の",
+            "小さな",
+            "子ども",
+            "を",
+            "つれ",
+            "た",
+            "女",
+            "の",
+            "旅人",
+            "が",
+            "のり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Amedama-f000005",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "舟が出ようとすると、",
+        "sentence_with_furigana": "舟[ふね]が出ようとすると、",
+        "word_base_list": [
+            "舟",
+            "が",
+            "出る",
+            "と",
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "舟",
+            "が",
+            "出よう",
+            "と",
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Amedama-f000006",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「おオい、",
+        "sentence_with_furigana": "「おオい、",
+        "word_base_list": [
+            "「",
+            "御",
+            "御",
+            "い",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "オ",
+            "い",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Amedama-f000007",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ちょっとまってくれ。」",
+        "sentence_with_furigana": "ちょっとまってくれ。」",
+        "word_base_list": [
+            "一寸",
+            "待つ",
+            "て",
+            "呉れる",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ちょっと",
+            "まっ",
+            "て",
+            "くれ",
+            "。",
+            "」"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Amedama-f000008",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Amedama-f000009",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "どての向こうから手をふりながら、",
+        "sentence_with_furigana": "どての向こうから手をふりながら、",
+        "word_base_list": [
+            "どて",
+            "の",
+            "向こう",
+            "から",
+            "手",
+            "を",
+            "ふる",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "どて",
+            "の",
+            "向こう",
+            "から",
+            "手",
+            "を",
+            "ふり",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Amedama-f000010",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "さむらいがひとり走ってきて、",
+        "sentence_with_furigana": "さむらいがひとり走ってきて、",
+        "word_base_list": [
+            "侍",
+            "が",
+            "一人",
+            "走る",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "さむらい",
+            "が",
+            "ひとり",
+            "走っ",
+            "て",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Amedama-f000011",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "舟にとびこみました。",
+        "sentence_with_furigana": "舟にとびこみました。",
+        "word_base_list": [
+            "舟",
+            "に",
+            "飛ぶ",
+            "込む",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "舟",
+            "に",
+            "とび",
+            "こみ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Amedama-f000012",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "舟は出ました。",
+        "sentence_with_furigana": "舟[ふね]は出ました。",
+        "word_base_list": [
+            "舟",
+            "は",
+            "出る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "舟",
+            "は",
+            "出",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Amedama-f000013",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "さむらいは舟のまん中にどっかりすわっていました。",
+        "sentence_with_furigana": "さむらいは舟のまん中にどっかりすわっていました。",
+        "word_base_list": [
+            "侍",
+            "は",
+            "舟",
+            "の",
+            "真ん中",
+            "に",
+            "どっかり",
+            "座る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "さむらい",
+            "は",
+            "舟",
+            "の",
+            "まん中",
+            "に",
+            "どっかり",
+            "すわっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Amedama-f000014",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ぽかぽかあたたかいので、",
+        "sentence_with_furigana": "ぽかぽかあたたかいので、",
+        "word_base_list": [
+            "ぽかぽか",
+            "温かい",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "ぽかぽか",
+            "あたたかい",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Amedama-f000015",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "そのうちにいねむりをはじめました。",
+        "sentence_with_furigana": "そのうちにいねむりをはじめました。",
+        "word_base_list": [
+            "其の",
+            "内",
+            "に",
+            "居眠り",
+            "を",
+            "始める",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "うち",
+            "に",
+            "いねむり",
+            "を",
+            "はじめ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Amedama-f000016",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "黒いひげをはやして、",
+        "sentence_with_furigana": "黒いひげをはやして、",
+        "word_base_list": [
+            "黒い",
+            "髭",
+            "を",
+            "はやす",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "黒い",
+            "ひげ",
+            "を",
+            "はやし",
+            "て",
+            "、"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Amedama-f000017",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "つよそうなさむらいが、",
+        "sentence_with_furigana": "つよそうなさむらいが、",
+        "word_base_list": [
+            "強い",
+            "そう",
+            "だ",
+            "侍",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "つよ",
+            "そう",
+            "な",
+            "さむらい",
+            "が",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Amedama-f000018",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "こっくりこっくりするので、",
+        "sentence_with_furigana": "こっくりこっくりするので、",
+        "word_base_list": [
+            "こっくり",
+            "こっくり",
+            "為る",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "こっくり",
+            "こっくり",
+            "する",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Amedama-f000019",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "子どもたちはおかしくて、",
+        "sentence_with_furigana": "子どもたちはおかしくて、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "可笑しい",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "子ども",
+            "たち",
+            "は",
+            "おかしく",
+            "て",
+            "、"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Amedama-f000020",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ふふふと笑いました。",
+        "sentence_with_furigana": "ふふふと 笑[わら]いました。",
+        "word_base_list": [
+            "ふふふ",
+            "と",
+            "笑う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ふふふ",
+            "と",
+            "笑い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Amedama-f000021",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんは口に指をあてて、",
+        "sentence_with_furigana": "お母さんは口に指をあてて、",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "口",
+            "に",
+            "指",
+            "を",
+            "当てる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "口",
+            "に",
+            "指",
+            "を",
+            "あて",
+            "て",
+            "、"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Amedama-f000022",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「だまっておいで。」",
+        "sentence_with_furigana": "「だまっておいで。」",
+        "word_base_list": [
+            "「",
+            "黙る",
+            "て",
+            "御",
+            "出る",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "だまっ",
+            "て",
+            "お",
+            "いで",
+            "。",
+            "」"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Amedama-f000023",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Amedama-f000024",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "さむらいがおこってはたいへんだからです。",
+        "sentence_with_furigana": "さむらいがおこってはたいへんだからです。",
+        "word_base_list": [
+            "侍",
+            "が",
+            "おこる",
+            "て",
+            "は",
+            "大変",
+            "だ",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "さむらい",
+            "が",
+            "おこっ",
+            "て",
+            "は",
+            "たいへん",
+            "だ",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Amedama-f000025",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "子どもたちはだまりました。",
+        "sentence_with_furigana": "子どもたちはだまりました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "黙る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子ども",
+            "たち",
+            "は",
+            "だまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Amedama-f000026",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "しばらくするとひとりの子どもが、",
+        "sentence_with_furigana": "しばらくするとひとりの子どもが、",
+        "word_base_list": [
+            "暫く",
+            "為る",
+            "と",
+            "一人",
+            "の",
+            "子供",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "しばらく",
+            "する",
+            "と",
+            "ひとり",
+            "の",
+            "子ども",
+            "が",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Amedama-f000027",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「かあちゃん、",
+        "sentence_with_furigana": "「かあちゃん、",
+        "word_base_list": [
+            "「",
+            "母ちゃん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "かあちゃん",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Amedama-f000028",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "飴だまちょうだい。」",
+        "sentence_with_furigana": "飴[あめ]だまちょうだい。」",
+        "word_base_list": [
+            "飴",
+            "だ",
+            "まー",
+            "頂戴",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "飴",
+            "だ",
+            "ま",
+            "ちょうだい",
+            "。",
+            "」"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Amedama-f000029",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "と手をさしだしました。",
+        "sentence_with_furigana": "と手をさしだしました。",
+        "word_base_list": [
+            "と",
+            "手",
+            "を",
+            "さす",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "手",
+            "を",
+            "さし",
+            "だし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Amedama-f000030",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Amedama-f000031",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "もうひとりの子どもも、",
+        "sentence_with_furigana": "もうひとりの子どもも、",
+        "word_base_list": [
+            "もう",
+            "一人",
+            "の",
+            "子供",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "ひとり",
+            "の",
+            "子ども",
+            "も",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Amedama-f000032",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「かあちゃん、",
+        "sentence_with_furigana": "「かあちゃん、",
+        "word_base_list": [
+            "「",
+            "母ちゃん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "かあちゃん",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Amedama-f000033",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "あたしにも。」",
+        "sentence_with_furigana": "あたしにも。」",
+        "word_base_list": [
+            "私",
+            "に",
+            "も",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "あたし",
+            "に",
+            "も",
+            "。",
+            "」"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Amedama-f000034",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "word_base_list": [
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Amedama-f000035",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんはふところから、",
+        "sentence_with_furigana": "お母さんはふところから、",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "懐",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "ふところ",
+            "から",
+            "、"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Amedama-f000036",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "紙のふくろをとりだしました。",
+        "sentence_with_furigana": "紙のふくろをとりだしました。",
+        "word_base_list": [
+            "紙",
+            "の",
+            "袋",
+            "を",
+            "取る",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "紙",
+            "の",
+            "ふくろ",
+            "を",
+            "とり",
+            "だし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Amedama-f000037",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "word_base_list": [
+            "所",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ところ",
+            "が",
+            "、"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Amedama-f000038",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "飴だまはもう一つしかありませんでした。",
+        "sentence_with_furigana": "飴[あめ]だまはもう一つしかありませんでした。",
+        "word_base_list": [
+            "飴",
+            "だま",
+            "は",
+            "もう",
+            "1",
+            "つ",
+            "しか",
+            "有る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "飴",
+            "だま",
+            "は",
+            "もう",
+            "一",
+            "つ",
+            "しか",
+            "あり",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Amedama-f000039",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「あたしにちょうだい。」",
+        "sentence_with_furigana": "「あたしにちょうだい。」",
+        "word_base_list": [
+            "「",
+            "私",
+            "に",
+            "頂戴",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "あたし",
+            "に",
+            "ちょうだい",
+            "。",
+            "」"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Amedama-f000040",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「あたしにちょうだい。」",
+        "sentence_with_furigana": "「あたしにちょうだい。」",
+        "word_base_list": [
+            "「",
+            "私",
+            "に",
+            "頂戴",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "あたし",
+            "に",
+            "ちょうだい",
+            "。",
+            "」"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Amedama-f000041",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ふたりの子どもは、",
+        "sentence_with_furigana": "ふたりの子どもは、",
+        "word_base_list": [
+            "二人",
+            "の",
+            "子供",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ふたり",
+            "の",
+            "子ども",
+            "は",
+            "、"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Amedama-f000042",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "りょうほうからせがみました。",
+        "sentence_with_furigana": "りょうほうからせがみました。",
+        "word_base_list": [
+            "りょう",
+            "方",
+            "から",
+            "せがむ",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "りょう",
+            "ほう",
+            "から",
+            "せがみ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Amedama-f000043",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "飴だまは一つしかないので、",
+        "sentence_with_furigana": "飴[あめ]だまは一つしかないので、",
+        "word_base_list": [
+            "飴",
+            "だま",
+            "は",
+            "1",
+            "つ",
+            "しか",
+            "無い",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "飴",
+            "だま",
+            "は",
+            "一",
+            "つ",
+            "しか",
+            "ない",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Amedama-f000044",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんはこまってしまいました。",
+        "sentence_with_furigana": "お母さんはこまってしまいました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "困る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "こまっ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Amedama-f000045",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「いい子たちだから待っておいで、",
+        "sentence_with_furigana": "「いい子たちだから待っておいで、",
+        "word_base_list": [
+            "「",
+            "良い",
+            "子",
+            "達",
+            "だ",
+            "から",
+            "待つ",
+            "て",
+            "御",
+            "出る",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いい",
+            "子",
+            "たち",
+            "だ",
+            "から",
+            "待っ",
+            "て",
+            "お",
+            "いで",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Amedama-f000046",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "向こうへついたら買ってあげるからね。」",
+        "sentence_with_furigana": "向こうへついたら買ってあげるからね。」",
+        "word_base_list": [
+            "向こう",
+            "へ",
+            "付く",
+            "た",
+            "買う",
+            "て",
+            "上げる",
+            "から",
+            "ね",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "向こう",
+            "へ",
+            "つい",
+            "たら",
+            "買っ",
+            "て",
+            "あげる",
+            "から",
+            "ね",
+            "。",
+            "」"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Amedama-f000047",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "といってきかせても、",
+        "sentence_with_furigana": "といってきかせても、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "て",
+            "きく",
+            "せる",
+            "て",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "いっ",
+            "て",
+            "きか",
+            "せ",
+            "て",
+            "も",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Amedama-f000048",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "子どもたちは、",
+        "sentence_with_furigana": "子どもたちは、",
+        "word_base_list": [
+            "子供",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子ども",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Amedama-f000049",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ちょうだいよオ、",
+        "sentence_with_furigana": "ちょうだいよオ、",
+        "word_base_list": [
+            "頂戴",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "ちょうだい",
+            "よオ",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Amedama-f000050",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ちょうだいよオ、",
+        "sentence_with_furigana": "ちょうだいよオ、",
+        "word_base_list": [
+            "頂戴",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "ちょうだい",
+            "よオ",
+            "、"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Amedama-f000051",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "とだだをこねました。",
+        "sentence_with_furigana": "とだだをこねました。",
+        "word_base_list": [
+            "と",
+            "駄々",
+            "を",
+            "捏ねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "だだ",
+            "を",
+            "こね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Amedama-f000052",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "いねむりをしていたはずのさむらいは、",
+        "sentence_with_furigana": "いねむりをしていたはずのさむらいは、",
+        "word_base_list": [
+            "居眠り",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "た",
+            "筈",
+            "の",
+            "侍",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "いねむり",
+            "を",
+            "し",
+            "て",
+            "い",
+            "た",
+            "はず",
+            "の",
+            "さむらい",
+            "は",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "Amedama-f000053",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "ぱっちり眼をあけて、",
+        "sentence_with_furigana": "ぱっちり 眼[め]をあけて、",
+        "word_base_list": [
+            "ぱっちり",
+            "目",
+            "を",
+            "あける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ぱっちり",
+            "眼",
+            "を",
+            "あけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "Amedama-f000054",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "子どもたちがせがむのをみていました。",
+        "sentence_with_furigana": "子どもたちがせがむのをみていました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "が",
+            "せがむ",
+            "の",
+            "を",
+            "見る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子ども",
+            "たち",
+            "が",
+            "せがむ",
+            "の",
+            "を",
+            "み",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "Amedama-f000055",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんはおどろきました。",
+        "sentence_with_furigana": "お母さんはおどろきました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "驚く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "おどろき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "Amedama-f000056",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "いねむりをじゃまされたので、",
+        "sentence_with_furigana": "いねむりをじゃまされたので、",
+        "word_base_list": [
+            "居眠り",
+            "を",
+            "邪魔",
+            "為る",
+            "れる",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "いねむり",
+            "を",
+            "じゃま",
+            "さ",
+            "れ",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "Amedama-f000057",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "このおさむらいはおこっているのにちがいない、",
+        "sentence_with_furigana": "このおさむらいはおこっているのにちがいない、",
+        "word_base_list": [
+            "此の",
+            "御",
+            "侍",
+            "は",
+            "おこる",
+            "て",
+            "居る",
+            "の",
+            "に",
+            "違い",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "お",
+            "さむらい",
+            "は",
+            "おこっ",
+            "て",
+            "いる",
+            "の",
+            "に",
+            "ちがい",
+            "ない",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "Amedama-f000058",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "と思いました。",
+        "sentence_with_furigana": "と思いました。",
+        "word_base_list": [
+            "と",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "Amedama-f000059",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「おとなしくしておいで。」",
+        "sentence_with_furigana": "「おとなしくしておいで。」",
+        "word_base_list": [
+            "「",
+            "大人しい",
+            "為る",
+            "て",
+            "御",
+            "出る",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "おとなしく",
+            "し",
+            "て",
+            "お",
+            "いで",
+            "。",
+            "」"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "Amedama-f000060",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "Amedama-f000061",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんは子どもたちをなだめました。",
+        "sentence_with_furigana": "お母さんは子どもたちをなだめました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "子供",
+            "達",
+            "を",
+            "宥める",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "子ども",
+            "たち",
+            "を",
+            "なだめ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "Amedama-f000062",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "けれど子どもたちはききませんでした。",
+        "sentence_with_furigana": "けれど子どもたちはききませんでした。",
+        "word_base_list": [
+            "けれど",
+            "子供",
+            "達",
+            "は",
+            "きく",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "けれど",
+            "子ども",
+            "たち",
+            "は",
+            "きき",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "Amedama-f000063",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "するとさむらいが、",
+        "sentence_with_furigana": "するとさむらいが、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "侍",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "さむらい",
+            "が",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "Amedama-f000064",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "すらりと刀をぬいて、",
+        "sentence_with_furigana": "すらりと 刀[かたな]をぬいて、",
+        "word_base_list": [
+            "すらり",
+            "と",
+            "刀",
+            "を",
+            "抜く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "すらり",
+            "と",
+            "刀",
+            "を",
+            "ぬい",
+            "て",
+            "、"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "Amedama-f000065",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんと子どもたちのまえにやってきました。",
+        "sentence_with_furigana": "お母さんと子どもたちのまえにやってきました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "と",
+            "子供",
+            "達",
+            "の",
+            "前",
+            "に",
+            "遣る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "と",
+            "子ども",
+            "たち",
+            "の",
+            "まえ",
+            "に",
+            "やっ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "Amedama-f000066",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんはまっさおになって、",
+        "sentence_with_furigana": "お母さんはまっさおになって、",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "真っ青",
+            "だ",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "まっさお",
+            "に",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "Amedama-f000067",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "子どもたちをかばいました。",
+        "sentence_with_furigana": "子どもたちをかばいました。",
+        "word_base_list": [
+            "子供",
+            "達",
+            "を",
+            "庇う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子ども",
+            "たち",
+            "を",
+            "かばい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "Amedama-f000068",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "いねむりのじゃまをした子どもたちを、",
+        "sentence_with_furigana": "いねむりのじゃまをした子どもたちを、",
+        "word_base_list": [
+            "居眠り",
+            "の",
+            "邪魔",
+            "を",
+            "為る",
+            "た",
+            "子供",
+            "達",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "いねむり",
+            "の",
+            "じゃま",
+            "を",
+            "し",
+            "た",
+            "子ども",
+            "たち",
+            "を",
+            "、"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "Amedama-f000069",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "さむらいがきりころすと思ったのです。",
+        "sentence_with_furigana": "さむらいがきりころすと思ったのです。",
+        "word_base_list": [
+            "侍",
+            "が",
+            "きり",
+            "殺す",
+            "と",
+            "思う",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "さむらい",
+            "が",
+            "きり",
+            "ころす",
+            "と",
+            "思っ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "Amedama-f000070",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「飴だまを出せ。」",
+        "sentence_with_furigana": "「 飴[あめ]だまを出せ。」",
+        "word_base_list": [
+            "「",
+            "飴",
+            "だま",
+            "を",
+            "出す",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "飴",
+            "だま",
+            "を",
+            "出せ",
+            "。",
+            "」"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "Amedama-f000071",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "とさむらいはいいました。",
+        "sentence_with_furigana": "とさむらいはいいました。",
+        "word_base_list": [
+            "と",
+            "侍",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "さむらい",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "Amedama-f000072",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "お母さんはおそるおそる飴だまをさしだしました。",
+        "sentence_with_furigana": "お母さんはおそるおそる 飴[あめ]だまをさしだしました。",
+        "word_base_list": [
+            "御",
+            "母さん",
+            "は",
+            "恐る恐る",
+            "飴",
+            "だま",
+            "を",
+            "さす",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "母さん",
+            "は",
+            "おそるおそる",
+            "飴",
+            "だま",
+            "を",
+            "さし",
+            "だし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "Amedama-f000073",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "さむらいはそれを舟のへりにのせ、",
+        "sentence_with_furigana": "さむらいはそれを 舟[ふね]のへりにのせ、",
+        "word_base_list": [
+            "侍",
+            "は",
+            "其れ",
+            "を",
+            "舟",
+            "の",
+            "縁",
+            "に",
+            "乗せる",
+            "、"
+        ],
+        "word_list": [
+            "さむらい",
+            "は",
+            "それ",
+            "を",
+            "舟",
+            "の",
+            "へり",
+            "に",
+            "のせ",
+            "、"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "Amedama-f000074",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "刀でぱちんと二つにわりました。",
+        "sentence_with_furigana": "刀でぱちんと二つにわりました。",
+        "word_base_list": [
+            "刀",
+            "で",
+            "ぱちん",
+            "と",
+            "2",
+            "つ",
+            "に",
+            "割る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "刀",
+            "で",
+            "ぱちん",
+            "と",
+            "二",
+            "つ",
+            "に",
+            "わり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "Amedama-f000075",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "Amedama-f000076",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "「そオれ。」",
+        "sentence_with_furigana": "「そオれ。」",
+        "word_base_list": [
+            "「",
+            "そう",
+            "御",
+            "れる",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "そ",
+            "オ",
+            "れ",
+            "。",
+            "」"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "Amedama-f000077",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "とふたりの子どもにわけてやりました。",
+        "sentence_with_furigana": "とふたりの子どもにわけてやりました。",
+        "word_base_list": [
+            "と",
+            "二人",
+            "の",
+            "子供",
+            "に",
+            "分ける",
+            "て",
+            "遣る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "ふたり",
+            "の",
+            "子ども",
+            "に",
+            "わけ",
+            "て",
+            "やり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "Amedama-f000078",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "Amedama-f000079",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "またもとのところにかえって、",
+        "sentence_with_furigana": "またもとのところにかえって、",
+        "word_base_list": [
+            "又",
+            "もと",
+            "の",
+            "所",
+            "に",
+            "かえる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "もと",
+            "の",
+            "ところ",
+            "に",
+            "かえっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "Amedama-f000080",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Amedama",
+        "deck_name_japanese": "飴だま",
+        "sentence": "こっくりこっくりねむりはじめました。",
+        "sentence_with_furigana": "こっくりこっくりねむりはじめました。",
+        "word_base_list": [
+            "こっくり",
+            "こっくり",
+            "眠る",
+            "始める",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "こっくり",
+            "こっくり",
+            "ねむり",
+            "はじめ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000080.mp3"
+    }
+]

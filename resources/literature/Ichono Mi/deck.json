@@ -1,0 +1,852 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "宮沢賢治　作",
+        "sentence_with_furigana": "宮沢賢治　作"
+    },
+    {
+        "id": "f000002",
+        "sentence": "いちょうの実",
+        "sentence_with_furigana": "いちょうの実"
+    },
+    {
+        "id": "f000003",
+        "sentence": "そらのてっぺんなんかつめたくてつめたくてまるでカチカチのやきをかけた鋼です。",
+        "sentence_with_furigana": "そらのてっぺんなんかつめたくてつめたくてまるでカチカチのやきをかけた 鋼[はがね]です。"
+    },
+    {
+        "id": "f000004",
+        "sentence": "そして星がいっぱいです。",
+        "sentence_with_furigana": "そして 星[ほし]がいっぱいです。"
+    },
+    {
+        "id": "f000005",
+        "sentence": "けれども東の空はもうやさしいききょうの花びらのようにあやしい底光りをはじめました。",
+        "sentence_with_furigana": "けれども 東[ひがし]の 空[そら]はもうやさしいききょうの 花[はな]びらのようにあやしい 底光[そこびか]りをはじめました。"
+    },
+    {
+        "id": "f000006",
+        "sentence": "その明け方の空の下、",
+        "sentence_with_furigana": "その 明[あ]け 方[がた]の 空[そら]の 下[した]、"
+    },
+    {
+        "id": "f000007",
+        "sentence": "ひるの鳥でもゆかない高いところをするどい霜のかけらが風に流されてサラサラサラサラ南のほうへとんでゆきました。",
+        "sentence_with_furigana": "ひるの 鳥[とり]でもゆかない 高[たか]いところをするどい 霜[しも]のかけらが 風[かぜ]に 流[なが]されてサラサラサラサラ 南[みなみ]のほうへとんでゆきました。"
+    },
+    {
+        "id": "f000008",
+        "sentence": "じつにそのかすかな音が丘の上の一本いちょうの木に聞こえるくらいすみきった明け方です。",
+        "sentence_with_furigana": "じつにそのかすかな 音[おと]が 丘[おか]の 上[うえ]の一 本[ぽん]いちょうの 木[き]に 聞[き]こえるくらいすみきった 明[あ]け 方[がた]です。"
+    },
+    {
+        "id": "f000009",
+        "sentence": "いちょうの実はみんないちどに目をさましました。",
+        "sentence_with_furigana": "いちょうの 実[み]はみんないちどに 目[め]をさましました。"
+    },
+    {
+        "id": "f000010",
+        "sentence": "そしてドキッとしたのです。",
+        "sentence_with_furigana": "そしてドキッとしたのです。"
+    },
+    {
+        "id": "f000011",
+        "sentence": "きょうこそはたしかに旅だちの日でした。",
+        "sentence_with_furigana": "きょうこそはたしかに 旅[たび]だちの 日[ひ]でした。"
+    },
+    {
+        "id": "f000012",
+        "sentence": "みんなも前からそう思っていましたし、",
+        "sentence_with_furigana": "みんなも 前[まえ]からそう 思[おも]っていましたし、"
+    },
+    {
+        "id": "f000013",
+        "sentence": "きのうの夕方やってきた二わのカラスもそういいました。",
+        "sentence_with_furigana": "きのうの 夕方[ゆうがた]やってきた二わのカラスもそういいました。"
+    },
+    {
+        "id": "f000014",
+        "sentence": "「ぼくなんか落ちるとちゅうで目がまわらないだろうか。",
+        "sentence_with_furigana": "「ぼくなんか 落[お]ちるとちゅうで 目[め]がまわらないだろうか。"
+    },
+    {
+        "id": "f000015",
+        "sentence": "」一つの実がいいました。",
+        "sentence_with_furigana": "」一つの 実[み]がいいました。"
+    },
+    {
+        "id": "f000016",
+        "sentence": "「よく目をつぶっていけばいいさ。",
+        "sentence_with_furigana": "「よく 目[め]をつぶっていけばいいさ。"
+    },
+    {
+        "id": "f000017",
+        "sentence": "」も一つが答えました。",
+        "sentence_with_furigana": "」も一つが 答[こた]えました。"
+    },
+    {
+        "id": "f000018",
+        "sentence": "「そうだ。",
+        "sentence_with_furigana": "「そうだ。"
+    },
+    {
+        "id": "f000019",
+        "sentence": "わすれていた。",
+        "sentence_with_furigana": "わすれていた。"
+    },
+    {
+        "id": "f000020",
+        "sentence": "ぼく水とうに水をつめておくんだった。」",
+        "sentence_with_furigana": "ぼく 水[すい]とうに 水[みず]をつめておくんだった。」"
+    },
+    {
+        "id": "f000021",
+        "sentence": "「ぼくはね、",
+        "sentence_with_furigana": "「ぼくはね、"
+    },
+    {
+        "id": "f000022",
+        "sentence": "水とうのほかにはっか水を用意したよ。",
+        "sentence_with_furigana": "水[すい]とうのほかにはっか 水[すい]を 用意[ようい]したよ。"
+    },
+    {
+        "id": "f000023",
+        "sentence": "すこしやろうか。",
+        "sentence_with_furigana": "すこしやろうか。"
+    },
+    {
+        "id": "f000024",
+        "sentence": "旅へ出てあんまり心持ちのわるいときはちょっと飲むといいっておっかさんがいったぜ。」",
+        "sentence_with_furigana": "旅[たび]へ 出[で]てあんまり 心持[こころも]ちのわるいときはちょっと 飲[の]むといいっておっかさんがいったぜ。」"
+    },
+    {
+        "id": "f000025",
+        "sentence": "「なぜおっかさんはぼくへはくれないんだろう。」",
+        "sentence_with_furigana": "「なぜおっかさんはぼくへはくれないんだろう。」"
+    },
+    {
+        "id": "f000026",
+        "sentence": "「だから、",
+        "sentence_with_furigana": "「だから、"
+    },
+    {
+        "id": "f000027",
+        "sentence": "ぼくあげるよ。",
+        "sentence_with_furigana": "ぼくあげるよ。"
+    },
+    {
+        "id": "f000028",
+        "sentence": "おっかさんをわるく思っちゃすまないよ。」",
+        "sentence_with_furigana": "おっかさんをわるく 思[おも]っちゃすまないよ。」"
+    },
+    {
+        "id": "f000029",
+        "sentence": "そうです。",
+        "sentence_with_furigana": "そうです。"
+    },
+    {
+        "id": "f000030",
+        "sentence": "このいちょうの木はおかあさんでした。",
+        "sentence_with_furigana": "このいちょうの 木[き]はおかあさんでした。"
+    },
+    {
+        "id": "f000031",
+        "sentence": "ことしは千人の黄金色の子どもが生まれたのです。",
+        "sentence_with_furigana": "ことしは千 人[にん]の 黄金色[きんいろ]の 子[こ]どもが 生[う]まれたのです。"
+    },
+    {
+        "id": "f000032",
+        "sentence": "そしてきょうこそ子どもらがみんないっしょに旅にたつのです。",
+        "sentence_with_furigana": "そしてきょうこそ 子[こ]どもらがみんないっしょに 旅[たび]にたつのです。"
+    },
+    {
+        "id": "f000033",
+        "sentence": "おかあさんはそれをあんまり悲しんでおうぎ形の黄金の髪の毛をきのうまでにみんな落としてしまいました。",
+        "sentence_with_furigana": "おかあさんはそれをあんまり 悲[かな]しんでおうぎ 形[がた]の 黄金[きん]の 髪[かみ]の 毛[け]をきのうまでにみんな 落[お]としてしまいました。"
+    },
+    {
+        "id": "f000034",
+        "sentence": "「ね、",
+        "sentence_with_furigana": "「ね、"
+    },
+    {
+        "id": "f000035",
+        "sentence": "あたしどんなとこへいくのかしら。",
+        "sentence_with_furigana": "あたしどんなとこへいくのかしら。"
+    },
+    {
+        "id": "f000036",
+        "sentence": "」ひとりのいちょうの女の子が空を見あげてつぶやくようにいいました。",
+        "sentence_with_furigana": "」ひとりのいちょうの 女[おんな]の 子[こ]が 空[そら]を 見[み]あげてつぶやくようにいいました。"
+    },
+    {
+        "id": "f000037",
+        "sentence": "「あたしだってわからないわ、",
+        "sentence_with_furigana": "「あたしだってわからないわ、"
+    },
+    {
+        "id": "f000038",
+        "sentence": "どこへもいきたくないわね。",
+        "sentence_with_furigana": "どこへもいきたくないわね。"
+    },
+    {
+        "id": "f000039",
+        "sentence": "」もひとりがいいました。",
+        "sentence_with_furigana": "」もひとりがいいました。"
+    },
+    {
+        "id": "f000040",
+        "sentence": "「あたしどんなめにあってもいいから、",
+        "sentence_with_furigana": "「あたしどんなめにあってもいいから、"
+    },
+    {
+        "id": "f000041",
+        "sentence": "おっかさんとこにいたいわ。」",
+        "sentence_with_furigana": "おっかさんとこにいたいわ。」"
+    },
+    {
+        "id": "f000042",
+        "sentence": "「だっていけないんですって。",
+        "sentence_with_furigana": "「だっていけないんですって。"
+    },
+    {
+        "id": "f000043",
+        "sentence": "風が毎日そういったわ。」",
+        "sentence_with_furigana": "風[かぜ]が 毎日[まいにち]そういったわ。」"
+    },
+    {
+        "id": "f000044",
+        "sentence": "「いやだわね。」",
+        "sentence_with_furigana": "「いやだわね。」"
+    },
+    {
+        "id": "f000045",
+        "sentence": "「そしてあたしたちもみんなばらばらにわかれてしまうんでしょう。」",
+        "sentence_with_furigana": "「そしてあたしたちもみんなばらばらにわかれてしまうんでしょう。」"
+    },
+    {
+        "id": "f000046",
+        "sentence": "「ええ、",
+        "sentence_with_furigana": "「ええ、"
+    },
+    {
+        "id": "f000047",
+        "sentence": "そうよ。",
+        "sentence_with_furigana": "そうよ。"
+    },
+    {
+        "id": "f000048",
+        "sentence": "もうあたしなんにもいらないわ。」",
+        "sentence_with_furigana": "もうあたしなんにもいらないわ。」"
+    },
+    {
+        "id": "f000049",
+        "sentence": "「あたしもよ。",
+        "sentence_with_furigana": "「あたしもよ。"
+    },
+    {
+        "id": "f000050",
+        "sentence": "今までいろいろわがままばっかしいってゆるしてくださいね。」",
+        "sentence_with_furigana": "今[いま]までいろいろわがままばっかしいってゆるしてくださいね。」"
+    },
+    {
+        "id": "f000051",
+        "sentence": "「あら、",
+        "sentence_with_furigana": "「あら、"
+    },
+    {
+        "id": "f000052",
+        "sentence": "あたしこそ。",
+        "sentence_with_furigana": "あたしこそ。"
+    },
+    {
+        "id": "f000053",
+        "sentence": "あたしこそだわ。",
+        "sentence_with_furigana": "あたしこそだわ。"
+    },
+    {
+        "id": "f000054",
+        "sentence": "ゆるしてちょうだい。」",
+        "sentence_with_furigana": "ゆるしてちょうだい。」"
+    },
+    {
+        "id": "f000055",
+        "sentence": "東の空のききょうの花びらはもういつかしぼんだように力なくなり、",
+        "sentence_with_furigana": "東[ひがし]の 空[そら]のききょうの 花[はな]びらはもういつかしぼんだように 力[ちから]なくなり、"
+    },
+    {
+        "id": "f000056",
+        "sentence": "朝の白光りがあらわれはじめました。",
+        "sentence_with_furigana": "朝[あさ]の 白光[しろびか]りがあらわれはじめました。"
+    },
+    {
+        "id": "f000057",
+        "sentence": "星が一つずつきえてゆきます。",
+        "sentence_with_furigana": "星[ほし]が一つずつきえてゆきます。"
+    },
+    {
+        "id": "f000058",
+        "sentence": "木のいちばんいちばん高いところにいたふたりのいちょうの男の子がいいました。",
+        "sentence_with_furigana": "木[き]のいちばんいちばん 高[たか]いところにいたふたりのいちょうの 男[おとこ]の 子[こ]がいいました。"
+    },
+    {
+        "id": "f000059",
+        "sentence": "「そら、",
+        "sentence_with_furigana": "「そら、"
+    },
+    {
+        "id": "f000060",
+        "sentence": "もう明るくなったぞ。",
+        "sentence_with_furigana": "もう 明[あか]るくなったぞ。"
+    },
+    {
+        "id": "f000061",
+        "sentence": "うれしいなあ。",
+        "sentence_with_furigana": "うれしいなあ。"
+    },
+    {
+        "id": "f000062",
+        "sentence": "ぼくはきっと黄金色のお星さまになるんだよ。」",
+        "sentence_with_furigana": "ぼくはきっと 黄金色[きんいろ]のお 星[ほし]さまになるんだよ。」"
+    },
+    {
+        "id": "f000063",
+        "sentence": "「ぼくもなるよ。",
+        "sentence_with_furigana": "「ぼくもなるよ。"
+    },
+    {
+        "id": "f000064",
+        "sentence": "きっとここから落ちればすぐ北風が空へつれてってくれるだろうね。」",
+        "sentence_with_furigana": "きっとここから 落[お]ちればすぐ 北風[きたかぜ]が 空[そら]へつれてってくれるだろうね。」"
+    },
+    {
+        "id": "f000065",
+        "sentence": "「ぼくは北風じゃないと思うんだよ。",
+        "sentence_with_furigana": "「ぼくは 北風[きたかぜ]じゃないと 思[おも]うんだよ。"
+    },
+    {
+        "id": "f000066",
+        "sentence": "北風はしんせつじゃないんだよ。",
+        "sentence_with_furigana": "北風[きたかぜ]はしんせつじゃないんだよ。"
+    },
+    {
+        "id": "f000067",
+        "sentence": "ぼくはきっとからすさんだろうと思うね。」",
+        "sentence_with_furigana": "ぼくはきっとからすさんだろうと 思[おも]うね。」"
+    },
+    {
+        "id": "f000068",
+        "sentence": "「そうだ。",
+        "sentence_with_furigana": "「そうだ。"
+    },
+    {
+        "id": "f000069",
+        "sentence": "きっとからすさんだ。",
+        "sentence_with_furigana": "きっとからすさんだ。"
+    },
+    {
+        "id": "f000070",
+        "sentence": "からすさんはえらいんだよ。",
+        "sentence_with_furigana": "からすさんはえらいんだよ。"
+    },
+    {
+        "id": "f000071",
+        "sentence": "ここから遠くてまるで見えなくなるまでひと息に飛んでゆくんだからね。",
+        "sentence_with_furigana": "ここから 遠[とお]くてまるで 見[み]えなくなるまでひと 息[いき]に 飛[と]んでゆくんだからね。"
+    },
+    {
+        "id": "f000072",
+        "sentence": "たのんだら、",
+        "sentence_with_furigana": "たのんだら、"
+    },
+    {
+        "id": "f000073",
+        "sentence": "ぼくらふたりぐらいきっといっぺんに青ぞらまでつれていってくれるぜ。」",
+        "sentence_with_furigana": "ぼくらふたりぐらいきっといっぺんに 青[あお]ぞらまでつれていってくれるぜ。」"
+    },
+    {
+        "id": "f000074",
+        "sentence": "「たのんでみようか。",
+        "sentence_with_furigana": "「たのんでみようか。"
+    },
+    {
+        "id": "f000075",
+        "sentence": "はやく来るといいな。」",
+        "sentence_with_furigana": "はやく 来[く]るといいな。」"
+    },
+    {
+        "id": "f000076",
+        "sentence": "そのすこし下でもうふたりがいいました。",
+        "sentence_with_furigana": "そのすこし 下[した]でもうふたりがいいました。"
+    },
+    {
+        "id": "f000077",
+        "sentence": "「ぼくはいちばんはじめにあんずの王様のお城をたずねるよ。",
+        "sentence_with_furigana": "「ぼくはいちばんはじめにあんずの 王様[おうさま]のお 城[しろ]をたずねるよ。"
+    },
+    {
+        "id": "f000078",
+        "sentence": "そしておひめ様をさらっていったばけものを退治するんだ。",
+        "sentence_with_furigana": "そしておひめ 様[さま]をさらっていったばけものを 退治[たいじ]するんだ。"
+    },
+    {
+        "id": "f000079",
+        "sentence": "そんなばけものがきっとどこかにあるね。」",
+        "sentence_with_furigana": "そんなばけものがきっとどこかにあるね。」"
+    },
+    {
+        "id": "f000080",
+        "sentence": "「うん。",
+        "sentence_with_furigana": "「うん。"
+    },
+    {
+        "id": "f000081",
+        "sentence": "あるだろう。",
+        "sentence_with_furigana": "あるだろう。"
+    },
+    {
+        "id": "f000082",
+        "sentence": "けれどもあぶないじゃないか。",
+        "sentence_with_furigana": "けれどもあぶないじゃないか。"
+    },
+    {
+        "id": "f000083",
+        "sentence": "ばけものは大きいんだよ。",
+        "sentence_with_furigana": "ばけものは 大[おお]きいんだよ。"
+    },
+    {
+        "id": "f000084",
+        "sentence": "ぼくたちなんか、",
+        "sentence_with_furigana": "ぼくたちなんか、"
+    },
+    {
+        "id": "f000085",
+        "sentence": "鼻でふきとばされちまうよ。」",
+        "sentence_with_furigana": "鼻[はな]でふきとばされちまうよ。」"
+    },
+    {
+        "id": "f000086",
+        "sentence": "「ぼくね、",
+        "sentence_with_furigana": "「ぼくね、"
+    },
+    {
+        "id": "f000087",
+        "sentence": "いいもの持っているんだよ。",
+        "sentence_with_furigana": "いいもの 持[も]っているんだよ。"
+    },
+    {
+        "id": "f000088",
+        "sentence": "だからだいじょうぶさ。",
+        "sentence_with_furigana": "だからだいじょうぶさ。"
+    },
+    {
+        "id": "f000089",
+        "sentence": "見せようか。",
+        "sentence_with_furigana": "見[み]せようか。"
+    },
+    {
+        "id": "f000090",
+        "sentence": "そら、",
+        "sentence_with_furigana": "そら、"
+    },
+    {
+        "id": "f000091",
+        "sentence": "ね。」",
+        "sentence_with_furigana": "ね。」"
+    },
+    {
+        "id": "f000092",
+        "sentence": "「これおっかさんの髪でこさえた網じゃないの。」",
+        "sentence_with_furigana": "「これおっかさんの 髪[かみ]でこさえた 網[あみ]じゃないの。」"
+    },
+    {
+        "id": "f000093",
+        "sentence": "「そうだよ。",
+        "sentence_with_furigana": "「そうだよ。"
+    },
+    {
+        "id": "f000094",
+        "sentence": "おっかさんがくだすったんだよ。",
+        "sentence_with_furigana": "おっかさんがくだすったんだよ。"
+    },
+    {
+        "id": "f000095",
+        "sentence": "なにかおそろしいことのあったときはこのなかにかくれるんだって。",
+        "sentence_with_furigana": "なにかおそろしいことのあったときはこのなかにかくれるんだって。"
+    },
+    {
+        "id": "f000096",
+        "sentence": "ぼくね、",
+        "sentence_with_furigana": "ぼくね、"
+    },
+    {
+        "id": "f000097",
+        "sentence": "この網をふところにいれてばけものに行ってね。",
+        "sentence_with_furigana": "この 網[あみ]をふところにいれてばけものに 行[い]ってね。"
+    },
+    {
+        "id": "f000098",
+        "sentence": "もしもし。",
+        "sentence_with_furigana": "もしもし。"
+    },
+    {
+        "id": "f000099",
+        "sentence": "こんにちは、",
+        "sentence_with_furigana": "こんにちは、"
+    },
+    {
+        "id": "f000100",
+        "sentence": "ぼくをのめますかのめないでしょう。",
+        "sentence_with_furigana": "ぼくをのめますかのめないでしょう。"
+    },
+    {
+        "id": "f000101",
+        "sentence": "とこういうんだよ。",
+        "sentence_with_furigana": "とこういうんだよ。"
+    },
+    {
+        "id": "f000102",
+        "sentence": "ばけものはおこってすぐのむだろう。",
+        "sentence_with_furigana": "ばけものはおこってすぐのむだろう。"
+    },
+    {
+        "id": "f000103",
+        "sentence": "ぼくはそのときばけものの胃ぶくろのなかでこの網をだしてね、",
+        "sentence_with_furigana": "ぼくはそのときばけものの 胃[い]ぶくろのなかでこの 網[あみ]をだしてね、"
+    },
+    {
+        "id": "f000104",
+        "sentence": "すっかりかぶっちまうんだ。",
+        "sentence_with_furigana": "すっかりかぶっちまうんだ。"
+    },
+    {
+        "id": "f000105",
+        "sentence": "それからおなかじゅうをめっちゃめちゃにこわしちまうんだよ。",
+        "sentence_with_furigana": "それからおなかじゅうをめっちゃめちゃにこわしちまうんだよ。"
+    },
+    {
+        "id": "f000106",
+        "sentence": "そら、",
+        "sentence_with_furigana": "そら、"
+    },
+    {
+        "id": "f000107",
+        "sentence": "ばけものはチブスになって死ぬだろう。",
+        "sentence_with_furigana": "ばけものはチブスになって 死[し]ぬだろう。"
+    },
+    {
+        "id": "f000108",
+        "sentence": "そこでぼくはでてきてあんずのおひめ様をつれてお城に帰るんだ。",
+        "sentence_with_furigana": "そこでぼくはでてきてあんずのおひめ 様[さま]をつれてお 城[しろ]に 帰[かえ]るんだ。"
+    },
+    {
+        "id": "f000109",
+        "sentence": "そしておひめ様をもらうんだよ。」",
+        "sentence_with_furigana": "そしておひめ 様[さま]をもらうんだよ。」"
+    },
+    {
+        "id": "f000110",
+        "sentence": "「ほんとうにいいね。",
+        "sentence_with_furigana": "「ほんとうにいいね。"
+    },
+    {
+        "id": "f000111",
+        "sentence": "そんならそのときぼくはお客様になっていってもいいだろう。」",
+        "sentence_with_furigana": "そんならそのときぼくはお 客様[きゃくさま]になっていってもいいだろう。」"
+    },
+    {
+        "id": "f000112",
+        "sentence": "「いいともさ。",
+        "sentence_with_furigana": "「いいともさ。"
+    },
+    {
+        "id": "f000113",
+        "sentence": "ぼく、",
+        "sentence_with_furigana": "ぼく、"
+    },
+    {
+        "id": "f000114",
+        "sentence": "国を半分わけてあげるよ。",
+        "sentence_with_furigana": "国[くに]を 半分[はんぶん]わけてあげるよ。"
+    },
+    {
+        "id": "f000115",
+        "sentence": "それからおっかさんへは毎日おかしやなんかたくさんあげるんだ。」",
+        "sentence_with_furigana": "それからおっかさんへは 毎日[まいにち]おかしやなんかたくさんあげるんだ。」"
+    },
+    {
+        "id": "f000116",
+        "sentence": "星がすっかりきえました。",
+        "sentence_with_furigana": "星[ほし]がすっかりきえました。"
+    },
+    {
+        "id": "f000117",
+        "sentence": "東の空は白くもえているようです。",
+        "sentence_with_furigana": "東[ひがし]の 空[そら]は 白[しろ]くもえているようです。"
+    },
+    {
+        "id": "f000118",
+        "sentence": "木がにわかにざわざわしました。",
+        "sentence_with_furigana": "木[き]がにわかにざわざわしました。"
+    },
+    {
+        "id": "f000119",
+        "sentence": "もう出発に間もないのです。",
+        "sentence_with_furigana": "もう 出発[しゅっぱつ]に 間[ま]もないのです。"
+    },
+    {
+        "id": "f000120",
+        "sentence": "「ぼく、",
+        "sentence_with_furigana": "「ぼく、"
+    },
+    {
+        "id": "f000121",
+        "sentence": "くつが小さいや。",
+        "sentence_with_furigana": "くつが 小[ちい]さいや。"
+    },
+    {
+        "id": "f000122",
+        "sentence": "めんどうくさい。",
+        "sentence_with_furigana": "めんどうくさい。"
+    },
+    {
+        "id": "f000123",
+        "sentence": "はだしでいこう。」",
+        "sentence_with_furigana": "はだしでいこう。」"
+    },
+    {
+        "id": "f000124",
+        "sentence": "「そんならぼくのとかえよう。",
+        "sentence_with_furigana": "「そんならぼくのとかえよう。"
+    },
+    {
+        "id": "f000125",
+        "sentence": "ぼくのはすこし大きいんだよ。」",
+        "sentence_with_furigana": "ぼくのはすこし 大[おお]きいんだよ。」"
+    },
+    {
+        "id": "f000126",
+        "sentence": "「かえよう。",
+        "sentence_with_furigana": "「かえよう。"
+    },
+    {
+        "id": "f000127",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、"
+    },
+    {
+        "id": "f000128",
+        "sentence": "ちょうどいいぜ。",
+        "sentence_with_furigana": "ちょうどいいぜ。"
+    },
+    {
+        "id": "f000129",
+        "sentence": "ありがとう。」",
+        "sentence_with_furigana": "ありがとう。」"
+    },
+    {
+        "id": "f000130",
+        "sentence": "「わたしこまってしまうわ、",
+        "sentence_with_furigana": "「わたしこまってしまうわ、"
+    },
+    {
+        "id": "f000131",
+        "sentence": "おっかさんにもらった新しい外套が見えないんですもの。」",
+        "sentence_with_furigana": "おっかさんにもらった 新[あたら]しい 外套[がいとう]が 見[み]えないんですもの。」"
+    },
+    {
+        "id": "f000132",
+        "sentence": "「はやくおさがしなさいよ。",
+        "sentence_with_furigana": "「はやくおさがしなさいよ。"
+    },
+    {
+        "id": "f000133",
+        "sentence": "どのえだにおいたの。」",
+        "sentence_with_furigana": "どのえだにおいたの。」"
+    },
+    {
+        "id": "f000134",
+        "sentence": "「わすれてしまったわ。」",
+        "sentence_with_furigana": "「わすれてしまったわ。」"
+    },
+    {
+        "id": "f000135",
+        "sentence": "「こまったわね。",
+        "sentence_with_furigana": "「こまったわね。"
+    },
+    {
+        "id": "f000136",
+        "sentence": "これからひじょうに寒いんでしょう。",
+        "sentence_with_furigana": "これからひじょうに 寒[さむ]いんでしょう。"
+    },
+    {
+        "id": "f000137",
+        "sentence": "どうしても見つけないといけなくってよ。」",
+        "sentence_with_furigana": "どうしても 見[み]つけないといけなくってよ。」"
+    },
+    {
+        "id": "f000138",
+        "sentence": "「そら、",
+        "sentence_with_furigana": "「そら、"
+    },
+    {
+        "id": "f000139",
+        "sentence": "ね。",
+        "sentence_with_furigana": "ね。"
+    },
+    {
+        "id": "f000140",
+        "sentence": "いいぱんだろう。",
+        "sentence_with_furigana": "いいぱんだろう。"
+    },
+    {
+        "id": "f000141",
+        "sentence": "ほしぶどうがちょっと顔をだしてるだろう。",
+        "sentence_with_furigana": "ほしぶどうがちょっと 顔[かお]をだしてるだろう。"
+    },
+    {
+        "id": "f000142",
+        "sentence": "はやくかばんへ入れたまえ。",
+        "sentence_with_furigana": "はやくかばんへ 入[い]れたまえ。"
+    },
+    {
+        "id": "f000143",
+        "sentence": "もうお日さまがおでましになるよ。」",
+        "sentence_with_furigana": "もうお 日[ひ]さまがおでましになるよ。」"
+    },
+    {
+        "id": "f000144",
+        "sentence": "「ありがとう。",
+        "sentence_with_furigana": "「ありがとう。"
+    },
+    {
+        "id": "f000145",
+        "sentence": "じゃもらうよ。",
+        "sentence_with_furigana": "じゃもらうよ。"
+    },
+    {
+        "id": "f000146",
+        "sentence": "ありがとう。",
+        "sentence_with_furigana": "ありがとう。"
+    },
+    {
+        "id": "f000147",
+        "sentence": "いっしょにいこうね。」",
+        "sentence_with_furigana": "いっしょにいこうね。」"
+    },
+    {
+        "id": "f000148",
+        "sentence": "「こまったわ、",
+        "sentence_with_furigana": "「こまったわ、"
+    },
+    {
+        "id": "f000149",
+        "sentence": "わたし、",
+        "sentence_with_furigana": "わたし、"
+    },
+    {
+        "id": "f000150",
+        "sentence": "どうしてもないわ。",
+        "sentence_with_furigana": "どうしてもないわ。"
+    },
+    {
+        "id": "f000151",
+        "sentence": "ほんとうにわたしどうしましょう。」",
+        "sentence_with_furigana": "ほんとうにわたしどうしましょう。」"
+    },
+    {
+        "id": "f000152",
+        "sentence": "「わたしとふたりでいきましょうよ。",
+        "sentence_with_furigana": "「わたしとふたりでいきましょうよ。"
+    },
+    {
+        "id": "f000153",
+        "sentence": "わたしのをときどきかしてあげるわ。",
+        "sentence_with_furigana": "わたしのをときどきかしてあげるわ。"
+    },
+    {
+        "id": "f000154",
+        "sentence": "こごえたらいっしょに死にましょうよ。」",
+        "sentence_with_furigana": "こごえたらいっしょに 死[し]にましょうよ。」"
+    },
+    {
+        "id": "f000155",
+        "sentence": "東の空が白くもえ、",
+        "sentence_with_furigana": "東[ひがし]の 空[そら]が 白[しろ]くもえ、"
+    },
+    {
+        "id": "f000156",
+        "sentence": "ユラリユラリとゆれはじめました。",
+        "sentence_with_furigana": "ユラリユラリとゆれはじめました。"
+    },
+    {
+        "id": "f000157",
+        "sentence": "おっかさんの木はまるで死んだようになってじっと立っています。",
+        "sentence_with_furigana": "おっかさんの 木[き]はまるで 死[し]んだようになってじっと 立[た]っています。"
+    },
+    {
+        "id": "f000158",
+        "sentence": "とつぜん光のたばが黄金の矢のように一度にとんできました。",
+        "sentence_with_furigana": "とつぜん 光[ひかり]のたばが 黄金[きん]の 矢[や]のように一 度[ど]にとんできました。"
+    },
+    {
+        "id": "f000159",
+        "sentence": "子どもらはまるでとびあがるくらいかがやきました。",
+        "sentence_with_furigana": "子[こ]どもらはまるでとびあがるくらいかがやきました。"
+    },
+    {
+        "id": "f000160",
+        "sentence": "北から氷のようにつめたいすきとおった風がゴーッとふいてきました。",
+        "sentence_with_furigana": "北[きた]から 氷[こおり]のようにつめたいすきとおった 風[かぜ]がゴーッとふいてきました。"
+    },
+    {
+        "id": "f000161",
+        "sentence": "「さよなら、",
+        "sentence_with_furigana": "「さよなら、"
+    },
+    {
+        "id": "f000162",
+        "sentence": "おっかさん。",
+        "sentence_with_furigana": "おっかさん。"
+    },
+    {
+        "id": "f000163",
+        "sentence": "」「さよなら、",
+        "sentence_with_furigana": "」「さよなら、"
+    },
+    {
+        "id": "f000164",
+        "sentence": "おっかさん。",
+        "sentence_with_furigana": "おっかさん。"
+    },
+    {
+        "id": "f000165",
+        "sentence": "」子どもらはみんな一度に雨のようにえだからとびおりました。",
+        "sentence_with_furigana": "」 子[こ]どもらはみんな一 度[ど]に 雨[あめ]のようにえだからとびおりました。"
+    },
+    {
+        "id": "f000166",
+        "sentence": "北風がわらって、",
+        "sentence_with_furigana": "北風[きたかぜ]がわらって、"
+    },
+    {
+        "id": "f000167",
+        "sentence": "「ことしもこれでまずさよならさよならっていうわけだ。",
+        "sentence_with_furigana": "「ことしもこれでまずさよならさよならっていうわけだ。"
+    },
+    {
+        "id": "f000168",
+        "sentence": "」といいながらつめたいガラスのマントをひらめかしてむこうへいってしまいました。",
+        "sentence_with_furigana": "」といいながらつめたいガラスのマントをひらめかしてむこうへいってしまいました。"
+    },
+    {
+        "id": "f000169",
+        "sentence": "お日様はもえる宝石のように東の空にかかり、",
+        "sentence_with_furigana": "お 日様[ひさま]はもえる 宝石[ほうせき]のように 東[ひがし]の 空[そら]にかかり、"
+    },
+    {
+        "id": "f000170",
+        "sentence": "あらんかぎりのかがやきを悲しむ母親の木と旅にでた子どもらとに投げておやりなさいました。",
+        "sentence_with_furigana": "あらんかぎりのかがやきを 悲[かな]しむ 母親[ははおや]の 木[き]と 旅[たび]にでた 子[こ]どもらとに 投[な]げておやりなさいました。"
+    }
+]

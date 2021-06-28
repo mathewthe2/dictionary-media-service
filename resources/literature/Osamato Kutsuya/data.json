@@ -1,0 +1,2502 @@
+[
+    {
+        "id": "Osamato Kutsuya-f000002",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまと靴屋",
+        "sentence_with_furigana": "王さまと靴屋",
+        "word_base_list": [
+            "王",
+            "様",
+            "と",
+            "靴屋"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "と",
+            "靴屋"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000003",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある日、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "、"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000004",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまはこじきのようなようすをして、",
+        "sentence_with_furigana": "王さまはこじきのようなようすをして、",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "来る",
+            "直",
+            "の",
+            "様",
+            "だ",
+            "様子",
+            "を",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "こ",
+            "じき",
+            "の",
+            "よう",
+            "な",
+            "ようす",
+            "を",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000005",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ひとりで町へやってゆきました。",
+        "sentence_with_furigana": "ひとりで町へやってゆきました。",
+        "word_base_list": [
+            "一人",
+            "で",
+            "町",
+            "へ",
+            "遣る",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ひとり",
+            "で",
+            "町",
+            "へ",
+            "やっ",
+            "て",
+            "ゆき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000006",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "町には小さな靴屋がいっけんあって、",
+        "sentence_with_furigana": "町には小さな 靴屋[くつや]がいっけんあって、",
+        "word_base_list": [
+            "町",
+            "に",
+            "は",
+            "小さな",
+            "靴屋",
+            "が",
+            "一見",
+            "有る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "に",
+            "は",
+            "小さな",
+            "靴屋",
+            "が",
+            "いっけん",
+            "あっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000007",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "おじいさんがせっせと靴をつくっておりました。",
+        "sentence_with_furigana": "おじいさんがせっせと 靴[くつ]をつくっておりました。",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "が",
+            "せっせと",
+            "靴",
+            "を",
+            "作る",
+            "て",
+            "おる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "が",
+            "せっせと",
+            "靴",
+            "を",
+            "つくっ",
+            "て",
+            "おり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000008",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまは靴屋の店にはいって、",
+        "sentence_with_furigana": "王さまは 靴屋[くつや]の店にはいって、",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "靴屋",
+            "の",
+            "店",
+            "に",
+            "入る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "靴屋",
+            "の",
+            "店",
+            "に",
+            "はいっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000009",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「これこれ、",
+        "sentence_with_furigana": "「これこれ、",
+        "word_base_list": [
+            "「",
+            "此れ",
+            "此れ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "これ",
+            "これ",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000010",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "じいや、",
+        "sentence_with_furigana": "じいや、",
+        "word_base_list": [
+            "爺や",
+            "、"
+        ],
+        "word_list": [
+            "じいや",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000011",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "そのほうはなんという名まえか。」",
+        "sentence_with_furigana": "そのほうはなんという名まえか。」",
+        "word_base_list": [
+            "其の",
+            "方",
+            "は",
+            "何",
+            "と",
+            "言う",
+            "名前",
+            "か",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "その",
+            "ほう",
+            "は",
+            "なん",
+            "と",
+            "いう",
+            "名まえ",
+            "か",
+            "。",
+            "」"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000012",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とたずねました。",
+        "sentence_with_furigana": "とたずねました。",
+        "word_base_list": [
+            "と",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000013",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "靴屋のじいさんは、",
+        "sentence_with_furigana": "靴屋[くつや]のじいさんは、",
+        "word_base_list": [
+            "靴屋",
+            "の",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "靴屋",
+            "の",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000014",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "そのかたが王さまであるとは知りませんでしたので、",
+        "sentence_with_furigana": "そのかたが王さまであるとは知りませんでしたので、",
+        "word_base_list": [
+            "其の",
+            "方",
+            "が",
+            "王",
+            "様",
+            "だ",
+            "有る",
+            "と",
+            "は",
+            "知る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "かた",
+            "が",
+            "王",
+            "さま",
+            "で",
+            "ある",
+            "と",
+            "は",
+            "知り",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000015",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「ひとにものをきくなら、",
+        "sentence_with_furigana": "「ひとにものをきくなら、",
+        "word_base_list": [
+            "「",
+            "人",
+            "に",
+            "物",
+            "を",
+            "きく",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ひと",
+            "に",
+            "もの",
+            "を",
+            "きく",
+            "なら",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000016",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "もっとていねいにいうものだよ。」",
+        "sentence_with_furigana": "もっとていねいにいうものだよ。」",
+        "word_base_list": [
+            "もっと",
+            "丁寧",
+            "だ",
+            "言う",
+            "物",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "もっと",
+            "ていねい",
+            "に",
+            "いう",
+            "もの",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000017",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000018",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "つっけんどんにいって、",
+        "sentence_with_furigana": "つっけんどんにいって、",
+        "word_base_list": [
+            "突っ慳貪",
+            "だ",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "つっけんどん",
+            "に",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000019",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とんとんと仕事をしていました。",
+        "sentence_with_furigana": "とんとんと仕事をしていました。",
+        "word_base_list": [
+            "とんとん",
+            "と",
+            "仕事",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "とんとん",
+            "と",
+            "仕事",
+            "を",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000020",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「これ、",
+        "sentence_with_furigana": "「これ、",
+        "word_base_list": [
+            "「",
+            "此れ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "これ",
+            "、"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000021",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "名まえはなんと申すぞ。」",
+        "sentence_with_furigana": "名まえはなんと 申[もう]すぞ。」",
+        "word_base_list": [
+            "名前",
+            "は",
+            "何",
+            "と",
+            "申す",
+            "ぞ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "名まえ",
+            "は",
+            "なん",
+            "と",
+            "申す",
+            "ぞ",
+            "。",
+            "」"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000022",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とまた王さまはたずねました。",
+        "sentence_with_furigana": "とまた王さまはたずねました。",
+        "word_base_list": [
+            "と",
+            "又",
+            "王",
+            "様",
+            "は",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "また",
+            "王",
+            "さま",
+            "は",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000023",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「ひとにくちをきくには、",
+        "sentence_with_furigana": "「ひとにくちをきくには、",
+        "word_base_list": [
+            "「",
+            "人",
+            "に",
+            "口",
+            "を",
+            "きく",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ひと",
+            "に",
+            "くち",
+            "を",
+            "きく",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000024",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "もっとていねいにいうものだというのに。」",
+        "sentence_with_furigana": "もっとていねいにいうものだというのに。」",
+        "word_base_list": [
+            "もっと",
+            "丁寧",
+            "だ",
+            "言う",
+            "物",
+            "だ",
+            "と",
+            "言う",
+            "の",
+            "に",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "もっと",
+            "ていねい",
+            "に",
+            "いう",
+            "もの",
+            "だ",
+            "と",
+            "いう",
+            "の",
+            "に",
+            "。",
+            "」"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000025",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とじいさんはまた、",
+        "sentence_with_furigana": "とじいさんはまた、",
+        "word_base_list": [
+            "と",
+            "爺",
+            "さん",
+            "は",
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "じい",
+            "さん",
+            "は",
+            "また",
+            "、"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000026",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ぶっきらぼうにいって、",
+        "sentence_with_furigana": "ぶっきらぼうにいって、",
+        "word_base_list": [
+            "ぶっきらぼう",
+            "だ",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ぶっきらぼう",
+            "に",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000027",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "仕事をしつづけました。",
+        "sentence_with_furigana": "仕事をしつづけました。",
+        "word_base_list": [
+            "仕事",
+            "を",
+            "為る",
+            "続ける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "仕事",
+            "を",
+            "し",
+            "つづけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000028",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまは、",
+        "sentence_with_furigana": "王さまは、",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000029",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "なるほどじぶんがまちがっていた、",
+        "sentence_with_furigana": "なるほどじぶんがまちがっていた、",
+        "word_base_list": [
+            "成る程",
+            "自分",
+            "が",
+            "間違う",
+            "て",
+            "居る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "なるほど",
+            "じぶん",
+            "が",
+            "まちがっ",
+            "て",
+            "い",
+            "た",
+            "、"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000030",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "と思って、",
+        "sentence_with_furigana": "と思って、",
+        "word_base_list": [
+            "と",
+            "思う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "思っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000031",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "こんどはやさしく、",
+        "sentence_with_furigana": "こんどはやさしく、",
+        "word_base_list": [
+            "今度",
+            "は",
+            "優しい",
+            "、"
+        ],
+        "word_list": [
+            "こんど",
+            "は",
+            "やさしく",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000032",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「おまえの名まえを教えておくれ。」",
+        "sentence_with_furigana": "「おまえの名まえを教えておくれ。」",
+        "word_base_list": [
+            "「",
+            "御前",
+            "の",
+            "名前",
+            "を",
+            "教える",
+            "て",
+            "御",
+            "呉れる",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "おまえ",
+            "の",
+            "名まえ",
+            "を",
+            "教え",
+            "て",
+            "お",
+            "くれ",
+            "。",
+            "」"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000033",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とたのみました。",
+        "sentence_with_furigana": "とたのみました。",
+        "word_base_list": [
+            "と",
+            "頼む",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "たのみ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000034",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「わしの名まえは、",
+        "sentence_with_furigana": "「わしの名まえは、",
+        "word_base_list": [
+            "「",
+            "わし",
+            "の",
+            "名前",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "わし",
+            "の",
+            "名まえ",
+            "は",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000035",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "マギステルだ。」",
+        "sentence_with_furigana": "マギステルだ。」",
+        "word_base_list": [
+            "マギステル",
+            "だ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "マギステル",
+            "だ",
+            "。",
+            "」"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000036",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とじいさんは、",
+        "sentence_with_furigana": "とじいさんは、",
+        "word_base_list": [
+            "と",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000037",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "やっと名まえを教えました。",
+        "sentence_with_furigana": "やっと名まえを教えました。",
+        "word_base_list": [
+            "漸と",
+            "名前",
+            "を",
+            "教える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "やっと",
+            "名まえ",
+            "を",
+            "教え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000038",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "そこで王さまは、",
+        "sentence_with_furigana": "そこで王さまは、",
+        "word_base_list": [
+            "其処",
+            "で",
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "で",
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000039",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「マギステルのじいさん、",
+        "sentence_with_furigana": "「マギステルのじいさん、",
+        "word_base_list": [
+            "「",
+            "マギステル",
+            "の",
+            "爺",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "マギステル",
+            "の",
+            "じい",
+            "さん",
+            "、"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000040",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ないしょのはなしだが、",
+        "sentence_with_furigana": "ないしょのはなしだが、",
+        "word_base_list": [
+            "内緒",
+            "の",
+            "話",
+            "だ",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ないしょ",
+            "の",
+            "はなし",
+            "だ",
+            "が",
+            "、"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000041",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "おまえはこの国の王さまはばかやろうだとおもわないか。」",
+        "sentence_with_furigana": "おまえはこの国の王さまはばかやろうだとおもわないか。」",
+        "word_base_list": [
+            "御前",
+            "は",
+            "此の",
+            "国",
+            "の",
+            "王",
+            "様",
+            "は",
+            "ばか",
+            "や",
+            "だ",
+            "と",
+            "思う",
+            "ない",
+            "か",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "おまえ",
+            "は",
+            "この",
+            "国",
+            "の",
+            "王",
+            "さま",
+            "は",
+            "ばか",
+            "やろう",
+            "だ",
+            "と",
+            "おもわ",
+            "ない",
+            "か",
+            "。",
+            "」"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000042",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とたずねました。",
+        "sentence_with_furigana": "とたずねました。",
+        "word_base_list": [
+            "と",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000043",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「おもわないよ。」",
+        "sentence_with_furigana": "「おもわないよ。」",
+        "word_base_list": [
+            "「",
+            "思う",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "おもわ",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000044",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とマギステルじいさんはこたえました。",
+        "sentence_with_furigana": "とマギステルじいさんはこたえました。",
+        "word_base_list": [
+            "と",
+            "マギステル",
+            "爺",
+            "さん",
+            "は",
+            "こたえる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "マギステル",
+            "じい",
+            "さん",
+            "は",
+            "こたえ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000045",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「それでは、",
+        "sentence_with_furigana": "「それでは、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "で",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "それ",
+            "で",
+            "は",
+            "、"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000046",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "こゆびのさきほどばかだとはおもわないか。」",
+        "sentence_with_furigana": "こゆびのさきほどばかだとはおもわないか。」",
+        "word_base_list": [
+            "小指",
+            "の",
+            "先程",
+            "ばか",
+            "だ",
+            "と",
+            "は",
+            "思う",
+            "ない",
+            "か",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "こゆび",
+            "の",
+            "さきほど",
+            "ばか",
+            "だ",
+            "と",
+            "は",
+            "おもわ",
+            "ない",
+            "か",
+            "。",
+            "」"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000047",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "と王さまはまたたずねました。",
+        "sentence_with_furigana": "と王さまはまたたずねました。",
+        "word_base_list": [
+            "と",
+            "王",
+            "様",
+            "は",
+            "又",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "王",
+            "さま",
+            "は",
+            "また",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000048",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「おもわないよ。」",
+        "sentence_with_furigana": "「おもわないよ。」",
+        "word_base_list": [
+            "「",
+            "思う",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "おもわ",
+            "ない",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000049",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とマギステルじいさんはこたえて、",
+        "sentence_with_furigana": "とマギステルじいさんはこたえて、",
+        "word_base_list": [
+            "と",
+            "マギステル",
+            "爺",
+            "さん",
+            "は",
+            "こたえる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "マギステル",
+            "じい",
+            "さん",
+            "は",
+            "こたえ",
+            "て",
+            "、"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000050",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "靴のかかとをうちつけました。",
+        "sentence_with_furigana": "靴[くつ]のかかとをうちつけました。",
+        "word_base_list": [
+            "靴",
+            "の",
+            "踵",
+            "を",
+            "打つ",
+            "つける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "靴",
+            "の",
+            "かかと",
+            "を",
+            "うち",
+            "つけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000051",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「もしおまえが、",
+        "sentence_with_furigana": "「もしおまえが、",
+        "word_base_list": [
+            "「",
+            "若し",
+            "御前",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "もし",
+            "おまえ",
+            "が",
+            "、"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000052",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまはこゆびのさきほどばかだといったら、",
+        "sentence_with_furigana": "王さまはこゆびのさきほどばかだといったら、",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "小指",
+            "の",
+            "先程",
+            "ばか",
+            "だ",
+            "と",
+            "言う",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "こゆび",
+            "の",
+            "さきほど",
+            "ばか",
+            "だ",
+            "と",
+            "いっ",
+            "たら",
+            "、"
+        ],
+        "sound": "f000052.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000053",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "わしはこれをやるよ。",
+        "sentence_with_furigana": "わしはこれをやるよ。",
+        "word_base_list": [
+            "わし",
+            "は",
+            "此れ",
+            "を",
+            "遣る",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "わし",
+            "は",
+            "これ",
+            "を",
+            "やる",
+            "よ",
+            "。"
+        ],
+        "sound": "f000053.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000054",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "だれもほかにきいてやしないから、",
+        "sentence_with_furigana": "だれもほかにきいてやしないから、",
+        "word_base_list": [
+            "誰",
+            "も",
+            "他",
+            "に",
+            "きく",
+            "て",
+            "は",
+            "為る",
+            "ない",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "だれ",
+            "も",
+            "ほか",
+            "に",
+            "きい",
+            "て",
+            "や",
+            "し",
+            "ない",
+            "から",
+            "、"
+        ],
+        "sound": "f000054.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000055",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "だいじょうぶだよ。」",
+        "sentence_with_furigana": "だいじょうぶだよ。」",
+        "word_base_list": [
+            "大丈夫",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "だいじょうぶ",
+            "だ",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000055.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000056",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "と王さまは、",
+        "sentence_with_furigana": "と王さまは、",
+        "word_base_list": [
+            "と",
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000056.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000057",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "金の時計をポケットから出して、",
+        "sentence_with_furigana": "金の時計をポケットから出して、",
+        "word_base_list": [
+            "金",
+            "の",
+            "時計",
+            "を",
+            "ポケット",
+            "から",
+            "出す",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "金",
+            "の",
+            "時計",
+            "を",
+            "ポケット",
+            "から",
+            "出し",
+            "て",
+            "、"
+        ],
+        "sound": "f000057.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000058",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "じいさんのひざにのせました。",
+        "sentence_with_furigana": "じいさんのひざにのせました。",
+        "word_base_list": [
+            "爺",
+            "さん",
+            "の",
+            "膝",
+            "に",
+            "乗せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "じい",
+            "さん",
+            "の",
+            "ひざ",
+            "に",
+            "のせ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000058.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000059",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「この国の王さまがばかだといえばこれをくれるのかい。」",
+        "sentence_with_furigana": "「この国の王さまがばかだといえばこれをくれるのかい。」",
+        "word_base_list": [
+            "「",
+            "此の",
+            "国",
+            "の",
+            "王",
+            "様",
+            "が",
+            "ばか",
+            "だ",
+            "と",
+            "言う",
+            "ば",
+            "此れ",
+            "を",
+            "呉れる",
+            "の",
+            "か",
+            "い",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "この",
+            "国",
+            "の",
+            "王",
+            "さま",
+            "が",
+            "ばか",
+            "だ",
+            "と",
+            "いえ",
+            "ば",
+            "これ",
+            "を",
+            "くれる",
+            "の",
+            "か",
+            "い",
+            "。",
+            "」"
+        ],
+        "sound": "f000059.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000060",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とじいさんは、",
+        "sentence_with_furigana": "とじいさんは、",
+        "word_base_list": [
+            "と",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000060.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000061",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "金づちをもった手をわきにたれて、",
+        "sentence_with_furigana": "金づちをもった手をわきにたれて、",
+        "word_base_list": [
+            "金槌",
+            "を",
+            "持つ",
+            "た",
+            "手",
+            "を",
+            "脇",
+            "に",
+            "垂れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "金づち",
+            "を",
+            "もっ",
+            "た",
+            "手",
+            "を",
+            "わき",
+            "に",
+            "たれ",
+            "て",
+            "、"
+        ],
+        "sound": "f000061.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000062",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ひざの上の時計をみました。",
+        "sentence_with_furigana": "ひざの上の時計をみました。",
+        "word_base_list": [
+            "膝",
+            "の",
+            "上",
+            "の",
+            "時計",
+            "を",
+            "見る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ひざ",
+            "の",
+            "上",
+            "の",
+            "時計",
+            "を",
+            "み",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000062.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000063",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「うん、",
+        "sentence_with_furigana": "「うん、",
+        "word_base_list": [
+            "「",
+            "うん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "うん",
+            "、"
+        ],
+        "sound": "f000063.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000064",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "小さい声で、",
+        "sentence_with_furigana": "小さい声で、",
+        "word_base_list": [
+            "小さい",
+            "声",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "小さい",
+            "声",
+            "で",
+            "、"
+        ],
+        "sound": "f000064.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000065",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ほんのひとくちいえばあげるよ。」",
+        "sentence_with_furigana": "ほんのひとくちいえばあげるよ。」",
+        "word_base_list": [
+            "本の",
+            "一口",
+            "言う",
+            "ば",
+            "上げる",
+            "よ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ほんの",
+            "ひとくち",
+            "いえ",
+            "ば",
+            "あげる",
+            "よ",
+            "。",
+            "」"
+        ],
+        "sound": "f000065.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000066",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "と王さまは手をもみあわせながらいいました。",
+        "sentence_with_furigana": "と王さまは手をもみあわせながらいいました。",
+        "word_base_list": [
+            "と",
+            "王",
+            "様",
+            "は",
+            "手",
+            "を",
+            "揉む",
+            "合う",
+            "ながら",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "と",
+            "王",
+            "さま",
+            "は",
+            "手",
+            "を",
+            "もみ",
+            "あわせ",
+            "ながら",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000066.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000067",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "するとじいさんは、",
+        "sentence_with_furigana": "するとじいさんは、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000067.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000068",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "やにわにその時計をひっつかんで床のうえにたたきつけました。",
+        "sentence_with_furigana": "やにわにその時計をひっつかんで 床[ゆか]のうえにたたきつけました。",
+        "word_base_list": [
+            "矢庭",
+            "に",
+            "其の",
+            "時計",
+            "を",
+            "引く",
+            "掴む",
+            "で",
+            "床",
+            "の",
+            "上",
+            "に",
+            "叩く",
+            "つける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "やにわ",
+            "に",
+            "その",
+            "時計",
+            "を",
+            "ひっ",
+            "つかん",
+            "で",
+            "床",
+            "の",
+            "うえ",
+            "に",
+            "たたき",
+            "つけ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000068.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000069",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「さっさと出てうせろ。",
+        "sentence_with_furigana": "「さっさと出てうせろ。",
+        "word_base_list": [
+            "「",
+            "さっさと",
+            "出る",
+            "て",
+            "失せる",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "さっさと",
+            "出",
+            "て",
+            "うせろ",
+            "。"
+        ],
+        "sound": "f000069.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000070",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ぐずぐずしてるとぶちころしてしまうぞ。",
+        "sentence_with_furigana": "ぐずぐずしてるとぶちころしてしまうぞ。",
+        "word_base_list": [
+            "ぐずぐず",
+            "為る",
+            "てる",
+            "と",
+            "ぶち",
+            "殺す",
+            "て",
+            "仕舞う",
+            "ぞ",
+            "。"
+        ],
+        "word_list": [
+            "ぐずぐず",
+            "し",
+            "てる",
+            "と",
+            "ぶち",
+            "ころし",
+            "て",
+            "しまう",
+            "ぞ",
+            "。"
+        ],
+        "sound": "f000070.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000071",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "不忠者めが。",
+        "sentence_with_furigana": "不忠者[ふちゅうもの]めが。",
+        "word_base_list": [
+            "不忠",
+            "者",
+            "め",
+            "が",
+            "。"
+        ],
+        "word_list": [
+            "不忠",
+            "者",
+            "め",
+            "が",
+            "。"
+        ],
+        "sound": "f000071.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000072",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "この国の王さまほどごりっぱなおかたが、",
+        "sentence_with_furigana": "この国の王さまほどごりっぱなおかたが、",
+        "word_base_list": [
+            "此の",
+            "国",
+            "の",
+            "王",
+            "様",
+            "ほど",
+            "御",
+            "立派",
+            "だ",
+            "御",
+            "方",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "国",
+            "の",
+            "王",
+            "さま",
+            "ほど",
+            "ご",
+            "りっぱ",
+            "な",
+            "お",
+            "かた",
+            "が",
+            "、"
+        ],
+        "sound": "f000072.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000073",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "世界中にまたとあるかッ。」",
+        "sentence_with_furigana": "世界中にまたとあるかッ。」",
+        "word_base_list": [
+            "世界",
+            "中",
+            "に",
+            "又",
+            "と",
+            "有る",
+            "か",
+            "つ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "世界",
+            "中",
+            "に",
+            "また",
+            "と",
+            "ある",
+            "か",
+            "ッ",
+            "。",
+            "」"
+        ],
+        "sound": "f000073.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000074",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000074.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000075",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "もっていた金づちをふりあげました。",
+        "sentence_with_furigana": "もっていた金づちをふりあげました。",
+        "word_base_list": [
+            "持つ",
+            "て",
+            "居る",
+            "た",
+            "金槌",
+            "を",
+            "ふる",
+            "上げる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "もっ",
+            "て",
+            "い",
+            "た",
+            "金づち",
+            "を",
+            "ふり",
+            "あげ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000076",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "王さまは靴屋の店からとびだしました。",
+        "sentence_with_furigana": "王さまは 靴屋[くつや]の店からとびだしました。",
+        "word_base_list": [
+            "王",
+            "様",
+            "は",
+            "靴屋",
+            "の",
+            "店",
+            "から",
+            "飛ぶ",
+            "出す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "王",
+            "さま",
+            "は",
+            "靴屋",
+            "の",
+            "店",
+            "から",
+            "とび",
+            "だし",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000076.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000077",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とびだすとき、",
+        "sentence_with_furigana": "とびだすとき、",
+        "word_base_list": [
+            "飛ぶ",
+            "出す",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "とび",
+            "だす",
+            "とき",
+            "、"
+        ],
+        "sound": "f000077.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000078",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "ひおいの棒にごつんと頭をぶつけて、",
+        "sentence_with_furigana": "ひおいの 棒[ぼう]にごつんと頭をぶつけて、",
+        "word_base_list": [
+            "一",
+            "甥",
+            "の",
+            "棒",
+            "に",
+            "ごつん",
+            "と",
+            "頭",
+            "を",
+            "ぶつける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ひ",
+            "おい",
+            "の",
+            "棒",
+            "に",
+            "ごつん",
+            "と",
+            "頭",
+            "を",
+            "ぶつけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000078.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000079",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "大きなこぶをつくりました。",
+        "sentence_with_furigana": "大きなこぶをつくりました。",
+        "word_base_list": [
+            "大きな",
+            "こぶ",
+            "を",
+            "作る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "大きな",
+            "こぶ",
+            "を",
+            "つくり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000079.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000080",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "けれど王さまは、",
+        "sentence_with_furigana": "けれど王さまは、",
+        "word_base_list": [
+            "けれど",
+            "王",
+            "様",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "王",
+            "さま",
+            "は",
+            "、"
+        ],
+        "sound": "f000080.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000081",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "こころを花のようにあかるくして、",
+        "sentence_with_furigana": "こころを花のようにあかるくして、",
+        "word_base_list": [
+            "心",
+            "を",
+            "花",
+            "の",
+            "様",
+            "だ",
+            "明るい",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "こころ",
+            "を",
+            "花",
+            "の",
+            "よう",
+            "に",
+            "あかるく",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000081.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000082",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "「わしの人民はよい人民だ。",
+        "sentence_with_furigana": "「わしの 人民[じんみん]はよい人民だ。",
+        "word_base_list": [
+            "「",
+            "わし",
+            "の",
+            "人民",
+            "は",
+            "良い",
+            "人民",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "わし",
+            "の",
+            "人民",
+            "は",
+            "よい",
+            "人民",
+            "だ",
+            "。"
+        ],
+        "sound": "f000082.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000083",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "わしの人民はよい人民だ。」",
+        "sentence_with_furigana": "わしの人民はよい人民だ。」",
+        "word_base_list": [
+            "わし",
+            "の",
+            "人民",
+            "は",
+            "良い",
+            "人民",
+            "だ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "わし",
+            "の",
+            "人民",
+            "は",
+            "よい",
+            "人民",
+            "だ",
+            "。",
+            "」"
+        ],
+        "sound": "f000083.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000084",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "とくりかえしながら、",
+        "sentence_with_furigana": "とくりかえしながら、",
+        "word_base_list": [
+            "と",
+            "繰る",
+            "かえす",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "くり",
+            "かえし",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000084.mp3"
+    },
+    {
+        "id": "Osamato Kutsuya-f000085",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Osamato Kutsuya",
+        "deck_name_japanese": "王さまと靴屋",
+        "sentence": "宮殿のほうへかえってゆきました。",
+        "sentence_with_furigana": "宮殿[きゅうでん]のほうへかえってゆきました。",
+        "word_base_list": [
+            "宮殿",
+            "の",
+            "方",
+            "へ",
+            "かえる",
+            "て",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "宮殿",
+            "の",
+            "ほう",
+            "へ",
+            "かえっ",
+            "て",
+            "ゆき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000085.mp3"
+    }
+]

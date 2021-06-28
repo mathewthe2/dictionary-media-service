@@ -1,0 +1,1354 @@
+[
+    {
+        "id": "Usagi-f000002",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ウサギ",
+        "sentence_with_furigana": "ウサギ",
+        "word_base_list": [
+            "兎"
+        ],
+        "word_list": [
+            "ウサギ"
+        ],
+        "sound": "f000002.mp3"
+    },
+    {
+        "id": "Usagi-f000003",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ヒトリノ　アキナヒガ　ヤツテ　キマシタ。",
+        "sentence_with_furigana": "ヒトリノ　アキナヒガ　ヤツテ　キマシタ。",
+        "word_base_list": [
+            "ヒトリノ",
+            " ",
+            "アキナヒガ",
+            " ",
+            "ヤツテ",
+            " ",
+            "キマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ヒトリノ",
+            "　",
+            "アキナヒガ",
+            "　",
+            "ヤツテ",
+            "　",
+            "キマシタ",
+            "。"
+        ],
+        "sound": "f000003.mp3"
+    },
+    {
+        "id": "Usagi-f000004",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ウサギノ　ハイツタ　カゴヲ　モツテ　ヲリマシタ。",
+        "sentence_with_furigana": "ウサギノ　ハイツタ　カゴヲ　モツテ　ヲリマシタ。",
+        "word_base_list": [
+            "ウサギノ",
+            " ",
+            "ハイツタ",
+            " ",
+            "カゴヲ",
+            " ",
+            "モツテ",
+            " ",
+            "ヲリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ウサギノ",
+            "　",
+            "ハイツタ",
+            "　",
+            "カゴヲ",
+            "　",
+            "モツテ",
+            "　",
+            "ヲリマシタ",
+            "。"
+        ],
+        "sound": "f000004.mp3"
+    },
+    {
+        "id": "Usagi-f000005",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ソノ　クセ、",
+        "sentence_with_furigana": "ソノ　クセ、",
+        "word_base_list": [
+            "其の",
+            " ",
+            "癖",
+            "、"
+        ],
+        "word_list": [
+            "ソノ",
+            "　",
+            "クセ",
+            "、"
+        ],
+        "sound": "f000005.mp3"
+    },
+    {
+        "id": "Usagi-f000006",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「ロバノ　コハ　イリマセンカ、",
+        "sentence_with_furigana": "「ロバノ　コハ　イリマセンカ、",
+        "word_base_list": [
+            "「",
+            "ロバノ",
+            " ",
+            "コハ",
+            " ",
+            "イリマセンカ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ロバノ",
+            "　",
+            "コハ",
+            "　",
+            "イリマセンカ",
+            "、"
+        ],
+        "sound": "f000006.mp3"
+    },
+    {
+        "id": "Usagi-f000007",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ロバノ　コ」",
+        "sentence_with_furigana": "ロバノ　コ」",
+        "word_base_list": [
+            "ロバノ",
+            " ",
+            "こ",
+            "」"
+        ],
+        "word_list": [
+            "ロバノ",
+            "　",
+            "コ",
+            "」"
+        ],
+        "sound": "f000007.mp3"
+    },
+    {
+        "id": "Usagi-f000008",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ト　ヨンデ　アルキマシタ。",
+        "sentence_with_furigana": "ト　ヨンデ　アルキマシタ。",
+        "word_base_list": [
+            "と",
+            " ",
+            "ヨンデ",
+            " ",
+            "アルキマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ト",
+            "　",
+            "ヨンデ",
+            "　",
+            "アルキマシタ",
+            "。"
+        ],
+        "sound": "f000008.mp3"
+    },
+    {
+        "id": "Usagi-f000009",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "チヤウサンハ　チヨウド、",
+        "sentence_with_furigana": "チヤウサンハ　チヨウド、",
+        "word_base_list": [
+            "チヤウサンハ",
+            " ",
+            "チヨウド",
+            "、"
+        ],
+        "word_list": [
+            "チヤウサンハ",
+            "　",
+            "チヨウド",
+            "、"
+        ],
+        "sound": "f000009.mp3"
+    },
+    {
+        "id": "Usagi-f000010",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ロバガ　イツピキ　ホシイト　オモツテ　ヰタ　トコロデシタノデ、",
+        "sentence_with_furigana": "ロバガ　イツピキ　ホシイト　オモツテ　ヰタ　トコロデシタノデ、",
+        "word_base_list": [
+            "ロバガ",
+            " ",
+            "イツピキ",
+            " ",
+            "ホシイト",
+            " ",
+            "オモツテ",
+            " ",
+            "ウィタ",
+            " ",
+            "トコロデシタノデ",
+            "、"
+        ],
+        "word_list": [
+            "ロバガ",
+            "　",
+            "イツピキ",
+            "　",
+            "ホシイト",
+            "　",
+            "オモツテ",
+            "　",
+            "ヰタ",
+            "　",
+            "トコロデシタノデ",
+            "、"
+        ],
+        "sound": "f000010.mp3"
+    },
+    {
+        "id": "Usagi-f000011",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "アキナヒノ　モツテ　ヰル　カゴヲ　ノゾイテ　ミマシタ。",
+        "sentence_with_furigana": "アキナヒノ　モツテ　ヰル　カゴヲ　ノゾイテ　ミマシタ。",
+        "word_base_list": [
+            "アキナヒノ",
+            " ",
+            "モツテ",
+            " ",
+            "ヰル",
+            " ",
+            "カゴヲ",
+            " ",
+            "ノゾイテ",
+            " ",
+            "ミマシタ",
+            "。"
+        ],
+        "word_list": [
+            "アキナヒノ",
+            "　",
+            "モツテ",
+            "　",
+            "ヰル",
+            "　",
+            "カゴヲ",
+            "　",
+            "ノゾイテ",
+            "　",
+            "ミマシタ",
+            "。"
+        ],
+        "sound": "f000011.mp3"
+    },
+    {
+        "id": "Usagi-f000012",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「ヤア、",
+        "sentence_with_furigana": "「ヤア、",
+        "word_base_list": [
+            "「",
+            "ヤア",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ヤア",
+            "、"
+        ],
+        "sound": "f000012.mp3"
+    },
+    {
+        "id": "Usagi-f000013",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "チヒサイネ」",
+        "sentence_with_furigana": "チヒサイネ」",
+        "word_base_list": [
+            "チヒサイネ",
+            "」"
+        ],
+        "word_list": [
+            "チヒサイネ",
+            "」"
+        ],
+        "sound": "f000013.mp3"
+    },
+    {
+        "id": "Usagi-f000014",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「コドモデスカラネ」",
+        "sentence_with_furigana": "「コドモデスカラネ」",
+        "word_base_list": [
+            "「",
+            "コドモデスカラネ",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "コドモデスカラネ",
+            "」"
+        ],
+        "sound": "f000014.mp3"
+    },
+    {
+        "id": "Usagi-f000015",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「コレデハ、",
+        "sentence_with_furigana": "「コレデハ、",
+        "word_base_list": [
+            "「",
+            "コレデハ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "コレデハ",
+            "、"
+        ],
+        "sound": "f000015.mp3"
+    },
+    {
+        "id": "Usagi-f000016",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "オトナニ　ナツテモ　アマリ　オホキク　ナリマスマイ」",
+        "sentence_with_furigana": "オトナニ　ナツテモ　アマリ　オホキク　ナリマスマイ」",
+        "word_base_list": [
+            "オトナニ",
+            " ",
+            "ナツテモ",
+            " ",
+            "アマリ",
+            " ",
+            "オホキク",
+            " ",
+            "ナリマスマイ",
+            "」"
+        ],
+        "word_list": [
+            "オトナニ",
+            "　",
+            "ナツテモ",
+            "　",
+            "アマリ",
+            "　",
+            "オホキク",
+            "　",
+            "ナリマスマイ",
+            "」"
+        ],
+        "sound": "f000016.mp3"
+    },
+    {
+        "id": "Usagi-f000017",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「イヤイヤ　オトナニ　ナツタラ、",
+        "sentence_with_furigana": "「イヤイヤ　オトナニ　ナツタラ、",
+        "word_base_list": [
+            "「",
+            "嫌々",
+            " ",
+            "オトナニ",
+            " ",
+            "ナツタラ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "イヤイヤ",
+            "　",
+            "オトナニ",
+            "　",
+            "ナツタラ",
+            "、"
+        ],
+        "sound": "f000017.mp3"
+    },
+    {
+        "id": "Usagi-f000018",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "コヤクラヰノ　オホキサニ　ナル」",
+        "sentence_with_furigana": "コヤクラヰノ　オホキサニ　ナル」",
+        "word_base_list": [
+            "コヤクラヰノ",
+            " ",
+            "オホキサニ",
+            " ",
+            "ナル",
+            "」"
+        ],
+        "word_list": [
+            "コヤクラヰノ",
+            "　",
+            "オホキサニ",
+            "　",
+            "ナル",
+            "」"
+        ],
+        "sound": "f000018.mp3"
+    },
+    {
+        "id": "Usagi-f000019",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「ダマサウタツテ　ダメダヨ」",
+        "sentence_with_furigana": "「ダマサウタツテ　ダメダヨ」",
+        "word_base_list": [
+            "「",
+            "ダマサウタツテ",
+            " ",
+            "ダメダヨ",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "ダマサウタツテ",
+            "　",
+            "ダメダヨ",
+            "」"
+        ],
+        "sound": "f000019.mp3"
+    },
+    {
+        "id": "Usagi-f000020",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「ホントウデスヨ。",
+        "sentence_with_furigana": "「ホントウデスヨ。",
+        "word_base_list": [
+            "「",
+            "ホントウデスヨ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "ホントウデスヨ",
+            "。"
+        ],
+        "sound": "f000020.mp3"
+    },
+    {
+        "id": "Usagi-f000021",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ゴランナサイ　コノ　ミミノ　ナガイ　コトヲ。",
+        "sentence_with_furigana": "ゴランナサイ　コノ　ミミノ　ナガイ　コトヲ。",
+        "word_base_list": [
+            "ゴランナサイ",
+            " ",
+            "此の",
+            " ",
+            "ミミノ",
+            " ",
+            "ナガイ",
+            " ",
+            "コトヲ",
+            "。"
+        ],
+        "word_list": [
+            "ゴランナサイ",
+            "　",
+            "コノ",
+            "　",
+            "ミミノ",
+            "　",
+            "ナガイ",
+            "　",
+            "コトヲ",
+            "。"
+        ],
+        "sound": "f000021.mp3"
+    },
+    {
+        "id": "Usagi-f000022",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "コレガ　オホキク　ナル　シヨウコデス」",
+        "sentence_with_furigana": "コレガ　オホキク　ナル　シヨウコデス」",
+        "word_base_list": [
+            "コレガ",
+            " ",
+            "オホキク",
+            " ",
+            "ナル",
+            " ",
+            "シヨウコデス",
+            "」"
+        ],
+        "word_list": [
+            "コレガ",
+            "　",
+            "オホキク",
+            "　",
+            "ナル",
+            "　",
+            "シヨウコデス",
+            "」"
+        ],
+        "sound": "f000022.mp3"
+    },
+    {
+        "id": "Usagi-f000023",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ミルト　ナルホド、",
+        "sentence_with_furigana": "ミルト　ナルホド、",
+        "word_base_list": [
+            "ミルト",
+            " ",
+            "成る程",
+            "、"
+        ],
+        "word_list": [
+            "ミルト",
+            "　",
+            "ナルホド",
+            "、"
+        ],
+        "sound": "f000023.mp3"
+    },
+    {
+        "id": "Usagi-f000024",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ナガイ　ミミガ　フタツ、",
+        "sentence_with_furigana": "ナガイ　ミミガ　フタツ、",
+        "word_base_list": [
+            "ナガイ",
+            " ",
+            "ミミガ",
+            " ",
+            "フタツ",
+            "、"
+        ],
+        "word_list": [
+            "ナガイ",
+            "　",
+            "ミミガ",
+            "　",
+            "フタツ",
+            "、"
+        ],
+        "sound": "f000024.mp3"
+    },
+    {
+        "id": "Usagi-f000025",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ニヨツキリ　ハエテ　ヰマス。",
+        "sentence_with_furigana": "ニヨツキリ　ハエテ　ヰマス。",
+        "word_base_list": [
+            "ニヨツキリ",
+            " ",
+            "ハエテ",
+            " ",
+            "ヰマス",
+            "。"
+        ],
+        "word_list": [
+            "ニヨツキリ",
+            "　",
+            "ハエテ",
+            "　",
+            "ヰマス",
+            "。"
+        ],
+        "sound": "f000025.mp3"
+    },
+    {
+        "id": "Usagi-f000026",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ソコデ　チヤウサンハ　ウサギト　シラズニ　カヒマシタ。",
+        "sentence_with_furigana": "ソコデ　チヤウサンハ　ウサギト　シラズニ　カヒマシタ。",
+        "word_base_list": [
+            "ソコデ",
+            " ",
+            "チヤウサンハ",
+            " ",
+            "ウサギト",
+            " ",
+            "シラズニ",
+            " ",
+            "カヒマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ソコデ",
+            "　",
+            "チヤウサンハ",
+            "　",
+            "ウサギト",
+            "　",
+            "シラズニ",
+            "　",
+            "カヒマシタ",
+            "。"
+        ],
+        "sound": "f000026.mp3"
+    },
+    {
+        "id": "Usagi-f000027",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "サテ　チヤウサンハ　ウチニ　カヘルト、",
+        "sentence_with_furigana": "サテ　チヤウサンハ　ウチニ　カヘルト、",
+        "word_base_list": [
+            "扠",
+            " ",
+            "チヤウサンハ",
+            " ",
+            "ウチニ",
+            " ",
+            "カヘルト",
+            "、"
+        ],
+        "word_list": [
+            "サテ",
+            "　",
+            "チヤウサンハ",
+            "　",
+            "ウチニ",
+            "　",
+            "カヘルト",
+            "、"
+        ],
+        "sound": "f000027.mp3"
+    },
+    {
+        "id": "Usagi-f000028",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "サツソク、",
+        "sentence_with_furigana": "サツソク、",
+        "word_base_list": [
+            "サツソク",
+            "、"
+        ],
+        "word_list": [
+            "サツソク",
+            "、"
+        ],
+        "sound": "f000028.mp3"
+    },
+    {
+        "id": "Usagi-f000029",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ロバニ　ヒカセル　クルマヲ　ツクリハジメマシタ。",
+        "sentence_with_furigana": "ロバニ　ヒカセル　クルマヲ　ツクリハジメマシタ。",
+        "word_base_list": [
+            "ロバニ",
+            " ",
+            "ヒカセル",
+            " ",
+            "クルマヲ",
+            " ",
+            "ツクリハジメマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ロバニ",
+            "　",
+            "ヒカセル",
+            "　",
+            "クルマヲ",
+            "　",
+            "ツクリハジメマシタ",
+            "。"
+        ],
+        "sound": "f000029.mp3"
+    },
+    {
+        "id": "Usagi-f000030",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ナニシロ、",
+        "sentence_with_furigana": "ナニシロ、",
+        "word_base_list": [
+            "ナニシロ",
+            "、"
+        ],
+        "word_list": [
+            "ナニシロ",
+            "、"
+        ],
+        "sound": "f000030.mp3"
+    },
+    {
+        "id": "Usagi-f000031",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "イマニ、",
+        "sentence_with_furigana": "イマニ、",
+        "word_base_list": [
+            "イマニ",
+            "、"
+        ],
+        "word_list": [
+            "イマニ",
+            "、"
+        ],
+        "sound": "f000031.mp3"
+    },
+    {
+        "id": "Usagi-f000032",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "コヤミタイニ　オホキナ　ロバニ　ナルト　イフノデスカラ、",
+        "sentence_with_furigana": "コヤミタイニ　オホキナ　ロバニ　ナルト　イフノデスカラ、",
+        "word_base_list": [
+            "コヤミタイニ",
+            " ",
+            "オホキナ",
+            " ",
+            "ロバニ",
+            " ",
+            "ナルト",
+            " ",
+            "イフノデスカラ",
+            "、"
+        ],
+        "word_list": [
+            "コヤミタイニ",
+            "　",
+            "オホキナ",
+            "　",
+            "ロバニ",
+            "　",
+            "ナルト",
+            "　",
+            "イフノデスカラ",
+            "、"
+        ],
+        "sound": "f000032.mp3"
+    },
+    {
+        "id": "Usagi-f000033",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "チヒサナ　クルマデハ　マニアヒマセン。",
+        "sentence_with_furigana": "チヒサナ　クルマデハ　マニアヒマセン。",
+        "word_base_list": [
+            "チヒサナ",
+            " ",
+            "クルマデハ",
+            " ",
+            "マニアヒマセン",
+            "。"
+        ],
+        "word_list": [
+            "チヒサナ",
+            "　",
+            "クルマデハ",
+            "　",
+            "マニアヒマセン",
+            "。"
+        ],
+        "sound": "f000033.mp3"
+    },
+    {
+        "id": "Usagi-f000034",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ソコデ、",
+        "sentence_with_furigana": "ソコデ、",
+        "word_base_list": [
+            "ソコデ",
+            "、"
+        ],
+        "word_list": [
+            "ソコデ",
+            "、"
+        ],
+        "sound": "f000034.mp3"
+    },
+    {
+        "id": "Usagi-f000035",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ウマヤホドノ　クルマヲ　ツクツタノデ　アリマシタ。",
+        "sentence_with_furigana": "ウマヤホドノ　クルマヲ　ツクツタノデ　アリマシタ。",
+        "word_base_list": [
+            "ウマヤホドノ",
+            " ",
+            "クルマヲ",
+            " ",
+            "ツクツタノデ",
+            " ",
+            "アリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ウマヤホドノ",
+            "　",
+            "クルマヲ",
+            "　",
+            "ツクツタノデ",
+            "　",
+            "アリマシタ",
+            "。"
+        ],
+        "sound": "f000035.mp3"
+    },
+    {
+        "id": "Usagi-f000036",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "クルマハ　デキアガリマシタ。",
+        "sentence_with_furigana": "クルマハ　デキアガリマシタ。",
+        "word_base_list": [
+            "クルマハ",
+            " ",
+            "デキアガリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "クルマハ",
+            "　",
+            "デキアガリマシタ",
+            "。"
+        ],
+        "sound": "f000036.mp3"
+    },
+    {
+        "id": "Usagi-f000037",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "トコロガ　ウサギノ　ハウハ　イクラ　ダイジニ　シテ　ヤツテモ、",
+        "sentence_with_furigana": "トコロガ　ウサギノ　ハウハ　イクラ　ダイジニ　シテ　ヤツテモ、",
+        "word_base_list": [
+            "トコロガ",
+            " ",
+            "ウサギノ",
+            " ",
+            "ハウハ",
+            " ",
+            "イクラ",
+            " ",
+            "ダイジニ",
+            " ",
+            "仕手",
+            " ",
+            "ヤツテモ",
+            "、"
+        ],
+        "word_list": [
+            "トコロガ",
+            "　",
+            "ウサギノ",
+            "　",
+            "ハウハ",
+            "　",
+            "イクラ",
+            "　",
+            "ダイジニ",
+            "　",
+            "シテ",
+            "　",
+            "ヤツテモ",
+            "、"
+        ],
+        "sound": "f000037.mp3"
+    },
+    {
+        "id": "Usagi-f000038",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "チツトモ　オホキク　ナリマセン。",
+        "sentence_with_furigana": "チツトモ　オホキク　ナリマセン。",
+        "word_base_list": [
+            "チツトモ",
+            " ",
+            "オホキク",
+            " ",
+            "ナリマセン",
+            "。"
+        ],
+        "word_list": [
+            "チツトモ",
+            "　",
+            "オホキク",
+            "　",
+            "ナリマセン",
+            "。"
+        ],
+        "sound": "f000038.mp3"
+    },
+    {
+        "id": "Usagi-f000039",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "タウトウ　チヤウサンハ　ハラヲ　タテテ　シマヒマシタ。",
+        "sentence_with_furigana": "タウトウ　チヤウサンハ　ハラヲ　タテテ　シマヒマシタ。",
+        "word_base_list": [
+            "タウトウ",
+            " ",
+            "チヤウサンハ",
+            " ",
+            "ハラヲ",
+            " ",
+            "タテテ",
+            " ",
+            "シマヒマシタ",
+            "。"
+        ],
+        "word_list": [
+            "タウトウ",
+            "　",
+            "チヤウサンハ",
+            "　",
+            "ハラヲ",
+            "　",
+            "タテテ",
+            "　",
+            "シマヒマシタ",
+            "。"
+        ],
+        "sound": "f000039.mp3"
+    },
+    {
+        "id": "Usagi-f000040",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「モウ　ガマンガ　デキナイ。",
+        "sentence_with_furigana": "「モウ　ガマンガ　デキナイ。",
+        "word_base_list": [
+            "「",
+            "もう",
+            " ",
+            "ガマンガ",
+            " ",
+            "デキナイ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "モウ",
+            "　",
+            "ガマンガ",
+            "　",
+            "デキナイ",
+            "。"
+        ],
+        "sound": "f000040.mp3"
+    },
+    {
+        "id": "Usagi-f000041",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ケフハ　クルマヲ　ヒカセテ　ミヨウ」",
+        "sentence_with_furigana": "ケフハ　クルマヲ　ヒカセテ　ミヨウ」",
+        "word_base_list": [
+            "ケフハ",
+            " ",
+            "クルマヲ",
+            " ",
+            "ヒカセテ",
+            " ",
+            "ミヨウ",
+            "」"
+        ],
+        "word_list": [
+            "ケフハ",
+            "　",
+            "クルマヲ",
+            "　",
+            "ヒカセテ",
+            "　",
+            "ミヨウ",
+            "」"
+        ],
+        "sound": "f000041.mp3"
+    },
+    {
+        "id": "Usagi-f000042",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ソコデ　ウサギハ　クルマニ　シバリツケラレマシタ。",
+        "sentence_with_furigana": "ソコデ　ウサギハ　クルマニ　シバリツケラレマシタ。",
+        "word_base_list": [
+            "ソコデ",
+            " ",
+            "ウサギハ",
+            " ",
+            "クルマニ",
+            " ",
+            "シバリツケラレマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ソコデ",
+            "　",
+            "ウサギハ",
+            "　",
+            "クルマニ",
+            "　",
+            "シバリツケラレマシタ",
+            "。"
+        ],
+        "sound": "f000042.mp3"
+    },
+    {
+        "id": "Usagi-f000043",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "チヤウサンハ　クルマニ　ノツテ　ムチヲ　フリアゲ、",
+        "sentence_with_furigana": "チヤウサンハ　クルマニ　ノツテ　ムチヲ　フリアゲ、",
+        "word_base_list": [
+            "チヤウサンハ",
+            " ",
+            "クルマニ",
+            " ",
+            "ノツテ",
+            " ",
+            "ムチヲ",
+            " ",
+            "フリアゲ",
+            "、"
+        ],
+        "word_list": [
+            "チヤウサンハ",
+            "　",
+            "クルマニ",
+            "　",
+            "ノツテ",
+            "　",
+            "ムチヲ",
+            "　",
+            "フリアゲ",
+            "、"
+        ],
+        "sound": "f000043.mp3"
+    },
+    {
+        "id": "Usagi-f000044",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「シーツ」",
+        "sentence_with_furigana": "「シーツ」",
+        "word_base_list": [
+            "「",
+            "シーツ",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "シーツ",
+            "」"
+        ],
+        "sound": "f000044.mp3"
+    },
+    {
+        "id": "Usagi-f000045",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ト　イヒマシタ。",
+        "sentence_with_furigana": "ト　イヒマシタ。",
+        "word_base_list": [
+            "と",
+            " ",
+            "イヒマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ト",
+            "　",
+            "イヒマシタ",
+            "。"
+        ],
+        "sound": "f000045.mp3"
+    },
+    {
+        "id": "Usagi-f000046",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ウサギハ、",
+        "sentence_with_furigana": "ウサギハ、",
+        "word_base_list": [
+            "ウサギハ",
+            "、"
+        ],
+        "word_list": [
+            "ウサギハ",
+            "、"
+        ],
+        "sound": "f000046.mp3"
+    },
+    {
+        "id": "Usagi-f000047",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ソンナ　コトニハ　オカマヒ　ナシニ、",
+        "sentence_with_furigana": "ソンナ　コトニハ　オカマヒ　ナシニ、",
+        "word_base_list": [
+            "そんな",
+            " ",
+            "コトニハ",
+            " ",
+            "オカマヒ",
+            " ",
+            "ナシニ",
+            "、"
+        ],
+        "word_list": [
+            "ソンナ",
+            "　",
+            "コトニハ",
+            "　",
+            "オカマヒ",
+            "　",
+            "ナシニ",
+            "、"
+        ],
+        "sound": "f000047.mp3"
+    },
+    {
+        "id": "Usagi-f000048",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ミチバタノ　クサヲ　タベテ　ヲリマシタ。",
+        "sentence_with_furigana": "ミチバタノ　クサヲ　タベテ　ヲリマシタ。",
+        "word_base_list": [
+            "ミチバタノ",
+            " ",
+            "クサヲ",
+            " ",
+            "タベテ",
+            " ",
+            "ヲリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ミチバタノ",
+            "　",
+            "クサヲ",
+            "　",
+            "タベテ",
+            "　",
+            "ヲリマシタ",
+            "。"
+        ],
+        "sound": "f000048.mp3"
+    },
+    {
+        "id": "Usagi-f000049",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "イクラ　シカツテモ　ダメデ　アリマシタ。",
+        "sentence_with_furigana": "イクラ　シカツテモ　ダメデ　アリマシタ。",
+        "word_base_list": [
+            "イクラ",
+            " ",
+            "シカツテモ",
+            " ",
+            "ダメデ",
+            " ",
+            "アリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "イクラ",
+            "　",
+            "シカツテモ",
+            "　",
+            "ダメデ",
+            "　",
+            "アリマシタ",
+            "。"
+        ],
+        "sound": "f000049.mp3"
+    },
+    {
+        "id": "Usagi-f000050",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "「ヤレヤレ」",
+        "sentence_with_furigana": "「ヤレヤレ」",
+        "word_base_list": [
+            "「",
+            "ヤレヤレ",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "ヤレヤレ",
+            "」"
+        ],
+        "sound": "f000050.mp3"
+    },
+    {
+        "id": "Usagi-f000051",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "ト　チヤウサンハ、",
+        "sentence_with_furigana": "ト　チヤウサンハ、",
+        "word_base_list": [
+            "と",
+            " ",
+            "チヤウサンハ",
+            "、"
+        ],
+        "word_list": [
+            "ト",
+            "　",
+            "チヤウサンハ",
+            "、"
+        ],
+        "sound": "f000051.mp3"
+    },
+    {
+        "id": "Usagi-f000052",
+        "author": "Nankichi Niimi",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Usagi",
+        "deck_name_japanese": "ウサギ",
+        "sentence": "タウトウ　クルマノ　ナカニ　ヘタバツテ　シマヒマシタ。",
+        "sentence_with_furigana": "タウトウ　クルマノ　ナカニ　ヘタバツテ　シマヒマシタ。",
+        "word_base_list": [
+            "タウトウ",
+            " ",
+            "クルマノ",
+            " ",
+            "ナカニ",
+            " ",
+            "ヘタバツテ",
+            " ",
+            "シマヒマシタ",
+            "。"
+        ],
+        "word_list": [
+            "タウトウ",
+            "　",
+            "クルマノ",
+            "　",
+            "ナカニ",
+            "　",
+            "ヘタバツテ",
+            "　",
+            "シマヒマシタ",
+            "。"
+        ],
+        "sound": "f000052.mp3"
+    }
+]
