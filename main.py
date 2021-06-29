@@ -1,6 +1,7 @@
 from bottle import request, route, run, template, static_file, hook
 from search import look_up, get_sentence_by_id, get_sentence_with_context
 from anki import generate_deck
+import requests
 import os
 from pathlib import Path
 from config import RESOURCES_PATH, DEFAULT_CATEGORY
@@ -46,8 +47,55 @@ def sentence_with_context():
 def server_static(filepath):
     return static_file(filepath, root= basepath + '/resources/anime/')
 
+@route('/download_sentence_audio')
+def download_sentence_audio():
+    sentence_id = request.query.get('id')
+    if sentence_id is None:
+        return 'No sentence id specified.'
+    else:
+        has_category = request.query.get('category') is not None and request.query.get('category') != ''
+        sentence = get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
+        if sentence is None:
+            return 'File not found.'
+        else:
+            # Download Sound
+            response = requests.get(sentence["sound_url"])
+            sound_file_name = Path(RESOURCES_PATH, "sound", sentence["sound"])
+            file = open(sound_file_name, "wb")
+            file.write(response.content)
+            file.close()
+            @hook('after_request')
+            def deleteFile():
+                file =  Path(RESOURCES_PATH, 'sound', sentence["sound"])
+                if os.path.exists(file):
+                    os.remove(file)
+            return static_file(sentence["sound"], root= str(Path(RESOURCES_PATH, 'sound')), download=sentence["sound"])
+
+@route('/download_sentence_image')
+def download_sentence_image():
+    sentence_id = request.query.get('id')
+    if sentence_id is None:
+        return 'No sentence id specified.'
+    else:
+        has_category = request.query.get('category') is not None and request.query.get('category') != ''
+        sentence = get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
+        if sentence is None:
+            return 'File not found.'
+        else:
+            response = requests.get(sentence["image_url"])
+            image_file_name = Path(RESOURCES_PATH, "images", sentence["image"])
+            file = open(image_file_name, "wb")
+            file.write(response.content)
+            file.close()
+            @hook('after_request')
+            def deleteFile():
+                file =  Path(RESOURCES_PATH, 'images', sentence["image"])
+                if os.path.exists(file):
+                    os.remove(file)
+            return static_file(sentence["image"], root= str(Path(RESOURCES_PATH, 'images')), download=sentence["image"])
+
 @route('/download_sentence')
-def download_sentence():
+def download_sentence_apkg():
     sentence_id = request.query.get('id')
     if sentence_id is None:
         return 'No sentence id specified.'
