@@ -54,11 +54,11 @@ class Decks:
     def parse_sentence(self, sentence):
         if (self.has_image):
             image_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['image'])
-            sentence['image_url'] = image_path
+            sentence['image_url'] = image_path.replace(" ", "%20")
         
         if (self.has_sound):
             sound_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['sound'])
-            sentence['sound_url'] = sound_path
+            sentence['sound_url'] = sound_path.replace(" ", "%20")
         return sentence
     
     def map_sentence(self, words, example_id, output_map):
