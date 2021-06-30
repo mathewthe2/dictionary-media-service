@@ -1,4 +1,4 @@
-from bottle import request, route, run, template, static_file, hook
+from bottle import request, response, route, run, template, static_file, hook
 from search import look_up, get_sentence_by_id, get_sentence_with_context
 from anki import generate_deck
 import requests
@@ -27,6 +27,8 @@ def look_up_dictionary():
             'JLPT': None if not has_jlpt else int(request.query.jlpt),
             'WK': None if not has_wk else int(request.query.wk)
         }
+        response.set_header('Access-Control-Allow-Origin', '*')
+        response.add_header('Access-Control-Allow-Methods', 'GET')
         return look_up(
             text = request.query.keyword[:50], 
             sorting = None if not has_sorting else request.query.sort,
