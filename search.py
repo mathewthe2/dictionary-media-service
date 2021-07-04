@@ -56,7 +56,7 @@ def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_le
             examples = filter_examples_by_exact_match(examples, text)
         examples = limit_examples(examples)
         examples = parse_examples(examples, text_is_japanese, word_bases)
-        return filter_fields(examples, excluded_fields=["pretext", "posttext"])
+        return filter_fields(examples, excluded_fields=["image", "sound", "translation_word_base_list", "word_base_list", "pretext", "posttext"])
     else:
         return []
 
