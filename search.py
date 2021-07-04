@@ -20,6 +20,24 @@ def get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY):
     decks.set_category(category)
     return decks.get_sentence(sentence_id)
 
+def deconstruct_combinatory_sentence_id(sentence_id):
+    if '-' in sentence_id:
+        print(sentence_id)
+        return {
+            'category': sentence_id.split('-', 1)[0],
+            'example_id': sentence_id.split('-', 1)[1]
+        }
+    else:
+        return None
+
+def get_sentences_with_combinatory_ids(combinatory_sentence_ids):
+    result = []
+    for combinatory_sentence_id in combinatory_sentence_ids:
+        sentence = deconstruct_combinatory_sentence_id(combinatory_sentence_id)
+        if sentence:
+            result.append(get_sentence_by_id(sentence['example_id'], sentence['category'].lower()))
+    return dict(data=result)
+
 def get_sentence_with_context(sentence_id, category=DEFAULT_CATEGORY):
     sentence = get_sentence_by_id(sentence_id, category)
     if sentence is None:

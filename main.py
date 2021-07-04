@@ -1,5 +1,5 @@
 from bottle import request, response, route, run, template, static_file, hook
-from search import look_up, get_sentence_by_id, get_sentence_with_context
+from search import look_up, get_sentence_by_id, get_sentence_with_context, get_sentences_with_combinatory_ids
 from anki import generate_deck
 import requests
 import os
@@ -46,6 +46,17 @@ def sentence_with_context():
         response.set_header('Access-Control-Allow-Origin', '*')
         response.add_header('Access-Control-Allow-Methods', 'GET')
         return get_sentence_with_context(request.query.id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
+
+@route('/sentences')
+def sentences():
+    sentences_ids = request.query.get('ids')
+    if sentences_ids is None:
+        return 'No sentence ids specified.'
+    else: 
+        response.set_header('Access-Control-Allow-Origin', '*')
+        response.add_header('Access-Control-Allow-Methods', 'GET')
+        return get_sentences_with_combinatory_ids(request.query.ids.split(','))
+
 
 @route('/anime/<filepath:path>')
 def server_static(filepath):
