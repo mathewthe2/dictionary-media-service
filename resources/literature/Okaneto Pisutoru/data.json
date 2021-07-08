@@ -1,7 +1,6 @@
 [
     {
         "id": "Okaneto Pisutoru-f000002",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -19,11 +18,12 @@
             "と",
             "ピストル"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6571,
+        "sound_end": 12400
     },
     {
         "id": "Okaneto Pisutoru-f000003",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -59,11 +59,12 @@
             "て",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 12400,
+        "sound_end": 16720
     },
     {
         "id": "Okaneto Pisutoru-f000004",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -91,11 +92,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 16720,
+        "sound_end": 20525
     },
     {
         "id": "Okaneto Pisutoru-f000005",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -111,11 +113,12 @@
             "は",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 20525,
+        "sound_end": 22504
     },
     {
         "id": "Okaneto Pisutoru-f000006",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -147,11 +150,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 22504,
+        "sound_end": 26000
     },
     {
         "id": "Okaneto Pisutoru-f000007",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -185,11 +189,12 @@
             "買おう",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 26000,
+        "sound_end": 30720
     },
     {
         "id": "Okaneto Pisutoru-f000008",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -231,11 +236,12 @@
             "だろう",
             "」"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 30720,
+        "sound_end": 37880
     },
     {
         "id": "Okaneto Pisutoru-f000009",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -263,11 +269,12 @@
             "が",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 37880,
+        "sound_end": 39680
     },
     {
         "id": "Okaneto Pisutoru-f000010",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -303,11 +310,12 @@
             "た",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 39680,
+        "sound_end": 46150
     },
     {
         "id": "Okaneto Pisutoru-f000011",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -337,11 +345,12 @@
             "と",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 46150,
+        "sound_end": 49440
     },
     {
         "id": "Okaneto Pisutoru-f000012",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -373,11 +382,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 49440,
+        "sound_end": 52880
     },
     {
         "id": "Okaneto Pisutoru-f000013",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -393,11 +403,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 52880,
+        "sound_end": 53760
     },
     {
         "id": "Okaneto Pisutoru-f000014",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -421,11 +432,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 53760,
+        "sound_end": 55920
     },
     {
         "id": "Okaneto Pisutoru-f000015",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -455,11 +467,12 @@
             "出せ",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 55920,
+        "sound_end": 59280
     },
     {
         "id": "Okaneto Pisutoru-f000016",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -485,11 +498,12 @@
             "ぞ",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 59280,
+        "sound_end": 62108
     },
     {
         "id": "Okaneto Pisutoru-f000017",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -509,11 +523,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 62108,
+        "sound_end": 66040
     },
     {
         "id": "Okaneto Pisutoru-f000018",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -543,11 +558,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 66040,
+        "sound_end": 70455
     },
     {
         "id": "Okaneto Pisutoru-f000019",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -563,11 +579,12 @@
             "アハハ",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 70455,
+        "sound_end": 72440
     },
     {
         "id": "Okaneto Pisutoru-f000020",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -593,11 +610,12 @@
             "で",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 72440,
+        "sound_end": 75320
     },
     {
         "id": "Okaneto Pisutoru-f000021",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -629,11 +647,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 75320,
+        "sound_end": 78396
     },
     {
         "id": "Okaneto Pisutoru-f000022",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -665,11 +684,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 78396,
+        "sound_end": 83495
     },
     {
         "id": "Okaneto Pisutoru-f000023",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -705,11 +725,12 @@
             "て",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 83495,
+        "sound_end": 87600
     },
     {
         "id": "Okaneto Pisutoru-f000024",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -741,11 +762,12 @@
             "が",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 87600,
+        "sound_end": 89960
     },
     {
         "id": "Okaneto Pisutoru-f000025",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -793,11 +815,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 89960,
+        "sound_end": 98566
     },
     {
         "id": "Okaneto Pisutoru-f000026",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -825,11 +848,12 @@
             "と",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 98566,
+        "sound_end": 101407
     },
     {
         "id": "Okaneto Pisutoru-f000027",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -873,11 +897,12 @@
             "で",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 101407,
+        "sound_end": 106735
     },
     {
         "id": "Okaneto Pisutoru-f000028",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -905,11 +930,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 106735,
+        "sound_end": 112840
     },
     {
         "id": "Okaneto Pisutoru-f000029",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Okaneto Pisutoru",
         "deck_name_japanese": "お金とピストル",
@@ -937,6 +963,8 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 112840,
+        "sound_end": 118960
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Okame Donguri-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -17,11 +16,12 @@
             "かめ",
             "どんぐり"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5066,
+        "sound_end": 10360
     },
     {
         "id": "Okame Donguri-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -41,11 +41,12 @@
             "は",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10360,
+        "sound_end": 11840
     },
     {
         "id": "Okame Donguri-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -67,11 +68,12 @@
             "です",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 11840,
+        "sound_end": 15160
     },
     {
         "id": "Okame Donguri-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -95,11 +97,12 @@
             "で",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 15160,
+        "sound_end": 17200
     },
     {
         "id": "Okame Donguri-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -139,11 +142,12 @@
             "も",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 17200,
+        "sound_end": 20960
     },
     {
         "id": "Okame Donguri-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -165,11 +169,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 20960,
+        "sound_end": 23600
     },
     {
         "id": "Okame Donguri-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -187,11 +192,12 @@
             "は",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 23600,
+        "sound_end": 24800
     },
     {
         "id": "Okame Donguri-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -225,11 +231,12 @@
             "に",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 24800,
+        "sound_end": 27600
     },
     {
         "id": "Okame Donguri-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -251,11 +258,12 @@
             "た",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 27600,
+        "sound_end": 30410
     },
     {
         "id": "Okame Donguri-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -273,11 +281,12 @@
             "ちゃん",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 30410,
+        "sound_end": 31360
     },
     {
         "id": "Okame Donguri-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -295,11 +304,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 31360,
+        "sound_end": 33352
     },
     {
         "id": "Okame Donguri-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -315,11 +325,12 @@
             "は",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 33352,
+        "sound_end": 34080
     },
     {
         "id": "Okame Donguri-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -345,11 +356,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 34080,
+        "sound_end": 36876
     },
     {
         "id": "Okame Donguri-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -365,11 +377,12 @@
             "と",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 36876,
+        "sound_end": 37600
     },
     {
         "id": "Okame Donguri-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -385,11 +398,12 @@
             "は",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 37600,
+        "sound_end": 38120
     },
     {
         "id": "Okame Donguri-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -411,11 +425,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 38120,
+        "sound_end": 38880
     },
     {
         "id": "Okame Donguri-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -433,11 +448,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 38880,
+        "sound_end": 41880
     },
     {
         "id": "Okame Donguri-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -453,11 +469,12 @@
             "と",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 41880,
+        "sound_end": 42240
     },
     {
         "id": "Okame Donguri-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -477,11 +494,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 42240,
+        "sound_end": 43640
     },
     {
         "id": "Okame Donguri-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -503,11 +521,12 @@
             "から",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 43640,
+        "sound_end": 45160
     },
     {
         "id": "Okame Donguri-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -525,11 +544,12 @@
             "で",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 45160,
+        "sound_end": 46320
     },
     {
         "id": "Okame Donguri-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -551,11 +571,12 @@
             "た",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 46320,
+        "sound_end": 48760
     },
     {
         "id": "Okame Donguri-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -569,11 +590,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 48760,
+        "sound_end": 49680
     },
     {
         "id": "Okame Donguri-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -593,11 +615,12 @@
             "た",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 49680,
+        "sound_end": 50400
     },
     {
         "id": "Okame Donguri-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -611,11 +634,12 @@
             "くりや",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 50400,
+        "sound_end": 51160
     },
     {
         "id": "Okame Donguri-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -645,11 +669,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 51160,
+        "sound_end": 56080
     },
     {
         "id": "Okame Donguri-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -673,11 +698,12 @@
             "に",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 56080,
+        "sound_end": 57640
     },
     {
         "id": "Okame Donguri-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -695,11 +721,12 @@
             "は",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 57640,
+        "sound_end": 58680
     },
     {
         "id": "Okame Donguri-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -729,11 +756,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 58680,
+        "sound_end": 61339
     },
     {
         "id": "Okame Donguri-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -749,11 +777,12 @@
             "と",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 61339,
+        "sound_end": 62000
     },
     {
         "id": "Okame Donguri-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -777,11 +806,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 62000,
+        "sound_end": 65160
     },
     {
         "id": "Okame Donguri-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -797,11 +827,12 @@
             "いえ",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 65160,
+        "sound_end": 66040
     },
     {
         "id": "Okame Donguri-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -819,11 +850,12 @@
             "は",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 66040,
+        "sound_end": 66680
     },
     {
         "id": "Okame Donguri-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -837,11 +869,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 66680,
+        "sound_end": 67600
     },
     {
         "id": "Okame Donguri-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -857,11 +890,12 @@
             "から",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 67600,
+        "sound_end": 68080
     },
     {
         "id": "Okame Donguri-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -887,11 +921,12 @@
             "から",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 68080,
+        "sound_end": 70605
     },
     {
         "id": "Okame Donguri-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -907,11 +942,12 @@
             "と",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 70605,
+        "sound_end": 71320
     },
     {
         "id": "Okame Donguri-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -927,11 +963,12 @@
             "は",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 71320,
+        "sound_end": 71920
     },
     {
         "id": "Okame Donguri-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -949,11 +986,12 @@
             "た",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 71920,
+        "sound_end": 75240
     },
     {
         "id": "Okame Donguri-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -973,11 +1011,12 @@
             "から",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 75240,
+        "sound_end": 76560
     },
     {
         "id": "Okame Donguri-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -999,11 +1038,12 @@
             "た",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 76560,
+        "sound_end": 80040
     },
     {
         "id": "Okame Donguri-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1019,11 +1059,12 @@
             "と",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 80040,
+        "sound_end": 81200
     },
     {
         "id": "Okame Donguri-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1043,11 +1084,12 @@
             "くりや",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 81200,
+        "sound_end": 82760
     },
     {
         "id": "Okame Donguri-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1065,11 +1107,12 @@
             "や",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 82760,
+        "sound_end": 84040
     },
     {
         "id": "Okame Donguri-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1083,11 +1126,12 @@
             "また",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 84040,
+        "sound_end": 84360
     },
     {
         "id": "Okame Donguri-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1105,11 +1149,12 @@
             "が",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 84360,
+        "sound_end": 85360
     },
     {
         "id": "Okame Donguri-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1131,11 +1176,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 85360,
+        "sound_end": 87600
     },
     {
         "id": "Okame Donguri-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1153,11 +1199,12 @@
             "から",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 87600,
+        "sound_end": 88840
     },
     {
         "id": "Okame Donguri-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1181,11 +1228,12 @@
             "た",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 88840,
+        "sound_end": 90040
     },
     {
         "id": "Okame Donguri-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1211,11 +1259,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 90040,
+        "sound_end": 93857
     },
     {
         "id": "Okame Donguri-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1235,11 +1284,12 @@
             "と",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 93857,
+        "sound_end": 94800
     },
     {
         "id": "Okame Donguri-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1255,11 +1305,12 @@
             "は",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 94800,
+        "sound_end": 95520
     },
     {
         "id": "Okame Donguri-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1289,11 +1340,12 @@
             "て",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 95520,
+        "sound_end": 97960
     },
     {
         "id": "Okame Donguri-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1321,11 +1373,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 97960,
+        "sound_end": 101361
     },
     {
         "id": "Okame Donguri-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1345,11 +1398,12 @@
             "が",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 101361,
+        "sound_end": 102400
     },
     {
         "id": "Okame Donguri-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1377,11 +1431,12 @@
             "？",
             "」"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 102400,
+        "sound_end": 105280
     },
     {
         "id": "Okame Donguri-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1397,11 +1452,12 @@
             "はい",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 105280,
+        "sound_end": 105640
     },
     {
         "id": "Okame Donguri-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1415,11 +1471,12 @@
             "たくさん",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 105640,
+        "sound_end": 106840
     },
     {
         "id": "Okame Donguri-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1441,11 +1498,12 @@
             "。",
             "」"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 106840,
+        "sound_end": 108240
     },
     {
         "id": "Okame Donguri-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1469,11 +1527,12 @@
             "なあ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 108240,
+        "sound_end": 110659
     },
     {
         "id": "Okame Donguri-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1489,11 +1548,12 @@
             "と",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 110659,
+        "sound_end": 111440
     },
     {
         "id": "Okame Donguri-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1511,11 +1571,12 @@
             "は",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 111440,
+        "sound_end": 112600
     },
     {
         "id": "Okame Donguri-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1545,11 +1606,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 112600,
+        "sound_end": 117040
     },
     {
         "id": "Okame Donguri-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1567,11 +1629,12 @@
             "は",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 117040,
+        "sound_end": 118280
     },
     {
         "id": "Okame Donguri-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1585,11 +1648,12 @@
             "さっそく",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 118280,
+        "sound_end": 118760
     },
     {
         "id": "Okame Donguri-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1607,11 +1671,12 @@
             "に",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 118760,
+        "sound_end": 119440
     },
     {
         "id": "Okame Donguri-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1637,11 +1702,12 @@
             "た",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 119440,
+        "sound_end": 121800
     },
     {
         "id": "Okame Donguri-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1657,11 +1723,12 @@
             "から",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 121800,
+        "sound_end": 122680
     },
     {
         "id": "Okame Donguri-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1679,11 +1746,12 @@
             "に",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 122680,
+        "sound_end": 123640
     },
     {
         "id": "Okame Donguri-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1713,11 +1781,12 @@
             "た",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 123640,
+        "sound_end": 128499
     },
     {
         "id": "Okame Donguri-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1735,11 +1804,12 @@
             "と",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 128499,
+        "sound_end": 130039
     },
     {
         "id": "Okame Donguri-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1773,11 +1843,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 130039,
+        "sound_end": 133840
     },
     {
         "id": "Okame Donguri-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1799,11 +1870,12 @@
             "て",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 133840,
+        "sound_end": 134360
     },
     {
         "id": "Okame Donguri-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1827,11 +1899,12 @@
             "。",
             "」"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 134360,
+        "sound_end": 137293
     },
     {
         "id": "Okame Donguri-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1849,11 +1922,12 @@
             "は",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 137293,
+        "sound_end": 138640
     },
     {
         "id": "Okame Donguri-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1877,11 +1951,12 @@
             "と",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 138640,
+        "sound_end": 142080
     },
     {
         "id": "Okame Donguri-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1903,11 +1978,12 @@
             "た",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 142080,
+        "sound_end": 143240
     },
     {
         "id": "Okame Donguri-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1933,11 +2009,12 @@
             "と",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 143240,
+        "sound_end": 146120
     },
     {
         "id": "Okame Donguri-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1953,11 +2030,12 @@
             "が",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 146120,
+        "sound_end": 146680
     },
     {
         "id": "Okame Donguri-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1975,11 +2053,12 @@
             "て",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 146680,
+        "sound_end": 147560
     },
     {
         "id": "Okame Donguri-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -1993,11 +2072,12 @@
             "たちまち",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 147560,
+        "sound_end": 148200
     },
     {
         "id": "Okame Donguri-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2021,11 +2101,12 @@
             "た",
             "。"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 148200,
+        "sound_end": 150586
     },
     {
         "id": "Okame Donguri-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2047,11 +2128,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 150586,
+        "sound_end": 153520
     },
     {
         "id": "Okame Donguri-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2065,11 +2147,12 @@
             "また",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 153520,
+        "sound_end": 154200
     },
     {
         "id": "Okame Donguri-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2089,11 +2172,12 @@
             "て",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 154200,
+        "sound_end": 155160
     },
     {
         "id": "Okame Donguri-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2115,11 +2199,12 @@
             "から",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 155160,
+        "sound_end": 156560
     },
     {
         "id": "Okame Donguri-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2135,11 +2220,12 @@
             "か",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 156560,
+        "sound_end": 157560
     },
     {
         "id": "Okame Donguri-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2161,11 +2247,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 157560,
+        "sound_end": 159160
     },
     {
         "id": "Okame Donguri-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2181,11 +2268,12 @@
             "と",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 159160,
+        "sound_end": 159800
     },
     {
         "id": "Okame Donguri-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2207,11 +2295,12 @@
             "た",
             "。"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 159800,
+        "sound_end": 160720
     },
     {
         "id": "Okame Donguri-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2229,11 +2318,12 @@
             "に",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 160720,
+        "sound_end": 163440
     },
     {
         "id": "Okame Donguri-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2261,11 +2351,12 @@
             "。",
             "」"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 163440,
+        "sound_end": 168600
     },
     {
         "id": "Okame Donguri-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2283,11 +2374,12 @@
             "は",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 168600,
+        "sound_end": 169560
     },
     {
         "id": "Okame Donguri-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2307,11 +2399,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 169560,
+        "sound_end": 171480
     },
     {
         "id": "Okame Donguri-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2333,11 +2426,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 171480,
+        "sound_end": 173400
     },
     {
         "id": "Okame Donguri-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2357,11 +2451,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 173400,
+        "sound_end": 174560
     },
     {
         "id": "Okame Donguri-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2381,11 +2476,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 174560,
+        "sound_end": 176240
     },
     {
         "id": "Okame Donguri-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2405,11 +2501,12 @@
             "は",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 176240,
+        "sound_end": 177240
     },
     {
         "id": "Okame Donguri-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2431,11 +2528,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 177240,
+        "sound_end": 178400
     },
     {
         "id": "Okame Donguri-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2463,11 +2561,12 @@
             "て",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 178400,
+        "sound_end": 180800
     },
     {
         "id": "Okame Donguri-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2499,11 +2598,12 @@
             "た",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 180800,
+        "sound_end": 185320
     },
     {
         "id": "Okame Donguri-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2519,11 +2619,12 @@
             "かわり",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 185320,
+        "sound_end": 186560
     },
     {
         "id": "Okame Donguri-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2547,11 +2648,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 186560,
+        "sound_end": 188400
     },
     {
         "id": "Okame Donguri-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2577,11 +2679,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 188400,
+        "sound_end": 193360
     },
     {
         "id": "Okame Donguri-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2603,11 +2706,12 @@
             "って",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 193360,
+        "sound_end": 194760
     },
     {
         "id": "Okame Donguri-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2623,11 +2727,12 @@
             "かわり",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 194760,
+        "sound_end": 195480
     },
     {
         "id": "Okame Donguri-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2641,11 +2746,12 @@
             "くりや",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 195480,
+        "sound_end": 196240
     },
     {
         "id": "Okame Donguri-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2661,11 +2767,12 @@
             "を",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 196240,
+        "sound_end": 196840
     },
     {
         "id": "Okame Donguri-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2693,11 +2800,12 @@
             "から",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 196840,
+        "sound_end": 198800
     },
     {
         "id": "Okame Donguri-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2715,11 +2823,12 @@
             "た",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 198800,
+        "sound_end": 199680
     },
     {
         "id": "Okame Donguri-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2735,11 +2844,12 @@
             "と",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 199680,
+        "sound_end": 200880
     },
     {
         "id": "Okame Donguri-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2763,11 +2873,12 @@
             "た",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 200880,
+        "sound_end": 205560
     },
     {
         "id": "Okame Donguri-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2785,11 +2896,12 @@
             "が",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 205560,
+        "sound_end": 206720
     },
     {
         "id": "Okame Donguri-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2815,11 +2927,12 @@
             "た",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 206720,
+        "sound_end": 208240
     },
     {
         "id": "Okame Donguri-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2835,11 +2948,12 @@
             "を",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 208240,
+        "sound_end": 209000
     },
     {
         "id": "Okame Donguri-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2863,11 +2977,12 @@
             "と",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 209000,
+        "sound_end": 210880
     },
     {
         "id": "Okame Donguri-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2887,11 +3002,12 @@
             "た",
             "。"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 210880,
+        "sound_end": 213480
     },
     {
         "id": "Okame Donguri-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2907,11 +3023,12 @@
             "は",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 213480,
+        "sound_end": 214160
     },
     {
         "id": "Okame Donguri-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2929,11 +3046,12 @@
             "て",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 214160,
+        "sound_end": 215960
     },
     {
         "id": "Okame Donguri-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2955,11 +3073,12 @@
             "くれ",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 215960,
+        "sound_end": 217392
     },
     {
         "id": "Okame Donguri-f000122",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -2975,11 +3094,12 @@
             "と",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 217392,
+        "sound_end": 217920
     },
     {
         "id": "Okame Donguri-f000123",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3005,11 +3125,12 @@
             "た",
             "。"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 217920,
+        "sound_end": 220920
     },
     {
         "id": "Okame Donguri-f000124",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3025,11 +3146,12 @@
             "君",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 220920,
+        "sound_end": 221200
     },
     {
         "id": "Okame Donguri-f000125",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3051,11 +3173,12 @@
             "を",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 221200,
+        "sound_end": 222360
     },
     {
         "id": "Okame Donguri-f000126",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3087,11 +3210,12 @@
             "。",
             "」"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 222360,
+        "sound_end": 224760
     },
     {
         "id": "Okame Donguri-f000127",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3109,11 +3233,12 @@
             "個",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 224760,
+        "sound_end": 225280
     },
     {
         "id": "Okame Donguri-f000128",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3133,11 +3258,12 @@
             "。",
             "」"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 225280,
+        "sound_end": 226480
     },
     {
         "id": "Okame Donguri-f000129",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3161,11 +3287,12 @@
             "。",
             "」"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 226480,
+        "sound_end": 228960
     },
     {
         "id": "Okame Donguri-f000130",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3181,11 +3308,12 @@
             "は",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 228960,
+        "sound_end": 229680
     },
     {
         "id": "Okame Donguri-f000131",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3211,11 +3339,12 @@
             "て",
             "、"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 229680,
+        "sound_end": 231370
     },
     {
         "id": "Okame Donguri-f000132",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3239,11 +3368,12 @@
             "た",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 231370,
+        "sound_end": 234120
     },
     {
         "id": "Okame Donguri-f000133",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3259,11 +3389,12 @@
             "うち",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 234120,
+        "sound_end": 235040
     },
     {
         "id": "Okame Donguri-f000134",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3279,11 +3410,12 @@
             "から",
             "、"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 235040,
+        "sound_end": 235880
     },
     {
         "id": "Okame Donguri-f000135",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3311,11 +3443,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 235880,
+        "sound_end": 240480
     },
     {
         "id": "Okame Donguri-f000136",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3331,11 +3464,12 @@
             "晩",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 240480,
+        "sound_end": 241200
     },
     {
         "id": "Okame Donguri-f000137",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3353,11 +3487,12 @@
             "は",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 241200,
+        "sound_end": 242080
     },
     {
         "id": "Okame Donguri-f000138",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3375,11 +3510,12 @@
             "た",
             "。"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 242080,
+        "sound_end": 245320
     },
     {
         "id": "Okame Donguri-f000139",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3401,11 +3537,12 @@
             "は",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 245320,
+        "sound_end": 246480
     },
     {
         "id": "Okame Donguri-f000140",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3429,11 +3566,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 246480,
+        "sound_end": 249320
     },
     {
         "id": "Okame Donguri-f000141",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3457,11 +3595,12 @@
             "は",
             "、"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 249320,
+        "sound_end": 250920
     },
     {
         "id": "Okame Donguri-f000142",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3487,11 +3626,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 250920,
+        "sound_end": 254260
     },
     {
         "id": "Okame Donguri-f000143",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3521,11 +3661,12 @@
             "。",
             "」"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 254260,
+        "sound_end": 259160
     },
     {
         "id": "Okame Donguri-f000144",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3539,11 +3680,12 @@
             "あくる日",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 259160,
+        "sound_end": 260160
     },
     {
         "id": "Okame Donguri-f000145",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3561,11 +3703,12 @@
             "は",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 260160,
+        "sound_end": 261079
     },
     {
         "id": "Okame Donguri-f000146",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3585,11 +3728,12 @@
             "て",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 261079,
+        "sound_end": 262040
     },
     {
         "id": "Okame Donguri-f000147",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3625,11 +3769,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 262040,
+        "sound_end": 265960
     },
     {
         "id": "Okame Donguri-f000148",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3649,11 +3794,12 @@
             "て",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 265960,
+        "sound_end": 267200
     },
     {
         "id": "Okame Donguri-f000149",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3675,11 +3821,12 @@
             "から",
             "、"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 267200,
+        "sound_end": 268680
     },
     {
         "id": "Okame Donguri-f000150",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3707,11 +3854,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 268680,
+        "sound_end": 271141
     },
     {
         "id": "Okame Donguri-f000151",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3727,11 +3875,12 @@
             "と",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 271141,
+        "sound_end": 271298
     },
     {
         "id": "Okame Donguri-f000152",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3751,11 +3900,12 @@
             "た",
             "。"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 271298,
+        "sound_end": 273400
     },
     {
         "id": "Okame Donguri-f000153",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3771,11 +3921,12 @@
             "賛成",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 273400,
+        "sound_end": 274400
     },
     {
         "id": "Okame Donguri-f000154",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3791,11 +3942,12 @@
             "！",
             "」"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 274400,
+        "sound_end": 277560
     },
     {
         "id": "Okame Donguri-f000155",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3813,11 +3965,12 @@
             "を",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 277560,
+        "sound_end": 278560
     },
     {
         "id": "Okame Donguri-f000156",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3835,11 +3988,12 @@
             "から",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 278560,
+        "sound_end": 279480
     },
     {
         "id": "Okame Donguri-f000157",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3865,11 +4019,12 @@
             "と",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 279480,
+        "sound_end": 281160
     },
     {
         "id": "Okame Donguri-f000158",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3893,11 +4048,12 @@
             "て",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 281160,
+        "sound_end": 283440
     },
     {
         "id": "Okame Donguri-f000159",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3933,11 +4089,12 @@
             "た",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 283440,
+        "sound_end": 288440
     },
     {
         "id": "Okame Donguri-f000160",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3951,11 +4108,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 288440,
+        "sound_end": 289520
     },
     {
         "id": "Okame Donguri-f000161",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -3981,11 +4139,12 @@
             "も",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 289520,
+        "sound_end": 292320
     },
     {
         "id": "Okame Donguri-f000162",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4003,11 +4162,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 292320,
+        "sound_end": 293240
     },
     {
         "id": "Okame Donguri-f000163",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4025,11 +4185,12 @@
             "と",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 293240,
+        "sound_end": 294160
     },
     {
         "id": "Okame Donguri-f000164",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4047,11 +4208,12 @@
             "で",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 294160,
+        "sound_end": 295440
     },
     {
         "id": "Okame Donguri-f000165",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4069,11 +4231,12 @@
             "に",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 295440,
+        "sound_end": 296080
     },
     {
         "id": "Okame Donguri-f000166",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4093,11 +4256,12 @@
             "が",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 296080,
+        "sound_end": 297200
     },
     {
         "id": "Okame Donguri-f000167",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okame Donguri",
         "deck_name_japanese": "おかめどんぐり",
@@ -4123,6 +4287,8 @@
             "ます",
             "。"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 297200,
+        "sound_end": 302080
     }
 ]

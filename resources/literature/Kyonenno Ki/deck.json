@@ -1,0 +1,485 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 2828,
+        "audio_end": 7611
+    },
+    {
+        "id": "f000002",
+        "sentence": "去年の木",
+        "sentence_with_furigana": "去年の木",
+        "audio_begin": 7611,
+        "audio_end": 12080
+    },
+    {
+        "id": "f000003",
+        "sentence": "いっぽんの木と、",
+        "sentence_with_furigana": "いっぽんの木と、",
+        "audio_begin": 12080,
+        "audio_end": 13640
+    },
+    {
+        "id": "f000004",
+        "sentence": "いちわの小鳥とはたいへんなかよしでした。",
+        "sentence_with_furigana": "いちわの小鳥とはたいへんなかよしでした。",
+        "audio_begin": 13640,
+        "audio_end": 18279
+    },
+    {
+        "id": "f000005",
+        "sentence": "小鳥はいちんちその木の枝で歌をうたい、",
+        "sentence_with_furigana": "小鳥はいちんちその木の 枝[えだ]で歌をうたい、",
+        "audio_begin": 18279,
+        "audio_end": 22428
+    },
+    {
+        "id": "f000006",
+        "sentence": "木はいちんちじゅう小鳥の歌をきいていました。",
+        "sentence_with_furigana": "木はいちんちじゅう小鳥の歌をきいていました。",
+        "audio_begin": 22428,
+        "audio_end": 26040
+    },
+    {
+        "id": "f000007",
+        "sentence": "けれど寒い冬がちかづいてきたので、",
+        "sentence_with_furigana": "けれど寒い冬がちかづいてきたので、",
+        "audio_begin": 28040,
+        "audio_end": 30960
+    },
+    {
+        "id": "f000008",
+        "sentence": "小鳥は木からわかれてゆかねばなりませんでした。",
+        "sentence_with_furigana": "小鳥は木からわかれてゆかねばなりませんでした。",
+        "audio_begin": 30960,
+        "audio_end": 34980
+    },
+    {
+        "id": "f000009",
+        "sentence": "「さよなら。",
+        "sentence_with_furigana": "「さよなら。",
+        "audio_begin": 37080,
+        "audio_end": 38880
+    },
+    {
+        "id": "f000010",
+        "sentence": "また来年きて、",
+        "sentence_with_furigana": "また来年きて、",
+        "audio_begin": 38880,
+        "audio_end": 40800
+    },
+    {
+        "id": "f000011",
+        "sentence": "歌をきかせてください。」",
+        "sentence_with_furigana": "歌をきかせてください。」",
+        "audio_begin": 40800,
+        "audio_end": 44155
+    },
+    {
+        "id": "f000012",
+        "sentence": "と木はいいました。",
+        "sentence_with_furigana": "と木はいいました。",
+        "audio_begin": 44155,
+        "audio_end": 47855
+    },
+    {
+        "id": "f000013",
+        "sentence": "「え。",
+        "sentence_with_furigana": "「え。",
+        "audio_begin": 47855,
+        "audio_end": 48318
+    },
+    {
+        "id": "f000014",
+        "sentence": "それまで待っててね。」",
+        "sentence_with_furigana": "それまで待っててね。」",
+        "audio_begin": 49360,
+        "audio_end": 52243
+    },
+    {
+        "id": "f000015",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 52243,
+        "audio_end": 52916
+    },
+    {
+        "id": "f000016",
+        "sentence": "小鳥はいって、",
+        "sentence_with_furigana": "小鳥はいって、",
+        "audio_begin": 52916,
+        "audio_end": 54520
+    },
+    {
+        "id": "f000017",
+        "sentence": "南の方へとんでゆきました。",
+        "sentence_with_furigana": "南の方へとんでゆきました。",
+        "audio_begin": 54520,
+        "audio_end": 58880
+    },
+    {
+        "id": "f000018",
+        "sentence": "春がめぐってきました。",
+        "sentence_with_furigana": "春がめぐってきました。",
+        "audio_begin": 58880,
+        "audio_end": 61160
+    },
+    {
+        "id": "f000019",
+        "sentence": "野や森から、",
+        "sentence_with_furigana": "野や森から、",
+        "audio_begin": 61160,
+        "audio_end": 61960
+    },
+    {
+        "id": "f000020",
+        "sentence": "雪がきえていきました。",
+        "sentence_with_furigana": "雪がきえていきました。",
+        "audio_begin": 61960,
+        "audio_end": 64438
+    },
+    {
+        "id": "f000021",
+        "sentence": "小鳥は、",
+        "sentence_with_furigana": "小鳥は、",
+        "audio_begin": 64438,
+        "audio_end": 65519
+    },
+    {
+        "id": "f000022",
+        "sentence": "なかよしの去年の木のところへまたかえっていきました。",
+        "sentence_with_furigana": "なかよしの 去年[きょねん]の木のところへまたかえっていきました。",
+        "audio_begin": 65519,
+        "audio_end": 69440
+    },
+    {
+        "id": "f000023",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "audio_begin": 71240,
+        "audio_end": 72862
+    },
+    {
+        "id": "f000024",
+        "sentence": "これはどうしたことでしょう。",
+        "sentence_with_furigana": "これはどうしたことでしょう。",
+        "audio_begin": 72862,
+        "audio_end": 75946
+    },
+    {
+        "id": "f000025",
+        "sentence": "木はそこにありませんでした。",
+        "sentence_with_furigana": "木はそこにありませんでした。",
+        "audio_begin": 75946,
+        "audio_end": 79752
+    },
+    {
+        "id": "f000026",
+        "sentence": "根っこだけがのこっていました。",
+        "sentence_with_furigana": "根っこだけがのこっていました。",
+        "audio_begin": 79752,
+        "audio_end": 83280
+    },
+    {
+        "id": "f000027",
+        "sentence": "「ここに立ってた木は、",
+        "sentence_with_furigana": "「ここに立ってた木は、",
+        "audio_begin": 85180,
+        "audio_end": 86680
+    },
+    {
+        "id": "f000028",
+        "sentence": "どこへいったの。」",
+        "sentence_with_furigana": "どこへいったの。」",
+        "audio_begin": 86680,
+        "audio_end": 88513
+    },
+    {
+        "id": "f000029",
+        "sentence": "と小鳥は根っこにききました。",
+        "sentence_with_furigana": "と小鳥は根っこにききました。",
+        "audio_begin": 88513,
+        "audio_end": 92560
+    },
+    {
+        "id": "f000030",
+        "sentence": "根っこは、",
+        "sentence_with_furigana": "根っこは、",
+        "audio_begin": 92560,
+        "audio_end": 94716
+    },
+    {
+        "id": "f000031",
+        "sentence": "「きこりが斧でうちたおして、",
+        "sentence_with_furigana": "「きこりが 斧[おの]でうちたおして、",
+        "audio_begin": 94716,
+        "audio_end": 98900
+    },
+    {
+        "id": "f000032",
+        "sentence": "谷のほうへもっていっちゃったよ。」",
+        "sentence_with_furigana": "谷のほうへもっていっちゃったよ。」",
+        "audio_begin": 98900,
+        "audio_end": 103617
+    },
+    {
+        "id": "f000033",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 103617,
+        "audio_end": 105579
+    },
+    {
+        "id": "f000034",
+        "sentence": "小鳥は谷のほうへとんでいきました。",
+        "sentence_with_furigana": "小鳥は谷のほうへとんでいきました。",
+        "audio_begin": 105579,
+        "audio_end": 109104
+    },
+    {
+        "id": "f000035",
+        "sentence": "谷の底には大きな工場があって、",
+        "sentence_with_furigana": "谷の 底[そこ]には大きな工場があって、",
+        "audio_begin": 109104,
+        "audio_end": 112630
+    },
+    {
+        "id": "f000036",
+        "sentence": "木をきる音が、",
+        "sentence_with_furigana": "木をきる音が、",
+        "audio_begin": 112630,
+        "audio_end": 114508
+    },
+    {
+        "id": "f000037",
+        "sentence": "びィんびィん、",
+        "sentence_with_furigana": "びィんびィん、",
+        "audio_begin": 114508,
+        "audio_end": 117431
+    },
+    {
+        "id": "f000038",
+        "sentence": "としていました。",
+        "sentence_with_furigana": "としていました。",
+        "audio_begin": 117431,
+        "audio_end": 119849
+    },
+    {
+        "id": "f000039",
+        "sentence": "小鳥は工場の門の上にとまって、",
+        "sentence_with_furigana": "小鳥は工場の門の上にとまって、",
+        "audio_begin": 119849,
+        "audio_end": 123458
+    },
+    {
+        "id": "f000040",
+        "sentence": "「門さん、",
+        "sentence_with_furigana": "「門さん、",
+        "audio_begin": 123458,
+        "audio_end": 124840
+    },
+    {
+        "id": "f000041",
+        "sentence": "わたしのなかよしの木は、",
+        "sentence_with_furigana": "わたしのなかよしの木は、",
+        "audio_begin": 124840,
+        "audio_end": 127400
+    },
+    {
+        "id": "f000042",
+        "sentence": "どうなったか知りませんか。」",
+        "sentence_with_furigana": "どうなったか知りませんか。」",
+        "audio_begin": 127400,
+        "audio_end": 129906
+    },
+    {
+        "id": "f000043",
+        "sentence": "とききました。",
+        "sentence_with_furigana": "とききました。",
+        "audio_begin": 129906,
+        "audio_end": 132120
+    },
+    {
+        "id": "f000044",
+        "sentence": "門は、",
+        "sentence_with_furigana": "門は、",
+        "audio_begin": 132120,
+        "audio_end": 132640
+    },
+    {
+        "id": "f000045",
+        "sentence": "「木なら、",
+        "sentence_with_furigana": "「木なら、",
+        "audio_begin": 134740,
+        "audio_end": 136179
+    },
+    {
+        "id": "f000046",
+        "sentence": "工場の中でこまかくきりきざまれて、",
+        "sentence_with_furigana": "工場の中でこまかくきりきざまれて、",
+        "audio_begin": 136179,
+        "audio_end": 139920
+    },
+    {
+        "id": "f000047",
+        "sentence": "マッチになってあっちの村へ売られていったよ。」",
+        "sentence_with_furigana": "マッチになってあっちの村へ売られていったよ。」",
+        "audio_begin": 139920,
+        "audio_end": 145417
+    },
+    {
+        "id": "f000048",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 145417,
+        "audio_end": 147680
+    },
+    {
+        "id": "f000049",
+        "sentence": "小鳥は村のほうへとんでいきました。",
+        "sentence_with_furigana": "小鳥は村のほうへとんでいきました。",
+        "audio_begin": 147680,
+        "audio_end": 151880
+    },
+    {
+        "id": "f000050",
+        "sentence": "ランプのそばに女の子がいました。",
+        "sentence_with_furigana": "ランプのそばに女の子がいました。",
+        "audio_begin": 151880,
+        "audio_end": 154640
+    },
+    {
+        "id": "f000051",
+        "sentence": "そこで小鳥は、",
+        "sentence_with_furigana": "そこで小鳥は、",
+        "audio_begin": 156240,
+        "audio_end": 158467
+    },
+    {
+        "id": "f000052",
+        "sentence": "「もしもし、",
+        "sentence_with_furigana": "「もしもし、",
+        "audio_begin": 158467,
+        "audio_end": 160600
+    },
+    {
+        "id": "f000053",
+        "sentence": "マッチをごぞんじありませんか。」",
+        "sentence_with_furigana": "マッチをごぞんじありませんか。」",
+        "audio_begin": 160600,
+        "audio_end": 164978
+    },
+    {
+        "id": "f000054",
+        "sentence": "とききました。",
+        "sentence_with_furigana": "とききました。",
+        "audio_begin": 164978,
+        "audio_end": 167150
+    },
+    {
+        "id": "f000055",
+        "sentence": "すると女の子は、",
+        "sentence_with_furigana": "すると女の子は、",
+        "audio_begin": 167150,
+        "audio_end": 170400
+    },
+    {
+        "id": "f000056",
+        "sentence": "「マッチはもえてしまいました。",
+        "sentence_with_furigana": "「マッチはもえてしまいました。",
+        "audio_begin": 170400,
+        "audio_end": 173120
+    },
+    {
+        "id": "f000057",
+        "sentence": "けれどマッチのともした火が、",
+        "sentence_with_furigana": "けれどマッチのともした火が、",
+        "audio_begin": 174920,
+        "audio_end": 178720
+    },
+    {
+        "id": "f000058",
+        "sentence": "まだこのランプにともっています。」",
+        "sentence_with_furigana": "まだこのランプにともっています。」",
+        "audio_begin": 178720,
+        "audio_end": 183292
+    },
+    {
+        "id": "f000059",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 183292,
+        "audio_end": 186440
+    },
+    {
+        "id": "f000060",
+        "sentence": "小鳥は、",
+        "sentence_with_furigana": "小鳥は、",
+        "audio_begin": 186440,
+        "audio_end": 187520
+    },
+    {
+        "id": "f000061",
+        "sentence": "ランプの火をじっとみつめておりました。",
+        "sentence_with_furigana": "ランプの火をじっとみつめておりました。",
+        "audio_begin": 187520,
+        "audio_end": 192480
+    },
+    {
+        "id": "f000062",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 192480,
+        "audio_end": 193615
+    },
+    {
+        "id": "f000063",
+        "sentence": "去年の歌をうたって火にきかせてやりました。",
+        "sentence_with_furigana": "去年[きょねん]の歌をうたって火にきかせてやりました。",
+        "audio_begin": 193615,
+        "audio_end": 199000
+    },
+    {
+        "id": "f000064",
+        "sentence": "火はゆらゆらとゆらめいて、",
+        "sentence_with_furigana": "火はゆらゆらとゆらめいて、",
+        "audio_begin": 199000,
+        "audio_end": 201640
+    },
+    {
+        "id": "f000065",
+        "sentence": "こころからよろこんでいるようにみえました。",
+        "sentence_with_furigana": "こころからよろこんでいるようにみえました。",
+        "audio_begin": 201640,
+        "audio_end": 204540
+    },
+    {
+        "id": "f000066",
+        "sentence": "歌をうたってしまうと、",
+        "sentence_with_furigana": "歌をうたってしまうと、",
+        "audio_begin": 206640,
+        "audio_end": 209343
+    },
+    {
+        "id": "f000067",
+        "sentence": "小鳥はまたじっとランプの火をみていました。",
+        "sentence_with_furigana": "小鳥はまたじっとランプの火をみていました。",
+        "audio_begin": 209343,
+        "audio_end": 214940
+    },
+    {
+        "id": "f000068",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 217040,
+        "audio_end": 218640
+    },
+    {
+        "id": "f000069",
+        "sentence": "どこかへとんでいってしまいました。",
+        "sentence_with_furigana": "どこかへとんでいってしまいました。",
+        "audio_begin": 218640,
+        "audio_end": 223100
+    }
+]

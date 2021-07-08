@@ -1,7 +1,6 @@
 [
     {
         "id": "Okasan-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -15,11 +14,12 @@
             "お",
             "母さん"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6314,
+        "sound_end": 9698
     },
     {
         "id": "Okasan-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -45,11 +45,12 @@
             "た",
             "！"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9698,
+        "sound_end": 12401
     },
     {
         "id": "Okasan-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -77,11 +78,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 12401,
+        "sound_end": 15507
     },
     {
         "id": "Okasan-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -107,11 +109,12 @@
             "船",
             "が"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 15507,
+        "sound_end": 18866
     },
     {
         "id": "Okasan-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -127,11 +130,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 18866,
+        "sound_end": 20154
     },
     {
         "id": "Okasan-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -161,11 +165,12 @@
             "よ",
             "！"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 20154,
+        "sound_end": 24700
     },
     {
         "id": "Okasan-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -179,11 +184,12 @@
             "」",
             "と"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 24700,
+        "sound_end": 25160
     },
     {
         "id": "Okasan-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -203,11 +209,12 @@
             "た",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 25160,
+        "sound_end": 28840
     },
     {
         "id": "Okasan-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -233,11 +240,12 @@
             "か",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 28840,
+        "sound_end": 31797
     },
     {
         "id": "Okasan-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -263,11 +271,12 @@
             "か",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 31797,
+        "sound_end": 35320
     },
     {
         "id": "Okasan-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -291,11 +300,12 @@
             "か",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 35320,
+        "sound_end": 39045
     },
     {
         "id": "Okasan-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -309,11 +319,12 @@
             "」",
             "と"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 39045,
+        "sound_end": 39800
     },
     {
         "id": "Okasan-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -333,11 +344,12 @@
             "た",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 39800,
+        "sound_end": 43326
     },
     {
         "id": "Okasan-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -353,11 +365,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 43326,
+        "sound_end": 43760
     },
     {
         "id": "Okasan-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -373,11 +386,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 43760,
+        "sound_end": 45107
     },
     {
         "id": "Okasan-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -401,11 +415,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 45107,
+        "sound_end": 48453
     },
     {
         "id": "Okasan-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -419,11 +434,12 @@
             "」",
             "と"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 48453,
+        "sound_end": 49066
     },
     {
         "id": "Okasan-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Okasan",
         "deck_name_japanese": "お母さん",
@@ -443,6 +459,8 @@
             "た",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 49066,
+        "sound_end": 54040
     }
 ]

@@ -1,0 +1,5197 @@
+[
+    {
+        "id": "Kawae Ochita Tamanegisan-f000002",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "川へおちた玉ねぎさん",
+        "sentence_with_furigana": "川へおちた玉ねぎさん",
+        "word_base_list": [
+            "川",
+            "へ",
+            "落ちる",
+            "た",
+            "玉葱",
+            "さん"
+        ],
+        "word_list": [
+            "川",
+            "へ",
+            "おち",
+            "た",
+            "玉ねぎ",
+            "さん"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 5779,
+        "sound_end": 10920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000003",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ある町にジヤガイモ・ホテルといふ宿屋がありました。",
+        "sentence_with_furigana": "ある町にジヤガイモ・ホテルといふ宿屋がありました。",
+        "word_base_list": [
+            "或る",
+            "町",
+            "に",
+            "ジャガ芋",
+            "・",
+            "ホテル",
+            "と",
+            "言う",
+            "宿屋",
+            "が",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ある",
+            "町",
+            "に",
+            "ジヤガイモ",
+            "・",
+            "ホテル",
+            "と",
+            "いふ",
+            "宿屋",
+            "が",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 10920,
+        "sound_end": 14840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000004",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "主人といふのが、",
+        "sentence_with_furigana": "主人といふのが、",
+        "word_base_list": [
+            "主人",
+            "と",
+            "言う",
+            "の",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "主人",
+            "と",
+            "いふ",
+            "の",
+            "が",
+            "、"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 14840,
+        "sound_end": 17800
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000005",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモだつたからです。",
+        "sentence_with_furigana": "ジヤガイモだつたからです。",
+        "word_base_list": [
+            "ジャガ芋",
+            "立つ",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "だつ",
+            "た",
+            "から",
+            "です",
+            "。"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 17800,
+        "sound_end": 21560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000006",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "主人のジヤガイモさんは大変親切な人だつたので、",
+        "sentence_with_furigana": "主人のジヤガイモさんは大変親切な人だつたので、",
+        "word_base_list": [
+            "主人",
+            "の",
+            "ジャガ芋",
+            "さん",
+            "は",
+            "大変",
+            "親切",
+            "だ",
+            "人",
+            "立つ",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "主人",
+            "の",
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "大変",
+            "親切",
+            "な",
+            "人",
+            "だつ",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 21560,
+        "sound_end": 25200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000007",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "このホテルにはお客様がいつも多すぎて、",
+        "sentence_with_furigana": "このホテルにはお客様がいつも多すぎて、",
+        "word_base_list": [
+            "此の",
+            "ホテル",
+            "に",
+            "は",
+            "御",
+            "客",
+            "様",
+            "が",
+            "いつも",
+            "多い",
+            "過ぎる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "ホテル",
+            "に",
+            "は",
+            "お",
+            "客",
+            "様",
+            "が",
+            "いつも",
+            "多",
+            "すぎ",
+            "て",
+            "、"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 25200,
+        "sound_end": 30040
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000008",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どうかすると、",
+        "sentence_with_furigana": "どうかすると、",
+        "word_base_list": [
+            "どう",
+            "か",
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "どう",
+            "か",
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 30040,
+        "sound_end": 31120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000009",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "一晩に、",
+        "sentence_with_furigana": "一晩に、",
+        "word_base_list": [
+            "1",
+            "晩",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "晩",
+            "に",
+            "、"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 31120,
+        "sound_end": 31840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000010",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "二人や三人のお客様をことわらなければならぬこともありました。",
+        "sentence_with_furigana": "二人や三人のお客様をことわらなければならぬこともありました。",
+        "word_base_list": [
+            "二人",
+            "や",
+            "3",
+            "人",
+            "の",
+            "御",
+            "客",
+            "様",
+            "を",
+            "断る",
+            "ない",
+            "ば",
+            "成る",
+            "ず",
+            "こと",
+            "も",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "二人",
+            "や",
+            "三",
+            "人",
+            "の",
+            "お",
+            "客",
+            "様",
+            "を",
+            "ことわら",
+            "なけれ",
+            "ば",
+            "なら",
+            "ぬ",
+            "こと",
+            "も",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 31840,
+        "sound_end": 38800
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000011",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ある夕方、",
+        "sentence_with_furigana": "ある夕方、",
+        "word_base_list": [
+            "或る",
+            "夕方",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "夕方",
+            "、"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 38800,
+        "sound_end": 40760
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000012",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "word_base_list": [
+            "もう",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "、"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 40760,
+        "sound_end": 41000
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000013",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "この上一人のお客様も泊めることが出来ない程、",
+        "sentence_with_furigana": "この上一人のお客様も泊めることが出来ない程、",
+        "word_base_list": [
+            "此の",
+            "上",
+            "一人",
+            "の",
+            "御",
+            "客",
+            "様",
+            "も",
+            "泊める",
+            "こと",
+            "が",
+            "出来る",
+            "ない",
+            "ほど",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "上",
+            "一人",
+            "の",
+            "お",
+            "客",
+            "様",
+            "も",
+            "泊める",
+            "こと",
+            "が",
+            "出来",
+            "ない",
+            "程",
+            "、"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 41000,
+        "sound_end": 43960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000014",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "満員になりましたので、",
+        "sentence_with_furigana": "満員になりましたので、",
+        "word_base_list": [
+            "満員",
+            "に",
+            "成る",
+            "ます",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "満員",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 43960,
+        "sound_end": 46960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000015",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「満員になりましたから、",
+        "sentence_with_furigana": "「満員になりましたから、",
+        "word_base_list": [
+            "「",
+            "満員",
+            "に",
+            "成る",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "満員",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 46960,
+        "sound_end": 48800
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000016",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "お気の毒でも、",
+        "sentence_with_furigana": "お気の毒でも、",
+        "word_base_list": [
+            "御",
+            "気の毒",
+            "だ",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "気の毒",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 48800,
+        "sound_end": 49640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000017",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、",
+        "word_base_list": [
+            "今晩は",
+            "、"
+        ],
+        "word_list": [
+            "今晩は",
+            "、"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 49640,
+        "sound_end": 51480
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000018",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どなたもお泊め出来ません。",
+        "sentence_with_furigana": "どなたもお泊め出来ません。",
+        "word_base_list": [
+            "どなた",
+            "も",
+            "御",
+            "泊める",
+            "出来る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "どなた",
+            "も",
+            "お",
+            "泊め",
+            "出来",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 51480,
+        "sound_end": 52840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000019",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」といふ大きな満員札をジヤガイモさんは、",
+        "sentence_with_furigana": "」といふ大きな満員札をジヤガイモさんは、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "大きな",
+            "満員",
+            "札",
+            "を",
+            "ジャガ芋",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いふ",
+            "大きな",
+            "満員",
+            "札",
+            "を",
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 52840,
+        "sound_end": 57720
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000020",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ホテルの入口にかけようとしました。",
+        "sentence_with_furigana": "ホテルの入口にかけようとしました。",
+        "word_base_list": [
+            "ホテル",
+            "の",
+            "入り口",
+            "に",
+            "掛ける",
+            "と",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ホテル",
+            "の",
+            "入口",
+            "に",
+            "かけよう",
+            "と",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 57720,
+        "sound_end": 61920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000021",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 61920,
+        "sound_end": 62320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000022",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そこへ、",
+        "sentence_with_furigana": "そこへ、",
+        "word_base_list": [
+            "其処",
+            "へ",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "へ",
+            "、"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 62320,
+        "sound_end": 63560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000023",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "立派な玉ねぎの紳士がやつて来て、",
+        "sentence_with_furigana": "立派な玉ねぎの紳士がやつて来て、",
+        "word_base_list": [
+            "立派",
+            "だ",
+            "玉葱",
+            "の",
+            "紳士",
+            "が",
+            "奴",
+            "って",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "立派",
+            "な",
+            "玉ねぎ",
+            "の",
+            "紳士",
+            "が",
+            "やつ",
+            "て",
+            "来",
+            "て",
+            "、"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 63560,
+        "sound_end": 66400
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000024",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんに言ひました。",
+        "sentence_with_furigana": "ジヤガイモさんに言ひました。",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "に",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "に",
+            "言ひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 66400,
+        "sound_end": 67720
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000025",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、",
+        "word_base_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 67720,
+        "sound_end": 70720
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000026",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさん、",
+        "sentence_with_furigana": "ジヤガイモさん、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "、"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 70720,
+        "sound_end": 72000
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000027",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "私を泊めて下さい。",
+        "sentence_with_furigana": "私を泊めて下さい。",
+        "word_base_list": [
+            "私",
+            "を",
+            "泊める",
+            "て",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "私",
+            "を",
+            "泊め",
+            "て",
+            "下さい",
+            "。"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 72000,
+        "sound_end": 74370
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000028",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "大変つかれてゐますから。」",
+        "sentence_with_furigana": "大変つかれてゐますから。」",
+        "word_base_list": [
+            "大変",
+            "つく",
+            "れる",
+            "て",
+            "居る",
+            "ます",
+            "から",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "大変",
+            "つか",
+            "れ",
+            "て",
+            "ゐ",
+            "ます",
+            "から",
+            "。",
+            "」"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 74370,
+        "sound_end": 79400
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000029",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 79400,
+        "sound_end": 80200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000030",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "気の毒に思ひましたけれども、",
+        "sentence_with_furigana": "気の毒に思ひましたけれども、",
+        "word_base_list": [
+            "気の毒",
+            "だ",
+            "思う",
+            "ます",
+            "た",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "気の毒",
+            "に",
+            "思ひ",
+            "まし",
+            "た",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 80200,
+        "sound_end": 82600
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000031",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "空いてゐる部屋がないので、",
+        "sentence_with_furigana": "空いてゐる部屋がないので、",
+        "word_base_list": [
+            "空く",
+            "て",
+            "居る",
+            "部屋",
+            "が",
+            "無い",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "空い",
+            "て",
+            "ゐる",
+            "部屋",
+            "が",
+            "ない",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 82600,
+        "sound_end": 85560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000032",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「お気の毒ですけれども、",
+        "sentence_with_furigana": "「お気の毒ですけれども、",
+        "word_base_list": [
+            "「",
+            "御",
+            "気の毒",
+            "です",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "お",
+            "気の毒",
+            "です",
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 85560,
+        "sound_end": 87480
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000033",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "何分、",
+        "sentence_with_furigana": "何分、",
+        "word_base_list": [
+            "何",
+            "分",
+            "、"
+        ],
+        "word_list": [
+            "何",
+            "分",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 87480,
+        "sound_end": 88480
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000034",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "もう満員になつてしまひましたから。",
+        "sentence_with_furigana": "もう満員になつてしまひましたから。",
+        "word_base_list": [
+            "もう",
+            "満員",
+            "に",
+            "成る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "から",
+            "。"
+        ],
+        "word_list": [
+            "もう",
+            "満員",
+            "に",
+            "なつ",
+            "て",
+            "しまひ",
+            "まし",
+            "た",
+            "から",
+            "。"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 88480,
+        "sound_end": 91203
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000035",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」とことわりました。",
+        "sentence_with_furigana": "」とことわりました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "断る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "ことわり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 91203,
+        "sound_end": 94704
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000036",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "word_base_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 94704,
+        "sound_end": 95320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000037",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 95320,
+        "sound_end": 96920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000038",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "朝から遠い道を歩きつゞけて、",
+        "sentence_with_furigana": "朝から遠い道を歩きつゞけて、",
+        "word_base_list": [
+            "朝",
+            "から",
+            "遠い",
+            "道",
+            "を",
+            "歩く",
+            "続ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "朝",
+            "から",
+            "遠い",
+            "道",
+            "を",
+            "歩き",
+            "つゞけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 96920,
+        "sound_end": 99240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000039",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "くたくたにつかれてゐるので、",
+        "sentence_with_furigana": "くたくたにつかれてゐるので、",
+        "word_base_list": [
+            "くたくた",
+            "だ",
+            "つく",
+            "れる",
+            "て",
+            "居る",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "くたくた",
+            "に",
+            "つか",
+            "れ",
+            "て",
+            "ゐる",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 99240,
+        "sound_end": 101470
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000040",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "この上歩くことが出来ません。",
+        "sentence_with_furigana": "この上歩くことが出来ません。",
+        "word_base_list": [
+            "此の",
+            "上",
+            "歩く",
+            "こと",
+            "が",
+            "出来る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "この",
+            "上",
+            "歩く",
+            "こと",
+            "が",
+            "出来",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 101470,
+        "sound_end": 106280
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000041",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「馬小屋でも、",
+        "sentence_with_furigana": "「馬小屋でも、",
+        "word_base_list": [
+            "「",
+            "馬",
+            "小屋",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "馬",
+            "小屋",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 106280,
+        "sound_end": 107600
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000042",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "屋根裏でも、",
+        "sentence_with_furigana": "屋根裏でも、",
+        "word_base_list": [
+            "屋根裏",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "屋根裏",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 107600,
+        "sound_end": 108320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000043",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どこでもいゝから、",
+        "sentence_with_furigana": "どこでもいゝから、",
+        "word_base_list": [
+            "どこ",
+            "で",
+            "も",
+            "良い",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "どこ",
+            "で",
+            "も",
+            "いゝ",
+            "から",
+            "、"
+        ],
+        "sound": "f000043.mp3",
+        "sound_begin": 108320,
+        "sound_end": 110200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000044",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どうぞ泊めて下さい。",
+        "sentence_with_furigana": "どうぞ泊めて下さい。",
+        "word_base_list": [
+            "どうぞ",
+            "泊める",
+            "て",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "どうぞ",
+            "泊め",
+            "て",
+            "下さい",
+            "。"
+        ],
+        "sound": "f000044.mp3",
+        "sound_begin": 110200,
+        "sound_end": 112770
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000045",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」とたのみました。",
+        "sentence_with_furigana": "」とたのみました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "頼む",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "たのみ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000045.mp3",
+        "sound_begin": 112770,
+        "sound_end": 116095
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000046",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "word_base_list": [
+            "其処",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "で",
+            "、"
+        ],
+        "sound": "f000046.mp3",
+        "sound_begin": 116095,
+        "sound_end": 117080
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000047",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは考へました。",
+        "sentence_with_furigana": "ジヤガイモさんは考へました。",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "考える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "考へ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000047.mp3",
+        "sound_begin": 117080,
+        "sound_end": 120520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000048",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "犬さんや、",
+        "sentence_with_furigana": "犬さんや、",
+        "word_base_list": [
+            "犬",
+            "さん",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "犬",
+            "さん",
+            "や",
+            "、"
+        ],
+        "sound": "f000048.mp3",
+        "sound_begin": 120520,
+        "sound_end": 121440
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000049",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "お猫さんならいざ知らず、",
+        "sentence_with_furigana": "お猫さんならいざ知らず、",
+        "word_base_list": [
+            "御",
+            "猫",
+            "さん",
+            "だ",
+            "いざ",
+            "知る",
+            "ず",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "猫",
+            "さん",
+            "なら",
+            "いざ",
+            "知ら",
+            "ず",
+            "、"
+        ],
+        "sound": "f000049.mp3",
+        "sound_begin": 121440,
+        "sound_end": 122640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000050",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんを馬小屋になんぞ泊めたら、",
+        "sentence_with_furigana": "玉ねぎさんを馬小屋になんぞ泊めたら、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "を",
+            "馬",
+            "小屋",
+            "に",
+            "なんぞ",
+            "泊める",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "を",
+            "馬",
+            "小屋",
+            "に",
+            "なんぞ",
+            "泊め",
+            "たら",
+            "、"
+        ],
+        "sound": "f000050.mp3",
+        "sound_begin": 122640,
+        "sound_end": 127320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000051",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "いやしんぼの馬が、",
+        "sentence_with_furigana": "いやしんぼの馬が、",
+        "word_base_list": [
+            "卑しん坊",
+            "の",
+            "馬",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "いやしんぼ",
+            "の",
+            "馬",
+            "が",
+            "、"
+        ],
+        "sound": "f000051.mp3",
+        "sound_begin": 127320,
+        "sound_end": 128520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000052",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんを食べてしまふだらう。",
+        "sentence_with_furigana": "玉ねぎさんを食べてしまふだらう。",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "を",
+            "食べる",
+            "て",
+            "仕舞う",
+            "た",
+            "うう",
+            "。"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "を",
+            "食べ",
+            "て",
+            "しまふ",
+            "だら",
+            "う",
+            "。"
+        ],
+        "sound": "f000052.mp3",
+        "sound_begin": 128520,
+        "sound_end": 131554
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000053",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "屋根裏に泊めたら、",
+        "sentence_with_furigana": "屋根裏に泊めたら、",
+        "word_base_list": [
+            "屋根裏",
+            "に",
+            "泊める",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "屋根裏",
+            "に",
+            "泊め",
+            "たら",
+            "、"
+        ],
+        "sound": "f000053.mp3",
+        "sound_begin": 131554,
+        "sound_end": 133800
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000054",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "遠慮なしのくもが巣をかけるだらう。",
+        "sentence_with_furigana": "遠慮なしのくもが巣をかけるだらう。",
+        "word_base_list": [
+            "遠慮",
+            "なし",
+            "の",
+            "くも",
+            "が",
+            "巣",
+            "を",
+            "掛ける",
+            "た",
+            "うう",
+            "。"
+        ],
+        "word_list": [
+            "遠慮",
+            "なし",
+            "の",
+            "くも",
+            "が",
+            "巣",
+            "を",
+            "かける",
+            "だら",
+            "う",
+            "。"
+        ],
+        "sound": "f000054.mp3",
+        "sound_begin": 133800,
+        "sound_end": 137840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000055",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは大変困りましたが、",
+        "sentence_with_furigana": "ジヤガイモさんは大変困りましたが、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "大変",
+            "困る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "大変",
+            "困り",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000055.mp3",
+        "sound_begin": 137840,
+        "sound_end": 140376
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000056",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "地下室のことを思ひ出して、",
+        "sentence_with_furigana": "地下室のことを思ひ出して、",
+        "word_base_list": [
+            "地下",
+            "室",
+            "の",
+            "こと",
+            "を",
+            "思う",
+            "出す",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "地下",
+            "室",
+            "の",
+            "こと",
+            "を",
+            "思ひ",
+            "出し",
+            "て",
+            "、"
+        ],
+        "sound": "f000056.mp3",
+        "sound_begin": 140376,
+        "sound_end": 143829
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000057",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「では、",
+        "sentence_with_furigana": "「では、",
+        "word_base_list": [
+            "「",
+            "で",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "で",
+            "は",
+            "、"
+        ],
+        "sound": "f000057.mp3",
+        "sound_begin": 143829,
+        "sound_end": 144520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000058",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "地下室でも、",
+        "sentence_with_furigana": "地下室でも、",
+        "word_base_list": [
+            "地下",
+            "室",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "地下",
+            "室",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000058.mp3",
+        "sound_begin": 144520,
+        "sound_end": 145520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000059",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "よろしければお泊めします。",
+        "sentence_with_furigana": "よろしければお泊めします。",
+        "word_base_list": [
+            "宜しい",
+            "ば",
+            "御",
+            "泊める",
+            "為る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "よろしけれ",
+            "ば",
+            "お",
+            "泊め",
+            "し",
+            "ます",
+            "。"
+        ],
+        "sound": "f000059.mp3",
+        "sound_begin": 145520,
+        "sound_end": 147694
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000060",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "申す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "申し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000060.mp3",
+        "sound_begin": 147694,
+        "sound_end": 151723
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000061",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは大変よろこんで、",
+        "sentence_with_furigana": "玉ねぎさんは大変よろこんで、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "大変",
+            "喜ぶ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "大変",
+            "よろこん",
+            "で",
+            "、"
+        ],
+        "sound": "f000061.mp3",
+        "sound_begin": 151723,
+        "sound_end": 154190
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000062",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "泊めてもらふことにしました。",
+        "sentence_with_furigana": "泊めてもらふことにしました。",
+        "word_base_list": [
+            "泊める",
+            "て",
+            "もる",
+            "ふ",
+            "こと",
+            "に",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "泊め",
+            "て",
+            "もら",
+            "ふ",
+            "こと",
+            "に",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000062.mp3",
+        "sound_begin": 154190,
+        "sound_end": 157560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000063",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000063.mp3",
+        "sound_begin": 157560,
+        "sound_end": 158454
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000064",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんに案内してもらつて、",
+        "sentence_with_furigana": "ジヤガイモさんに案内してもらつて、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "に",
+            "案内",
+            "為る",
+            "て",
+            "もる",
+            "つう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "に",
+            "案内",
+            "し",
+            "て",
+            "もら",
+            "つ",
+            "て",
+            "、"
+        ],
+        "sound": "f000064.mp3",
+        "sound_begin": 158454,
+        "sound_end": 160709
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000065",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "地下室に行きました。",
+        "sentence_with_furigana": "地下室に行きました。",
+        "word_base_list": [
+            "地下",
+            "室",
+            "に",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "地下",
+            "室",
+            "に",
+            "行き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000065.mp3",
+        "sound_begin": 160709,
+        "sound_end": 165520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000066",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そこは、",
+        "sentence_with_furigana": "そこは、",
+        "word_base_list": [
+            "其処",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "は",
+            "、"
+        ],
+        "sound": "f000066.mp3",
+        "sound_begin": 165520,
+        "sound_end": 166120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000067",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "真くらで、",
+        "sentence_with_furigana": "真くらで、",
+        "word_base_list": [
+            "真",
+            "蔵",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "真",
+            "くら",
+            "で",
+            "、"
+        ],
+        "sound": "f000067.mp3",
+        "sound_begin": 166120,
+        "sound_end": 167120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000068",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "何にも見ることが出来ませんでしたので、",
+        "sentence_with_furigana": "何にも見ることが出来ませんでしたので、",
+        "word_base_list": [
+            "何",
+            "も",
+            "見る",
+            "こと",
+            "が",
+            "出来る",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "何に",
+            "も",
+            "見る",
+            "こと",
+            "が",
+            "出来",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000068.mp3",
+        "sound_begin": 167120,
+        "sound_end": 170037
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000069",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは手さぐりで、",
+        "sentence_with_furigana": "玉ねぎさんは手さぐりで、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "手探り",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "手さぐり",
+            "で",
+            "、"
+        ],
+        "sound": "f000069.mp3",
+        "sound_begin": 170037,
+        "sound_end": 172440
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000070",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "小さいベツドを見付けて、",
+        "sentence_with_furigana": "小さいベツドを見付けて、",
+        "word_base_list": [
+            "小さい",
+            "ベッド",
+            "を",
+            "見付ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "小さい",
+            "ベツド",
+            "を",
+            "見付け",
+            "て",
+            "、"
+        ],
+        "sound": "f000070.mp3",
+        "sound_begin": 172440,
+        "sound_end": 174640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000071",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そこへ横になるなり、",
+        "sentence_with_furigana": "そこへ横になるなり、",
+        "word_base_list": [
+            "其処",
+            "へ",
+            "横",
+            "に",
+            "成る",
+            "なり",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "へ",
+            "横",
+            "に",
+            "なる",
+            "なり",
+            "、"
+        ],
+        "sound": "f000071.mp3",
+        "sound_begin": 174640,
+        "sound_end": 175880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000072",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ぐつすり寝込んでしまひました。",
+        "sentence_with_furigana": "ぐつすり寝込んでしまひました。",
+        "word_base_list": [
+            "ぐっすり",
+            "寝る",
+            "込む",
+            "で",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ぐつすり",
+            "寝",
+            "込ん",
+            "で",
+            "しまひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000072.mp3",
+        "sound_begin": 175880,
+        "sound_end": 179669
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000073",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000073.mp3",
+        "sound_begin": 179669,
+        "sound_end": 180206
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000074",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、",
+        "word_base_list": [
+            "不思議",
+            "だ",
+            "こと",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "不思議",
+            "な",
+            "こと",
+            "に",
+            "、"
+        ],
+        "sound": "f000074.mp3",
+        "sound_begin": 180206,
+        "sound_end": 181800
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000075",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そのベツドが少しづゝ、",
+        "sentence_with_furigana": "そのベツドが少しづゝ、",
+        "word_base_list": [
+            "其の",
+            "ベッド",
+            "が",
+            "少し",
+            "ずつ",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "ベツド",
+            "が",
+            "少し",
+            "づゝ",
+            "、"
+        ],
+        "sound": "f000075.mp3",
+        "sound_begin": 181800,
+        "sound_end": 183816
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000076",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "コツトン、",
+        "sentence_with_furigana": "コツトン、",
+        "word_base_list": [
+            "コツトン",
+            "、"
+        ],
+        "word_list": [
+            "コツトン",
+            "、"
+        ],
+        "sound": "f000076.mp3",
+        "sound_begin": 183816,
+        "sound_end": 185049
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000077",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "コツトンと窓の方へ動き初めました。",
+        "sentence_with_furigana": "コツトンと窓の方へ動き初めました。",
+        "word_base_list": [
+            "コツトン",
+            "と",
+            "窓",
+            "の",
+            "方",
+            "へ",
+            "動く",
+            "始める",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "コツトン",
+            "と",
+            "窓",
+            "の",
+            "方",
+            "へ",
+            "動き",
+            "初め",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000077.mp3",
+        "sound_begin": 185049,
+        "sound_end": 190200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000078",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000078.mp3",
+        "sound_begin": 190200,
+        "sound_end": 191160
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000079",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "窓ぎはの所まで来ると一緒に、",
+        "sentence_with_furigana": "窓ぎはの所まで来ると一緒に、",
+        "word_base_list": [
+            "窓",
+            "ぎ",
+            "は",
+            "の",
+            "所",
+            "まで",
+            "来る",
+            "と",
+            "一緒",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "窓",
+            "ぎ",
+            "は",
+            "の",
+            "所",
+            "まで",
+            "来る",
+            "と",
+            "一緒",
+            "に",
+            "、"
+        ],
+        "sound": "f000079.mp3",
+        "sound_begin": 191160,
+        "sound_end": 193671
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000080",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ベツドは、",
+        "sentence_with_furigana": "ベツドは、",
+        "word_base_list": [
+            "ベッド",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ベツド",
+            "は",
+            "、"
+        ],
+        "sound": "f000080.mp3",
+        "sound_begin": 193671,
+        "sound_end": 194560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000081",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "急に、",
+        "sentence_with_furigana": "急に、",
+        "word_base_list": [
+            "急",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "急",
+            "に",
+            "、"
+        ],
+        "sound": "f000081.mp3",
+        "sound_begin": 194560,
+        "sound_end": 195120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000082",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "パンとひつくりかへつて、",
+        "sentence_with_furigana": "パンとひつくりかへつて、",
+        "word_base_list": [
+            "パン",
+            "と",
+            "一",
+            "つくり",
+            "返る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "パン",
+            "と",
+            "ひ",
+            "つくり",
+            "かへつ",
+            "て",
+            "、"
+        ],
+        "sound": "f000082.mp3",
+        "sound_begin": 195120,
+        "sound_end": 196920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000083",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そのはずみに、",
+        "sentence_with_furigana": "そのはずみに、",
+        "word_base_list": [
+            "其の",
+            "はずい",
+            "味",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "はず",
+            "み",
+            "に",
+            "、"
+        ],
+        "sound": "f000083.mp3",
+        "sound_begin": 196920,
+        "sound_end": 197960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000084",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000084.mp3",
+        "sound_begin": 197960,
+        "sound_end": 200120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000085",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "窓の外へ投げ出されてしまひました。",
+        "sentence_with_furigana": "窓の外へ投げ出されてしまひました。",
+        "word_base_list": [
+            "窓",
+            "の",
+            "外",
+            "へ",
+            "投げる",
+            "出す",
+            "れる",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "窓",
+            "の",
+            "外",
+            "へ",
+            "投げ",
+            "出さ",
+            "れ",
+            "て",
+            "しまひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000085.mp3",
+        "sound_begin": 200120,
+        "sound_end": 204572
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000086",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "word_base_list": [
+            "あっ",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "、"
+        ],
+        "sound": "f000086.mp3",
+        "sound_begin": 204572,
+        "sound_end": 204966
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000087",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "word_base_list": [
+            "あっ",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "、"
+        ],
+        "sound": "f000087.mp3",
+        "sound_begin": 204969,
+        "sound_end": 205172
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000088",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "皆さん、",
+        "sentence_with_furigana": "皆さん、",
+        "word_base_list": [
+            "皆",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "皆",
+            "さん",
+            "、"
+        ],
+        "sound": "f000088.mp3",
+        "sound_begin": 205172,
+        "sound_end": 207040
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000089",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、",
+        "word_base_list": [
+            "窓",
+            "の",
+            "外",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "窓",
+            "の",
+            "外",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000089.mp3",
+        "sound_begin": 207040,
+        "sound_end": 208520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000090",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "何があつたかごぞんじですか。",
+        "sentence_with_furigana": "何があつたかごぞんじですか。",
+        "word_base_list": [
+            "何",
+            "が",
+            "有る",
+            "た",
+            "か",
+            "御",
+            "存知",
+            "です",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "何",
+            "が",
+            "あつ",
+            "た",
+            "か",
+            "ご",
+            "ぞんじ",
+            "です",
+            "か",
+            "。"
+        ],
+        "sound": "f000090.mp3",
+        "sound_begin": 208520,
+        "sound_end": 212880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000091",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、",
+        "word_base_list": [
+            "窓",
+            "の",
+            "外",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "窓",
+            "の",
+            "外",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000091.mp3",
+        "sound_begin": 212880,
+        "sound_end": 214160
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000092",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "大きな川が流れてゐたのです。",
+        "sentence_with_furigana": "大きな川が流れてゐたのです。",
+        "word_base_list": [
+            "大きな",
+            "川",
+            "が",
+            "流れる",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "大きな",
+            "川",
+            "が",
+            "流れ",
+            "て",
+            "ゐ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000092.mp3",
+        "sound_begin": 214160,
+        "sound_end": 218034
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000093",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000093.mp3",
+        "sound_begin": 218034,
+        "sound_end": 219680
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000094",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あつ、",
+        "sentence_with_furigana": "あつ、",
+        "word_base_list": [
+            "有る",
+            "、"
+        ],
+        "word_list": [
+            "あつ",
+            "、"
+        ],
+        "sound": "f000094.mp3",
+        "sound_begin": 219680,
+        "sound_end": 219880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000095",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "と言ふ間もなく、",
+        "sentence_with_furigana": "と言ふ間もなく、",
+        "word_base_list": [
+            "と",
+            "言う",
+            "間",
+            "も",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "言ふ",
+            "間",
+            "も",
+            "なく",
+            "、"
+        ],
+        "sound": "f000095.mp3",
+        "sound_begin": 219880,
+        "sound_end": 220920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000096",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "川のなかへ、",
+        "sentence_with_furigana": "川のなかへ、",
+        "word_base_list": [
+            "川",
+            "の",
+            "中",
+            "へ",
+            "、"
+        ],
+        "word_list": [
+            "川",
+            "の",
+            "なか",
+            "へ",
+            "、"
+        ],
+        "sound": "f000096.mp3",
+        "sound_begin": 220920,
+        "sound_end": 222280
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000097",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ざぶんとおつこちて、",
+        "sentence_with_furigana": "ざぶんとおつこちて、",
+        "word_base_list": [
+            "ざぶん",
+            "十",
+            "つ",
+            "こち",
+            "って",
+            "、"
+        ],
+        "word_list": [
+            "ざぶん",
+            "とお",
+            "つ",
+            "こち",
+            "て",
+            "、"
+        ],
+        "sound": "f000097.mp3",
+        "sound_begin": 222280,
+        "sound_end": 224240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000098",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "見てゐるうちに、",
+        "sentence_with_furigana": "見てゐるうちに、",
+        "word_base_list": [
+            "見る",
+            "て",
+            "居る",
+            "内",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "見",
+            "て",
+            "ゐる",
+            "うち",
+            "に",
+            "、"
+        ],
+        "sound": "f000098.mp3",
+        "sound_begin": 224240,
+        "sound_end": 225200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000099",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "水のなかへ沈んで見えなくなつてしまひました。",
+        "sentence_with_furigana": "水のなかへ沈んで見えなくなつてしまひました。",
+        "word_base_list": [
+            "水",
+            "の",
+            "中",
+            "へ",
+            "沈む",
+            "で",
+            "見える",
+            "ない",
+            "成る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "水",
+            "の",
+            "なか",
+            "へ",
+            "沈ん",
+            "で",
+            "見え",
+            "なく",
+            "なつ",
+            "て",
+            "しまひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000099.mp3",
+        "sound_begin": 225200,
+        "sound_end": 229940
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000100",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "かはいさうに、",
+        "sentence_with_furigana": "かはいさうに、",
+        "word_base_list": [
+            "か",
+            "はい",
+            "そう",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "か",
+            "はい",
+            "さう",
+            "に",
+            "、"
+        ],
+        "sound": "f000100.mp3",
+        "sound_begin": 229940,
+        "sound_end": 230680
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000101",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000101.mp3",
+        "sound_begin": 230680,
+        "sound_end": 232360
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000102",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "野菜の皮を外にすてるために、",
+        "sentence_with_furigana": "野菜の皮を外にすてるために、",
+        "word_base_list": [
+            "野菜",
+            "の",
+            "皮",
+            "を",
+            "外",
+            "に",
+            "捨てる",
+            "為",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "野菜",
+            "の",
+            "皮",
+            "を",
+            "外",
+            "に",
+            "すてる",
+            "ため",
+            "に",
+            "、"
+        ],
+        "sound": "f000102.mp3",
+        "sound_begin": 232360,
+        "sound_end": 234320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000103",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "こしらへてあつた、",
+        "sentence_with_furigana": "こしらへてあつた、",
+        "word_base_list": [
+            "腰",
+            "等",
+            "へ",
+            "手厚い",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "こし",
+            "ら",
+            "へ",
+            "てあつ",
+            "た",
+            "、"
+        ],
+        "sound": "f000103.mp3",
+        "sound_begin": 234320,
+        "sound_end": 235880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000104",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "電気仕かけの箱をベツドとまちがへて、",
+        "sentence_with_furigana": "電気仕かけの箱をベツドとまちがへて、",
+        "word_base_list": [
+            "電気",
+            "仕掛け",
+            "の",
+            "箱",
+            "を",
+            "ベッド",
+            "と",
+            "まち",
+            "が",
+            "経る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "電気",
+            "仕かけ",
+            "の",
+            "箱",
+            "を",
+            "ベツド",
+            "と",
+            "まち",
+            "が",
+            "へ",
+            "て",
+            "、"
+        ],
+        "sound": "f000104.mp3",
+        "sound_begin": 235880,
+        "sound_end": 239240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000105",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そのなかにはいつて寝てゐたのです。",
+        "sentence_with_furigana": "そのなかにはいつて寝てゐたのです。",
+        "word_base_list": [
+            "其の",
+            "中",
+            "に",
+            "は",
+            "いつ",
+            "って",
+            "寝る",
+            "て",
+            "居る",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "なか",
+            "に",
+            "は",
+            "いつ",
+            "て",
+            "寝",
+            "て",
+            "ゐ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000105.mp3",
+        "sound_begin": 239240,
+        "sound_end": 244520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000106",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "しかし——",
+        "sentence_with_furigana": "しかし——",
+        "word_base_list": [
+            "然し",
+            "—",
+            "—"
+        ],
+        "word_list": [
+            "しかし",
+            "—",
+            "—"
+        ],
+        "sound": "f000106.mp3",
+        "sound_begin": 244520,
+        "sound_end": 245534
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000107",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そのうちに、",
+        "sentence_with_furigana": "そのうちに、",
+        "word_base_list": [
+            "其の",
+            "内",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "うち",
+            "に",
+            "、"
+        ],
+        "sound": "f000107.mp3",
+        "sound_begin": 245534,
+        "sound_end": 246240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000108",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "夜が明けました。",
+        "sentence_with_furigana": "夜が明けました。",
+        "word_base_list": [
+            "夜",
+            "が",
+            "明ける",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "夜",
+            "が",
+            "明け",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000108.mp3",
+        "sound_begin": 246240,
+        "sound_end": 247400
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000109",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "word_base_list": [],
+        "word_list": [],
+        "sound": "f000109.mp3",
+        "sound_begin": 247400,
+        "sound_end": 251607
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000110",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "朝になつたので、",
+        "sentence_with_furigana": "朝になつたので、",
+        "word_base_list": [
+            "朝",
+            "に",
+            "成る",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "朝",
+            "に",
+            "なつ",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000110.mp3",
+        "sound_begin": 251607,
+        "sound_end": 253246
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000111",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモ・ホテルの主人のジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの主人のジヤガイモさんは、",
+        "word_base_list": [
+            "ジャガ芋",
+            "・",
+            "ホテル",
+            "の",
+            "主人",
+            "の",
+            "ジャガ芋",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "・",
+            "ホテル",
+            "の",
+            "主人",
+            "の",
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000111.mp3",
+        "sound_begin": 253246,
+        "sound_end": 256300
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000112",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "地下室へ、",
+        "sentence_with_furigana": "地下室へ、",
+        "word_base_list": [
+            "地下",
+            "室",
+            "へ",
+            "、"
+        ],
+        "word_list": [
+            "地下",
+            "室",
+            "へ",
+            "、"
+        ],
+        "sound": "f000112.mp3",
+        "sound_begin": 256300,
+        "sound_end": 257079
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000113",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "パンと紅茶を銀のおぼんにのつけて、",
+        "sentence_with_furigana": "パンと紅茶を銀のおぼんにのつけて、",
+        "word_base_list": [
+            "パン",
+            "と",
+            "紅茶",
+            "を",
+            "銀",
+            "の",
+            "おぼん",
+            "に",
+            "の",
+            "つける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "パン",
+            "と",
+            "紅茶",
+            "を",
+            "銀",
+            "の",
+            "おぼん",
+            "に",
+            "の",
+            "つけ",
+            "て",
+            "、"
+        ],
+        "sound": "f000113.mp3",
+        "sound_begin": 257079,
+        "sound_end": 259640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000114",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "来て見ますと、",
+        "sentence_with_furigana": "来て見ますと、",
+        "word_base_list": [
+            "来る",
+            "て",
+            "見る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "来",
+            "て",
+            "見",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000114.mp3",
+        "sound_begin": 259640,
+        "sound_end": 261516
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000115",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "昨日の晩に、",
+        "sentence_with_furigana": "昨日の晩に、",
+        "word_base_list": [
+            "昨日",
+            "の",
+            "晩",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "昨日",
+            "の",
+            "晩",
+            "に",
+            "、"
+        ],
+        "sound": "f000115.mp3",
+        "sound_begin": 261516,
+        "sound_end": 262360
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000116",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "とまつた筈の玉ねぎさんの姿は、",
+        "sentence_with_furigana": "とまつた 筈[はず]の玉ねぎさんの姿は、",
+        "word_base_list": [
+            "と",
+            "待つ",
+            "た",
+            "筈",
+            "の",
+            "玉葱",
+            "さん",
+            "の",
+            "姿",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "まつ",
+            "た",
+            "筈",
+            "の",
+            "玉ねぎ",
+            "さん",
+            "の",
+            "姿",
+            "は",
+            "、"
+        ],
+        "sound": "f000116.mp3",
+        "sound_begin": 262360,
+        "sound_end": 265104
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000117",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "影も形もありません。",
+        "sentence_with_furigana": "影も形もありません。",
+        "word_base_list": [
+            "影",
+            "も",
+            "形",
+            "も",
+            "有る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "影",
+            "も",
+            "形",
+            "も",
+            "あり",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000117.mp3",
+        "sound_begin": 265104,
+        "sound_end": 269363
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000118",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんの持つて来たトランクが、",
+        "sentence_with_furigana": "玉ねぎさんの持つて来たトランクが、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "の",
+            "持つ",
+            "て",
+            "来る",
+            "た",
+            "トランク",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "の",
+            "持つ",
+            "て",
+            "来",
+            "た",
+            "トランク",
+            "が",
+            "、"
+        ],
+        "sound": "f000118.mp3",
+        "sound_begin": 269363,
+        "sound_end": 271600
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000119",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "のこつてゐるだけでした。",
+        "sentence_with_furigana": "のこつてゐるだけでした。",
+        "word_base_list": [
+            "の",
+            "こつ",
+            "って",
+            "居る",
+            "だけ",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "の",
+            "こつ",
+            "て",
+            "ゐる",
+            "だけ",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000119.mp3",
+        "sound_begin": 271600,
+        "sound_end": 274960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000120",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000120.mp3",
+        "sound_begin": 274960,
+        "sound_end": 275760
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000121",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "大変に心配して、",
+        "sentence_with_furigana": "大変に心配して、",
+        "word_base_list": [
+            "大変",
+            "だ",
+            "心配",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "大変",
+            "に",
+            "心配",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000121.mp3",
+        "sound_begin": 275760,
+        "sound_end": 277920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000122",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "早速新聞社へ行つて、",
+        "sentence_with_furigana": "早速新聞社へ行つて、",
+        "word_base_list": [
+            "早速",
+            "新聞",
+            "社",
+            "へ",
+            "行う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "早速",
+            "新聞",
+            "社",
+            "へ",
+            "行つ",
+            "て",
+            "、"
+        ],
+        "sound": "f000122.mp3",
+        "sound_begin": 277920,
+        "sound_end": 279882
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000123",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "次のやうな広告を出してもらひました。",
+        "sentence_with_furigana": "次のやうな広告を出してもらひました。",
+        "word_base_list": [
+            "次",
+            "の",
+            "様",
+            "だ",
+            "広告",
+            "を",
+            "出す",
+            "て",
+            "もる",
+            "干る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "次",
+            "の",
+            "やう",
+            "な",
+            "広告",
+            "を",
+            "出し",
+            "て",
+            "もら",
+            "ひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000123.mp3",
+        "sound_begin": 279882,
+        "sound_end": 285268
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000124",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「キノフノバン、",
+        "sentence_with_furigana": "「キノフノバン、",
+        "word_base_list": [
+            "「",
+            "キノフノバン",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "キノフノバン",
+            "、"
+        ],
+        "sound": "f000124.mp3",
+        "sound_begin": 285268,
+        "sound_end": 287160
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000125",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "私ノウチノ地下室ニトマツタ玉ネギサンガ、",
+        "sentence_with_furigana": "私ノウチノ地下室ニトマツタ玉ネギサンガ、",
+        "word_base_list": [
+            "私",
+            "ノウチノ",
+            "地下",
+            "室",
+            "ニトマツタ",
+            "玉葱",
+            "サンガ",
+            "、"
+        ],
+        "word_list": [
+            "私",
+            "ノウチノ",
+            "地下",
+            "室",
+            "ニトマツタ",
+            "玉ネギ",
+            "サンガ",
+            "、"
+        ],
+        "sound": "f000125.mp3",
+        "sound_begin": 287160,
+        "sound_end": 290680
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000126",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "行方不明ニナリマシタ。",
+        "sentence_with_furigana": "行方不明ニナリマシタ。",
+        "word_base_list": [
+            "行方",
+            "不明",
+            "ニナリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "行方",
+            "不明",
+            "ニナリマシタ",
+            "。"
+        ],
+        "sound": "f000126.mp3",
+        "sound_begin": 290680,
+        "sound_end": 293920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000127",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。",
+        "sentence_with_furigana": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。",
+        "word_base_list": [
+            "御",
+            "心",
+            "アタリノ",
+            "方",
+            "ハ",
+            "私",
+            "ノトコロマデオ",
+            "知らせ",
+            "下",
+            "菜",
+            "。"
+        ],
+        "word_list": [
+            "オ",
+            "心",
+            "アタリノ",
+            "方",
+            "ハ",
+            "私",
+            "ノトコロマデオ",
+            "知ラセ",
+            "下",
+            "サイ",
+            "。"
+        ],
+        "sound": "f000127.mp3",
+        "sound_begin": 293920,
+        "sound_end": 299899
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000128",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "知ラセテ下サツタ方ニハ、",
+        "sentence_with_furigana": "知ラセテ下サツタ方ニハ、",
+        "word_base_list": [
+            "知らせ",
+            "テ",
+            "下",
+            "サツタ",
+            "方",
+            "ニハ",
+            "、"
+        ],
+        "word_list": [
+            "知ラセ",
+            "テ",
+            "下",
+            "サツタ",
+            "方",
+            "ニハ",
+            "、"
+        ],
+        "sound": "f000128.mp3",
+        "sound_begin": 299899,
+        "sound_end": 302360
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000129",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "オ礼ヲ一円サシアゲマス。",
+        "sentence_with_furigana": "オ礼ヲ一円サシアゲマス。",
+        "word_base_list": [
+            "御",
+            "礼",
+            "を",
+            "1",
+            "円",
+            "サシアゲマス",
+            "。"
+        ],
+        "word_list": [
+            "オ",
+            "礼",
+            "ヲ",
+            "一",
+            "円",
+            "サシアゲマス",
+            "。"
+        ],
+        "sound": "f000129.mp3",
+        "sound_begin": 302360,
+        "sound_end": 305860
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000130",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモ・ホテル。」",
+        "sentence_with_furigana": "ジヤガイモ・ホテル。」",
+        "word_base_list": [
+            "ジャガ芋",
+            "・",
+            "ホテル",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "・",
+            "ホテル",
+            "。",
+            "」"
+        ],
+        "sound": "f000130.mp3",
+        "sound_begin": 305860,
+        "sound_end": 309760
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000131",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000131.mp3",
+        "sound_begin": 309760,
+        "sound_end": 310320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000132",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "その日の夕方、",
+        "sentence_with_furigana": "その日の夕方、",
+        "word_base_list": [
+            "其の",
+            "日",
+            "の",
+            "夕方",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "日",
+            "の",
+            "夕方",
+            "、"
+        ],
+        "sound": "f000132.mp3",
+        "sound_begin": 310320,
+        "sound_end": 312240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000133",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ひよつくり、",
+        "sentence_with_furigana": "ひよつくり、",
+        "word_base_list": [
+            "ひよ",
+            "作る",
+            "、"
+        ],
+        "word_list": [
+            "ひよ",
+            "つくり",
+            "、"
+        ],
+        "sound": "f000133.mp3",
+        "sound_begin": 312240,
+        "sound_end": 313161
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000134",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。",
+        "sentence_with_furigana": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。",
+        "word_base_list": [
+            "昨日",
+            "居る",
+            "ない",
+            "成る",
+            "た",
+            "玉葱",
+            "さん",
+            "が",
+            "帰る",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "昨日",
+            "ゐ",
+            "なく",
+            "なつ",
+            "た",
+            "玉ねぎ",
+            "さん",
+            "が",
+            "帰つ",
+            "て",
+            "来",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000134.mp3",
+        "sound_begin": 313161,
+        "sound_end": 318960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000135",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000135.mp3",
+        "sound_begin": 318960,
+        "sound_end": 320840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000136",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "sound": "f000136.mp3",
+        "sound_begin": 320840,
+        "sound_end": 321400
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000137",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "よく帰つて下さいました。",
+        "sentence_with_furigana": "よく帰つて下さいました。",
+        "word_base_list": [
+            "良く",
+            "帰る",
+            "て",
+            "下さる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "よく",
+            "帰つ",
+            "て",
+            "下さい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000137.mp3",
+        "sound_begin": 321400,
+        "sound_end": 323440
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000138",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どんなに心配したか知れません。",
+        "sentence_with_furigana": "どんなに心配したか知れません。",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "心配",
+            "為る",
+            "た",
+            "か",
+            "知る",
+            "ます",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "心配",
+            "し",
+            "た",
+            "か",
+            "知れ",
+            "ませ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000138.mp3",
+        "sound_begin": 323440,
+        "sound_end": 326077
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000139",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」と言ひましたので、",
+        "sentence_with_furigana": "」と言ひましたので、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "言ひ",
+            "まし",
+            "た",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000139.mp3",
+        "sound_begin": 326077,
+        "sound_end": 327768
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000140",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000140.mp3",
+        "sound_begin": 327768,
+        "sound_end": 329589
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000141",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "、"
+        ],
+        "sound": "f000141.mp3",
+        "sound_begin": 329589,
+        "sound_end": 330160
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000142",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ベツドから川のなかへ落ちたか、",
+        "sentence_with_furigana": "ベツドから川のなかへ落ちたか、",
+        "word_base_list": [
+            "ベッド",
+            "から",
+            "川",
+            "の",
+            "中",
+            "へ",
+            "落ちる",
+            "た",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "ベツド",
+            "から",
+            "川",
+            "の",
+            "なか",
+            "へ",
+            "落ち",
+            "た",
+            "か",
+            "、"
+        ],
+        "sound": "f000142.mp3",
+        "sound_begin": 330160,
+        "sound_end": 332880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000143",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000143.mp3",
+        "sound_begin": 332880,
+        "sound_end": 333920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000144",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、",
+        "word_base_list": [
+            "どんな",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "どんな",
+            "に",
+            "、"
+        ],
+        "sound": "f000144.mp3",
+        "sound_begin": 333920,
+        "sound_end": 334560
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000145",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あわてておよいで岸に這ひ上つたか、",
+        "sentence_with_furigana": "あわてておよいで岸に 這[は]ひ上つたか、",
+        "word_base_list": [
+            "慌てる",
+            "て",
+            "泳ぐ",
+            "で",
+            "岸",
+            "に",
+            "這",
+            "ひ",
+            "上",
+            "蔦",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "あわて",
+            "て",
+            "およい",
+            "で",
+            "岸",
+            "に",
+            "這",
+            "ひ",
+            "上",
+            "つた",
+            "か",
+            "、"
+        ],
+        "sound": "f000145.mp3",
+        "sound_begin": 334560,
+        "sound_end": 337880
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000146",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000146.mp3",
+        "sound_begin": 337880,
+        "sound_end": 338920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000147",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "岸の上で、",
+        "sentence_with_furigana": "岸の上で、",
+        "word_base_list": [
+            "岸",
+            "の",
+            "上",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "岸",
+            "の",
+            "上",
+            "で",
+            "、"
+        ],
+        "sound": "f000147.mp3",
+        "sound_begin": 338920,
+        "sound_end": 340200
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000148",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "新聞の広告をよんだかを話しました。",
+        "sentence_with_furigana": "新聞の広告をよんだかを話しました。",
+        "word_base_list": [
+            "新聞",
+            "の",
+            "広告",
+            "を",
+            "呼ぶ",
+            "た",
+            "か",
+            "を",
+            "話す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "新聞",
+            "の",
+            "広告",
+            "を",
+            "よん",
+            "だ",
+            "か",
+            "を",
+            "話し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000148.mp3",
+        "sound_begin": 340200,
+        "sound_end": 345320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000149",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000149.mp3",
+        "sound_begin": 345320,
+        "sound_end": 346840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000150",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんは頭をかいて申しました。",
+        "sentence_with_furigana": "ジヤガイモさんは頭をかいて申しました。",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "は",
+            "頭",
+            "を",
+            "かく",
+            "て",
+            "申す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "は",
+            "頭",
+            "を",
+            "かい",
+            "て",
+            "申し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000150.mp3",
+        "sound_begin": 346840,
+        "sound_end": 350610
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000151",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000151.mp3",
+        "sound_begin": 350610,
+        "sound_end": 351680
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000152",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "まことにお気の毒なことを致しました。",
+        "sentence_with_furigana": "まことにお気の毒なことを致しました。",
+        "word_base_list": [
+            "真",
+            "に",
+            "御",
+            "気の毒",
+            "だ",
+            "こと",
+            "を",
+            "致す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "まこと",
+            "に",
+            "お",
+            "気の毒",
+            "な",
+            "こと",
+            "を",
+            "致し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000152.mp3",
+        "sound_begin": 351680,
+        "sound_end": 355720
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000153",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "その代り、",
+        "sentence_with_furigana": "その代り、",
+        "word_base_list": [
+            "其の",
+            "代わり",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "代り",
+            "、"
+        ],
+        "sound": "f000153.mp3",
+        "sound_begin": 355720,
+        "sound_end": 357206
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000154",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、",
+        "word_base_list": [
+            "今晩は",
+            "、"
+        ],
+        "word_list": [
+            "今晩は",
+            "、"
+        ],
+        "sound": "f000154.mp3",
+        "sound_begin": 357206,
+        "sound_end": 358040
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000155",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "とても、",
+        "sentence_with_furigana": "とても、",
+        "word_base_list": [
+            "迚も",
+            "、"
+        ],
+        "word_list": [
+            "とても",
+            "、"
+        ],
+        "sound": "f000155.mp3",
+        "sound_begin": 358040,
+        "sound_end": 358640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000156",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "すばらしいお部屋があいてゐますから、",
+        "sentence_with_furigana": "すばらしいお部屋があいてゐますから、",
+        "word_base_list": [
+            "素晴らしい",
+            "御",
+            "部屋",
+            "が",
+            "あく",
+            "て",
+            "居る",
+            "ます",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "すばらしい",
+            "お",
+            "部屋",
+            "が",
+            "あい",
+            "て",
+            "ゐ",
+            "ます",
+            "から",
+            "、"
+        ],
+        "sound": "f000156.mp3",
+        "sound_begin": 358640,
+        "sound_end": 361153
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000157",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "泊つて下さい。",
+        "sentence_with_furigana": "泊つて下さい。",
+        "word_base_list": [
+            "泊",
+            "伝",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "泊",
+            "つて",
+            "下さい",
+            "。"
+        ],
+        "sound": "f000157.mp3",
+        "sound_begin": 361153,
+        "sound_end": 362938
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000158",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "申す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "申し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000158.mp3",
+        "sound_begin": 362938,
+        "sound_end": 366640
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000159",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは笑ひながら言ひました。",
+        "sentence_with_furigana": "玉ねぎさんは笑ひながら言ひました。",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "笑い",
+            "ながら",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "笑ひ",
+            "ながら",
+            "言ひ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000159.mp3",
+        "sound_begin": 366640,
+        "sound_end": 370680
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000160",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「あ、",
+        "sentence_with_furigana": "「あ、",
+        "word_base_list": [
+            "「",
+            "あっ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あ",
+            "、"
+        ],
+        "sound": "f000160.mp3",
+        "sound_begin": 370680,
+        "sound_end": 370923
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000161",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "word_base_list": [
+            "あっ",
+            "、"
+        ],
+        "word_list": [
+            "あ",
+            "、"
+        ],
+        "sound": "f000161.mp3",
+        "sound_begin": 370923,
+        "sound_end": 371960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000162",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "僕がもう一日おそく、",
+        "sentence_with_furigana": "僕がもう一日おそく、",
+        "word_base_list": [
+            "僕",
+            "が",
+            "もう",
+            "1",
+            "日",
+            "遅い",
+            "、"
+        ],
+        "word_list": [
+            "僕",
+            "が",
+            "もう",
+            "一",
+            "日",
+            "おそく",
+            "、"
+        ],
+        "sound": "f000162.mp3",
+        "sound_begin": 371960,
+        "sound_end": 373480
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000163",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "こゝへ来たら、",
+        "sentence_with_furigana": "こゝへ来たら、",
+        "word_base_list": [
+            "此処",
+            "へ",
+            "来る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "こゝ",
+            "へ",
+            "来",
+            "たら",
+            "、"
+        ],
+        "sound": "f000163.mp3",
+        "sound_begin": 373480,
+        "sound_end": 374320
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000164",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "昨日のやうな、",
+        "sentence_with_furigana": "昨日のやうな、",
+        "word_base_list": [
+            "昨日",
+            "の",
+            "様",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "昨日",
+            "の",
+            "やう",
+            "な",
+            "、"
+        ],
+        "sound": "f000164.mp3",
+        "sound_begin": 374320,
+        "sound_end": 375960
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000165",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ひどい目には会はなかつたよ。",
+        "sentence_with_furigana": "ひどい目には会はなかつたよ。",
+        "word_base_list": [
+            "酷い",
+            "目",
+            "に",
+            "は",
+            "会",
+            "は",
+            "中",
+            "蔦",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "ひどい",
+            "目",
+            "に",
+            "は",
+            "会",
+            "は",
+            "なか",
+            "つた",
+            "よ",
+            "。"
+        ],
+        "sound": "f000165.mp3",
+        "sound_begin": 375960,
+        "sound_end": 378621
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000166",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "申す",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "申し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000166.mp3",
+        "sound_begin": 378621,
+        "sound_end": 382920
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000167",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "word_base_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000167.mp3",
+        "sound_begin": 382920,
+        "sound_end": 383360
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000168",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、",
+        "word_base_list": [
+            "不思議",
+            "だ",
+            "こと",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "不思議",
+            "な",
+            "こと",
+            "に",
+            "、"
+        ],
+        "sound": "f000168.mp3",
+        "sound_begin": 383360,
+        "sound_end": 384852
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000169",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "word_base_list": [
+            "玉葱",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000169.mp3",
+        "sound_begin": 384852,
+        "sound_end": 386080
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000170",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ひどく、",
+        "sentence_with_furigana": "ひどく、",
+        "word_base_list": [
+            "酷い",
+            "、"
+        ],
+        "word_list": [
+            "ひどく",
+            "、"
+        ],
+        "sound": "f000170.mp3",
+        "sound_begin": 386080,
+        "sound_end": 386440
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000171",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "このジヤガイモ・ホテルが気に入つてしまつて、",
+        "sentence_with_furigana": "このジヤガイモ・ホテルが気に入つてしまつて、",
+        "word_base_list": [
+            "此の",
+            "ジャガ芋",
+            "・",
+            "ホテル",
+            "が",
+            "気",
+            "に",
+            "入る",
+            "て",
+            "為る",
+            "まつ",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "ジヤガイモ",
+            "・",
+            "ホテル",
+            "が",
+            "気",
+            "に",
+            "入つ",
+            "て",
+            "し",
+            "まつ",
+            "て",
+            "、"
+        ],
+        "sound": "f000171.mp3",
+        "sound_begin": 386440,
+        "sound_end": 389840
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000172",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "一生涯、",
+        "sentence_with_furigana": "一生涯、",
+        "word_base_list": [
+            "1",
+            "生涯",
+            "、"
+        ],
+        "word_list": [
+            "一",
+            "生涯",
+            "、"
+        ],
+        "sound": "f000172.mp3",
+        "sound_begin": 389840,
+        "sound_end": 390714
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000173",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "この、",
+        "sentence_with_furigana": "この、",
+        "word_base_list": [
+            "此の",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "、"
+        ],
+        "sound": "f000173.mp3",
+        "sound_begin": 390714,
+        "sound_end": 391102
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000174",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモ・ホテルの番頭さんになつて、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの番頭さんになつて、",
+        "word_base_list": [
+            "ジャガ芋",
+            "・",
+            "ホテル",
+            "の",
+            "番頭",
+            "さん",
+            "に",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "・",
+            "ホテル",
+            "の",
+            "番頭",
+            "さん",
+            "に",
+            "なつ",
+            "て",
+            "、"
+        ],
+        "sound": "f000174.mp3",
+        "sound_begin": 391102,
+        "sound_end": 394000
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000175",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモさんと一しよに住むことになりました。",
+        "sentence_with_furigana": "ジヤガイモさんと一しよに住むことになりました。",
+        "word_base_list": [
+            "ジャガ芋",
+            "さん",
+            "と",
+            "一緒",
+            "に",
+            "住む",
+            "こと",
+            "に",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "さん",
+            "と",
+            "一しよ",
+            "に",
+            "住む",
+            "こと",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000175.mp3",
+        "sound_begin": 394000,
+        "sound_end": 399240
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000176",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "それですから皆さん、",
+        "sentence_with_furigana": "それですから皆さん、",
+        "word_base_list": [
+            "其れ",
+            "です",
+            "から",
+            "皆",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "です",
+            "から",
+            "皆",
+            "さん",
+            "、"
+        ],
+        "sound": "f000176.mp3",
+        "sound_begin": 399240,
+        "sound_end": 401600
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000177",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "あなた方のめしあがる洋食で、",
+        "sentence_with_furigana": "あなた方のめしあがる洋食で、",
+        "word_base_list": [
+            "貴方",
+            "方",
+            "の",
+            "召し上がる",
+            "洋食",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "あなた",
+            "方",
+            "の",
+            "めしあがる",
+            "洋食",
+            "で",
+            "、"
+        ],
+        "sound": "f000177.mp3",
+        "sound_begin": 401600,
+        "sound_end": 404080
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000178",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ジヤガイモのついてゐるお皿には、",
+        "sentence_with_furigana": "ジヤガイモのついてゐるお皿には、",
+        "word_base_list": [
+            "ジャガ芋",
+            "の",
+            "つく",
+            "て",
+            "居る",
+            "御",
+            "皿",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ジヤガイモ",
+            "の",
+            "つい",
+            "て",
+            "ゐる",
+            "お",
+            "皿",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000178.mp3",
+        "sound_begin": 404080,
+        "sound_end": 406525
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000179",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "きつと、",
+        "sentence_with_furigana": "きつと、",
+        "word_base_list": [
+            "来る",
+            "つう",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "き",
+            "つ",
+            "と",
+            "、"
+        ],
+        "sound": "f000179.mp3",
+        "sound_begin": 406525,
+        "sound_end": 407788
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000180",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "玉ねぎがついてゐるでせう。",
+        "sentence_with_furigana": "玉ねぎがついてゐるでせう。",
+        "word_base_list": [
+            "玉葱",
+            "が",
+            "付く",
+            "て",
+            "居る",
+            "だ",
+            "せる",
+            "うう",
+            "。"
+        ],
+        "word_list": [
+            "玉ねぎ",
+            "が",
+            "つい",
+            "て",
+            "ゐる",
+            "で",
+            "せ",
+            "う",
+            "。"
+        ],
+        "sound": "f000180.mp3",
+        "sound_begin": 407788,
+        "sound_end": 410049
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000181",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000181.mp3",
+        "sound_begin": 410049,
+        "sound_end": 410520
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000182",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "こんなわけです。",
+        "sentence_with_furigana": "こんなわけです。",
+        "word_base_list": [
+            "こんな",
+            "訳",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "こんな",
+            "わけ",
+            "です",
+            "。"
+        ],
+        "sound": "f000182.mp3",
+        "sound_begin": 410520,
+        "sound_end": 414120
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000183",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "その翌る日から、",
+        "sentence_with_furigana": "その 翌[あく]る日から、",
+        "word_base_list": [
+            "其の",
+            "翌る日",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "翌る日",
+            "から",
+            "、"
+        ],
+        "sound": "f000183.mp3",
+        "sound_begin": 414120,
+        "sound_end": 416040
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000184",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "ホテルの看板が、",
+        "sentence_with_furigana": "ホテルの看板が、",
+        "word_base_list": [
+            "ホテル",
+            "の",
+            "看板",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ホテル",
+            "の",
+            "看板",
+            "が",
+            "、"
+        ],
+        "sound": "f000184.mp3",
+        "sound_begin": 416040,
+        "sound_end": 417673
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000185",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "こんな風に書き変へられました。",
+        "sentence_with_furigana": "こんな風に書き変へられました。",
+        "word_base_list": [
+            "こんな",
+            "風",
+            "だ",
+            "書く",
+            "変える",
+            "られる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "こんな",
+            "風",
+            "に",
+            "書き",
+            "変へ",
+            "られ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000185.mp3",
+        "sound_begin": 417673,
+        "sound_end": 421309
+    },
+    {
+        "id": "Kawae Ochita Tamanegisan-f000186",
+        "author_japanese": "村山 籌子",
+        "deck_name": "Kawae Ochita Tamanegisan",
+        "deck_name_japanese": "川へおちた玉ねぎさん",
+        "sentence": "「ジヤガイモ・玉ネギ・ホテル」と。",
+        "sentence_with_furigana": "「ジヤガイモ・玉ネギ・ホテル」と。",
+        "word_base_list": [
+            "「",
+            "ジャガ芋",
+            "・",
+            "玉葱",
+            "・",
+            "ホテル",
+            "」",
+            "と",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "ジヤガイモ",
+            "・",
+            "玉ネギ",
+            "・",
+            "ホテル",
+            "」",
+            "と",
+            "。"
+        ],
+        "sound": "f000186.mp3",
+        "sound_begin": 421309,
+        "sound_end": 427040
+    }
+]

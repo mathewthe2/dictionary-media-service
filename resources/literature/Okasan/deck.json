@@ -2,96 +2,134 @@
     {
         "id": "f000001",
         "sentence": "小川未明　作",
-        "sentence_with_furigana": "小川未明　作"
+        "sentence_with_furigana": "小川未明　作",
+        "audio_begin": 0,
+        "audio_end": 6314
     },
     {
         "id": "f000002",
         "sentence": "お母さん",
-        "sentence_with_furigana": "お母さん"
+        "sentence_with_furigana": "お母さん",
+        "audio_begin": 6314,
+        "audio_end": 9698
     },
     {
         "id": "f000003",
         "sentence": "「お母さん海が見えた！",
-        "sentence_with_furigana": "「お 母[かあ]さん 海[うみ]が 見[み]えた！"
+        "sentence_with_furigana": "「お 母[かあ]さん 海[うみ]が 見[み]えた！",
+        "audio_begin": 9698,
+        "audio_end": 12401
     },
     {
         "id": "f000004",
         "sentence": "あれあれかもめが飛んでいるよ。",
-        "sentence_with_furigana": "あれあれかもめが 飛[と]んでいるよ。"
+        "sentence_with_furigana": "あれあれかもめが 飛[と]んでいるよ。",
+        "audio_begin": 12401,
+        "audio_end": 15507
     },
     {
         "id": "f000005",
         "sentence": "あれあれあんなに遠く帆掛船が",
-        "sentence_with_furigana": "あれあれあんなに 遠[とお]く 帆掛船[ほかけぶね]が"
+        "sentence_with_furigana": "あれあれあんなに 遠[とお]く 帆掛船[ほかけぶね]が",
+        "audio_begin": 15507,
+        "audio_end": 18866
     },
     {
         "id": "f000006",
         "sentence": "見えるよ。",
-        "sentence_with_furigana": "見[み]えるよ。"
+        "sentence_with_furigana": "見[み]えるよ。",
+        "audio_begin": 18866,
+        "audio_end": 20154
     },
     {
         "id": "f000007",
         "sentence": "お母さんお母さん海が見えたよ！",
-        "sentence_with_furigana": "お 母[かあ]さんお 母[かあ]さん 海[うみ]が 見[み]えたよ！"
+        "sentence_with_furigana": "お 母[かあ]さんお 母[かあ]さん 海[うみ]が 見[み]えたよ！",
+        "audio_begin": 20154,
+        "audio_end": 24700
     },
     {
         "id": "f000008",
         "sentence": "」と",
-        "sentence_with_furigana": "」と"
+        "sentence_with_furigana": "」と",
+        "audio_begin": 24700,
+        "audio_end": 25160
     },
     {
         "id": "f000009",
         "sentence": "子供がいった。",
-        "sentence_with_furigana": "子供[こども]がいった。"
+        "sentence_with_furigana": "子供[こども]がいった。",
+        "audio_begin": 25160,
+        "audio_end": 28840
     },
     {
         "id": "f000010",
         "sentence": "「沖の白帆が白いか、",
-        "sentence_with_furigana": "「 沖[おき]の 白帆[しらほ]が 白[しろ]いか、"
+        "sentence_with_furigana": "「 沖[おき]の 白帆[しらほ]が 白[しろ]いか、",
+        "audio_begin": 28840,
+        "audio_end": 31797
     },
     {
         "id": "f000011",
         "sentence": "飛んでいるかもめが白いか、",
-        "sentence_with_furigana": "飛[と]んでいるかもめが 白[しろ]いか、"
+        "sentence_with_furigana": "飛[と]んでいるかもめが 白[しろ]いか、",
+        "audio_begin": 31797,
+        "audio_end": 35320
     },
     {
         "id": "f000012",
         "sentence": "わたしの姿が白いか。",
-        "sentence_with_furigana": "わたしの 姿[すがた]が 白[しろ]いか。"
+        "sentence_with_furigana": "わたしの 姿[すがた]が 白[しろ]いか。",
+        "audio_begin": 35320,
+        "audio_end": 39045
     },
     {
         "id": "f000013",
         "sentence": "」と",
-        "sentence_with_furigana": "」と"
+        "sentence_with_furigana": "」と",
+        "audio_begin": 39045,
+        "audio_end": 39800
     },
     {
         "id": "f000014",
         "sentence": "波がいった。",
-        "sentence_with_furigana": "波[なみ]がいった。"
+        "sentence_with_furigana": "波[なみ]がいった。",
+        "audio_begin": 39800,
+        "audio_end": 43326
     },
     {
         "id": "f000015",
         "sentence": "「さあ、",
-        "sentence_with_furigana": "「さあ、"
+        "sentence_with_furigana": "「さあ、",
+        "audio_begin": 43326,
+        "audio_end": 43760
     },
     {
         "id": "f000016",
         "sentence": "車夫さん、",
-        "sentence_with_furigana": "車夫[くるまや]さん、"
+        "sentence_with_furigana": "車夫[くるまや]さん、",
+        "audio_begin": 43760,
+        "audio_end": 45107
     },
     {
         "id": "f000017",
         "sentence": "かまわんで引いてください。",
-        "sentence_with_furigana": "かまわんで 引[ひ]いてください。"
+        "sentence_with_furigana": "かまわんで 引[ひ]いてください。",
+        "audio_begin": 45107,
+        "audio_end": 48453
     },
     {
         "id": "f000018",
         "sentence": "」と",
-        "sentence_with_furigana": "」と"
+        "sentence_with_furigana": "」と",
+        "audio_begin": 48453,
+        "audio_end": 49066
     },
     {
         "id": "f000019",
         "sentence": "母がいった。",
-        "sentence_with_furigana": "母[はは]がいった。"
+        "sentence_with_furigana": "母[はは]がいった。",
+        "audio_begin": 49066,
+        "audio_end": 54040
     }
 ]

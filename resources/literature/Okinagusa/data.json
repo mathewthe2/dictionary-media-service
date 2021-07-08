@@ -1,7 +1,6 @@
 [
     {
         "id": "Okinagusa-f000002",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -13,11 +12,12 @@
         "word_list": [
             "おきなぐさ"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5360,
+        "sound_end": 6760
     },
     {
         "id": "Okinagusa-f000003",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -49,11 +49,12 @@
             "か",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9560,
+        "sound_end": 12680
     },
     {
         "id": "Okinagusa-f000004",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -75,11 +76,12 @@
             "は",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 12680,
+        "sound_end": 14000
     },
     {
         "id": "Okinagusa-f000005",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -111,11 +113,12 @@
             "が",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 14000,
+        "sound_end": 17240
     },
     {
         "id": "Okinagusa-f000006",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -165,11 +168,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 17240,
+        "sound_end": 23760
     },
     {
         "id": "Okinagusa-f000007",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -247,11 +251,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 23760,
+        "sound_end": 33720
     },
     {
         "id": "Okinagusa-f000008",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -279,11 +284,12 @@
             "で",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 33720,
+        "sound_end": 36560
     },
     {
         "id": "Okinagusa-f000009",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -315,11 +321,12 @@
             "が",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 36560,
+        "sound_end": 40240
     },
     {
         "id": "Okinagusa-f000010",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -379,11 +386,12 @@
             "です",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 40240,
+        "sound_end": 47360
     },
     {
         "id": "Okinagusa-f000011",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -415,11 +423,12 @@
             "に",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 49060,
+        "sound_end": 53760
     },
     {
         "id": "Okinagusa-f000012",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -449,11 +458,12 @@
             "こころもち",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 53760,
+        "sound_end": 58240
     },
     {
         "id": "Okinagusa-f000013",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -501,11 +511,12 @@
             "に",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 58240,
+        "sound_end": 64599
     },
     {
         "id": "Okinagusa-f000014",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -533,11 +544,12 @@
             "は",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 64599,
+        "sound_end": 67520
     },
     {
         "id": "Okinagusa-f000015",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -569,11 +581,12 @@
             "花びら",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 67520,
+        "sound_end": 71800
     },
     {
         "id": "Okinagusa-f000016",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -603,11 +616,12 @@
             "葉",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 71800,
+        "sound_end": 75876
     },
     {
         "id": "Okinagusa-f000017",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -651,11 +665,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 75876,
+        "sound_end": 84278
     },
     {
         "id": "Okinagusa-f000018",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -681,11 +696,12 @@
             "従兄",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 84278,
+        "sound_end": 87372
     },
     {
         "id": "Okinagusa-f000019",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -717,11 +733,12 @@
             "ともだち",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 87372,
+        "sound_end": 91247
     },
     {
         "id": "Okinagusa-f000020",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -763,11 +780,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 91247,
+        "sound_end": 95140
     },
     {
         "id": "Okinagusa-f000021",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -783,11 +801,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 97240,
+        "sound_end": 99356
     },
     {
         "id": "Okinagusa-f000022",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -839,11 +858,12 @@
             "が",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 99356,
+        "sound_end": 105360
     },
     {
         "id": "Okinagusa-f000023",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -863,11 +883,12 @@
             "は",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 105360,
+        "sound_end": 107074
     },
     {
         "id": "Okinagusa-f000024",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -897,11 +918,12 @@
             "です",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 107074,
+        "sound_end": 111551
     },
     {
         "id": "Okinagusa-f000025",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -947,11 +969,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 111551,
+        "sound_end": 117885
     },
     {
         "id": "Okinagusa-f000026",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -985,11 +1008,12 @@
             "い",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 117885,
+        "sound_end": 120588
     },
     {
         "id": "Okinagusa-f000027",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1007,11 +1031,12 @@
             "い",
             "」"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 120588,
+        "sound_end": 122880
     },
     {
         "id": "Okinagusa-f000028",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1035,11 +1060,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 122880,
+        "sound_end": 126400
     },
     {
         "id": "Okinagusa-f000029",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1057,11 +1083,12 @@
             "です",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 126400,
+        "sound_end": 127960
     },
     {
         "id": "Okinagusa-f000030",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1099,11 +1126,12 @@
             "ん",
             "」"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 127960,
+        "sound_end": 130240
     },
     {
         "id": "Okinagusa-f000031",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1133,11 +1161,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 133140,
+        "sound_end": 136626
     },
     {
         "id": "Okinagusa-f000032",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1153,11 +1182,12 @@
             "いいえ",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 136626,
+        "sound_end": 137811
     },
     {
         "id": "Okinagusa-f000033",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1185,11 +1215,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 137811,
+        "sound_end": 140518
     },
     {
         "id": "Okinagusa-f000034",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1225,11 +1256,12 @@
             "ます",
             "」"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 140518,
+        "sound_end": 145956
     },
     {
         "id": "Okinagusa-f000035",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1245,11 +1277,12 @@
             "はてな",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 145956,
+        "sound_end": 147600
     },
     {
         "id": "Okinagusa-f000036",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1287,11 +1320,12 @@
             "い",
             "」"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 147600,
+        "sound_end": 151960
     },
     {
         "id": "Okinagusa-f000037",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1307,11 +1341,12 @@
             "いいえ",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 151960,
+        "sound_end": 152960
     },
     {
         "id": "Okinagusa-f000038",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1363,11 +1398,12 @@
             "ます",
             "」"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 152960,
+        "sound_end": 157980
     },
     {
         "id": "Okinagusa-f000039",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1383,11 +1419,12 @@
             "そうそう",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 160080,
+        "sound_end": 161538
     },
     {
         "id": "Okinagusa-f000040",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1407,11 +1444,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 161538,
+        "sound_end": 163400
     },
     {
         "id": "Okinagusa-f000041",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1451,11 +1489,12 @@
             "から",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 163400,
+        "sound_end": 166420
     },
     {
         "id": "Okinagusa-f000042",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1487,11 +1526,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 168520,
+        "sound_end": 173767
     },
     {
         "id": "Okinagusa-f000043",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1525,11 +1565,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 173767,
+        "sound_end": 177760
     },
     {
         "id": "Okinagusa-f000044",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1609,11 +1650,12 @@
             "ます",
             "」"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 177760,
+        "sound_end": 186800
     },
     {
         "id": "Okinagusa-f000045",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1633,11 +1675,12 @@
             "い",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 188730,
+        "sound_end": 190840
     },
     {
         "id": "Okinagusa-f000046",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1653,11 +1696,12 @@
             "で",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 190840,
+        "sound_end": 192247
     },
     {
         "id": "Okinagusa-f000047",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1671,11 +1715,12 @@
             "結局",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 192247,
+        "sound_end": 193480
     },
     {
         "id": "Okinagusa-f000048",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1711,11 +1756,12 @@
             "だろう",
             "」"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 193480,
+        "sound_end": 197720
     },
     {
         "id": "Okinagusa-f000049",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1733,11 +1779,12 @@
             "です",
             "」"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 197720,
+        "sound_end": 199640
     },
     {
         "id": "Okinagusa-f000050",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1753,11 +1800,12 @@
             "よろしい",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 199640,
+        "sound_end": 201240
     },
     {
         "id": "Okinagusa-f000051",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1771,11 +1819,12 @@
             "さよなら",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 201240,
+        "sound_end": 202692
     },
     {
         "id": "Okinagusa-f000052",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1799,11 +1848,12 @@
             "いで",
             "」"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 202692,
+        "sound_end": 204272
     },
     {
         "id": "Okinagusa-f000053",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1821,11 +1871,12 @@
             "です",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 205980,
+        "sound_end": 209280
     },
     {
         "id": "Okinagusa-f000054",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1843,11 +1894,12 @@
             "の",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 209280,
+        "sound_end": 210880
     },
     {
         "id": "Okinagusa-f000055",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1885,11 +1937,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 210880,
+        "sound_end": 215440
     },
     {
         "id": "Okinagusa-f000056",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -1961,11 +2014,12 @@
             "が",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 215440,
+        "sound_end": 223493
     },
     {
         "id": "Okinagusa-f000057",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2009,11 +2063,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 223493,
+        "sound_end": 230218
     },
     {
         "id": "Okinagusa-f000058",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2043,11 +2098,12 @@
             "です",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 230218,
+        "sound_end": 236240
     },
     {
         "id": "Okinagusa-f000059",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2125,11 +2181,12 @@
             "です",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 236240,
+        "sound_end": 244280
     },
     {
         "id": "Okinagusa-f000060",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2181,11 +2238,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 247080,
+        "sound_end": 254540
     },
     {
         "id": "Okinagusa-f000061",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2209,11 +2267,12 @@
             "南",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 256640,
+        "sound_end": 259880
     },
     {
         "id": "Okinagusa-f000062",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2255,11 +2314,12 @@
             "た",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 259880,
+        "sound_end": 265440
     },
     {
         "id": "Okinagusa-f000063",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2295,11 +2355,12 @@
             "が",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 267140,
+        "sound_end": 270080
     },
     {
         "id": "Okinagusa-f000064",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2335,11 +2396,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 270080,
+        "sound_end": 273300
     },
     {
         "id": "Okinagusa-f000065",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2379,11 +2441,12 @@
             "て",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 275337,
+        "sound_end": 281640
     },
     {
         "id": "Okinagusa-f000066",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2419,11 +2482,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 281640,
+        "sound_end": 287720
     },
     {
         "id": "Okinagusa-f000067",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2477,11 +2541,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 287720,
+        "sound_end": 293840
     },
     {
         "id": "Okinagusa-f000068",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2529,11 +2594,12 @@
             "た",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 293840,
+        "sound_end": 299440
     },
     {
         "id": "Okinagusa-f000069",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2559,11 +2625,12 @@
             "燃え",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 302040,
+        "sound_end": 304760
     },
     {
         "id": "Okinagusa-f000070",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2649,11 +2716,12 @@
             "た",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 304760,
+        "sound_end": 317118
     },
     {
         "id": "Okinagusa-f000071",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2703,11 +2771,12 @@
             "た",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 317118,
+        "sound_end": 327600
     },
     {
         "id": "Okinagusa-f000072",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2723,11 +2792,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 327603,
+        "sound_end": 329069
     },
     {
         "id": "Okinagusa-f000073",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2757,11 +2827,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 329069,
+        "sound_end": 331840
     },
     {
         "id": "Okinagusa-f000074",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2793,11 +2864,12 @@
             "た",
             "」"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 331840,
+        "sound_end": 336000
     },
     {
         "id": "Okinagusa-f000075",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2817,11 +2889,12 @@
             "来る",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 336000,
+        "sound_end": 337280
     },
     {
         "id": "Okinagusa-f000076",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2837,11 +2910,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 337280,
+        "sound_end": 339200
     },
     {
         "id": "Okinagusa-f000077",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2865,11 +2939,12 @@
             "た",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 339200,
+        "sound_end": 341920
     },
     {
         "id": "Okinagusa-f000078",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2887,11 +2962,12 @@
             "た",
             "」"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 341920,
+        "sound_end": 342720
     },
     {
         "id": "Okinagusa-f000079",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2909,11 +2985,12 @@
             "た",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 344456,
+        "sound_end": 345000
     },
     {
         "id": "Okinagusa-f000080",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2929,11 +3006,12 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 345000,
+        "sound_end": 346640
     },
     {
         "id": "Okinagusa-f000081",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2949,11 +3027,12 @@
             "くらい",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 346640,
+        "sound_end": 347600
     },
     {
         "id": "Okinagusa-f000082",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -2983,11 +3062,12 @@
             "た",
             "」"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 347600,
+        "sound_end": 353680
     },
     {
         "id": "Okinagusa-f000083",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3003,11 +3083,12 @@
             "うん",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 353680,
+        "sound_end": 354440
     },
     {
         "id": "Okinagusa-f000084",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3053,11 +3134,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 354440,
+        "sound_end": 358240
     },
     {
         "id": "Okinagusa-f000085",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3081,11 +3163,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 358240,
+        "sound_end": 361320
     },
     {
         "id": "Okinagusa-f000086",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3103,11 +3186,12 @@
             "出る",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 361320,
+        "sound_end": 362880
     },
     {
         "id": "Okinagusa-f000087",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3121,11 +3205,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 362880,
+        "sound_end": 363760
     },
     {
         "id": "Okinagusa-f000088",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3145,11 +3230,12 @@
             "た",
             "」"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 363760,
+        "sound_end": 367000
     },
     {
         "id": "Okinagusa-f000089",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3169,11 +3255,12 @@
             "い",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 367000,
+        "sound_end": 368080
     },
     {
         "id": "Okinagusa-f000090",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3191,11 +3278,12 @@
             "よ",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 368080,
+        "sound_end": 369800
     },
     {
         "id": "Okinagusa-f000091",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3209,11 +3297,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 369800,
+        "sound_end": 371160
     },
     {
         "id": "Okinagusa-f000092",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3227,11 +3316,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 371160,
+        "sound_end": 372200
     },
     {
         "id": "Okinagusa-f000093",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3263,11 +3353,12 @@
             "たろう",
             "」"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 372200,
+        "sound_end": 376680
     },
     {
         "id": "Okinagusa-f000094",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3283,11 +3374,12 @@
             "うん",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 376680,
+        "sound_end": 377760
     },
     {
         "id": "Okinagusa-f000095",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3313,11 +3405,12 @@
             "ねえ",
             "」"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 377760,
+        "sound_end": 380180
     },
     {
         "id": "Okinagusa-f000096",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3333,11 +3426,12 @@
             "おい",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 382280,
+        "sound_end": 382600
     },
     {
         "id": "Okinagusa-f000097",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3351,11 +3445,12 @@
             "ごらん",
             "。"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 382600,
+        "sound_end": 383600
     },
     {
         "id": "Okinagusa-f000098",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3395,11 +3490,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 383600,
+        "sound_end": 387440
     },
     {
         "id": "Okinagusa-f000099",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3413,11 +3509,12 @@
             "あすこ",
             "。"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 387440,
+        "sound_end": 388614
     },
     {
         "id": "Okinagusa-f000100",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3431,11 +3528,12 @@
             "そら",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 388614,
+        "sound_end": 390633
     },
     {
         "id": "Okinagusa-f000101",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3463,11 +3561,12 @@
             "ねえ",
             "」"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 390633,
+        "sound_end": 394720
     },
     {
         "id": "Okinagusa-f000102",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3489,11 +3588,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 394720,
+        "sound_end": 395920
     },
     {
         "id": "Okinagusa-f000103",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3517,11 +3617,12 @@
             "早い",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 395920,
+        "sound_end": 398440
     },
     {
         "id": "Okinagusa-f000104",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3545,11 +3646,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 398440,
+        "sound_end": 400440
     },
     {
         "id": "Okinagusa-f000105",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3573,11 +3675,12 @@
             "た",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 400440,
+        "sound_end": 403840
     },
     {
         "id": "Okinagusa-f000106",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3591,11 +3694,12 @@
             "おや",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 403840,
+        "sound_end": 405000
     },
     {
         "id": "Okinagusa-f000107",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3619,11 +3723,12 @@
             "だろう",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 405000,
+        "sound_end": 406720
     },
     {
         "id": "Okinagusa-f000108",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3647,11 +3752,12 @@
             "た",
             "」"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 406720,
+        "sound_end": 408340
     },
     {
         "id": "Okinagusa-f000109",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3671,11 +3777,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 410440,
+        "sound_end": 411686
     },
     {
         "id": "Okinagusa-f000110",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3705,11 +3812,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 411686,
+        "sound_end": 414840
     },
     {
         "id": "Okinagusa-f000111",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3723,11 +3831,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 414840,
+        "sound_end": 415720
     },
     {
         "id": "Okinagusa-f000112",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3763,11 +3872,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 415720,
+        "sound_end": 420520
     },
     {
         "id": "Okinagusa-f000113",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3797,11 +3907,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 420520,
+        "sound_end": 423080
     },
     {
         "id": "Okinagusa-f000114",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3845,11 +3956,12 @@
             "か",
             "」"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 424680,
+        "sound_end": 431280
     },
     {
         "id": "Okinagusa-f000115",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3865,11 +3977,12 @@
             "いいや",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 431280,
+        "sound_end": 432480
     },
     {
         "id": "Okinagusa-f000116",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3901,11 +4014,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 432480,
+        "sound_end": 435440
     },
     {
         "id": "Okinagusa-f000117",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3919,11 +4033,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 435440,
+        "sound_end": 436360
     },
     {
         "id": "Okinagusa-f000118",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3953,11 +4068,12 @@
             "たろう",
             "。"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 436360,
+        "sound_end": 440018
     },
     {
         "id": "Okinagusa-f000119",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3977,11 +4093,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 440018,
+        "sound_end": 442760
     },
     {
         "id": "Okinagusa-f000120",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -3997,11 +4114,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 442760,
+        "sound_end": 443680
     },
     {
         "id": "Okinagusa-f000121",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4023,11 +4141,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 443680,
+        "sound_end": 445520
     },
     {
         "id": "Okinagusa-f000122",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4047,11 +4166,12 @@
             "ねえ",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 445520,
+        "sound_end": 447280
     },
     {
         "id": "Okinagusa-f000123",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4071,11 +4191,12 @@
             "ある",
             "」"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 447280,
+        "sound_end": 449445
     },
     {
         "id": "Okinagusa-f000124",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4097,11 +4218,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 449445,
+        "sound_end": 451040
     },
     {
         "id": "Okinagusa-f000125",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4117,11 +4239,12 @@
             "早い",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 451040,
+        "sound_end": 452320
     },
     {
         "id": "Okinagusa-f000126",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4139,11 +4262,12 @@
             "た",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 452320,
+        "sound_end": 453760
     },
     {
         "id": "Okinagusa-f000127",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4163,11 +4287,12 @@
             "だ",
             "」"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 453760,
+        "sound_end": 456600
     },
     {
         "id": "Okinagusa-f000128",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4193,11 +4318,12 @@
             "かかる",
             "。"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 456600,
+        "sound_end": 458694
     },
     {
         "id": "Okinagusa-f000129",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4215,11 +4341,12 @@
             "ぜ",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 458694,
+        "sound_end": 460794
     },
     {
         "id": "Okinagusa-f000130",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4237,11 +4364,12 @@
             "ねえ",
             "。"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 460794,
+        "sound_end": 462781
     },
     {
         "id": "Okinagusa-f000131",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4257,11 +4385,12 @@
             "奇麗",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 462781,
+        "sound_end": 465777
     },
     {
         "id": "Okinagusa-f000132",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4295,11 +4424,12 @@
             "だ",
             "」"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 465777,
+        "sound_end": 472599
     },
     {
         "id": "Okinagusa-f000133",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4393,11 +4523,12 @@
             "た",
             "。"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 472599,
+        "sound_end": 483440
     },
     {
         "id": "Okinagusa-f000134",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4415,11 +4546,12 @@
             "は",
             "、"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 487040,
+        "sound_end": 487560
     },
     {
         "id": "Okinagusa-f000135",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4447,11 +4579,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 487560,
+        "sound_end": 488880
     },
     {
         "id": "Okinagusa-f000136",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4467,11 +4600,12 @@
             "おや",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 488880,
+        "sound_end": 490480
     },
     {
         "id": "Okinagusa-f000137",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4487,11 +4621,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 490480,
+        "sound_end": 491840
     },
     {
         "id": "Okinagusa-f000138",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4505,11 +4640,12 @@
             "いらっしゃい",
             "。"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 491840,
+        "sound_end": 492320
     },
     {
         "id": "Okinagusa-f000139",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4541,11 +4677,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 492320,
+        "sound_end": 497788
     },
     {
         "id": "Okinagusa-f000140",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4561,11 +4698,12 @@
             "ええ",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 497788,
+        "sound_end": 499280
     },
     {
         "id": "Okinagusa-f000141",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4585,11 +4723,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 499280,
+        "sound_end": 501080
     },
     {
         "id": "Okinagusa-f000142",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4653,11 +4792,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 501080,
+        "sound_end": 508000
     },
     {
         "id": "Okinagusa-f000143",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4693,11 +4833,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 508000,
+        "sound_end": 512159
     },
     {
         "id": "Okinagusa-f000144",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4717,11 +4858,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 512159,
+        "sound_end": 514159
     },
     {
         "id": "Okinagusa-f000145",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4765,11 +4907,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 514159,
+        "sound_end": 520518
     },
     {
         "id": "Okinagusa-f000146",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4801,11 +4944,12 @@
             "なあ",
             "」"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 520518,
+        "sound_end": 523679
     },
     {
         "id": "Okinagusa-f000147",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4827,11 +4971,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 525980,
+        "sound_end": 527680
     },
     {
         "id": "Okinagusa-f000148",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4855,11 +5000,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 527680,
+        "sound_end": 530040
     },
     {
         "id": "Okinagusa-f000149",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4889,11 +5035,12 @@
             "ん",
             "」"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 530040,
+        "sound_end": 532800
     },
     {
         "id": "Okinagusa-f000150",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4919,11 +5066,12 @@
             "た",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 536400,
+        "sound_end": 539120
     },
     {
         "id": "Okinagusa-f000151",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -4969,11 +5117,12 @@
             "た",
             "。"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 539120,
+        "sound_end": 545000
     },
     {
         "id": "Okinagusa-f000152",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5017,11 +5166,12 @@
             "よう",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 545000,
+        "sound_end": 551194
     },
     {
         "id": "Okinagusa-f000153",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5063,11 +5213,12 @@
             "た",
             "。"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 551194,
+        "sound_end": 556812
     },
     {
         "id": "Okinagusa-f000154",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5099,11 +5250,12 @@
             "た",
             "。"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 556812,
+        "sound_end": 559340
     },
     {
         "id": "Okinagusa-f000155",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5167,11 +5319,12 @@
             "た",
             "。"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 561355,
+        "sound_end": 569740
     },
     {
         "id": "Okinagusa-f000156",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5205,11 +5358,12 @@
             "ひるがえし",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 569740,
+        "sound_end": 573640
     },
     {
         "id": "Okinagusa-f000157",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5245,11 +5399,12 @@
             "と",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 573640,
+        "sound_end": 577880
     },
     {
         "id": "Okinagusa-f000158",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5311,11 +5466,12 @@
             "た",
             "。"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 577880,
+        "sound_end": 584400
     },
     {
         "id": "Okinagusa-f000159",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5361,11 +5517,12 @@
             "た",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 586900,
+        "sound_end": 593854
     },
     {
         "id": "Okinagusa-f000160",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5383,11 +5540,12 @@
             "は",
             "。"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 593854,
+        "sound_end": 595560
     },
     {
         "id": "Okinagusa-f000161",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5407,11 +5565,12 @@
             "です",
             "。"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 595560,
+        "sound_end": 597884
     },
     {
         "id": "Okinagusa-f000162",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5427,11 +5586,12 @@
             "です",
             "。"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 597884,
+        "sound_end": 599320
     },
     {
         "id": "Okinagusa-f000163",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5451,11 +5611,12 @@
             "でしょう",
             "」"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 599320,
+        "sound_end": 602480
     },
     {
         "id": "Okinagusa-f000164",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5471,11 +5632,12 @@
             "ええ",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 602480,
+        "sound_end": 603640
     },
     {
         "id": "Okinagusa-f000165",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5505,11 +5667,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 603640,
+        "sound_end": 607040
     },
     {
         "id": "Okinagusa-f000166",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5555,11 +5718,12 @@
             "です",
             "」"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 607040,
+        "sound_end": 612680
     },
     {
         "id": "Okinagusa-f000167",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5577,11 +5741,12 @@
             "です",
             "。"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 612680,
+        "sound_end": 614204
     },
     {
         "id": "Okinagusa-f000168",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5609,11 +5774,12 @@
             "か",
             "」"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 614204,
+        "sound_end": 617480
     },
     {
         "id": "Okinagusa-f000169",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5639,11 +5805,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 617480,
+        "sound_end": 619605
     },
     {
         "id": "Okinagusa-f000170",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5675,11 +5842,12 @@
             "です",
             "」"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 619605,
+        "sound_end": 623000
     },
     {
         "id": "Okinagusa-f000171",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5705,11 +5873,12 @@
             "か",
             "」"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 625300,
+        "sound_end": 628536
     },
     {
         "id": "Okinagusa-f000172",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5725,11 +5894,12 @@
             "いいえ",
             "、"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 628536,
+        "sound_end": 630002
     },
     {
         "id": "Okinagusa-f000173",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5777,11 +5947,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 630002,
+        "sound_end": 635692
     },
     {
         "id": "Okinagusa-f000174",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5805,11 +5976,12 @@
             "たって",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 635692,
+        "sound_end": 638241
     },
     {
         "id": "Okinagusa-f000175",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5839,11 +6011,12 @@
             "たって",
             "、"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 638241,
+        "sound_end": 641360
     },
     {
         "id": "Okinagusa-f000176",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5877,11 +6050,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 641360,
+        "sound_end": 644600
     },
     {
         "id": "Okinagusa-f000177",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5899,11 +6073,12 @@
             "です",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 644600,
+        "sound_end": 645400
     },
     {
         "id": "Okinagusa-f000178",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5919,11 +6094,12 @@
             "です",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 645400,
+        "sound_end": 646960
     },
     {
         "id": "Okinagusa-f000179",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5951,11 +6127,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 646960,
+        "sound_end": 650720
     },
     {
         "id": "Okinagusa-f000180",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -5995,11 +6172,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 650720,
+        "sound_end": 655200
     },
     {
         "id": "Okinagusa-f000181",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6047,11 +6225,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 655200,
+        "sound_end": 662080
     },
     {
         "id": "Okinagusa-f000182",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6067,11 +6246,12 @@
             "ええ",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 662080,
+        "sound_end": 663320
     },
     {
         "id": "Okinagusa-f000183",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6085,11 +6265,12 @@
             "ありがとう",
             "。"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 663320,
+        "sound_end": 665497
     },
     {
         "id": "Okinagusa-f000184",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6103,11 +6284,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 665497,
+        "sound_end": 666560
     },
     {
         "id": "Okinagusa-f000185",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6133,11 +6315,12 @@
             "する",
             "。"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 666560,
+        "sound_end": 669250
     },
     {
         "id": "Okinagusa-f000186",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6159,11 +6342,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 669250,
+        "sound_end": 672440
     },
     {
         "id": "Okinagusa-f000187",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6179,11 +6363,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 672440,
+        "sound_end": 674160
     },
     {
         "id": "Okinagusa-f000188",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6197,11 +6382,12 @@
             "さよなら",
             "」"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 674160,
+        "sound_end": 676640
     },
     {
         "id": "Okinagusa-f000189",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6219,11 +6405,12 @@
             "も",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 676640,
+        "sound_end": 677920
     },
     {
         "id": "Okinagusa-f000190",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6239,11 +6426,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 677920,
+        "sound_end": 679400
     },
     {
         "id": "Okinagusa-f000191",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6257,11 +6445,12 @@
             "さよなら",
             "」"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 679400,
+        "sound_end": 681960
     },
     {
         "id": "Okinagusa-f000192",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6277,11 +6466,12 @@
             "じゃ",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 681960,
+        "sound_end": 682800
     },
     {
         "id": "Okinagusa-f000193",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6295,11 +6485,12 @@
             "さよなら",
             "、"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 682800,
+        "sound_end": 684520
     },
     {
         "id": "Okinagusa-f000194",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6323,11 +6514,12 @@
             "なさい",
             "」"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 684520,
+        "sound_end": 685960
     },
     {
         "id": "Okinagusa-f000195",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6363,11 +6555,12 @@
             "た",
             "。"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 689660,
+        "sound_end": 693200
     },
     {
         "id": "Okinagusa-f000196",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6391,11 +6584,12 @@
             "ひるがえし",
             "、"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 693200,
+        "sound_end": 696000
     },
     {
         "id": "Okinagusa-f000197",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6439,11 +6633,12 @@
             "た",
             "。"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 696000,
+        "sound_end": 702080
     },
     {
         "id": "Okinagusa-f000198",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6489,11 +6684,12 @@
             "た",
             "。"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 702080,
+        "sound_end": 708000
     },
     {
         "id": "Okinagusa-f000199",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6509,11 +6705,12 @@
             "さよなら",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 708000,
+        "sound_end": 708960
     },
     {
         "id": "Okinagusa-f000200",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6529,11 +6726,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 708960,
+        "sound_end": 710783
     },
     {
         "id": "Okinagusa-f000201",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6547,11 +6745,12 @@
             "さよなら",
             "、"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 710783,
+        "sound_end": 712000
     },
     {
         "id": "Okinagusa-f000202",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6567,11 +6766,12 @@
             "さん",
             "。"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 712000,
+        "sound_end": 714040
     },
     {
         "id": "Okinagusa-f000203",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6589,11 +6789,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 714040,
+        "sound_end": 715560
     },
     {
         "id": "Okinagusa-f000204",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6613,11 +6814,12 @@
             "た",
             "」"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 715560,
+        "sound_end": 717200
     },
     {
         "id": "Okinagusa-f000205",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6651,11 +6853,12 @@
             "に",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 720000,
+        "sound_end": 724220
     },
     {
         "id": "Okinagusa-f000206",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6699,11 +6902,12 @@
             "光り",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 724220,
+        "sound_end": 729960
     },
     {
         "id": "Okinagusa-f000207",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6741,11 +6945,12 @@
             "た",
             "。"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 729960,
+        "sound_end": 734680
     },
     {
         "id": "Okinagusa-f000208",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6805,11 +7010,12 @@
             "た",
             "。"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 734680,
+        "sound_end": 745477
     },
     {
         "id": "Okinagusa-f000209",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6829,11 +7035,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 745477,
+        "sound_end": 748603
     },
     {
         "id": "Okinagusa-f000210",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6891,11 +7098,12 @@
             "か",
             "、"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 748603,
+        "sound_end": 754920
     },
     {
         "id": "Okinagusa-f000211",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6925,11 +7133,12 @@
             "か",
             "。"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 754920,
+        "sound_end": 758160
     },
     {
         "id": "Okinagusa-f000212",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -6949,11 +7158,12 @@
             "に",
             "、"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 758160,
+        "sound_end": 759680
     },
     {
         "id": "Okinagusa-f000213",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7001,11 +7211,12 @@
             "です",
             "。"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 759680,
+        "sound_end": 765240
     },
     {
         "id": "Okinagusa-f000214",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7063,11 +7274,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 765240,
+        "sound_end": 774403
     },
     {
         "id": "Okinagusa-f000215",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7111,11 +7323,12 @@
             "か",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 774403,
+        "sound_end": 780320
     },
     {
         "id": "Okinagusa-f000216",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7159,11 +7372,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 780320,
+        "sound_end": 786160
     },
     {
         "id": "Okinagusa-f000217",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7207,11 +7421,12 @@
             "ず",
             "、"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 786160,
+        "sound_end": 792582
     },
     {
         "id": "Okinagusa-f000218",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Okinagusa",
         "deck_name_japanese": "おきなぐさ",
@@ -7253,6 +7468,8 @@
             "です",
             "。"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 792582,
+        "sound_end": 797760
     }
 ]

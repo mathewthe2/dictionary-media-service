@@ -1,0 +1,1360 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "宮沢賢治　作",
+        "sentence_with_furigana": "宮沢賢治　作",
+        "audio_begin": 2628,
+        "audio_end": 7361
+    },
+    {
+        "id": "f000002",
+        "sentence": "虔十公園林",
+        "sentence_with_furigana": "虔十公園林",
+        "audio_begin": 7361,
+        "audio_end": 12771
+    },
+    {
+        "id": "f000003",
+        "sentence": "虔十はいつも縄の帯をしめてわらって杜の中や畑の間をゆっくりあるいているのでした。",
+        "sentence_with_furigana": "虔十はいつも 縄[なわ]の帯をしめてわらって 杜[もり]の中や畑の間をゆっくりあるいているのでした。",
+        "audio_begin": 12771,
+        "audio_end": 23081
+    },
+    {
+        "id": "f000004",
+        "sentence": "雨の中の青い藪を見てはよろこんで目をパチパチさせ青ぞらをどこまでも翔けて行く鷹を見付けてははねあがって手をたたいてみんなに知らせました。",
+        "sentence_with_furigana": "雨の中の青い 藪[やぶ]を見てはよろこんで目をパチパチさせ青ぞらをどこまでも 翔[か]けて行く 鷹[たか]を見付けてははねあがって手をたたいてみんなに知らせました。",
+        "audio_begin": 23081,
+        "audio_end": 36680
+    },
+    {
+        "id": "f000005",
+        "sentence": "けれどもあんまり子供らが虔十をばかにして笑うものですから虔十はだんだん笑わないふりをするようになりました。",
+        "sentence_with_furigana": "けれどもあんまり子供らが虔十をばかにして笑うものですから虔十はだんだん笑わないふりをするようになりました。",
+        "audio_begin": 38380,
+        "audio_end": 48120
+    },
+    {
+        "id": "f000006",
+        "sentence": "風がどうと吹いてぶなの葉がチラチラ光るときなどは虔十はもううれしくてうれしくてひとりでに笑えて仕方ないのを、",
+        "sentence_with_furigana": "風がどうと 吹[ふ]いてぶなの葉がチラチラ光るときなどは虔十はもううれしくてうれしくてひとりでに笑えて仕方ないのを、",
+        "audio_begin": 50020,
+        "audio_end": 61840
+    },
+    {
+        "id": "f000007",
+        "sentence": "無理やり大きく口をあき、",
+        "sentence_with_furigana": "無理やり大きく口をあき、",
+        "audio_begin": 61840,
+        "audio_end": 64620
+    },
+    {
+        "id": "f000008",
+        "sentence": "はあはあ息だけついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立っているのでした。",
+        "sentence_with_furigana": "はあはあ息だけついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立っているのでした。",
+        "audio_begin": 64620,
+        "audio_end": 75279
+    },
+    {
+        "id": "f000009",
+        "sentence": "時にはその大きくあいた口の横わきをさも痒いようなふりをして指でこすりながらはあはあ息だけで笑いました。",
+        "sentence_with_furigana": "時にはその大きくあいた口の横わきをさも 痒[かゆ]いようなふりをして指でこすりながらはあはあ息だけで笑いました。",
+        "audio_begin": 75279,
+        "audio_end": 86400
+    },
+    {
+        "id": "f000010",
+        "sentence": "なるほど遠くから見ると虔十は口の横わきを掻いているか或いは欠伸でもしているかのように見えましたが近くではもちろん笑っている息の音も聞えましたし唇がピクピク動いているのもわかりましたから子供らはやっぱりそれもばかにして笑いました。",
+        "sentence_with_furigana": "なるほど遠くから見ると虔十は口の横わきを 掻[か]いているか 或[ある]いは 欠伸[あくび]でもしているかのように見えましたが近くではもちろん笑っている息の音も聞えましたし 唇[くちびる]がピクピク動いているのもわかりましたから子供らはやっぱりそれもばかにして笑いました。",
+        "audio_begin": 86400,
+        "audio_end": 111560
+    },
+    {
+        "id": "f000011",
+        "sentence": "おっかさんに云いつけられると虔十は水を五百杯でも汲みました。",
+        "sentence_with_furigana": "おっかさんに 云[い]いつけられると虔十は水を五百 杯[ぱい]でも 汲[く]みました。",
+        "audio_begin": 111560,
+        "audio_end": 117280
+    },
+    {
+        "id": "f000012",
+        "sentence": "一日一杯畑の草もとりました。",
+        "sentence_with_furigana": "一日一杯畑の草もとりました。",
+        "audio_begin": 117280,
+        "audio_end": 120200
+    },
+    {
+        "id": "f000013",
+        "sentence": "けれども虔十のおっかさんもおとうさんも仲々そんなことを虔十に云いつけようとはしませんでした。",
+        "sentence_with_furigana": "けれども虔十のおっかさんもおとうさんも仲々そんなことを虔十に云いつけようとはしませんでした。",
+        "audio_begin": 122000,
+        "audio_end": 131360
+    },
+    {
+        "id": "f000014",
+        "sentence": "さて、",
+        "sentence_with_furigana": "さて、",
+        "audio_begin": 134060,
+        "audio_end": 135134
+    },
+    {
+        "id": "f000015",
+        "sentence": "虔十の家のうしろに丁度大きな運動場ぐらいの野原がまだ畑にならないで残っていました。",
+        "sentence_with_furigana": "虔十の家のうしろに丁度大きな運動場ぐらいの野原がまだ畑にならないで残っていました。",
+        "audio_begin": 135134,
+        "audio_end": 145680
+    },
+    {
+        "id": "f000016",
+        "sentence": "ある年、",
+        "sentence_with_furigana": "ある年、",
+        "audio_begin": 145680,
+        "audio_end": 146320
+    },
+    {
+        "id": "f000017",
+        "sentence": "山がまだ雪でまっ白く野原には新らしい草も芽を出さない時、",
+        "sentence_with_furigana": "山がまだ雪でまっ白く野原には新らしい草も芽を出さない時、",
+        "audio_begin": 146320,
+        "audio_end": 153855
+    },
+    {
+        "id": "f000018",
+        "sentence": "虔十はいきなり田打ちをしていた家の人達の前に走って来て云いました。",
+        "sentence_with_furigana": "虔十はいきなり田打ちをしていた家の人 達[たち]の前に走って来て云いました。",
+        "audio_begin": 153855,
+        "audio_end": 160264
+    },
+    {
+        "id": "f000019",
+        "sentence": "「お母、",
+        "sentence_with_furigana": "「お 母[があ]、",
+        "audio_begin": 160264,
+        "audio_end": 161760
+    },
+    {
+        "id": "f000020",
+        "sentence": "おらさ杉苗七百本、",
+        "sentence_with_furigana": "おらさ 杉苗[すぎなえ]七百本、",
+        "audio_begin": 161760,
+        "audio_end": 163920
+    },
+    {
+        "id": "f000021",
+        "sentence": "買って呉ろ。」",
+        "sentence_with_furigana": "買って 呉[け]ろ。」",
+        "audio_begin": 163920,
+        "audio_end": 164840
+    },
+    {
+        "id": "f000022",
+        "sentence": "虔十のおっかさんはきらきらの三本鍬を動かすのをやめてじっと虔十の顔を見て云いました。",
+        "sentence_with_furigana": "虔十のおっかさんはきらきらの 三本鍬[さんぼんぐわ]を動かすのをやめてじっと虔十の顔を見て云いました。",
+        "audio_begin": 166540,
+        "audio_end": 176320
+    },
+    {
+        "id": "f000023",
+        "sentence": "「杉苗七百ど、",
+        "sentence_with_furigana": "「杉苗七百ど、",
+        "audio_begin": 176320,
+        "audio_end": 179520
+    },
+    {
+        "id": "f000024",
+        "sentence": "どごさ植ぇらぃ。」",
+        "sentence_with_furigana": "どごさ植ぇらぃ。」",
+        "audio_begin": 179520,
+        "audio_end": 182040
+    },
+    {
+        "id": "f000025",
+        "sentence": "「家のうしろの野原さ。」",
+        "sentence_with_furigana": "「家のうしろの野原さ。」",
+        "audio_begin": 182040,
+        "audio_end": 185640
+    },
+    {
+        "id": "f000026",
+        "sentence": "そのとき虔十の兄さんが云いました。",
+        "sentence_with_furigana": "そのとき虔十の兄さんが云いました。",
+        "audio_begin": 185640,
+        "audio_end": 188600
+    },
+    {
+        "id": "f000027",
+        "sentence": "「虔十、",
+        "sentence_with_furigana": "「虔十、",
+        "audio_begin": 188600,
+        "audio_end": 191720
+    },
+    {
+        "id": "f000028",
+        "sentence": "あそごは杉植ぇでも成長らなぃ処だ。",
+        "sentence_with_furigana": "あそごは杉植ぇでも 成長[おが]らなぃ 処[ところ]だ。",
+        "audio_begin": 191720,
+        "audio_end": 195920
+    },
+    {
+        "id": "f000029",
+        "sentence": "それより少し田でも打って助けろ。」",
+        "sentence_with_furigana": "それより少し田でも打って 助[す]けろ。」",
+        "audio_begin": 195920,
+        "audio_end": 198240
+    },
+    {
+        "id": "f000030",
+        "sentence": "虔十はきまり悪そうにもじもじして下を向いてしまいました。",
+        "sentence_with_furigana": "虔十はきまり悪そうにもじもじして下を向いてしまいました。",
+        "audio_begin": 200040,
+        "audio_end": 206920
+    },
+    {
+        "id": "f000031",
+        "sentence": "すると虔十のお父さんが向うで汗を拭きながらからだを延ばして",
+        "sentence_with_furigana": "すると虔十のお父さんが向うで 汗[あせ]を 拭[ふ]きながらからだを延ばして",
+        "audio_begin": 206920,
+        "audio_end": 214065
+    },
+    {
+        "id": "f000032",
+        "sentence": "「買ってやれ、",
+        "sentence_with_furigana": "「買ってやれ、",
+        "audio_begin": 214065,
+        "audio_end": 216108
+    },
+    {
+        "id": "f000033",
+        "sentence": "買ってやれ。",
+        "sentence_with_furigana": "買ってやれ。",
+        "audio_begin": 216108,
+        "audio_end": 217966
+    },
+    {
+        "id": "f000034",
+        "sentence": "虔十ぁ今まで何一つだて頼んだごとぁ無ぃがったもの。",
+        "sentence_with_furigana": "虔十ぁ今まで何一つだて 頼[たの]んだごとぁ無ぃがったもの。",
+        "audio_begin": 217966,
+        "audio_end": 222923
+    },
+    {
+        "id": "f000035",
+        "sentence": "買ってやれ。",
+        "sentence_with_furigana": "買ってやれ。",
+        "audio_begin": 222923,
+        "audio_end": 225361
+    },
+    {
+        "id": "f000036",
+        "sentence": "」と云いましたので虔十のお母さんも安心したように笑いました。",
+        "sentence_with_furigana": "」と云いましたので虔十のお母さんも安心したように笑いました。",
+        "audio_begin": 225361,
+        "audio_end": 232977
+    },
+    {
+        "id": "f000037",
+        "sentence": "虔十はまるでよろこんですぐにまっすぐに家の方へ走りました。",
+        "sentence_with_furigana": "虔十はまるでよろこんですぐにまっすぐに家の方へ走りました。",
+        "audio_begin": 232977,
+        "audio_end": 239607
+    },
+    {
+        "id": "f000038",
+        "sentence": "そして納屋から唐鍬を持ち出してぽくりぽくりと芝を起して杉苗を植える穴を掘りはじめました。",
+        "sentence_with_furigana": "そして 納屋[なや]から 唐鍬[とうぐわ]を持ち出してぽくりぽくりと 芝[しば]を起して杉苗を植える穴を 掘[ほ]りはじめました。",
+        "audio_begin": 239607,
+        "audio_end": 249360
+    },
+    {
+        "id": "f000039",
+        "sentence": "虔十の兄さんがあとを追って来てそれを見て云いました。",
+        "sentence_with_furigana": "虔十の兄さんがあとを追って来てそれを見て云いました。",
+        "audio_begin": 251060,
+        "audio_end": 256673
+    },
+    {
+        "id": "f000040",
+        "sentence": "「虔十、",
+        "sentence_with_furigana": "「 虔十[けんじゅう]、",
+        "audio_begin": 256673,
+        "audio_end": 258920
+    },
+    {
+        "id": "f000041",
+        "sentence": "杉ぁ植える時、",
+        "sentence_with_furigana": "杉ぁ植える時、",
+        "audio_begin": 258920,
+        "audio_end": 260341
+    },
+    {
+        "id": "f000042",
+        "sentence": "掘らなぃばわがなぃんだじゃ。",
+        "sentence_with_furigana": "掘らなぃばわがなぃんだじゃ。",
+        "audio_begin": 260341,
+        "audio_end": 262880
+    },
+    {
+        "id": "f000043",
+        "sentence": "明日まで待て。",
+        "sentence_with_furigana": "明日まで待て。",
+        "audio_begin": 262880,
+        "audio_end": 265920
+    },
+    {
+        "id": "f000044",
+        "sentence": "おれ、",
+        "sentence_with_furigana": "おれ、",
+        "audio_begin": 265920,
+        "audio_end": 267000
+    },
+    {
+        "id": "f000045",
+        "sentence": "苗買って来てやるがら。」",
+        "sentence_with_furigana": "苗買って来てやるがら。」",
+        "audio_begin": 267000,
+        "audio_end": 268800
+    },
+    {
+        "id": "f000046",
+        "sentence": "虔十はきまり悪そうに鍬を置きました。",
+        "sentence_with_furigana": "虔十はきまり悪そうに鍬を置きました。",
+        "audio_begin": 270500,
+        "audio_end": 274440
+    },
+    {
+        "id": "f000047",
+        "sentence": "次の日、",
+        "sentence_with_furigana": "次の日、",
+        "audio_begin": 276840,
+        "audio_end": 278800
+    },
+    {
+        "id": "f000048",
+        "sentence": "空はよく晴れて山の雪はまっ白に光りひばりは高く高くのぼってチーチクチーチクやりました。",
+        "sentence_with_furigana": "空はよく晴れて山の雪はまっ白に光りひばりは高く高くのぼってチーチクチーチクやりました。",
+        "audio_begin": 278800,
+        "audio_end": 290080
+    },
+    {
+        "id": "f000049",
+        "sentence": "そして虔十はまるでこらえ切れないようににこにこ笑って兄さんに教えられたように今度は北の方の堺から杉苗の穴を掘りはじめました。",
+        "sentence_with_furigana": "そして虔十はまるでこらえ切れないようににこにこ笑って兄さんに教えられたように今度は北の方の 堺[さかい]から杉苗の穴を掘りはじめました。",
+        "audio_begin": 290080,
+        "audio_end": 304054
+    },
+    {
+        "id": "f000050",
+        "sentence": "実にまっすぐに実に間隔正しくそれを掘ったのでした。",
+        "sentence_with_furigana": "実にまっすぐに実に 間隔[かんかく]正しくそれを掘ったのでした。",
+        "audio_begin": 304054,
+        "audio_end": 309920
+    },
+    {
+        "id": "f000051",
+        "sentence": "虔十の兄さんがそこへ一本ずつ苗を植えて行きました。",
+        "sentence_with_furigana": "虔十の兄さんがそこへ一本ずつ苗を植えて行きました。",
+        "audio_begin": 311720,
+        "audio_end": 318473
+    },
+    {
+        "id": "f000052",
+        "sentence": "その時野原の北側に畑を有っている平二がきせるをくわえてふところ手をして寒そうに肩をすぼめてやって来ました。",
+        "sentence_with_furigana": "その時野原の北側に畑を 有[も]っている平二がきせるをくわえてふところ手をして寒そうに 肩[かた]をすぼめてやって来ました。",
+        "audio_begin": 318473,
+        "audio_end": 331640
+    },
+    {
+        "id": "f000053",
+        "sentence": "平二は百姓も少しはしていましたが実はもっと別の、",
+        "sentence_with_furigana": "平二は 百姓[ひゃくしょう]も少しはしていましたが実はもっと別の、",
+        "audio_begin": 331640,
+        "audio_end": 337839
+    },
+    {
+        "id": "f000054",
+        "sentence": "人にいやがられるようなことも仕事にしていました。",
+        "sentence_with_furigana": "人にいやがられるようなことも仕事にしていました。",
+        "audio_begin": 337839,
+        "audio_end": 342959
+    },
+    {
+        "id": "f000055",
+        "sentence": "平二は虔十に云いました。",
+        "sentence_with_furigana": "平二は虔十に云いました。",
+        "audio_begin": 342959,
+        "audio_end": 346160
+    },
+    {
+        "id": "f000056",
+        "sentence": "「やぃ。",
+        "sentence_with_furigana": "「やぃ。",
+        "audio_begin": 346160,
+        "audio_end": 346640
+    },
+    {
+        "id": "f000057",
+        "sentence": "虔十、",
+        "sentence_with_furigana": "虔十、",
+        "audio_begin": 346640,
+        "audio_end": 347974
+    },
+    {
+        "id": "f000058",
+        "sentence": "此処さ杉植えるなんてやっぱり馬鹿だな。",
+        "sentence_with_furigana": "此処[ここ]さ杉植えるなんてやっぱり 馬鹿[ばか]だな。",
+        "audio_begin": 347974,
+        "audio_end": 352827
+    },
+    {
+        "id": "f000059",
+        "sentence": "第一おらの畑ぁ日影にならな。」",
+        "sentence_with_furigana": "第一おらの畑ぁ 日影[ひかげ]にならな。」",
+        "audio_begin": 352827,
+        "audio_end": 356891
+    },
+    {
+        "id": "f000060",
+        "sentence": "虔十は顔を赤くして何か云いたそうにしましたが云えないでもじもじしました。",
+        "sentence_with_furigana": "虔十は顔を赤くして何か云いたそうにしましたが云えないでもじもじしました。",
+        "audio_begin": 356891,
+        "audio_end": 365400
+    },
+    {
+        "id": "f000061",
+        "sentence": "すると虔十の兄さんが、",
+        "sentence_with_furigana": "すると虔十の兄さんが、",
+        "audio_begin": 365400,
+        "audio_end": 368640
+    },
+    {
+        "id": "f000062",
+        "sentence": "「平二さん、",
+        "sentence_with_furigana": "「平二さん、",
+        "audio_begin": 368640,
+        "audio_end": 370440
+    },
+    {
+        "id": "f000063",
+        "sentence": "お早うがす。",
+        "sentence_with_furigana": "お早うがす。",
+        "audio_begin": 370440,
+        "audio_end": 372762
+    },
+    {
+        "id": "f000064",
+        "sentence": "」と云って向うに立ちあがりましたので平二はぶつぶつ云いながら又のっそりと向うへ行ってしまいました。",
+        "sentence_with_furigana": "」と云って向うに立ちあがりましたので平二はぶつぶつ云いながら 又[また]のっそりと向うへ行ってしまいました。",
+        "audio_begin": 372762,
+        "audio_end": 381200
+    },
+    {
+        "id": "f000065",
+        "sentence": "その芝原へ杉を植えることを嘲笑ったものは決して平二だけではありませんでした。",
+        "sentence_with_furigana": "その芝原へ杉を植えることを 嘲笑[わら]ったものは決して平二だけではありませんでした。",
+        "audio_begin": 383400,
+        "audio_end": 391000
+    },
+    {
+        "id": "f000066",
+        "sentence": "あんな処に杉など育つものでもない、",
+        "sentence_with_furigana": "あんな処に杉など育つものでもない、",
+        "audio_begin": 391000,
+        "audio_end": 395240
+    },
+    {
+        "id": "f000067",
+        "sentence": "底は硬い粘土なんだ、",
+        "sentence_with_furigana": "底は 硬[かた]い 粘土[ねんど]なんだ、",
+        "audio_begin": 395240,
+        "audio_end": 398120
+    },
+    {
+        "id": "f000068",
+        "sentence": "やっぱり馬鹿は馬鹿だとみんなが云って居りました。",
+        "sentence_with_furigana": "やっぱり馬鹿は馬鹿だとみんなが云って 居[お]りました。",
+        "audio_begin": 398120,
+        "audio_end": 404440
+    },
+    {
+        "id": "f000069",
+        "sentence": "それは全くその通りでした。",
+        "sentence_with_furigana": "それは全くその通りでした。",
+        "audio_begin": 404440,
+        "audio_end": 408240
+    },
+    {
+        "id": "f000070",
+        "sentence": "杉は五年までは緑いろの心がまっすぐに空の方へ延びて行きましたがもうそれからはだんだん頭が円く変って七年目も八年目もやっぱり丈が九尺ぐらいでした。",
+        "sentence_with_furigana": "杉は五年までは緑いろの 心[しん]がまっすぐに空の方へ延びて行きましたがもうそれからはだんだん頭が円く変って七年目も八年目もやっぱり 丈[たけ]が九尺ぐらいでした。",
+        "audio_begin": 408240,
+        "audio_end": 425560
+    },
+    {
+        "id": "f000071",
+        "sentence": "ある朝虔十が林の前に立っていますとひとりの百姓が冗談に云いました。",
+        "sentence_with_furigana": "ある朝虔十が林の前に立っていますとひとりの百姓が 冗談[じょうだん]に云いました。",
+        "audio_begin": 425560,
+        "audio_end": 433440
+    },
+    {
+        "id": "f000072",
+        "sentence": "「おおい、",
+        "sentence_with_furigana": "「おおい、",
+        "audio_begin": 433440,
+        "audio_end": 433920
+    },
+    {
+        "id": "f000073",
+        "sentence": "虔十。",
+        "sentence_with_furigana": "虔十。",
+        "audio_begin": 433920,
+        "audio_end": 435560
+    },
+    {
+        "id": "f000074",
+        "sentence": "あの杉ぁ枝打ぢさなぃのか。」",
+        "sentence_with_furigana": "あの杉ぁ 枝打[えだう]ぢさなぃのか。」",
+        "audio_begin": 435560,
+        "audio_end": 440120
+    },
+    {
+        "id": "f000075",
+        "sentence": "「枝打ぢていうのは何だぃ。」",
+        "sentence_with_furigana": "「枝打ぢていうのは何だぃ。」",
+        "audio_begin": 440120,
+        "audio_end": 445200
+    },
+    {
+        "id": "f000076",
+        "sentence": "「枝打ぢつのは下の方の枝山刀で落すのさ。」",
+        "sentence_with_furigana": "「枝打ぢつのは下の方の枝山刀で落すのさ。」",
+        "audio_begin": 445200,
+        "audio_end": 452162
+    },
+    {
+        "id": "f000077",
+        "sentence": "「おらも枝打ぢするべがな。」",
+        "sentence_with_furigana": "「おらも枝打ぢするべがな。」",
+        "audio_begin": 452162,
+        "audio_end": 455668
+    },
+    {
+        "id": "f000078",
+        "sentence": "虔十は走って行って山刀を持って来ました。",
+        "sentence_with_furigana": "虔十は走って行って山刀を持って来ました。",
+        "audio_begin": 457240,
+        "audio_end": 460800
+    },
+    {
+        "id": "f000079",
+        "sentence": "そして片っぱしからぱちぱち杉の下枝を払いはじめました。",
+        "sentence_with_furigana": "そして片っぱしからぱちぱち杉の下枝を 払[はら]いはじめました。",
+        "audio_begin": 460800,
+        "audio_end": 466396
+    },
+    {
+        "id": "f000080",
+        "sentence": "ところがただ九尺の杉ですから虔十は少しからだをまげて杉の木の下にくぐらなければなりませんでした。",
+        "sentence_with_furigana": "ところがただ九尺の杉ですから虔十は少しからだをまげて杉の木の下にくぐらなければなりませんでした。",
+        "audio_begin": 466396,
+        "audio_end": 477542
+    },
+    {
+        "id": "f000081",
+        "sentence": "夕方になったときはどの木も上の方の枝をただ三四本ぐらいずつ残してあとはすっかり払い落されていました。",
+        "sentence_with_furigana": "夕方になったときはどの木も上の方の枝をただ三四本ぐらいずつ残してあとはすっかり払い落されていました。",
+        "audio_begin": 477542,
+        "audio_end": 488040
+    },
+    {
+        "id": "f000082",
+        "sentence": "濃い緑いろの枝はいちめんに下草を埋めその小さな林はあかるくがらんとなってしまいました。",
+        "sentence_with_furigana": "濃[こ]い緑いろの枝はいちめんに下草を 埋[う]めその小さな林はあかるくがらんとなってしまいました。",
+        "audio_begin": 489740,
+        "audio_end": 500576
+    },
+    {
+        "id": "f000083",
+        "sentence": "虔十は一ぺんにあんまりがらんとなったのでなんだか気持ちが悪くて胸が痛いように思いました。",
+        "sentence_with_furigana": "虔十は一ぺんにあんまりがらんとなったのでなんだか気持ちが悪くて胸が痛いように思いました。",
+        "audio_begin": 500576,
+        "audio_end": 511320
+    },
+    {
+        "id": "f000084",
+        "sentence": "そこへ丁度虔十の兄さんが畑から帰ってやって来ましたが林を見て思わず笑いました。",
+        "sentence_with_furigana": "そこへ丁度虔十の兄さんが畑から帰ってやって来ましたが林を見て思わず笑いました。",
+        "audio_begin": 511320,
+        "audio_end": 520520
+    },
+    {
+        "id": "f000085",
+        "sentence": "そしてぼんやり立っている虔十にきげんよく云いました。",
+        "sentence_with_furigana": "そしてぼんやり立っている虔十にきげんよく云いました。",
+        "audio_begin": 520520,
+        "audio_end": 525897
+    },
+    {
+        "id": "f000086",
+        "sentence": "「おう、",
+        "sentence_with_furigana": "「おう、",
+        "audio_begin": 525897,
+        "audio_end": 527200
+    },
+    {
+        "id": "f000087",
+        "sentence": "枝集めべ、",
+        "sentence_with_furigana": "枝集めべ、",
+        "audio_begin": 527200,
+        "audio_end": 529400
+    },
+    {
+        "id": "f000088",
+        "sentence": "いい焚ぎものうんと出来だ。",
+        "sentence_with_furigana": "いい 焚[た]ぎものうんと出来だ。",
+        "audio_begin": 529400,
+        "audio_end": 532503
+    },
+    {
+        "id": "f000089",
+        "sentence": "林も立派になったな。」",
+        "sentence_with_furigana": "林も立派になったな。」",
+        "audio_begin": 532503,
+        "audio_end": 536311
+    },
+    {
+        "id": "f000090",
+        "sentence": "そこで虔十もやっと安心して兄さんと一緒に杉の木の下にくぐって落した枝をすっかり集めました。",
+        "sentence_with_furigana": "そこで虔十もやっと安心して兄さんと 一緒[いっしょ]に杉の木の下にくぐって落した枝をすっかり集めました。",
+        "audio_begin": 536311,
+        "audio_end": 548160
+    },
+    {
+        "id": "f000091",
+        "sentence": "下草はみじかくて奇麗でまるで仙人たちが碁でもうつ処のように見えました。",
+        "sentence_with_furigana": "下草はみじかくて 奇麗[きれい]でまるで 仙人[せんにん]たちが 碁[ご]でもうつ処のように見えました。",
+        "audio_begin": 548160,
+        "audio_end": 558068
+    },
+    {
+        "id": "f000092",
+        "sentence": "ところが次の日虔十は納屋で虫喰い大豆を拾っていましたら林の方でそれはそれは大さわぎが聞えました。",
+        "sentence_with_furigana": "ところが次の日虔十は納屋で 虫喰[むしく]い 大豆[まめ]を拾っていましたら林の方でそれはそれは大さわぎが聞えました。",
+        "audio_begin": 558068,
+        "audio_end": 569493
+    },
+    {
+        "id": "f000093",
+        "sentence": "あっちでもこっちでも号令をかける声ラッパのまね、",
+        "sentence_with_furigana": "あっちでもこっちでも号令をかける声ラッパのまね、",
+        "audio_begin": 569493,
+        "audio_end": 575205
+    },
+    {
+        "id": "f000094",
+        "sentence": "足ぶみの音それからまるでそこら中の鳥も飛びあがるようなどっと起るわらい声、",
+        "sentence_with_furigana": "足ぶみの音それからまるでそこら中の鳥も飛びあがるようなどっと起るわらい声、",
+        "audio_begin": 575205,
+        "audio_end": 584075
+    },
+    {
+        "id": "f000095",
+        "sentence": "虔十はびっくりしてそっちへ行って見ました。",
+        "sentence_with_furigana": "虔十はびっくりしてそっちへ行って見ました。",
+        "audio_begin": 584075,
+        "audio_end": 587040
+    },
+    {
+        "id": "f000096",
+        "sentence": "すると愕ろいたことは学校帰りの子供らが五十人も集って一列になって歩調をそろえてその杉の木の間を行進しているのでした。",
+        "sentence_with_furigana": "すると 愕[おど]ろいたことは学校帰りの子供らが五十人も集って一列になって歩調をそろえてその杉の木の間を行進しているのでした。",
+        "audio_begin": 589044,
+        "audio_end": 603719
+    },
+    {
+        "id": "f000097",
+        "sentence": "全く杉の列はどこを通っても並木道のようでした。",
+        "sentence_with_furigana": "全く杉の列はどこを通っても 並木道[なみきみち]のようでした。",
+        "audio_begin": 603719,
+        "audio_end": 609245
+    },
+    {
+        "id": "f000098",
+        "sentence": "それに青い服を着たような杉の木の方も列を組んであるいているように見えるのですから子供らのよろこび加減と云ったらとてもありません、",
+        "sentence_with_furigana": "それに青い服を着たような杉の木の方も列を組んであるいているように見えるのですから子供らのよろこび加減と云ったらとてもありません、",
+        "audio_begin": 609245,
+        "audio_end": 621680
+    },
+    {
+        "id": "f000099",
+        "sentence": "みんな顔をまっ赤にしてもずのように叫んで杉の列の間を歩いているのでした。",
+        "sentence_with_furigana": "みんな顔をまっ赤にしてもずのように 叫[さけ]んで杉の列の間を歩いているのでした。",
+        "audio_begin": 621680,
+        "audio_end": 630400
+    },
+    {
+        "id": "f000100",
+        "sentence": "その杉の列には、",
+        "sentence_with_furigana": "その杉の列には、",
+        "audio_begin": 630400,
+        "audio_end": 632976
+    },
+    {
+        "id": "f000101",
+        "sentence": "東京街道ロシヤ街道それから西洋街道というようにずんずん名前がついて行きました。",
+        "sentence_with_furigana": "東京 街道[かいどう]ロシヤ街道それから西洋街道というようにずんずん名前がついて行きました。",
+        "audio_begin": 632976,
+        "audio_end": 644586
+    },
+    {
+        "id": "f000102",
+        "sentence": "虔十もよろこんで杉のこっちにかくれながら口を大きくあいてはあはあ笑いました。",
+        "sentence_with_furigana": "虔十もよろこんで杉のこっちにかくれながら口を大きくあいてはあはあ笑いました。",
+        "audio_begin": 644586,
+        "audio_end": 652680
+    },
+    {
+        "id": "f000103",
+        "sentence": "それからはもう毎日毎日子供らが集まりました。",
+        "sentence_with_furigana": "それからはもう毎日毎日子供らが集まりました。",
+        "audio_begin": 654380,
+        "audio_end": 661954
+    },
+    {
+        "id": "f000104",
+        "sentence": "ただ子供らの来ないのは雨の日でした。",
+        "sentence_with_furigana": "ただ子供らの来ないのは雨の日でした。",
+        "audio_begin": 661954,
+        "audio_end": 667440
+    },
+    {
+        "id": "f000105",
+        "sentence": "その日はまっ白なやわらかな空からあめのさらさらと降る中で虔十がただ一人からだ中ずぶぬれになって林の外に立っていました。",
+        "sentence_with_furigana": "その日はまっ白なやわらかな空からあめのさらさらと降る中で虔十がただ一人からだ中ずぶぬれになって林の外に立っていました。",
+        "audio_begin": 667440,
+        "audio_end": 680960
+    },
+    {
+        "id": "f000106",
+        "sentence": "「虔十さん。",
+        "sentence_with_furigana": "「虔十さん。",
+        "audio_begin": 682960,
+        "audio_end": 685163
+    },
+    {
+        "id": "f000107",
+        "sentence": "今日も林の立番だなす。」",
+        "sentence_with_furigana": "今日も林の立番だなす。」",
+        "audio_begin": 685163,
+        "audio_end": 689240
+    },
+    {
+        "id": "f000108",
+        "sentence": "簑を着て通りかかる人が笑って云いました。",
+        "sentence_with_furigana": "簑[みの]を着て通りかかる人が笑って云いました。",
+        "audio_begin": 689240,
+        "audio_end": 693534
+    },
+    {
+        "id": "f000109",
+        "sentence": "その杉には鳶色の実がなり立派な緑の枝さきからはすきとおったつめたい雨のしずくがポタリポタリと垂れました。",
+        "sentence_with_furigana": "その杉には 鳶色[とびいろ]の実がなり立派な緑の枝さきからはすきとおったつめたい雨のしずくがポタリポタリと垂れました。",
+        "audio_begin": 693534,
+        "audio_end": 707744
+    },
+    {
+        "id": "f000110",
+        "sentence": "虔十は口を大きくあけてはあはあ息をつきからだからは雨の中に湯気を立てながらいつまでもいつまでもそこに立っているのでした。",
+        "sentence_with_furigana": "虔十は口を大きくあけてはあはあ息をつきからだからは雨の中に湯気を立てながらいつまでもいつまでもそこに立っているのでした。",
+        "audio_begin": 707744,
+        "audio_end": 725299
+    },
+    {
+        "id": "f000111",
+        "sentence": "ところがある霧のふかい朝でした。",
+        "sentence_with_furigana": "ところがある 霧[きり]のふかい朝でした。",
+        "audio_begin": 725299,
+        "audio_end": 729432
+    },
+    {
+        "id": "f000112",
+        "sentence": "虔十は萱場で平二といきなり行き会いました。",
+        "sentence_with_furigana": "虔十は 萱場[かやば]で平二といきなり行き会いました。",
+        "audio_begin": 729432,
+        "audio_end": 734480
+    },
+    {
+        "id": "f000113",
+        "sentence": "平二はまわりをよく見まわしてからまるで狼のようないやな顔をしてどなりました。",
+        "sentence_with_furigana": "平二はまわりをよく見まわしてからまるで 狼[おおかみ]のようないやな顔をしてどなりました。",
+        "audio_begin": 734480,
+        "audio_end": 741280
+    },
+    {
+        "id": "f000114",
+        "sentence": "「虔十、",
+        "sentence_with_furigana": "「虔十、",
+        "audio_begin": 742980,
+        "audio_end": 744414
+    },
+    {
+        "id": "f000115",
+        "sentence": "貴さんどごの杉伐れ。」",
+        "sentence_with_furigana": "貴[き]さんどごの杉 伐[き]れ。」",
+        "audio_begin": 744414,
+        "audio_end": 748000
+    },
+    {
+        "id": "f000116",
+        "sentence": "「何してな。」",
+        "sentence_with_furigana": "「 何[な]してな。」",
+        "audio_begin": 748000,
+        "audio_end": 750520
+    },
+    {
+        "id": "f000117",
+        "sentence": "「おらの畑ぁ日かげにならな。」",
+        "sentence_with_furigana": "「おらの畑ぁ日かげにならな。」",
+        "audio_begin": 750520,
+        "audio_end": 753160
+    },
+    {
+        "id": "f000118",
+        "sentence": "虔十はだまって下を向きました。",
+        "sentence_with_furigana": "虔十はだまって下を向きました。",
+        "audio_begin": 754960,
+        "audio_end": 758560
+    },
+    {
+        "id": "f000119",
+        "sentence": "平二の畑が日かげになると云ったって杉の影がたかで五寸もはいってはいなかったのです。",
+        "sentence_with_furigana": "平二の畑が日かげになると云ったって杉の影がたかで五寸もはいってはいなかったのです。",
+        "audio_begin": 758560,
+        "audio_end": 766680
+    },
+    {
+        "id": "f000120",
+        "sentence": "おまけに杉はとにかく南から来る強い風を防いでいるのでした。",
+        "sentence_with_furigana": "おまけに杉はとにかく南から来る強い風を防いでいるのでした。",
+        "audio_begin": 766680,
+        "audio_end": 773108
+    },
+    {
+        "id": "f000121",
+        "sentence": "「伐れ、",
+        "sentence_with_furigana": "「伐れ、",
+        "audio_begin": 773108,
+        "audio_end": 773920
+    },
+    {
+        "id": "f000122",
+        "sentence": "伐れ。",
+        "sentence_with_furigana": "伐れ。",
+        "audio_begin": 773920,
+        "audio_end": 775120
+    },
+    {
+        "id": "f000123",
+        "sentence": "伐らなぃが。」",
+        "sentence_with_furigana": "伐らなぃが。」",
+        "audio_begin": 775120,
+        "audio_end": 777172
+    },
+    {
+        "id": "f000124",
+        "sentence": "「伐らなぃ。",
+        "sentence_with_furigana": "「伐らなぃ。",
+        "audio_begin": 779981,
+        "audio_end": 783070
+    },
+    {
+        "id": "f000125",
+        "sentence": "」虔十が顔をあげて少し怖そうに云いました。",
+        "sentence_with_furigana": "」虔十が顔をあげて少し 怖[こわ]そうに云いました。",
+        "audio_begin": 783070,
+        "audio_end": 788880
+    },
+    {
+        "id": "f000126",
+        "sentence": "その唇はいまにも泣き出しそうにひきつっていました。",
+        "sentence_with_furigana": "その 唇[くちびる]はいまにも泣き出しそうにひきつっていました。",
+        "audio_begin": 788880,
+        "audio_end": 794889
+    },
+    {
+        "id": "f000127",
+        "sentence": "実にこれが虔十の一生の間のたった一つの人に対する逆らいの言だったのです。",
+        "sentence_with_furigana": "実にこれが虔十の一生の間のたった一つの人に対する逆らいの 言[ことば]だったのです。",
+        "audio_begin": 794889,
+        "audio_end": 803560
+    },
+    {
+        "id": "f000128",
+        "sentence": "ところが平二は人のいい虔十などにばかにされたと思ったので急に怒り出して肩を張ったと思うといきなり虔十の頬をなぐりつけました。",
+        "sentence_with_furigana": "ところが平二は人のいい虔十などにばかにされたと思ったので急に 怒[おこ]り出して肩を張ったと思うといきなり虔十の 頬[ほお]をなぐりつけました。",
+        "audio_begin": 805460,
+        "audio_end": 817551
+    },
+    {
+        "id": "f000129",
+        "sentence": "どしりどしりとなぐりつけました。",
+        "sentence_with_furigana": "どしりどしりとなぐりつけました。",
+        "audio_begin": 817551,
+        "audio_end": 821336
+    },
+    {
+        "id": "f000130",
+        "sentence": "虔十は手を頬にあてながら黙ってなぐられていましたがとうとうまわりがみんなまっ青に見えてよろよろしてしまいました。",
+        "sentence_with_furigana": "虔十は手を頬にあてながら 黙[だま]ってなぐられていましたがとうとうまわりがみんなまっ青に見えてよろよろしてしまいました。",
+        "audio_begin": 821336,
+        "audio_end": 832320
+    },
+    {
+        "id": "f000131",
+        "sentence": "すると平二も少し気味が悪くなったと見えて急いで腕を組んでのしりのしりと霧の中へ歩いて行ってしまいました。",
+        "sentence_with_furigana": "すると平二も少し気味が悪くなったと見えて急いで 腕[うで]を組んでのしりのしりと霧の中へ歩いて行ってしまいました。",
+        "audio_begin": 832320,
+        "audio_end": 843060
+    },
+    {
+        "id": "f000132",
+        "sentence": "さて虔十はその秋チブスにかかって死にました。",
+        "sentence_with_furigana": "さて虔十はその秋チブスにかかって死にました。",
+        "audio_begin": 845160,
+        "audio_end": 851280
+    },
+    {
+        "id": "f000133",
+        "sentence": "平二も丁度その十日ばかり前にやっぱりその病気で死んでいました。",
+        "sentence_with_furigana": "平二も丁度その十日ばかり前にやっぱりその病気で死んでいました。",
+        "audio_begin": 851280,
+        "audio_end": 856607
+    },
+    {
+        "id": "f000134",
+        "sentence": "ところがそんなことには一向構わず林にはやはり毎日毎日子供らが集まりました。",
+        "sentence_with_furigana": "ところがそんなことには一向構わず林にはやはり毎日毎日子供らが集まりました。",
+        "audio_begin": 858260,
+        "audio_end": 868200
+    },
+    {
+        "id": "f000135",
+        "sentence": "お話はずんずん急ぎます。",
+        "sentence_with_furigana": "お話はずんずん急ぎます。",
+        "audio_begin": 868200,
+        "audio_end": 871050
+    },
+    {
+        "id": "f000136",
+        "sentence": "次の年その村に鉄道が通り虔十の家から三町ばかり東の方に停車場ができました。",
+        "sentence_with_furigana": "次の年その村に鉄道が通り虔十の家から三町ばかり東の方に停車場ができました。",
+        "audio_begin": 871050,
+        "audio_end": 879840
+    },
+    {
+        "id": "f000137",
+        "sentence": "あちこちに大きな瀬戸物の工場や製糸場ができました。",
+        "sentence_with_furigana": "あちこちに大きな 瀬戸物[せともの]の工場や製糸場ができました。",
+        "audio_begin": 879840,
+        "audio_end": 885480
+    },
+    {
+        "id": "f000138",
+        "sentence": "そこらの畑や田はずんずん潰れて家がたちました。",
+        "sentence_with_furigana": "そこらの畑や田はずんずん 潰[つぶ]れて家がたちました。",
+        "audio_begin": 885480,
+        "audio_end": 891520
+    },
+    {
+        "id": "f000139",
+        "sentence": "いつかすっかり町になってしまったのです。",
+        "sentence_with_furigana": "いつかすっかり町になってしまったのです。",
+        "audio_begin": 891520,
+        "audio_end": 896080
+    },
+    {
+        "id": "f000140",
+        "sentence": "その中に虔十の林だけはどう云うわけかそのまま残って居りました。",
+        "sentence_with_furigana": "その中に虔十の林だけはどう云うわけかそのまま残って居りました。",
+        "audio_begin": 896080,
+        "audio_end": 903480
+    },
+    {
+        "id": "f000141",
+        "sentence": "その杉もやっと一丈ぐらい、",
+        "sentence_with_furigana": "その杉もやっと一丈ぐらい、",
+        "audio_begin": 903480,
+        "audio_end": 906925
+    },
+    {
+        "id": "f000142",
+        "sentence": "子供らは毎日毎日集まりました。",
+        "sentence_with_furigana": "子供らは毎日毎日集まりました。",
+        "audio_begin": 906925,
+        "audio_end": 910733
+    },
+    {
+        "id": "f000143",
+        "sentence": "学校がすぐ近くに建っていましたから子供らはその林と林の南の芝原とをいよいよ自分らの運動場の続きと思ってしまいました。",
+        "sentence_with_furigana": "学校がすぐ近くに建っていましたから子供らはその林と林の南の芝原とをいよいよ自分らの運動場の続きと思ってしまいました。",
+        "audio_begin": 910733,
+        "audio_end": 922480
+    },
+    {
+        "id": "f000144",
+        "sentence": "虔十のお父さんももうかみがまっ白でした。",
+        "sentence_with_furigana": "虔十のお父さんももうかみがまっ白でした。",
+        "audio_begin": 924380,
+        "audio_end": 930840
+    },
+    {
+        "id": "f000145",
+        "sentence": "まっ白な筈です。",
+        "sentence_with_furigana": "まっ白な 筈[はず]です。",
+        "audio_begin": 930840,
+        "audio_end": 933918
+    },
+    {
+        "id": "f000146",
+        "sentence": "虔十が死んでから二十年近くなるではありませんか。",
+        "sentence_with_furigana": "虔十が死んでから二十年近くなるではありませんか。",
+        "audio_begin": 933918,
+        "audio_end": 940408
+    },
+    {
+        "id": "f000147",
+        "sentence": "ある日昔のその村から出て今アメリカのある大学の教授になっている若い博士が十五年ぶりで故郷へ帰って来ました。",
+        "sentence_with_furigana": "ある日 昔[むかし]のその村から出て今アメリカのある大学の教授になっている若い博士が十五年ぶりで故郷へ帰って来ました。",
+        "audio_begin": 940408,
+        "audio_end": 952761
+    },
+    {
+        "id": "f000148",
+        "sentence": "どこに昔の畑や森のおもかげがあったでしょう。",
+        "sentence_with_furigana": "どこに昔の畑や森のおもかげがあったでしょう。",
+        "audio_begin": 952761,
+        "audio_end": 957200
+    },
+    {
+        "id": "f000149",
+        "sentence": "町の人たちも大ていは新らしく外から来た人たちでした。",
+        "sentence_with_furigana": "町の人たちも大ていは新らしく外から来た人たちでした。",
+        "audio_begin": 957200,
+        "audio_end": 962421
+    },
+    {
+        "id": "f000150",
+        "sentence": "それでもある日博士は小学校から頼まれてその講堂でみんなに向うの国の話をしました。",
+        "sentence_with_furigana": "それでもある日博士は小学校から頼まれてその講堂でみんなに向うの国の話をしました。",
+        "audio_begin": 962421,
+        "audio_end": 971960
+    },
+    {
+        "id": "f000151",
+        "sentence": "お話がすんでから博士は校長さんたちと運動場に出てそれからあの虔十の林の方へ行きました。",
+        "sentence_with_furigana": "お話がすんでから博士は校長さんたちと運動場に出てそれからあの虔十の林の方へ行きました。",
+        "audio_begin": 971960,
+        "audio_end": 982000
+    },
+    {
+        "id": "f000152",
+        "sentence": "すると若い博士は愕ろいて何べんも眼鏡を直していましたがとうとう半分ひとりごとのように云いました。",
+        "sentence_with_furigana": "すると若い博士は 愕[おど]ろいて何べんも 眼鏡[めがね]を直していましたがとうとう半分ひとりごとのように云いました。",
+        "audio_begin": 984200,
+        "audio_end": 994660
+    },
+    {
+        "id": "f000153",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "audio_begin": 996760,
+        "audio_end": 998597
+    },
+    {
+        "id": "f000154",
+        "sentence": "ここはすっかりもとの通りだ。",
+        "sentence_with_furigana": "ここはすっかりもとの通りだ。",
+        "audio_begin": 998597,
+        "audio_end": 1002684
+    },
+    {
+        "id": "f000155",
+        "sentence": "木まですっかりもとの通りだ。",
+        "sentence_with_furigana": "木まですっかりもとの通りだ。",
+        "audio_begin": 1002684,
+        "audio_end": 1006655
+    },
+    {
+        "id": "f000156",
+        "sentence": "木は却って小さくなったようだ。",
+        "sentence_with_furigana": "木は 却[かえ]って小さくなったようだ。",
+        "audio_begin": 1006655,
+        "audio_end": 1012080
+    },
+    {
+        "id": "f000157",
+        "sentence": "みんなも遊んでいる。",
+        "sentence_with_furigana": "みんなも遊んでいる。",
+        "audio_begin": 1012080,
+        "audio_end": 1015246
+    },
+    {
+        "id": "f000158",
+        "sentence": "ああ、",
+        "sentence_with_furigana": "ああ、",
+        "audio_begin": 1015246,
+        "audio_end": 1017127
+    },
+    {
+        "id": "f000159",
+        "sentence": "あの中に私や私の昔の友達が居ないだろうか。」",
+        "sentence_with_furigana": "あの中に私や私の昔の友達が居ないだろうか。」",
+        "audio_begin": 1017127,
+        "audio_end": 1022467
+    },
+    {
+        "id": "f000160",
+        "sentence": "博士は俄かに気がついたように笑い顔になって校長さんに云いました。",
+        "sentence_with_furigana": "博士は 俄[にわ]かに気がついたように笑い顔になって校長さんに云いました。",
+        "audio_begin": 1024579,
+        "audio_end": 1029642
+    },
+    {
+        "id": "f000161",
+        "sentence": "「ここは今は学校の運動場ですか。」",
+        "sentence_with_furigana": "「ここは今は学校の運動場ですか。」",
+        "audio_begin": 1031359,
+        "audio_end": 1036640
+    },
+    {
+        "id": "f000162",
+        "sentence": "「いいえ。",
+        "sentence_with_furigana": "「いいえ。",
+        "audio_begin": 1036640,
+        "audio_end": 1038483
+    },
+    {
+        "id": "f000163",
+        "sentence": "ここはこの向うの家の地面なのですが家の人たちが一向かまわないで子供らの集まるままにして置くものですから、",
+        "sentence_with_furigana": "ここはこの向うの家の地面なのですが家の人たちが一向かまわないで子供らの集まるままにして置くものですから、",
+        "audio_begin": 1038483,
+        "audio_end": 1051320
+    },
+    {
+        "id": "f000164",
+        "sentence": "まるで学校の附属の運動場のようになってしまいましたが実はそうではありません。」",
+        "sentence_with_furigana": "まるで学校の 附属[ふぞく]の運動場のようになってしまいましたが実はそうではありません。」",
+        "audio_begin": 1051320,
+        "audio_end": 1059680
+    },
+    {
+        "id": "f000165",
+        "sentence": "「それは不思議な方ですね、",
+        "sentence_with_furigana": "「それは不思議な方ですね、",
+        "audio_begin": 1061480,
+        "audio_end": 1065000
+    },
+    {
+        "id": "f000166",
+        "sentence": "一体どう云うわけでしょう。」",
+        "sentence_with_furigana": "一体どう云うわけでしょう。」",
+        "audio_begin": 1065000,
+        "audio_end": 1066400
+    },
+    {
+        "id": "f000167",
+        "sentence": "「ここが町になってからみんなで売れ売れと申したそうですが年よりの方がここは虔十のただ一つのかたみだからいくら困っても、",
+        "sentence_with_furigana": "「ここが町になってからみんなで売れ売れと申したそうですが年よりの方がここは虔十のただ一つのかたみだからいくら困っても、",
+        "audio_begin": 1068100,
+        "audio_end": 1084440
+    },
+    {
+        "id": "f000168",
+        "sentence": "これをなくすることはどうしてもできないと答えるそうです。」",
+        "sentence_with_furigana": "これをなくすることはどうしてもできないと答えるそうです。」",
+        "audio_begin": 1084440,
+        "audio_end": 1092034
+    },
+    {
+        "id": "f000169",
+        "sentence": "「ああそうそう、",
+        "sentence_with_furigana": "「ああそうそう、",
+        "audio_begin": 1092034,
+        "audio_end": 1096092
+    },
+    {
+        "id": "f000170",
+        "sentence": "ありました、",
+        "sentence_with_furigana": "ありました、",
+        "audio_begin": 1096092,
+        "audio_end": 1097892
+    },
+    {
+        "id": "f000171",
+        "sentence": "ありました。",
+        "sentence_with_furigana": "ありました。",
+        "audio_begin": 1097892,
+        "audio_end": 1099720
+    },
+    {
+        "id": "f000172",
+        "sentence": "その虔十という人は少し足りないと私らは思っていたのです。",
+        "sentence_with_furigana": "その虔十という人は少し足りないと私らは思っていたのです。",
+        "audio_begin": 1099720,
+        "audio_end": 1105276
+    },
+    {
+        "id": "f000173",
+        "sentence": "いつでもはあはあ笑っている人でした。",
+        "sentence_with_furigana": "いつでもはあはあ笑っている人でした。",
+        "audio_begin": 1105276,
+        "audio_end": 1108521
+    },
+    {
+        "id": "f000174",
+        "sentence": "毎日丁度この辺に立って私らの遊ぶのを見ていたのです。",
+        "sentence_with_furigana": "毎日丁度この辺に立って私らの遊ぶのを見ていたのです。",
+        "audio_begin": 1108521,
+        "audio_end": 1115788
+    },
+    {
+        "id": "f000175",
+        "sentence": "この杉もみんなその人が植えたのだそうです。",
+        "sentence_with_furigana": "この杉もみんなその人が植えたのだそうです。",
+        "audio_begin": 1115788,
+        "audio_end": 1121570
+    },
+    {
+        "id": "f000176",
+        "sentence": "ああ全くたれがかしこくたれが賢くないかはわかりません。",
+        "sentence_with_furigana": "ああ全くたれがかしこくたれが 賢[かしこ]くないかはわかりません。",
+        "audio_begin": 1121570,
+        "audio_end": 1127979
+    },
+    {
+        "id": "f000177",
+        "sentence": "ただどこまでも十力の作用は不思議です。",
+        "sentence_with_furigana": "ただどこまでも 十力[じゅうりき]の作用は不思議です。",
+        "audio_begin": 1127979,
+        "audio_end": 1131680
+    },
+    {
+        "id": "f000178",
+        "sentence": "ここはもういつまでも子供たちの美しい公園地です。",
+        "sentence_with_furigana": "ここはもういつまでも子供たちの美しい公園地です。",
+        "audio_begin": 1133111,
+        "audio_end": 1140600
+    },
+    {
+        "id": "f000179",
+        "sentence": "どうでしょう。",
+        "sentence_with_furigana": "どうでしょう。",
+        "audio_begin": 1142500,
+        "audio_end": 1143995
+    },
+    {
+        "id": "f000180",
+        "sentence": "ここに虔十公園林と名をつけていつまでもこの通り保存するようにしては。」",
+        "sentence_with_furigana": "ここに虔十公園林と名をつけていつまでもこの通り保存するようにしては。」",
+        "audio_begin": 1143995,
+        "audio_end": 1151756
+    },
+    {
+        "id": "f000181",
+        "sentence": "「これは全くお考えつきです。",
+        "sentence_with_furigana": "「これは全くお考えつきです。",
+        "audio_begin": 1153591,
+        "audio_end": 1159674
+    },
+    {
+        "id": "f000182",
+        "sentence": "そうなれば子供らもどんなにしあわせか知れません。」",
+        "sentence_with_furigana": "そうなれば子供らもどんなにしあわせか知れません。」",
+        "audio_begin": 1159674,
+        "audio_end": 1168498
+    },
+    {
+        "id": "f000183",
+        "sentence": "さてみんなその通りになりました。",
+        "sentence_with_furigana": "さてみんなその通りになりました。",
+        "audio_begin": 1168498,
+        "audio_end": 1174187
+    },
+    {
+        "id": "f000184",
+        "sentence": "芝生のまん中、",
+        "sentence_with_furigana": "芝生[しばふ]のまん中、",
+        "audio_begin": 1174187,
+        "audio_end": 1176393
+    },
+    {
+        "id": "f000185",
+        "sentence": "子供らの林の前に",
+        "sentence_with_furigana": "子供らの林の前に",
+        "audio_begin": 1176393,
+        "audio_end": 1179028
+    },
+    {
+        "id": "f000186",
+        "sentence": "「虔十公園林」と彫った青い橄欖岩の碑が建ちました。",
+        "sentence_with_furigana": "「虔十公園林」と 彫[ほ]った青い 橄欖岩[かんらんがん]の 碑[ひ]が建ちました。",
+        "audio_begin": 1179028,
+        "audio_end": 1185890
+    },
+    {
+        "id": "f000187",
+        "sentence": "昔のその学校の生徒、",
+        "sentence_with_furigana": "昔のその学校の生徒、",
+        "audio_begin": 1185890,
+        "audio_end": 1188769
+    },
+    {
+        "id": "f000188",
+        "sentence": "今はもう立派な検事になったり将校になったり海の向うに小さいながら農園を有ったりしている人たちから沢山の手紙やお金が学校に集まって来ました。",
+        "sentence_with_furigana": "今はもう立派な検事になったり将校になったり海の向うに小さいながら農園を 有[も]ったりしている人たちから 沢山[たくさん]の手紙やお金が学校に集まって来ました。",
+        "audio_begin": 1188769,
+        "audio_end": 1202097
+    },
+    {
+        "id": "f000189",
+        "sentence": "虔十のうちの人たちはほんとうによろこんで泣きました。",
+        "sentence_with_furigana": "虔十のうちの人たちはほんとうによろこんで泣きました。",
+        "audio_begin": 1203734,
+        "audio_end": 1211130
+    },
+    {
+        "id": "f000190",
+        "sentence": "全く全くこの公園林の杉の黒い立派な緑、",
+        "sentence_with_furigana": "全く全くこの公園林の杉の黒い立派な緑、",
+        "audio_begin": 1211130,
+        "audio_end": 1219280
+    },
+    {
+        "id": "f000191",
+        "sentence": "さわやかな匂、",
+        "sentence_with_furigana": "さわやかな 匂[におい]、",
+        "audio_begin": 1219280,
+        "audio_end": 1221370
+    },
+    {
+        "id": "f000192",
+        "sentence": "夏のすずしい陰、",
+        "sentence_with_furigana": "夏のすずしい 陰[かげ]、",
+        "audio_begin": 1221370,
+        "audio_end": 1224226
+    },
+    {
+        "id": "f000193",
+        "sentence": "月光色の芝生がこれから何千人の人たちに本当のさいわいが何だかを教えるか数えられませんでした。",
+        "sentence_with_furigana": "月光色の芝生がこれから何千人の人たちに本当のさいわいが何だかを教えるか数えられませんでした。",
+        "audio_begin": 1224226,
+        "audio_end": 1235100
+    },
+    {
+        "id": "f000194",
+        "sentence": "そして林は虔十の居た時の通り雨が降ってはすき徹る冷たい雫をみじかい草にポタリポタリと落しお日さまが輝いては新らしい奇麗な空気をさわやかにはき出すのでした。",
+        "sentence_with_furigana": "そして林は虔十の居た時の通り雨が降ってはすき 徹[とお]る冷たい 雫[しずく]をみじかい草にポタリポタリと落しお日さまが 輝[かがや]いては新らしい奇麗な空気をさわやかにはき出すのでした。",
+        "audio_begin": 1237200,
+        "audio_end": 1260560
+    }
+]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Aoi Botan-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -15,11 +14,12 @@
             "青い",
             "ボタン"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5137,
+        "sound_end": 9280
     },
     {
         "id": "Aoi Botan-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -47,11 +47,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9280,
+        "sound_end": 12760
     },
     {
         "id": "Aoi Botan-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -71,11 +72,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 12760,
+        "sound_end": 14360
     },
     {
         "id": "Aoi Botan-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -113,11 +115,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 14360,
+        "sound_end": 19800
     },
     {
         "id": "Aoi Botan-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -135,11 +138,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 19800,
+        "sound_end": 21118
     },
     {
         "id": "Aoi Botan-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -155,11 +159,12 @@
             "から",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 21118,
+        "sound_end": 21680
     },
     {
         "id": "Aoi Botan-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -193,11 +198,12 @@
             "から",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 21680,
+        "sound_end": 24480
     },
     {
         "id": "Aoi Botan-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -221,11 +227,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 24480,
+        "sound_end": 26000
     },
     {
         "id": "Aoi Botan-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -241,11 +248,12 @@
             "と",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 26000,
+        "sound_end": 26880
     },
     {
         "id": "Aoi Botan-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -269,11 +277,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 26880,
+        "sound_end": 30040
     },
     {
         "id": "Aoi Botan-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -303,11 +312,12 @@
             "は",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 30040,
+        "sound_end": 32479
     },
     {
         "id": "Aoi Botan-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -339,11 +349,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 32479,
+        "sound_end": 36680
     },
     {
         "id": "Aoi Botan-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -369,11 +380,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 36680,
+        "sound_end": 39364
     },
     {
         "id": "Aoi Botan-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -401,11 +413,12 @@
             "ては",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 39364,
+        "sound_end": 41720
     },
     {
         "id": "Aoi Botan-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -437,11 +450,12 @@
             "な",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 41720,
+        "sound_end": 45628
     },
     {
         "id": "Aoi Botan-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -469,11 +483,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 45628,
+        "sound_end": 48120
     },
     {
         "id": "Aoi Botan-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -513,11 +528,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 48120,
+        "sound_end": 52207
     },
     {
         "id": "Aoi Botan-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -533,11 +549,12 @@
             "ほど",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 52207,
+        "sound_end": 53276
     },
     {
         "id": "Aoi Botan-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -561,11 +578,12 @@
             "か",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 53276,
+        "sound_end": 55320
     },
     {
         "id": "Aoi Botan-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -599,11 +617,12 @@
             "いう",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 55320,
+        "sound_end": 57960
     },
     {
         "id": "Aoi Botan-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -635,11 +654,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 57960,
+        "sound_end": 63080
     },
     {
         "id": "Aoi Botan-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -657,11 +677,12 @@
             "二",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 63080,
+        "sound_end": 63720
     },
     {
         "id": "Aoi Botan-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -679,11 +700,12 @@
             "は",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 63720,
+        "sound_end": 64680
     },
     {
         "id": "Aoi Botan-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -705,11 +727,12 @@
             "て",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 64680,
+        "sound_end": 66560
     },
     {
         "id": "Aoi Botan-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -741,11 +764,12 @@
             "が",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 66560,
+        "sound_end": 69200
     },
     {
         "id": "Aoi Botan-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -759,11 +783,12 @@
             "また",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 69200,
+        "sound_end": 69800
     },
     {
         "id": "Aoi Botan-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -799,11 +824,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 69800,
+        "sound_end": 74720
     },
     {
         "id": "Aoi Botan-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -825,11 +851,12 @@
             "と",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 74720,
+        "sound_end": 76619
     },
     {
         "id": "Aoi Botan-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -849,11 +876,12 @@
             "に",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 76619,
+        "sound_end": 78200
     },
     {
         "id": "Aoi Botan-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -873,11 +901,12 @@
             "を",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 78200,
+        "sound_end": 80080
     },
     {
         "id": "Aoi Botan-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -895,11 +924,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 80080,
+        "sound_end": 81080
     },
     {
         "id": "Aoi Botan-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -919,11 +949,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 81080,
+        "sound_end": 82640
     },
     {
         "id": "Aoi Botan-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -951,11 +982,12 @@
             "て",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 82640,
+        "sound_end": 84920
     },
     {
         "id": "Aoi Botan-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -979,11 +1011,12 @@
             "た",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 84920,
+        "sound_end": 88120
     },
     {
         "id": "Aoi Botan-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1005,11 +1038,12 @@
             "は",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 88120,
+        "sound_end": 90280
     },
     {
         "id": "Aoi Botan-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1033,11 +1067,12 @@
             "が",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 90280,
+        "sound_end": 92365
     },
     {
         "id": "Aoi Botan-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1053,11 +1088,12 @@
             "が",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 92365,
+        "sound_end": 93520
     },
     {
         "id": "Aoi Botan-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1091,11 +1127,12 @@
             "から",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 93520,
+        "sound_end": 96520
     },
     {
         "id": "Aoi Botan-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1139,11 +1176,12 @@
             "た",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 96520,
+        "sound_end": 103560
     },
     {
         "id": "Aoi Botan-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1169,11 +1207,12 @@
             "と",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 103560,
+        "sound_end": 105960
     },
     {
         "id": "Aoi Botan-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1189,11 +1228,12 @@
             "は",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 105960,
+        "sound_end": 106800
     },
     {
         "id": "Aoi Botan-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1215,11 +1255,12 @@
             "て",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 106800,
+        "sound_end": 108963
     },
     {
         "id": "Aoi Botan-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1235,11 +1276,12 @@
             "きつね",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 108963,
+        "sound_end": 110130
     },
     {
         "id": "Aoi Botan-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1253,11 +1295,12 @@
             "きつね",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 110130,
+        "sound_end": 111346
     },
     {
         "id": "Aoi Botan-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1277,11 +1320,12 @@
             "て",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 111346,
+        "sound_end": 112240
     },
     {
         "id": "Aoi Botan-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1301,11 +1345,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 112240,
+        "sound_end": 115797
     },
     {
         "id": "Aoi Botan-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1323,11 +1368,12 @@
             "は",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 115797,
+        "sound_end": 117120
     },
     {
         "id": "Aoi Botan-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1343,11 +1389,12 @@
             "な",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 117120,
+        "sound_end": 117920
     },
     {
         "id": "Aoi Botan-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1373,11 +1420,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 117920,
+        "sound_end": 120040
     },
     {
         "id": "Aoi Botan-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1401,11 +1449,12 @@
             "で",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 120040,
+        "sound_end": 121640
     },
     {
         "id": "Aoi Botan-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1435,11 +1484,12 @@
             "た",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 121640,
+        "sound_end": 125000
     },
     {
         "id": "Aoi Botan-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1455,11 +1505,12 @@
             "に",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 125000,
+        "sound_end": 125760
     },
     {
         "id": "Aoi Botan-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1493,11 +1544,12 @@
             "から",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 125760,
+        "sound_end": 128600
     },
     {
         "id": "Aoi Botan-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1515,11 +1567,12 @@
             "て",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 128600,
+        "sound_end": 129919
     },
     {
         "id": "Aoi Botan-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1547,11 +1600,12 @@
             "が",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 129919,
+        "sound_end": 132307
     },
     {
         "id": "Aoi Botan-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1573,11 +1627,12 @@
             "て",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 132307,
+        "sound_end": 133760
     },
     {
         "id": "Aoi Botan-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1601,11 +1656,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 133760,
+        "sound_end": 137360
     },
     {
         "id": "Aoi Botan-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1619,11 +1675,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 137360,
+        "sound_end": 138040
     },
     {
         "id": "Aoi Botan-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1643,11 +1700,12 @@
             "て",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 138040,
+        "sound_end": 139240
     },
     {
         "id": "Aoi Botan-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1671,11 +1729,12 @@
             "は",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 139240,
+        "sound_end": 141320
     },
     {
         "id": "Aoi Botan-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1709,11 +1768,12 @@
             "に",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 141320,
+        "sound_end": 144200
     },
     {
         "id": "Aoi Botan-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1729,11 +1789,12 @@
             "は",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 144200,
+        "sound_end": 145040
     },
     {
         "id": "Aoi Botan-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1763,11 +1824,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 145040,
+        "sound_end": 150360
     },
     {
         "id": "Aoi Botan-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1787,11 +1849,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 150360,
+        "sound_end": 151880
     },
     {
         "id": "Aoi Botan-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1811,11 +1874,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 151880,
+        "sound_end": 153200
     },
     {
         "id": "Aoi Botan-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1847,11 +1911,12 @@
             "た",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 153200,
+        "sound_end": 157680
     },
     {
         "id": "Aoi Botan-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1887,11 +1952,12 @@
             "は",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 157680,
+        "sound_end": 161080
     },
     {
         "id": "Aoi Botan-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1921,11 +1987,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 161080,
+        "sound_end": 164360
     },
     {
         "id": "Aoi Botan-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1941,11 +2008,12 @@
             "で",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 164360,
+        "sound_end": 164760
     },
     {
         "id": "Aoi Botan-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1961,11 +2029,12 @@
             "は",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 164760,
+        "sound_end": 165480
     },
     {
         "id": "Aoi Botan-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -1993,11 +2062,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 165480,
+        "sound_end": 168440
     },
     {
         "id": "Aoi Botan-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2013,11 +2083,12 @@
             "が",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 168440,
+        "sound_end": 169160
     },
     {
         "id": "Aoi Botan-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2031,11 +2102,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 169160,
+        "sound_end": 169840
     },
     {
         "id": "Aoi Botan-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2051,11 +2123,12 @@
             "で",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 169840,
+        "sound_end": 170600
     },
     {
         "id": "Aoi Botan-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2069,11 +2142,12 @@
             "きつね",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 170600,
+        "sound_end": 171360
     },
     {
         "id": "Aoi Botan-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2099,11 +2173,12 @@
             "で",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 171360,
+        "sound_end": 173520
     },
     {
         "id": "Aoi Botan-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2137,11 +2212,12 @@
             "が",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 173520,
+        "sound_end": 176200
     },
     {
         "id": "Aoi Botan-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2173,11 +2249,12 @@
             "て",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 176200,
+        "sound_end": 179000
     },
     {
         "id": "Aoi Botan-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2231,11 +2308,12 @@
             "",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 179000,
+        "sound_end": 183534
     },
     {
         "id": "Aoi Botan-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2251,11 +2329,12 @@
             "と",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 183534,
+        "sound_end": 184000
     },
     {
         "id": "Aoi Botan-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2273,11 +2352,12 @@
             "た",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 184000,
+        "sound_end": 187560
     },
     {
         "id": "Aoi Botan-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2307,11 +2387,12 @@
             "は",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 187560,
+        "sound_end": 190360
     },
     {
         "id": "Aoi Botan-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2337,11 +2418,12 @@
             "で",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 190360,
+        "sound_end": 192280
     },
     {
         "id": "Aoi Botan-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2357,11 +2439,12 @@
             "で",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 192280,
+        "sound_end": 193320
     },
     {
         "id": "Aoi Botan-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2395,11 +2478,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 193320,
+        "sound_end": 198357
     },
     {
         "id": "Aoi Botan-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2417,11 +2501,12 @@
             "は",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 198357,
+        "sound_end": 199520
     },
     {
         "id": "Aoi Botan-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2437,11 +2522,12 @@
             "も",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 199520,
+        "sound_end": 200040
     },
     {
         "id": "Aoi Botan-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2479,11 +2565,12 @@
             "た",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 200040,
+        "sound_end": 204480
     },
     {
         "id": "Aoi Botan-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2501,11 +2588,12 @@
             "は",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 204480,
+        "sound_end": 205440
     },
     {
         "id": "Aoi Botan-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2533,11 +2621,12 @@
             "に",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 205440,
+        "sound_end": 207800
     },
     {
         "id": "Aoi Botan-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2567,11 +2656,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 207800,
+        "sound_end": 211779
     },
     {
         "id": "Aoi Botan-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2585,11 +2675,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 211779,
+        "sound_end": 212440
     },
     {
         "id": "Aoi Botan-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2605,11 +2696,12 @@
             "は",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 212440,
+        "sound_end": 213440
     },
     {
         "id": "Aoi Botan-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2633,11 +2725,12 @@
             "て",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 213440,
+        "sound_end": 215120
     },
     {
         "id": "Aoi Botan-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2675,11 +2768,12 @@
             "です",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 215120,
+        "sound_end": 220320
     },
     {
         "id": "Aoi Botan-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2697,11 +2791,12 @@
             "は",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 220320,
+        "sound_end": 221160
     },
     {
         "id": "Aoi Botan-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2727,11 +2822,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 221160,
+        "sound_end": 223960
     },
     {
         "id": "Aoi Botan-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2751,11 +2847,12 @@
             "に",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 223960,
+        "sound_end": 225240
     },
     {
         "id": "Aoi Botan-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2793,11 +2890,12 @@
             "",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 225240,
+        "sound_end": 228407
     },
     {
         "id": "Aoi Botan-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2823,11 +2921,12 @@
             "は",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 228407,
+        "sound_end": 230400
     },
     {
         "id": "Aoi Botan-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2857,11 +2956,12 @@
             "た",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 230400,
+        "sound_end": 236160
     },
     {
         "id": "Aoi Botan-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2889,11 +2989,12 @@
             "で",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 236160,
+        "sound_end": 238840
     },
     {
         "id": "Aoi Botan-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2909,11 +3010,12 @@
             "は",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 238840,
+        "sound_end": 239760
     },
     {
         "id": "Aoi Botan-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2931,11 +3033,12 @@
             "から",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 239760,
+        "sound_end": 241006
     },
     {
         "id": "Aoi Botan-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -2981,11 +3084,12 @@
             "て",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 241006,
+        "sound_end": 245720
     },
     {
         "id": "Aoi Botan-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3001,11 +3105,12 @@
             "は",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 245720,
+        "sound_end": 246400
     },
     {
         "id": "Aoi Botan-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3033,11 +3138,12 @@
             "た",
             "。"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 246400,
+        "sound_end": 252160
     },
     {
         "id": "Aoi Botan-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3053,11 +3159,12 @@
             "から",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 252160,
+        "sound_end": 253560
     },
     {
         "id": "Aoi Botan-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3081,11 +3188,12 @@
             "て",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 253560,
+        "sound_end": 256320
     },
     {
         "id": "Aoi Botan-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3101,11 +3209,12 @@
             "が",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 256320,
+        "sound_end": 257442
     },
     {
         "id": "Aoi Botan-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3121,11 +3230,12 @@
             "きつね",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 257442,
+        "sound_end": 258374
     },
     {
         "id": "Aoi Botan-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3139,11 +3249,12 @@
             "きつね",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 258374,
+        "sound_end": 258920
     },
     {
         "id": "Aoi Botan-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3163,11 +3274,12 @@
             "て",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 258920,
+        "sound_end": 259399
     },
     {
         "id": "Aoi Botan-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3187,11 +3299,12 @@
             "に",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 259399,
+        "sound_end": 261119
     },
     {
         "id": "Aoi Botan-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3219,11 +3332,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 261119,
+        "sound_end": 263400
     },
     {
         "id": "Aoi Botan-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3239,11 +3353,12 @@
             "に",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 263400,
+        "sound_end": 265285
     },
     {
         "id": "Aoi Botan-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3269,11 +3384,12 @@
             "は",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 265285,
+        "sound_end": 267320
     },
     {
         "id": "Aoi Botan-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3291,11 +3407,12 @@
             "から",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 267320,
+        "sound_end": 268000
     },
     {
         "id": "Aoi Botan-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3309,11 +3426,12 @@
             "よそう",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 268000,
+        "sound_end": 268720
     },
     {
         "id": "Aoi Botan-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3335,11 +3453,12 @@
             "た",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 268720,
+        "sound_end": 271920
     },
     {
         "id": "Aoi Botan-f000122",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3363,11 +3482,12 @@
             "を",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 271920,
+        "sound_end": 273320
     },
     {
         "id": "Aoi Botan-f000123",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3417,11 +3537,12 @@
             "が",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 273320,
+        "sound_end": 278320
     },
     {
         "id": "Aoi Botan-f000124",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3439,11 +3560,12 @@
             "は",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 278320,
+        "sound_end": 279992
     },
     {
         "id": "Aoi Botan-f000125",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3461,11 +3583,12 @@
             "は",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 279992,
+        "sound_end": 280948
     },
     {
         "id": "Aoi Botan-f000126",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3495,11 +3618,12 @@
             "い",
             "。"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 280948,
+        "sound_end": 283605
     },
     {
         "id": "Aoi Botan-f000127",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3519,11 +3643,12 @@
             "て",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 283605,
+        "sound_end": 284440
     },
     {
         "id": "Aoi Botan-f000128",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3547,11 +3672,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 284440,
+        "sound_end": 287680
     },
     {
         "id": "Aoi Botan-f000129",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3565,11 +3691,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 287680,
+        "sound_end": 288560
     },
     {
         "id": "Aoi Botan-f000130",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3591,11 +3718,12 @@
             "に",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 288560,
+        "sound_end": 289840
     },
     {
         "id": "Aoi Botan-f000131",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3615,11 +3743,12 @@
             "て",
             "、"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 289840,
+        "sound_end": 291384
     },
     {
         "id": "Aoi Botan-f000132",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3635,11 +3764,12 @@
             "きつね",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 291384,
+        "sound_end": 291800
     },
     {
         "id": "Aoi Botan-f000133",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3659,11 +3789,12 @@
             "て",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 291800,
+        "sound_end": 292320
     },
     {
         "id": "Aoi Botan-f000134",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3687,11 +3818,12 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 292320,
+        "sound_end": 295345
     },
     {
         "id": "Aoi Botan-f000135",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3705,11 +3837,12 @@
             "ただ",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 295345,
+        "sound_end": 295880
     },
     {
         "id": "Aoi Botan-f000136",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3745,11 +3878,12 @@
             "に",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 295880,
+        "sound_end": 298440
     },
     {
         "id": "Aoi Botan-f000137",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3781,11 +3915,12 @@
             "て",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 298440,
+        "sound_end": 302326
     },
     {
         "id": "Aoi Botan-f000138",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3801,11 +3936,12 @@
             "きつね",
             "。"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 302326,
+        "sound_end": 303448
     },
     {
         "id": "Aoi Botan-f000139",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3827,11 +3963,12 @@
             "と",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 303448,
+        "sound_end": 305159
     },
     {
         "id": "Aoi Botan-f000140",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3847,11 +3984,12 @@
             "は",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 305159,
+        "sound_end": 305640
     },
     {
         "id": "Aoi Botan-f000141",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3875,11 +4013,12 @@
             "に",
             "、"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 305640,
+        "sound_end": 306560
     },
     {
         "id": "Aoi Botan-f000142",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3899,11 +4038,12 @@
             "た",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 306560,
+        "sound_end": 308960
     },
     {
         "id": "Aoi Botan-f000143",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3917,11 +4057,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 308960,
+        "sound_end": 309720
     },
     {
         "id": "Aoi Botan-f000144",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3941,11 +4082,12 @@
             "が",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 309720,
+        "sound_end": 311040
     },
     {
         "id": "Aoi Botan-f000145",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -3977,11 +4119,12 @@
             "です",
             "。"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 311040,
+        "sound_end": 316680
     },
     {
         "id": "Aoi Botan-f000146",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4003,11 +4146,12 @@
             "は",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 316680,
+        "sound_end": 318400
     },
     {
         "id": "Aoi Botan-f000147",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4035,11 +4179,12 @@
             "た",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 318400,
+        "sound_end": 322360
     },
     {
         "id": "Aoi Botan-f000148",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4059,11 +4204,12 @@
             "で",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 322360,
+        "sound_end": 323757
     },
     {
         "id": "Aoi Botan-f000149",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4089,11 +4235,12 @@
             "も",
             "、"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 323757,
+        "sound_end": 325520
     },
     {
         "id": "Aoi Botan-f000150",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4129,11 +4276,12 @@
             "た",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 325520,
+        "sound_end": 328840
     },
     {
         "id": "Aoi Botan-f000151",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4147,11 +4295,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 328840,
+        "sound_end": 329640
     },
     {
         "id": "Aoi Botan-f000152",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4197,11 +4346,12 @@
             "た",
             "。"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 329640,
+        "sound_end": 335560
     },
     {
         "id": "Aoi Botan-f000153",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4221,11 +4371,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 335560,
+        "sound_end": 336280
     },
     {
         "id": "Aoi Botan-f000154",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4241,11 +4392,12 @@
             "は",
             "、"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 336280,
+        "sound_end": 337360
     },
     {
         "id": "Aoi Botan-f000155",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4275,11 +4427,12 @@
             "と",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 337360,
+        "sound_end": 340400
     },
     {
         "id": "Aoi Botan-f000156",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4315,11 +4468,12 @@
             "た",
             "。"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 340400,
+        "sound_end": 345120
     },
     {
         "id": "Aoi Botan-f000157",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4333,11 +4487,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 345120,
+        "sound_end": 345960
     },
     {
         "id": "Aoi Botan-f000158",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4377,11 +4532,12 @@
             "て",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 345960,
+        "sound_end": 349920
     },
     {
         "id": "Aoi Botan-f000159",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4407,11 +4563,12 @@
             "た",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 349920,
+        "sound_end": 354240
     },
     {
         "id": "Aoi Botan-f000160",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4433,11 +4590,12 @@
             "は",
             "、"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 354240,
+        "sound_end": 355920
     },
     {
         "id": "Aoi Botan-f000161",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4463,11 +4621,12 @@
             "です",
             "。"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 355920,
+        "sound_end": 359240
     },
     {
         "id": "Aoi Botan-f000162",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4485,11 +4644,12 @@
             "は",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 359240,
+        "sound_end": 360160
     },
     {
         "id": "Aoi Botan-f000163",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4513,11 +4673,12 @@
             "の",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 360160,
+        "sound_end": 362320
     },
     {
         "id": "Aoi Botan-f000164",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4547,11 +4708,12 @@
             "た",
             "。"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 362320,
+        "sound_end": 366560
     },
     {
         "id": "Aoi Botan-f000165",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4567,11 +4729,12 @@
             "は",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 366560,
+        "sound_end": 367640
     },
     {
         "id": "Aoi Botan-f000166",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4591,11 +4754,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 367640,
+        "sound_end": 369040
     },
     {
         "id": "Aoi Botan-f000167",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4627,11 +4791,12 @@
             "た",
             "。"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 369040,
+        "sound_end": 372880
     },
     {
         "id": "Aoi Botan-f000168",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4647,11 +4812,12 @@
             "は",
             "、"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 372880,
+        "sound_end": 373760
     },
     {
         "id": "Aoi Botan-f000169",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4667,11 +4833,12 @@
             "に",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 373760,
+        "sound_end": 374360
     },
     {
         "id": "Aoi Botan-f000170",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4705,11 +4872,12 @@
             "が",
             "、"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 374360,
+        "sound_end": 377520
     },
     {
         "id": "Aoi Botan-f000171",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4739,11 +4907,12 @@
             "た",
             "。"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 377520,
+        "sound_end": 383360
     },
     {
         "id": "Aoi Botan-f000172",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4759,11 +4928,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 383360,
+        "sound_end": 384520
     },
     {
         "id": "Aoi Botan-f000173",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4787,11 +4957,12 @@
             "に",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 384520,
+        "sound_end": 387102
     },
     {
         "id": "Aoi Botan-f000174",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4817,11 +4988,12 @@
             "いる",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 387102,
+        "sound_end": 388720
     },
     {
         "id": "Aoi Botan-f000175",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4849,11 +5021,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 388720,
+        "sound_end": 391920
     },
     {
         "id": "Aoi Botan-f000176",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4883,11 +5056,12 @@
             "の",
             "。"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 391920,
+        "sound_end": 394882
     },
     {
         "id": "Aoi Botan-f000177",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4903,11 +5077,12 @@
             "を",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 394882,
+        "sound_end": 395680
     },
     {
         "id": "Aoi Botan-f000178",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4929,11 +5104,12 @@
             "わ",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 395680,
+        "sound_end": 398190
     },
     {
         "id": "Aoi Botan-f000179",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4953,11 +5129,12 @@
             "て",
             "、"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 398190,
+        "sound_end": 399176
     },
     {
         "id": "Aoi Botan-f000180",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -4973,11 +5150,12 @@
             "は",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 399176,
+        "sound_end": 399920
     },
     {
         "id": "Aoi Botan-f000181",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5013,11 +5191,12 @@
             "て",
             "、"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 399920,
+        "sound_end": 403600
     },
     {
         "id": "Aoi Botan-f000182",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5033,11 +5212,12 @@
             "から",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 403600,
+        "sound_end": 404440
     },
     {
         "id": "Aoi Botan-f000183",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5063,11 +5243,12 @@
             "て",
             "、"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 404440,
+        "sound_end": 406400
     },
     {
         "id": "Aoi Botan-f000184",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5093,11 +5274,12 @@
             "た",
             "。"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 406400,
+        "sound_end": 410160
     },
     {
         "id": "Aoi Botan-f000185",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5113,11 +5295,12 @@
             "は",
             "、"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 410160,
+        "sound_end": 411080
     },
     {
         "id": "Aoi Botan-f000186",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5141,11 +5324,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 411080,
+        "sound_end": 413181
     },
     {
         "id": "Aoi Botan-f000187",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5173,11 +5357,12 @@
             "た",
             "。"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 413181,
+        "sound_end": 416686
     },
     {
         "id": "Aoi Botan-f000188",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5195,11 +5380,12 @@
             "が",
             "、"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 416686,
+        "sound_end": 417920
     },
     {
         "id": "Aoi Botan-f000189",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5223,11 +5409,12 @@
             "です",
             "。"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 417920,
+        "sound_end": 421880
     },
     {
         "id": "Aoi Botan-f000190",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5253,11 +5440,12 @@
             "て",
             "、"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 421880,
+        "sound_end": 423520
     },
     {
         "id": "Aoi Botan-f000191",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5279,11 +5467,12 @@
             "ない",
             "？"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 423520,
+        "sound_end": 425706
     },
     {
         "id": "Aoi Botan-f000192",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5299,11 +5488,12 @@
             "と",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 425706,
+        "sound_end": 426280
     },
     {
         "id": "Aoi Botan-f000193",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5325,11 +5515,12 @@
             "と",
             "、"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 426280,
+        "sound_end": 428760
     },
     {
         "id": "Aoi Botan-f000194",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5351,11 +5542,12 @@
             "から",
             "、"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 428760,
+        "sound_end": 430360
     },
     {
         "id": "Aoi Botan-f000195",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5377,11 +5569,12 @@
             "の",
             "。"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 430360,
+        "sound_end": 432333
     },
     {
         "id": "Aoi Botan-f000196",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5397,11 +5590,12 @@
             "と",
             "、"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 432333,
+        "sound_end": 432760
     },
     {
         "id": "Aoi Botan-f000197",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5427,11 +5621,12 @@
             "た",
             "。"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 432760,
+        "sound_end": 436560
     },
     {
         "id": "Aoi Botan-f000198",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5447,11 +5642,12 @@
             "は",
             "、"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 436560,
+        "sound_end": 437600
     },
     {
         "id": "Aoi Botan-f000199",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5471,11 +5667,12 @@
             "て",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 437600,
+        "sound_end": 438840
     },
     {
         "id": "Aoi Botan-f000200",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5505,11 +5702,12 @@
             "た",
             "。"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 438840,
+        "sound_end": 444040
     },
     {
         "id": "Aoi Botan-f000201",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5529,11 +5727,12 @@
             "と",
             "、"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 444040,
+        "sound_end": 445560
     },
     {
         "id": "Aoi Botan-f000202",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5549,11 +5748,12 @@
             "は",
             "、"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 445560,
+        "sound_end": 446520
     },
     {
         "id": "Aoi Botan-f000203",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5581,11 +5781,12 @@
             "親しく",
             "、"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 446520,
+        "sound_end": 448680
     },
     {
         "id": "Aoi Botan-f000204",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5615,11 +5816,12 @@
             "て",
             "、"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 448680,
+        "sound_end": 450600
     },
     {
         "id": "Aoi Botan-f000205",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5641,11 +5843,12 @@
             "た",
             "。"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 450600,
+        "sound_end": 454834
     },
     {
         "id": "Aoi Botan-f000206",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5661,11 +5864,12 @@
             "は",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 454834,
+        "sound_end": 455903
     },
     {
         "id": "Aoi Botan-f000207",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5691,11 +5895,12 @@
             "た",
             "。"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 455903,
+        "sound_end": 458873
     },
     {
         "id": "Aoi Botan-f000208",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5725,11 +5930,12 @@
             "た",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 458873,
+        "sound_end": 461680
     },
     {
         "id": "Aoi Botan-f000209",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5751,11 +5957,12 @@
             "です",
             "。"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 461680,
+        "sound_end": 464880
     },
     {
         "id": "Aoi Botan-f000210",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5775,11 +5982,12 @@
             "と",
             "、"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 464880,
+        "sound_end": 466320
     },
     {
         "id": "Aoi Botan-f000211",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5809,11 +6017,12 @@
             "た",
             "。"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 466320,
+        "sound_end": 469840
     },
     {
         "id": "Aoi Botan-f000212",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5835,11 +6044,12 @@
             "だろう",
             "？"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 469840,
+        "sound_end": 470800
     },
     {
         "id": "Aoi Botan-f000213",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5881,11 +6091,12 @@
             "は",
             "、"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 470800,
+        "sound_end": 475600
     },
     {
         "id": "Aoi Botan-f000214",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5907,11 +6118,12 @@
             "た",
             "。"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 475600,
+        "sound_end": 478880
     },
     {
         "id": "Aoi Botan-f000215",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5931,11 +6143,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 478880,
+        "sound_end": 480160
     },
     {
         "id": "Aoi Botan-f000216",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5951,11 +6164,12 @@
             "は",
             "、"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 480160,
+        "sound_end": 481040
     },
     {
         "id": "Aoi Botan-f000217",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5975,11 +6189,12 @@
             "て",
             "、"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 481040,
+        "sound_end": 482120
     },
     {
         "id": "Aoi Botan-f000218",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -5999,11 +6214,12 @@
             "は",
             "、"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 482120,
+        "sound_end": 485360
     },
     {
         "id": "Aoi Botan-f000219",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6027,11 +6243,12 @@
             "て",
             "、"
         ],
-        "sound": "f000219.mp3"
+        "sound": "f000219.mp3",
+        "sound_begin": 485360,
+        "sound_end": 488000
     },
     {
         "id": "Aoi Botan-f000220",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6055,11 +6272,12 @@
             "から",
             "、"
         ],
-        "sound": "f000220.mp3"
+        "sound": "f000220.mp3",
+        "sound_begin": 488000,
+        "sound_end": 490080
     },
     {
         "id": "Aoi Botan-f000221",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6091,11 +6309,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000221.mp3"
+        "sound": "f000221.mp3",
+        "sound_begin": 490080,
+        "sound_end": 492972
     },
     {
         "id": "Aoi Botan-f000222",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6119,11 +6338,12 @@
             "た",
             "。"
         ],
-        "sound": "f000222.mp3"
+        "sound": "f000222.mp3",
+        "sound_begin": 492972,
+        "sound_end": 496160
     },
     {
         "id": "Aoi Botan-f000223",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6139,11 +6359,12 @@
             "は",
             "、"
         ],
-        "sound": "f000223.mp3"
+        "sound": "f000223.mp3",
+        "sound_begin": 496160,
+        "sound_end": 497080
     },
     {
         "id": "Aoi Botan-f000224",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6179,11 +6400,12 @@
             "です",
             "。"
         ],
-        "sound": "f000224.mp3"
+        "sound": "f000224.mp3",
+        "sound_begin": 497080,
+        "sound_end": 502280
     },
     {
         "id": "Aoi Botan-f000225",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6213,11 +6435,12 @@
             "たろう",
             "。"
         ],
-        "sound": "f000225.mp3"
+        "sound": "f000225.mp3",
+        "sound_begin": 502280,
+        "sound_end": 505159
     },
     {
         "id": "Aoi Botan-f000226",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6233,11 +6456,12 @@
             "と",
             "、"
         ],
-        "sound": "f000226.mp3"
+        "sound": "f000226.mp3",
+        "sound_begin": 505159,
+        "sound_end": 505360
     },
     {
         "id": "Aoi Botan-f000227",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6253,11 +6477,12 @@
             "は",
             "、"
         ],
-        "sound": "f000227.mp3"
+        "sound": "f000227.mp3",
+        "sound_begin": 505360,
+        "sound_end": 506200
     },
     {
         "id": "Aoi Botan-f000228",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6297,11 +6522,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000228.mp3"
+        "sound": "f000228.mp3",
+        "sound_begin": 506200,
+        "sound_end": 512200
     },
     {
         "id": "Aoi Botan-f000229",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6317,11 +6543,12 @@
             "は",
             "、"
         ],
-        "sound": "f000229.mp3"
+        "sound": "f000229.mp3",
+        "sound_begin": 512200,
+        "sound_end": 513120
     },
     {
         "id": "Aoi Botan-f000230",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6341,11 +6568,12 @@
             "た",
             "、"
         ],
-        "sound": "f000230.mp3"
+        "sound": "f000230.mp3",
+        "sound_begin": 513120,
+        "sound_end": 514240
     },
     {
         "id": "Aoi Botan-f000231",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6383,11 +6611,12 @@
             "た",
             "。"
         ],
-        "sound": "f000231.mp3"
+        "sound": "f000231.mp3",
+        "sound_begin": 514240,
+        "sound_end": 519240
     },
     {
         "id": "Aoi Botan-f000232",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6403,11 +6632,12 @@
             "は",
             "、"
         ],
-        "sound": "f000232.mp3"
+        "sound": "f000232.mp3",
+        "sound_begin": 519240,
+        "sound_end": 520080
     },
     {
         "id": "Aoi Botan-f000233",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6437,11 +6667,12 @@
             "が",
             "、"
         ],
-        "sound": "f000233.mp3"
+        "sound": "f000233.mp3",
+        "sound_begin": 520080,
+        "sound_end": 522816
     },
     {
         "id": "Aoi Botan-f000234",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6459,11 +6690,12 @@
             "も",
             "、"
         ],
-        "sound": "f000234.mp3"
+        "sound": "f000234.mp3",
+        "sound_begin": 522816,
+        "sound_end": 523320
     },
     {
         "id": "Aoi Botan-f000235",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6489,11 +6721,12 @@
             "は",
             "、"
         ],
-        "sound": "f000235.mp3"
+        "sound": "f000235.mp3",
+        "sound_begin": 523320,
+        "sound_end": 525840
     },
     {
         "id": "Aoi Botan-f000236",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6509,11 +6742,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000236.mp3"
+        "sound": "f000236.mp3",
+        "sound_begin": 525840,
+        "sound_end": 526280
     },
     {
         "id": "Aoi Botan-f000237",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6535,11 +6769,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000237.mp3"
+        "sound": "f000237.mp3",
+        "sound_begin": 526280,
+        "sound_end": 528630
     },
     {
         "id": "Aoi Botan-f000238",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6559,11 +6794,12 @@
             "て",
             "、"
         ],
-        "sound": "f000238.mp3"
+        "sound": "f000238.mp3",
+        "sound_begin": 528630,
+        "sound_end": 529480
     },
     {
         "id": "Aoi Botan-f000239",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6593,11 +6829,12 @@
             "た",
             "。"
         ],
-        "sound": "f000239.mp3"
+        "sound": "f000239.mp3",
+        "sound_begin": 529480,
+        "sound_end": 534240
     },
     {
         "id": "Aoi Botan-f000240",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6615,11 +6852,12 @@
             "に",
             "、"
         ],
-        "sound": "f000240.mp3"
+        "sound": "f000240.mp3",
+        "sound_begin": 534240,
+        "sound_end": 535640
     },
     {
         "id": "Aoi Botan-f000241",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6641,11 +6879,12 @@
             "た",
             "。"
         ],
-        "sound": "f000241.mp3"
+        "sound": "f000241.mp3",
+        "sound_begin": 535640,
+        "sound_end": 538944
     },
     {
         "id": "Aoi Botan-f000242",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6667,11 +6906,12 @@
             "美しく",
             "、"
         ],
-        "sound": "f000242.mp3"
+        "sound": "f000242.mp3",
+        "sound_begin": 538944,
+        "sound_end": 541365
     },
     {
         "id": "Aoi Botan-f000243",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6691,11 +6931,12 @@
             "て",
             "、"
         ],
-        "sound": "f000243.mp3"
+        "sound": "f000243.mp3",
+        "sound_begin": 541365,
+        "sound_end": 542920
     },
     {
         "id": "Aoi Botan-f000244",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6721,11 +6962,12 @@
             "た",
             "。"
         ],
-        "sound": "f000244.mp3"
+        "sound": "f000244.mp3",
+        "sound_begin": 542920,
+        "sound_end": 546440
     },
     {
         "id": "Aoi Botan-f000245",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6775,11 +7017,12 @@
             "た",
             "。"
         ],
-        "sound": "f000245.mp3"
+        "sound": "f000245.mp3",
+        "sound_begin": 546440,
+        "sound_end": 553777
     },
     {
         "id": "Aoi Botan-f000246",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6797,11 +7040,12 @@
             "が",
             "、"
         ],
-        "sound": "f000246.mp3"
+        "sound": "f000246.mp3",
+        "sound_begin": 553777,
+        "sound_end": 555040
     },
     {
         "id": "Aoi Botan-f000247",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6827,11 +7071,12 @@
             "は",
             "、"
         ],
-        "sound": "f000247.mp3"
+        "sound": "f000247.mp3",
+        "sound_begin": 555040,
+        "sound_end": 556640
     },
     {
         "id": "Aoi Botan-f000248",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6851,11 +7096,12 @@
             "て",
             "、"
         ],
-        "sound": "f000248.mp3"
+        "sound": "f000248.mp3",
+        "sound_begin": 556640,
+        "sound_end": 558440
     },
     {
         "id": "Aoi Botan-f000249",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6891,11 +7137,12 @@
             "で",
             "、"
         ],
-        "sound": "f000249.mp3"
+        "sound": "f000249.mp3",
+        "sound_begin": 558440,
+        "sound_end": 561280
     },
     {
         "id": "Aoi Botan-f000250",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6911,11 +7158,12 @@
             "か",
             "、"
         ],
-        "sound": "f000250.mp3"
+        "sound": "f000250.mp3",
+        "sound_begin": 561280,
+        "sound_end": 561800
     },
     {
         "id": "Aoi Botan-f000251",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6953,11 +7201,12 @@
             "が",
             "、"
         ],
-        "sound": "f000251.mp3"
+        "sound": "f000251.mp3",
+        "sound_begin": 561800,
+        "sound_end": 565440
     },
     {
         "id": "Aoi Botan-f000252",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -6975,11 +7224,12 @@
             "は",
             "、"
         ],
-        "sound": "f000252.mp3"
+        "sound": "f000252.mp3",
+        "sound_begin": 565440,
+        "sound_end": 565960
     },
     {
         "id": "Aoi Botan-f000253",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7001,11 +7251,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000253.mp3"
+        "sound": "f000253.mp3",
+        "sound_begin": 565960,
+        "sound_end": 568268
     },
     {
         "id": "Aoi Botan-f000254",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7019,11 +7270,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000254.mp3"
+        "sound": "f000254.mp3",
+        "sound_begin": 568268,
+        "sound_end": 568880
     },
     {
         "id": "Aoi Botan-f000255",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7049,11 +7301,12 @@
             "で",
             "、"
         ],
-        "sound": "f000255.mp3"
+        "sound": "f000255.mp3",
+        "sound_begin": 568880,
+        "sound_end": 570600
     },
     {
         "id": "Aoi Botan-f000256",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7079,11 +7332,12 @@
             "が",
             "、"
         ],
-        "sound": "f000256.mp3"
+        "sound": "f000256.mp3",
+        "sound_begin": 570600,
+        "sound_end": 572376
     },
     {
         "id": "Aoi Botan-f000257",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7097,11 +7351,12 @@
             "ちょうど",
             "、"
         ],
-        "sound": "f000257.mp3"
+        "sound": "f000257.mp3",
+        "sound_begin": 572376,
+        "sound_end": 573000
     },
     {
         "id": "Aoi Botan-f000258",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7159,11 +7414,12 @@
             "て",
             "、"
         ],
-        "sound": "f000258.mp3"
+        "sound": "f000258.mp3",
+        "sound_begin": 573000,
+        "sound_end": 577680
     },
     {
         "id": "Aoi Botan-f000259",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7179,11 +7435,12 @@
             "は",
             "、"
         ],
-        "sound": "f000259.mp3"
+        "sound": "f000259.mp3",
+        "sound_begin": 577680,
+        "sound_end": 578520
     },
     {
         "id": "Aoi Botan-f000260",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7203,11 +7460,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000260.mp3"
+        "sound": "f000260.mp3",
+        "sound_begin": 578520,
+        "sound_end": 580200
     },
     {
         "id": "Aoi Botan-f000261",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7235,11 +7493,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000261.mp3"
+        "sound": "f000261.mp3",
+        "sound_begin": 580200,
+        "sound_end": 584400
     },
     {
         "id": "Aoi Botan-f000262",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7257,11 +7516,12 @@
             "で",
             "、"
         ],
-        "sound": "f000262.mp3"
+        "sound": "f000262.mp3",
+        "sound_begin": 584400,
+        "sound_end": 584960
     },
     {
         "id": "Aoi Botan-f000263",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7287,11 +7547,12 @@
             "か",
             "？"
         ],
-        "sound": "f000263.mp3"
+        "sound": "f000263.mp3",
+        "sound_begin": 584960,
+        "sound_end": 587000
     },
     {
         "id": "Aoi Botan-f000264",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7305,11 +7566,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000264.mp3"
+        "sound": "f000264.mp3",
+        "sound_begin": 587000,
+        "sound_end": 587760
     },
     {
         "id": "Aoi Botan-f000265",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7335,11 +7597,12 @@
             "か",
             "。"
         ],
-        "sound": "f000265.mp3"
+        "sound": "f000265.mp3",
+        "sound_begin": 587760,
+        "sound_end": 590837
     },
     {
         "id": "Aoi Botan-f000266",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7381,11 +7644,12 @@
             "",
             "。"
         ],
-        "sound": "f000266.mp3"
+        "sound": "f000266.mp3",
+        "sound_begin": 590837,
+        "sound_end": 594788
     },
     {
         "id": "Aoi Botan-f000267",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7401,11 +7665,12 @@
             "と",
             "、"
         ],
-        "sound": "f000267.mp3"
+        "sound": "f000267.mp3",
+        "sound_begin": 594788,
+        "sound_end": 595360
     },
     {
         "id": "Aoi Botan-f000268",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7427,11 +7692,12 @@
             "た",
             "。"
         ],
-        "sound": "f000268.mp3"
+        "sound": "f000268.mp3",
+        "sound_begin": 595360,
+        "sound_end": 599072
     },
     {
         "id": "Aoi Botan-f000269",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7455,11 +7721,12 @@
             "は",
             "、"
         ],
-        "sound": "f000269.mp3"
+        "sound": "f000269.mp3",
+        "sound_begin": 599072,
+        "sound_end": 600960
     },
     {
         "id": "Aoi Botan-f000270",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7473,11 +7740,12 @@
             "まだ",
             "、"
         ],
-        "sound": "f000270.mp3"
+        "sound": "f000270.mp3",
+        "sound_begin": 600960,
+        "sound_end": 601440
     },
     {
         "id": "Aoi Botan-f000271",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7507,11 +7775,12 @@
             "た",
             "。"
         ],
-        "sound": "f000271.mp3"
+        "sound": "f000271.mp3",
+        "sound_begin": 601440,
+        "sound_end": 604847
     },
     {
         "id": "Aoi Botan-f000272",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7527,11 +7796,12 @@
             "は",
             "、"
         ],
-        "sound": "f000272.mp3"
+        "sound": "f000272.mp3",
+        "sound_begin": 604847,
+        "sound_end": 605840
     },
     {
         "id": "Aoi Botan-f000273",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7555,11 +7825,12 @@
             "で",
             "、"
         ],
-        "sound": "f000273.mp3"
+        "sound": "f000273.mp3",
+        "sound_begin": 605840,
+        "sound_end": 607560
     },
     {
         "id": "Aoi Botan-f000274",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7585,11 +7856,12 @@
             "た",
             "。"
         ],
-        "sound": "f000274.mp3"
+        "sound": "f000274.mp3",
+        "sound_begin": 607560,
+        "sound_end": 610400
     },
     {
         "id": "Aoi Botan-f000275",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7609,11 +7881,12 @@
             "は",
             "、"
         ],
-        "sound": "f000275.mp3"
+        "sound": "f000275.mp3",
+        "sound_begin": 610400,
+        "sound_end": 611920
     },
     {
         "id": "Aoi Botan-f000276",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7639,11 +7912,12 @@
             "も",
             "、"
         ],
-        "sound": "f000276.mp3"
+        "sound": "f000276.mp3",
+        "sound_begin": 611920,
+        "sound_end": 613710
     },
     {
         "id": "Aoi Botan-f000277",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7671,11 +7945,12 @@
             "も",
             "、"
         ],
-        "sound": "f000277.mp3"
+        "sound": "f000277.mp3",
+        "sound_begin": 613710,
+        "sound_end": 616387
     },
     {
         "id": "Aoi Botan-f000278",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7693,11 +7968,12 @@
             "は",
             "、"
         ],
-        "sound": "f000278.mp3"
+        "sound": "f000278.mp3",
+        "sound_begin": 616387,
+        "sound_end": 617320
     },
     {
         "id": "Aoi Botan-f000279",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7723,11 +7999,12 @@
             "も",
             "、"
         ],
-        "sound": "f000279.mp3"
+        "sound": "f000279.mp3",
+        "sound_begin": 617320,
+        "sound_end": 618800
     },
     {
         "id": "Aoi Botan-f000280",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7747,11 +8024,12 @@
             "で",
             "、"
         ],
-        "sound": "f000280.mp3"
+        "sound": "f000280.mp3",
+        "sound_begin": 618800,
+        "sound_end": 619880
     },
     {
         "id": "Aoi Botan-f000281",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7767,11 +8045,12 @@
             "は",
             "、"
         ],
-        "sound": "f000281.mp3"
+        "sound": "f000281.mp3",
+        "sound_begin": 619880,
+        "sound_end": 620320
     },
     {
         "id": "Aoi Botan-f000282",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7787,11 +8066,12 @@
             "は",
             "、"
         ],
-        "sound": "f000282.mp3"
+        "sound": "f000282.mp3",
+        "sound_begin": 620320,
+        "sound_end": 620760
     },
     {
         "id": "Aoi Botan-f000283",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7817,11 +8097,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000283.mp3"
+        "sound": "f000283.mp3",
+        "sound_begin": 620760,
+        "sound_end": 624436
     },
     {
         "id": "Aoi Botan-f000284",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7847,11 +8128,12 @@
             "は",
             "、"
         ],
-        "sound": "f000284.mp3"
+        "sound": "f000284.mp3",
+        "sound_begin": 624436,
+        "sound_end": 626440
     },
     {
         "id": "Aoi Botan-f000285",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7877,11 +8159,12 @@
             "て",
             "、"
         ],
-        "sound": "f000285.mp3"
+        "sound": "f000285.mp3",
+        "sound_begin": 626440,
+        "sound_end": 628600
     },
     {
         "id": "Aoi Botan-f000286",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7923,11 +8206,12 @@
             "た",
             "。"
         ],
-        "sound": "f000286.mp3"
+        "sound": "f000286.mp3",
+        "sound_begin": 628600,
+        "sound_end": 633920
     },
     {
         "id": "Aoi Botan-f000287",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7947,11 +8231,12 @@
             "は",
             "、"
         ],
-        "sound": "f000287.mp3"
+        "sound": "f000287.mp3",
+        "sound_begin": 633920,
+        "sound_end": 635240
     },
     {
         "id": "Aoi Botan-f000288",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -7979,11 +8264,12 @@
             "た",
             "。"
         ],
-        "sound": "f000288.mp3"
+        "sound": "f000288.mp3",
+        "sound_begin": 635240,
+        "sound_end": 638985
     },
     {
         "id": "Aoi Botan-f000289",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8003,11 +8289,12 @@
             "は",
             "、"
         ],
-        "sound": "f000289.mp3"
+        "sound": "f000289.mp3",
+        "sound_begin": 638985,
+        "sound_end": 640680
     },
     {
         "id": "Aoi Botan-f000290",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8023,11 +8310,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000290.mp3"
+        "sound": "f000290.mp3",
+        "sound_begin": 640680,
+        "sound_end": 641440
     },
     {
         "id": "Aoi Botan-f000291",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8047,11 +8335,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000291.mp3"
+        "sound": "f000291.mp3",
+        "sound_begin": 641440,
+        "sound_end": 643280
     },
     {
         "id": "Aoi Botan-f000292",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8071,11 +8360,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000292.mp3"
+        "sound": "f000292.mp3",
+        "sound_begin": 643280,
+        "sound_end": 644560
     },
     {
         "id": "Aoi Botan-f000293",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8095,11 +8385,12 @@
             "て",
             "、"
         ],
-        "sound": "f000293.mp3"
+        "sound": "f000293.mp3",
+        "sound_begin": 644560,
+        "sound_end": 646040
     },
     {
         "id": "Aoi Botan-f000294",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8135,11 +8426,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000294.mp3"
+        "sound": "f000294.mp3",
+        "sound_begin": 646040,
+        "sound_end": 650640
     },
     {
         "id": "Aoi Botan-f000295",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8153,11 +8445,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000295.mp3"
+        "sound": "f000295.mp3",
+        "sound_begin": 650640,
+        "sound_end": 651600
     },
     {
         "id": "Aoi Botan-f000296",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8173,11 +8466,12 @@
             "も",
             "、"
         ],
-        "sound": "f000296.mp3"
+        "sound": "f000296.mp3",
+        "sound_begin": 651600,
+        "sound_end": 652120
     },
     {
         "id": "Aoi Botan-f000297",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8197,11 +8491,12 @@
             "が",
             "、"
         ],
-        "sound": "f000297.mp3"
+        "sound": "f000297.mp3",
+        "sound_begin": 652120,
+        "sound_end": 653800
     },
     {
         "id": "Aoi Botan-f000298",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8227,11 +8522,12 @@
             "か",
             "、"
         ],
-        "sound": "f000298.mp3"
+        "sound": "f000298.mp3",
+        "sound_begin": 653800,
+        "sound_end": 655600
     },
     {
         "id": "Aoi Botan-f000299",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8257,11 +8553,12 @@
             "か",
             "、"
         ],
-        "sound": "f000299.mp3"
+        "sound": "f000299.mp3",
+        "sound_begin": 655600,
+        "sound_end": 657760
     },
     {
         "id": "Aoi Botan-f000300",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8291,11 +8588,12 @@
             "た",
             "。"
         ],
-        "sound": "f000300.mp3"
+        "sound": "f000300.mp3",
+        "sound_begin": 657760,
+        "sound_end": 661937
     },
     {
         "id": "Aoi Botan-f000301",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8317,11 +8615,12 @@
             "を",
             "、"
         ],
-        "sound": "f000301.mp3"
+        "sound": "f000301.mp3",
+        "sound_begin": 661937,
+        "sound_end": 663360
     },
     {
         "id": "Aoi Botan-f000302",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8341,11 +8640,12 @@
             "な",
             "。"
         ],
-        "sound": "f000302.mp3"
+        "sound": "f000302.mp3",
+        "sound_begin": 663360,
+        "sound_end": 665525
     },
     {
         "id": "Aoi Botan-f000303",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8361,11 +8661,12 @@
             "と",
             "、"
         ],
-        "sound": "f000303.mp3"
+        "sound": "f000303.mp3",
+        "sound_begin": 665525,
+        "sound_end": 666000
     },
     {
         "id": "Aoi Botan-f000304",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8381,11 +8682,12 @@
             "は",
             "、"
         ],
-        "sound": "f000304.mp3"
+        "sound": "f000304.mp3",
+        "sound_begin": 666000,
+        "sound_end": 666480
     },
     {
         "id": "Aoi Botan-f000305",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8413,11 +8715,12 @@
             "た",
             "。"
         ],
-        "sound": "f000305.mp3"
+        "sound": "f000305.mp3",
+        "sound_begin": 666480,
+        "sound_end": 669760
     },
     {
         "id": "Aoi Botan-f000306",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8431,11 +8734,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000306.mp3"
+        "sound": "f000306.mp3",
+        "sound_begin": 669760,
+        "sound_end": 670440
     },
     {
         "id": "Aoi Botan-f000307",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8463,11 +8767,12 @@
             "は",
             "、"
         ],
-        "sound": "f000307.mp3"
+        "sound": "f000307.mp3",
+        "sound_begin": 670440,
+        "sound_end": 672800
     },
     {
         "id": "Aoi Botan-f000308",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8491,11 +8796,12 @@
             "も",
             "、"
         ],
-        "sound": "f000308.mp3"
+        "sound": "f000308.mp3",
+        "sound_begin": 672800,
+        "sound_end": 675000
     },
     {
         "id": "Aoi Botan-f000309",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8525,11 +8831,12 @@
             "て",
             "、"
         ],
-        "sound": "f000309.mp3"
+        "sound": "f000309.mp3",
+        "sound_begin": 675000,
+        "sound_end": 677840
     },
     {
         "id": "Aoi Botan-f000310",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8545,11 +8852,12 @@
             "は",
             "、"
         ],
-        "sound": "f000310.mp3"
+        "sound": "f000310.mp3",
+        "sound_begin": 677840,
+        "sound_end": 678600
     },
     {
         "id": "Aoi Botan-f000311",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8581,11 +8889,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000311.mp3"
+        "sound": "f000311.mp3",
+        "sound_begin": 678600,
+        "sound_end": 682839
     },
     {
         "id": "Aoi Botan-f000312",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8613,11 +8922,12 @@
             "た",
             "、"
         ],
-        "sound": "f000312.mp3"
+        "sound": "f000312.mp3",
+        "sound_begin": 682839,
+        "sound_end": 684720
     },
     {
         "id": "Aoi Botan-f000313",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8641,11 +8951,12 @@
             "て",
             "、"
         ],
-        "sound": "f000313.mp3"
+        "sound": "f000313.mp3",
+        "sound_begin": 684720,
+        "sound_end": 686880
     },
     {
         "id": "Aoi Botan-f000314",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8675,11 +8986,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000314.mp3"
+        "sound": "f000314.mp3",
+        "sound_begin": 686880,
+        "sound_end": 690200
     },
     {
         "id": "Aoi Botan-f000315",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8707,11 +9019,12 @@
             "て",
             "、"
         ],
-        "sound": "f000315.mp3"
+        "sound": "f000315.mp3",
+        "sound_begin": 690200,
+        "sound_end": 693080
     },
     {
         "id": "Aoi Botan-f000316",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8765,11 +9078,12 @@
             "",
             "。"
         ],
-        "sound": "f000316.mp3"
+        "sound": "f000316.mp3",
+        "sound_begin": 693080,
+        "sound_end": 696680
     },
     {
         "id": "Aoi Botan-f000317",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8791,11 +9105,12 @@
             "た",
             "。"
         ],
-        "sound": "f000317.mp3"
+        "sound": "f000317.mp3",
+        "sound_begin": 696680,
+        "sound_end": 699120
     },
     {
         "id": "Aoi Botan-f000318",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8811,11 +9126,12 @@
             "は",
             "、"
         ],
-        "sound": "f000318.mp3"
+        "sound": "f000318.mp3",
+        "sound_begin": 699120,
+        "sound_end": 700920
     },
     {
         "id": "Aoi Botan-f000319",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8831,11 +9147,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000319.mp3"
+        "sound": "f000319.mp3",
+        "sound_begin": 700920,
+        "sound_end": 701440
     },
     {
         "id": "Aoi Botan-f000320",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8851,11 +9168,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000320.mp3"
+        "sound": "f000320.mp3",
+        "sound_begin": 701440,
+        "sound_end": 702360
     },
     {
         "id": "Aoi Botan-f000321",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8883,11 +9201,12 @@
             "から",
             "、"
         ],
-        "sound": "f000321.mp3"
+        "sound": "f000321.mp3",
+        "sound_begin": 702360,
+        "sound_end": 704600
     },
     {
         "id": "Aoi Botan-f000322",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8917,11 +9236,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000322.mp3"
+        "sound": "f000322.mp3",
+        "sound_begin": 704600,
+        "sound_end": 708193
     },
     {
         "id": "Aoi Botan-f000323",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8943,11 +9263,12 @@
             "た",
             "。"
         ],
-        "sound": "f000323.mp3"
+        "sound": "f000323.mp3",
+        "sound_begin": 708193,
+        "sound_end": 711240
     },
     {
         "id": "Aoi Botan-f000324",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8961,11 +9282,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000324.mp3"
+        "sound": "f000324.mp3",
+        "sound_begin": 711240,
+        "sound_end": 712200
     },
     {
         "id": "Aoi Botan-f000325",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -8981,11 +9303,12 @@
             "は",
             "、"
         ],
-        "sound": "f000325.mp3"
+        "sound": "f000325.mp3",
+        "sound_begin": 712200,
+        "sound_end": 713520
     },
     {
         "id": "Aoi Botan-f000326",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9015,11 +9338,12 @@
             "て",
             "、"
         ],
-        "sound": "f000326.mp3"
+        "sound": "f000326.mp3",
+        "sound_begin": 713520,
+        "sound_end": 717663
     },
     {
         "id": "Aoi Botan-f000327",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9035,11 +9359,12 @@
             "この",
             "、"
         ],
-        "sound": "f000327.mp3"
+        "sound": "f000327.mp3",
+        "sound_begin": 717663,
+        "sound_end": 717960
     },
     {
         "id": "Aoi Botan-f000328",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9065,11 +9390,12 @@
             "に",
             "、"
         ],
-        "sound": "f000328.mp3"
+        "sound": "f000328.mp3",
+        "sound_begin": 717960,
+        "sound_end": 719683
     },
     {
         "id": "Aoi Botan-f000329",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9087,11 +9413,12 @@
             "は",
             "、"
         ],
-        "sound": "f000329.mp3"
+        "sound": "f000329.mp3",
+        "sound_begin": 719683,
+        "sound_end": 720960
     },
     {
         "id": "Aoi Botan-f000330",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9131,11 +9458,12 @@
             "",
             "。"
         ],
-        "sound": "f000330.mp3"
+        "sound": "f000330.mp3",
+        "sound_begin": 720960,
+        "sound_end": 722640
     },
     {
         "id": "Aoi Botan-f000331",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9155,11 +9483,12 @@
             "と",
             "、"
         ],
-        "sound": "f000331.mp3"
+        "sound": "f000331.mp3",
+        "sound_begin": 722640,
+        "sound_end": 725520
     },
     {
         "id": "Aoi Botan-f000332",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9183,11 +9512,12 @@
             "と",
             "、"
         ],
-        "sound": "f000332.mp3"
+        "sound": "f000332.mp3",
+        "sound_begin": 725520,
+        "sound_end": 727400
     },
     {
         "id": "Aoi Botan-f000333",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9207,11 +9537,12 @@
             "が",
             "、"
         ],
-        "sound": "f000333.mp3"
+        "sound": "f000333.mp3",
+        "sound_begin": 727400,
+        "sound_end": 728480
     },
     {
         "id": "Aoi Botan-f000334",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9237,11 +9568,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000334.mp3"
+        "sound": "f000334.mp3",
+        "sound_begin": 728480,
+        "sound_end": 733320
     },
     {
         "id": "Aoi Botan-f000335",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9265,11 +9597,12 @@
             "た",
             "。"
         ],
-        "sound": "f000335.mp3"
+        "sound": "f000335.mp3",
+        "sound_begin": 733320,
+        "sound_end": 734600
     },
     {
         "id": "Aoi Botan-f000336",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9287,11 +9620,12 @@
             "住む",
             "、"
         ],
-        "sound": "f000336.mp3"
+        "sound": "f000336.mp3",
+        "sound_begin": 734600,
+        "sound_end": 736800
     },
     {
         "id": "Aoi Botan-f000337",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9309,11 +9643,12 @@
             "高い",
             "、"
         ],
-        "sound": "f000337.mp3"
+        "sound": "f000337.mp3",
+        "sound_begin": 736800,
+        "sound_end": 737800
     },
     {
         "id": "Aoi Botan-f000338",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9335,11 +9670,12 @@
             "が",
             "、"
         ],
-        "sound": "f000338.mp3"
+        "sound": "f000338.mp3",
+        "sound_begin": 737800,
+        "sound_end": 741301
     },
     {
         "id": "Aoi Botan-f000339",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9357,11 +9693,12 @@
             "ちゃん",
             "、"
         ],
-        "sound": "f000339.mp3"
+        "sound": "f000339.mp3",
+        "sound_begin": 741301,
+        "sound_end": 742600
     },
     {
         "id": "Aoi Botan-f000340",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9377,11 +9714,12 @@
             "に",
             "、"
         ],
-        "sound": "f000340.mp3"
+        "sound": "f000340.mp3",
+        "sound_begin": 742600,
+        "sound_end": 743080
     },
     {
         "id": "Aoi Botan-f000341",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9409,11 +9747,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000341.mp3"
+        "sound": "f000341.mp3",
+        "sound_begin": 743080,
+        "sound_end": 745480
     },
     {
         "id": "Aoi Botan-f000342",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9429,11 +9768,12 @@
             "は",
             "、"
         ],
-        "sound": "f000342.mp3"
+        "sound": "f000342.mp3",
+        "sound_begin": 745480,
+        "sound_end": 747360
     },
     {
         "id": "Aoi Botan-f000343",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9465,11 +9805,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000343.mp3"
+        "sound": "f000343.mp3",
+        "sound_begin": 747360,
+        "sound_end": 750960
     },
     {
         "id": "Aoi Botan-f000344",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9485,11 +9826,12 @@
             "は",
             "、"
         ],
-        "sound": "f000344.mp3"
+        "sound": "f000344.mp3",
+        "sound_begin": 750960,
+        "sound_end": 751680
     },
     {
         "id": "Aoi Botan-f000345",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9509,11 +9851,12 @@
             "て",
             "、"
         ],
-        "sound": "f000345.mp3"
+        "sound": "f000345.mp3",
+        "sound_begin": 751680,
+        "sound_end": 752840
     },
     {
         "id": "Aoi Botan-f000346",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9541,11 +9884,12 @@
             "から",
             "、"
         ],
-        "sound": "f000346.mp3"
+        "sound": "f000346.mp3",
+        "sound_begin": 752840,
+        "sound_end": 755480
     },
     {
         "id": "Aoi Botan-f000347",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9563,11 +9907,12 @@
             "で",
             "、"
         ],
-        "sound": "f000347.mp3"
+        "sound": "f000347.mp3",
+        "sound_begin": 755480,
+        "sound_end": 756040
     },
     {
         "id": "Aoi Botan-f000348",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9615,11 +9960,12 @@
             "なり",
             "、"
         ],
-        "sound": "f000348.mp3"
+        "sound": "f000348.mp3",
+        "sound_begin": 756040,
+        "sound_end": 760480
     },
     {
         "id": "Aoi Botan-f000349",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9645,11 +9991,12 @@
             "いる",
             "、"
         ],
-        "sound": "f000349.mp3"
+        "sound": "f000349.mp3",
+        "sound_begin": 760480,
+        "sound_end": 762440
     },
     {
         "id": "Aoi Botan-f000350",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9673,11 +10020,12 @@
             "て",
             "、"
         ],
-        "sound": "f000350.mp3"
+        "sound": "f000350.mp3",
+        "sound_begin": 762440,
+        "sound_end": 764440
     },
     {
         "id": "Aoi Botan-f000351",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9733,11 +10081,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000351.mp3"
+        "sound": "f000351.mp3",
+        "sound_begin": 764440,
+        "sound_end": 769920
     },
     {
         "id": "Aoi Botan-f000352",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9763,11 +10112,12 @@
             "は",
             "、"
         ],
-        "sound": "f000352.mp3"
+        "sound": "f000352.mp3",
+        "sound_begin": 769920,
+        "sound_end": 771720
     },
     {
         "id": "Aoi Botan-f000353",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9793,11 +10143,12 @@
             "ゆき",
             "、"
         ],
-        "sound": "f000353.mp3"
+        "sound": "f000353.mp3",
+        "sound_begin": 771720,
+        "sound_end": 774160
     },
     {
         "id": "Aoi Botan-f000354",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9815,11 +10166,12 @@
             "に",
             "、"
         ],
-        "sound": "f000354.mp3"
+        "sound": "f000354.mp3",
+        "sound_begin": 774160,
+        "sound_end": 775120
     },
     {
         "id": "Aoi Botan-f000355",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9869,11 +10221,12 @@
             "",
             "。"
         ],
-        "sound": "f000355.mp3"
+        "sound": "f000355.mp3",
+        "sound_begin": 775120,
+        "sound_end": 779449
     },
     {
         "id": "Aoi Botan-f000356",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9895,11 +10248,12 @@
             "た",
             "。"
         ],
-        "sound": "f000356.mp3"
+        "sound": "f000356.mp3",
+        "sound_begin": 779449,
+        "sound_end": 782920
     },
     {
         "id": "Aoi Botan-f000357",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9915,11 +10269,12 @@
             "は",
             "、"
         ],
-        "sound": "f000357.mp3"
+        "sound": "f000357.mp3",
+        "sound_begin": 782920,
+        "sound_end": 783840
     },
     {
         "id": "Aoi Botan-f000358",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9951,11 +10306,12 @@
             "と",
             "、"
         ],
-        "sound": "f000358.mp3"
+        "sound": "f000358.mp3",
+        "sound_begin": 783840,
+        "sound_end": 787498
     },
     {
         "id": "Aoi Botan-f000359",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -9969,11 +10325,12 @@
             "なるほど",
             "、"
         ],
-        "sound": "f000359.mp3"
+        "sound": "f000359.mp3",
+        "sound_begin": 787498,
+        "sound_end": 788520
     },
     {
         "id": "Aoi Botan-f000360",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10013,11 +10370,12 @@
             "た",
             "。"
         ],
-        "sound": "f000360.mp3"
+        "sound": "f000360.mp3",
+        "sound_begin": 788520,
+        "sound_end": 792720
     },
     {
         "id": "Aoi Botan-f000361",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10033,11 +10391,12 @@
             "で",
             "、"
         ],
-        "sound": "f000361.mp3"
+        "sound": "f000361.mp3",
+        "sound_begin": 792720,
+        "sound_end": 793560
     },
     {
         "id": "Aoi Botan-f000362",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10061,11 +10420,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000362.mp3"
+        "sound": "f000362.mp3",
+        "sound_begin": 793560,
+        "sound_end": 795560
     },
     {
         "id": "Aoi Botan-f000363",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10101,11 +10461,12 @@
             "で",
             "、"
         ],
-        "sound": "f000363.mp3"
+        "sound": "f000363.mp3",
+        "sound_begin": 795560,
+        "sound_end": 798773
     },
     {
         "id": "Aoi Botan-f000364",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10143,11 +10504,12 @@
             "た",
             "。"
         ],
-        "sound": "f000364.mp3"
+        "sound": "f000364.mp3",
+        "sound_begin": 798773,
+        "sound_end": 804312
     },
     {
         "id": "Aoi Botan-f000365",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10177,11 +10539,12 @@
             "た",
             "。"
         ],
-        "sound": "f000365.mp3"
+        "sound": "f000365.mp3",
+        "sound_begin": 804312,
+        "sound_end": 807840
     },
     {
         "id": "Aoi Botan-f000366",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10197,11 +10560,12 @@
             "は",
             "、"
         ],
-        "sound": "f000366.mp3"
+        "sound": "f000366.mp3",
+        "sound_begin": 807840,
+        "sound_end": 808800
     },
     {
         "id": "Aoi Botan-f000367",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10231,11 +10595,12 @@
             "と",
             "、"
         ],
-        "sound": "f000367.mp3"
+        "sound": "f000367.mp3",
+        "sound_begin": 808800,
+        "sound_end": 810881
     },
     {
         "id": "Aoi Botan-f000368",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10259,11 +10624,12 @@
             "た",
             "。"
         ],
-        "sound": "f000368.mp3"
+        "sound": "f000368.mp3",
+        "sound_begin": 810881,
+        "sound_end": 814009
     },
     {
         "id": "Aoi Botan-f000369",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10281,11 +10647,12 @@
             "は",
             "、"
         ],
-        "sound": "f000369.mp3"
+        "sound": "f000369.mp3",
+        "sound_begin": 814009,
+        "sound_end": 815080
     },
     {
         "id": "Aoi Botan-f000370",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10305,11 +10672,12 @@
             "と",
             "、"
         ],
-        "sound": "f000370.mp3"
+        "sound": "f000370.mp3",
+        "sound_begin": 815080,
+        "sound_end": 816280
     },
     {
         "id": "Aoi Botan-f000371",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10345,11 +10713,12 @@
             "た",
             "。"
         ],
-        "sound": "f000371.mp3"
+        "sound": "f000371.mp3",
+        "sound_begin": 816280,
+        "sound_end": 821040
     },
     {
         "id": "Aoi Botan-f000372",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10365,11 +10734,12 @@
             "は",
             "、"
         ],
-        "sound": "f000372.mp3"
+        "sound": "f000372.mp3",
+        "sound_begin": 821040,
+        "sound_end": 821800
     },
     {
         "id": "Aoi Botan-f000373",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10391,11 +10761,12 @@
             "て",
             "、"
         ],
-        "sound": "f000373.mp3"
+        "sound": "f000373.mp3",
+        "sound_begin": 821800,
+        "sound_end": 823440
     },
     {
         "id": "Aoi Botan-f000374",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10423,11 +10794,12 @@
             "です",
             "。"
         ],
-        "sound": "f000374.mp3"
+        "sound": "f000374.mp3",
+        "sound_begin": 823440,
+        "sound_end": 826800
     },
     {
         "id": "Aoi Botan-f000375",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10449,11 +10821,12 @@
             "や",
             "、"
         ],
-        "sound": "f000375.mp3"
+        "sound": "f000375.mp3",
+        "sound_begin": 826800,
+        "sound_end": 828400
     },
     {
         "id": "Aoi Botan-f000376",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10471,11 +10844,12 @@
             "や",
             "、"
         ],
-        "sound": "f000376.mp3"
+        "sound": "f000376.mp3",
+        "sound_begin": 828400,
+        "sound_end": 829800
     },
     {
         "id": "Aoi Botan-f000377",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10519,11 +10893,12 @@
             "た",
             "。"
         ],
-        "sound": "f000377.mp3"
+        "sound": "f000377.mp3",
+        "sound_begin": 829800,
+        "sound_end": 836200
     },
     {
         "id": "Aoi Botan-f000378",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10539,11 +10914,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000378.mp3"
+        "sound": "f000378.mp3",
+        "sound_begin": 836200,
+        "sound_end": 837160
     },
     {
         "id": "Aoi Botan-f000379",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10561,11 +10937,12 @@
             "は",
             "、"
         ],
-        "sound": "f000379.mp3"
+        "sound": "f000379.mp3",
+        "sound_begin": 837160,
+        "sound_end": 838480
     },
     {
         "id": "Aoi Botan-f000380",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10599,11 +10976,12 @@
             "て",
             "、"
         ],
-        "sound": "f000380.mp3"
+        "sound": "f000380.mp3",
+        "sound_begin": 838480,
+        "sound_end": 841280
     },
     {
         "id": "Aoi Botan-f000381",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10625,11 +11003,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000381.mp3"
+        "sound": "f000381.mp3",
+        "sound_begin": 841280,
+        "sound_end": 844080
     },
     {
         "id": "Aoi Botan-f000382",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10647,11 +11026,12 @@
             "ちゃん",
             "、"
         ],
-        "sound": "f000382.mp3"
+        "sound": "f000382.mp3",
+        "sound_begin": 844080,
+        "sound_end": 845240
     },
     {
         "id": "Aoi Botan-f000383",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10675,11 +11055,12 @@
             "から",
             "、"
         ],
-        "sound": "f000383.mp3"
+        "sound": "f000383.mp3",
+        "sound_begin": 845240,
+        "sound_end": 847320
     },
     {
         "id": "Aoi Botan-f000384",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10707,11 +11088,12 @@
             "か",
             "？"
         ],
-        "sound": "f000384.mp3"
+        "sound": "f000384.mp3",
+        "sound_begin": 847320,
+        "sound_end": 850706
     },
     {
         "id": "Aoi Botan-f000385",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10727,11 +11109,12 @@
             "と",
             "、"
         ],
-        "sound": "f000385.mp3"
+        "sound": "f000385.mp3",
+        "sound_begin": 850706,
+        "sound_end": 850800
     },
     {
         "id": "Aoi Botan-f000386",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10749,11 +11132,12 @@
             "た",
             "。"
         ],
-        "sound": "f000386.mp3"
+        "sound": "f000386.mp3",
+        "sound_begin": 850800,
+        "sound_end": 853400
     },
     {
         "id": "Aoi Botan-f000387",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10769,11 +11153,12 @@
             "は",
             "、"
         ],
-        "sound": "f000387.mp3"
+        "sound": "f000387.mp3",
+        "sound_begin": 853400,
+        "sound_end": 854200
     },
     {
         "id": "Aoi Botan-f000388",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10797,11 +11182,12 @@
             "に",
             "、"
         ],
-        "sound": "f000388.mp3"
+        "sound": "f000388.mp3",
+        "sound_begin": 854200,
+        "sound_end": 856000
     },
     {
         "id": "Aoi Botan-f000389",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10831,11 +11217,12 @@
             "です",
             "。"
         ],
-        "sound": "f000389.mp3"
+        "sound": "f000389.mp3",
+        "sound_begin": 856000,
+        "sound_end": 859560
     },
     {
         "id": "Aoi Botan-f000390",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10851,11 +11238,12 @@
             "と",
             "、"
         ],
-        "sound": "f000390.mp3"
+        "sound": "f000390.mp3",
+        "sound_begin": 859560,
+        "sound_end": 859880
     },
     {
         "id": "Aoi Botan-f000391",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10873,11 +11261,12 @@
             "は",
             "、"
         ],
-        "sound": "f000391.mp3"
+        "sound": "f000391.mp3",
+        "sound_begin": 859880,
+        "sound_end": 862080
     },
     {
         "id": "Aoi Botan-f000392",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10895,11 +11284,12 @@
             "ちゃん",
             "、"
         ],
-        "sound": "f000392.mp3"
+        "sound": "f000392.mp3",
+        "sound_begin": 862080,
+        "sound_end": 863440
     },
     {
         "id": "Aoi Botan-f000393",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10915,11 +11305,12 @@
             "は",
             "、"
         ],
-        "sound": "f000393.mp3"
+        "sound": "f000393.mp3",
+        "sound_begin": 863440,
+        "sound_end": 864080
     },
     {
         "id": "Aoi Botan-f000394",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10937,11 +11328,12 @@
             "て",
             "、"
         ],
-        "sound": "f000394.mp3"
+        "sound": "f000394.mp3",
+        "sound_begin": 864080,
+        "sound_end": 864560
     },
     {
         "id": "Aoi Botan-f000395",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10963,11 +11355,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000395.mp3"
+        "sound": "f000395.mp3",
+        "sound_begin": 864560,
+        "sound_end": 866760
     },
     {
         "id": "Aoi Botan-f000396",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -10983,11 +11376,12 @@
             "は",
             "、"
         ],
-        "sound": "f000396.mp3"
+        "sound": "f000396.mp3",
+        "sound_begin": 866760,
+        "sound_end": 867560
     },
     {
         "id": "Aoi Botan-f000397",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11007,11 +11401,12 @@
             "も",
             "、"
         ],
-        "sound": "f000397.mp3"
+        "sound": "f000397.mp3",
+        "sound_begin": 867560,
+        "sound_end": 868720
     },
     {
         "id": "Aoi Botan-f000398",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11033,11 +11428,12 @@
             "も",
             "、"
         ],
-        "sound": "f000398.mp3"
+        "sound": "f000398.mp3",
+        "sound_begin": 868720,
+        "sound_end": 870640
     },
     {
         "id": "Aoi Botan-f000399",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11061,11 +11457,12 @@
             "て",
             "、"
         ],
-        "sound": "f000399.mp3"
+        "sound": "f000399.mp3",
+        "sound_begin": 870640,
+        "sound_end": 871920
     },
     {
         "id": "Aoi Botan-f000400",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11085,11 +11482,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000400.mp3"
+        "sound": "f000400.mp3",
+        "sound_begin": 871920,
+        "sound_end": 874275
     },
     {
         "id": "Aoi Botan-f000401",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11137,11 +11535,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000401.mp3"
+        "sound": "f000401.mp3",
+        "sound_begin": 874275,
+        "sound_end": 879440
     },
     {
         "id": "Aoi Botan-f000402",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11157,11 +11556,12 @@
             "か",
             "、"
         ],
-        "sound": "f000402.mp3"
+        "sound": "f000402.mp3",
+        "sound_begin": 879440,
+        "sound_end": 880160
     },
     {
         "id": "Aoi Botan-f000403",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11183,11 +11583,12 @@
             "が",
             "、"
         ],
-        "sound": "f000403.mp3"
+        "sound": "f000403.mp3",
+        "sound_begin": 880160,
+        "sound_end": 881120
     },
     {
         "id": "Aoi Botan-f000404",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11217,11 +11618,12 @@
             "て",
             "、"
         ],
-        "sound": "f000404.mp3"
+        "sound": "f000404.mp3",
+        "sound_begin": 881120,
+        "sound_end": 884360
     },
     {
         "id": "Aoi Botan-f000405",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11237,11 +11639,12 @@
             "から",
             "、"
         ],
-        "sound": "f000405.mp3"
+        "sound": "f000405.mp3",
+        "sound_begin": 884360,
+        "sound_end": 884960
     },
     {
         "id": "Aoi Botan-f000406",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11305,11 +11708,12 @@
             "",
             "。"
         ],
-        "sound": "f000406.mp3"
+        "sound": "f000406.mp3",
+        "sound_begin": 884960,
+        "sound_end": 890697
     },
     {
         "id": "Aoi Botan-f000407",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11331,11 +11735,12 @@
             "た",
             "。"
         ],
-        "sound": "f000407.mp3"
+        "sound": "f000407.mp3",
+        "sound_begin": 890697,
+        "sound_end": 893680
     },
     {
         "id": "Aoi Botan-f000408",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11359,11 +11764,12 @@
             "が",
             "、"
         ],
-        "sound": "f000408.mp3"
+        "sound": "f000408.mp3",
+        "sound_begin": 893680,
+        "sound_end": 896120
     },
     {
         "id": "Aoi Botan-f000409",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11377,11 +11783,12 @@
             "なるほど",
             "、"
         ],
-        "sound": "f000409.mp3"
+        "sound": "f000409.mp3",
+        "sound_begin": 896120,
+        "sound_end": 896840
     },
     {
         "id": "Aoi Botan-f000410",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11407,11 +11814,12 @@
             "は",
             "、"
         ],
-        "sound": "f000410.mp3"
+        "sound": "f000410.mp3",
+        "sound_begin": 896840,
+        "sound_end": 898720
     },
     {
         "id": "Aoi Botan-f000411",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11435,11 +11843,12 @@
             "た",
             "。"
         ],
-        "sound": "f000411.mp3"
+        "sound": "f000411.mp3",
+        "sound_begin": 898720,
+        "sound_end": 901320
     },
     {
         "id": "Aoi Botan-f000412",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11455,11 +11864,12 @@
             "で",
             "、"
         ],
-        "sound": "f000412.mp3"
+        "sound": "f000412.mp3",
+        "sound_begin": 901320,
+        "sound_end": 902160
     },
     {
         "id": "Aoi Botan-f000413",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11491,11 +11901,12 @@
             "た",
             "。"
         ],
-        "sound": "f000413.mp3"
+        "sound": "f000413.mp3",
+        "sound_begin": 902160,
+        "sound_end": 906864
     },
     {
         "id": "Aoi Botan-f000414",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11517,11 +11928,12 @@
             "を",
             "、"
         ],
-        "sound": "f000414.mp3"
+        "sound": "f000414.mp3",
+        "sound_begin": 906864,
+        "sound_end": 909120
     },
     {
         "id": "Aoi Botan-f000415",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11551,11 +11963,12 @@
             "に",
             "、"
         ],
-        "sound": "f000415.mp3"
+        "sound": "f000415.mp3",
+        "sound_begin": 909120,
+        "sound_end": 910880
     },
     {
         "id": "Aoi Botan-f000416",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11577,11 +11990,12 @@
             "た",
             "。"
         ],
-        "sound": "f000416.mp3"
+        "sound": "f000416.mp3",
+        "sound_begin": 910880,
+        "sound_end": 915403
     },
     {
         "id": "Aoi Botan-f000417",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11605,11 +12019,12 @@
             "た",
             "、"
         ],
-        "sound": "f000417.mp3"
+        "sound": "f000417.mp3",
+        "sound_begin": 915403,
+        "sound_end": 916678
     },
     {
         "id": "Aoi Botan-f000418",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11627,11 +12042,12 @@
             "は",
             "、"
         ],
-        "sound": "f000418.mp3"
+        "sound": "f000418.mp3",
+        "sound_begin": 916678,
+        "sound_end": 918000
     },
     {
         "id": "Aoi Botan-f000419",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11657,11 +12073,12 @@
             "た",
             "。"
         ],
-        "sound": "f000419.mp3"
+        "sound": "f000419.mp3",
+        "sound_begin": 918000,
+        "sound_end": 919800
     },
     {
         "id": "Aoi Botan-f000420",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11691,11 +12108,12 @@
             "は",
             "、"
         ],
-        "sound": "f000420.mp3"
+        "sound": "f000420.mp3",
+        "sound_begin": 919800,
+        "sound_end": 923360
     },
     {
         "id": "Aoi Botan-f000421",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11727,11 +12145,12 @@
             "た",
             "。"
         ],
-        "sound": "f000421.mp3"
+        "sound": "f000421.mp3",
+        "sound_begin": 923360,
+        "sound_end": 928280
     },
     {
         "id": "Aoi Botan-f000422",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11751,11 +12170,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000422.mp3"
+        "sound": "f000422.mp3",
+        "sound_begin": 928280,
+        "sound_end": 929360
     },
     {
         "id": "Aoi Botan-f000423",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11773,11 +12193,12 @@
             "で",
             "、"
         ],
-        "sound": "f000423.mp3"
+        "sound": "f000423.mp3",
+        "sound_begin": 929360,
+        "sound_end": 930760
     },
     {
         "id": "Aoi Botan-f000424",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11791,11 +12212,12 @@
             "また",
             "、"
         ],
-        "sound": "f000424.mp3"
+        "sound": "f000424.mp3",
+        "sound_begin": 930760,
+        "sound_end": 931240
     },
     {
         "id": "Aoi Botan-f000425",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11815,11 +12237,12 @@
             "で",
             "、"
         ],
-        "sound": "f000425.mp3"
+        "sound": "f000425.mp3",
+        "sound_begin": 931240,
+        "sound_end": 932760
     },
     {
         "id": "Aoi Botan-f000426",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11837,11 +12260,12 @@
             "は",
             "、"
         ],
-        "sound": "f000426.mp3"
+        "sound": "f000426.mp3",
+        "sound_begin": 932760,
+        "sound_end": 933560
     },
     {
         "id": "Aoi Botan-f000427",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11865,11 +12289,12 @@
             "か",
             "。"
         ],
-        "sound": "f000427.mp3"
+        "sound": "f000427.mp3",
+        "sound_begin": 933560,
+        "sound_end": 935760
     },
     {
         "id": "Aoi Botan-f000428",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11883,11 +12308,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000428.mp3"
+        "sound": "f000428.mp3",
+        "sound_begin": 935760,
+        "sound_end": 936640
     },
     {
         "id": "Aoi Botan-f000429",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11909,11 +12335,12 @@
             "は",
             "、"
         ],
-        "sound": "f000429.mp3"
+        "sound": "f000429.mp3",
+        "sound_begin": 936640,
+        "sound_end": 938440
     },
     {
         "id": "Aoi Botan-f000430",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11933,11 +12360,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000430.mp3"
+        "sound": "f000430.mp3",
+        "sound_begin": 938440,
+        "sound_end": 939440
     },
     {
         "id": "Aoi Botan-f000431",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11969,11 +12397,12 @@
             "か",
             "。"
         ],
-        "sound": "f000431.mp3"
+        "sound": "f000431.mp3",
+        "sound_begin": 939440,
+        "sound_end": 944440
     },
     {
         "id": "Aoi Botan-f000432",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -11995,11 +12424,12 @@
             "は",
             "、"
         ],
-        "sound": "f000432.mp3"
+        "sound": "f000432.mp3",
+        "sound_begin": 944440,
+        "sound_end": 945880
     },
     {
         "id": "Aoi Botan-f000433",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -12033,11 +12463,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000433.mp3"
+        "sound": "f000433.mp3",
+        "sound_begin": 945880,
+        "sound_end": 950400
     },
     {
         "id": "Aoi Botan-f000434",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -12053,11 +12484,12 @@
             "は",
             "、"
         ],
-        "sound": "f000434.mp3"
+        "sound": "f000434.mp3",
+        "sound_begin": 950400,
+        "sound_end": 951560
     },
     {
         "id": "Aoi Botan-f000435",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -12099,11 +12531,12 @@
             "に",
             "、"
         ],
-        "sound": "f000435.mp3"
+        "sound": "f000435.mp3",
+        "sound_begin": 951560,
+        "sound_end": 956880
     },
     {
         "id": "Aoi Botan-f000436",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -12155,11 +12588,12 @@
             "た",
             "。"
         ],
-        "sound": "f000436.mp3"
+        "sound": "f000436.mp3",
+        "sound_begin": 956880,
+        "sound_end": 960360
     },
     {
         "id": "Aoi Botan-f000437",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aoi Botan",
         "deck_name_japanese": "青いボタン",
@@ -12187,6 +12621,8 @@
             "─",
             "─"
         ],
-        "sound": "f000437.mp3"
+        "sound": "f000437.mp3",
+        "sound_begin": 960360,
+        "sound_end": 965000
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Usagi-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -13,11 +12,12 @@
         "word_list": [
             "ウサギ"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5945,
+        "sound_end": 10720
     },
     {
         "id": "Usagi-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -43,11 +43,12 @@
             "キマシタ",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10720,
+        "sound_end": 15280
     },
     {
         "id": "Usagi-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -77,11 +78,12 @@
             "ヲリマシタ",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 15280,
+        "sound_end": 20800
     },
     {
         "id": "Usagi-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -99,11 +101,12 @@
             "クセ",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 20800,
+        "sound_end": 22800
     },
     {
         "id": "Usagi-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -127,11 +130,12 @@
             "イリマセンカ",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 22800,
+        "sound_end": 26560
     },
     {
         "id": "Usagi-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -149,11 +153,12 @@
             "コ",
             "」"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 26560,
+        "sound_end": 29280
     },
     {
         "id": "Usagi-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -175,11 +180,12 @@
             "アルキマシタ",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 29280,
+        "sound_end": 31040
     },
     {
         "id": "Usagi-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -197,11 +203,12 @@
             "チヨウド",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 33540,
+        "sound_end": 35880
     },
     {
         "id": "Usagi-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -235,11 +242,12 @@
             "トコロデシタノデ",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 35880,
+        "sound_end": 40160
     },
     {
         "id": "Usagi-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -273,11 +281,12 @@
             "ミマシタ",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 40160,
+        "sound_end": 44220
     },
     {
         "id": "Usagi-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -293,11 +302,12 @@
             "ヤア",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 46320,
+        "sound_end": 47120
     },
     {
         "id": "Usagi-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -311,11 +321,12 @@
             "チヒサイネ",
             "」"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 47120,
+        "sound_end": 48960
     },
     {
         "id": "Usagi-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -331,11 +342,12 @@
             "コドモデスカラネ",
             "」"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 50960,
+        "sound_end": 52440
     },
     {
         "id": "Usagi-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -351,11 +363,12 @@
             "コレデハ",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 54340,
+        "sound_end": 55560
     },
     {
         "id": "Usagi-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -385,11 +398,12 @@
             "ナリマスマイ",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 55560,
+        "sound_end": 61120
     },
     {
         "id": "Usagi-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -413,11 +427,12 @@
             "ナツタラ",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 61120,
+        "sound_end": 63840
     },
     {
         "id": "Usagi-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -439,11 +454,12 @@
             "ナル",
             "」"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 63840,
+        "sound_end": 70040
     },
     {
         "id": "Usagi-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -463,11 +479,12 @@
             "ダメダヨ",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 70040,
+        "sound_end": 72680
     },
     {
         "id": "Usagi-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -483,11 +500,12 @@
             "ホントウデスヨ",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 72680,
+        "sound_end": 74600
     },
     {
         "id": "Usagi-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -517,11 +535,12 @@
             "コトヲ",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 74600,
+        "sound_end": 81014
     },
     {
         "id": "Usagi-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -547,11 +566,12 @@
             "シヨウコデス",
             "」"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 81014,
+        "sound_end": 85880
     },
     {
         "id": "Usagi-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -569,11 +589,12 @@
             "ナルホド",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 85880,
+        "sound_end": 89440
     },
     {
         "id": "Usagi-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -595,11 +616,12 @@
             "フタツ",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 89440,
+        "sound_end": 92560
     },
     {
         "id": "Usagi-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -621,11 +643,12 @@
             "ヰマス",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 92560,
+        "sound_end": 96793
     },
     {
         "id": "Usagi-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -655,11 +678,12 @@
             "カヒマシタ",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 96793,
+        "sound_end": 107080
     },
     {
         "id": "Usagi-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -685,11 +709,12 @@
             "カヘルト",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 107080,
+        "sound_end": 111560
     },
     {
         "id": "Usagi-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -703,11 +728,12 @@
             "サツソク",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 111560,
+        "sound_end": 112520
     },
     {
         "id": "Usagi-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -733,11 +759,12 @@
             "ツクリハジメマシタ",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 112520,
+        "sound_end": 115340
     },
     {
         "id": "Usagi-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -751,11 +778,12 @@
             "ナニシロ",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 117440,
+        "sound_end": 118720
     },
     {
         "id": "Usagi-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -769,11 +797,12 @@
             "イマニ",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 118720,
+        "sound_end": 119160
     },
     {
         "id": "Usagi-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -803,11 +832,12 @@
             "イフノデスカラ",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 119160,
+        "sound_end": 123507
     },
     {
         "id": "Usagi-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -829,11 +859,12 @@
             "マニアヒマセン",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 123507,
+        "sound_end": 128603
     },
     {
         "id": "Usagi-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -847,11 +878,12 @@
             "ソコデ",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 128603,
+        "sound_end": 129960
     },
     {
         "id": "Usagi-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -877,11 +909,12 @@
             "アリマシタ",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 129960,
+        "sound_end": 134240
     },
     {
         "id": "Usagi-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -899,11 +932,12 @@
             "デキアガリマシタ",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 138240,
+        "sound_end": 141219
     },
     {
         "id": "Usagi-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -941,11 +975,12 @@
             "ヤツテモ",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 141219,
+        "sound_end": 147800
     },
     {
         "id": "Usagi-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -967,11 +1002,12 @@
             "ナリマセン",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 147800,
+        "sound_end": 151160
     },
     {
         "id": "Usagi-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1001,11 +1037,12 @@
             "シマヒマシタ",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 153760,
+        "sound_end": 158240
     },
     {
         "id": "Usagi-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1029,11 +1066,12 @@
             "デキナイ",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 161562,
+        "sound_end": 164768
     },
     {
         "id": "Usagi-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1059,11 +1097,12 @@
             "ミヨウ",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 164768,
+        "sound_end": 170357
     },
     {
         "id": "Usagi-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1089,11 +1128,12 @@
             "シバリツケラレマシタ",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 170357,
+        "sound_end": 176329
     },
     {
         "id": "Usagi-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1123,11 +1163,12 @@
             "フリアゲ",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 176329,
+        "sound_end": 182840
     },
     {
         "id": "Usagi-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1143,11 +1184,12 @@
             "シーツ",
             "」"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 182840,
+        "sound_end": 185288
     },
     {
         "id": "Usagi-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1165,11 +1207,12 @@
             "イヒマシタ",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 185288,
+        "sound_end": 187300
     },
     {
         "id": "Usagi-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1183,11 +1226,12 @@
             "ウサギハ",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 189261,
+        "sound_end": 190562
     },
     {
         "id": "Usagi-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1213,11 +1257,12 @@
             "ナシニ",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 190562,
+        "sound_end": 193960
     },
     {
         "id": "Usagi-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1243,11 +1288,12 @@
             "ヲリマシタ",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 193960,
+        "sound_end": 197980
     },
     {
         "id": "Usagi-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1273,11 +1319,12 @@
             "アリマシタ",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 200080,
+        "sound_end": 203840
     },
     {
         "id": "Usagi-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1293,11 +1340,12 @@
             "ヤレヤレ",
             "」"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 206640,
+        "sound_end": 209562
     },
     {
         "id": "Usagi-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1315,11 +1363,12 @@
             "チヤウサンハ",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 209562,
+        "sound_end": 212617
     },
     {
         "id": "Usagi-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Usagi",
         "deck_name_japanese": "ウサギ",
@@ -1349,6 +1398,8 @@
             "シマヒマシタ",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 212617,
+        "sound_end": 217980
     }
 ]

@@ -1,0 +1,611 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 3028,
+        "audio_end": 4640
+    },
+    {
+        "id": "f000002",
+        "sentence": "蟹のしょうばい",
+        "sentence_with_furigana": "蟹のしょうばい",
+        "audio_begin": 7340,
+        "audio_end": 8520
+    },
+    {
+        "id": "f000003",
+        "sentence": "蟹がいろいろ考えたあげく、",
+        "sentence_with_furigana": "蟹[かに]がいろいろ考えたあげく、",
+        "audio_begin": 12520,
+        "audio_end": 16335
+    },
+    {
+        "id": "f000004",
+        "sentence": "とこやをはじめました。",
+        "sentence_with_furigana": "とこやをはじめました。",
+        "audio_begin": 16335,
+        "audio_end": 17880
+    },
+    {
+        "id": "f000005",
+        "sentence": "蟹の考えとしてはおおできでありました。",
+        "sentence_with_furigana": "蟹[かに]の考えとしてはおおできでありました。",
+        "audio_begin": 20080,
+        "audio_end": 23400
+    },
+    {
+        "id": "f000006",
+        "sentence": "ところで、",
+        "sentence_with_furigana": "ところで、",
+        "audio_begin": 26000,
+        "audio_end": 27131
+    },
+    {
+        "id": "f000007",
+        "sentence": "蟹は、",
+        "sentence_with_furigana": "蟹[かに]は、",
+        "audio_begin": 27131,
+        "audio_end": 29159
+    },
+    {
+        "id": "f000008",
+        "sentence": "「とこやというしょうばいは、",
+        "sentence_with_furigana": "「とこやというしょうばいは、",
+        "audio_begin": 29159,
+        "audio_end": 31473
+    },
+    {
+        "id": "f000009",
+        "sentence": "たいへんひまなものだな。」",
+        "sentence_with_furigana": "たいへんひまなものだな。」",
+        "audio_begin": 31473,
+        "audio_end": 33360
+    },
+    {
+        "id": "f000010",
+        "sentence": "と思いました。",
+        "sentence_with_furigana": "と思いました。",
+        "audio_begin": 35060,
+        "audio_end": 37335
+    },
+    {
+        "id": "f000011",
+        "sentence": "と申しますのは、",
+        "sentence_with_furigana": "と 申[もう]しますのは、",
+        "audio_begin": 37335,
+        "audio_end": 39360
+    },
+    {
+        "id": "f000012",
+        "sentence": "ひとりもお客さんがこないからであります。",
+        "sentence_with_furigana": "ひとりもお客さんがこないからであります。",
+        "audio_begin": 39360,
+        "audio_end": 42940
+    },
+    {
+        "id": "f000013",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 45040,
+        "audio_end": 46382
+    },
+    {
+        "id": "f000014",
+        "sentence": "蟹のとこやさんは、",
+        "sentence_with_furigana": "蟹[かに]のとこやさんは、",
+        "audio_begin": 46382,
+        "audio_end": 48249
+    },
+    {
+        "id": "f000015",
+        "sentence": "はさみをもって海っぱたにやっていきました。",
+        "sentence_with_furigana": "はさみをもって海っぱたにやっていきました。",
+        "audio_begin": 48249,
+        "audio_end": 52300
+    },
+    {
+        "id": "f000016",
+        "sentence": "そこにはたこがひるねをしていました。",
+        "sentence_with_furigana": "そこにはたこがひるねをしていました。",
+        "audio_begin": 54330,
+        "audio_end": 58100
+    },
+    {
+        "id": "f000017",
+        "sentence": "「もしもし、",
+        "sentence_with_furigana": "「もしもし、",
+        "audio_begin": 60200,
+        "audio_end": 61476
+    },
+    {
+        "id": "f000018",
+        "sentence": "たこさん。」",
+        "sentence_with_furigana": "たこさん。」",
+        "audio_begin": 61476,
+        "audio_end": 63428
+    },
+    {
+        "id": "f000019",
+        "sentence": "と蟹はよびかけました。",
+        "sentence_with_furigana": "と 蟹[かに]はよびかけました。",
+        "audio_begin": 63428,
+        "audio_end": 65840
+    },
+    {
+        "id": "f000020",
+        "sentence": "たこはめをさまして、",
+        "sentence_with_furigana": "たこはめをさまして、",
+        "audio_begin": 67540,
+        "audio_end": 69840
+    },
+    {
+        "id": "f000021",
+        "sentence": "「なんだ。」",
+        "sentence_with_furigana": "「なんだ。」",
+        "audio_begin": 69840,
+        "audio_end": 71596
+    },
+    {
+        "id": "f000022",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 71596,
+        "audio_end": 73961
+    },
+    {
+        "id": "f000023",
+        "sentence": "「とこやですが、",
+        "sentence_with_furigana": "「とこやですが、",
+        "audio_begin": 73961,
+        "audio_end": 75532
+    },
+    {
+        "id": "f000024",
+        "sentence": "ごようはありませんか。」",
+        "sentence_with_furigana": "ごようはありませんか。」",
+        "audio_begin": 75532,
+        "audio_end": 77380
+    },
+    {
+        "id": "f000025",
+        "sentence": "「よくごらんよ。",
+        "sentence_with_furigana": "「よくごらんよ。",
+        "audio_begin": 79480,
+        "audio_end": 81560
+    },
+    {
+        "id": "f000026",
+        "sentence": "わたしの頭に毛があるかどうか。」",
+        "sentence_with_furigana": "わたしの頭に毛があるかどうか。」",
+        "audio_begin": 81560,
+        "audio_end": 84640
+    },
+    {
+        "id": "f000027",
+        "sentence": "蟹はたこの頭をよくみました。",
+        "sentence_with_furigana": "蟹[かに]はたこの頭をよくみました。",
+        "audio_begin": 87040,
+        "audio_end": 91547
+    },
+    {
+        "id": "f000028",
+        "sentence": "なるほど毛はひとすじもなく、",
+        "sentence_with_furigana": "なるほど毛はひとすじもなく、",
+        "audio_begin": 91547,
+        "audio_end": 94301
+    },
+    {
+        "id": "f000029",
+        "sentence": "つるんこでありました。",
+        "sentence_with_furigana": "つるんこでありました。",
+        "audio_begin": 94301,
+        "audio_end": 97200
+    },
+    {
+        "id": "f000030",
+        "sentence": "いくら蟹がじょうずなとこやでも、",
+        "sentence_with_furigana": "いくら 蟹[かに]がじょうずなとこやでも、",
+        "audio_begin": 97200,
+        "audio_end": 99893
+    },
+    {
+        "id": "f000031",
+        "sentence": "毛のない頭をかることはできません。",
+        "sentence_with_furigana": "毛のない頭をかることはできません。",
+        "audio_begin": 99893,
+        "audio_end": 102480
+    },
+    {
+        "id": "f000032",
+        "sentence": "蟹は、",
+        "sentence_with_furigana": "蟹[かに]は、",
+        "audio_begin": 105380,
+        "audio_end": 105880
+    },
+    {
+        "id": "f000033",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 105880,
+        "audio_end": 107030
+    },
+    {
+        "id": "f000034",
+        "sentence": "山へやっていきました。",
+        "sentence_with_furigana": "山へやっていきました。",
+        "audio_begin": 107030,
+        "audio_end": 110360
+    },
+    {
+        "id": "f000035",
+        "sentence": "山にはたぬきがひるねをしていました。",
+        "sentence_with_furigana": "山にはたぬきがひるねをしていました。",
+        "audio_begin": 110360,
+        "audio_end": 113740
+    },
+    {
+        "id": "f000036",
+        "sentence": "「もしもし、",
+        "sentence_with_furigana": "「もしもし、",
+        "audio_begin": 115840,
+        "audio_end": 116901
+    },
+    {
+        "id": "f000037",
+        "sentence": "たぬきさん。」",
+        "sentence_with_furigana": "たぬきさん。」",
+        "audio_begin": 116901,
+        "audio_end": 117640
+    },
+    {
+        "id": "f000038",
+        "sentence": "たぬきはめをさまして、",
+        "sentence_with_furigana": "たぬきはめをさまして、",
+        "audio_begin": 119340,
+        "audio_end": 121600
+    },
+    {
+        "id": "f000039",
+        "sentence": "「なんだ。」",
+        "sentence_with_furigana": "「なんだ。」",
+        "audio_begin": 121600,
+        "audio_end": 123113
+    },
+    {
+        "id": "f000040",
+        "sentence": "といいました。",
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 123113,
+        "audio_end": 125191
+    },
+    {
+        "id": "f000041",
+        "sentence": "「とこやですがごようはありませんか。」",
+        "sentence_with_furigana": "「とこやですがごようはありませんか。」",
+        "audio_begin": 125191,
+        "audio_end": 128039
+    },
+    {
+        "id": "f000042",
+        "sentence": "たぬきは、",
+        "sentence_with_furigana": "たぬきは、",
+        "audio_begin": 130139,
+        "audio_end": 130759
+    },
+    {
+        "id": "f000043",
+        "sentence": "いたずらがすきなけものですから、",
+        "sentence_with_furigana": "いたずらがすきなけものですから、",
+        "audio_begin": 130759,
+        "audio_end": 133240
+    },
+    {
+        "id": "f000044",
+        "sentence": "よくないことを考えました。",
+        "sentence_with_furigana": "よくないことを考えました。",
+        "audio_begin": 133240,
+        "audio_end": 135200
+    },
+    {
+        "id": "f000045",
+        "sentence": "「よろしい、",
+        "sentence_with_furigana": "「よろしい、",
+        "audio_begin": 136900,
+        "audio_end": 137937
+    },
+    {
+        "id": "f000046",
+        "sentence": "かってもらおう。",
+        "sentence_with_furigana": "かってもらおう。",
+        "audio_begin": 137937,
+        "audio_end": 139720
+    },
+    {
+        "id": "f000047",
+        "sentence": "ところで、",
+        "sentence_with_furigana": "ところで、",
+        "audio_begin": 139720,
+        "audio_end": 140960
+    },
+    {
+        "id": "f000048",
+        "sentence": "ひとつやくそくしてくれなきゃいけない。",
+        "sentence_with_furigana": "ひとつやくそくしてくれなきゃいけない。",
+        "audio_begin": 140960,
+        "audio_end": 144382
+    },
+    {
+        "id": "f000049",
+        "sentence": "というのは、",
+        "sentence_with_furigana": "というのは、",
+        "audio_begin": 144382,
+        "audio_end": 145640
+    },
+    {
+        "id": "f000050",
+        "sentence": "わたしのあとで、",
+        "sentence_with_furigana": "わたしのあとで、",
+        "audio_begin": 145640,
+        "audio_end": 147360
+    },
+    {
+        "id": "f000051",
+        "sentence": "わたしのお父さんの毛もかってもらいたいのさ。」",
+        "sentence_with_furigana": "わたしのお父さんの毛もかってもらいたいのさ。」",
+        "audio_begin": 147360,
+        "audio_end": 152160
+    },
+    {
+        "id": "f000052",
+        "sentence": "「へい、",
+        "sentence_with_furigana": "「へい、",
+        "audio_begin": 152160,
+        "audio_end": 153080
+    },
+    {
+        "id": "f000053",
+        "sentence": "おやすいことです。」",
+        "sentence_with_furigana": "おやすいことです。」",
+        "audio_begin": 153080,
+        "audio_end": 155997
+    },
+    {
+        "id": "f000054",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 155997,
+        "audio_end": 157323
+    },
+    {
+        "id": "f000055",
+        "sentence": "蟹のうでをふるうときがきました。",
+        "sentence_with_furigana": "蟹[かに]のうでをふるうときがきました。",
+        "audio_begin": 157323,
+        "audio_end": 159600
+    },
+    {
+        "id": "f000056",
+        "sentence": "ちょっきん、",
+        "sentence_with_furigana": "ちょっきん、",
+        "audio_begin": 161200,
+        "audio_end": 162467
+    },
+    {
+        "id": "f000057",
+        "sentence": "ちょっきん、",
+        "sentence_with_furigana": "ちょっきん、",
+        "audio_begin": 162467,
+        "audio_end": 163937
+    },
+    {
+        "id": "f000058",
+        "sentence": "ちょっきん。",
+        "sentence_with_furigana": "ちょっきん。",
+        "audio_begin": 163937,
+        "audio_end": 164680
+    },
+    {
+        "id": "f000059",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "audio_begin": 168180,
+        "audio_end": 169465
+    },
+    {
+        "id": "f000060",
+        "sentence": "蟹というものは、",
+        "sentence_with_furigana": "蟹[かに]というものは、",
+        "audio_begin": 169465,
+        "audio_end": 171000
+    },
+    {
+        "id": "f000061",
+        "sentence": "あまり大きなものではありません。",
+        "sentence_with_furigana": "あまり大きなものではありません。",
+        "audio_begin": 171000,
+        "audio_end": 173040
+    },
+    {
+        "id": "f000062",
+        "sentence": "蟹とくらべたら、",
+        "sentence_with_furigana": "蟹[かに]とくらべたら、",
+        "audio_begin": 174840,
+        "audio_end": 176371
+    },
+    {
+        "id": "f000063",
+        "sentence": "たぬきはとんでもなく大きなものであります。",
+        "sentence_with_furigana": "たぬきはとんでもなく大きなものであります。",
+        "audio_begin": 176371,
+        "audio_end": 180206
+    },
+    {
+        "id": "f000064",
+        "sentence": "その上たぬきというものは、",
+        "sentence_with_furigana": "その上たぬきというものは、",
+        "audio_begin": 180206,
+        "audio_end": 183094
+    },
+    {
+        "id": "f000065",
+        "sentence": "からだじゅうが毛むくじゃらであります。",
+        "sentence_with_furigana": "からだじゅうが毛むくじゃらであります。",
+        "audio_begin": 183094,
+        "audio_end": 186360
+    },
+    {
+        "id": "f000066",
+        "sentence": "ですから仕事はなかなかはかどりません。",
+        "sentence_with_furigana": "ですから仕事はなかなかはかどりません。",
+        "audio_begin": 186360,
+        "audio_end": 189520
+    },
+    {
+        "id": "f000067",
+        "sentence": "蟹は口から泡をふいていっしょうけんめいはさみをつかいました。",
+        "sentence_with_furigana": "蟹[かに]は口から 泡[あわ]をふいていっしょうけんめいはさみをつかいました。",
+        "audio_begin": 191220,
+        "audio_end": 196960
+    },
+    {
+        "id": "f000068",
+        "sentence": "そして三日かかって、",
+        "sentence_with_furigana": "そして三日かかって、",
+        "audio_begin": 196960,
+        "audio_end": 199400
+    },
+    {
+        "id": "f000069",
+        "sentence": "やっとのこと仕事はおわりました。",
+        "sentence_with_furigana": "やっとのこと仕事はおわりました。",
+        "audio_begin": 199400,
+        "audio_end": 202080
+    },
+    {
+        "id": "f000070",
+        "sentence": "「じゃ、",
+        "sentence_with_furigana": "「じゃ、",
+        "audio_begin": 203980,
+        "audio_end": 205103
+    },
+    {
+        "id": "f000071",
+        "sentence": "やくそくだから、",
+        "sentence_with_furigana": "やくそくだから、",
+        "audio_begin": 205103,
+        "audio_end": 206520
+    },
+    {
+        "id": "f000072",
+        "sentence": "わたしのお父さんの毛もかってくれたまえ。」",
+        "sentence_with_furigana": "わたしのお父さんの毛もかってくれたまえ。」",
+        "audio_begin": 206520,
+        "audio_end": 211120
+    },
+    {
+        "id": "f000073",
+        "sentence": "「お父さんというのは、",
+        "sentence_with_furigana": "「お父さんというのは、",
+        "audio_begin": 211120,
+        "audio_end": 212840
+    },
+    {
+        "id": "f000074",
+        "sentence": "どのくらい大きなかたですか。」",
+        "sentence_with_furigana": "どのくらい大きなかたですか。」",
+        "audio_begin": 212840,
+        "audio_end": 216440
+    },
+    {
+        "id": "f000075",
+        "sentence": "「あの山くらいあるかね。」",
+        "sentence_with_furigana": "「あの山くらいあるかね。」",
+        "audio_begin": 216440,
+        "audio_end": 218640
+    },
+    {
+        "id": "f000076",
+        "sentence": "蟹はめんくらいました。",
+        "sentence_with_furigana": "蟹[かに]はめんくらいました。",
+        "audio_begin": 220740,
+        "audio_end": 223420
+    },
+    {
+        "id": "f000077",
+        "sentence": "そんなに大きくては、",
+        "sentence_with_furigana": "そんなに大きくては、",
+        "audio_begin": 223420,
+        "audio_end": 224960
+    },
+    {
+        "id": "f000078",
+        "sentence": "とてもじぶんひとりでは、",
+        "sentence_with_furigana": "とてもじぶんひとりでは、",
+        "audio_begin": 224960,
+        "audio_end": 226520
+    },
+    {
+        "id": "f000079",
+        "sentence": "まにあわぬと思いました。",
+        "sentence_with_furigana": "まにあわぬと思いました。",
+        "audio_begin": 226520,
+        "audio_end": 231560
+    },
+    {
+        "id": "f000080",
+        "sentence": "そこで蟹は、",
+        "sentence_with_furigana": "そこで 蟹[かに]は、",
+        "audio_begin": 231560,
+        "audio_end": 233320
+    },
+    {
+        "id": "f000081",
+        "sentence": "じぶんの子どもたちをみなとこやにしました。",
+        "sentence_with_furigana": "じぶんの子どもたちをみなとこやにしました。",
+        "audio_begin": 233320,
+        "audio_end": 238240
+    },
+    {
+        "id": "f000082",
+        "sentence": "子どもばかりか、",
+        "sentence_with_furigana": "子どもばかりか、",
+        "audio_begin": 238240,
+        "audio_end": 239891
+    },
+    {
+        "id": "f000083",
+        "sentence": "まごもひこも、",
+        "sentence_with_furigana": "まごもひこも、",
+        "audio_begin": 239891,
+        "audio_end": 241192
+    },
+    {
+        "id": "f000084",
+        "sentence": "うまれてくる蟹はみなとこやにしました。",
+        "sentence_with_furigana": "うまれてくる 蟹[かに]はみなとこやにしました。",
+        "audio_begin": 241192,
+        "audio_end": 245480
+    },
+    {
+        "id": "f000085",
+        "sentence": "それでわたくしたちが道ばたにみうける、",
+        "sentence_with_furigana": "それでわたくしたちが道ばたにみうける、",
+        "audio_begin": 249031,
+        "audio_end": 253760
+    },
+    {
+        "id": "f000086",
+        "sentence": "ほんに小さな蟹でさえも、",
+        "sentence_with_furigana": "ほんに小さな 蟹[かに]でさえも、",
+        "audio_begin": 253760,
+        "audio_end": 256802
+    },
+    {
+        "id": "f000087",
+        "sentence": "ちゃんとはさみをもっています。",
+        "sentence_with_furigana": "ちゃんとはさみをもっています。",
+        "audio_begin": 256802,
+        "audio_end": 260100
+    }
+]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Oppai-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -13,11 +12,12 @@
         "word_list": [
             "おっぱい"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5739,
+        "sound_end": 9560
     },
     {
         "id": "Oppai-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -33,11 +33,12 @@
             "が",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9560,
+        "sound_end": 10720
     },
     {
         "id": "Oppai-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -81,11 +82,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 10720,
+        "sound_end": 17000
     },
     {
         "id": "Oppai-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -123,11 +125,12 @@
             "は",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 17000,
+        "sound_end": 20280
     },
     {
         "id": "Oppai-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -149,11 +152,12 @@
             "。",
             "」"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 20280,
+        "sound_end": 22114
     },
     {
         "id": "Oppai-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -175,11 +179,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 22114,
+        "sound_end": 25040
     },
     {
         "id": "Oppai-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -221,11 +226,12 @@
             "。",
             "」"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 25040,
+        "sound_end": 29109
     },
     {
         "id": "Oppai-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -239,11 +245,12 @@
             "と",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 29109,
+        "sound_end": 29760
     },
     {
         "id": "Oppai-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -269,11 +276,12 @@
             "た",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 29760,
+        "sound_end": 32889
     },
     {
         "id": "Oppai-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -319,11 +327,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 32889,
+        "sound_end": 39080
     },
     {
         "id": "Oppai-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -353,11 +362,12 @@
             "。",
             "」"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 39080,
+        "sound_end": 41497
     },
     {
         "id": "Oppai-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -371,11 +381,12 @@
             "と",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 41497,
+        "sound_end": 42480
     },
     {
         "id": "Oppai-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -399,11 +410,12 @@
             "と",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 42480,
+        "sound_end": 44200
     },
     {
         "id": "Oppai-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -419,11 +431,12 @@
             "が",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 44200,
+        "sound_end": 47640
     },
     {
         "id": "Oppai-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -441,11 +454,12 @@
             "。",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 47640,
+        "sound_end": 48192
     },
     {
         "id": "Oppai-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -465,11 +479,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 48188,
+        "sound_end": 48920
     },
     {
         "id": "Oppai-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -489,11 +504,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 48920,
+        "sound_end": 51480
     },
     {
         "id": "Oppai-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -529,11 +545,12 @@
             "。",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 51480,
+        "sound_end": 54748
     },
     {
         "id": "Oppai-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -547,11 +564,12 @@
             "と",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 54748,
+        "sound_end": 55440
     },
     {
         "id": "Oppai-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -577,11 +595,12 @@
             "た",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 55440,
+        "sound_end": 58666
     },
     {
         "id": "Oppai-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -605,11 +624,12 @@
             "。",
             "」"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 58666,
+        "sound_end": 61952
     },
     {
         "id": "Oppai-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -629,11 +649,12 @@
             "て",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 61952,
+        "sound_end": 62920
     },
     {
         "id": "Oppai-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -667,11 +688,12 @@
             "た",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 62920,
+        "sound_end": 68400
     },
     {
         "id": "Oppai-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -709,11 +731,12 @@
             "と",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 68400,
+        "sound_end": 71080
     },
     {
         "id": "Oppai-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -741,11 +764,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 71080,
+        "sound_end": 73640
     },
     {
         "id": "Oppai-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -777,11 +801,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 73640,
+        "sound_end": 77600
     },
     {
         "id": "Oppai-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -811,11 +836,12 @@
             "。",
             "」"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 77600,
+        "sound_end": 79080
     },
     {
         "id": "Oppai-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -829,11 +855,12 @@
             "と",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 79080,
+        "sound_end": 80280
     },
     {
         "id": "Oppai-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -867,11 +894,12 @@
             "が",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 80280,
+        "sound_end": 83626
     },
     {
         "id": "Oppai-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -889,11 +917,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 83626,
+        "sound_end": 86495
     },
     {
         "id": "Oppai-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -911,11 +940,12 @@
             "が",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 86495,
+        "sound_end": 87880
     },
     {
         "id": "Oppai-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -963,11 +993,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 87880,
+        "sound_end": 92560
     },
     {
         "id": "Oppai-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -985,11 +1016,12 @@
             "は",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 92560,
+        "sound_end": 94200
     },
     {
         "id": "Oppai-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1007,11 +1039,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 94200,
+        "sound_end": 95720
     },
     {
         "id": "Oppai-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1027,11 +1060,12 @@
             "。",
             "」"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 95720,
+        "sound_end": 96520
     },
     {
         "id": "Oppai-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1053,11 +1087,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 96520,
+        "sound_end": 99962
     },
     {
         "id": "Oppai-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1097,11 +1132,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 99962,
+        "sound_end": 105360
     },
     {
         "id": "Oppai-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1133,11 +1169,12 @@
             "。",
             "」"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 105360,
+        "sound_end": 108694
     },
     {
         "id": "Oppai-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1173,11 +1210,12 @@
             "て",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 108694,
+        "sound_end": 112560
     },
     {
         "id": "Oppai-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1221,11 +1259,12 @@
             "た",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 112560,
+        "sound_end": 118800
     },
     {
         "id": "Oppai-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1241,11 +1280,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 118800,
+        "sound_end": 119080
     },
     {
         "id": "Oppai-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1267,11 +1307,12 @@
             "？",
             "」"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 119080,
+        "sound_end": 121158
     },
     {
         "id": "Oppai-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1291,11 +1332,12 @@
             "て",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 121158,
+        "sound_end": 122600
     },
     {
         "id": "Oppai-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Oppai",
         "deck_name_japanese": "おっぱい",
@@ -1359,6 +1401,8 @@
             "た",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 122600,
+        "sound_end": 132040
     }
 ]

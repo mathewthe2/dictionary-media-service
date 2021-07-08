@@ -18,6 +18,9 @@ class DecksManager:
                 has_image=DECK_CATEGORIES[deck_category]["has_image"],
                 has_sound=DECK_CATEGORIES[deck_category]["has_sound"])
             self.decks[deck_category].load_decks()
+
+    def get_deck_by_name(self, deck_name):
+        return self.decks[self.category].get_deck_by_name(deck_name)
         
     def get_sentence(self, sentence_id):
         return self.decks[self.category].get_sentence(sentence_id)

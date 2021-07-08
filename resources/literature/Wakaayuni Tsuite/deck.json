@@ -2,281 +2,393 @@
     {
         "id": "f000001",
         "sentence": "北大路魯山人　作",
-        "sentence_with_furigana": "北大路魯山人　作"
+        "sentence_with_furigana": "北大路魯山人　作",
+        "audio_begin": 0,
+        "audio_end": 5029
     },
     {
         "id": "f000002",
         "sentence": "若鮎について",
-        "sentence_with_furigana": "若鮎について"
+        "sentence_with_furigana": "若鮎について",
+        "audio_begin": 5029,
+        "audio_end": 9080
     },
     {
         "id": "f000003",
         "sentence": "あゆの小さなものは、",
-        "sentence_with_furigana": "あゆの小さなものは、"
+        "sentence_with_furigana": "あゆの小さなものは、",
+        "audio_begin": 9080,
+        "audio_end": 11000
     },
     {
         "id": "f000004",
         "sentence": "どうかするとうまくないというひともあるが、",
-        "sentence_with_furigana": "どうかするとうまくないというひともあるが、"
+        "sentence_with_furigana": "どうかするとうまくないというひともあるが、",
+        "audio_begin": 11000,
+        "audio_end": 14040
     },
     {
         "id": "f000005",
         "sentence": "わたしは一概にそうは思わない。",
-        "sentence_with_furigana": "わたしは一概にそうは思わない。"
+        "sentence_with_furigana": "わたしは一概にそうは思わない。",
+        "audio_begin": 14040,
+        "audio_end": 18240
     },
     {
         "id": "f000006",
         "sentence": "小田原の手前に酒匂川という川がある。",
-        "sentence_with_furigana": "小田原の手前に 酒匂川[さかわがわ]という川がある。"
+        "sentence_with_furigana": "小田原の手前に 酒匂川[さかわがわ]という川がある。",
+        "audio_begin": 18240,
+        "audio_end": 23280
     },
     {
         "id": "f000007",
         "sentence": "まだ禁漁中にあの近辺のひとが酒匂川のあゆをよく盗み取りするが、",
-        "sentence_with_furigana": "まだ禁漁中にあの近辺のひとが酒匂川のあゆをよく盗み取りするが、"
+        "sentence_with_furigana": "まだ禁漁中にあの近辺のひとが酒匂川のあゆをよく盗み取りするが、",
+        "audio_begin": 23280,
+        "audio_end": 29600
     },
     {
         "id": "f000008",
         "sentence": "わたしはそれをもらうことがあって、",
-        "sentence_with_furigana": "わたしはそれをもらうことがあって、"
+        "sentence_with_furigana": "わたしはそれをもらうことがあって、",
+        "audio_begin": 29600,
+        "audio_end": 31800
     },
     {
         "id": "f000009",
         "sentence": "たびたび食ったことがある。",
-        "sentence_with_furigana": "たびたび食ったことがある。"
+        "sentence_with_furigana": "たびたび食ったことがある。",
+        "audio_begin": 31800,
+        "audio_end": 35480
     },
     {
         "id": "f000010",
         "sentence": "大きさはまだやっと一寸ぐらいのものだが、",
-        "sentence_with_furigana": "大きさはまだやっと一寸ぐらいのものだが、"
+        "sentence_with_furigana": "大きさはまだやっと一寸ぐらいのものだが、",
+        "audio_begin": 35480,
+        "audio_end": 38320
     },
     {
         "id": "f000011",
         "sentence": "ちょっとあぶって食うと、",
-        "sentence_with_furigana": "ちょっとあぶって食うと、"
+        "sentence_with_furigana": "ちょっとあぶって食うと、",
+        "audio_begin": 38320,
+        "audio_end": 40360
     },
     {
         "id": "f000012",
         "sentence": "実に調子の高いうまさが舌になじむ。",
-        "sentence_with_furigana": "実に調子の高いうまさが舌になじむ。"
+        "sentence_with_furigana": "実に調子の高いうまさが舌になじむ。",
+        "audio_begin": 40360,
+        "audio_end": 45840
     },
     {
         "id": "f000013",
         "sentence": "もっとも、",
-        "sentence_with_furigana": "もっとも、"
+        "sentence_with_furigana": "もっとも、",
+        "audio_begin": 45840,
+        "audio_end": 46480
     },
     {
         "id": "f000014",
         "sentence": "最初東京にはいってくるものは、",
-        "sentence_with_furigana": "最初東京にはいってくるものは、"
+        "sentence_with_furigana": "最初東京にはいってくるものは、",
+        "audio_begin": 46480,
+        "audio_end": 49200
     },
     {
         "id": "f000015",
         "sentence": "江州地方でいわゆるあゆの飴煮にするものであって、",
-        "sentence_with_furigana": "江州[ごうしゅう]地方でいわゆるあゆの 飴煮[あめに]にするものであって、"
+        "sentence_with_furigana": "江州[ごうしゅう]地方でいわゆるあゆの 飴煮[あめに]にするものであって、",
+        "audio_begin": 49200,
+        "audio_end": 53844
     },
     {
         "id": "f000016",
         "sentence": "これはあまり美味なものではない。",
-        "sentence_with_furigana": "これはあまり美味なものではない。"
+        "sentence_with_furigana": "これはあまり美味なものではない。",
+        "audio_begin": 53844,
+        "audio_end": 57594
     },
     {
         "id": "f000017",
         "sentence": "あゆは不思議な魚で、",
-        "sentence_with_furigana": "あゆは不思議な魚で、"
+        "sentence_with_furigana": "あゆは不思議な魚で、",
+        "audio_begin": 57594,
+        "audio_end": 59720
     },
     {
         "id": "f000018",
         "sentence": "水勢のないところでは大きくならない。",
-        "sentence_with_furigana": "水勢のないところでは大きくならない。"
+        "sentence_with_furigana": "水勢のないところでは大きくならない。",
+        "audio_begin": 59720,
+        "audio_end": 63461
     },
     {
         "id": "f000019",
         "sentence": "また同じ水勢であっても、",
-        "sentence_with_furigana": "また同じ水勢であっても、"
+        "sentence_with_furigana": "また同じ水勢であっても、",
+        "audio_begin": 63461,
+        "audio_end": 66080
     },
     {
         "id": "f000020",
         "sentence": "水質や餌の関係であろうか、",
-        "sentence_with_furigana": "水質や 餌[えさ]の関係であろうか、"
+        "sentence_with_furigana": "水質や 餌[えさ]の関係であろうか、",
+        "audio_begin": 66080,
+        "audio_end": 68680
     },
     {
         "id": "f000021",
         "sentence": "川によって成長率が違う。",
-        "sentence_with_furigana": "川によって成長率が違う。"
+        "sentence_with_furigana": "川によって成長率が違う。",
+        "audio_begin": 68680,
+        "audio_end": 73080
     },
     {
         "id": "f000022",
         "sentence": "一般に大きな川のあゆは大きくなり、",
-        "sentence_with_furigana": "一般に大きな川のあゆは大きくなり、"
+        "sentence_with_furigana": "一般に大きな川のあゆは大きくなり、",
+        "audio_begin": 73080,
+        "audio_end": 76400
     },
     {
         "id": "f000023",
         "sentence": "小さな川のものは小さく育つようである。",
-        "sentence_with_furigana": "小さな川のものは小さく育つようである。"
+        "sentence_with_furigana": "小さな川のものは小さく育つようである。",
+        "audio_begin": 76400,
+        "audio_end": 82880
     },
     {
         "id": "f000024",
         "sentence": "琵琶湖のあゆは非常に小さく、",
-        "sentence_with_furigana": "琵琶湖のあゆは非常に小さく、"
+        "sentence_with_furigana": "琵琶湖のあゆは非常に小さく、",
+        "audio_begin": 82880,
+        "audio_end": 85640
     },
     {
         "id": "f000025",
         "sentence": "一年経っても若あゆ以上に大きくならない。",
-        "sentence_with_furigana": "一年経っても若あゆ以上に大きくならない。"
+        "sentence_with_furigana": "一年経っても若あゆ以上に大きくならない。",
+        "audio_begin": 85640,
+        "audio_end": 90360
     },
     {
         "id": "f000026",
         "sentence": "大きくならないで一人前に子を持っている。",
-        "sentence_with_furigana": "大きくならないで一人前に子を持っている。"
+        "sentence_with_furigana": "大きくならないで一人前に子を持っている。",
+        "audio_begin": 90360,
+        "audio_end": 95280
     },
     {
         "id": "f000027",
         "sentence": "昔は琵琶湖のあゆは他のあゆとはまったく種類が違うかと思われたが、",
-        "sentence_with_furigana": "昔は琵琶湖のあゆは他のあゆとはまったく種類が違うかと思われたが、"
+        "sentence_with_furigana": "昔は琵琶湖のあゆは他のあゆとはまったく種類が違うかと思われたが、",
+        "audio_begin": 95280,
+        "audio_end": 101760
     },
     {
         "id": "f000028",
         "sentence": "その実、",
-        "sentence_with_furigana": "その実、"
+        "sentence_with_furigana": "その実、",
+        "audio_begin": 101760,
+        "audio_end": 103122
     },
     {
         "id": "f000029",
         "sentence": "琵琶湖で生まれた子あゆが江州から石山などを通って宇治川へ落ちて出ると、",
-        "sentence_with_furigana": "琵琶湖で生まれた子あゆが江州から石山などを通って宇治川へ落ちて出ると、"
+        "sentence_with_furigana": "琵琶湖で生まれた子あゆが江州から石山などを通って宇治川へ落ちて出ると、",
+        "audio_begin": 103122,
+        "audio_end": 109840
     },
     {
         "id": "f000030",
         "sentence": "立派に成長するらしい。",
-        "sentence_with_furigana": "立派に成長するらしい。"
+        "sentence_with_furigana": "立派に成長するらしい。",
+        "audio_begin": 109840,
+        "audio_end": 113480
     },
     {
         "id": "f000031",
         "sentence": "それかあらぬか、",
-        "sentence_with_furigana": "それかあらぬか、"
+        "sentence_with_furigana": "それかあらぬか、",
+        "audio_begin": 113480,
+        "audio_end": 114680
     },
     {
         "id": "f000032",
         "sentence": "琵琶湖で孵化したあゆの稚魚を地方の渓流へ放流すると、",
-        "sentence_with_furigana": "琵琶湖で 孵化[ふか]したあゆの稚魚を地方の渓流へ放流すると、"
+        "sentence_with_furigana": "琵琶湖で 孵化[ふか]したあゆの稚魚を地方の渓流へ放流すると、",
+        "audio_begin": 114680,
+        "audio_end": 119400
     },
     {
         "id": "f000033",
         "sentence": "通常のあゆ通り立派に成長することが分って、",
-        "sentence_with_furigana": "通常のあゆ通り立派に成長することが分って、"
+        "sentence_with_furigana": "通常のあゆ通り立派に成長することが分って、",
+        "audio_begin": 119400,
+        "audio_end": 123760
     },
     {
         "id": "f000034",
         "sentence": "近来は諸所で盛んに放魚が行われているようだ。",
-        "sentence_with_furigana": "近来は諸所で盛んに放魚が行われているようだ。"
+        "sentence_with_furigana": "近来は諸所で盛んに放魚が行われているようだ。",
+        "audio_begin": 123760,
+        "audio_end": 131039
     },
     {
         "id": "f000035",
         "sentence": "琵琶湖では、",
-        "sentence_with_furigana": "琵琶湖では、"
+        "sentence_with_furigana": "琵琶湖では、",
+        "audio_begin": 131039,
+        "audio_end": 132280
     },
     {
         "id": "f000036",
         "sentence": "あゆの稚魚を茄でてひうおと呼んでいる。",
-        "sentence_with_furigana": "あゆの稚魚を 茄[ゆ]でてひうおと呼んでいる。"
+        "sentence_with_furigana": "あゆの稚魚を 茄[ゆ]でてひうおと呼んでいる。",
+        "audio_begin": 132280,
+        "audio_end": 136232
     },
     {
         "id": "f000037",
         "sentence": "このひうおの大ぶりなのが飴煮にされて来るもので、",
-        "sentence_with_furigana": "このひうおの大ぶりなのが飴煮にされて来るもので、"
+        "sentence_with_furigana": "このひうおの大ぶりなのが飴煮にされて来るもので、",
+        "audio_begin": 136232,
+        "audio_end": 140920
     },
     {
         "id": "f000038",
         "sentence": "琵琶湖にはほとんど無限といってよいほど発生する。",
-        "sentence_with_furigana": "琵琶湖にはほとんど無限といってよいほど発生する。"
+        "sentence_with_furigana": "琵琶湖にはほとんど無限といってよいほど発生する。",
+        "audio_begin": 140920,
+        "audio_end": 145880
     },
     {
         "id": "f000039",
         "sentence": "それがこの頃では諸地方の大川へどしどし放流され、",
-        "sentence_with_furigana": "それがこの頃では諸地方の大川へどしどし放流され、"
+        "sentence_with_furigana": "それがこの頃では諸地方の大川へどしどし放流され、",
+        "audio_begin": 145880,
+        "audio_end": 150800
     },
     {
         "id": "f000040",
         "sentence": "あゆの産出を全国的に増加させている。",
-        "sentence_with_furigana": "あゆの産出を全国的に増加させている。"
+        "sentence_with_furigana": "あゆの産出を全国的に増加させている。",
+        "audio_begin": 150800,
+        "audio_end": 155202
     },
     {
         "id": "f000041",
         "sentence": "この点、",
-        "sentence_with_furigana": "この点、"
+        "sentence_with_furigana": "この点、",
+        "audio_begin": 155202,
+        "audio_end": 156080
     },
     {
         "id": "f000042",
         "sentence": "あゆ党にとってはまことにありがたいことである。",
-        "sentence_with_furigana": "あゆ党にとってはまことにありがたいことである。"
+        "sentence_with_furigana": "あゆ党にとってはまことにありがたいことである。",
+        "audio_begin": 156080,
+        "audio_end": 161621
     },
     {
         "id": "f000043",
         "sentence": "ところで、",
-        "sentence_with_furigana": "ところで、"
+        "sentence_with_furigana": "ところで、",
+        "audio_begin": 161621,
+        "audio_end": 162560
     },
     {
         "id": "f000044",
         "sentence": "前述の琵琶湖産のひうおなるものは、",
-        "sentence_with_furigana": "前述の琵琶湖産のひうおなるものは、"
+        "sentence_with_furigana": "前述の琵琶湖産のひうおなるものは、",
+        "audio_begin": 162560,
+        "audio_end": 166200
     },
     {
         "id": "f000045",
         "sentence": "なんといっても小さすぎるから、",
-        "sentence_with_furigana": "なんといっても小さすぎるから、"
+        "sentence_with_furigana": "なんといっても小さすぎるから、",
+        "audio_begin": 166200,
+        "audio_end": 168760
     },
     {
         "id": "f000046",
         "sentence": "みた目の割合にうまくない。",
-        "sentence_with_furigana": "みた目の割合にうまくない。"
+        "sentence_with_furigana": "みた目の割合にうまくない。",
+        "audio_begin": 168760,
+        "audio_end": 171745
     },
     {
         "id": "f000047",
         "sentence": "しかし、",
-        "sentence_with_furigana": "しかし、"
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 171745,
+        "audio_end": 172672
     },
     {
         "id": "f000048",
         "sentence": "このひうおも川に出て成長してからは一人前のあゆの味を備え、",
-        "sentence_with_furigana": "このひうおも川に出て成長してからは一人前のあゆの味を備え、"
+        "sentence_with_furigana": "このひうおも川に出て成長してからは一人前のあゆの味を備え、",
+        "audio_begin": 172672,
+        "audio_end": 178880
     },
     {
         "id": "f000049",
         "sentence": "やはりうまい。",
-        "sentence_with_furigana": "やはりうまい。"
+        "sentence_with_furigana": "やはりうまい。",
+        "audio_begin": 178880,
+        "audio_end": 181506
     },
     {
         "id": "f000050",
         "sentence": "そこで、",
-        "sentence_with_furigana": "そこで、"
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 181506,
+        "audio_end": 182600
     },
     {
         "id": "f000051",
         "sentence": "先の酒匂川の若あゆのことなども合わせて考えてみると、",
-        "sentence_with_furigana": "先の酒匂川の若あゆのことなども合わせて考えてみると、"
+        "sentence_with_furigana": "先の酒匂川の若あゆのことなども合わせて考えてみると、",
+        "audio_begin": 182600,
+        "audio_end": 187240
     },
     {
         "id": "f000052",
         "sentence": "若あゆなるものは結局琵琶湖のひうおではあゆらしいうまさはないが、",
-        "sentence_with_furigana": "若あゆなるものは結局琵琶湖のひうおではあゆらしいうまさはないが、"
+        "sentence_with_furigana": "若あゆなるものは結局琵琶湖のひうおではあゆらしいうまさはないが、",
+        "audio_begin": 187240,
+        "audio_end": 194080
     },
     {
         "id": "f000053",
         "sentence": "初めから河川で発生したものはちょっとぐらいでも、",
-        "sentence_with_furigana": "初めから河川で発生したものはちょっとぐらいでも、"
+        "sentence_with_furigana": "初めから河川で発生したものはちょっとぐらいでも、",
+        "audio_begin": 194080,
+        "audio_end": 197920
     },
     {
         "id": "f000054",
         "sentence": "すでに立派な美食価値を持っている。",
-        "sentence_with_furigana": "すでに立派な美食価値を持っている。"
+        "sentence_with_furigana": "すでに立派な美食価値を持っている。",
+        "audio_begin": 197920,
+        "audio_end": 201360
     },
     {
         "id": "f000055",
         "sentence": "いわば、",
-        "sentence_with_furigana": "いわば、"
+        "sentence_with_furigana": "いわば、",
+        "audio_begin": 201360,
+        "audio_end": 202240
     },
     {
         "id": "f000056",
         "sentence": "それぞれの川の味をもっているのだ。",
-        "sentence_with_furigana": "それぞれの川の味をもっているのだ。"
+        "sentence_with_furigana": "それぞれの川の味をもっているのだ。",
+        "audio_begin": 202240,
+        "audio_end": 205108
     }
 ]

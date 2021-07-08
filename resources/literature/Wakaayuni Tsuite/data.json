@@ -1,7 +1,6 @@
 [
     {
         "id": "Wakaayuni Tsuite-f000002",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -19,11 +18,12 @@
             "つい",
             "て"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5029,
+        "sound_end": 9080
     },
     {
         "id": "Wakaayuni Tsuite-f000003",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -45,11 +45,12 @@
             "は",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9080,
+        "sound_end": 11000
     },
     {
         "id": "Wakaayuni Tsuite-f000004",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -85,11 +86,12 @@
             "が",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 11000,
+        "sound_end": 14040
     },
     {
         "id": "Wakaayuni Tsuite-f000005",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -117,11 +119,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 14040,
+        "sound_end": 18240
     },
     {
         "id": "Wakaayuni Tsuite-f000006",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -153,11 +156,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 18240,
+        "sound_end": 23280
     },
     {
         "id": "Wakaayuni Tsuite-f000007",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -205,11 +209,12 @@
             "が",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 23280,
+        "sound_end": 29600
     },
     {
         "id": "Wakaayuni Tsuite-f000008",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -239,11 +244,12 @@
             "て",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 29600,
+        "sound_end": 31800
     },
     {
         "id": "Wakaayuni Tsuite-f000009",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -267,11 +273,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 31800,
+        "sound_end": 35480
     },
     {
         "id": "Wakaayuni Tsuite-f000010",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -307,11 +314,12 @@
             "が",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 35480,
+        "sound_end": 38320
     },
     {
         "id": "Wakaayuni Tsuite-f000011",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -333,11 +341,12 @@
             "と",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 38320,
+        "sound_end": 40360
     },
     {
         "id": "Wakaayuni Tsuite-f000012",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -371,11 +380,12 @@
             "なじむ",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 40360,
+        "sound_end": 45840
     },
     {
         "id": "Wakaayuni Tsuite-f000013",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -389,11 +399,12 @@
             "もっとも",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 45840,
+        "sound_end": 46480
     },
     {
         "id": "Wakaayuni Tsuite-f000014",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -421,11 +432,12 @@
             "は",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 46480,
+        "sound_end": 49200
     },
     {
         "id": "Wakaayuni Tsuite-f000015",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -463,11 +475,12 @@
             "て",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 49200,
+        "sound_end": 53844
     },
     {
         "id": "Wakaayuni Tsuite-f000016",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -497,11 +510,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 53844,
+        "sound_end": 57594
     },
     {
         "id": "Wakaayuni Tsuite-f000017",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -525,11 +539,12 @@
             "で",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 57594,
+        "sound_end": 59720
     },
     {
         "id": "Wakaayuni Tsuite-f000018",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -559,11 +574,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 59720,
+        "sound_end": 63461
     },
     {
         "id": "Wakaayuni Tsuite-f000019",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -589,11 +605,12 @@
             "も",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 63461,
+        "sound_end": 66080
     },
     {
         "id": "Wakaayuni Tsuite-f000020",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -621,11 +638,12 @@
             "か",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 66080,
+        "sound_end": 68680
     },
     {
         "id": "Wakaayuni Tsuite-f000021",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -653,11 +671,12 @@
             "違う",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 68680,
+        "sound_end": 73080
     },
     {
         "id": "Wakaayuni Tsuite-f000022",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -687,11 +706,12 @@
             "なり",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 73080,
+        "sound_end": 76400
     },
     {
         "id": "Wakaayuni Tsuite-f000023",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -723,11 +743,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 76400,
+        "sound_end": 82880
     },
     {
         "id": "Wakaayuni Tsuite-f000024",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -753,11 +774,12 @@
             "小さく",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 82880,
+        "sound_end": 85640
     },
     {
         "id": "Wakaayuni Tsuite-f000025",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -791,11 +813,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 85640,
+        "sound_end": 90360
     },
     {
         "id": "Wakaayuni Tsuite-f000026",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -829,11 +852,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 90360,
+        "sound_end": 95280
     },
     {
         "id": "Wakaayuni Tsuite-f000027",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -887,11 +911,12 @@
             "が",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 95280,
+        "sound_end": 101760
     },
     {
         "id": "Wakaayuni Tsuite-f000028",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -907,11 +932,12 @@
             "実",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 101760,
+        "sound_end": 103122
     },
     {
         "id": "Wakaayuni Tsuite-f000029",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -965,11 +991,12 @@
             "と",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 103122,
+        "sound_end": 109840
     },
     {
         "id": "Wakaayuni Tsuite-f000030",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -991,11 +1018,12 @@
             "らしい",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 109840,
+        "sound_end": 113480
     },
     {
         "id": "Wakaayuni Tsuite-f000031",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1017,11 +1045,12 @@
             "か",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 113480,
+        "sound_end": 114680
     },
     {
         "id": "Wakaayuni Tsuite-f000032",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1065,11 +1094,12 @@
             "と",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 114680,
+        "sound_end": 119400
     },
     {
         "id": "Wakaayuni Tsuite-f000033",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1105,11 +1135,12 @@
             "て",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 119400,
+        "sound_end": 123760
     },
     {
         "id": "Wakaayuni Tsuite-f000034",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1151,11 +1182,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 123760,
+        "sound_end": 131039
     },
     {
         "id": "Wakaayuni Tsuite-f000035",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1173,11 +1205,12 @@
             "は",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 131039,
+        "sound_end": 132280
     },
     {
         "id": "Wakaayuni Tsuite-f000036",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1215,11 +1248,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 132280,
+        "sound_end": 136232
     },
     {
         "id": "Wakaayuni Tsuite-f000037",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1263,11 +1297,12 @@
             "で",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 136232,
+        "sound_end": 140920
     },
     {
         "id": "Wakaayuni Tsuite-f000038",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1303,11 +1338,12 @@
             "する",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 140920,
+        "sound_end": 145880
     },
     {
         "id": "Wakaayuni Tsuite-f000039",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1347,11 +1383,12 @@
             "れ",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 145880,
+        "sound_end": 150800
     },
     {
         "id": "Wakaayuni Tsuite-f000040",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1387,11 +1424,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 150800,
+        "sound_end": 155202
     },
     {
         "id": "Wakaayuni Tsuite-f000041",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1407,11 +1445,12 @@
             "点",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 155202,
+        "sound_end": 156080
     },
     {
         "id": "Wakaayuni Tsuite-f000042",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1447,11 +1486,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 156080,
+        "sound_end": 161621
     },
     {
         "id": "Wakaayuni Tsuite-f000043",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1467,11 +1507,12 @@
             "で",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 161621,
+        "sound_end": 162560
     },
     {
         "id": "Wakaayuni Tsuite-f000044",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1503,11 +1544,12 @@
             "は",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 162560,
+        "sound_end": 166200
     },
     {
         "id": "Wakaayuni Tsuite-f000045",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1535,11 +1577,12 @@
             "から",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 166200,
+        "sound_end": 168760
     },
     {
         "id": "Wakaayuni Tsuite-f000046",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1567,11 +1610,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 168760,
+        "sound_end": 171745
     },
     {
         "id": "Wakaayuni Tsuite-f000047",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1585,11 +1629,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 171745,
+        "sound_end": 172672
     },
     {
         "id": "Wakaayuni Tsuite-f000048",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1641,11 +1686,12 @@
             "備え",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 172672,
+        "sound_end": 178880
     },
     {
         "id": "Wakaayuni Tsuite-f000049",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1661,11 +1707,12 @@
             "うまい",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 178880,
+        "sound_end": 181506
     },
     {
         "id": "Wakaayuni Tsuite-f000050",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1681,11 +1728,12 @@
             "で",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 181506,
+        "sound_end": 182600
     },
     {
         "id": "Wakaayuni Tsuite-f000051",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1727,11 +1775,12 @@
             "と",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 182600,
+        "sound_end": 187240
     },
     {
         "id": "Wakaayuni Tsuite-f000052",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1779,11 +1828,12 @@
             "が",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 187240,
+        "sound_end": 194080
     },
     {
         "id": "Wakaayuni Tsuite-f000053",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1821,11 +1871,12 @@
             "も",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 194080,
+        "sound_end": 197920
     },
     {
         "id": "Wakaayuni Tsuite-f000054",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1855,11 +1906,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 197920,
+        "sound_end": 201360
     },
     {
         "id": "Wakaayuni Tsuite-f000055",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1873,11 +1925,12 @@
             "いわば",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 201360,
+        "sound_end": 202240
     },
     {
         "id": "Wakaayuni Tsuite-f000056",
-        "author": "Kitaoji Rosanjin",
         "author_japanese": "北大路 魯山人",
         "deck_name": "Wakaayuni Tsuite",
         "deck_name_japanese": "若鮎について",
@@ -1911,6 +1964,8 @@
             "だ",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 202240,
+        "sound_end": 205108
     }
 ]

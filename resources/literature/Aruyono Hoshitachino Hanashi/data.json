@@ -1,7 +1,6 @@
 [
     {
         "id": "Aruyono Hoshitachino Hanashi-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -25,11 +24,12 @@
             "の",
             "話"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6049,
+        "sound_end": 11677
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -45,11 +45,12 @@
             "は",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 11677,
+        "sound_end": 12840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -63,11 +64,12 @@
             "寒い",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 12840,
+        "sound_end": 13880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -99,11 +101,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 13880,
+        "sound_end": 16120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -119,11 +122,12 @@
             "は",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 16120,
+        "sound_end": 18280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -143,11 +147,12 @@
             "て",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 18280,
+        "sound_end": 19120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -183,11 +188,12 @@
             "た",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 19120,
+        "sound_end": 23480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -211,11 +217,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 23480,
+        "sound_end": 25040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -231,11 +238,12 @@
             "も",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 25040,
+        "sound_end": 26280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -261,11 +269,12 @@
             "で",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 26280,
+        "sound_end": 28320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -301,11 +310,12 @@
             "いる",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 28320,
+        "sound_end": 32600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -331,11 +341,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 32600,
+        "sound_end": 36720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -349,11 +360,12 @@
             "はるか",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 36720,
+        "sound_end": 37240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -367,11 +379,12 @@
             "遠い",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 37240,
+        "sound_end": 38440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -385,11 +398,12 @@
             "遠い",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 38440,
+        "sound_end": 39560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -409,11 +423,12 @@
             "から",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 39560,
+        "sound_end": 41120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -443,11 +458,12 @@
             "と",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 41120,
+        "sound_end": 43720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -479,11 +495,12 @@
             "た",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 43720,
+        "sound_end": 48400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -497,11 +514,12 @@
             "いつも",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 48400,
+        "sound_end": 48843
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -543,11 +561,12 @@
             "た",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 48843,
+        "sound_end": 53360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -561,11 +580,12 @@
             "また",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 53360,
+        "sound_end": 54400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -601,11 +621,12 @@
             "も",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 54400,
+        "sound_end": 57983
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -631,11 +652,12 @@
             "た",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 57983,
+        "sound_end": 61440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -671,11 +693,12 @@
             "です",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 61440,
+        "sound_end": 65519
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -689,11 +712,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 65519,
+        "sound_end": 66624
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -711,11 +735,12 @@
             "は",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 66624,
+        "sound_end": 68069
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -741,11 +766,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 68069,
+        "sound_end": 72156
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -767,11 +793,12 @@
             "は",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 72156,
+        "sound_end": 73560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -793,11 +820,12 @@
             "て",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 73560,
+        "sound_end": 74880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -819,11 +847,12 @@
             "な",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 74880,
+        "sound_end": 76858
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -839,11 +868,12 @@
             "と",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 76858,
+        "sound_end": 77636
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -859,11 +889,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 77636,
+        "sound_end": 78560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -891,11 +922,12 @@
             "た",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 78560,
+        "sound_end": 82720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -911,11 +943,12 @@
             "は",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 82720,
+        "sound_end": 83800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -943,11 +976,12 @@
             "は",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 83800,
+        "sound_end": 86360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -979,11 +1013,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 86360,
+        "sound_end": 89560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1001,11 +1036,12 @@
             "も",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 89560,
+        "sound_end": 90598
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1023,11 +1059,12 @@
             "な",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 90598,
+        "sound_end": 91823
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1049,11 +1086,12 @@
             "で",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 91823,
+        "sound_end": 93890
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1071,11 +1109,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 93890,
+        "sound_end": 95237
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1105,11 +1144,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 95237,
+        "sound_end": 97942
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1145,11 +1185,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 97942,
+        "sound_end": 102120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1167,11 +1208,12 @@
             "も",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 102120,
+        "sound_end": 103240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1189,11 +1231,12 @@
             "た",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 103240,
+        "sound_end": 104080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1215,11 +1258,12 @@
             "が",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 104080,
+        "sound_end": 105960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1239,11 +1283,12 @@
             "は",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 105960,
+        "sound_end": 106800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1265,11 +1310,12 @@
             "です",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 106800,
+        "sound_end": 110680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1287,11 +1333,12 @@
             "は",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 110680,
+        "sound_end": 111840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1319,11 +1366,12 @@
             "た",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 111840,
+        "sound_end": 115280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1343,11 +1391,12 @@
             "に",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 115280,
+        "sound_end": 116600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1367,11 +1416,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 116600,
+        "sound_end": 118190
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1411,11 +1461,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 118190,
+        "sound_end": 123536
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1439,11 +1490,12 @@
             "から",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 123536,
+        "sound_end": 125880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1475,11 +1527,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 125880,
+        "sound_end": 129120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1501,11 +1554,12 @@
             "も",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 129120,
+        "sound_end": 130520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1525,11 +1579,12 @@
             "た",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 130520,
+        "sound_end": 132360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1553,11 +1608,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 132360,
+        "sound_end": 137080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1575,11 +1631,12 @@
             "は",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 137080,
+        "sound_end": 138623
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1595,11 +1652,12 @@
             "も",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 138623,
+        "sound_end": 139080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1619,11 +1677,12 @@
             "に",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 139080,
+        "sound_end": 140640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1647,11 +1706,12 @@
             "なかろう",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 140640,
+        "sound_end": 143221
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1667,11 +1727,12 @@
             "も",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 143221,
+        "sound_end": 143800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1691,11 +1752,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 143800,
+        "sound_end": 145148
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1721,11 +1783,12 @@
             "は",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 145148,
+        "sound_end": 146855
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1757,11 +1820,12 @@
             "し",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 146855,
+        "sound_end": 149800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1791,11 +1855,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 149800,
+        "sound_end": 152000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1821,11 +1886,12 @@
             "で",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 152000,
+        "sound_end": 153840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1851,11 +1917,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 153840,
+        "sound_end": 157040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1877,11 +1944,12 @@
             "は",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 157040,
+        "sound_end": 159040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1907,11 +1975,12 @@
             "あろう",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 159040,
+        "sound_end": 161698
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1927,11 +1996,12 @@
             "と",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 161698,
+        "sound_end": 161960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1959,11 +2029,12 @@
             "た",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 161960,
+        "sound_end": 165918
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -1979,11 +2050,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 165918,
+        "sound_end": 167079
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2003,11 +2075,12 @@
             "て",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 167079,
+        "sound_end": 168680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2041,11 +2114,12 @@
             "た",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 168680,
+        "sound_end": 172954
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2063,11 +2137,12 @@
             "は",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 172954,
+        "sound_end": 174200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2081,11 +2156,12 @@
             "終夜",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 174200,
+        "sound_end": 175200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2113,11 +2189,12 @@
             "いる",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 175200,
+        "sound_end": 177480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2141,11 +2218,12 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 177480,
+        "sound_end": 180800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2161,11 +2239,12 @@
             "いえ",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 180800,
+        "sound_end": 181680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2193,11 +2272,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 181680,
+        "sound_end": 184120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2235,11 +2315,12 @@
             "と",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 184120,
+        "sound_end": 187440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2259,11 +2340,12 @@
             "は",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 187440,
+        "sound_end": 188871
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2299,11 +2381,12 @@
             "た",
             "。"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 188871,
+        "sound_end": 193280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2327,11 +2410,12 @@
             "は",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 193280,
+        "sound_end": 194850
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2361,11 +2445,12 @@
             "です",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 194850,
+        "sound_end": 197920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2389,11 +2474,12 @@
             "は",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 197920,
+        "sound_end": 199494
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2437,11 +2523,12 @@
             "です",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 199494,
+        "sound_end": 205183
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2461,11 +2548,12 @@
             "は",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 205183,
+        "sound_end": 206692
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2495,11 +2583,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 206692,
+        "sound_end": 210320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2515,11 +2604,12 @@
             "とも",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 210320,
+        "sound_end": 211560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2551,11 +2641,12 @@
             "に",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 211560,
+        "sound_end": 214040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2581,11 +2672,12 @@
             "て",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 214040,
+        "sound_end": 216680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2629,11 +2721,12 @@
             "です",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 216680,
+        "sound_end": 222520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2649,11 +2742,12 @@
             "は",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 222520,
+        "sound_end": 223360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2685,11 +2779,12 @@
             "た",
             "。"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 223360,
+        "sound_end": 226640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2703,11 +2798,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 226640,
+        "sound_end": 227040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2731,11 +2827,12 @@
             "た",
             "。"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 227040,
+        "sound_end": 229840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2751,11 +2848,12 @@
             "は",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 229840,
+        "sound_end": 230920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2787,11 +2885,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 230920,
+        "sound_end": 234680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2805,11 +2904,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 234680,
+        "sound_end": 234960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2827,11 +2927,12 @@
             "は",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 234960,
+        "sound_end": 236118
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2853,11 +2954,12 @@
             "て",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 236118,
+        "sound_end": 238040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2889,11 +2991,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 238040,
+        "sound_end": 241440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2907,11 +3010,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 241440,
+        "sound_end": 242440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2931,11 +3035,12 @@
             "かれこれ",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 242440,
+        "sound_end": 244169
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -2973,11 +3078,12 @@
             "。",
             "」"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 244169,
+        "sound_end": 248320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3015,11 +3121,12 @@
             "か",
             "？"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 248320,
+        "sound_end": 252960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3041,11 +3148,12 @@
             "と",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 252960,
+        "sound_end": 254400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3075,11 +3183,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 254400,
+        "sound_end": 258188
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3095,11 +3204,12 @@
             "と",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 258188,
+        "sound_end": 258480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3131,11 +3241,12 @@
             "た",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 258480,
+        "sound_end": 262320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3151,11 +3262,12 @@
             "いや",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 262320,
+        "sound_end": 263160
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3179,11 +3291,12 @@
             "は",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 263160,
+        "sound_end": 264600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3209,11 +3322,12 @@
             "て",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 264600,
+        "sound_end": 266760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3247,11 +3361,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 266760,
+        "sound_end": 270437
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3275,11 +3390,12 @@
             "で",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 270437,
+        "sound_end": 271824
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3299,11 +3415,12 @@
             "が",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 271824,
+        "sound_end": 273363
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3331,11 +3448,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 273363,
+        "sound_end": 275960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3359,11 +3477,12 @@
             "を",
             "、"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 275960,
+        "sound_end": 277720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000122",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3389,11 +3508,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 277720,
+        "sound_end": 280207
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000123",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3423,11 +3543,12 @@
             "に",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 280207,
+        "sound_end": 282302
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000124",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3453,11 +3574,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 282302,
+        "sound_end": 285710
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000125",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3483,11 +3605,12 @@
             "は",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 285710,
+        "sound_end": 287640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000126",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3509,11 +3632,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 287640,
+        "sound_end": 289727
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000127",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3529,11 +3653,12 @@
             "と",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 289727,
+        "sound_end": 289985
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000128",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3557,11 +3682,12 @@
             "た",
             "。"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 289985,
+        "sound_end": 293240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000129",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3579,11 +3705,12 @@
             "は",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 293240,
+        "sound_end": 294560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000130",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3611,11 +3738,12 @@
             "か",
             "？"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 294560,
+        "sound_end": 297006
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000131",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3631,11 +3759,12 @@
             "と",
             "、"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 297006,
+        "sound_end": 297680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000132",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3663,11 +3792,12 @@
             "た",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 297680,
+        "sound_end": 302000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000133",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3687,11 +3817,12 @@
             "は",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 302000,
+        "sound_end": 303061
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000134",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3705,11 +3836,12 @@
             "昨日",
             "、"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 303061,
+        "sound_end": 303560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000135",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3729,11 +3861,12 @@
             "に",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 303560,
+        "sound_end": 304698
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000136",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3769,11 +3902,12 @@
             "と",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 304698,
+        "sound_end": 307589
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000137",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3805,11 +3939,12 @@
             "て",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 307589,
+        "sound_end": 309960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000138",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3825,11 +3960,12 @@
             "に",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 309960,
+        "sound_end": 310320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000139",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3859,11 +3995,12 @@
             "で",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 310320,
+        "sound_end": 312779
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000140",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3879,11 +4016,12 @@
             "に",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 312779,
+        "sound_end": 313200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000141",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3907,11 +4045,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 313200,
+        "sound_end": 316296
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000142",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3929,11 +4068,12 @@
             "が",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 316296,
+        "sound_end": 317000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000143",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -3957,11 +4097,12 @@
             "て",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 317000,
+        "sound_end": 319000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000144",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4011,11 +4152,12 @@
             "た",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 319000,
+        "sound_end": 325520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000145",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4047,11 +4189,12 @@
             "て",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 325520,
+        "sound_end": 328480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000146",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4073,11 +4216,12 @@
             "が",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 328480,
+        "sound_end": 330520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000147",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4101,11 +4245,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 330520,
+        "sound_end": 331680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000148",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4121,11 +4266,12 @@
             "と",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 331680,
+        "sound_end": 332680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000149",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4149,11 +4295,12 @@
             "た",
             "。"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 332680,
+        "sound_end": 336248
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000150",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4169,11 +4316,12 @@
             "と",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 336248,
+        "sound_end": 337520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000151",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4197,11 +4345,12 @@
             "た",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 337520,
+        "sound_end": 339080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000152",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4225,11 +4374,12 @@
             "が",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 339080,
+        "sound_end": 340440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000153",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4253,11 +4403,12 @@
             "て",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 340440,
+        "sound_end": 342320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000154",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4277,11 +4428,12 @@
             "が",
             "、"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 342320,
+        "sound_end": 343160
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000155",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4301,11 +4453,12 @@
             "か",
             "。"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 343160,
+        "sound_end": 345480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000156",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4321,11 +4474,12 @@
             "か",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 345480,
+        "sound_end": 345920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000157",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4353,11 +4507,12 @@
             "に",
             "。"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 345920,
+        "sound_end": 348114
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000158",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4379,11 +4534,12 @@
             "た",
             "。"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 348114,
+        "sound_end": 350440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000159",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4401,11 +4557,12 @@
             "は",
             "、"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 350440,
+        "sound_end": 351040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000160",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4423,11 +4580,12 @@
             "が",
             "、"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 351040,
+        "sound_end": 352080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000161",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4451,11 +4609,12 @@
             "に",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 352080,
+        "sound_end": 353440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000162",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4475,11 +4634,12 @@
             "た",
             "。"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 353440,
+        "sound_end": 355240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000163",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4493,11 +4653,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 355240,
+        "sound_end": 355920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000164",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4533,11 +4694,12 @@
             "た",
             "。"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 355920,
+        "sound_end": 360360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000165",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4557,11 +4719,12 @@
             "は",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 360360,
+        "sound_end": 361999
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000166",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4589,11 +4752,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 361999,
+        "sound_end": 364704
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000167",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4609,11 +4773,12 @@
             "と",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 364704,
+        "sound_end": 364880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000168",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4637,11 +4802,12 @@
             "た",
             "。"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 364880,
+        "sound_end": 369640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000169",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4659,11 +4825,12 @@
             "は",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 369640,
+        "sound_end": 370920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000170",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4679,11 +4846,12 @@
             "で",
             "、"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 370920,
+        "sound_end": 371699
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000171",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4711,11 +4879,12 @@
             "は",
             "、"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 371699,
+        "sound_end": 373640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000172",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4737,11 +4906,12 @@
             "です",
             "。"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 373640,
+        "sound_end": 375803
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000173",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4763,11 +4933,12 @@
             "が",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 375803,
+        "sound_end": 377853
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000174",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4793,11 +4964,12 @@
             "て",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 377853,
+        "sound_end": 380400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000175",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4837,11 +5009,12 @@
             "た",
             "。"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 380400,
+        "sound_end": 387344
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000176",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4857,11 +5030,12 @@
             "から",
             "、"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 387344,
+        "sound_end": 389080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000177",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4875,11 +5049,12 @@
             "しばらく",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 389080,
+        "sound_end": 390720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000178",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4911,11 +5086,12 @@
             "た",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 390720,
+        "sound_end": 393800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000179",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4929,11 +5105,12 @@
             "が",
             "、"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 393800,
+        "sound_end": 394000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000180",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4947,11 +5124,12 @@
             "たちまち",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 394000,
+        "sound_end": 394560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000181",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4973,11 +5151,12 @@
             "が",
             "、"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 394560,
+        "sound_end": 396800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000182",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -4993,11 +5172,12 @@
             "まだ",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 396800,
+        "sound_end": 398040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000183",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5013,11 +5193,12 @@
             "に",
             "、"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 398040,
+        "sound_end": 398760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000184",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5043,11 +5224,12 @@
             "か",
             "？"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 398760,
+        "sound_end": 401194
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000185",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5069,11 +5251,12 @@
             "た",
             "。"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 401194,
+        "sound_end": 403720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000186",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5091,11 +5274,12 @@
             "は",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 403720,
+        "sound_end": 405040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000187",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5115,11 +5299,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 405040,
+        "sound_end": 406400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000188",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5147,11 +5332,12 @@
             "た",
             "。"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 406400,
+        "sound_end": 410520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000189",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5171,11 +5357,12 @@
             "を",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 410520,
+        "sound_end": 412000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000190",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5207,11 +5394,12 @@
             "は",
             "、"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 412000,
+        "sound_end": 414840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000191",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5231,11 +5419,12 @@
             "て",
             "、"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 414840,
+        "sound_end": 417077
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000192",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5253,11 +5442,12 @@
             "が",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 417077,
+        "sound_end": 418240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000193",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5279,11 +5469,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 418240,
+        "sound_end": 420049
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000194",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5305,11 +5496,12 @@
             "た",
             "。"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 420049,
+        "sound_end": 422400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000195",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5325,11 +5517,12 @@
             "に",
             "、"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 422400,
+        "sound_end": 422960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000196",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5347,11 +5540,12 @@
             "は",
             "、"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 422960,
+        "sound_end": 424400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000197",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5373,11 +5567,12 @@
             "も",
             "、"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 424400,
+        "sound_end": 426388
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000198",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5401,11 +5596,12 @@
             "も",
             "、"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 426388,
+        "sound_end": 428120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000199",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5429,11 +5625,12 @@
             "も",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 428120,
+        "sound_end": 429640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000200",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5459,11 +5656,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 429640,
+        "sound_end": 433226
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000201",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5487,11 +5685,12 @@
             "いる",
             "？"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 433226,
+        "sound_end": 435722
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000202",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5507,11 +5706,12 @@
             "と",
             "、"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 435722,
+        "sound_end": 436040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000203",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5531,11 +5731,12 @@
             "は",
             "、"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 436040,
+        "sound_end": 436880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000204",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5555,11 +5756,12 @@
             "た",
             "。"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 436880,
+        "sound_end": 439880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000205",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5577,11 +5779,12 @@
             "です",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 439880,
+        "sound_end": 441127
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000206",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5597,11 +5800,12 @@
             "が",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 441127,
+        "sound_end": 441800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000207",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5621,11 +5825,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 441800,
+        "sound_end": 443240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000208",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5647,11 +5852,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 443240,
+        "sound_end": 445880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000209",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5675,11 +5881,12 @@
             "を",
             "、"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 445880,
+        "sound_end": 447745
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000210",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5705,11 +5912,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 447745,
+        "sound_end": 450400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000211",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5737,11 +5945,12 @@
             "は",
             "、"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 450400,
+        "sound_end": 452644
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000212",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5773,11 +5982,12 @@
             "た",
             "。"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 452644,
+        "sound_end": 456789
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000213",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5797,11 +6007,12 @@
             "は",
             "、"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 456789,
+        "sound_end": 458280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000214",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5831,11 +6042,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 458280,
+        "sound_end": 461491
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000215",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5849,11 +6061,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 461491,
+        "sound_end": 461920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000216",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5887,11 +6100,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 461920,
+        "sound_end": 466071
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000217",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5907,11 +6121,12 @@
             "と",
             "、"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 466071,
+        "sound_end": 466280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000218",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5949,11 +6164,12 @@
             "た",
             "。"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 466280,
+        "sound_end": 471080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000219",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5969,11 +6185,12 @@
             "よく",
             "、"
         ],
-        "sound": "f000219.mp3"
+        "sound": "f000219.mp3",
+        "sound_begin": 471080,
+        "sound_end": 471560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000220",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -5997,11 +6214,12 @@
             "に",
             "、"
         ],
-        "sound": "f000220.mp3"
+        "sound": "f000220.mp3",
+        "sound_begin": 471560,
+        "sound_end": 473925
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000221",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6027,11 +6245,12 @@
             "な",
             "。"
         ],
-        "sound": "f000221.mp3"
+        "sound": "f000221.mp3",
+        "sound_begin": 473925,
+        "sound_end": 475640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000222",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6047,11 +6266,12 @@
             "と",
             "、"
         ],
-        "sound": "f000222.mp3"
+        "sound": "f000222.mp3",
+        "sound_begin": 475640,
+        "sound_end": 477040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000223",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6071,11 +6291,12 @@
             "は",
             "、"
         ],
-        "sound": "f000223.mp3"
+        "sound": "f000223.mp3",
+        "sound_begin": 477040,
+        "sound_end": 478160
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000224",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6097,11 +6318,12 @@
             "た",
             "。"
         ],
-        "sound": "f000224.mp3"
+        "sound": "f000224.mp3",
+        "sound_begin": 478160,
+        "sound_end": 481320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000225",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6121,11 +6343,12 @@
             "が",
             "、"
         ],
-        "sound": "f000225.mp3"
+        "sound": "f000225.mp3",
+        "sound_begin": 481320,
+        "sound_end": 482778
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000226",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6155,11 +6378,12 @@
             "から",
             "、"
         ],
-        "sound": "f000226.mp3"
+        "sound": "f000226.mp3",
+        "sound_begin": 482778,
+        "sound_end": 485036
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000227",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6183,11 +6407,12 @@
             "です",
             "。"
         ],
-        "sound": "f000227.mp3"
+        "sound": "f000227.mp3",
+        "sound_begin": 485036,
+        "sound_end": 487282
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000228",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6203,11 +6428,12 @@
             "と",
             "、"
         ],
-        "sound": "f000228.mp3"
+        "sound": "f000228.mp3",
+        "sound_begin": 487282,
+        "sound_end": 487387
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000229",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6231,11 +6457,12 @@
             "た",
             "。"
         ],
-        "sound": "f000229.mp3"
+        "sound": "f000229.mp3",
+        "sound_begin": 487387,
+        "sound_end": 490353
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000230",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6255,11 +6482,12 @@
             "と",
             "、"
         ],
-        "sound": "f000230.mp3"
+        "sound": "f000230.mp3",
+        "sound_begin": 490353,
+        "sound_end": 491752
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000231",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6279,11 +6507,12 @@
             "は",
             "、"
         ],
-        "sound": "f000231.mp3"
+        "sound": "f000231.mp3",
+        "sound_begin": 491752,
+        "sound_end": 492840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000232",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6305,11 +6534,12 @@
             "た",
             "。"
         ],
-        "sound": "f000232.mp3"
+        "sound": "f000232.mp3",
+        "sound_begin": 492840,
+        "sound_end": 495120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000233",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6323,11 +6553,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000233.mp3"
+        "sound": "f000233.mp3",
+        "sound_begin": 495120,
+        "sound_end": 496360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000234",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6353,11 +6584,12 @@
             "た",
             "。"
         ],
-        "sound": "f000234.mp3"
+        "sound": "f000234.mp3",
+        "sound_begin": 496360,
+        "sound_end": 500040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000235",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6373,11 +6605,12 @@
             "か",
             "、"
         ],
-        "sound": "f000235.mp3"
+        "sound": "f000235.mp3",
+        "sound_begin": 500040,
+        "sound_end": 500480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000236",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6413,11 +6646,12 @@
             "です",
             "。"
         ],
-        "sound": "f000236.mp3"
+        "sound": "f000236.mp3",
+        "sound_begin": 500480,
+        "sound_end": 504840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000237",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6439,11 +6673,12 @@
             "な",
             "、"
         ],
-        "sound": "f000237.mp3"
+        "sound": "f000237.mp3",
+        "sound_begin": 504840,
+        "sound_end": 507080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000238",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6463,11 +6698,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000238.mp3"
+        "sound": "f000238.mp3",
+        "sound_begin": 507080,
+        "sound_end": 508320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000239",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6489,11 +6725,12 @@
             "が",
             "、"
         ],
-        "sound": "f000239.mp3"
+        "sound": "f000239.mp3",
+        "sound_begin": 508320,
+        "sound_end": 509782
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000240",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6519,11 +6756,12 @@
             "か",
             "？"
         ],
-        "sound": "f000240.mp3"
+        "sound": "f000240.mp3",
+        "sound_begin": 509782,
+        "sound_end": 513640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000241",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6539,11 +6777,12 @@
             "は",
             "、"
         ],
-        "sound": "f000241.mp3"
+        "sound": "f000241.mp3",
+        "sound_begin": 513640,
+        "sound_end": 514280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000242",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6571,11 +6810,12 @@
             "た",
             "。"
         ],
-        "sound": "f000242.mp3"
+        "sound": "f000242.mp3",
+        "sound_begin": 514280,
+        "sound_end": 517625
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000243",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6591,11 +6831,12 @@
             "と",
             "、"
         ],
-        "sound": "f000243.mp3"
+        "sound": "f000243.mp3",
+        "sound_begin": 517625,
+        "sound_end": 517960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000244",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6621,11 +6862,12 @@
             "た",
             "。"
         ],
-        "sound": "f000244.mp3"
+        "sound": "f000244.mp3",
+        "sound_begin": 517960,
+        "sound_end": 520794
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000245",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6643,11 +6885,12 @@
             "いう",
             "、"
         ],
-        "sound": "f000245.mp3"
+        "sound": "f000245.mp3",
+        "sound_begin": 520794,
+        "sound_end": 521520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000246",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6673,11 +6916,12 @@
             "て",
             "、"
         ],
-        "sound": "f000246.mp3"
+        "sound": "f000246.mp3",
+        "sound_begin": 521520,
+        "sound_end": 523799
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000247",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6709,11 +6953,12 @@
             "です",
             "。"
         ],
-        "sound": "f000247.mp3"
+        "sound": "f000247.mp3",
+        "sound_begin": 523799,
+        "sound_end": 527679
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000248",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6729,11 +6974,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000248.mp3"
+        "sound": "f000248.mp3",
+        "sound_begin": 527679,
+        "sound_end": 528960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000249",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6757,11 +7003,12 @@
             "た",
             "。"
         ],
-        "sound": "f000249.mp3"
+        "sound": "f000249.mp3",
+        "sound_begin": 528960,
+        "sound_end": 532360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000250",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6797,11 +7044,12 @@
             "に",
             "、"
         ],
-        "sound": "f000250.mp3"
+        "sound": "f000250.mp3",
+        "sound_begin": 532360,
+        "sound_end": 535560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000251",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6833,11 +7081,12 @@
             "か",
             "。"
         ],
-        "sound": "f000251.mp3"
+        "sound": "f000251.mp3",
+        "sound_begin": 535560,
+        "sound_end": 539225
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000252",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6853,11 +7102,12 @@
             "や",
             "、"
         ],
-        "sound": "f000252.mp3"
+        "sound": "f000252.mp3",
+        "sound_begin": 539225,
+        "sound_end": 540200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000253",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6873,11 +7123,12 @@
             "は",
             "、"
         ],
-        "sound": "f000253.mp3"
+        "sound": "f000253.mp3",
+        "sound_begin": 540200,
+        "sound_end": 540360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000254",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6907,11 +7158,12 @@
             "が",
             "、"
         ],
-        "sound": "f000254.mp3"
+        "sound": "f000254.mp3",
+        "sound_begin": 540360,
+        "sound_end": 542480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000255",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6947,11 +7199,12 @@
             "ず",
             "、"
         ],
-        "sound": "f000255.mp3"
+        "sound": "f000255.mp3",
+        "sound_begin": 542480,
+        "sound_end": 546200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000256",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6975,11 +7228,12 @@
             "です",
             "。"
         ],
-        "sound": "f000256.mp3"
+        "sound": "f000256.mp3",
+        "sound_begin": 546200,
+        "sound_end": 548760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000257",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -6993,11 +7247,12 @@
             "みんな",
             "、"
         ],
-        "sound": "f000257.mp3"
+        "sound": "f000257.mp3",
+        "sound_begin": 548760,
+        "sound_end": 549000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000258",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7021,11 +7276,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000258.mp3"
+        "sound": "f000258.mp3",
+        "sound_begin": 549000,
+        "sound_end": 551400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000259",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7051,11 +7307,12 @@
             "おそらく",
             "、"
         ],
-        "sound": "f000259.mp3"
+        "sound": "f000259.mp3",
+        "sound_begin": 551400,
+        "sound_end": 553720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000260",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7073,11 +7330,12 @@
             "に",
             "、"
         ],
-        "sound": "f000260.mp3"
+        "sound": "f000260.mp3",
+        "sound_begin": 553720,
+        "sound_end": 555200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000261",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7107,11 +7365,12 @@
             "。",
             "」"
         ],
-        "sound": "f000261.mp3"
+        "sound": "f000261.mp3",
+        "sound_begin": 555200,
+        "sound_end": 560797
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000262",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7131,11 +7390,12 @@
             "と",
             "、"
         ],
-        "sound": "f000262.mp3"
+        "sound": "f000262.mp3",
+        "sound_begin": 560797,
+        "sound_end": 562320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000263",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7155,11 +7415,12 @@
             "は",
             "、"
         ],
-        "sound": "f000263.mp3"
+        "sound": "f000263.mp3",
+        "sound_begin": 562320,
+        "sound_end": 563520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000264",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7183,11 +7444,12 @@
             "た",
             "。"
         ],
-        "sound": "f000264.mp3"
+        "sound": "f000264.mp3",
+        "sound_begin": 563520,
+        "sound_end": 566280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000265",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7201,11 +7463,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000265.mp3"
+        "sound": "f000265.mp3",
+        "sound_begin": 566280,
+        "sound_end": 567400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000266",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7229,11 +7492,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000266.mp3"
+        "sound": "f000266.mp3",
+        "sound_begin": 567400,
+        "sound_end": 571760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000267",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7247,11 +7511,12 @@
             "また",
             "、"
         ],
-        "sound": "f000267.mp3"
+        "sound": "f000267.mp3",
+        "sound_begin": 571760,
+        "sound_end": 572960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000268",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7275,11 +7540,12 @@
             "た",
             "。"
         ],
-        "sound": "f000268.mp3"
+        "sound": "f000268.mp3",
+        "sound_begin": 572960,
+        "sound_end": 576040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000269",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7307,11 +7573,12 @@
             "です",
             "。"
         ],
-        "sound": "f000269.mp3"
+        "sound": "f000269.mp3",
+        "sound_begin": 576040,
+        "sound_end": 578514
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000270",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7345,11 +7612,12 @@
             "た",
             "。"
         ],
-        "sound": "f000270.mp3"
+        "sound": "f000270.mp3",
+        "sound_begin": 578514,
+        "sound_end": 583520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000271",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7367,11 +7635,12 @@
             "は",
             "、"
         ],
-        "sound": "f000271.mp3"
+        "sound": "f000271.mp3",
+        "sound_begin": 583520,
+        "sound_end": 584720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000272",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7385,11 +7654,12 @@
             "しばらく",
             "、"
         ],
-        "sound": "f000272.mp3"
+        "sound": "f000272.mp3",
+        "sound_begin": 584720,
+        "sound_end": 585440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000273",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7415,11 +7685,12 @@
             "が",
             "、"
         ],
-        "sound": "f000273.mp3"
+        "sound": "f000273.mp3",
+        "sound_begin": 585440,
+        "sound_end": 587569
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000274",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7435,11 +7706,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000274.mp3"
+        "sound": "f000274.mp3",
+        "sound_begin": 587569,
+        "sound_end": 588480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000275",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7457,11 +7729,12 @@
             "が",
             "、"
         ],
-        "sound": "f000275.mp3"
+        "sound": "f000275.mp3",
+        "sound_begin": 588480,
+        "sound_end": 590080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000276",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7477,11 +7750,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000276.mp3"
+        "sound": "f000276.mp3",
+        "sound_begin": 590080,
+        "sound_end": 590400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000277",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7509,11 +7783,12 @@
             "か",
             "。"
         ],
-        "sound": "f000277.mp3"
+        "sound": "f000277.mp3",
+        "sound_begin": 590400,
+        "sound_end": 592469
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000278",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7535,11 +7810,12 @@
             "た",
             "。"
         ],
-        "sound": "f000278.mp3"
+        "sound": "f000278.mp3",
+        "sound_begin": 592469,
+        "sound_end": 594756
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000279",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7553,11 +7829,12 @@
             "ちょうど",
             "、"
         ],
-        "sound": "f000279.mp3"
+        "sound": "f000279.mp3",
+        "sound_begin": 594756,
+        "sound_end": 595200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000280",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7575,11 +7852,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000280.mp3"
+        "sound": "f000280.mp3",
+        "sound_begin": 595200,
+        "sound_end": 596680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000281",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7621,11 +7899,12 @@
             "は",
             "、"
         ],
-        "sound": "f000281.mp3"
+        "sound": "f000281.mp3",
+        "sound_begin": 596680,
+        "sound_end": 601760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000282",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7641,11 +7920,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000282.mp3"
+        "sound": "f000282.mp3",
+        "sound_begin": 601760,
+        "sound_end": 602640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000283",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7671,11 +7951,12 @@
             "が",
             "、"
         ],
-        "sound": "f000283.mp3"
+        "sound": "f000283.mp3",
+        "sound_begin": 602640,
+        "sound_end": 604886
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000284",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7691,11 +7972,12 @@
             "に",
             "、"
         ],
-        "sound": "f000284.mp3"
+        "sound": "f000284.mp3",
+        "sound_begin": 604886,
+        "sound_end": 606000
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000285",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7713,11 +7995,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000285.mp3"
+        "sound": "f000285.mp3",
+        "sound_begin": 606000,
+        "sound_end": 607280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000286",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7741,11 +8024,12 @@
             "て",
             "、"
         ],
-        "sound": "f000286.mp3"
+        "sound": "f000286.mp3",
+        "sound_begin": 607280,
+        "sound_end": 608720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000287",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7769,11 +8053,12 @@
             "です",
             "。"
         ],
-        "sound": "f000287.mp3"
+        "sound": "f000287.mp3",
+        "sound_begin": 608720,
+        "sound_end": 610435
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000288",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7795,11 +8080,12 @@
             "た",
             "。"
         ],
-        "sound": "f000288.mp3"
+        "sound": "f000288.mp3",
+        "sound_begin": 610435,
+        "sound_end": 612148
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000289",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7817,11 +8103,12 @@
             "は",
             "、"
         ],
-        "sound": "f000289.mp3"
+        "sound": "f000289.mp3",
+        "sound_begin": 612148,
+        "sound_end": 612720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000290",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7839,11 +8126,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000290.mp3"
+        "sound": "f000290.mp3",
+        "sound_begin": 612720,
+        "sound_end": 614440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000291",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7873,11 +8161,12 @@
             "か",
             "？"
         ],
-        "sound": "f000291.mp3"
+        "sound": "f000291.mp3",
+        "sound_begin": 614440,
+        "sound_end": 616560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000292",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7893,11 +8182,12 @@
             "と",
             "、"
         ],
-        "sound": "f000292.mp3"
+        "sound": "f000292.mp3",
+        "sound_begin": 616560,
+        "sound_end": 617604
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000293",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7919,11 +8209,12 @@
             "は",
             "、"
         ],
-        "sound": "f000293.mp3"
+        "sound": "f000293.mp3",
+        "sound_begin": 617604,
+        "sound_end": 618520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000294",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7941,11 +8232,12 @@
             "た",
             "。"
         ],
-        "sound": "f000294.mp3"
+        "sound": "f000294.mp3",
+        "sound_begin": 618520,
+        "sound_end": 623120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000295",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -7971,11 +8263,12 @@
             "が",
             "、"
         ],
-        "sound": "f000295.mp3"
+        "sound": "f000295.mp3",
+        "sound_begin": 623120,
+        "sound_end": 625640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000296",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8003,11 +8296,12 @@
             "た",
             "。"
         ],
-        "sound": "f000296.mp3"
+        "sound": "f000296.mp3",
+        "sound_begin": 625640,
+        "sound_end": 628750
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000297",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8041,11 +8335,12 @@
             "た",
             "。"
         ],
-        "sound": "f000297.mp3"
+        "sound": "f000297.mp3",
+        "sound_begin": 628750,
+        "sound_end": 633040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000298",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8069,11 +8364,12 @@
             "は",
             "、"
         ],
-        "sound": "f000298.mp3"
+        "sound": "f000298.mp3",
+        "sound_begin": 633040,
+        "sound_end": 635640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000299",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8097,11 +8393,12 @@
             "た",
             "。"
         ],
-        "sound": "f000299.mp3"
+        "sound": "f000299.mp3",
+        "sound_begin": 635640,
+        "sound_end": 638960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000300",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8115,11 +8412,12 @@
             "毎朝",
             "、"
         ],
-        "sound": "f000300.mp3"
+        "sound": "f000300.mp3",
+        "sound_begin": 638960,
+        "sound_end": 639480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000301",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8149,11 +8447,12 @@
             "が",
             "、"
         ],
-        "sound": "f000301.mp3"
+        "sound": "f000301.mp3",
+        "sound_begin": 639480,
+        "sound_end": 641800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000302",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8181,11 +8480,12 @@
             "て",
             "、"
         ],
-        "sound": "f000302.mp3"
+        "sound": "f000302.mp3",
+        "sound_begin": 641800,
+        "sound_end": 644080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000303",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8211,11 +8511,12 @@
             "た",
             "。"
         ],
-        "sound": "f000303.mp3"
+        "sound": "f000303.mp3",
+        "sound_begin": 644080,
+        "sound_end": 645680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000304",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8243,11 +8544,12 @@
             "は",
             "、"
         ],
-        "sound": "f000304.mp3"
+        "sound": "f000304.mp3",
+        "sound_begin": 645680,
+        "sound_end": 649800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000305",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8277,11 +8579,12 @@
             "た",
             "。"
         ],
-        "sound": "f000305.mp3"
+        "sound": "f000305.mp3",
+        "sound_begin": 649800,
+        "sound_end": 653720
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000306",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8309,11 +8612,12 @@
             "に",
             "、"
         ],
-        "sound": "f000306.mp3"
+        "sound": "f000306.mp3",
+        "sound_begin": 653720,
+        "sound_end": 656045
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000307",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8349,11 +8653,12 @@
             "が",
             "、"
         ],
-        "sound": "f000307.mp3"
+        "sound": "f000307.mp3",
+        "sound_begin": 656045,
+        "sound_end": 659348
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000308",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8369,11 +8674,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000308.mp3"
+        "sound": "f000308.mp3",
+        "sound_begin": 659348,
+        "sound_end": 660834
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000309",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8419,11 +8725,12 @@
             "て",
             "、"
         ],
-        "sound": "f000309.mp3"
+        "sound": "f000309.mp3",
+        "sound_begin": 660834,
+        "sound_end": 665360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000310",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8445,11 +8752,12 @@
             "た",
             "。"
         ],
-        "sound": "f000310.mp3"
+        "sound": "f000310.mp3",
+        "sound_begin": 665360,
+        "sound_end": 669147
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000311",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8481,11 +8789,12 @@
             "た",
             "。"
         ],
-        "sound": "f000311.mp3"
+        "sound": "f000311.mp3",
+        "sound_begin": 669147,
+        "sound_end": 672595
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000312",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8501,11 +8810,12 @@
             "と",
             "、"
         ],
-        "sound": "f000312.mp3"
+        "sound": "f000312.mp3",
+        "sound_begin": 672595,
+        "sound_end": 672800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000313",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8527,11 +8837,12 @@
             "は",
             "、"
         ],
-        "sound": "f000313.mp3"
+        "sound": "f000313.mp3",
+        "sound_begin": 672800,
+        "sound_end": 674440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000314",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8549,11 +8860,12 @@
             "た",
             "。"
         ],
-        "sound": "f000314.mp3"
+        "sound": "f000314.mp3",
+        "sound_begin": 674440,
+        "sound_end": 676320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000315",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8569,11 +8881,12 @@
             "いや",
             "、"
         ],
-        "sound": "f000315.mp3"
+        "sound": "f000315.mp3",
+        "sound_begin": 676320,
+        "sound_end": 677560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000316",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8605,11 +8918,12 @@
             "た",
             "。"
         ],
-        "sound": "f000316.mp3"
+        "sound": "f000316.mp3",
+        "sound_begin": 677560,
+        "sound_end": 680960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000317",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8625,11 +8939,12 @@
             "と",
             "、"
         ],
-        "sound": "f000317.mp3"
+        "sound": "f000317.mp3",
+        "sound_begin": 680960,
+        "sound_end": 682240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000318",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8657,11 +8972,12 @@
             "た",
             "。"
         ],
-        "sound": "f000318.mp3"
+        "sound": "f000318.mp3",
+        "sound_begin": 682240,
+        "sound_end": 686161
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000319",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8675,11 +8991,12 @@
             "結局",
             "、"
         ],
-        "sound": "f000319.mp3"
+        "sound": "f000319.mp3",
+        "sound_begin": 686161,
+        "sound_end": 687554
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000320",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8697,11 +9014,12 @@
             "は",
             "、"
         ],
-        "sound": "f000320.mp3"
+        "sound": "f000320.mp3",
+        "sound_begin": 687554,
+        "sound_end": 688760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000321",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8727,11 +9045,12 @@
             "です",
             "。"
         ],
-        "sound": "f000321.mp3"
+        "sound": "f000321.mp3",
+        "sound_begin": 688760,
+        "sound_end": 692024
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000322",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8749,11 +9068,12 @@
             "は",
             "、"
         ],
-        "sound": "f000322.mp3"
+        "sound": "f000322.mp3",
+        "sound_begin": 692024,
+        "sound_end": 692600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000323",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8785,11 +9105,12 @@
             "いろ",
             "！"
         ],
-        "sound": "f000323.mp3"
+        "sound": "f000323.mp3",
+        "sound_begin": 692600,
+        "sound_end": 696274
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000324",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8805,11 +9126,12 @@
             "と",
             "、"
         ],
-        "sound": "f000324.mp3"
+        "sound": "f000324.mp3",
+        "sound_begin": 696274,
+        "sound_end": 696947
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000325",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8831,11 +9153,12 @@
             "は",
             "、"
         ],
-        "sound": "f000325.mp3"
+        "sound": "f000325.mp3",
+        "sound_begin": 696947,
+        "sound_end": 698840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000326",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8851,11 +9174,12 @@
             "て",
             "、"
         ],
-        "sound": "f000326.mp3"
+        "sound": "f000326.mp3",
+        "sound_begin": 698840,
+        "sound_end": 699780
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000327",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8887,11 +9211,12 @@
             "た",
             "。"
         ],
-        "sound": "f000327.mp3"
+        "sound": "f000327.mp3",
+        "sound_begin": 699780,
+        "sound_end": 703570
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000328",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8909,11 +9234,12 @@
             "も",
             "、"
         ],
-        "sound": "f000328.mp3"
+        "sound": "f000328.mp3",
+        "sound_begin": 703570,
+        "sound_end": 704560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000329",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8937,11 +9263,12 @@
             "いろ",
             "！"
         ],
-        "sound": "f000329.mp3"
+        "sound": "f000329.mp3",
+        "sound_begin": 704560,
+        "sound_end": 707160
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000330",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8955,11 +9282,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000330.mp3"
+        "sound": "f000330.mp3",
+        "sound_begin": 707160,
+        "sound_end": 708520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000331",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -8977,11 +9305,12 @@
             "は",
             "、"
         ],
-        "sound": "f000331.mp3"
+        "sound": "f000331.mp3",
+        "sound_begin": 708520,
+        "sound_end": 709320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000332",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9003,11 +9332,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000332.mp3"
+        "sound": "f000332.mp3",
+        "sound_begin": 709320,
+        "sound_end": 711960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000333",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9023,11 +9353,12 @@
             "か",
             "、"
         ],
-        "sound": "f000333.mp3"
+        "sound": "f000333.mp3",
+        "sound_begin": 711960,
+        "sound_end": 712480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000334",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9051,11 +9382,12 @@
             "ては",
             "、"
         ],
-        "sound": "f000334.mp3"
+        "sound": "f000334.mp3",
+        "sound_begin": 712480,
+        "sound_end": 714652
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000335",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9069,11 +9401,12 @@
             "やはり",
             "、"
         ],
-        "sound": "f000335.mp3"
+        "sound": "f000335.mp3",
+        "sound_begin": 714652,
+        "sound_end": 715080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000336",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9099,11 +9432,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000336.mp3"
+        "sound": "f000336.mp3",
+        "sound_begin": 715080,
+        "sound_end": 718507
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000337",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9119,11 +9453,12 @@
             "と",
             "、"
         ],
-        "sound": "f000337.mp3"
+        "sound": "f000337.mp3",
+        "sound_begin": 718507,
+        "sound_end": 718760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000338",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9151,11 +9486,12 @@
             "た",
             "。"
         ],
-        "sound": "f000338.mp3"
+        "sound": "f000338.mp3",
+        "sound_begin": 718760,
+        "sound_end": 722240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000339",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9173,11 +9509,12 @@
             "も",
             "、"
         ],
-        "sound": "f000339.mp3"
+        "sound": "f000339.mp3",
+        "sound_begin": 722240,
+        "sound_end": 722880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000340",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9195,11 +9532,12 @@
             "。",
             "」"
         ],
-        "sound": "f000340.mp3"
+        "sound": "f000340.mp3",
+        "sound_begin": 722880,
+        "sound_end": 723560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000341",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9217,11 +9555,12 @@
             "て",
             "、"
         ],
-        "sound": "f000341.mp3"
+        "sound": "f000341.mp3",
+        "sound_begin": 723560,
+        "sound_end": 727080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000342",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9255,11 +9594,12 @@
             "を",
             "、"
         ],
-        "sound": "f000342.mp3"
+        "sound": "f000342.mp3",
+        "sound_begin": 727080,
+        "sound_end": 730400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000343",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9281,11 +9621,12 @@
             "は",
             "、"
         ],
-        "sound": "f000343.mp3"
+        "sound": "f000343.mp3",
+        "sound_begin": 730400,
+        "sound_end": 732120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000344",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9315,11 +9656,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000344.mp3"
+        "sound": "f000344.mp3",
+        "sound_begin": 732120,
+        "sound_end": 735600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000345",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9343,11 +9685,12 @@
             "が",
             "、"
         ],
-        "sound": "f000345.mp3"
+        "sound": "f000345.mp3",
+        "sound_begin": 735600,
+        "sound_end": 737120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000346",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9375,11 +9718,12 @@
             "か",
             "、"
         ],
-        "sound": "f000346.mp3"
+        "sound": "f000346.mp3",
+        "sound_begin": 737120,
+        "sound_end": 739680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000347",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9395,11 +9739,12 @@
             "か",
             "、"
         ],
-        "sound": "f000347.mp3"
+        "sound": "f000347.mp3",
+        "sound_begin": 739680,
+        "sound_end": 740040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000348",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9429,11 +9774,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000348.mp3"
+        "sound": "f000348.mp3",
+        "sound_begin": 740040,
+        "sound_end": 742650
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000349",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9449,11 +9795,12 @@
             "と",
             "、"
         ],
-        "sound": "f000349.mp3"
+        "sound": "f000349.mp3",
+        "sound_begin": 742650,
+        "sound_end": 742830
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000350",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9471,11 +9818,12 @@
             "は",
             "、"
         ],
-        "sound": "f000350.mp3"
+        "sound": "f000350.mp3",
+        "sound_begin": 742830,
+        "sound_end": 744200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000351",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9501,11 +9849,12 @@
             "た",
             "。"
         ],
-        "sound": "f000351.mp3"
+        "sound": "f000351.mp3",
+        "sound_begin": 744200,
+        "sound_end": 748440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000352",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9523,11 +9872,12 @@
             "か",
             "、"
         ],
-        "sound": "f000352.mp3"
+        "sound": "f000352.mp3",
+        "sound_begin": 748440,
+        "sound_end": 748880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000353",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9547,11 +9897,12 @@
             "に",
             "、"
         ],
-        "sound": "f000353.mp3"
+        "sound": "f000353.mp3",
+        "sound_begin": 748880,
+        "sound_end": 750306
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000354",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9589,11 +9940,12 @@
             "か",
             "。"
         ],
-        "sound": "f000354.mp3"
+        "sound": "f000354.mp3",
+        "sound_begin": 750306,
+        "sound_end": 753633
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000355",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9609,11 +9961,12 @@
             "と",
             "、"
         ],
-        "sound": "f000355.mp3"
+        "sound": "f000355.mp3",
+        "sound_begin": 753633,
+        "sound_end": 753840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000356",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9641,11 +9994,12 @@
             "た",
             "。"
         ],
-        "sound": "f000356.mp3"
+        "sound": "f000356.mp3",
+        "sound_begin": 753840,
+        "sound_end": 756251
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000357",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9661,11 +10015,12 @@
             "と",
             "、"
         ],
-        "sound": "f000357.mp3"
+        "sound": "f000357.mp3",
+        "sound_begin": 756251,
+        "sound_end": 756680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000358",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9685,11 +10040,12 @@
             "から",
             "、"
         ],
-        "sound": "f000358.mp3"
+        "sound": "f000358.mp3",
+        "sound_begin": 756680,
+        "sound_end": 759153
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000359",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9709,11 +10065,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000359.mp3"
+        "sound": "f000359.mp3",
+        "sound_begin": 759153,
+        "sound_end": 761429
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000360",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9743,11 +10100,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000360.mp3"
+        "sound": "f000360.mp3",
+        "sound_begin": 761429,
+        "sound_end": 765920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000361",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9769,11 +10127,12 @@
             "に",
             "、"
         ],
-        "sound": "f000361.mp3"
+        "sound": "f000361.mp3",
+        "sound_begin": 765920,
+        "sound_end": 767120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000362",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9795,11 +10154,12 @@
             "て",
             "、"
         ],
-        "sound": "f000362.mp3"
+        "sound": "f000362.mp3",
+        "sound_begin": 767120,
+        "sound_end": 768840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000363",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9833,11 +10193,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000363.mp3"
+        "sound": "f000363.mp3",
+        "sound_begin": 768840,
+        "sound_end": 773040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000364",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9861,11 +10222,12 @@
             "は",
             "、"
         ],
-        "sound": "f000364.mp3"
+        "sound": "f000364.mp3",
+        "sound_begin": 773040,
+        "sound_end": 775360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000365",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9901,11 +10263,12 @@
             "に",
             "、"
         ],
-        "sound": "f000365.mp3"
+        "sound": "f000365.mp3",
+        "sound_begin": 775360,
+        "sound_end": 780120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000366",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9943,11 +10306,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000366.mp3"
+        "sound": "f000366.mp3",
+        "sound_begin": 780120,
+        "sound_end": 784881
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000367",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9977,11 +10341,12 @@
             "た",
             "。"
         ],
-        "sound": "f000367.mp3"
+        "sound": "f000367.mp3",
+        "sound_begin": 784881,
+        "sound_end": 787840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000368",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -9999,11 +10364,12 @@
             "です",
             "。"
         ],
-        "sound": "f000368.mp3"
+        "sound": "f000368.mp3",
+        "sound_begin": 787840,
+        "sound_end": 789322
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000369",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10031,11 +10397,12 @@
             "も",
             "、"
         ],
-        "sound": "f000369.mp3"
+        "sound": "f000369.mp3",
+        "sound_begin": 789322,
+        "sound_end": 792480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000370",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10069,11 +10436,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000370.mp3"
+        "sound": "f000370.mp3",
+        "sound_begin": 792480,
+        "sound_end": 795440
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000371",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10089,11 +10457,12 @@
             "と",
             "、"
         ],
-        "sound": "f000371.mp3"
+        "sound": "f000371.mp3",
+        "sound_begin": 795440,
+        "sound_end": 795585
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000372",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10117,11 +10486,12 @@
             "た",
             "。"
         ],
-        "sound": "f000372.mp3"
+        "sound": "f000372.mp3",
+        "sound_begin": 795585,
+        "sound_end": 799960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000373",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10141,11 +10511,12 @@
             "も",
             "、"
         ],
-        "sound": "f000373.mp3"
+        "sound": "f000373.mp3",
+        "sound_begin": 799960,
+        "sound_end": 802029
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000374",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10165,11 +10536,12 @@
             "は",
             "、"
         ],
-        "sound": "f000374.mp3"
+        "sound": "f000374.mp3",
+        "sound_begin": 802029,
+        "sound_end": 804026
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000375",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10203,11 +10575,12 @@
             "た",
             "。"
         ],
-        "sound": "f000375.mp3"
+        "sound": "f000375.mp3",
+        "sound_begin": 804026,
+        "sound_end": 809320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000376",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10223,11 +10596,12 @@
             "も",
             "、"
         ],
-        "sound": "f000376.mp3"
+        "sound": "f000376.mp3",
+        "sound_begin": 809320,
+        "sound_end": 810240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000377",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10243,11 +10617,12 @@
             "も",
             "、"
         ],
-        "sound": "f000377.mp3"
+        "sound": "f000377.mp3",
+        "sound_begin": 810240,
+        "sound_end": 811410
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000378",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10283,11 +10658,12 @@
             "です",
             "。"
         ],
-        "sound": "f000378.mp3"
+        "sound": "f000378.mp3",
+        "sound_begin": 811410,
+        "sound_end": 816280
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000379",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10305,11 +10681,12 @@
             "じき",
             "、"
         ],
-        "sound": "f000379.mp3"
+        "sound": "f000379.mp3",
+        "sound_begin": 816280,
+        "sound_end": 817673
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000380",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10331,11 +10708,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000380.mp3"
+        "sound": "f000380.mp3",
+        "sound_begin": 817673,
+        "sound_end": 819461
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000381",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10351,11 +10729,12 @@
             "と",
             "、"
         ],
-        "sound": "f000381.mp3"
+        "sound": "f000381.mp3",
+        "sound_begin": 819461,
+        "sound_end": 820384
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000382",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10371,11 +10750,12 @@
             "は",
             "、"
         ],
-        "sound": "f000382.mp3"
+        "sound": "f000382.mp3",
+        "sound_begin": 820384,
+        "sound_end": 821560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000383",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10405,11 +10785,12 @@
             "た",
             "。"
         ],
-        "sound": "f000383.mp3"
+        "sound": "f000383.mp3",
+        "sound_begin": 821560,
+        "sound_end": 825320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000384",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10423,11 +10804,12 @@
             "また",
             "、"
         ],
-        "sound": "f000384.mp3"
+        "sound": "f000384.mp3",
+        "sound_begin": 825320,
+        "sound_end": 825680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000385",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10457,11 +10839,12 @@
             "て",
             "、"
         ],
-        "sound": "f000385.mp3"
+        "sound": "f000385.mp3",
+        "sound_begin": 825680,
+        "sound_end": 827840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000386",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10491,11 +10874,12 @@
             "です",
             "。"
         ],
-        "sound": "f000386.mp3"
+        "sound": "f000386.mp3",
+        "sound_begin": 827840,
+        "sound_end": 831120
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000387",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10513,11 +10897,12 @@
             "昨夜",
             "、"
         ],
-        "sound": "f000387.mp3"
+        "sound": "f000387.mp3",
+        "sound_begin": 831120,
+        "sound_end": 832470
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000388",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10557,11 +10942,12 @@
             "た",
             "。"
         ],
-        "sound": "f000388.mp3"
+        "sound": "f000388.mp3",
+        "sound_begin": 832470,
+        "sound_end": 837800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000389",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10577,11 +10963,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000389.mp3"
+        "sound": "f000389.mp3",
+        "sound_begin": 837800,
+        "sound_end": 838713
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000390",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10597,11 +10984,12 @@
             "に",
             "、"
         ],
-        "sound": "f000390.mp3"
+        "sound": "f000390.mp3",
+        "sound_begin": 838716,
+        "sound_end": 839169
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000391",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10619,11 +11007,12 @@
             "か",
             "、"
         ],
-        "sound": "f000391.mp3"
+        "sound": "f000391.mp3",
+        "sound_begin": 839169,
+        "sound_end": 840160
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000392",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10651,11 +11040,12 @@
             "と",
             "、"
         ],
-        "sound": "f000392.mp3"
+        "sound": "f000392.mp3",
+        "sound_begin": 840160,
+        "sound_end": 841960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000393",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10679,11 +11069,12 @@
             "から",
             "、"
         ],
-        "sound": "f000393.mp3"
+        "sound": "f000393.mp3",
+        "sound_begin": 841960,
+        "sound_end": 843800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000394",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10703,11 +11094,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000394.mp3"
+        "sound": "f000394.mp3",
+        "sound_begin": 843800,
+        "sound_end": 844760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000395",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10727,11 +11119,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000395.mp3"
+        "sound": "f000395.mp3",
+        "sound_begin": 844760,
+        "sound_end": 846680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000396",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10749,11 +11142,12 @@
             "は",
             "、"
         ],
-        "sound": "f000396.mp3"
+        "sound": "f000396.mp3",
+        "sound_begin": 846680,
+        "sound_end": 847920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000397",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10783,11 +11177,12 @@
             "から",
             "。"
         ],
-        "sound": "f000397.mp3"
+        "sound": "f000397.mp3",
+        "sound_begin": 847920,
+        "sound_end": 850936
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000398",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10803,11 +11198,12 @@
             "と",
             "、"
         ],
-        "sound": "f000398.mp3"
+        "sound": "f000398.mp3",
+        "sound_begin": 850936,
+        "sound_end": 851240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000399",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10829,11 +11225,12 @@
             "た",
             "。"
         ],
-        "sound": "f000399.mp3"
+        "sound": "f000399.mp3",
+        "sound_begin": 851240,
+        "sound_end": 855208
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000400",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10849,11 +11246,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000400.mp3"
+        "sound": "f000400.mp3",
+        "sound_begin": 855208,
+        "sound_end": 856560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000401",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10881,11 +11279,12 @@
             "た",
             "。"
         ],
-        "sound": "f000401.mp3"
+        "sound": "f000401.mp3",
+        "sound_begin": 856560,
+        "sound_end": 859600
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000402",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10899,11 +11298,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000402.mp3"
+        "sound": "f000402.mp3",
+        "sound_begin": 859600,
+        "sound_end": 860640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000403",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10927,11 +11327,12 @@
             "て",
             "、"
         ],
-        "sound": "f000403.mp3"
+        "sound": "f000403.mp3",
+        "sound_begin": 860640,
+        "sound_end": 862040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000404",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10955,11 +11356,12 @@
             "と",
             "、"
         ],
-        "sound": "f000404.mp3"
+        "sound": "f000404.mp3",
+        "sound_begin": 862040,
+        "sound_end": 865257
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000405",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -10977,11 +11379,12 @@
             "は",
             "、"
         ],
-        "sound": "f000405.mp3"
+        "sound": "f000405.mp3",
+        "sound_begin": 865257,
+        "sound_end": 865800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000406",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11001,11 +11404,12 @@
             "から",
             "、"
         ],
-        "sound": "f000406.mp3"
+        "sound": "f000406.mp3",
+        "sound_begin": 865800,
+        "sound_end": 867960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000407",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11035,11 +11439,12 @@
             "いで",
             "。"
         ],
-        "sound": "f000407.mp3"
+        "sound": "f000407.mp3",
+        "sound_begin": 867960,
+        "sound_end": 870960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000408",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11059,11 +11464,12 @@
             "が",
             "、"
         ],
-        "sound": "f000408.mp3"
+        "sound": "f000408.mp3",
+        "sound_begin": 870960,
+        "sound_end": 871920
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000409",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11085,11 +11491,12 @@
             "て",
             "、"
         ],
-        "sound": "f000409.mp3"
+        "sound": "f000409.mp3",
+        "sound_begin": 871920,
+        "sound_end": 873480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000410",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11109,11 +11516,12 @@
             "から",
             "、"
         ],
-        "sound": "f000410.mp3"
+        "sound": "f000410.mp3",
+        "sound_begin": 873480,
+        "sound_end": 875240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000411",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11139,11 +11547,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000411.mp3"
+        "sound": "f000411.mp3",
+        "sound_begin": 875240,
+        "sound_end": 878400
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000412",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11157,11 +11566,12 @@
             "まだ",
             "、"
         ],
-        "sound": "f000412.mp3"
+        "sound": "f000412.mp3",
+        "sound_begin": 878400,
+        "sound_end": 878680
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000413",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11191,11 +11601,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000413.mp3"
+        "sound": "f000413.mp3",
+        "sound_begin": 878680,
+        "sound_end": 881755
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000414",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11211,11 +11622,12 @@
             "と",
             "、"
         ],
-        "sound": "f000414.mp3"
+        "sound": "f000414.mp3",
+        "sound_begin": 881755,
+        "sound_end": 882080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000415",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11241,11 +11653,12 @@
             "た",
             "。"
         ],
-        "sound": "f000415.mp3"
+        "sound": "f000415.mp3",
+        "sound_begin": 882080,
+        "sound_end": 885760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000416",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11263,11 +11676,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000416.mp3"
+        "sound": "f000416.mp3",
+        "sound_begin": 885760,
+        "sound_end": 887480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000417",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11283,11 +11697,12 @@
             "は",
             "、"
         ],
-        "sound": "f000417.mp3"
+        "sound": "f000417.mp3",
+        "sound_begin": 887480,
+        "sound_end": 889040
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000418",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11313,11 +11728,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000418.mp3"
+        "sound": "f000418.mp3",
+        "sound_begin": 889040,
+        "sound_end": 891043
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000419",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11333,11 +11749,12 @@
             "と",
             "、"
         ],
-        "sound": "f000419.mp3"
+        "sound": "f000419.mp3",
+        "sound_begin": 891043,
+        "sound_end": 891360
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000420",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11359,11 +11776,12 @@
             "た",
             "。"
         ],
-        "sound": "f000420.mp3"
+        "sound": "f000420.mp3",
+        "sound_begin": 891360,
+        "sound_end": 893640
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000421",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11381,11 +11799,12 @@
             "から",
             "、"
         ],
-        "sound": "f000421.mp3"
+        "sound": "f000421.mp3",
+        "sound_begin": 893640,
+        "sound_end": 894320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000422",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11405,11 +11824,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000422.mp3"
+        "sound": "f000422.mp3",
+        "sound_begin": 894320,
+        "sound_end": 896240
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000423",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11435,11 +11855,12 @@
             "です",
             "。"
         ],
-        "sound": "f000423.mp3"
+        "sound": "f000423.mp3",
+        "sound_begin": 896240,
+        "sound_end": 898647
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000424",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11455,11 +11876,12 @@
             "と",
             "、"
         ],
-        "sound": "f000424.mp3"
+        "sound": "f000424.mp3",
+        "sound_begin": 898647,
+        "sound_end": 898880
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000425",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11477,11 +11899,12 @@
             "は",
             "、"
         ],
-        "sound": "f000425.mp3"
+        "sound": "f000425.mp3",
+        "sound_begin": 898880,
+        "sound_end": 899520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000426",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11499,11 +11922,12 @@
             "た",
             "。"
         ],
-        "sound": "f000426.mp3"
+        "sound": "f000426.mp3",
+        "sound_begin": 899520,
+        "sound_end": 903520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000427",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11523,11 +11947,12 @@
             "は",
             "、"
         ],
-        "sound": "f000427.mp3"
+        "sound": "f000427.mp3",
+        "sound_begin": 903520,
+        "sound_end": 904960
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000428",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11555,11 +11980,12 @@
             "た",
             "。"
         ],
-        "sound": "f000428.mp3"
+        "sound": "f000428.mp3",
+        "sound_begin": 904960,
+        "sound_end": 907840
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000429",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11573,11 +11999,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000429.mp3"
+        "sound": "f000429.mp3",
+        "sound_begin": 907840,
+        "sound_end": 908800
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000430",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11607,11 +12034,12 @@
             "た",
             "。"
         ],
-        "sound": "f000430.mp3"
+        "sound": "f000430.mp3",
+        "sound_begin": 908800,
+        "sound_end": 913659
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000431",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11631,11 +12059,12 @@
             "は",
             "、"
         ],
-        "sound": "f000431.mp3"
+        "sound": "f000431.mp3",
+        "sound_begin": 913659,
+        "sound_end": 915560
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000432",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11667,11 +12096,12 @@
             "た",
             "。"
         ],
-        "sound": "f000432.mp3"
+        "sound": "f000432.mp3",
+        "sound_begin": 915560,
+        "sound_end": 919092
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000433",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11685,11 +12115,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000433.mp3"
+        "sound": "f000433.mp3",
+        "sound_begin": 919092,
+        "sound_end": 920080
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000434",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11707,11 +12138,12 @@
             "に",
             "、"
         ],
-        "sound": "f000434.mp3"
+        "sound": "f000434.mp3",
+        "sound_begin": 920080,
+        "sound_end": 921760
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000435",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11737,11 +12169,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000435.mp3"
+        "sound": "f000435.mp3",
+        "sound_begin": 921760,
+        "sound_end": 923520
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000436",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11765,11 +12198,12 @@
             "た",
             "。"
         ],
-        "sound": "f000436.mp3"
+        "sound": "f000436.mp3",
+        "sound_begin": 923520,
+        "sound_end": 927480
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000437",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11789,11 +12223,12 @@
             "は",
             "、"
         ],
-        "sound": "f000437.mp3"
+        "sound": "f000437.mp3",
+        "sound_begin": 927480,
+        "sound_end": 929200
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000438",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11819,11 +12254,12 @@
             "た",
             "。"
         ],
-        "sound": "f000438.mp3"
+        "sound": "f000438.mp3",
+        "sound_begin": 929200,
+        "sound_end": 934185
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000439",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11837,11 +12273,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000439.mp3"
+        "sound": "f000439.mp3",
+        "sound_begin": 934185,
+        "sound_end": 935555
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000440",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11867,11 +12304,12 @@
             "は",
             "、"
         ],
-        "sound": "f000440.mp3"
+        "sound": "f000440.mp3",
+        "sound_begin": 935555,
+        "sound_end": 938320
     },
     {
         "id": "Aruyono Hoshitachino Hanashi-f000441",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Aruyono Hoshitachino Hanashi",
         "deck_name_japanese": "ある夜の星たちの話",
@@ -11895,6 +12333,8 @@
             "です",
             "。"
         ],
-        "sound": "f000441.mp3"
+        "sound": "f000441.mp3",
+        "sound_begin": 938320,
+        "sound_end": 944000
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Osamato Kutsuya-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -19,11 +18,12 @@
             "と",
             "靴屋"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5760,
+        "sound_end": 9640
     },
     {
         "id": "Osamato Kutsuya-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -39,11 +39,12 @@
             "日",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9640,
+        "sound_end": 10320
     },
     {
         "id": "Osamato Kutsuya-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -79,11 +80,12 @@
             "て",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 10320,
+        "sound_end": 13640
     },
     {
         "id": "Osamato Kutsuya-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -113,11 +115,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 13640,
+        "sound_end": 18040
     },
     {
         "id": "Osamato Kutsuya-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -147,11 +150,12 @@
             "て",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 18040,
+        "sound_end": 22280
     },
     {
         "id": "Osamato Kutsuya-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -187,11 +191,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 22280,
+        "sound_end": 28080
     },
     {
         "id": "Osamato Kutsuya-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -221,11 +226,12 @@
             "て",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 28080,
+        "sound_end": 30880
     },
     {
         "id": "Osamato Kutsuya-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -243,11 +249,12 @@
             "これ",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 32880,
+        "sound_end": 33920
     },
     {
         "id": "Osamato Kutsuya-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -261,11 +268,12 @@
             "じいや",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 33920,
+        "sound_end": 35480
     },
     {
         "id": "Osamato Kutsuya-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -295,11 +303,12 @@
             "。",
             "」"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 35480,
+        "sound_end": 38970
     },
     {
         "id": "Osamato Kutsuya-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -319,11 +328,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 38970,
+        "sound_end": 41779
     },
     {
         "id": "Osamato Kutsuya-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -345,11 +355,12 @@
             "は",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 41779,
+        "sound_end": 43760
     },
     {
         "id": "Osamato Kutsuya-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -393,11 +404,12 @@
             "で",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 43760,
+        "sound_end": 49040
     },
     {
         "id": "Osamato Kutsuya-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -423,11 +435,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 49040,
+        "sound_end": 51720
     },
     {
         "id": "Osamato Kutsuya-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -455,11 +468,12 @@
             "。",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 51720,
+        "sound_end": 55015
     },
     {
         "id": "Osamato Kutsuya-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -473,11 +487,12 @@
             "と",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 55015,
+        "sound_end": 55823
     },
     {
         "id": "Osamato Kutsuya-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -497,11 +512,12 @@
             "て",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 55823,
+        "sound_end": 58070
     },
     {
         "id": "Osamato Kutsuya-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -531,11 +547,12 @@
             "た",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 58070,
+        "sound_end": 60560
     },
     {
         "id": "Osamato Kutsuya-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -551,11 +568,12 @@
             "これ",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 63060,
+        "sound_end": 64120
     },
     {
         "id": "Osamato Kutsuya-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -581,11 +599,12 @@
             "。",
             "」"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 64120,
+        "sound_end": 67321
     },
     {
         "id": "Osamato Kutsuya-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -613,11 +632,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 67321,
+        "sound_end": 70060
     },
     {
         "id": "Osamato Kutsuya-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -645,11 +665,12 @@
             "は",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 72160,
+        "sound_end": 74840
     },
     {
         "id": "Osamato Kutsuya-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -683,11 +704,12 @@
             "。",
             "」"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 74840,
+        "sound_end": 78871
     },
     {
         "id": "Osamato Kutsuya-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -709,11 +731,12 @@
             "また",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 78871,
+        "sound_end": 81259
     },
     {
         "id": "Osamato Kutsuya-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -733,11 +756,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 81259,
+        "sound_end": 83225
     },
     {
         "id": "Osamato Kutsuya-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -761,11 +785,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 83225,
+        "sound_end": 85740
     },
     {
         "id": "Osamato Kutsuya-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -783,11 +808,12 @@
             "は",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 87840,
+        "sound_end": 89800
     },
     {
         "id": "Osamato Kutsuya-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -813,11 +839,12 @@
             "た",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 89800,
+        "sound_end": 92520
     },
     {
         "id": "Osamato Kutsuya-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -835,11 +862,12 @@
             "て",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 92520,
+        "sound_end": 93720
     },
     {
         "id": "Osamato Kutsuya-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -857,11 +885,12 @@
             "やさしく",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 93720,
+        "sound_end": 97440
     },
     {
         "id": "Osamato Kutsuya-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -893,11 +922,12 @@
             "。",
             "」"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 97440,
+        "sound_end": 101183
     },
     {
         "id": "Osamato Kutsuya-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -917,11 +947,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 101183,
+        "sound_end": 104640
     },
     {
         "id": "Osamato Kutsuya-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -943,11 +974,12 @@
             "は",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 104640,
+        "sound_end": 106317
     },
     {
         "id": "Osamato Kutsuya-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -965,11 +997,12 @@
             "。",
             "」"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 106317,
+        "sound_end": 108661
     },
     {
         "id": "Osamato Kutsuya-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -989,11 +1022,12 @@
             "は",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 108661,
+        "sound_end": 110520
     },
     {
         "id": "Osamato Kutsuya-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1017,11 +1051,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 110520,
+        "sound_end": 112720
     },
     {
         "id": "Osamato Kutsuya-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1043,11 +1078,12 @@
             "は",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 114226,
+        "sound_end": 117680
     },
     {
         "id": "Osamato Kutsuya-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1069,11 +1105,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 117680,
+        "sound_end": 120826
     },
     {
         "id": "Osamato Kutsuya-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1095,11 +1132,12 @@
             "が",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 120826,
+        "sound_end": 125120
     },
     {
         "id": "Osamato Kutsuya-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1143,11 +1181,12 @@
             "。",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 125120,
+        "sound_end": 131955
     },
     {
         "id": "Osamato Kutsuya-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1167,11 +1206,12 @@
             "た",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 131955,
+        "sound_end": 134817
     },
     {
         "id": "Osamato Kutsuya-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1193,11 +1233,12 @@
             "。",
             "」"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 134817,
+        "sound_end": 137011
     },
     {
         "id": "Osamato Kutsuya-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1225,11 +1266,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 137011,
+        "sound_end": 142120
     },
     {
         "id": "Osamato Kutsuya-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1249,11 +1291,12 @@
             "は",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 142120,
+        "sound_end": 143963
     },
     {
         "id": "Osamato Kutsuya-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1287,11 +1330,12 @@
             "。",
             "」"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 143963,
+        "sound_end": 148334
     },
     {
         "id": "Osamato Kutsuya-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1319,11 +1363,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 148334,
+        "sound_end": 152840
     },
     {
         "id": "Osamato Kutsuya-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1345,11 +1390,12 @@
             "。",
             "」"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 152840,
+        "sound_end": 155540
     },
     {
         "id": "Osamato Kutsuya-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1375,11 +1421,12 @@
             "て",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 155540,
+        "sound_end": 158796
     },
     {
         "id": "Osamato Kutsuya-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1407,11 +1454,12 @@
             "た",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 158796,
+        "sound_end": 160960
     },
     {
         "id": "Osamato Kutsuya-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1431,11 +1479,12 @@
             "が",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 163307,
+        "sound_end": 166160
     },
     {
         "id": "Osamato Kutsuya-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1469,11 +1518,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 166160,
+        "sound_end": 171000
     },
     {
         "id": "Osamato Kutsuya-f000053",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1497,11 +1547,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 171000,
+        "sound_end": 172680
     },
     {
         "id": "Osamato Kutsuya-f000054",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1533,11 +1584,12 @@
             "から",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 174380,
+        "sound_end": 178097
     },
     {
         "id": "Osamato Kutsuya-f000055",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1557,11 +1609,12 @@
             "。",
             "」"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 178097,
+        "sound_end": 181055
     },
     {
         "id": "Osamato Kutsuya-f000056",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1581,11 +1634,12 @@
             "は",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 181055,
+        "sound_end": 183135
     },
     {
         "id": "Osamato Kutsuya-f000057",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1613,11 +1667,12 @@
             "て",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 183135,
+        "sound_end": 186480
     },
     {
         "id": "Osamato Kutsuya-f000058",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1645,11 +1700,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 186480,
+        "sound_end": 188640
     },
     {
         "id": "Osamato Kutsuya-f000059",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1699,11 +1755,12 @@
             "。",
             "」"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 191940,
+        "sound_end": 199487
     },
     {
         "id": "Osamato Kutsuya-f000060",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1723,11 +1780,12 @@
             "は",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 199487,
+        "sound_end": 200800
     },
     {
         "id": "Osamato Kutsuya-f000061",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1759,11 +1817,12 @@
             "て",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 200800,
+        "sound_end": 204680
     },
     {
         "id": "Osamato Kutsuya-f000062",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1793,11 +1852,12 @@
             "た",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 204680,
+        "sound_end": 208840
     },
     {
         "id": "Osamato Kutsuya-f000063",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1813,11 +1873,12 @@
             "うん",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 208840,
+        "sound_end": 210708
     },
     {
         "id": "Osamato Kutsuya-f000064",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1835,11 +1896,12 @@
             "で",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 210708,
+        "sound_end": 213600
     },
     {
         "id": "Osamato Kutsuya-f000065",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1865,11 +1927,12 @@
             "。",
             "」"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 213600,
+        "sound_end": 216480
     },
     {
         "id": "Osamato Kutsuya-f000066",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1905,11 +1968,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 216480,
+        "sound_end": 223000
     },
     {
         "id": "Osamato Kutsuya-f000067",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1931,11 +1995,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 223000,
+        "sound_end": 224680
     },
     {
         "id": "Osamato Kutsuya-f000068",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -1979,11 +2044,12 @@
             "た",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 224680,
+        "sound_end": 229000
     },
     {
         "id": "Osamato Kutsuya-f000069",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2005,11 +2071,12 @@
             "うせろ",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 229000,
+        "sound_end": 231160
     },
     {
         "id": "Osamato Kutsuya-f000070",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2039,11 +2106,12 @@
             "ぞ",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 231160,
+        "sound_end": 233840
     },
     {
         "id": "Osamato Kutsuya-f000071",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2063,11 +2131,12 @@
             "が",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 233840,
+        "sound_end": 235859
     },
     {
         "id": "Osamato Kutsuya-f000072",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2103,11 +2172,12 @@
             "が",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 235859,
+        "sound_end": 239800
     },
     {
         "id": "Osamato Kutsuya-f000073",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2137,11 +2207,12 @@
             "。",
             "」"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 239800,
+        "sound_end": 242280
     },
     {
         "id": "Osamato Kutsuya-f000074",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2155,11 +2226,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 242280,
+        "sound_end": 242960
     },
     {
         "id": "Osamato Kutsuya-f000075",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2191,11 +2263,12 @@
             "た",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 242960,
+        "sound_end": 245720
     },
     {
         "id": "Osamato Kutsuya-f000076",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2229,11 +2302,12 @@
             "た",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 245720,
+        "sound_end": 248937
     },
     {
         "id": "Osamato Kutsuya-f000077",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2251,11 +2325,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 248937,
+        "sound_end": 250160
     },
     {
         "id": "Osamato Kutsuya-f000078",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2289,11 +2364,12 @@
             "て",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 250160,
+        "sound_end": 254320
     },
     {
         "id": "Osamato Kutsuya-f000079",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2317,11 +2393,12 @@
             "た",
             "。"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 254320,
+        "sound_end": 257120
     },
     {
         "id": "Osamato Kutsuya-f000080",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2341,11 +2418,12 @@
             "は",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 259620,
+        "sound_end": 261040
     },
     {
         "id": "Osamato Kutsuya-f000081",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2375,11 +2453,12 @@
             "て",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 261040,
+        "sound_end": 266360
     },
     {
         "id": "Osamato Kutsuya-f000082",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2407,11 +2486,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 266360,
+        "sound_end": 270320
     },
     {
         "id": "Osamato Kutsuya-f000083",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2439,11 +2519,12 @@
             "。",
             "」"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 270320,
+        "sound_end": 273891
     },
     {
         "id": "Osamato Kutsuya-f000084",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2463,11 +2544,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 273891,
+        "sound_end": 276032
     },
     {
         "id": "Osamato Kutsuya-f000085",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Osamato Kutsuya",
         "deck_name_japanese": "王さまと靴屋",
@@ -2497,6 +2579,8 @@
             "た",
             "。"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 276032,
+        "sound_end": 279200
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Okasanno Omoide-f000002",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -19,11 +18,12 @@
             "の",
             "思ひ出"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6040,
+        "sound_end": 7740
     },
     {
         "id": "Okasanno Omoide-f000003",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -69,11 +69,12 @@
             "ゐる",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9840,
+        "sound_end": 15680
     },
     {
         "id": "Okasanno Omoide-f000004",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -101,11 +102,12 @@
             "で",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 15680,
+        "sound_end": 19080
     },
     {
         "id": "Okasanno Omoide-f000005",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -153,11 +155,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 19080,
+        "sound_end": 23560
     },
     {
         "id": "Okasanno Omoide-f000006",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -183,11 +186,12 @@
             "も",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 25260,
+        "sound_end": 27360
     },
     {
         "id": "Okasanno Omoide-f000007",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -205,11 +209,12 @@
             "て",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 27360,
+        "sound_end": 28400
     },
     {
         "id": "Okasanno Omoide-f000008",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -245,11 +250,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 28400,
+        "sound_end": 33449
     },
     {
         "id": "Okasanno Omoide-f000009",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -277,11 +283,12 @@
             "ゐる",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 33449,
+        "sound_end": 36960
     },
     {
         "id": "Okasanno Omoide-f000010",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -313,11 +320,12 @@
             "ゐる",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 36960,
+        "sound_end": 41480
     },
     {
         "id": "Okasanno Omoide-f000011",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -343,11 +351,12 @@
             "て",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 41480,
+        "sound_end": 43840
     },
     {
         "id": "Okasanno Omoide-f000012",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -375,11 +384,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 43840,
+        "sound_end": 45760
     },
     {
         "id": "Okasanno Omoide-f000013",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -399,11 +409,12 @@
             "。",
             "」"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 47960,
+        "sound_end": 48880
     },
     {
         "id": "Okasanno Omoide-f000014",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -427,11 +438,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 48880,
+        "sound_end": 53160
     },
     {
         "id": "Okasanno Omoide-f000015",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -455,11 +467,12 @@
             "て",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 53160,
+        "sound_end": 55280
     },
     {
         "id": "Okasanno Omoide-f000016",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -487,11 +500,12 @@
             "で",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 55280,
+        "sound_end": 57920
     },
     {
         "id": "Okasanno Omoide-f000017",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -509,11 +523,12 @@
             "。",
             "」"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 57920,
+        "sound_end": 58792
     },
     {
         "id": "Okasanno Omoide-f000018",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -545,11 +560,12 @@
             "と",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 58792,
+        "sound_end": 61386
     },
     {
         "id": "Okasanno Omoide-f000019",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -569,11 +585,12 @@
             "。",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 61386,
+        "sound_end": 63680
     },
     {
         "id": "Okasanno Omoide-f000020",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -601,11 +618,12 @@
             "する",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 63680,
+        "sound_end": 68640
     },
     {
         "id": "Okasanno Omoide-f000021",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -635,11 +653,12 @@
             "て",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 68640,
+        "sound_end": 71160
     },
     {
         "id": "Okasanno Omoide-f000022",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -659,11 +678,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 71160,
+        "sound_end": 74160
     },
     {
         "id": "Okasanno Omoide-f000023",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -681,11 +701,12 @@
             "は",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 74160,
+        "sound_end": 74960
     },
     {
         "id": "Okasanno Omoide-f000024",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -709,11 +730,12 @@
             "て",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 74960,
+        "sound_end": 77160
     },
     {
         "id": "Okasanno Omoide-f000025",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -747,11 +769,12 @@
             "た",
             "）"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 77160,
+        "sound_end": 82640
     },
     {
         "id": "Okasanno Omoide-f000026",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -769,11 +792,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 82640,
+        "sound_end": 83360
     },
     {
         "id": "Okasanno Omoide-f000027",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -807,11 +831,12 @@
             "。",
             "」"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 83360,
+        "sound_end": 86200
     },
     {
         "id": "Okasanno Omoide-f000028",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -827,11 +852,12 @@
             "いふ",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 86200,
+        "sound_end": 89160
     },
     {
         "id": "Okasanno Omoide-f000029",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -849,11 +875,12 @@
             "？",
             "」"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 89160,
+        "sound_end": 89600
     },
     {
         "id": "Okasanno Omoide-f000030",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -881,11 +908,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 89600,
+        "sound_end": 93720
     },
     {
         "id": "Okasanno Omoide-f000031",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -923,11 +951,12 @@
             "など",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 93720,
+        "sound_end": 96680
     },
     {
         "id": "Okasanno Omoide-f000032",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -951,11 +980,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 96680,
+        "sound_end": 99960
     },
     {
         "id": "Okasanno Omoide-f000033",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -969,11 +999,12 @@
             "まして",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 99960,
+        "sound_end": 100418
     },
     {
         "id": "Okasanno Omoide-f000034",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -991,11 +1022,12 @@
             "から",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 100418,
+        "sound_end": 101560
     },
     {
         "id": "Okasanno Omoide-f000035",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1031,11 +1063,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 101560,
+        "sound_end": 106520
     },
     {
         "id": "Okasanno Omoide-f000036",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1073,11 +1106,12 @@
             "て",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 106520,
+        "sound_end": 110205
     },
     {
         "id": "Okasanno Omoide-f000037",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1109,11 +1143,12 @@
             "と",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 110205,
+        "sound_end": 114424
     },
     {
         "id": "Okasanno Omoide-f000038",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1131,11 +1166,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 114424,
+        "sound_end": 116020
     },
     {
         "id": "Okasanno Omoide-f000039",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1171,11 +1207,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 116020,
+        "sound_end": 119519
     },
     {
         "id": "Okasanno Omoide-f000040",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1201,11 +1238,12 @@
             "。",
             "」"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 119519,
+        "sound_end": 121160
     },
     {
         "id": "Okasanno Omoide-f000041",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1225,11 +1263,12 @@
             "は",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 122760,
+        "sound_end": 123979
     },
     {
         "id": "Okasanno Omoide-f000042",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1257,11 +1296,12 @@
             "た",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 123979,
+        "sound_end": 126643
     },
     {
         "id": "Okasanno Omoide-f000043",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1289,11 +1329,12 @@
             "ほど",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 128479,
+        "sound_end": 131920
     },
     {
         "id": "Okasanno Omoide-f000044",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1321,11 +1362,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 131920,
+        "sound_end": 135440
     },
     {
         "id": "Okasanno Omoide-f000045",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1369,11 +1411,12 @@
             "で",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 135440,
+        "sound_end": 140280
     },
     {
         "id": "Okasanno Omoide-f000046",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1397,11 +1440,12 @@
             "と",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 140280,
+        "sound_end": 142520
     },
     {
         "id": "Okasanno Omoide-f000047",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1421,11 +1465,12 @@
             "と",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 142520,
+        "sound_end": 144018
     },
     {
         "id": "Okasanno Omoide-f000048",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1467,11 +1512,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 144018,
+        "sound_end": 147549
     },
     {
         "id": "Okasanno Omoide-f000049",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1499,11 +1545,12 @@
             "。",
             "」"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 148920,
+        "sound_end": 150320
     },
     {
         "id": "Okasanno Omoide-f000050",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1521,11 +1568,12 @@
             "て",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 150320,
+        "sound_end": 151920
     },
     {
         "id": "Okasanno Omoide-f000051",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1547,11 +1595,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 151920,
+        "sound_end": 156000
     },
     {
         "id": "Okasanno Omoide-f000052",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1569,11 +1618,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 156000,
+        "sound_end": 156800
     },
     {
         "id": "Okasanno Omoide-f000053",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1593,11 +1643,12 @@
             "から",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 156800,
+        "sound_end": 158760
     },
     {
         "id": "Okasanno Omoide-f000054",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1623,11 +1674,12 @@
             "て",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 158760,
+        "sound_end": 160600
     },
     {
         "id": "Okasanno Omoide-f000055",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1645,11 +1697,12 @@
             "で",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 160600,
+        "sound_end": 162680
     },
     {
         "id": "Okasanno Omoide-f000056",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1683,11 +1736,12 @@
             "。",
             "」"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 162680,
+        "sound_end": 164440
     },
     {
         "id": "Okasanno Omoide-f000057",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1705,11 +1759,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 164440,
+        "sound_end": 165540
     },
     {
         "id": "Okasanno Omoide-f000058",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1729,11 +1784,12 @@
             "は",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 167640,
+        "sound_end": 169040
     },
     {
         "id": "Okasanno Omoide-f000059",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1759,11 +1815,12 @@
             "て",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 169040,
+        "sound_end": 171440
     },
     {
         "id": "Okasanno Omoide-f000060",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1791,11 +1848,12 @@
             "で",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 171440,
+        "sound_end": 173840
     },
     {
         "id": "Okasanno Omoide-f000061",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1813,11 +1871,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 173840,
+        "sound_end": 175920
     },
     {
         "id": "Okasanno Omoide-f000062",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1841,11 +1900,12 @@
             "と",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 175920,
+        "sound_end": 178120
     },
     {
         "id": "Okasanno Omoide-f000063",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1865,11 +1925,12 @@
             "て",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 178120,
+        "sound_end": 180160
     },
     {
         "id": "Okasanno Omoide-f000064",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1887,11 +1948,12 @@
             "明るい",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 180160,
+        "sound_end": 183200
     },
     {
         "id": "Okasanno Omoide-f000065",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1925,11 +1987,12 @@
             "を",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 183200,
+        "sound_end": 186640
     },
     {
         "id": "Okasanno Omoide-f000066",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1957,11 +2020,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 186640,
+        "sound_end": 190491
     },
     {
         "id": "Okasanno Omoide-f000067",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -1987,11 +2051,12 @@
             "冷たい",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 190491,
+        "sound_end": 193480
     },
     {
         "id": "Okasanno Omoide-f000068",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2019,11 +2084,12 @@
             "に",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 195980,
+        "sound_end": 198280
     },
     {
         "id": "Okasanno Omoide-f000069",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2047,11 +2113,12 @@
             "は",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 198280,
+        "sound_end": 200320
     },
     {
         "id": "Okasanno Omoide-f000070",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2077,11 +2144,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 200320,
+        "sound_end": 202480
     },
     {
         "id": "Okasanno Omoide-f000071",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2113,11 +2181,12 @@
             "で",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 202480,
+        "sound_end": 205400
     },
     {
         "id": "Okasanno Omoide-f000072",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2141,11 +2210,12 @@
             "か",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 205400,
+        "sound_end": 207000
     },
     {
         "id": "Okasanno Omoide-f000073",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2169,11 +2239,12 @@
             "で",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 207000,
+        "sound_end": 209160
     },
     {
         "id": "Okasanno Omoide-f000074",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2209,11 +2280,12 @@
             "た",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 209160,
+        "sound_end": 213255
     },
     {
         "id": "Okasanno Omoide-f000075",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2239,11 +2311,12 @@
             "から",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 213255,
+        "sound_end": 218000
     },
     {
         "id": "Okasanno Omoide-f000076",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2261,11 +2334,12 @@
             "ちやん",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 218000,
+        "sound_end": 218760
     },
     {
         "id": "Okasanno Omoide-f000077",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2285,11 +2359,12 @@
             "。",
             "」"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 218760,
+        "sound_end": 219640
     },
     {
         "id": "Okasanno Omoide-f000078",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2307,11 +2382,12 @@
             "れ",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 219640,
+        "sound_end": 221440
     },
     {
         "id": "Okasanno Omoide-f000079",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2339,11 +2415,12 @@
             "て",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 221440,
+        "sound_end": 224000
     },
     {
         "id": "Okasanno Omoide-f000080",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2359,11 +2436,12 @@
             "か",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 224000,
+        "sound_end": 225360
     },
     {
         "id": "Okasanno Omoide-f000081",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2379,11 +2457,12 @@
             "。",
             "」"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 225360,
+        "sound_end": 225800
     },
     {
         "id": "Okasanno Omoide-f000082",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2401,11 +2480,12 @@
             "た",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 225800,
+        "sound_end": 228760
     },
     {
         "id": "Okasanno Omoide-f000083",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2423,11 +2503,12 @@
             "は",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 228760,
+        "sound_end": 229960
     },
     {
         "id": "Okasanno Omoide-f000084",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2463,11 +2544,12 @@
             "て",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 229960,
+        "sound_end": 233040
     },
     {
         "id": "Okasanno Omoide-f000085",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2491,11 +2573,12 @@
             "た",
             "。"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 233040,
+        "sound_end": 235700
     },
     {
         "id": "Okasanno Omoide-f000086",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2511,11 +2594,12 @@
             "はい",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 237800,
+        "sound_end": 238200
     },
     {
         "id": "Okasanno Omoide-f000087",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2535,11 +2619,12 @@
             "銭",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 238200,
+        "sound_end": 239320
     },
     {
         "id": "Okasanno Omoide-f000088",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2565,11 +2650,12 @@
             "。",
             "」"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 239320,
+        "sound_end": 242200
     },
     {
         "id": "Okasanno Omoide-f000089",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2599,11 +2685,12 @@
             "と",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 242200,
+        "sound_end": 246640
     },
     {
         "id": "Okasanno Omoide-f000090",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2627,11 +2714,12 @@
             "に",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 246640,
+        "sound_end": 248000
     },
     {
         "id": "Okasanno Omoide-f000091",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2653,11 +2741,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 248000,
+        "sound_end": 250880
     },
     {
         "id": "Okasanno Omoide-f000092",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2699,11 +2788,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 250880,
+        "sound_end": 255580
     },
     {
         "id": "Okasanno Omoide-f000093",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2741,11 +2831,12 @@
             "て",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 257680,
+        "sound_end": 261399
     },
     {
         "id": "Okasanno Omoide-f000094",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2771,11 +2862,12 @@
             "を",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 261399,
+        "sound_end": 264240
     },
     {
         "id": "Okasanno Omoide-f000095",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2805,11 +2897,12 @@
             "て",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 264240,
+        "sound_end": 266760
     },
     {
         "id": "Okasanno Omoide-f000096",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2829,11 +2922,12 @@
             "た",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 266760,
+        "sound_end": 269437
     },
     {
         "id": "Okasanno Omoide-f000097",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2851,11 +2945,12 @@
             "は",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 269437,
+        "sound_end": 270640
     },
     {
         "id": "Okasanno Omoide-f000098",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2885,11 +2980,12 @@
             "を",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 270640,
+        "sound_end": 273400
     },
     {
         "id": "Okasanno Omoide-f000099",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2911,11 +3007,12 @@
             "た",
             "。"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 273400,
+        "sound_end": 276080
     },
     {
         "id": "Okasanno Omoide-f000100",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2947,11 +3044,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 276080,
+        "sound_end": 280880
     },
     {
         "id": "Okasanno Omoide-f000101",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2969,11 +3067,12 @@
             "は",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 280880,
+        "sound_end": 281760
     },
     {
         "id": "Okasanno Omoide-f000102",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -2999,11 +3098,12 @@
             "て",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 281760,
+        "sound_end": 284319
     },
     {
         "id": "Okasanno Omoide-f000103",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3033,11 +3133,12 @@
             "て",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 284319,
+        "sound_end": 287920
     },
     {
         "id": "Okasanno Omoide-f000104",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3053,11 +3154,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 287920,
+        "sound_end": 288600
     },
     {
         "id": "Okasanno Omoide-f000105",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3077,11 +3179,12 @@
             "。",
             "」"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 288600,
+        "sound_end": 289280
     },
     {
         "id": "Okasanno Omoide-f000106",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3099,11 +3202,12 @@
             "て",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 289280,
+        "sound_end": 291000
     },
     {
         "id": "Okasanno Omoide-f000107",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3133,11 +3237,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 291000,
+        "sound_end": 295600
     },
     {
         "id": "Okasanno Omoide-f000108",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3153,11 +3258,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 295600,
+        "sound_end": 296160
     },
     {
         "id": "Okasanno Omoide-f000109",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3177,11 +3283,12 @@
             "。",
             "」"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 296160,
+        "sound_end": 297080
     },
     {
         "id": "Okasanno Omoide-f000110",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3203,11 +3310,12 @@
             "が",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 297080,
+        "sound_end": 299120
     },
     {
         "id": "Okasanno Omoide-f000111",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3239,11 +3347,12 @@
             "て",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 299120,
+        "sound_end": 303010
     },
     {
         "id": "Okasanno Omoide-f000112",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3261,11 +3370,12 @@
             "た",
             "。"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 303010,
+        "sound_end": 305960
     },
     {
         "id": "Okasanno Omoide-f000113",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3293,11 +3403,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 305960,
+        "sound_end": 308864
     },
     {
         "id": "Okasanno Omoide-f000114",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3323,11 +3434,12 @@
             "た",
             "。"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 308864,
+        "sound_end": 312800
     },
     {
         "id": "Okasanno Omoide-f000115",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3351,11 +3463,12 @@
             "と",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 312800,
+        "sound_end": 314920
     },
     {
         "id": "Okasanno Omoide-f000116",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3385,11 +3498,12 @@
             "ひらき",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 314920,
+        "sound_end": 318481
     },
     {
         "id": "Okasanno Omoide-f000117",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3415,11 +3529,12 @@
             "た",
             "。"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 318481,
+        "sound_end": 321440
     },
     {
         "id": "Okasanno Omoide-f000118",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3443,11 +3558,12 @@
             "は",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 322987,
+        "sound_end": 324629
     },
     {
         "id": "Okasanno Omoide-f000119",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3467,11 +3583,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 324629,
+        "sound_end": 327840
     },
     {
         "id": "Okasanno Omoide-f000120",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3503,11 +3620,12 @@
             "から",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 327840,
+        "sound_end": 334323
     },
     {
         "id": "Okasanno Omoide-f000121",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3539,11 +3657,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 334323,
+        "sound_end": 339400
     },
     {
         "id": "Okasanno Omoide-f000122",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3557,11 +3676,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 339400,
+        "sound_end": 340640
     },
     {
         "id": "Okasanno Omoide-f000123",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3603,11 +3723,12 @@
             "て",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 340640,
+        "sound_end": 345160
     },
     {
         "id": "Okasanno Omoide-f000124",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3633,11 +3754,12 @@
             "ゐる",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 345160,
+        "sound_end": 348640
     },
     {
         "id": "Okasanno Omoide-f000125",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3657,11 +3779,12 @@
             "時",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 348640,
+        "sound_end": 350134
     },
     {
         "id": "Okasanno Omoide-f000126",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3679,11 +3802,12 @@
             "と",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 350134,
+        "sound_end": 351920
     },
     {
         "id": "Okasanno Omoide-f000127",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3715,11 +3839,12 @@
             "て",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 351920,
+        "sound_end": 355120
     },
     {
         "id": "Okasanno Omoide-f000128",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3735,11 +3860,12 @@
             "も",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 355120,
+        "sound_end": 356359
     },
     {
         "id": "Okasanno Omoide-f000129",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3781,11 +3907,12 @@
             "と",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 356359,
+        "sound_end": 360819
     },
     {
         "id": "Okasanno Omoide-f000130",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3813,11 +3940,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 360819,
+        "sound_end": 364923
     },
     {
         "id": "Okasanno Omoide-f000131",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3845,11 +3973,12 @@
             "を",
             "、"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 364923,
+        "sound_end": 368480
     },
     {
         "id": "Okasanno Omoide-f000132",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3879,11 +4008,12 @@
             "に",
             "、"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 368480,
+        "sound_end": 371360
     },
     {
         "id": "Okasanno Omoide-f000133",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3907,11 +4037,12 @@
             "が",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 371360,
+        "sound_end": 373378
     },
     {
         "id": "Okasanno Omoide-f000134",
-        "author": "Kouhei Tsuchida",
         "author_japanese": "土田 耕平",
         "deck_name": "Okasanno Omoide",
         "deck_name_japanese": "お母さんの思ひ出",
@@ -3951,6 +4082,8 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 373378,
+        "sound_end": 378980
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Otoshita Issendoka-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -21,11 +20,12 @@
             "銭",
             "銅貨"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5159,
+        "sound_end": 7220
     },
     {
         "id": "Otoshita Issendoka-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -55,11 +55,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9320,
+        "sound_end": 13480
     },
     {
         "id": "Otoshita Issendoka-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -89,11 +90,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 13480,
+        "sound_end": 18160
     },
     {
         "id": "Otoshita Issendoka-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -117,11 +119,12 @@
             "と",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 18160,
+        "sound_end": 20280
     },
     {
         "id": "Otoshita Issendoka-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -151,11 +154,12 @@
             "。",
             "」"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 20280,
+        "sound_end": 22720
     },
     {
         "id": "Otoshita Issendoka-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -173,11 +177,12 @@
             "て",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 22720,
+        "sound_end": 23959
     },
     {
         "id": "Otoshita Issendoka-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -227,11 +232,12 @@
             "た",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 23959,
+        "sound_end": 30320
     },
     {
         "id": "Otoshita Issendoka-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -245,11 +251,12 @@
             "さて",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 30320,
+        "sound_end": 31480
     },
     {
         "id": "Otoshita Issendoka-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -271,11 +278,12 @@
             "た",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 31480,
+        "sound_end": 33360
     },
     {
         "id": "Otoshita Issendoka-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -301,11 +309,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 33360,
+        "sound_end": 36513
     },
     {
         "id": "Otoshita Issendoka-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -321,11 +330,12 @@
             "や",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 36513,
+        "sound_end": 37317
     },
     {
         "id": "Otoshita Issendoka-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -345,11 +355,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 37317,
+        "sound_end": 38849
     },
     {
         "id": "Otoshita Issendoka-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -371,11 +382,12 @@
             "。",
             "」"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 38849,
+        "sound_end": 40692
     },
     {
         "id": "Otoshita Issendoka-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -393,11 +405,12 @@
             "は",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 40692,
+        "sound_end": 42360
     },
     {
         "id": "Otoshita Issendoka-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -421,11 +434,12 @@
             "て",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 42360,
+        "sound_end": 44280
     },
     {
         "id": "Otoshita Issendoka-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -461,11 +475,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 44280,
+        "sound_end": 47560
     },
     {
         "id": "Otoshita Issendoka-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -511,11 +526,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 49360,
+        "sound_end": 55330
     },
     {
         "id": "Otoshita Issendoka-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -541,11 +557,12 @@
             "まえ",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 55330,
+        "sound_end": 58600
     },
     {
         "id": "Otoshita Issendoka-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -575,11 +592,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 58600,
+        "sound_end": 60960
     },
     {
         "id": "Otoshita Issendoka-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -601,11 +619,12 @@
             "で",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 60960,
+        "sound_end": 62708
     },
     {
         "id": "Otoshita Issendoka-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -635,11 +654,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 62708,
+        "sound_end": 66360
     },
     {
         "id": "Otoshita Issendoka-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -655,11 +675,12 @@
             "や",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 66360,
+        "sound_end": 67118
     },
     {
         "id": "Otoshita Issendoka-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -681,11 +702,12 @@
             "。",
             "」"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 67118,
+        "sound_end": 69802
     },
     {
         "id": "Otoshita Issendoka-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -709,11 +731,12 @@
             "て",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 69802,
+        "sound_end": 72960
     },
     {
         "id": "Otoshita Issendoka-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -757,11 +780,12 @@
             "で",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 72960,
+        "sound_end": 76920
     },
     {
         "id": "Otoshita Issendoka-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -789,11 +813,12 @@
             "。",
             "」"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 76920,
+        "sound_end": 79240
     },
     {
         "id": "Otoshita Issendoka-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -811,11 +836,12 @@
             "て",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 79240,
+        "sound_end": 80613
     },
     {
         "id": "Otoshita Issendoka-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -847,11 +873,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 80613,
+        "sound_end": 85480
     },
     {
         "id": "Otoshita Issendoka-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -879,11 +906,12 @@
             "で",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 85480,
+        "sound_end": 88520
     },
     {
         "id": "Otoshita Issendoka-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -913,11 +941,12 @@
             "た",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 88520,
+        "sound_end": 92680
     },
     {
         "id": "Otoshita Issendoka-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -937,11 +966,12 @@
             "はず",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 92680,
+        "sound_end": 94760
     },
     {
         "id": "Otoshita Issendoka-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -973,11 +1003,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 94760,
+        "sound_end": 98744
     },
     {
         "id": "Otoshita Issendoka-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1007,11 +1038,12 @@
             "で",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 98744,
+        "sound_end": 102960
     },
     {
         "id": "Otoshita Issendoka-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1037,11 +1069,12 @@
             "て",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 102960,
+        "sound_end": 105603
     },
     {
         "id": "Otoshita Issendoka-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1079,11 +1112,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 105603,
+        "sound_end": 108919
     },
     {
         "id": "Otoshita Issendoka-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1109,11 +1143,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 110960,
+        "sound_end": 114547
     },
     {
         "id": "Otoshita Issendoka-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1147,11 +1182,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 114547,
+        "sound_end": 119622
     },
     {
         "id": "Otoshita Issendoka-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1187,11 +1223,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 119622,
+        "sound_end": 124240
     },
     {
         "id": "Otoshita Issendoka-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1209,11 +1246,12 @@
             "の",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 124240,
+        "sound_end": 125480
     },
     {
         "id": "Otoshita Issendoka-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1235,11 +1273,12 @@
             "銅貨",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 125480,
+        "sound_end": 127736
     },
     {
         "id": "Otoshita Issendoka-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1267,11 +1306,12 @@
             "。",
             "」"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 127736,
+        "sound_end": 130148
     },
     {
         "id": "Otoshita Issendoka-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1285,11 +1325,12 @@
             "と",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 130148,
+        "sound_end": 130818
     },
     {
         "id": "Otoshita Issendoka-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1319,11 +1360,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 130818,
+        "sound_end": 133120
     },
     {
         "id": "Otoshita Issendoka-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1343,11 +1385,12 @@
             "から",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 134720,
+        "sound_end": 137124
     },
     {
         "id": "Otoshita Issendoka-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1365,11 +1408,12 @@
             "いえ",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 137124,
+        "sound_end": 138355
     },
     {
         "id": "Otoshita Issendoka-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1395,11 +1439,12 @@
             "。",
             "」"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 138355,
+        "sound_end": 140147
     },
     {
         "id": "Otoshita Issendoka-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1425,11 +1470,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 140147,
+        "sound_end": 144120
     },
     {
         "id": "Otoshita Issendoka-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1459,11 +1505,12 @@
             "て",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 144120,
+        "sound_end": 147400
     },
     {
         "id": "Otoshita Issendoka-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1481,11 +1528,12 @@
             "の",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 147400,
+        "sound_end": 148560
     },
     {
         "id": "Otoshita Issendoka-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1507,11 +1555,12 @@
             "銅貨",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 148560,
+        "sound_end": 150120
     },
     {
         "id": "Otoshita Issendoka-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1539,11 +1588,12 @@
             "。",
             "」"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 150120,
+        "sound_end": 153019
     },
     {
         "id": "Otoshita Issendoka-f000053",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1563,11 +1613,12 @@
             "た",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 153019,
+        "sound_end": 155320
     },
     {
         "id": "Otoshita Issendoka-f000054",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1589,11 +1640,12 @@
             "から",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 155320,
+        "sound_end": 158931
     },
     {
         "id": "Otoshita Issendoka-f000055",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1611,11 +1663,12 @@
             "いえ",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 158931,
+        "sound_end": 159920
     },
     {
         "id": "Otoshita Issendoka-f000056",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1641,11 +1694,12 @@
             "。",
             "」"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 159920,
+        "sound_end": 161896
     },
     {
         "id": "Otoshita Issendoka-f000057",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1665,11 +1719,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 161896,
+        "sound_end": 163040
     },
     {
         "id": "Otoshita Issendoka-f000058",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1699,11 +1754,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 164894,
+        "sound_end": 169600
     },
     {
         "id": "Otoshita Issendoka-f000059",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1721,11 +1777,12 @@
             "とうとう",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 169600,
+        "sound_end": 172280
     },
     {
         "id": "Otoshita Issendoka-f000060",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1743,11 +1800,12 @@
             "はい",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 172280,
+        "sound_end": 173445
     },
     {
         "id": "Otoshita Issendoka-f000061",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1769,11 +1827,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 173445,
+        "sound_end": 175831
     },
     {
         "id": "Otoshita Issendoka-f000062",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1801,11 +1860,12 @@
             "。",
             "」"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 175831,
+        "sound_end": 178101
     },
     {
         "id": "Otoshita Issendoka-f000063",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1825,11 +1885,12 @@
             "た",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 178101,
+        "sound_end": 181600
     },
     {
         "id": "Otoshita Issendoka-f000064",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1873,11 +1934,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 181600,
+        "sound_end": 188192
     },
     {
         "id": "Otoshita Issendoka-f000065",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1901,11 +1963,12 @@
             "た",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 188192,
+        "sound_end": 192160
     },
     {
         "id": "Otoshita Issendoka-f000066",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1943,11 +2006,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 192160,
+        "sound_end": 197747
     },
     {
         "id": "Otoshita Issendoka-f000067",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Otoshita Issendoka",
         "deck_name_japanese": "落とした一銭銅貨",
@@ -1993,6 +2057,8 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 197747,
+        "sound_end": 203280
     }
 ]

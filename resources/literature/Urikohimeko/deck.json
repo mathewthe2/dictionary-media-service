@@ -2,1221 +2,1709 @@
     {
         "id": "f000001",
         "sentence": "楠山正雄　作",
-        "sentence_with_furigana": "楠山正雄　作"
+        "sentence_with_furigana": "楠山正雄　作",
+        "audio_begin": 2028,
+        "audio_end": 4640
     },
     {
         "id": "f000002",
         "sentence": "瓜子姫子",
-        "sentence_with_furigana": "瓜子姫子"
+        "sentence_with_furigana": "瓜子姫子",
+        "audio_begin": 4640,
+        "audio_end": 7280
     },
     {
         "id": "f000003",
         "sentence": "一",
-        "sentence_with_furigana": "一"
+        "sentence_with_furigana": "一",
+        "audio_begin": 7280,
+        "audio_end": 10120
     },
     {
         "id": "f000004",
         "sentence": "むかし、",
-        "sentence_with_furigana": "むかし、"
+        "sentence_with_furigana": "むかし、",
+        "audio_begin": 10120,
+        "audio_end": 10920
     },
     {
         "id": "f000005",
         "sentence": "むかし、",
-        "sentence_with_furigana": "むかし、"
+        "sentence_with_furigana": "むかし、",
+        "audio_begin": 10920,
+        "audio_end": 12000
     },
     {
         "id": "f000006",
         "sentence": "おじいさんとおばあさんがありました。",
-        "sentence_with_furigana": "おじいさんとおばあさんがありました。"
+        "sentence_with_furigana": "おじいさんとおばあさんがありました。",
+        "audio_begin": 12000,
+        "audio_end": 15600
     },
     {
         "id": "f000007",
         "sentence": "ある日おじいさんは山へしば刈りに行きました。",
-        "sentence_with_furigana": "ある日おじいさんは山へしば 刈[か]りに行きました。"
+        "sentence_with_furigana": "ある日おじいさんは山へしば 刈[か]りに行きました。",
+        "audio_begin": 15600,
+        "audio_end": 20200
     },
     {
         "id": "f000008",
         "sentence": "おばあさんは川へ洗濯に行きました。",
-        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に行きました。"
+        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に行きました。",
+        "audio_begin": 20200,
+        "audio_end": 25320
     },
     {
         "id": "f000009",
         "sentence": "おばあさんが川でぼちゃぼちゃ洗濯をしていますと、",
-        "sentence_with_furigana": "おばあさんが川でぼちゃぼちゃ 洗濯[せんたく]をしていますと、"
+        "sentence_with_furigana": "おばあさんが川でぼちゃぼちゃ 洗濯[せんたく]をしていますと、",
+        "audio_begin": 25320,
+        "audio_end": 30320
     },
     {
         "id": "f000010",
         "sentence": "向こうから大きな瓜が一つ、",
-        "sentence_with_furigana": "向[む]こうから大きな 瓜[うり]が一つ、"
+        "sentence_with_furigana": "向[む]こうから大きな 瓜[うり]が一つ、",
+        "audio_begin": 30320,
+        "audio_end": 33520
     },
     {
         "id": "f000011",
         "sentence": "ぽっかり、",
-        "sentence_with_furigana": "ぽっかり、"
+        "sentence_with_furigana": "ぽっかり、",
+        "audio_begin": 33520,
+        "audio_end": 35080
     },
     {
         "id": "f000012",
         "sentence": "ぽっかり、",
-        "sentence_with_furigana": "ぽっかり、"
+        "sentence_with_furigana": "ぽっかり、",
+        "audio_begin": 35080,
+        "audio_end": 35849
     },
     {
         "id": "f000013",
         "sentence": "流れて来ました。",
-        "sentence_with_furigana": "流[なが]れて 来[き]ました。"
+        "sentence_with_furigana": "流[なが]れて 来[き]ました。",
+        "audio_begin": 35849,
+        "audio_end": 38840
     },
     {
         "id": "f000014",
         "sentence": "おばあさんはそれを見て、",
-        "sentence_with_furigana": "おばあさんはそれを 見[み]て、"
+        "sentence_with_furigana": "おばあさんはそれを 見[み]て、",
+        "audio_begin": 38840,
+        "audio_end": 41880
     },
     {
         "id": "f000015",
         "sentence": "「おやおや、",
-        "sentence_with_furigana": "「おやおや、"
+        "sentence_with_furigana": "「おやおや、",
+        "audio_begin": 41880,
+        "audio_end": 42840
     },
     {
         "id": "f000016",
         "sentence": "まあ。",
-        "sentence_with_furigana": "まあ。"
+        "sentence_with_furigana": "まあ。",
+        "audio_begin": 42840,
+        "audio_end": 43680
     },
     {
         "id": "f000017",
         "sentence": "めずらしい大きな瓜だこと、",
-        "sentence_with_furigana": "めずらしい大きな 瓜[うり]だこと、"
+        "sentence_with_furigana": "めずらしい大きな 瓜[うり]だこと、",
+        "audio_begin": 43680,
+        "audio_end": 47040
     },
     {
         "id": "f000018",
         "sentence": "さぞおいしいでしょう。",
-        "sentence_with_furigana": "さぞおいしいでしょう。"
+        "sentence_with_furigana": "さぞおいしいでしょう。",
+        "audio_begin": 47040,
+        "audio_end": 49160
     },
     {
         "id": "f000019",
         "sentence": "うちへ持って帰って、",
-        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]って、"
+        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]って、",
+        "audio_begin": 49160,
+        "audio_end": 50760
     },
     {
         "id": "f000020",
         "sentence": "おじいさんと二人で食べましょう。」",
-        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょう。」"
+        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょう。」",
+        "audio_begin": 50760,
+        "audio_end": 53520
     },
     {
         "id": "f000021",
         "sentence": "といいいい、",
-        "sentence_with_furigana": "といいいい、"
+        "sentence_with_furigana": "といいいい、",
+        "audio_begin": 53520,
+        "audio_end": 55400
     },
     {
         "id": "f000022",
         "sentence": "つえの先で瓜をかき寄せて、",
-        "sentence_with_furigana": "つえの 先[さき]で 瓜[うり]をかき 寄[よ]せて、"
+        "sentence_with_furigana": "つえの 先[さき]で 瓜[うり]をかき 寄[よ]せて、",
+        "audio_begin": 55400,
+        "audio_end": 58840
     },
     {
         "id": "f000023",
         "sentence": "拾い上げて、",
-        "sentence_with_furigana": "拾[ひろ]い 上[あ]げて、"
+        "sentence_with_furigana": "拾[ひろ]い 上[あ]げて、",
+        "audio_begin": 58840,
+        "audio_end": 60440
     },
     {
         "id": "f000024",
         "sentence": "うちへ持って帰りました。",
-        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]りました。"
+        "sentence_with_furigana": "うちへ 持[も]って 帰[かえ]りました。",
+        "audio_begin": 60440,
+        "audio_end": 65239
     },
     {
         "id": "f000025",
         "sentence": "夕方になると、",
-        "sentence_with_furigana": "夕方[ゆうがた]になると、"
+        "sentence_with_furigana": "夕方[ゆうがた]になると、",
+        "audio_begin": 65239,
+        "audio_end": 67040
     },
     {
         "id": "f000026",
         "sentence": "おじいさんはいつものとおり、",
-        "sentence_with_furigana": "おじいさんはいつものとおり、"
+        "sentence_with_furigana": "おじいさんはいつものとおり、",
+        "audio_begin": 67040,
+        "audio_end": 69560
     },
     {
         "id": "f000027",
         "sentence": "しばをしょって山から帰って来ました。",
-        "sentence_with_furigana": "しばをしょって山から 帰[かえ]って 来[き]ました。"
+        "sentence_with_furigana": "しばをしょって山から 帰[かえ]って 来[き]ました。",
+        "audio_begin": 69560,
+        "audio_end": 73210
     },
     {
         "id": "f000028",
         "sentence": "おばあさんはにこにこしながら出迎えて、",
-        "sentence_with_furigana": "おばあさんはにこにこしながら 出迎[でむか]えて、"
+        "sentence_with_furigana": "おばあさんはにこにこしながら 出迎[でむか]えて、",
+        "audio_begin": 73210,
+        "audio_end": 77160
     },
     {
         "id": "f000029",
         "sentence": "「おやおや、",
-        "sentence_with_furigana": "「おやおや、"
+        "sentence_with_furigana": "「おやおや、",
+        "audio_begin": 77160,
+        "audio_end": 77920
     },
     {
         "id": "f000030",
         "sentence": "おじいさん、",
-        "sentence_with_furigana": "おじいさん、"
+        "sentence_with_furigana": "おじいさん、",
+        "audio_begin": 77920,
+        "audio_end": 78760
     },
     {
         "id": "f000031",
         "sentence": "お帰りかえ。",
-        "sentence_with_furigana": "お 帰[かえ]りかえ。"
+        "sentence_with_furigana": "お 帰[かえ]りかえ。",
+        "audio_begin": 78760,
+        "audio_end": 80040
     },
     {
         "id": "f000032",
         "sentence": "きょうはおじいさんのお好きな、",
-        "sentence_with_furigana": "きょうはおじいさんのお 好[す]きな、"
+        "sentence_with_furigana": "きょうはおじいさんのお 好[す]きな、",
+        "audio_begin": 80040,
+        "audio_end": 82265
     },
     {
         "id": "f000033",
         "sentence": "いいものを川で拾って来ましたから、",
-        "sentence_with_furigana": "いいものを川で 拾[ひろ]って 来[き]ましたから、"
+        "sentence_with_furigana": "いいものを川で 拾[ひろ]って 来[き]ましたから、",
+        "audio_begin": 82265,
+        "audio_end": 85680
     },
     {
         "id": "f000034",
         "sentence": "おじいさんと二人で食べましょうと思って、",
-        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょうと 思[おも]って、"
+        "sentence_with_furigana": "おじいさんと 二人[ふたり]で 食[た]べましょうと 思[おも]って、",
+        "audio_begin": 85680,
+        "audio_end": 88880
     },
     {
         "id": "f000035",
         "sentence": "さっきから待っていたのですよ。」",
-        "sentence_with_furigana": "さっきから 待[ま]っていたのですよ。」"
+        "sentence_with_furigana": "さっきから 待[ま]っていたのですよ。」",
+        "audio_begin": 88880,
+        "audio_end": 91160
     },
     {
         "id": "f000036",
         "sentence": "といって、",
-        "sentence_with_furigana": "といって、"
+        "sentence_with_furigana": "といって、",
+        "audio_begin": 91160,
+        "audio_end": 93560
     },
     {
         "id": "f000037",
         "sentence": "拾って来た瓜を出して見せました。",
-        "sentence_with_furigana": "拾[ひろ]って 来[き]た 瓜[うり]を 出[だ]して 見[み]せました。"
+        "sentence_with_furigana": "拾[ひろ]って 来[き]た 瓜[うり]を 出[だ]して 見[み]せました。",
+        "audio_begin": 93560,
+        "audio_end": 97760
     },
     {
         "id": "f000038",
         "sentence": "「ほう、",
-        "sentence_with_furigana": "「ほう、"
+        "sentence_with_furigana": "「ほう、",
+        "audio_begin": 97760,
+        "audio_end": 98284
     },
     {
         "id": "f000039",
         "sentence": "ほう、",
-        "sentence_with_furigana": "ほう、"
+        "sentence_with_furigana": "ほう、",
+        "audio_begin": 98284,
+        "audio_end": 98880
     },
     {
         "id": "f000040",
         "sentence": "これはめずらしい大きな瓜だ。",
-        "sentence_with_furigana": "これはめずらしい大きな 瓜[うり]だ。"
+        "sentence_with_furigana": "これはめずらしい大きな 瓜[うり]だ。",
+        "audio_begin": 98880,
+        "audio_end": 102120
     },
     {
         "id": "f000041",
         "sentence": "さぞおいしいだろう。",
-        "sentence_with_furigana": "さぞおいしいだろう。"
+        "sentence_with_furigana": "さぞおいしいだろう。",
+        "audio_begin": 102120,
+        "audio_end": 104400
     },
     {
         "id": "f000042",
         "sentence": "早く食べたいなあ。」",
-        "sentence_with_furigana": "早[はや]く 食[た]べたいなあ。」"
+        "sentence_with_furigana": "早[はや]く 食[た]べたいなあ。」",
+        "audio_begin": 104400,
+        "audio_end": 106360
     },
     {
         "id": "f000043",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 106360,
+        "audio_end": 107680
     },
     {
         "id": "f000044",
         "sentence": "おじいさんはいいました。",
-        "sentence_with_furigana": "おじいさんはいいました。"
+        "sentence_with_furigana": "おじいさんはいいました。",
+        "audio_begin": 107680,
+        "audio_end": 110158
     },
     {
         "id": "f000045",
         "sentence": "そこでおばあさんは、",
-        "sentence_with_furigana": "そこでおばあさんは、"
+        "sentence_with_furigana": "そこでおばあさんは、",
+        "audio_begin": 110158,
+        "audio_end": 111680
     },
     {
         "id": "f000046",
         "sentence": "台所から庖丁を持って来て、",
-        "sentence_with_furigana": "台所[だいどころ]から 庖丁[ほうちょう]を 持[も]って 来[き]て、"
+        "sentence_with_furigana": "台所[だいどころ]から 庖丁[ほうちょう]を 持[も]って 来[き]て、",
+        "audio_begin": 111680,
+        "audio_end": 115600
     },
     {
         "id": "f000047",
         "sentence": "瓜を二つに割ろうとしますと、",
-        "sentence_with_furigana": "瓜[うり]を二つに 割[わ]ろうとしますと、"
+        "sentence_with_furigana": "瓜[うり]を二つに 割[わ]ろうとしますと、",
+        "audio_begin": 115600,
+        "audio_end": 118240
     },
     {
         "id": "f000048",
         "sentence": "瓜はひとりでに中からぽんと割れて、",
-        "sentence_with_furigana": "瓜[うり]はひとりでに中からぽんと 割[わ]れて、"
+        "sentence_with_furigana": "瓜[うり]はひとりでに中からぽんと 割[わ]れて、",
+        "audio_begin": 118240,
+        "audio_end": 121600
     },
     {
         "id": "f000049",
         "sentence": "かわいらしい女の子がとび出しました。",
-        "sentence_with_furigana": "かわいらしい女の子がとび 出[だ]しました。"
+        "sentence_with_furigana": "かわいらしい女の子がとび 出[だ]しました。",
+        "audio_begin": 121600,
+        "audio_end": 127760
     },
     {
         "id": "f000050",
         "sentence": "「おやおや、",
-        "sentence_with_furigana": "「おやおや、"
+        "sentence_with_furigana": "「おやおや、",
+        "audio_begin": 127760,
+        "audio_end": 128731
     },
     {
         "id": "f000051",
         "sentence": "まあ」",
-        "sentence_with_furigana": "まあ」"
+        "sentence_with_furigana": "まあ」",
+        "audio_begin": 128731,
+        "audio_end": 129199
     },
     {
         "id": "f000052",
         "sentence": "といったまま、",
-        "sentence_with_furigana": "といったまま、"
+        "sentence_with_furigana": "といったまま、",
+        "audio_begin": 129199,
+        "audio_end": 132040
     },
     {
         "id": "f000053",
         "sentence": "おじいさんもおばあさんも、",
-        "sentence_with_furigana": "おじいさんもおばあさんも、"
+        "sentence_with_furigana": "おじいさんもおばあさんも、",
+        "audio_begin": 132040,
+        "audio_end": 133680
     },
     {
         "id": "f000054",
         "sentence": "びっくりして腰を抜かしてしまいました。",
-        "sentence_with_furigana": "びっくりして 腰[こし]を 抜[ぬ]かしてしまいました。"
+        "sentence_with_furigana": "びっくりして 腰[こし]を 抜[ぬ]かしてしまいました。",
+        "audio_begin": 133680,
+        "audio_end": 139160
     },
     {
         "id": "f000055",
         "sentence": "しばらくしておじいさんが、",
-        "sentence_with_furigana": "しばらくしておじいさんが、"
+        "sentence_with_furigana": "しばらくしておじいさんが、",
+        "audio_begin": 139160,
+        "audio_end": 140960
     },
     {
         "id": "f000056",
         "sentence": "「これはきっと、",
-        "sentence_with_furigana": "「これはきっと、"
+        "sentence_with_furigana": "「これはきっと、",
+        "audio_begin": 140960,
+        "audio_end": 144480
     },
     {
         "id": "f000057",
         "sentence": "わたしたちに子供の無いのをかわいそうに思って、",
-        "sentence_with_furigana": "わたしたちに 子供[こども]の 無[な]いのをかわいそうに 思[おも]って、"
+        "sentence_with_furigana": "わたしたちに 子供[こども]の 無[な]いのをかわいそうに 思[おも]って、",
+        "audio_begin": 144480,
+        "audio_end": 148520
     },
     {
         "id": "f000058",
         "sentence": "神さまがさずけて下さったものにちがいない。",
-        "sentence_with_furigana": "神[かみ]さまがさずけて 下[くだ]さったものにちがいない。"
+        "sentence_with_furigana": "神[かみ]さまがさずけて 下[くだ]さったものにちがいない。",
+        "audio_begin": 148520,
+        "audio_end": 152760
     },
     {
         "id": "f000059",
         "sentence": "だいじに育ててやりましょう。」",
-        "sentence_with_furigana": "だいじに 育[そだ]ててやりましょう。」"
+        "sentence_with_furigana": "だいじに 育[そだ]ててやりましょう。」",
+        "audio_begin": 152760,
+        "audio_end": 156240
     },
     {
         "id": "f000060",
         "sentence": "「そうですとも。",
-        "sentence_with_furigana": "「そうですとも。"
+        "sentence_with_furigana": "「そうですとも。",
+        "audio_begin": 157840,
+        "audio_end": 159080
     },
     {
         "id": "f000061",
         "sentence": "ごらんなさい。",
-        "sentence_with_furigana": "ごらんなさい。"
+        "sentence_with_furigana": "ごらんなさい。",
+        "audio_begin": 159080,
+        "audio_end": 160400
     },
     {
         "id": "f000062",
         "sentence": "まあ、",
-        "sentence_with_furigana": "まあ、"
+        "sentence_with_furigana": "まあ、",
+        "audio_begin": 160400,
+        "audio_end": 160920
     },
     {
         "id": "f000063",
         "sentence": "かわいらしい顔をして、",
-        "sentence_with_furigana": "かわいらしい 顔[かお]をして、"
+        "sentence_with_furigana": "かわいらしい 顔[かお]をして、",
+        "audio_begin": 160920,
+        "audio_end": 163280
     },
     {
         "id": "f000064",
         "sentence": "にこにこ笑っていますよ。」",
-        "sentence_with_furigana": "にこにこ 笑[わら]っていますよ。」"
+        "sentence_with_furigana": "にこにこ 笑[わら]っていますよ。」",
+        "audio_begin": 163280,
+        "audio_end": 165400
     },
     {
         "id": "f000065",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 165400,
+        "audio_end": 167400
     },
     {
         "id": "f000066",
         "sentence": "おばあさんはいいました。",
-        "sentence_with_furigana": "おばあさんはいいました。"
+        "sentence_with_furigana": "おばあさんはいいました。",
+        "audio_begin": 167400,
+        "audio_end": 168760
     },
     {
         "id": "f000067",
         "sentence": "そこでおじいさんとおばあさんは、",
-        "sentence_with_furigana": "そこでおじいさんとおばあさんは、"
+        "sentence_with_furigana": "そこでおじいさんとおばあさんは、",
+        "audio_begin": 170560,
+        "audio_end": 173800
     },
     {
         "id": "f000068",
         "sentence": "あわててお湯をわかして、",
-        "sentence_with_furigana": "あわててお 湯[ゆう]をわかして、"
+        "sentence_with_furigana": "あわててお 湯[ゆう]をわかして、",
+        "audio_begin": 173800,
+        "audio_end": 176560
     },
     {
         "id": "f000069",
         "sentence": "赤ちゃんにお湯をつかわせて、",
-        "sentence_with_furigana": "赤[あか]ちゃんにお 湯[ゆう]をつかわせて、"
+        "sentence_with_furigana": "赤[あか]ちゃんにお 湯[ゆう]をつかわせて、",
+        "audio_begin": 176560,
+        "audio_end": 179640
     },
     {
         "id": "f000070",
         "sentence": "温い着物の中にくるんで、",
-        "sentence_with_furigana": "温[あたたか]い 着物[きもの]の中にくるんで、"
+        "sentence_with_furigana": "温[あたたか]い 着物[きもの]の中にくるんで、",
+        "audio_begin": 179640,
+        "audio_end": 181960
     },
     {
         "id": "f000071",
         "sentence": "かわいがって育てました。",
-        "sentence_with_furigana": "かわいがって 育[そだ]てました。"
+        "sentence_with_furigana": "かわいがって 育[そだ]てました。",
+        "audio_begin": 181960,
+        "audio_end": 186640
     },
     {
         "id": "f000072",
         "sentence": "瓜の中から生まれてきた子だからというので、",
-        "sentence_with_furigana": "瓜[うり]の中から 生[う]まれてきた子だからというので、"
+        "sentence_with_furigana": "瓜[うり]の中から 生[う]まれてきた子だからというので、",
+        "audio_begin": 186640,
+        "audio_end": 190280
     },
     {
         "id": "f000073",
         "sentence": "瓜子姫子という名前をつけました。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]という 名前[なまえ]をつけました。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]という 名前[なまえ]をつけました。",
+        "audio_begin": 190280,
+        "audio_end": 194760
     },
     {
         "id": "f000074",
         "sentence": "瓜子姫子は、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は、",
+        "audio_begin": 194760,
+        "audio_end": 196320
     },
     {
         "id": "f000075",
         "sentence": "いつまでもかわいらしい小さな女の子でした。",
-        "sentence_with_furigana": "いつまでもかわいらしい 小[ちい]さな女の子でした。"
+        "sentence_with_furigana": "いつまでもかわいらしい 小[ちい]さな女の子でした。",
+        "audio_begin": 196320,
+        "audio_end": 201120
     },
     {
         "id": "f000076",
         "sentence": "でも機を織ることが大すきで、",
-        "sentence_with_furigana": "でも 機[はた]を 織[お]ることが 大[だい]すきで、"
+        "sentence_with_furigana": "でも 機[はた]を 織[お]ることが 大[だい]すきで、",
+        "audio_begin": 201120,
+        "audio_end": 203840
     },
     {
         "id": "f000077",
         "sentence": "かわいらしい機をおじいさんにこしらえてもらって、",
-        "sentence_with_furigana": "かわいらしい 機[はた]をおじいさんにこしらえてもらって、"
+        "sentence_with_furigana": "かわいらしい 機[はた]をおじいさんにこしらえてもらって、",
+        "audio_begin": 203840,
+        "audio_end": 208138
     },
     {
         "id": "f000078",
         "sentence": "毎日、",
-        "sentence_with_furigana": "毎日[まいにち]、"
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "audio_begin": 208138,
+        "audio_end": 209040
     },
     {
         "id": "f000079",
         "sentence": "毎日、",
-        "sentence_with_furigana": "毎日[まいにち]、"
+        "sentence_with_furigana": "毎日[まいにち]、",
+        "audio_begin": 209040,
+        "audio_end": 210367
     },
     {
         "id": "f000080",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 210367,
+        "audio_end": 211360
     },
     {
         "id": "f000081",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 211360,
+        "audio_end": 213520
     },
     {
         "id": "f000082",
         "sentence": "ぎいぎいばったん、",
-        "sentence_with_furigana": "ぎいぎいばったん、"
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "audio_begin": 213520,
+        "audio_end": 215280
     },
     {
         "id": "f000083",
         "sentence": "ぎいばったん、",
-        "sentence_with_furigana": "ぎいばったん、"
+        "sentence_with_furigana": "ぎいばったん、",
+        "audio_begin": 215280,
+        "audio_end": 217560
     },
     {
         "id": "f000084",
         "sentence": "機を織っていました。",
-        "sentence_with_furigana": "機[はた]を 織[お]っていました。"
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "audio_begin": 217560,
+        "audio_end": 220040
     },
     {
         "id": "f000085",
         "sentence": "おじいさんはいつものとおり、",
-        "sentence_with_furigana": "おじいさんはいつものとおり、"
+        "sentence_with_furigana": "おじいさんはいつものとおり、",
+        "audio_begin": 220040,
+        "audio_end": 222160
     },
     {
         "id": "f000086",
         "sentence": "山へしば刈りに出かけます。",
-        "sentence_with_furigana": "山へしば 刈[か]りに 出[で]かけます。"
+        "sentence_with_furigana": "山へしば 刈[か]りに 出[で]かけます。",
+        "audio_begin": 222160,
+        "audio_end": 224800
     },
     {
         "id": "f000087",
         "sentence": "おばあさんは川へ洗濯に出かけます。",
-        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に 出[で]かけます。"
+        "sentence_with_furigana": "おばあさんは川へ 洗濯[せんたく]に 出[で]かけます。",
+        "audio_begin": 224800,
+        "audio_end": 228520
     },
     {
         "id": "f000088",
         "sentence": "瓜子姫子はあとに一人、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はあとに 一人[ひとり]、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はあとに 一人[ひとり]、",
+        "audio_begin": 228520,
+        "audio_end": 231480
     },
     {
         "id": "f000089",
         "sentence": "おとなしくお留守番をして、",
-        "sentence_with_furigana": "おとなしくお 留守番[るすばん]をして、"
+        "sentence_with_furigana": "おとなしくお 留守番[るすばん]をして、",
+        "audio_begin": 231480,
+        "audio_end": 233880
     },
     {
         "id": "f000090",
         "sentence": "あいかわらず、",
-        "sentence_with_furigana": "あいかわらず、"
+        "sentence_with_furigana": "あいかわらず、",
+        "audio_begin": 233880,
+        "audio_end": 234760
     },
     {
         "id": "f000091",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 234760,
+        "audio_end": 236280
     },
     {
         "id": "f000092",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 236280,
+        "audio_end": 238160
     },
     {
         "id": "f000093",
         "sentence": "ぎいぎいばったん、",
-        "sentence_with_furigana": "ぎいぎいばったん、"
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "audio_begin": 238160,
+        "audio_end": 239280
     },
     {
         "id": "f000094",
         "sentence": "機を織っていました。",
-        "sentence_with_furigana": "機[はた]を 織[お]っていました。"
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "audio_begin": 239280,
+        "audio_end": 244240
     },
     {
         "id": "f000095",
         "sentence": "おじいさんとおばあさんは、",
-        "sentence_with_furigana": "おじいさんとおばあさんは、"
+        "sentence_with_furigana": "おじいさんとおばあさんは、",
+        "audio_begin": 244240,
+        "audio_end": 246480
     },
     {
         "id": "f000096",
         "sentence": "いつも出がけに瓜子姫子に向かって、",
-        "sentence_with_furigana": "いつも 出[で]がけに 瓜子姫子[うりこひめこ]に 向[む]かって、"
+        "sentence_with_furigana": "いつも 出[で]がけに 瓜子姫子[うりこひめこ]に 向[む]かって、",
+        "audio_begin": 246480,
+        "audio_end": 249800
     },
     {
         "id": "f000097",
         "sentence": "「この山の上には、",
-        "sentence_with_furigana": "「この山の上には、"
+        "sentence_with_furigana": "「この山の上には、",
+        "audio_begin": 249800,
+        "audio_end": 253400
     },
     {
         "id": "f000098",
         "sentence": "あまんじゃくというわるものが住んでいる。",
-        "sentence_with_furigana": "あまんじゃくというわるものが 住[す]んでいる。"
+        "sentence_with_furigana": "あまんじゃくというわるものが 住[す]んでいる。",
+        "audio_begin": 253400,
+        "audio_end": 257079
     },
     {
         "id": "f000099",
         "sentence": "留守にお前をとりに来るかも知れないから、",
-        "sentence_with_furigana": "留守[るす]にお 前[まえ]をとりに 来[く]るかも 知[し]れないから、"
+        "sentence_with_furigana": "留守[るす]にお 前[まえ]をとりに 来[く]るかも 知[し]れないから、",
+        "audio_begin": 257079,
+        "audio_end": 260000
     },
     {
         "id": "f000100",
         "sentence": "けっして戸をあけてはいけないよ。」",
-        "sentence_with_furigana": "けっして 戸[と]をあけてはいけないよ。」"
+        "sentence_with_furigana": "けっして 戸[と]をあけてはいけないよ。」",
+        "audio_begin": 260000,
+        "audio_end": 263600
     },
     {
         "id": "f000101",
         "sentence": "といって、",
-        "sentence_with_furigana": "といって、"
+        "sentence_with_furigana": "といって、",
+        "audio_begin": 263600,
+        "audio_end": 266360
     },
     {
         "id": "f000102",
         "sentence": "しっかり戸をしめて出て行きました。",
-        "sentence_with_furigana": "しっかり 戸[と]をしめて出て行きました。"
+        "sentence_with_furigana": "しっかり 戸[と]をしめて出て行きました。",
+        "audio_begin": 266360,
+        "audio_end": 271400
     },
     {
         "id": "f000103",
         "sentence": "二",
-        "sentence_with_furigana": "二"
+        "sentence_with_furigana": "二",
+        "audio_begin": 271395,
+        "audio_end": 273215
     },
     {
         "id": "f000104",
         "sentence": "するとある日のこと、",
-        "sentence_with_furigana": "するとある日のこと、"
+        "sentence_with_furigana": "するとある日のこと、",
+        "audio_begin": 274080,
+        "audio_end": 276320
     },
     {
         "id": "f000105",
         "sentence": "瓜子姫子が一人で、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]が 一人[ひとり]で、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]が 一人[ひとり]で、",
+        "audio_begin": 276320,
+        "audio_end": 278160
     },
     {
         "id": "f000106",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 278160,
+        "audio_end": 279400
     },
     {
         "id": "f000107",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 279400,
+        "audio_end": 281640
     },
     {
         "id": "f000108",
         "sentence": "ぎいぎいばったん、",
-        "sentence_with_furigana": "ぎいぎいばったん、"
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "audio_begin": 281640,
+        "audio_end": 283400
     },
     {
         "id": "f000109",
         "sentence": "機を織っておりますと、",
-        "sentence_with_furigana": "機[はた]を 織[お]っておりますと、"
+        "sentence_with_furigana": "機[はた]を 織[お]っておりますと、",
+        "audio_begin": 283400,
+        "audio_end": 286160
     },
     {
         "id": "f000110",
         "sentence": "とうとうあまんじゃくがやって来ました。",
-        "sentence_with_furigana": "とうとうあまんじゃくがやって 来[き]ました。"
+        "sentence_with_furigana": "とうとうあまんじゃくがやって 来[き]ました。",
+        "audio_begin": 286160,
+        "audio_end": 288800
     },
     {
         "id": "f000111",
         "sentence": "そしてやさしい猫なで声をつくって、",
-        "sentence_with_furigana": "そしてやさしい 猫[ねこ]なで 声[ごえ]をつくって、"
+        "sentence_with_furigana": "そしてやさしい 猫[ねこ]なで 声[ごえ]をつくって、",
+        "audio_begin": 288800,
+        "audio_end": 294480
     },
     {
         "id": "f000112",
         "sentence": "「もしもし、",
-        "sentence_with_furigana": "「もしもし、"
+        "sentence_with_furigana": "「もしもし、",
+        "audio_begin": 294480,
+        "audio_end": 295560
     },
     {
         "id": "f000113",
         "sentence": "瓜子姫子、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]、",
+        "audio_begin": 295560,
+        "audio_end": 296560
     },
     {
         "id": "f000114",
         "sentence": "この戸をあけておくれな。",
-        "sentence_with_furigana": "この 戸[と]をあけておくれな。"
+        "sentence_with_furigana": "この 戸[と]をあけておくれな。",
+        "audio_begin": 296560,
+        "audio_end": 298760
     },
     {
         "id": "f000115",
         "sentence": "二人で仲よく遊ぼうよ。」",
-        "sentence_with_furigana": "二人[ふたり]で 仲[なか]よく 遊[あそ]ぼうよ。」"
+        "sentence_with_furigana": "二人[ふたり]で 仲[なか]よく 遊[あそ]ぼうよ。」",
+        "audio_begin": 298760,
+        "audio_end": 300880
     },
     {
         "id": "f000116",
         "sentence": "といいました。",
-        "sentence_with_furigana": "といいました。"
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 300880,
+        "audio_end": 303680
     },
     {
         "id": "f000117",
         "sentence": "「いいえ、",
-        "sentence_with_furigana": "「いいえ、"
+        "sentence_with_furigana": "「いいえ、",
+        "audio_begin": 303680,
+        "audio_end": 304600
     },
     {
         "id": "f000118",
         "sentence": "あけられません。」",
-        "sentence_with_furigana": "あけられません。」"
+        "sentence_with_furigana": "あけられません。」",
+        "audio_begin": 304600,
+        "audio_end": 306628
     },
     {
         "id": "f000119",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 306628,
+        "audio_end": 307240
     },
     {
         "id": "f000120",
         "sentence": "瓜子姫子はいいました。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はいいました。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はいいました。",
+        "audio_begin": 307240,
+        "audio_end": 309640
     },
     {
         "id": "f000121",
         "sentence": "「瓜子姫子、",
-        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、"
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "audio_begin": 309640,
+        "audio_end": 310960
     },
     {
         "id": "f000122",
         "sentence": "少しでいいからあけておくれ、",
-        "sentence_with_furigana": "少[すこ]しでいいからあけておくれ、"
+        "sentence_with_furigana": "少[すこ]しでいいからあけておくれ、",
+        "audio_begin": 310960,
+        "audio_end": 313778
     },
     {
         "id": "f000123",
         "sentence": "指の入るだけあけておくれ。」",
-        "sentence_with_furigana": "指[ゆび]の 入[はい]るだけあけておくれ。」"
+        "sentence_with_furigana": "指[ゆび]の 入[はい]るだけあけておくれ。」",
+        "audio_begin": 313778,
+        "audio_end": 315680
     },
     {
         "id": "f000124",
         "sentence": "「そんなら、",
-        "sentence_with_furigana": "「そんなら、"
+        "sentence_with_furigana": "「そんなら、",
+        "audio_begin": 317580,
+        "audio_end": 318640
     },
     {
         "id": "f000125",
         "sentence": "それだけあけましょう。」",
-        "sentence_with_furigana": "それだけあけましょう。」"
+        "sentence_with_furigana": "それだけあけましょう。」",
+        "audio_begin": 318640,
+        "audio_end": 321880
     },
     {
         "id": "f000126",
         "sentence": "「もう少しあけておくれ、",
-        "sentence_with_furigana": "「もう 少[すこ]しあけておくれ、"
+        "sentence_with_furigana": "「もう 少[すこ]しあけておくれ、",
+        "audio_begin": 321880,
+        "audio_end": 323880
     },
     {
         "id": "f000127",
         "sentence": "瓜子姫子。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]。",
+        "audio_begin": 323880,
+        "audio_end": 325200
     },
     {
         "id": "f000128",
         "sentence": "せめてこの手が入るだけ。」",
-        "sentence_with_furigana": "せめてこの手が 入[はい]るだけ。」"
+        "sentence_with_furigana": "せめてこの手が 入[はい]るだけ。」",
+        "audio_begin": 325200,
+        "audio_end": 327400
     },
     {
         "id": "f000129",
         "sentence": "「そんなら、",
-        "sentence_with_furigana": "「そんなら、"
+        "sentence_with_furigana": "「そんなら、",
+        "audio_begin": 329500,
+        "audio_end": 330814
     },
     {
         "id": "f000130",
         "sentence": "それだけあけましょう。」",
-        "sentence_with_furigana": "それだけあけましょう。」"
+        "sentence_with_furigana": "それだけあけましょう。」",
+        "audio_begin": 330814,
+        "audio_end": 334160
     },
     {
         "id": "f000131",
         "sentence": "「瓜子姫子、",
-        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、"
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "audio_begin": 334160,
+        "audio_end": 335560
     },
     {
         "id": "f000132",
         "sentence": "もう少しだ。",
-        "sentence_with_furigana": "もう 少[すこ]しだ。"
+        "sentence_with_furigana": "もう 少[すこ]しだ。",
+        "audio_begin": 335560,
+        "audio_end": 337320
     },
     {
         "id": "f000133",
         "sentence": "あけておくれ。",
-        "sentence_with_furigana": "あけておくれ。"
+        "sentence_with_furigana": "あけておくれ。",
+        "audio_begin": 337320,
+        "audio_end": 338600
     },
     {
         "id": "f000134",
         "sentence": "せめて頭の入るだけ。」",
-        "sentence_with_furigana": "せめて 頭[あたま]の 入[はい]るだけ。」"
+        "sentence_with_furigana": "せめて 頭[あたま]の 入[はい]るだけ。」",
+        "audio_begin": 338600,
+        "audio_end": 343600
     },
     {
         "id": "f000135",
         "sentence": "しかたがないので、",
-        "sentence_with_furigana": "しかたがないので、"
+        "sentence_with_furigana": "しかたがないので、",
+        "audio_begin": 343600,
+        "audio_end": 345320
     },
     {
         "id": "f000136",
         "sentence": "瓜子姫子は頭の入るだけあけてやりますと、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は 頭[あたま]の 入[はい]るだけあけてやりますと、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]は 頭[あたま]の 入[はい]るだけあけてやりますと、",
+        "audio_begin": 345320,
+        "audio_end": 350400
     },
     {
         "id": "f000137",
         "sentence": "あまんじゃくはするするとうちの中へ入って来ました。",
-        "sentence_with_furigana": "あまんじゃくはするするとうちの中へ 入[はい]って 来[き]ました。"
+        "sentence_with_furigana": "あまんじゃくはするするとうちの中へ 入[はい]って 来[き]ました。",
+        "audio_begin": 350400,
+        "audio_end": 355560
     },
     {
         "id": "f000138",
         "sentence": "「瓜子姫子、",
-        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、"
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "audio_begin": 355560,
+        "audio_end": 356760
     },
     {
         "id": "f000139",
         "sentence": "裏の山へ柿を取りに行こうか。」",
-        "sentence_with_furigana": "裏[うら]の山へ 柿[かき]を 取[と]りに 行[い]こうか。」"
+        "sentence_with_furigana": "裏[うら]の山へ 柿[かき]を 取[と]りに 行[い]こうか。」",
+        "audio_begin": 356760,
+        "audio_end": 360057
     },
     {
         "id": "f000140",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 360057,
+        "audio_end": 360760
     },
     {
         "id": "f000141",
         "sentence": "あまんじゃくがいいました。",
-        "sentence_with_furigana": "あまんじゃくがいいました。"
+        "sentence_with_furigana": "あまんじゃくがいいました。",
+        "audio_begin": 360760,
+        "audio_end": 362000
     },
     {
         "id": "f000142",
         "sentence": "「柿を取りに行くのはいや。",
-        "sentence_with_furigana": "「 柿[かき]を 取[と]りに 行[い]くのはいや。"
+        "sentence_with_furigana": "「 柿[かき]を 取[と]りに 行[い]くのはいや。",
+        "audio_begin": 362000,
+        "audio_end": 365360
     },
     {
         "id": "f000143",
         "sentence": "おじいさんにしかられるから。」",
-        "sentence_with_furigana": "おじいさんにしかられるから。」"
+        "sentence_with_furigana": "おじいさんにしかられるから。」",
+        "audio_begin": 365360,
+        "audio_end": 367787
     },
     {
         "id": "f000144",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 367787,
+        "audio_end": 368440
     },
     {
         "id": "f000145",
         "sentence": "瓜子姫子がいいました。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がいいました。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がいいました。",
+        "audio_begin": 368440,
+        "audio_end": 370920
     },
     {
         "id": "f000146",
         "sentence": "するとあまんじゃくが、",
-        "sentence_with_furigana": "するとあまんじゃくが、"
+        "sentence_with_furigana": "するとあまんじゃくが、",
+        "audio_begin": 370920,
+        "audio_end": 372120
     },
     {
         "id": "f000147",
         "sentence": "こわい目をして瓜子姫子をにらめつけました。",
-        "sentence_with_furigana": "こわい 目[め]をして 瓜子姫子[うりこひめこ]をにらめつけました。"
+        "sentence_with_furigana": "こわい 目[め]をして 瓜子姫子[うりこひめこ]をにらめつけました。",
+        "audio_begin": 372120,
+        "audio_end": 378080
     },
     {
         "id": "f000148",
         "sentence": "瓜子姫子はこわくなって、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はこわくなって、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はこわくなって、",
+        "audio_begin": 378080,
+        "audio_end": 380680
     },
     {
         "id": "f000149",
         "sentence": "しかたなしに裏の山までついて行きました。",
-        "sentence_with_furigana": "しかたなしに 裏[うら]の山までついて行きました。"
+        "sentence_with_furigana": "しかたなしに 裏[うら]の山までついて行きました。",
+        "audio_begin": 380680,
+        "audio_end": 386480
     },
     {
         "id": "f000150",
         "sentence": "裏の山へ行くと、",
-        "sentence_with_furigana": "裏[うら]の山へ 行[い]くと、"
+        "sentence_with_furigana": "裏[うら]の山へ 行[い]くと、",
+        "audio_begin": 386480,
+        "audio_end": 388480
     },
     {
         "id": "f000151",
         "sentence": "あまんじゃくはするすると柿の木によじ登って、",
-        "sentence_with_furigana": "あまんじゃくはするすると 柿[かき]の木によじ 登[のぼ]って、"
+        "sentence_with_furigana": "あまんじゃくはするすると 柿[かき]の木によじ 登[のぼ]って、",
+        "audio_begin": 388480,
+        "audio_end": 391977
     },
     {
         "id": "f000152",
         "sentence": "真っ赤になった柿を、",
-        "sentence_with_furigana": "真[ま]っ 赤[か]になった 柿[かき]を、"
+        "sentence_with_furigana": "真[ま]っ 赤[か]になった 柿[かき]を、",
+        "audio_begin": 391977,
+        "audio_end": 394520
     },
     {
         "id": "f000153",
         "sentence": "おいしそうに取っては食べ、",
-        "sentence_with_furigana": "おいしそうに 取[と]っては 食[た]べ、"
+        "sentence_with_furigana": "おいしそうに 取[と]っては 食[た]べ、",
+        "audio_begin": 394520,
+        "audio_end": 396680
     },
     {
         "id": "f000154",
         "sentence": "取っては食べしました。",
-        "sentence_with_furigana": "取[と]っては 食[た]べしました。"
+        "sentence_with_furigana": "取[と]っては 食[た]べしました。",
+        "audio_begin": 396680,
+        "audio_end": 399400
     },
     {
         "id": "f000155",
         "sentence": "そして下にいる瓜子姫子には、",
-        "sentence_with_furigana": "そして 下[した]にいる 瓜子姫子[うりこひめこ]には、"
+        "sentence_with_furigana": "そして 下[した]にいる 瓜子姫子[うりこひめこ]には、",
+        "audio_begin": 399400,
+        "audio_end": 402440
     },
     {
         "id": "f000156",
         "sentence": "種や、",
-        "sentence_with_furigana": "種[たね]や、"
+        "sentence_with_furigana": "種[たね]や、",
+        "audio_begin": 402440,
+        "audio_end": 404000
     },
     {
         "id": "f000157",
         "sentence": "へたばかり投げつけて、",
-        "sentence_with_furigana": "へたばかり 投[な]げつけて、"
+        "sentence_with_furigana": "へたばかり 投[な]げつけて、",
+        "audio_begin": 404000,
+        "audio_end": 405560
     },
     {
         "id": "f000158",
         "sentence": "一つも落としてはくれません。",
-        "sentence_with_furigana": "一つも 落[お]としてはくれません。"
+        "sentence_with_furigana": "一つも 落[お]としてはくれません。",
+        "audio_begin": 405560,
+        "audio_end": 408600
     },
     {
         "id": "f000159",
         "sentence": "瓜子姫子はうらやましくなって、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はうらやましくなって、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]はうらやましくなって、",
+        "audio_begin": 408600,
+        "audio_end": 412160
     },
     {
         "id": "f000160",
         "sentence": "「わたしにも一つ下さい。」",
-        "sentence_with_furigana": "「わたしにも一つ 下[くだ]さい。」"
+        "sentence_with_furigana": "「わたしにも一つ 下[くだ]さい。」",
+        "audio_begin": 412160,
+        "audio_end": 414763
     },
     {
         "id": "f000161",
         "sentence": "といいますと、",
-        "sentence_with_furigana": "といいますと、"
+        "sentence_with_furigana": "といいますと、",
+        "audio_begin": 414763,
+        "audio_end": 416200
     },
     {
         "id": "f000162",
         "sentence": "あまんじゃくは、",
-        "sentence_with_furigana": "あまんじゃくは、"
+        "sentence_with_furigana": "あまんじゃくは、",
+        "audio_begin": 416200,
+        "audio_end": 417600
     },
     {
         "id": "f000163",
         "sentence": "「お前も上がって、",
-        "sentence_with_furigana": "「お 前[まえ]も 上[あ]がって、"
+        "sentence_with_furigana": "「お 前[まえ]も 上[あ]がって、",
+        "audio_begin": 417600,
+        "audio_end": 418600
     },
     {
         "id": "f000164",
         "sentence": "取って食べるがいい。」",
-        "sentence_with_furigana": "取[と]って 食[た]べるがいい。」"
+        "sentence_with_furigana": "取[と]って 食[た]べるがいい。」",
+        "audio_begin": 418600,
+        "audio_end": 420499
     },
     {
         "id": "f000165",
         "sentence": "といいながら、",
-        "sentence_with_furigana": "といいながら、"
+        "sentence_with_furigana": "といいながら、",
+        "audio_begin": 420499,
+        "audio_end": 421640
     },
     {
         "id": "f000166",
         "sentence": "下へおりて来て、",
-        "sentence_with_furigana": "下へおりて 来[き]て、"
+        "sentence_with_furigana": "下へおりて 来[き]て、",
+        "audio_begin": 421640,
+        "audio_end": 423161
     },
     {
         "id": "f000167",
         "sentence": "こんどは代わりに瓜子姫子を木の上にのせました。",
-        "sentence_with_furigana": "こんどは 代[か]わりに 瓜子姫子[うりこひめこ]を木の上にのせました。"
+        "sentence_with_furigana": "こんどは 代[か]わりに 瓜子姫子[うりこひめこ]を木の上にのせました。",
+        "audio_begin": 423161,
+        "audio_end": 428880
     },
     {
         "id": "f000168",
         "sentence": "のせるときに、",
-        "sentence_with_furigana": "のせるときに、"
+        "sentence_with_furigana": "のせるときに、",
+        "audio_begin": 428880,
+        "audio_end": 430640
     },
     {
         "id": "f000169",
         "sentence": "「そんな着物を着て登るとよごれるから。」",
-        "sentence_with_furigana": "「そんな 着物[きもの]を 着[き]て 登[のぼ]るとよごれるから。」"
+        "sentence_with_furigana": "「そんな 着物[きもの]を 着[き]て 登[のぼ]るとよごれるから。」",
+        "audio_begin": 430640,
+        "audio_end": 433920
     },
     {
         "id": "f000170",
         "sentence": "といって、",
-        "sentence_with_furigana": "といって、"
+        "sentence_with_furigana": "といって、",
+        "audio_begin": 433920,
+        "audio_end": 435920
     },
     {
         "id": "f000171",
         "sentence": "自分の着物ととりかえて着かえさせました。",
-        "sentence_with_furigana": "自分[じぶん]の 着物[きもの]ととりかえて 着[き]かえさせました。"
+        "sentence_with_furigana": "自分[じぶん]の 着物[きもの]ととりかえて 着[き]かえさせました。",
+        "audio_begin": 435920,
+        "audio_end": 441800
     },
     {
         "id": "f000172",
         "sentence": "瓜子姫子がやっと柿の木に登って柿を取ろうとしますと、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がやっと 柿[かき]の木に 登[のぼ]って 柿[かき]を 取[と]ろうとしますと、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]がやっと 柿[かき]の木に 登[のぼ]って 柿[かき]を 取[と]ろうとしますと、",
+        "audio_begin": 441800,
+        "audio_end": 447960
     },
     {
         "id": "f000173",
         "sentence": "あまんじゃくは、",
-        "sentence_with_furigana": "あまんじゃくは、"
+        "sentence_with_furigana": "あまんじゃくは、",
+        "audio_begin": 447960,
+        "audio_end": 449160
     },
     {
         "id": "f000174",
         "sentence": "どこから取って来たか、",
-        "sentence_with_furigana": "どこから 取[と]って 来[き]たか、"
+        "sentence_with_furigana": "どこから 取[と]って 来[き]たか、",
+        "audio_begin": 449160,
+        "audio_end": 451240
     },
     {
         "id": "f000175",
         "sentence": "藤づるを持って来て、",
-        "sentence_with_furigana": "藤[ふじ]づるを 持[も]って 来[き]て、"
+        "sentence_with_furigana": "藤[ふじ]づるを 持[も]って 来[き]て、",
+        "audio_begin": 451240,
+        "audio_end": 453080
     },
     {
         "id": "f000176",
         "sentence": "瓜子姫子を柿の木にしばりつけてしまいました。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]を 柿[かき]の木にしばりつけてしまいました。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]を 柿[かき]の木にしばりつけてしまいました。",
+        "audio_begin": 453080,
+        "audio_end": 457800
     },
     {
         "id": "f000177",
         "sentence": "そして自分は瓜子姫子の着物を着て、",
-        "sentence_with_furigana": "そして 自分[じぶん]は 瓜子姫子[うりこひめこ]の 着物[きもの]を 着[き]て、"
+        "sentence_with_furigana": "そして 自分[じぶん]は 瓜子姫子[うりこひめこ]の 着物[きもの]を 着[き]て、",
+        "audio_begin": 457800,
+        "audio_end": 461730
     },
     {
         "id": "f000178",
         "sentence": "瓜子姫子に化けて、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けて、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けて、",
+        "audio_begin": 461730,
+        "audio_end": 464000
     },
     {
         "id": "f000179",
         "sentence": "うちの中に入って、",
-        "sentence_with_furigana": "うちの中に 入[はい]って、"
+        "sentence_with_furigana": "うちの中に 入[はい]って、",
+        "audio_begin": 464000,
+        "audio_end": 465640
     },
     {
         "id": "f000180",
         "sentence": "すました顔をして、",
-        "sentence_with_furigana": "すました 顔[かお]をして、"
+        "sentence_with_furigana": "すました 顔[かお]をして、",
+        "audio_begin": 465640,
+        "audio_end": 467680
     },
     {
         "id": "f000181",
         "sentence": "またとんからりこ、",
-        "sentence_with_furigana": "またとんからりこ、"
+        "sentence_with_furigana": "またとんからりこ、",
+        "audio_begin": 467680,
+        "audio_end": 469480
     },
     {
         "id": "f000182",
         "sentence": "とんからりこ、",
-        "sentence_with_furigana": "とんからりこ、"
+        "sentence_with_furigana": "とんからりこ、",
+        "audio_begin": 469480,
+        "audio_end": 471120
     },
     {
         "id": "f000183",
         "sentence": "ぎいぎいばったん、",
-        "sentence_with_furigana": "ぎいぎいばったん、"
+        "sentence_with_furigana": "ぎいぎいばったん、",
+        "audio_begin": 471120,
+        "audio_end": 472946
     },
     {
         "id": "f000184",
         "sentence": "機を織っていました。",
-        "sentence_with_furigana": "機[はた]を 織[お]っていました。"
+        "sentence_with_furigana": "機[はた]を 織[お]っていました。",
+        "audio_begin": 472946,
+        "audio_end": 474440
     },
     {
         "id": "f000185",
         "sentence": "三",
-        "sentence_with_furigana": "三"
+        "sentence_with_furigana": "三",
+        "audio_begin": 476540,
+        "audio_end": 476880
     },
     {
         "id": "f000186",
         "sentence": "しばらくすると、",
-        "sentence_with_furigana": "しばらくすると、"
+        "sentence_with_furigana": "しばらくすると、",
+        "audio_begin": 478580,
+        "audio_end": 480120
     },
     {
         "id": "f000187",
         "sentence": "おじいさんとおばあさんは帰って来ましたが、",
-        "sentence_with_furigana": "おじいさんとおばあさんは 帰[かえ]って 来[き]ましたが、"
+        "sentence_with_furigana": "おじいさんとおばあさんは 帰[かえ]って 来[き]ましたが、",
+        "audio_begin": 480120,
+        "audio_end": 483320
     },
     {
         "id": "f000188",
         "sentence": "なんにも知らないものですから、",
-        "sentence_with_furigana": "なんにも 知[し]らないものですから、"
+        "sentence_with_furigana": "なんにも 知[し]らないものですから、",
+        "audio_begin": 483320,
+        "audio_end": 486480
     },
     {
         "id": "f000189",
         "sentence": "「瓜子姫子、",
-        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、"
+        "sentence_with_furigana": "「 瓜子姫子[うりこひめこ]、",
+        "audio_begin": 486480,
+        "audio_end": 487680
     },
     {
         "id": "f000190",
         "sentence": "よくお留守番をしていたね。",
-        "sentence_with_furigana": "よくお 留守番[るすばん]をしていたね。"
+        "sentence_with_furigana": "よくお 留守番[るすばん]をしていたね。",
+        "audio_begin": 487680,
+        "audio_end": 490480
     },
     {
         "id": "f000191",
         "sentence": "さぞさびしかったろう。」",
-        "sentence_with_furigana": "さぞさびしかったろう。」"
+        "sentence_with_furigana": "さぞさびしかったろう。」",
+        "audio_begin": 490480,
+        "audio_end": 492440
     },
     {
         "id": "f000192",
         "sentence": "といって、",
-        "sentence_with_furigana": "といって、"
+        "sentence_with_furigana": "といって、",
+        "audio_begin": 492440,
+        "audio_end": 494040
     },
     {
         "id": "f000193",
         "sentence": "頭をさすってやりますと、",
-        "sentence_with_furigana": "頭[あたま]をさすってやりますと、"
+        "sentence_with_furigana": "頭[あたま]をさすってやりますと、",
+        "audio_begin": 494040,
+        "audio_end": 496360
     },
     {
         "id": "f000194",
         "sentence": "あまんじゃくは、",
-        "sentence_with_furigana": "あまんじゃくは、"
+        "sentence_with_furigana": "あまんじゃくは、",
+        "audio_begin": 496360,
+        "audio_end": 497880
     },
     {
         "id": "f000195",
         "sentence": "「ああ、",
-        "sentence_with_furigana": "「ああ、"
+        "sentence_with_furigana": "「ああ、",
+        "audio_begin": 497880,
+        "audio_end": 498720
     },
     {
         "id": "f000196",
         "sentence": "ああ。」",
-        "sentence_with_furigana": "ああ。」"
+        "sentence_with_furigana": "ああ。」",
+        "audio_begin": 498720,
+        "audio_end": 499080
     },
     {
         "id": "f000197",
         "sentence": "といいながら、",
-        "sentence_with_furigana": "といいながら、"
+        "sentence_with_furigana": "といいながら、",
+        "audio_begin": 499080,
+        "audio_end": 501040
     },
     {
         "id": "f000198",
         "sentence": "舌をそっと出しました。",
-        "sentence_with_furigana": "舌[した]をそっと 出[だ]しました。"
+        "sentence_with_furigana": "舌[した]をそっと 出[だ]しました。",
+        "audio_begin": 501040,
+        "audio_end": 503903
     },
     {
         "id": "f000199",
         "sentence": "するとおもての方が、",
-        "sentence_with_furigana": "するとおもての 方[ほう]が、"
+        "sentence_with_furigana": "するとおもての 方[ほう]が、",
+        "audio_begin": 503903,
+        "audio_end": 506240
     },
     {
         "id": "f000200",
         "sentence": "急にがやがやそうぞうしくなって、",
-        "sentence_with_furigana": "急[きゅう]にがやがやそうぞうしくなって、"
+        "sentence_with_furigana": "急[きゅう]にがやがやそうぞうしくなって、",
+        "audio_begin": 506240,
+        "audio_end": 509360
     },
     {
         "id": "f000201",
         "sentence": "りっぱななりをしたお侍が大ぜい、",
-        "sentence_with_furigana": "りっぱななりをしたお 侍[さむらい]が 大[おお]ぜい、"
+        "sentence_with_furigana": "りっぱななりをしたお 侍[さむらい]が 大[おお]ぜい、",
+        "audio_begin": 509360,
+        "audio_end": 512360
     },
     {
         "id": "f000202",
         "sentence": "ぴかぴかぬり立てた、",
-        "sentence_with_furigana": "ぴかぴかぬり 立[た]てた、"
+        "sentence_with_furigana": "ぴかぴかぬり 立[た]てた、",
+        "audio_begin": 512360,
+        "audio_end": 514480
     },
     {
         "id": "f000203",
         "sentence": "きれいなおかごをかついでやって来て、",
-        "sentence_with_furigana": "きれいなおかごをかついでやって 来[き]て、"
+        "sentence_with_furigana": "きれいなおかごをかついでやって 来[き]て、",
+        "audio_begin": 514480,
+        "audio_end": 517760
     },
     {
         "id": "f000204",
         "sentence": "おじいさんとおばあさんのうちの前にとまりました。",
-        "sentence_with_furigana": "おじいさんとおばあさんのうちの 前[まえ]にとまりました。"
+        "sentence_with_furigana": "おじいさんとおばあさんのうちの 前[まえ]にとまりました。",
+        "audio_begin": 517760,
+        "audio_end": 521840
     },
     {
         "id": "f000205",
         "sentence": "おじいさんとおばあさんは、",
-        "sentence_with_furigana": "おじいさんとおばあさんは、"
+        "sentence_with_furigana": "おじいさんとおばあさんは、",
+        "audio_begin": 521840,
+        "audio_end": 523840
     },
     {
         "id": "f000206",
         "sentence": "何事がはじまったのかと思って、",
-        "sentence_with_furigana": "何事[なにごと]がはじまったのかと 思[おも]って、"
+        "sentence_with_furigana": "何事[なにごと]がはじまったのかと 思[おも]って、",
+        "audio_begin": 523840,
+        "audio_end": 526160
     },
     {
         "id": "f000207",
         "sentence": "びくびくしていますと、",
-        "sentence_with_furigana": "びくびくしていますと、"
+        "sentence_with_furigana": "びくびくしていますと、",
+        "audio_begin": 526160,
+        "audio_end": 528120
     },
     {
         "id": "f000208",
         "sentence": "お侍はその時、",
-        "sentence_with_furigana": "お 侍[さむらい]はその 時[とき]、"
+        "sentence_with_furigana": "お 侍[さむらい]はその 時[とき]、",
+        "audio_begin": 528120,
+        "audio_end": 529960
     },
     {
         "id": "f000209",
         "sentence": "おじいさんとおばあさんに向かって、",
-        "sentence_with_furigana": "おじいさんとおばあさんに 向[む]かって、"
+        "sentence_with_furigana": "おじいさんとおばあさんに 向[む]かって、",
+        "audio_begin": 529960,
+        "audio_end": 533329
     },
     {
         "id": "f000210",
         "sentence": "「お前の娘は大そう美しい織物を織るという評判だ。",
-        "sentence_with_furigana": "「お 前[まえ]の 娘[むすめ]は 大[たい]そう 美[うつく]しい 織物[おりもの]を 織[お]るという 評判[ひょうばん]だ。"
+        "sentence_with_furigana": "「お 前[まえ]の 娘[むすめ]は 大[たい]そう 美[うつく]しい 織物[おりもの]を 織[お]るという 評判[ひょうばん]だ。",
+        "audio_begin": 533329,
+        "audio_end": 538320
     },
     {
         "id": "f000211",
         "sentence": "お城の殿さまと奥方が、",
-        "sentence_with_furigana": "お 城[しろ]の 殿[との]さまと 奥方[おくがた]が、"
+        "sentence_with_furigana": "お 城[しろ]の 殿[との]さまと 奥方[おくがた]が、",
+        "audio_begin": 538320,
+        "audio_end": 540880
     },
     {
         "id": "f000212",
         "sentence": "お前の娘の機を織るところが見たいという仰せだから、",
-        "sentence_with_furigana": "お 前[まえ]の 娘[むすめ]の 機[はた]を 織[お]るところが 見[み]たいという 仰[おお]せだから、"
+        "sentence_with_furigana": "お 前[まえ]の 娘[むすめ]の 機[はた]を 織[お]るところが 見[み]たいという 仰[おお]せだから、",
+        "audio_begin": 540880,
+        "audio_end": 545240
     },
     {
         "id": "f000213",
         "sentence": "このかごに乗って来てもらいたい。」",
-        "sentence_with_furigana": "このかごに 乗[の]って 来[き]てもらいたい。」"
+        "sentence_with_furigana": "このかごに 乗[の]って 来[き]てもらいたい。」",
+        "audio_begin": 545240,
+        "audio_end": 547440
     },
     {
         "id": "f000214",
         "sentence": "といいました。",
-        "sentence_with_furigana": "といいました。"
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 547440,
+        "audio_end": 550240
     },
     {
         "id": "f000215",
         "sentence": "おじいさんとおばあさんは大そうよろこんで、",
-        "sentence_with_furigana": "おじいさんとおばあさんは 大[たい]そうよろこんで、"
+        "sentence_with_furigana": "おじいさんとおばあさんは 大[たい]そうよろこんで、",
+        "audio_begin": 550240,
+        "audio_end": 554280
     },
     {
         "id": "f000216",
         "sentence": "瓜子姫子に化けたあまんじゃくをおかごに乗せました。",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けたあまんじゃくをおかごに 乗[の]せました。"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]に 化[ば]けたあまんじゃくをおかごに 乗[の]せました。",
+        "audio_begin": 554280,
+        "audio_end": 560200
     },
     {
         "id": "f000217",
         "sentence": "お侍たちがあまんじゃくを乗せて、",
-        "sentence_with_furigana": "お 侍[さむらい]たちがあまんじゃくを 乗[の]せて、"
+        "sentence_with_furigana": "お 侍[さむらい]たちがあまんじゃくを 乗[の]せて、",
+        "audio_begin": 560200,
+        "audio_end": 563320
     },
     {
         "id": "f000218",
         "sentence": "裏の山を通りかかりますと、",
-        "sentence_with_furigana": "裏[うら]の山を 通[とお]りかかりますと、"
+        "sentence_with_furigana": "裏[うら]の山を 通[とお]りかかりますと、",
+        "audio_begin": 563320,
+        "audio_end": 565440
     },
     {
         "id": "f000219",
         "sentence": "柿の木の上で、",
-        "sentence_with_furigana": "柿[かき]の木の上で、"
+        "sentence_with_furigana": "柿[かき]の木の上で、",
+        "audio_begin": 565440,
+        "audio_end": 568480
     },
     {
         "id": "f000220",
         "sentence": "「ああん、",
-        "sentence_with_furigana": "「ああん、"
+        "sentence_with_furigana": "「ああん、",
+        "audio_begin": 568480,
+        "audio_end": 569200
     },
     {
         "id": "f000221",
         "sentence": "ああん、",
-        "sentence_with_furigana": "ああん、"
+        "sentence_with_furigana": "ああん、",
+        "audio_begin": 569200,
+        "audio_end": 570120
     },
     {
         "id": "f000222",
         "sentence": "瓜子姫子の乗るかごに、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、",
+        "audio_begin": 570120,
+        "audio_end": 572280
     },
     {
         "id": "f000223",
         "sentence": "あまんじゃくが乗って行く。",
-        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。"
+        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。",
+        "audio_begin": 572280,
+        "audio_end": 574400
     },
     {
         "id": "f000224",
         "sentence": "瓜子姫子の乗るかごに、",
-        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、"
+        "sentence_with_furigana": "瓜子姫子[うりこひめこ]の 乗[の]るかごに、",
+        "audio_begin": 574400,
+        "audio_end": 576440
     },
     {
         "id": "f000225",
         "sentence": "あまんじゃくが乗って行く。」",
-        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。」"
+        "sentence_with_furigana": "あまんじゃくが 乗[の]って行く。」",
+        "audio_begin": 576440,
+        "audio_end": 578979
     },
     {
         "id": "f000226",
         "sentence": "という声がしました。",
-        "sentence_with_furigana": "という 声[こえ]がしました。"
+        "sentence_with_furigana": "という 声[こえ]がしました。",
+        "audio_begin": 578979,
+        "audio_end": 582160
     },
     {
         "id": "f000227",
         "sentence": "「おや、",
-        "sentence_with_furigana": "「おや、"
+        "sentence_with_furigana": "「おや、",
+        "audio_begin": 582160,
+        "audio_end": 582559
     },
     {
         "id": "f000228",
         "sentence": "へんだ。」",
-        "sentence_with_furigana": "へんだ。」"
+        "sentence_with_furigana": "へんだ。」",
+        "audio_begin": 582559,
+        "audio_end": 582960
     },
     {
         "id": "f000229",
         "sentence": "と思って、",
-        "sentence_with_furigana": "と 思[おも]って、"
+        "sentence_with_furigana": "と 思[おも]って、",
+        "audio_begin": 582960,
+        "audio_end": 583560
     },
     {
         "id": "f000230",
         "sentence": "そばへ寄ってみますと、",
-        "sentence_with_furigana": "そばへ 寄[よ]ってみますと、"
+        "sentence_with_furigana": "そばへ 寄[よ]ってみますと、",
+        "audio_begin": 583560,
+        "audio_end": 585160
     },
     {
         "id": "f000231",
         "sentence": "かわいそうに瓜子姫子は、",
-        "sentence_with_furigana": "かわいそうに 瓜子姫子[うりこひめこ]は、"
+        "sentence_with_furigana": "かわいそうに 瓜子姫子[うりこひめこ]は、",
+        "audio_begin": 585160,
+        "audio_end": 588120
     },
     {
         "id": "f000232",
         "sentence": "あまんじゃくのきたない着物を着せられて、",
-        "sentence_with_furigana": "あまんじゃくのきたない 着物[きもの]を 着[き]せられて、"
+        "sentence_with_furigana": "あまんじゃくのきたない 着物[きもの]を 着[き]せられて、",
+        "audio_begin": 588120,
+        "audio_end": 591080
     },
     {
         "id": "f000233",
         "sentence": "木の上にしばりつけられていました。",
-        "sentence_with_furigana": "木の上にしばりつけられていました。"
+        "sentence_with_furigana": "木の上にしばりつけられていました。",
+        "audio_begin": 591080,
+        "audio_end": 594480
     },
     {
         "id": "f000234",
         "sentence": "おじいさんは瓜子姫子を見つけると、",
-        "sentence_with_furigana": "おじいさんは 瓜子姫子[うりこひめこ]を 見[み]つけると、"
+        "sentence_with_furigana": "おじいさんは 瓜子姫子[うりこひめこ]を 見[み]つけると、",
+        "audio_begin": 594480,
+        "audio_end": 596920
     },
     {
         "id": "f000235",
         "sentence": "急いで行って、",
-        "sentence_with_furigana": "急[いそ]いで行って、"
+        "sentence_with_furigana": "急[いそ]いで行って、",
+        "audio_begin": 596920,
+        "audio_end": 598080
     },
     {
         "id": "f000236",
         "sentence": "木から下ろしてやりました。",
-        "sentence_with_furigana": "木から 下[お]ろしてやりました。"
+        "sentence_with_furigana": "木から 下[お]ろしてやりました。",
+        "audio_begin": 598080,
+        "audio_end": 600680
     },
     {
         "id": "f000237",
         "sentence": "お侍たちも大そうおこって、",
-        "sentence_with_furigana": "お 侍[さむらい]たちも 大[たい]そうおこって、"
+        "sentence_with_furigana": "お 侍[さむらい]たちも 大[たい]そうおこって、",
+        "audio_begin": 600680,
+        "audio_end": 603720
     },
     {
         "id": "f000238",
         "sentence": "あまんじゃくをおかごから引きずり出して、",
-        "sentence_with_furigana": "あまんじゃくをおかごから 引[ひ]きずり 出[だ]して、"
+        "sentence_with_furigana": "あまんじゃくをおかごから 引[ひ]きずり 出[だ]して、",
+        "audio_begin": 603720,
+        "audio_end": 607120
     },
     {
         "id": "f000239",
         "sentence": "その代わり瓜子姫子を乗せてお城に連れて行きました。",
-        "sentence_with_furigana": "その 代[か]わり 瓜子姫子[うりこひめこ]を 乗[の]せてお 城[しろ]に 連[つ]れて行きました。"
+        "sentence_with_furigana": "その 代[か]わり 瓜子姫子[うりこひめこ]を 乗[の]せてお 城[しろ]に 連[つ]れて行きました。",
+        "audio_begin": 607120,
+        "audio_end": 613080
     },
     {
         "id": "f000240",
         "sentence": "そしてあまんじゃくの首を斬り落として、",
-        "sentence_with_furigana": "そしてあまんじゃくの 首[くび]を 斬[き]り 落[お]として、"
+        "sentence_with_furigana": "そしてあまんじゃくの 首[くび]を 斬[き]り 落[お]として、",
+        "audio_begin": 613080,
+        "audio_end": 616480
     },
     {
         "id": "f000241",
         "sentence": "畑の隅に捨てました。",
-        "sentence_with_furigana": "畑[はたけ]の 隅[すみ]に 捨[す]てました。"
+        "sentence_with_furigana": "畑[はたけ]の 隅[すみ]に 捨[す]てました。",
+        "audio_begin": 616480,
+        "audio_end": 618240
     },
     {
         "id": "f000242",
         "sentence": "その首から流れ出した血が、",
-        "sentence_with_furigana": "その 首[くび]から 流[なが]れ 出[だ]した 血[ち]が、"
+        "sentence_with_furigana": "その 首[くび]から 流[なが]れ 出[だ]した 血[ち]が、",
+        "audio_begin": 618240,
+        "audio_end": 621200
     },
     {
         "id": "f000243",
         "sentence": "きび殻にそまって、",
-        "sentence_with_furigana": "きび 殻[がら]にそまって、"
+        "sentence_with_furigana": "きび 殻[がら]にそまって、",
+        "audio_begin": 621200,
+        "audio_end": 622760
     },
     {
         "id": "f000244",
         "sentence": "きびの色がその時から赤くなり出しました。",
-        "sentence_with_furigana": "きびの 色[いろ]がその 時[とき]から 赤[あか]くなり 出[だ]しました。"
+        "sentence_with_furigana": "きびの 色[いろ]がその 時[とき]から 赤[あか]くなり 出[だ]しました。",
+        "audio_begin": 622760,
+        "audio_end": 628280
     }
 ]

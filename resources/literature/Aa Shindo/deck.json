@@ -2,276 +2,386 @@
     {
         "id": "f000001",
         "sentence": "池田蕉園　作",
-        "sentence_with_furigana": "池田蕉園　作"
+        "sentence_with_furigana": "池田蕉園　作",
+        "audio_begin": 2328,
+        "audio_end": 6515
     },
     {
         "id": "f000002",
         "sentence": "「ああしんど」",
-        "sentence_with_furigana": "「ああしんど」"
+        "sentence_with_furigana": "「ああしんど」",
+        "audio_begin": 6515,
+        "audio_end": 10745
     },
     {
         "id": "f000003",
         "sentence": "よっぽど古いお話なんで御座いますよ。",
-        "sentence_with_furigana": "よっぽど古いお話なんで 御座[ござ]いますよ。"
+        "sentence_with_furigana": "よっぽど古いお話なんで 御座[ござ]いますよ。",
+        "audio_begin": 10745,
+        "audio_end": 14760
     },
     {
         "id": "f000004",
         "sentence": "私の祖父の子供の時分に居りました、",
-        "sentence_with_furigana": "私の 祖父[じじい]の子供の時分に居りました、"
+        "sentence_with_furigana": "私の 祖父[じじい]の子供の時分に居りました、",
+        "audio_begin": 14760,
+        "audio_end": 17800
     },
     {
         "id": "f000005",
         "sentence": "「三」という猫なんで御座います。",
-        "sentence_with_furigana": "「 三[さん]」という猫なんで 御座[ござ]います。"
+        "sentence_with_furigana": "「 三[さん]」という猫なんで 御座[ござ]います。",
+        "audio_begin": 17800,
+        "audio_end": 20600
     },
     {
         "id": "f000006",
         "sentence": "三毛だったんで御座いますって。",
-        "sentence_with_furigana": "三毛[みけ]だったんで 御座[ござ]いますって。"
+        "sentence_with_furigana": "三毛[みけ]だったんで 御座[ござ]いますって。",
+        "audio_begin": 20600,
+        "audio_end": 23520
     },
     {
         "id": "f000007",
         "sentence": "何でも、",
-        "sentence_with_furigana": "何でも、"
+        "sentence_with_furigana": "何でも、",
+        "audio_begin": 23520,
+        "audio_end": 24760
     },
     {
         "id": "f000008",
         "sentence": "あの、",
-        "sentence_with_furigana": "あの、"
+        "sentence_with_furigana": "あの、",
+        "audio_begin": 24760,
+        "audio_end": 25400
     },
     {
         "id": "f000009",
         "sentence": "その祖父の話に、",
-        "sentence_with_furigana": "その 祖父[じじい]の話に、"
+        "sentence_with_furigana": "その 祖父[じじい]の話に、",
+        "audio_begin": 25400,
+        "audio_end": 27400
     },
     {
         "id": "f000010",
         "sentence": "おばあさんがお嫁に来る時に——",
-        "sentence_with_furigana": "おばあさんがお嫁に来る時に——"
+        "sentence_with_furigana": "おばあさんがお嫁に来る時に——",
+        "audio_begin": 27400,
+        "audio_end": 30360
     },
     {
         "id": "f000011",
         "sentence": "祖父のお母さんなんで御座いましょうねえ——",
-        "sentence_with_furigana": "祖父[じじい]のお母さんなんで 御座[ござ]いましょうねえ——"
+        "sentence_with_furigana": "祖父[じじい]のお母さんなんで 御座[ござ]いましょうねえ——",
+        "audio_begin": 30360,
+        "audio_end": 33960
     },
     {
         "id": "f000012",
         "sentence": "泉州堺から連れて来た猫なんで御座いますって。",
-        "sentence_with_furigana": "泉州堺[せんしゅうさかい]から連れて来た猫なんで御座いますって。"
+        "sentence_with_furigana": "泉州堺[せんしゅうさかい]から連れて来た猫なんで御座いますって。",
+        "audio_begin": 33960,
+        "audio_end": 38785
     },
     {
         "id": "f000013",
         "sentence": "随分永く——",
-        "sentence_with_furigana": "随分[ずいぶん]永く——"
+        "sentence_with_furigana": "随分[ずいぶん]永く——",
+        "audio_begin": 38785,
+        "audio_end": 41275
     },
     {
         "id": "f000014",
         "sentence": "家に十八年も居たんで御座いますよ。",
-        "sentence_with_furigana": "家に十八年も居たんで 御座[ござ]いますよ。"
+        "sentence_with_furigana": "家に十八年も居たんで 御座[ござ]いますよ。",
+        "audio_begin": 41275,
+        "audio_end": 45800
     },
     {
         "id": "f000015",
         "sentence": "大きくなっておりましたそうです。",
-        "sentence_with_furigana": "大きくなっておりましたそうです。"
+        "sentence_with_furigana": "大きくなっておりましたそうです。",
+        "audio_begin": 45800,
+        "audio_end": 48760
     },
     {
         "id": "f000016",
         "sentence": "もう、",
-        "sentence_with_furigana": "もう、"
+        "sentence_with_furigana": "もう、",
+        "audio_begin": 48760,
+        "audio_end": 49280
     },
     {
         "id": "f000017",
         "sentence": "耳なんか、",
-        "sentence_with_furigana": "耳なんか、"
+        "sentence_with_furigana": "耳なんか、",
+        "audio_begin": 49280,
+        "audio_end": 50360
     },
     {
         "id": "f000018",
         "sentence": "厚ぼったく、",
-        "sentence_with_furigana": "厚ぼったく、"
+        "sentence_with_furigana": "厚ぼったく、",
+        "audio_begin": 50360,
+        "audio_end": 51280
     },
     {
         "id": "f000019",
         "sentence": "五分ぐらいになっていたそうで御座いますよ。",
-        "sentence_with_furigana": "五 分[ぶ]ぐらいになっていたそうで 御座[ござ]いますよ。"
+        "sentence_with_furigana": "五 分[ぶ]ぐらいになっていたそうで 御座[ござ]いますよ。",
+        "audio_begin": 51280,
+        "audio_end": 55320
     },
     {
         "id": "f000020",
         "sentence": "もう年を老ってしまっておりましたから、",
-        "sentence_with_furigana": "もう年を 老[と]ってしまっておりましたから、"
+        "sentence_with_furigana": "もう年を 老[と]ってしまっておりましたから、",
+        "audio_begin": 55320,
+        "audio_end": 58760
     },
     {
         "id": "f000021",
         "sentence": "まるで御隠居様のようになっていたんで御座いましょうね。",
-        "sentence_with_furigana": "まるで御隠居様のようになっていたんで 御座[ござ]いましょうね。"
+        "sentence_with_furigana": "まるで御隠居様のようになっていたんで 御座[ござ]いましょうね。",
+        "audio_begin": 58760,
+        "audio_end": 64000
     },
     {
         "id": "f000022",
         "sentence": "冬、",
-        "sentence_with_furigana": "冬、"
+        "sentence_with_furigana": "冬、",
+        "audio_begin": 64000,
+        "audio_end": 65440
     },
     {
         "id": "f000023",
         "sentence": "炬燵の上にまあるくなって、",
-        "sentence_with_furigana": "炬燵[こたつ]の上にまあるくなって、"
+        "sentence_with_furigana": "炬燵[こたつ]の上にまあるくなって、",
+        "audio_begin": 65440,
+        "audio_end": 67729
     },
     {
         "id": "f000024",
         "sentence": "寐ていたんで御座いますって。",
-        "sentence_with_furigana": "寐[ね]ていたんで 御座[ござ]いますって。"
+        "sentence_with_furigana": "寐[ね]ていたんで 御座[ござ]いますって。",
+        "audio_begin": 67729,
+        "audio_end": 70960
     },
     {
         "id": "f000025",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 70960,
+        "audio_end": 73040
     },
     {
         "id": "f000026",
         "sentence": "伸をしまして、",
-        "sentence_with_furigana": "伸[のび]をしまして、"
+        "sentence_with_furigana": "伸[のび]をしまして、",
+        "audio_begin": 73040,
+        "audio_end": 74960
     },
     {
         "id": "f000027",
         "sentence": "にゅっと高くなって、",
-        "sentence_with_furigana": "にゅっと高くなって、"
+        "sentence_with_furigana": "にゅっと高くなって、",
+        "audio_begin": 74960,
+        "audio_end": 78184
     },
     {
         "id": "f000028",
         "sentence": "「ああしんど」と言ったんだそうで御座いますよ。",
-        "sentence_with_furigana": "「ああしんど」と言ったんだそうで 御座[ござ]いますよ。"
+        "sentence_with_furigana": "「ああしんど」と言ったんだそうで 御座[ござ]いますよ。",
+        "audio_begin": 78184,
+        "audio_end": 84751
     },
     {
         "id": "f000029",
         "sentence": "屹度、",
-        "sentence_with_furigana": "屹度[きっと]、"
+        "sentence_with_furigana": "屹度[きっと]、",
+        "audio_begin": 84751,
+        "audio_end": 85760
     },
     {
         "id": "f000030",
         "sentence": "曾祖母さんは、",
-        "sentence_with_furigana": "曾祖母[おおばあ]さんは、"
+        "sentence_with_furigana": "曾祖母[おおばあ]さんは、",
+        "audio_begin": 85760,
+        "audio_end": 86840
     },
     {
         "id": "f000031",
         "sentence": "炬燵へ煖って、",
-        "sentence_with_furigana": "炬燵[こたつ]へ 煖[あた]って、"
+        "sentence_with_furigana": "炬燵[こたつ]へ 煖[あた]って、",
+        "audio_begin": 86840,
+        "audio_end": 88280
     },
     {
         "id": "f000032",
         "sentence": "眼鏡を懸けて、",
-        "sentence_with_furigana": "眼鏡を懸けて、"
+        "sentence_with_furigana": "眼鏡を懸けて、",
+        "audio_begin": 88280,
+        "audio_end": 89480
     },
     {
         "id": "f000033",
         "sentence": "本でも見ていたんで御座いましょうね。",
-        "sentence_with_furigana": "本でも見ていたんで 御座[ござ]いましょうね。"
+        "sentence_with_furigana": "本でも見ていたんで 御座[ござ]いましょうね。",
+        "audio_begin": 89480,
+        "audio_end": 92200
     },
     {
         "id": "f000034",
         "sentence": "で、",
-        "sentence_with_furigana": "で、"
+        "sentence_with_furigana": "で、",
+        "audio_begin": 92200,
+        "audio_end": 92640
     },
     {
         "id": "f000035",
         "sentence": "吃驚致しまして、",
-        "sentence_with_furigana": "吃驚[びつくり]致しまして、"
+        "sentence_with_furigana": "吃驚[びつくり]致しまして、",
+        "audio_begin": 92640,
+        "audio_end": 94400
     },
     {
         "id": "f000036",
         "sentence": "この猫は屹度化けると思ったんです。",
-        "sentence_with_furigana": "この猫は 屹度[きっと]化けると思ったんです。"
+        "sentence_with_furigana": "この猫は 屹度[きっと]化けると思ったんです。",
+        "audio_begin": 94400,
+        "audio_end": 99600
     },
     {
         "id": "f000037",
         "sentence": "それから、",
-        "sentence_with_furigana": "それから、"
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 99600,
+        "audio_end": 100480
     },
     {
         "id": "f000038",
         "sentence": "捨てようと思いましたけれども、",
-        "sentence_with_furigana": "捨てようと思いましたけれども、"
+        "sentence_with_furigana": "捨てようと思いましたけれども、",
+        "audio_begin": 100480,
+        "audio_end": 102600
     },
     {
         "id": "f000039",
         "sentence": "幾ら捨てても帰って来るんで御座いますって。",
-        "sentence_with_furigana": "幾ら捨てても帰って来るんで 御座[ごぎ]いますって。"
+        "sentence_with_furigana": "幾ら捨てても帰って来るんで 御座[ごぎ]いますって。",
+        "audio_begin": 102600,
+        "audio_end": 107040
     },
     {
         "id": "f000040",
         "sentence": "でも大人しくて、",
-        "sentence_with_furigana": "でも 大人[おとな]しくて、"
+        "sentence_with_furigana": "でも 大人[おとな]しくて、",
+        "audio_begin": 107040,
+        "audio_end": 109000
     },
     {
         "id": "f000041",
         "sentence": "何にも悪い事はあるんじゃありませんけれども、",
-        "sentence_with_furigana": "何[なん]にも悪い事はあるんじゃありませんけれども、"
+        "sentence_with_furigana": "何[なん]にも悪い事はあるんじゃありませんけれども、",
+        "audio_begin": 109000,
+        "audio_end": 112560
     },
     {
         "id": "f000042",
         "sentence": "私の祖父は、",
-        "sentence_with_furigana": "私の 祖父[じじい]は、"
+        "sentence_with_furigana": "私の 祖父[じじい]は、",
+        "audio_begin": 112560,
+        "audio_end": 113720
     },
     {
         "id": "f000043",
         "sentence": "「口を利くから、",
-        "sentence_with_furigana": "「口を利くから、"
+        "sentence_with_furigana": "「口を利くから、",
+        "audio_begin": 113720,
+        "audio_end": 116760
     },
     {
         "id": "f000044",
         "sentence": "怖くって怖くって、",
-        "sentence_with_furigana": "怖くって怖くって、"
+        "sentence_with_furigana": "怖くって怖くって、",
+        "audio_begin": 116760,
+        "audio_end": 117960
     },
     {
         "id": "f000045",
         "sentence": "仕方がなかった。",
-        "sentence_with_furigana": "仕方がなかった。"
+        "sentence_with_furigana": "仕方がなかった。",
+        "audio_begin": 117960,
+        "audio_end": 119200
     },
     {
         "id": "f000046",
         "sentence": "」って言っておりましたよ。",
-        "sentence_with_furigana": "」って言っておりましたよ。"
+        "sentence_with_furigana": "」って言っておりましたよ。",
+        "audio_begin": 119200,
+        "audio_end": 123450
     },
     {
         "id": "f000047",
         "sentence": "祖父は私共の知っておりました時分でも、",
-        "sentence_with_furigana": "祖父[じじい]は私共の知っておりました時分でも、"
+        "sentence_with_furigana": "祖父[じじい]は私共の知っておりました時分でも、",
+        "audio_begin": 123450,
+        "audio_end": 127600
     },
     {
         "id": "f000048",
         "sentence": "猫は大嫌いなんで御座います。",
-        "sentence_with_furigana": "猫は大嫌いなんで 御座[ござ]います。"
+        "sentence_with_furigana": "猫は大嫌いなんで 御座[ござ]います。",
+        "audio_begin": 127600,
+        "audio_end": 131680
     },
     {
         "id": "f000049",
         "sentence": "私共が所好で飼っておりましても、",
-        "sentence_with_furigana": "私共が 所好[すき]で飼っておりましても、"
+        "sentence_with_furigana": "私共が 所好[すき]で飼っておりましても、",
+        "audio_begin": 131680,
+        "audio_end": 135040
     },
     {
         "id": "f000050",
         "sentence": "「猫は化けるからな」と言ってるんで御座います。",
-        "sentence_with_furigana": "「猫は化けるからな」と言ってるんで 御座[ござ]います。"
+        "sentence_with_furigana": "「猫は化けるからな」と言ってるんで 御座[ござ]います。",
+        "audio_begin": 135040,
+        "audio_end": 141342
     },
     {
         "id": "f000051",
         "sentence": "で、",
-        "sentence_with_furigana": "で、"
+        "sentence_with_furigana": "で、",
+        "audio_begin": 141342,
+        "audio_end": 142416
     },
     {
         "id": "f000052",
         "sentence": "祖父は、",
-        "sentence_with_furigana": "祖父[じじい]は、"
+        "sentence_with_furigana": "祖父[じじい]は、",
+        "audio_begin": 142416,
+        "audio_end": 143920
     },
     {
         "id": "f000053",
         "sentence": "猫をあんまり可愛がっちゃ、",
-        "sentence_with_furigana": "猫をあんまり 可愛[かあい]がっちゃ、"
+        "sentence_with_furigana": "猫をあんまり 可愛[かあい]がっちゃ、",
+        "audio_begin": 143920,
+        "audio_end": 146520
     },
     {
         "id": "f000054",
         "sentence": "可けない可けないって言っておりましたけれど、",
-        "sentence_with_furigana": "可[い]けない 可[い]けないって言っておりましたけれど、"
+        "sentence_with_furigana": "可[い]けない 可[い]けないって言っておりましたけれど、",
+        "audio_begin": 146520,
+        "audio_end": 151120
     },
     {
         "id": "f000055",
         "sentence": "その後の猫は化けるまで居た事は御座いません。",
-        "sentence_with_furigana": "その 後[ご]の猫は化けるまで居た事は 御座[ござ]いません。"
+        "sentence_with_furigana": "その 後[ご]の猫は化けるまで居た事は 御座[ござ]いません。",
+        "audio_begin": 151120,
+        "audio_end": 160040
     }
 ]

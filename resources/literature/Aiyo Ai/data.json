@@ -1,7 +1,6 @@
 [
     {
         "id": "Aiyo Ai-f000002",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -17,11 +16,12 @@
             "よ",
             "愛"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5456,
+        "sound_end": 9093
     },
     {
         "id": "Aiyo Ai-f000003",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -59,11 +59,12 @@
             "入る",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9093,
+        "sound_end": 13955
     },
     {
         "id": "Aiyo Ai-f000004",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -125,11 +126,12 @@
             "おもう",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 13955,
+        "sound_end": 24645
     },
     {
         "id": "Aiyo Ai-f000005",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -177,11 +179,12 @@
             "おもう",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 24645,
+        "sound_end": 32720
     },
     {
         "id": "Aiyo Ai-f000006",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -205,11 +208,12 @@
             "人",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 32720,
+        "sound_end": 35280
     },
     {
         "id": "Aiyo Ai-f000007",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -249,11 +253,12 @@
             "人",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 35280,
+        "sound_end": 41560
     },
     {
         "id": "Aiyo Ai-f000008",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -295,11 +300,12 @@
             "いう",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 41560,
+        "sound_end": 45874
     },
     {
         "id": "Aiyo Ai-f000009",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -327,11 +333,12 @@
             "見える",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 45874,
+        "sound_end": 49920
     },
     {
         "id": "Aiyo Ai-f000010",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -381,11 +388,12 @@
             "がる",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 49920,
+        "sound_end": 56712
     },
     {
         "id": "Aiyo Ai-f000011",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -409,11 +417,12 @@
             "って",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 56712,
+        "sound_end": 58720
     },
     {
         "id": "Aiyo Ai-f000012",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -449,11 +458,12 @@
             "思う",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 58720,
+        "sound_end": 64120
     },
     {
         "id": "Aiyo Ai-f000013",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -479,11 +489,12 @@
             "て",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 64120,
+        "sound_end": 66320
     },
     {
         "id": "Aiyo Ai-f000014",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -513,11 +524,12 @@
             "れる",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 66320,
+        "sound_end": 70742
     },
     {
         "id": "Aiyo Ai-f000015",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -551,11 +563,12 @@
             "無い",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 70742,
+        "sound_end": 75047
     },
     {
         "id": "Aiyo Ai-f000016",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -591,11 +604,12 @@
             "初雪",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 75047,
+        "sound_end": 80020
     },
     {
         "id": "Aiyo Ai-f000017",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -635,11 +649,12 @@
             "—",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 80020,
+        "sound_end": 87648
     },
     {
         "id": "Aiyo Ai-f000019",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -653,11 +668,12 @@
             "むかし",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 87648,
+        "sound_end": 88664
     },
     {
         "id": "Aiyo Ai-f000020",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -679,11 +695,12 @@
             "が",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 88664,
+        "sound_end": 90104
     },
     {
         "id": "Aiyo Ai-f000021",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -729,11 +746,12 @@
             "あろう",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 90104,
+        "sound_end": 96824
     },
     {
         "id": "Aiyo Ai-f000022",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -753,11 +771,12 @@
             "に",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 96824,
+        "sound_end": 98402
     },
     {
         "id": "Aiyo Ai-f000023",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -787,11 +806,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 98402,
+        "sound_end": 102308
     },
     {
         "id": "Aiyo Ai-f000024",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -813,11 +833,12 @@
             "の",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 102308,
+        "sound_end": 104384
     },
     {
         "id": "Aiyo Ai-f000025",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -851,11 +872,12 @@
             "か",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 104384,
+        "sound_end": 109286
     },
     {
         "id": "Aiyo Ai-f000026",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -923,11 +945,12 @@
             "まい",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 109286,
+        "sound_end": 120544
     },
     {
         "id": "Aiyo Ai-f000027",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -959,11 +982,12 @@
             "て",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 120544,
+        "sound_end": 125064
     },
     {
         "id": "Aiyo Ai-f000028",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1021,11 +1045,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 125064,
+        "sound_end": 131464
     },
     {
         "id": "Aiyo Ai-f000029",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1065,11 +1090,12 @@
             "—",
             "—"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 131464,
+        "sound_end": 138264
     },
     {
         "id": "Aiyo Ai-f000030",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1101,11 +1127,12 @@
             "月",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 138264,
+        "sound_end": 142824
     },
     {
         "id": "Aiyo Ai-f000031",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1129,11 +1156,12 @@
             "こぼれる",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 142824,
+        "sound_end": 148064
     },
     {
         "id": "Aiyo Ai-f000032",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1173,11 +1201,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 148064,
+        "sound_end": 153504
     },
     {
         "id": "Aiyo Ai-f000033",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1211,11 +1240,12 @@
             "居る",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 153504,
+        "sound_end": 157573
     },
     {
         "id": "Aiyo Ai-f000034",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1243,11 +1273,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 157573,
+        "sound_end": 161104
     },
     {
         "id": "Aiyo Ai-f000035",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1283,11 +1314,12 @@
             "やく",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 161104,
+        "sound_end": 165904
     },
     {
         "id": "Aiyo Ai-f000036",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1327,11 +1359,12 @@
             "居る",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 165904,
+        "sound_end": 170340
     },
     {
         "id": "Aiyo Ai-f000037",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1381,11 +1414,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 170340,
+        "sound_end": 177224
     },
     {
         "id": "Aiyo Ai-f000038",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1449,11 +1483,12 @@
             "着せる",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 177224,
+        "sound_end": 189677
     },
     {
         "id": "Aiyo Ai-f000039",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1471,11 +1506,12 @@
             "と",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 189677,
+        "sound_end": 190664
     },
     {
         "id": "Aiyo Ai-f000040",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1505,11 +1541,12 @@
             "淋しい",
             "」"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 190664,
+        "sound_end": 196664
     },
     {
         "id": "Aiyo Ai-f000041",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1563,11 +1600,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 196664,
+        "sound_end": 204004
     },
     {
         "id": "Aiyo Ai-f000042",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1637,11 +1675,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 204004,
+        "sound_end": 213744
     },
     {
         "id": "Aiyo Ai-f000043",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1661,11 +1700,12 @@
             "毛",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 213744,
+        "sound_end": 215264
     },
     {
         "id": "Aiyo Ai-f000044",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1701,11 +1741,12 @@
             "着る",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 215264,
+        "sound_end": 220544
     },
     {
         "id": "Aiyo Ai-f000045",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1727,11 +1768,12 @@
             "よ",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 220544,
+        "sound_end": 221784
     },
     {
         "id": "Aiyo Ai-f000046",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1759,11 +1801,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 221784,
+        "sound_end": 224380
     },
     {
         "id": "Aiyo Ai-f000047",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1805,11 +1848,12 @@
             "な",
             "」"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 224380,
+        "sound_end": 231822
     },
     {
         "id": "Aiyo Ai-f000048",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1847,11 +1891,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 231822,
+        "sound_end": 237184
     },
     {
         "id": "Aiyo Ai-f000049",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1881,11 +1926,12 @@
             "た",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 237184,
+        "sound_end": 241424
     },
     {
         "id": "Aiyo Ai-f000050",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1903,11 +1949,12 @@
             "こども",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 241424,
+        "sound_end": 243464
     },
     {
         "id": "Aiyo Ai-f000051",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1941,11 +1988,12 @@
             "こども",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 243464,
+        "sound_end": 247584
     },
     {
         "id": "Aiyo Ai-f000052",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -1969,11 +2017,12 @@
             "こども",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 247584,
+        "sound_end": 250704
     },
     {
         "id": "Aiyo Ai-f000053",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2013,11 +2062,12 @@
             "こども",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 250704,
+        "sound_end": 257064
     },
     {
         "id": "Aiyo Ai-f000054",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2057,11 +2107,12 @@
             "こども",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 257064,
+        "sound_end": 262479
     },
     {
         "id": "Aiyo Ai-f000055",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2101,11 +2152,12 @@
             "こども",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 262479,
+        "sound_end": 268944
     },
     {
         "id": "Aiyo Ai-f000056",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2157,11 +2209,12 @@
             "達",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 268944,
+        "sound_end": 277224
     },
     {
         "id": "Aiyo Ai-f000057",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2235,11 +2288,12 @@
             "起こす",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 277224,
+        "sound_end": 288422
     },
     {
         "id": "Aiyo Ai-f000058",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2275,11 +2329,12 @@
             "起きる",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 288422,
+        "sound_end": 294904
     },
     {
         "id": "Aiyo Ai-f000059",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2309,11 +2364,12 @@
             "—",
             "—"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 294904,
+        "sound_end": 300726
     },
     {
         "id": "Aiyo Ai-f000060",
-        "author": "Miyamoto Yuriko",
         "author_japanese": "岡本 かの子",
         "deck_name": "Aiyo Ai",
         "deck_name_japanese": "愛よ愛",
@@ -2341,6 +2397,8 @@
             "風",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 300726,
+        "sound_end": 304252
     }
 ]

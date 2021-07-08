@@ -1,0 +1,352 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 3028,
+        "audio_end": 5798
+    },
+    {
+        "id": "f000002",
+        "sentence": "こぞうさんの　おきょう",
+        "sentence_with_furigana": "こぞうさんの　おきょう",
+        "audio_begin": 5798,
+        "audio_end": 7640
+    },
+    {
+        "id": "f000003",
+        "sentence": "やまでらの　おしょうさんが　びょうきに　なりましたので、",
+        "sentence_with_furigana": "やまでらの　おしょうさんが　びょうきに　なりましたので、",
+        "audio_begin": 10440,
+        "audio_end": 16256
+    },
+    {
+        "id": "f000004",
+        "sentence": "かわりに　こぞうさんが　だんかへ　おきょうを　よみに　いきました。",
+        "sentence_with_furigana": "かわりに　こぞうさんが　だんかへ　おきょうを　よみに　いきました。",
+        "audio_begin": 16256,
+        "audio_end": 22000
+    },
+    {
+        "id": "f000005",
+        "sentence": "おきょうを　わすれないように、",
+        "sentence_with_furigana": "おきょうを　わすれないように、",
+        "audio_begin": 22000,
+        "audio_end": 24620
+    },
+    {
+        "id": "f000006",
+        "sentence": "こぞうさんは　みちみち　よんで　いきました。",
+        "sentence_with_furigana": "こぞうさんは　みちみち　よんで　いきました。",
+        "audio_begin": 24620,
+        "audio_end": 28036
+    },
+    {
+        "id": "f000007",
+        "sentence": "キミョ",
+        "sentence_with_furigana": "キミョ",
+        "audio_begin": 29740,
+        "audio_end": 30400
+    },
+    {
+        "id": "f000008",
+        "sentence": "ムリョ",
+        "sentence_with_furigana": "ムリョ",
+        "audio_begin": 30400,
+        "audio_end": 31120
+    },
+    {
+        "id": "f000009",
+        "sentence": "ジュノ",
+        "sentence_with_furigana": "ジュノ",
+        "audio_begin": 31120,
+        "audio_end": 31720
+    },
+    {
+        "id": "f000010",
+        "sentence": "ライ",
+        "sentence_with_furigana": "ライ",
+        "audio_begin": 31720,
+        "audio_end": 33534
+    },
+    {
+        "id": "f000011",
+        "sentence": "すると　なたねばたけの　なかに　うさぎが　いて、",
+        "sentence_with_furigana": "すると　なたねばたけの　なかに　うさぎが　いて、",
+        "audio_begin": 33534,
+        "audio_end": 39162
+    },
+    {
+        "id": "f000012",
+        "sentence": "「こぼうず　あおぼうず。」",
+        "sentence_with_furigana": "「こぼうず　あおぼうず。」",
+        "audio_begin": 39162,
+        "audio_end": 42382
+    },
+    {
+        "id": "f000013",
+        "sentence": "と　よびました。",
+        "sentence_with_furigana": "と　よびました。",
+        "audio_begin": 42382,
+        "audio_end": 45824
+    },
+    {
+        "id": "f000014",
+        "sentence": "「なんだい。」",
+        "sentence_with_furigana": "「なんだい。」",
+        "audio_begin": 45824,
+        "audio_end": 48023
+    },
+    {
+        "id": "f000015",
+        "sentence": "「あそんで　おいきよ。」",
+        "sentence_with_furigana": "「あそんで　おいきよ。」",
+        "audio_begin": 48023,
+        "audio_end": 49777
+    },
+    {
+        "id": "f000017",
+        "sentence": "そこで、こぞうさんは　うさぎと　あそびました。",
+        "sentence_with_furigana": "そこで、こぞうさんは　うさぎと　あそびました。",
+        "audio_begin": 51374,
+        "audio_end": 56177
+    },
+    {
+        "id": "f000018",
+        "sentence": "しばらく　すると、",
+        "sentence_with_furigana": "しばらく　すると、",
+        "audio_begin": 56177,
+        "audio_end": 58913
+    },
+    {
+        "id": "f000019",
+        "sentence": "「やっ　しまった。",
+        "sentence_with_furigana": "「やっ　しまった。",
+        "audio_begin": 58913,
+        "audio_end": 61440
+    },
+    {
+        "id": "f000020",
+        "sentence": "おきょうを　わすれちゃった。」",
+        "sentence_with_furigana": "おきょうを　わすれちゃった。」",
+        "audio_begin": 61440,
+        "audio_end": 63206
+    },
+    {
+        "id": "f000021",
+        "sentence": "と　こぞうさんが　さけびました。",
+        "sentence_with_furigana": "と　こぞうさんが　さけびました。",
+        "audio_begin": 64659,
+        "audio_end": 67960
+    },
+    {
+        "id": "f000022",
+        "sentence": "すると　うさぎは、",
+        "sentence_with_furigana": "すると　うさぎは、",
+        "audio_begin": 67960,
+        "audio_end": 71120
+    },
+    {
+        "id": "f000023",
+        "sentence": "「そんなら　おきょうの　かわりに、",
+        "sentence_with_furigana": "「そんなら　おきょうの　かわりに、",
+        "audio_begin": 71120,
+        "audio_end": 74320
+    },
+    {
+        "id": "f000024",
+        "sentence": "むこうの　ほそみち",
+        "sentence_with_furigana": "むこうの　ほそみち",
+        "audio_begin": 74320,
+        "audio_end": 76040
+    },
+    {
+        "id": "f000025",
+        "sentence": "ぼたんが　さいた",
+        "sentence_with_furigana": "ぼたんが　さいた",
+        "audio_begin": 76040,
+        "audio_end": 78193
+    },
+    {
+        "id": "f000026",
+        "sentence": "と　おうたいよ。」",
+        "sentence_with_furigana": "と　おうたいよ。」",
+        "audio_begin": 78193,
+        "audio_end": 80810
+    },
+    {
+        "id": "f000027",
+        "sentence": "と　おしえました。",
+        "sentence_with_furigana": "と　おしえました。",
+        "audio_begin": 80810,
+        "audio_end": 82172
+    },
+    {
+        "id": "f000028",
+        "sentence": "こぞうさんは　だんかへ　いきました。",
+        "sentence_with_furigana": "こぞうさんは　だんかへ　いきました。",
+        "audio_begin": 84220,
+        "audio_end": 87329
+    },
+    {
+        "id": "f000029",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 87329,
+        "audio_end": 88560
+    },
+    {
+        "id": "f000030",
+        "sentence": "うさぎの　おしえて　くれたように、",
+        "sentence_with_furigana": "うさぎの　おしえて　くれたように、",
+        "audio_begin": 88560,
+        "audio_end": 91600
+    },
+    {
+        "id": "f000031",
+        "sentence": "ほとけさまの　まえで、",
+        "sentence_with_furigana": "ほとけさまの　まえで、",
+        "audio_begin": 91600,
+        "audio_end": 94959
+    },
+    {
+        "id": "f000032",
+        "sentence": "むこうの　ほそみち",
+        "sentence_with_furigana": "むこうの　ほそみち",
+        "audio_begin": 94959,
+        "audio_end": 96860
+    },
+    {
+        "id": "f000033",
+        "sentence": "ぼたんが　さいた",
+        "sentence_with_furigana": "ぼたんが　さいた",
+        "audio_begin": 96860,
+        "audio_end": 98740
+    },
+    {
+        "id": "f000034",
+        "sentence": "さいた　さいた",
+        "sentence_with_furigana": "さいた　さいた",
+        "audio_begin": 98740,
+        "audio_end": 100630
+    },
+    {
+        "id": "f000035",
+        "sentence": "ぼたんが　さいた",
+        "sentence_with_furigana": "ぼたんが　さいた",
+        "audio_begin": 100630,
+        "audio_end": 102980
+    },
+    {
+        "id": "f000036",
+        "sentence": "と　かわいい　こえで　うたいました。",
+        "sentence_with_furigana": "と　かわいい　こえで　うたいました。",
+        "audio_begin": 102980,
+        "audio_end": 105800
+    },
+    {
+        "id": "f000037",
+        "sentence": "きいて　いた　ひとびとは　びっくり　して　目を　ぱちくり　させました。",
+        "sentence_with_furigana": "きいて　いた　ひとびとは　びっくり　して　目を　ぱちくり　させました。",
+        "audio_begin": 108200,
+        "audio_end": 114553
+    },
+    {
+        "id": "f000038",
+        "sentence": "それから　くすくす　わらいだしました。",
+        "sentence_with_furigana": "それから　くすくす　わらいだしました。",
+        "audio_begin": 114553,
+        "audio_end": 117520
+    },
+    {
+        "id": "f000039",
+        "sentence": "こんな　かわいい　おきょうは　きいた　ことが　ありません。",
+        "sentence_with_furigana": "こんな　かわいい　おきょうは　きいた　ことが　ありません。",
+        "audio_begin": 119120,
+        "audio_end": 124600
+    },
+    {
+        "id": "f000040",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 124600,
+        "audio_end": 125320
+    },
+    {
+        "id": "f000041",
+        "sentence": "ごほうじが　すむと、",
+        "sentence_with_furigana": "ごほうじが　すむと、",
+        "audio_begin": 125320,
+        "audio_end": 127120
+    },
+    {
+        "id": "f000042",
+        "sentence": "だんかの　ごしゅじんは　すました　かおで、",
+        "sentence_with_furigana": "だんかの　ごしゅじんは　すました　かおで、",
+        "audio_begin": 127120,
+        "audio_end": 131307
+    },
+    {
+        "id": "f000043",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、",
+        "audio_begin": 131307,
+        "audio_end": 132433
+    },
+    {
+        "id": "f000044",
+        "sentence": "ごくろうさま。」",
+        "sentence_with_furigana": "ごくろうさま。」",
+        "audio_begin": 132433,
+        "audio_end": 135077
+    },
+    {
+        "id": "f000045",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 135077,
+        "audio_end": 135840
+    },
+    {
+        "id": "f000046",
+        "sentence": "おまんじゅうを　こぞうさんに　あげました。",
+        "sentence_with_furigana": "おまんじゅうを　こぞうさんに　あげました。",
+        "audio_begin": 135840,
+        "audio_end": 140011
+    },
+    {
+        "id": "f000047",
+        "sentence": "「ごちそうさま。」",
+        "sentence_with_furigana": "「ごちそうさま。」",
+        "audio_begin": 140011,
+        "audio_end": 142707
+    },
+    {
+        "id": "f000048",
+        "sentence": "と　こぞうさんは　おまんじゅうを　いただいて　たもとに　いれました。",
+        "sentence_with_furigana": "と　こぞうさんは　おまんじゅうを　いただいて　たもとに　いれました。",
+        "audio_begin": 142707,
+        "audio_end": 147760
+    },
+    {
+        "id": "f000049",
+        "sentence": "こぞうさんは、",
+        "sentence_with_furigana": "こぞうさんは、",
+        "audio_begin": 149760,
+        "audio_end": 150840
+    },
+    {
+        "id": "f000050",
+        "sentence": "かえりに　その　おまんじゅうを、",
+        "sentence_with_furigana": "かえりに　その　おまんじゅうを、",
+        "audio_begin": 150840,
+        "audio_end": 153520
+    },
+    {
+        "id": "f000051",
+        "sentence": "さっきの　うさぎに　わけて　やる　ことを　わすれませんでした。",
+        "sentence_with_furigana": "さっきの　うさぎに　わけて　やる　ことを　わすれませんでした。",
+        "audio_begin": 153520,
+        "audio_end": 158240
+    }
+]

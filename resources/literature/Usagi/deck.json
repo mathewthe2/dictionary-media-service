@@ -2,261 +2,365 @@
     {
         "id": "f000001",
         "sentence": "新美南吉　作",
-        "sentence_with_furigana": "新美南吉　作"
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 2795,
+        "audio_end": 5945
     },
     {
         "id": "f000002",
         "sentence": "ウサギ",
-        "sentence_with_furigana": "ウサギ"
+        "sentence_with_furigana": "ウサギ",
+        "audio_begin": 5945,
+        "audio_end": 10720
     },
     {
         "id": "f000003",
         "sentence": "ヒトリノ　アキナヒガ　ヤツテ　キマシタ。",
-        "sentence_with_furigana": "ヒトリノ　アキナヒガ　ヤツテ　キマシタ。"
+        "sentence_with_furigana": "ヒトリノ　アキナヒガ　ヤツテ　キマシタ。",
+        "audio_begin": 10720,
+        "audio_end": 15280
     },
     {
         "id": "f000004",
         "sentence": "ウサギノ　ハイツタ　カゴヲ　モツテ　ヲリマシタ。",
-        "sentence_with_furigana": "ウサギノ　ハイツタ　カゴヲ　モツテ　ヲリマシタ。"
+        "sentence_with_furigana": "ウサギノ　ハイツタ　カゴヲ　モツテ　ヲリマシタ。",
+        "audio_begin": 15280,
+        "audio_end": 20800
     },
     {
         "id": "f000005",
         "sentence": "ソノ　クセ、",
-        "sentence_with_furigana": "ソノ　クセ、"
+        "sentence_with_furigana": "ソノ　クセ、",
+        "audio_begin": 20800,
+        "audio_end": 22800
     },
     {
         "id": "f000006",
         "sentence": "「ロバノ　コハ　イリマセンカ、",
-        "sentence_with_furigana": "「ロバノ　コハ　イリマセンカ、"
+        "sentence_with_furigana": "「ロバノ　コハ　イリマセンカ、",
+        "audio_begin": 22800,
+        "audio_end": 26560
     },
     {
         "id": "f000007",
         "sentence": "ロバノ　コ」",
-        "sentence_with_furigana": "ロバノ　コ」"
+        "sentence_with_furigana": "ロバノ　コ」",
+        "audio_begin": 26560,
+        "audio_end": 29280
     },
     {
         "id": "f000008",
         "sentence": "ト　ヨンデ　アルキマシタ。",
-        "sentence_with_furigana": "ト　ヨンデ　アルキマシタ。"
+        "sentence_with_furigana": "ト　ヨンデ　アルキマシタ。",
+        "audio_begin": 29280,
+        "audio_end": 31040
     },
     {
         "id": "f000009",
         "sentence": "チヤウサンハ　チヨウド、",
-        "sentence_with_furigana": "チヤウサンハ　チヨウド、"
+        "sentence_with_furigana": "チヤウサンハ　チヨウド、",
+        "audio_begin": 33540,
+        "audio_end": 35880
     },
     {
         "id": "f000010",
         "sentence": "ロバガ　イツピキ　ホシイト　オモツテ　ヰタ　トコロデシタノデ、",
-        "sentence_with_furigana": "ロバガ　イツピキ　ホシイト　オモツテ　ヰタ　トコロデシタノデ、"
+        "sentence_with_furigana": "ロバガ　イツピキ　ホシイト　オモツテ　ヰタ　トコロデシタノデ、",
+        "audio_begin": 35880,
+        "audio_end": 40160
     },
     {
         "id": "f000011",
         "sentence": "アキナヒノ　モツテ　ヰル　カゴヲ　ノゾイテ　ミマシタ。",
-        "sentence_with_furigana": "アキナヒノ　モツテ　ヰル　カゴヲ　ノゾイテ　ミマシタ。"
+        "sentence_with_furigana": "アキナヒノ　モツテ　ヰル　カゴヲ　ノゾイテ　ミマシタ。",
+        "audio_begin": 40160,
+        "audio_end": 44220
     },
     {
         "id": "f000012",
         "sentence": "「ヤア、",
-        "sentence_with_furigana": "「ヤア、"
+        "sentence_with_furigana": "「ヤア、",
+        "audio_begin": 46320,
+        "audio_end": 47120
     },
     {
         "id": "f000013",
         "sentence": "チヒサイネ」",
-        "sentence_with_furigana": "チヒサイネ」"
+        "sentence_with_furigana": "チヒサイネ」",
+        "audio_begin": 47120,
+        "audio_end": 48960
     },
     {
         "id": "f000014",
         "sentence": "「コドモデスカラネ」",
-        "sentence_with_furigana": "「コドモデスカラネ」"
+        "sentence_with_furigana": "「コドモデスカラネ」",
+        "audio_begin": 50960,
+        "audio_end": 52440
     },
     {
         "id": "f000015",
         "sentence": "「コレデハ、",
-        "sentence_with_furigana": "「コレデハ、"
+        "sentence_with_furigana": "「コレデハ、",
+        "audio_begin": 54340,
+        "audio_end": 55560
     },
     {
         "id": "f000016",
         "sentence": "オトナニ　ナツテモ　アマリ　オホキク　ナリマスマイ」",
-        "sentence_with_furigana": "オトナニ　ナツテモ　アマリ　オホキク　ナリマスマイ」"
+        "sentence_with_furigana": "オトナニ　ナツテモ　アマリ　オホキク　ナリマスマイ」",
+        "audio_begin": 55560,
+        "audio_end": 61120
     },
     {
         "id": "f000017",
         "sentence": "「イヤイヤ　オトナニ　ナツタラ、",
-        "sentence_with_furigana": "「イヤイヤ　オトナニ　ナツタラ、"
+        "sentence_with_furigana": "「イヤイヤ　オトナニ　ナツタラ、",
+        "audio_begin": 61120,
+        "audio_end": 63840
     },
     {
         "id": "f000018",
         "sentence": "コヤクラヰノ　オホキサニ　ナル」",
-        "sentence_with_furigana": "コヤクラヰノ　オホキサニ　ナル」"
+        "sentence_with_furigana": "コヤクラヰノ　オホキサニ　ナル」",
+        "audio_begin": 63840,
+        "audio_end": 70040
     },
     {
         "id": "f000019",
         "sentence": "「ダマサウタツテ　ダメダヨ」",
-        "sentence_with_furigana": "「ダマサウタツテ　ダメダヨ」"
+        "sentence_with_furigana": "「ダマサウタツテ　ダメダヨ」",
+        "audio_begin": 70040,
+        "audio_end": 72680
     },
     {
         "id": "f000020",
         "sentence": "「ホントウデスヨ。",
-        "sentence_with_furigana": "「ホントウデスヨ。"
+        "sentence_with_furigana": "「ホントウデスヨ。",
+        "audio_begin": 72680,
+        "audio_end": 74600
     },
     {
         "id": "f000021",
         "sentence": "ゴランナサイ　コノ　ミミノ　ナガイ　コトヲ。",
-        "sentence_with_furigana": "ゴランナサイ　コノ　ミミノ　ナガイ　コトヲ。"
+        "sentence_with_furigana": "ゴランナサイ　コノ　ミミノ　ナガイ　コトヲ。",
+        "audio_begin": 74600,
+        "audio_end": 81014
     },
     {
         "id": "f000022",
         "sentence": "コレガ　オホキク　ナル　シヨウコデス」",
-        "sentence_with_furigana": "コレガ　オホキク　ナル　シヨウコデス」"
+        "sentence_with_furigana": "コレガ　オホキク　ナル　シヨウコデス」",
+        "audio_begin": 81014,
+        "audio_end": 85880
     },
     {
         "id": "f000023",
         "sentence": "ミルト　ナルホド、",
-        "sentence_with_furigana": "ミルト　ナルホド、"
+        "sentence_with_furigana": "ミルト　ナルホド、",
+        "audio_begin": 85880,
+        "audio_end": 89440
     },
     {
         "id": "f000024",
         "sentence": "ナガイ　ミミガ　フタツ、",
-        "sentence_with_furigana": "ナガイ　ミミガ　フタツ、"
+        "sentence_with_furigana": "ナガイ　ミミガ　フタツ、",
+        "audio_begin": 89440,
+        "audio_end": 92560
     },
     {
         "id": "f000025",
         "sentence": "ニヨツキリ　ハエテ　ヰマス。",
-        "sentence_with_furigana": "ニヨツキリ　ハエテ　ヰマス。"
+        "sentence_with_furigana": "ニヨツキリ　ハエテ　ヰマス。",
+        "audio_begin": 92560,
+        "audio_end": 96793
     },
     {
         "id": "f000026",
         "sentence": "ソコデ　チヤウサンハ　ウサギト　シラズニ　カヒマシタ。",
-        "sentence_with_furigana": "ソコデ　チヤウサンハ　ウサギト　シラズニ　カヒマシタ。"
+        "sentence_with_furigana": "ソコデ　チヤウサンハ　ウサギト　シラズニ　カヒマシタ。",
+        "audio_begin": 96793,
+        "audio_end": 107080
     },
     {
         "id": "f000027",
         "sentence": "サテ　チヤウサンハ　ウチニ　カヘルト、",
-        "sentence_with_furigana": "サテ　チヤウサンハ　ウチニ　カヘルト、"
+        "sentence_with_furigana": "サテ　チヤウサンハ　ウチニ　カヘルト、",
+        "audio_begin": 107080,
+        "audio_end": 111560
     },
     {
         "id": "f000028",
         "sentence": "サツソク、",
-        "sentence_with_furigana": "サツソク、"
+        "sentence_with_furigana": "サツソク、",
+        "audio_begin": 111560,
+        "audio_end": 112520
     },
     {
         "id": "f000029",
         "sentence": "ロバニ　ヒカセル　クルマヲ　ツクリハジメマシタ。",
-        "sentence_with_furigana": "ロバニ　ヒカセル　クルマヲ　ツクリハジメマシタ。"
+        "sentence_with_furigana": "ロバニ　ヒカセル　クルマヲ　ツクリハジメマシタ。",
+        "audio_begin": 112520,
+        "audio_end": 115340
     },
     {
         "id": "f000030",
         "sentence": "ナニシロ、",
-        "sentence_with_furigana": "ナニシロ、"
+        "sentence_with_furigana": "ナニシロ、",
+        "audio_begin": 117440,
+        "audio_end": 118720
     },
     {
         "id": "f000031",
         "sentence": "イマニ、",
-        "sentence_with_furigana": "イマニ、"
+        "sentence_with_furigana": "イマニ、",
+        "audio_begin": 118720,
+        "audio_end": 119160
     },
     {
         "id": "f000032",
         "sentence": "コヤミタイニ　オホキナ　ロバニ　ナルト　イフノデスカラ、",
-        "sentence_with_furigana": "コヤミタイニ　オホキナ　ロバニ　ナルト　イフノデスカラ、"
+        "sentence_with_furigana": "コヤミタイニ　オホキナ　ロバニ　ナルト　イフノデスカラ、",
+        "audio_begin": 119160,
+        "audio_end": 123507
     },
     {
         "id": "f000033",
         "sentence": "チヒサナ　クルマデハ　マニアヒマセン。",
-        "sentence_with_furigana": "チヒサナ　クルマデハ　マニアヒマセン。"
+        "sentence_with_furigana": "チヒサナ　クルマデハ　マニアヒマセン。",
+        "audio_begin": 123507,
+        "audio_end": 128603
     },
     {
         "id": "f000034",
         "sentence": "ソコデ、",
-        "sentence_with_furigana": "ソコデ、"
+        "sentence_with_furigana": "ソコデ、",
+        "audio_begin": 128603,
+        "audio_end": 129960
     },
     {
         "id": "f000035",
         "sentence": "ウマヤホドノ　クルマヲ　ツクツタノデ　アリマシタ。",
-        "sentence_with_furigana": "ウマヤホドノ　クルマヲ　ツクツタノデ　アリマシタ。"
+        "sentence_with_furigana": "ウマヤホドノ　クルマヲ　ツクツタノデ　アリマシタ。",
+        "audio_begin": 129960,
+        "audio_end": 134240
     },
     {
         "id": "f000036",
         "sentence": "クルマハ　デキアガリマシタ。",
-        "sentence_with_furigana": "クルマハ　デキアガリマシタ。"
+        "sentence_with_furigana": "クルマハ　デキアガリマシタ。",
+        "audio_begin": 138240,
+        "audio_end": 141219
     },
     {
         "id": "f000037",
         "sentence": "トコロガ　ウサギノ　ハウハ　イクラ　ダイジニ　シテ　ヤツテモ、",
-        "sentence_with_furigana": "トコロガ　ウサギノ　ハウハ　イクラ　ダイジニ　シテ　ヤツテモ、"
+        "sentence_with_furigana": "トコロガ　ウサギノ　ハウハ　イクラ　ダイジニ　シテ　ヤツテモ、",
+        "audio_begin": 141219,
+        "audio_end": 147800
     },
     {
         "id": "f000038",
         "sentence": "チツトモ　オホキク　ナリマセン。",
-        "sentence_with_furigana": "チツトモ　オホキク　ナリマセン。"
+        "sentence_with_furigana": "チツトモ　オホキク　ナリマセン。",
+        "audio_begin": 147800,
+        "audio_end": 151160
     },
     {
         "id": "f000039",
         "sentence": "タウトウ　チヤウサンハ　ハラヲ　タテテ　シマヒマシタ。",
-        "sentence_with_furigana": "タウトウ　チヤウサンハ　ハラヲ　タテテ　シマヒマシタ。"
+        "sentence_with_furigana": "タウトウ　チヤウサンハ　ハラヲ　タテテ　シマヒマシタ。",
+        "audio_begin": 153760,
+        "audio_end": 158240
     },
     {
         "id": "f000040",
         "sentence": "「モウ　ガマンガ　デキナイ。",
-        "sentence_with_furigana": "「モウ　ガマンガ　デキナイ。"
+        "sentence_with_furigana": "「モウ　ガマンガ　デキナイ。",
+        "audio_begin": 161562,
+        "audio_end": 164768
     },
     {
         "id": "f000041",
         "sentence": "ケフハ　クルマヲ　ヒカセテ　ミヨウ」",
-        "sentence_with_furigana": "ケフハ　クルマヲ　ヒカセテ　ミヨウ」"
+        "sentence_with_furigana": "ケフハ　クルマヲ　ヒカセテ　ミヨウ」",
+        "audio_begin": 164768,
+        "audio_end": 170357
     },
     {
         "id": "f000042",
         "sentence": "ソコデ　ウサギハ　クルマニ　シバリツケラレマシタ。",
-        "sentence_with_furigana": "ソコデ　ウサギハ　クルマニ　シバリツケラレマシタ。"
+        "sentence_with_furigana": "ソコデ　ウサギハ　クルマニ　シバリツケラレマシタ。",
+        "audio_begin": 170357,
+        "audio_end": 176329
     },
     {
         "id": "f000043",
         "sentence": "チヤウサンハ　クルマニ　ノツテ　ムチヲ　フリアゲ、",
-        "sentence_with_furigana": "チヤウサンハ　クルマニ　ノツテ　ムチヲ　フリアゲ、"
+        "sentence_with_furigana": "チヤウサンハ　クルマニ　ノツテ　ムチヲ　フリアゲ、",
+        "audio_begin": 176329,
+        "audio_end": 182840
     },
     {
         "id": "f000044",
         "sentence": "「シーツ」",
-        "sentence_with_furigana": "「シーツ」"
+        "sentence_with_furigana": "「シーツ」",
+        "audio_begin": 182840,
+        "audio_end": 185288
     },
     {
         "id": "f000045",
         "sentence": "ト　イヒマシタ。",
-        "sentence_with_furigana": "ト　イヒマシタ。"
+        "sentence_with_furigana": "ト　イヒマシタ。",
+        "audio_begin": 185288,
+        "audio_end": 187300
     },
     {
         "id": "f000046",
         "sentence": "ウサギハ、",
-        "sentence_with_furigana": "ウサギハ、"
+        "sentence_with_furigana": "ウサギハ、",
+        "audio_begin": 189261,
+        "audio_end": 190562
     },
     {
         "id": "f000047",
         "sentence": "ソンナ　コトニハ　オカマヒ　ナシニ、",
-        "sentence_with_furigana": "ソンナ　コトニハ　オカマヒ　ナシニ、"
+        "sentence_with_furigana": "ソンナ　コトニハ　オカマヒ　ナシニ、",
+        "audio_begin": 190562,
+        "audio_end": 193960
     },
     {
         "id": "f000048",
         "sentence": "ミチバタノ　クサヲ　タベテ　ヲリマシタ。",
-        "sentence_with_furigana": "ミチバタノ　クサヲ　タベテ　ヲリマシタ。"
+        "sentence_with_furigana": "ミチバタノ　クサヲ　タベテ　ヲリマシタ。",
+        "audio_begin": 193960,
+        "audio_end": 197980
     },
     {
         "id": "f000049",
         "sentence": "イクラ　シカツテモ　ダメデ　アリマシタ。",
-        "sentence_with_furigana": "イクラ　シカツテモ　ダメデ　アリマシタ。"
+        "sentence_with_furigana": "イクラ　シカツテモ　ダメデ　アリマシタ。",
+        "audio_begin": 200080,
+        "audio_end": 203840
     },
     {
         "id": "f000050",
         "sentence": "「ヤレヤレ」",
-        "sentence_with_furigana": "「ヤレヤレ」"
+        "sentence_with_furigana": "「ヤレヤレ」",
+        "audio_begin": 206640,
+        "audio_end": 209562
     },
     {
         "id": "f000051",
         "sentence": "ト　チヤウサンハ、",
-        "sentence_with_furigana": "ト　チヤウサンハ、"
+        "sentence_with_furigana": "ト　チヤウサンハ、",
+        "audio_begin": 209562,
+        "audio_end": 212617
     },
     {
         "id": "f000052",
         "sentence": "タウトウ　クルマノ　ナカニ　ヘタバツテ　シマヒマシタ。",
-        "sentence_with_furigana": "タウトウ　クルマノ　ナカニ　ヘタバツテ　シマヒマシタ。"
+        "sentence_with_furigana": "タウトウ　クルマノ　ナカニ　ヘタバツテ　シマヒマシタ。",
+        "audio_begin": 212617,
+        "audio_end": 217980
     }
 ]

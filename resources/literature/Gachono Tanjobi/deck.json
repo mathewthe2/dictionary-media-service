@@ -1,0 +1,520 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 2428,
+        "audio_end": 5001
+    },
+    {
+        "id": "f000002",
+        "sentence": "がちょうの　たんじょうび",
+        "sentence_with_furigana": "がちょうの　たんじょうび",
+        "audio_begin": 5001,
+        "audio_end": 6920
+    },
+    {
+        "id": "f000003",
+        "sentence": "ある　おひゃくしょうやの　うらにわに　あひるや、",
+        "sentence_with_furigana": "ある　おひゃくしょうやの　うらにわに　あひるや、",
+        "audio_begin": 9720,
+        "audio_end": 13640
+    },
+    {
+        "id": "f000004",
+        "sentence": "がちょうや、",
+        "sentence_with_furigana": "がちょうや、",
+        "audio_begin": 13640,
+        "audio_end": 15880
+    },
+    {
+        "id": "f000005",
+        "sentence": "もるもっとや、",
+        "sentence_with_furigana": "もるもっとや、",
+        "audio_begin": 15880,
+        "audio_end": 17120
+    },
+    {
+        "id": "f000006",
+        "sentence": "うさぎや、",
+        "sentence_with_furigana": "うさぎや、",
+        "audio_begin": 17120,
+        "audio_end": 17960
+    },
+    {
+        "id": "f000007",
+        "sentence": "いたちなどが　すんで　おりました。",
+        "sentence_with_furigana": "いたちなどが　すんで　おりました。",
+        "audio_begin": 17960,
+        "audio_end": 21960
+    },
+    {
+        "id": "f000008",
+        "sentence": "さて、",
+        "sentence_with_furigana": "さて、",
+        "audio_begin": 21960,
+        "audio_end": 22760
+    },
+    {
+        "id": "f000009",
+        "sentence": "ある　ひの　こと　がちょうの　たんじょうびと　いうので、",
+        "sentence_with_furigana": "ある　ひの　こと　がちょうの　たんじょうびと　いうので、",
+        "audio_begin": 22760,
+        "audio_end": 26960
+    },
+    {
+        "id": "f000010",
+        "sentence": "みんなは　がちょうの　ところへ　ごちそうに　まねかれて　いきました。",
+        "sentence_with_furigana": "みんなは　がちょうの　ところへ　ごちそうに　まねかれて　いきました。",
+        "audio_begin": 26960,
+        "audio_end": 32848
+    },
+    {
+        "id": "f000011",
+        "sentence": "これで、",
+        "sentence_with_furigana": "これで、",
+        "audio_begin": 32848,
+        "audio_end": 34080
+    },
+    {
+        "id": "f000012",
+        "sentence": "いたちさえ　よんで　くれば、",
+        "sentence_with_furigana": "いたちさえ　よんで　くれば、",
+        "audio_begin": 34080,
+        "audio_end": 36200
+    },
+    {
+        "id": "f000013",
+        "sentence": "みんな　おきゃくが　そろう　わけですが、",
+        "sentence_with_furigana": "みんな　おきゃくが　そろう　わけですが、",
+        "audio_begin": 36200,
+        "audio_end": 39960
+    },
+    {
+        "id": "f000014",
+        "sentence": "さて、",
+        "sentence_with_furigana": "さて、",
+        "audio_begin": 39960,
+        "audio_end": 41040
+    },
+    {
+        "id": "f000015",
+        "sentence": "いたちは　どう　しましょう。",
+        "sentence_with_furigana": "いたちは　どう　しましょう。",
+        "audio_begin": 41040,
+        "audio_end": 45120
+    },
+    {
+        "id": "f000016",
+        "sentence": "みんなは　いたちは　けっして　わるものでは　ない　ことを　しって　おりました。",
+        "sentence_with_furigana": "みんなは　いたちは　けっして　わるものでは　ない　ことを　しって　おりました。",
+        "audio_begin": 45120,
+        "audio_end": 51189
+    },
+    {
+        "id": "f000017",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、",
+        "audio_begin": 51189,
+        "audio_end": 52120
+    },
+    {
+        "id": "f000018",
+        "sentence": "いたちには　たった　ひとつ、",
+        "sentence_with_furigana": "いたちには　たった　ひとつ、",
+        "audio_begin": 52120,
+        "audio_end": 54200
+    },
+    {
+        "id": "f000019",
+        "sentence": "よく　ない　くせが　ありました。",
+        "sentence_with_furigana": "よく　ない　くせが　ありました。",
+        "audio_begin": 54200,
+        "audio_end": 58166
+    },
+    {
+        "id": "f000020",
+        "sentence": "それは　おおぜいの　まえでは、",
+        "sentence_with_furigana": "それは　おおぜいの　まえでは、",
+        "audio_begin": 58166,
+        "audio_end": 61310
+    },
+    {
+        "id": "f000021",
+        "sentence": "いう　ことが　できないような　くせで　ありました。",
+        "sentence_with_furigana": "いう　ことが　できないような　くせで　ありました。",
+        "audio_begin": 61310,
+        "audio_end": 66176
+    },
+    {
+        "id": "f000022",
+        "sentence": "なにかと　もうしますと、",
+        "sentence_with_furigana": "なにかと　もうしますと、",
+        "audio_begin": 66176,
+        "audio_end": 69240
+    },
+    {
+        "id": "f000023",
+        "sentence": "ほかでも　ありません、",
+        "sentence_with_furigana": "ほかでも　ありません、",
+        "audio_begin": 69240,
+        "audio_end": 72520
+    },
+    {
+        "id": "f000024",
+        "sentence": "おおきな　はげしい　おならを　する　ことで　あります。",
+        "sentence_with_furigana": "おおきな　はげしい　おならを　する　ことで　あります。",
+        "audio_begin": 72520,
+        "audio_end": 79880
+    },
+    {
+        "id": "f000025",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 79880,
+        "audio_end": 81200
+    },
+    {
+        "id": "f000026",
+        "sentence": "いたちだけを　よばないと　いたちは　きっと　おこるに　ちがい　ありません。",
+        "sentence_with_furigana": "いたちだけを　よばないと　いたちは　きっと　おこるに　ちがい　ありません。",
+        "audio_begin": 81200,
+        "audio_end": 88000
+    },
+    {
+        "id": "f000027",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 88000,
+        "audio_end": 88840
+    },
+    {
+        "id": "f000028",
+        "sentence": "うさぎが　いたちの　ところへ　つかいに　やって　いきました。",
+        "sentence_with_furigana": "うさぎが　いたちの　ところへ　つかいに　やって　いきました。",
+        "audio_begin": 88840,
+        "audio_end": 94009
+    },
+    {
+        "id": "f000029",
+        "sentence": "「きょうは　がちょうさんの　たんじょうびですから　おでかけ　ください」",
+        "sentence_with_furigana": "「きょうは　がちょうさんの　たんじょうびですから　おでかけ　ください」",
+        "audio_begin": 94009,
+        "audio_end": 99560
+    },
+    {
+        "id": "f000030",
+        "sentence": "「あ、",
+        "sentence_with_furigana": "「あ、",
+        "audio_begin": 99560,
+        "audio_end": 100480
+    },
+    {
+        "id": "f000031",
+        "sentence": "そうですか」",
+        "sentence_with_furigana": "そうですか」",
+        "audio_begin": 100480,
+        "audio_end": 102565
+    },
+    {
+        "id": "f000032",
+        "sentence": "「ところで、",
+        "sentence_with_furigana": "「ところで、",
+        "audio_begin": 102565,
+        "audio_end": 104120
+    },
+    {
+        "id": "f000033",
+        "sentence": "いたちさん、",
+        "sentence_with_furigana": "いたちさん、",
+        "audio_begin": 104120,
+        "audio_end": 104800
+    },
+    {
+        "id": "f000034",
+        "sentence": "ひとつ　おねがいが　あるのですが」",
+        "sentence_with_furigana": "ひとつ　おねがいが　あるのですが」",
+        "audio_begin": 104800,
+        "audio_end": 109080
+    },
+    {
+        "id": "f000035",
+        "sentence": "「なんですか」",
+        "sentence_with_furigana": "「なんですか」",
+        "audio_begin": 109080,
+        "audio_end": 110960
+    },
+    {
+        "id": "f000036",
+        "sentence": "「あの、",
+        "sentence_with_furigana": "「あの、",
+        "audio_begin": 110960,
+        "audio_end": 112480
+    },
+    {
+        "id": "f000037",
+        "sentence": "すみませんが、",
+        "sentence_with_furigana": "すみませんが、",
+        "audio_begin": 112480,
+        "audio_end": 115120
+    },
+    {
+        "id": "f000038",
+        "sentence": "きょうだけは　おならを　しないで　ください」",
+        "sentence_with_furigana": "きょうだけは　おならを　しないで　ください」",
+        "audio_begin": 115120,
+        "audio_end": 122060
+    },
+    {
+        "id": "f000039",
+        "sentence": "いたちは　はずかしくて、",
+        "sentence_with_furigana": "いたちは　はずかしくて、",
+        "audio_begin": 124160,
+        "audio_end": 126000
+    },
+    {
+        "id": "f000040",
+        "sentence": "かおを　まっかに　しました。",
+        "sentence_with_furigana": "かおを　まっかに　しました。",
+        "audio_begin": 126000,
+        "audio_end": 128489
+    },
+    {
+        "id": "f000041",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 128489,
+        "audio_end": 130120
+    },
+    {
+        "id": "f000042",
+        "sentence": "「ええ、",
+        "sentence_with_furigana": "「ええ、",
+        "audio_begin": 130120,
+        "audio_end": 130560
+    },
+    {
+        "id": "f000043",
+        "sentence": "けっして　しません」",
+        "sentence_with_furigana": "けっして　しません」",
+        "audio_begin": 130560,
+        "audio_end": 132800
+    },
+    {
+        "id": "f000044",
+        "sentence": "と　こたえました。",
+        "sentence_with_furigana": "と　こたえました。",
+        "audio_begin": 132800,
+        "audio_end": 136920
+    },
+    {
+        "id": "f000045",
+        "sentence": "そこで　いたちは　やって　いきました。",
+        "sentence_with_furigana": "そこで　いたちは　やって　いきました。",
+        "audio_begin": 136920,
+        "audio_end": 140760
+    },
+    {
+        "id": "f000046",
+        "sentence": "いろいろな　ごちそうが　でました。",
+        "sentence_with_furigana": "いろいろな　ごちそうが　でました。",
+        "audio_begin": 140760,
+        "audio_end": 143320
+    },
+    {
+        "id": "f000047",
+        "sentence": "おからや、",
+        "sentence_with_furigana": "おからや、",
+        "audio_begin": 143320,
+        "audio_end": 144520
+    },
+    {
+        "id": "f000048",
+        "sentence": "にんじんの　しっぽや、",
+        "sentence_with_furigana": "にんじんの　しっぽや、",
+        "audio_begin": 144520,
+        "audio_end": 146080
+    },
+    {
+        "id": "f000049",
+        "sentence": "うりの　かわや、",
+        "sentence_with_furigana": "うりの　かわや、",
+        "audio_begin": 146080,
+        "audio_end": 147320
+    },
+    {
+        "id": "f000050",
+        "sentence": "おぞうすいや。",
+        "sentence_with_furigana": "おぞうすいや。",
+        "audio_begin": 147320,
+        "audio_end": 149680
+    },
+    {
+        "id": "f000051",
+        "sentence": "みんなは　たらふく　たべました。",
+        "sentence_with_furigana": "みんなは　たらふく　たべました。",
+        "audio_begin": 149680,
+        "audio_end": 152190
+    },
+    {
+        "id": "f000052",
+        "sentence": "いたちも　ごちそうに　なりました。",
+        "sentence_with_furigana": "いたちも　ごちそうに　なりました。",
+        "audio_begin": 152190,
+        "audio_end": 155559
+    },
+    {
+        "id": "f000053",
+        "sentence": "みんなは　いい　ぐあいだと　おもって　いました。",
+        "sentence_with_furigana": "みんなは　いい　ぐあいだと　おもって　いました。",
+        "audio_begin": 155559,
+        "audio_end": 159920
+    },
+    {
+        "id": "f000054",
+        "sentence": "いたちが　おならを　しなかったからで　あります。",
+        "sentence_with_furigana": "いたちが　おならを　しなかったからで　あります。",
+        "audio_begin": 159920,
+        "audio_end": 164640
+    },
+    {
+        "id": "f000055",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 164640,
+        "audio_end": 165880
+    },
+    {
+        "id": "f000056",
+        "sentence": "とうとう、",
+        "sentence_with_furigana": "とうとう、",
+        "audio_begin": 165880,
+        "audio_end": 167400
+    },
+    {
+        "id": "f000057",
+        "sentence": "たいへんな　ことが　おこりました。",
+        "sentence_with_furigana": "たいへんな　ことが　おこりました。",
+        "audio_begin": 167400,
+        "audio_end": 170680
+    },
+    {
+        "id": "f000058",
+        "sentence": "いたちが　とつぜん　ひっくりかえって、",
+        "sentence_with_furigana": "いたちが　とつぜん　ひっくりかえって、",
+        "audio_begin": 170680,
+        "audio_end": 173520
+    },
+    {
+        "id": "f000059",
+        "sentence": "きぜつして　しまったのです。",
+        "sentence_with_furigana": "きぜつして　しまったのです。",
+        "audio_begin": 173520,
+        "audio_end": 176320
+    },
+    {
+        "id": "f000060",
+        "sentence": "さあ、",
+        "sentence_with_furigana": "さあ、",
+        "audio_begin": 176320,
+        "audio_end": 177597
+    },
+    {
+        "id": "f000061",
+        "sentence": "たいへん。",
+        "sentence_with_furigana": "たいへん。",
+        "audio_begin": 177597,
+        "audio_end": 179480
+    },
+    {
+        "id": "f000062",
+        "sentence": "さっそく、",
+        "sentence_with_furigana": "さっそく、",
+        "audio_begin": 179480,
+        "audio_end": 180360
+    },
+    {
+        "id": "f000063",
+        "sentence": "もるもっとの　おいしゃが、",
+        "sentence_with_furigana": "もるもっとの　おいしゃが、",
+        "audio_begin": 180360,
+        "audio_end": 182240
+    },
+    {
+        "id": "f000064",
+        "sentence": "いたちの　ぽんぽこに　ふくれた　おなかを　しんさつしました。",
+        "sentence_with_furigana": "いたちの　ぽんぽこに　ふくれた　おなかを　しんさつしました。",
+        "audio_begin": 182240,
+        "audio_end": 188040
+    },
+    {
+        "id": "f000065",
+        "sentence": "「みなさん」と　もるもっとは、",
+        "sentence_with_furigana": "「みなさん」と　もるもっとは、",
+        "audio_begin": 188040,
+        "audio_end": 192120
+    },
+    {
+        "id": "f000066",
+        "sentence": "しんぱいそうに　して　いる　みんなの　かおを　みまわして　いいました。",
+        "sentence_with_furigana": "しんぱいそうに　して　いる　みんなの　かおを　みまわして　いいました。",
+        "audio_begin": 192120,
+        "audio_end": 197001
+    },
+    {
+        "id": "f000067",
+        "sentence": "「これは、",
+        "sentence_with_furigana": "「これは、",
+        "audio_begin": 197001,
+        "audio_end": 198400
+    },
+    {
+        "id": "f000068",
+        "sentence": "いたちさんが、",
+        "sentence_with_furigana": "いたちさんが、",
+        "audio_begin": 198400,
+        "audio_end": 199680
+    },
+    {
+        "id": "f000069",
+        "sentence": "おならを　したいのを　あまり　がまんして　いたので　こんな　ことに　なったのです。",
+        "sentence_with_furigana": "おならを　したいのを　あまり　がまんして　いたので　こんな　ことに　なったのです。",
+        "audio_begin": 199680,
+        "audio_end": 207032
+    },
+    {
+        "id": "f000070",
+        "sentence": "これを　なおすには、",
+        "sentence_with_furigana": "これを　なおすには、",
+        "audio_begin": 207032,
+        "audio_end": 209400
+    },
+    {
+        "id": "f000071",
+        "sentence": "いたちさんに　おもいきり　おならを　させるより　しかたは　ありません」",
+        "sentence_with_furigana": "いたちさんに　おもいきり　おならを　させるより　しかたは　ありません」",
+        "audio_begin": 209400,
+        "audio_end": 215840
+    },
+    {
+        "id": "f000072",
+        "sentence": "やれやれ。",
+        "sentence_with_furigana": "やれやれ。",
+        "audio_begin": 218640,
+        "audio_end": 222040
+    },
+    {
+        "id": "f000073",
+        "sentence": "みんなの　ものは　ためいきを　して　かおを　みあわせました。",
+        "sentence_with_furigana": "みんなの　ものは　ためいきを　して　かおを　みあわせました。",
+        "audio_begin": 222040,
+        "audio_end": 229206
+    },
+    {
+        "id": "f000074",
+        "sentence": "そして　やっぱり　いたちは　よぶんじゃ　なかったと　おもいました。",
+        "sentence_with_furigana": "そして　やっぱり　いたちは　よぶんじゃ　なかったと　おもいました。",
+        "audio_begin": 229206,
+        "audio_end": 238024
+    }
+]

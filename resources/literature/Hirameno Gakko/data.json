@@ -1,7 +1,6 @@
 [
     {
         "id": "Hirameno Gakko-f000002",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -17,11 +16,12 @@
             "の",
             "学校"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6200,
+        "sound_end": 8160
     },
     {
         "id": "Hirameno Gakko-f000003",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -51,11 +51,12 @@
             "は",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10960,
+        "sound_end": 13640
     },
     {
         "id": "Hirameno Gakko-f000004",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -89,11 +90,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 13640,
+        "sound_end": 17320
     },
     {
         "id": "Hirameno Gakko-f000005",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -117,11 +119,12 @@
             "で",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 19320,
+        "sound_end": 21560
     },
     {
         "id": "Hirameno Gakko-f000006",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -149,11 +152,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 21560,
+        "sound_end": 25240
     },
     {
         "id": "Hirameno Gakko-f000007",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -169,11 +173,12 @@
             "まア",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 25240,
+        "sound_end": 26400
     },
     {
         "id": "Hirameno Gakko-f000008",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -197,11 +202,12 @@
             "ねえ",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 26400,
+        "sound_end": 29360
     },
     {
         "id": "Hirameno Gakko-f000009",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -233,11 +239,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 29360,
+        "sound_end": 32080
     },
     {
         "id": "Hirameno Gakko-f000010",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -251,11 +258,12 @@
             "此の間",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 33680,
+        "sound_end": 34240
     },
     {
         "id": "Hirameno Gakko-f000011",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -285,11 +293,12 @@
             "時",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 34240,
+        "sound_end": 37440
     },
     {
         "id": "Hirameno Gakko-f000012",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -309,11 +318,12 @@
             "で",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 37440,
+        "sound_end": 38440
     },
     {
         "id": "Hirameno Gakko-f000013",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -347,11 +357,12 @@
             "。",
             "」"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 38440,
+        "sound_end": 41380
     },
     {
         "id": "Hirameno Gakko-f000014",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -369,11 +380,12 @@
             "は",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 43480,
+        "sound_end": 44800
     },
     {
         "id": "Hirameno Gakko-f000015",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -417,11 +429,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 44800,
+        "sound_end": 49120
     },
     {
         "id": "Hirameno Gakko-f000016",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -443,11 +456,12 @@
             "で",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 51620,
+        "sound_end": 53960
     },
     {
         "id": "Hirameno Gakko-f000017",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -489,11 +503,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 53960,
+        "sound_end": 58960
     },
     {
         "id": "Hirameno Gakko-f000018",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -539,11 +554,12 @@
             "です",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 58960,
+        "sound_end": 65720
     },
     {
         "id": "Hirameno Gakko-f000019",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -559,11 +575,12 @@
             "あっ",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 65720,
+        "sound_end": 66040
     },
     {
         "id": "Hirameno Gakko-f000020",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -585,11 +602,12 @@
             "。",
             "」"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 66040,
+        "sound_end": 67600
     },
     {
         "id": "Hirameno Gakko-f000021",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -605,11 +623,12 @@
             "間",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 69800,
+        "sound_end": 70315
     },
     {
         "id": "Hirameno Gakko-f000022",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -631,11 +650,12 @@
             "て",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 70315,
+        "sound_end": 71720
     },
     {
         "id": "Hirameno Gakko-f000023",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -649,11 +669,12 @@
             "ちょっと",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 71720,
+        "sound_end": 72400
     },
     {
         "id": "Hirameno Gakko-f000024",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -689,11 +710,12 @@
             "は",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 72400,
+        "sound_end": 76765
     },
     {
         "id": "Hirameno Gakko-f000025",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -725,11 +747,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 76765,
+        "sound_end": 79440
     },
     {
         "id": "Hirameno Gakko-f000026",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -745,11 +768,12 @@
             "先生",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 81504,
+        "sound_end": 82560
     },
     {
         "id": "Hirameno Gakko-f000027",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -769,11 +793,12 @@
             "。",
             "」"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 82560,
+        "sound_end": 84458
     },
     {
         "id": "Hirameno Gakko-f000028",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -789,11 +814,12 @@
             "先生",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 84458,
+        "sound_end": 85320
     },
     {
         "id": "Hirameno Gakko-f000029",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -809,11 +835,12 @@
             "。",
             "」"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 85320,
+        "sound_end": 85960
     },
     {
         "id": "Hirameno Gakko-f000030",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -867,11 +894,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 88360,
+        "sound_end": 95440
     },
     {
         "id": "Hirameno Gakko-f000031",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -889,11 +917,12 @@
             "は",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 97840,
+        "sound_end": 98400
     },
     {
         "id": "Hirameno Gakko-f000032",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -915,11 +944,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 98400,
+        "sound_end": 99720
     },
     {
         "id": "Hirameno Gakko-f000033",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -945,11 +975,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 99720,
+        "sound_end": 103400
     },
     {
         "id": "Hirameno Gakko-f000034",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -967,11 +998,12 @@
             "が",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 103400,
+        "sound_end": 104040
     },
     {
         "id": "Hirameno Gakko-f000035",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1021,11 +1053,12 @@
             "です",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 104040,
+        "sound_end": 110365
     },
     {
         "id": "Hirameno Gakko-f000036",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1055,11 +1088,12 @@
             "て",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 110365,
+        "sound_end": 112800
     },
     {
         "id": "Hirameno Gakko-f000037",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1103,11 +1137,12 @@
             "。",
             "」"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 112800,
+        "sound_end": 117080
     },
     {
         "id": "Hirameno Gakko-f000038",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1129,11 +1164,12 @@
             "は",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 119680,
+        "sound_end": 121680
     },
     {
         "id": "Hirameno Gakko-f000039",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1163,11 +1199,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 121680,
+        "sound_end": 125147
     },
     {
         "id": "Hirameno Gakko-f000040",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1197,11 +1234,12 @@
             "て",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 125147,
+        "sound_end": 127640
     },
     {
         "id": "Hirameno Gakko-f000041",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1235,11 +1273,12 @@
             "た",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 127640,
+        "sound_end": 130699
     },
     {
         "id": "Hirameno Gakko-f000042",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1259,11 +1298,12 @@
             "は",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 132800,
+        "sound_end": 134040
     },
     {
         "id": "Hirameno Gakko-f000043",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1279,11 +1319,12 @@
             "に",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 134040,
+        "sound_end": 134760
     },
     {
         "id": "Hirameno Gakko-f000044",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1309,11 +1350,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 134760,
+        "sound_end": 138920
     },
     {
         "id": "Hirameno Gakko-f000045",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1337,11 +1379,12 @@
             "か",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 138920,
+        "sound_end": 141000
     },
     {
         "id": "Hirameno Gakko-f000046",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1365,11 +1408,12 @@
             "で",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 141000,
+        "sound_end": 142805
     },
     {
         "id": "Hirameno Gakko-f000047",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1403,11 +1447,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 142805,
+        "sound_end": 146851
     },
     {
         "id": "Hirameno Gakko-f000048",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1427,11 +1472,12 @@
             "に",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 146851,
+        "sound_end": 148200
     },
     {
         "id": "Hirameno Gakko-f000049",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1457,11 +1503,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 148200,
+        "sound_end": 151160
     },
     {
         "id": "Hirameno Gakko-f000050",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1479,11 +1526,12 @@
             "か",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 151160,
+        "sound_end": 152440
     },
     {
         "id": "Hirameno Gakko-f000051",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1515,11 +1563,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 152440,
+        "sound_end": 155560
     },
     {
         "id": "Hirameno Gakko-f000052",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1539,11 +1588,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 157660,
+        "sound_end": 158560
     },
     {
         "id": "Hirameno Gakko-f000053",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1577,11 +1627,12 @@
             "です",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 158560,
+        "sound_end": 162423
     },
     {
         "id": "Hirameno Gakko-f000054",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1607,11 +1658,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 162423,
+        "sound_end": 166160
     },
     {
         "id": "Hirameno Gakko-f000055",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1629,11 +1681,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 166160,
+        "sound_end": 167320
     },
     {
         "id": "Hirameno Gakko-f000056",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1653,11 +1706,12 @@
             "です",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 167320,
+        "sound_end": 169640
     },
     {
         "id": "Hirameno Gakko-f000057",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1685,11 +1739,12 @@
             "。",
             "」"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 169640,
+        "sound_end": 176520
     },
     {
         "id": "Hirameno Gakko-f000058",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1713,11 +1768,12 @@
             "は",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 176520,
+        "sound_end": 178280
     },
     {
         "id": "Hirameno Gakko-f000059",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1745,11 +1801,12 @@
             "た",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 178280,
+        "sound_end": 180120
     },
     {
         "id": "Hirameno Gakko-f000060",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1767,11 +1824,12 @@
             "が",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 182220,
+        "sound_end": 183400
     },
     {
         "id": "Hirameno Gakko-f000061",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1803,11 +1861,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 183400,
+        "sound_end": 185560
     },
     {
         "id": "Hirameno Gakko-f000062",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1827,11 +1886,12 @@
             "に",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 187960,
+        "sound_end": 189240
     },
     {
         "id": "Hirameno Gakko-f000063",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1875,11 +1935,12 @@
             "た",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 189240,
+        "sound_end": 194560
     },
     {
         "id": "Hirameno Gakko-f000064",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1909,11 +1970,12 @@
             "で",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 196560,
+        "sound_end": 200120
     },
     {
         "id": "Hirameno Gakko-f000065",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1933,11 +1995,12 @@
             "に",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 200120,
+        "sound_end": 201160
     },
     {
         "id": "Hirameno Gakko-f000066",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -1971,11 +2034,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 201160,
+        "sound_end": 203200
     },
     {
         "id": "Hirameno Gakko-f000067",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2005,11 +2069,12 @@
             "で",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 205100,
+        "sound_end": 207720
     },
     {
         "id": "Hirameno Gakko-f000068",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2031,11 +2096,12 @@
             "と",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 207720,
+        "sound_end": 209760
     },
     {
         "id": "Hirameno Gakko-f000069",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2065,11 +2131,12 @@
             "に",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 209760,
+        "sound_end": 213067
     },
     {
         "id": "Hirameno Gakko-f000070",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2097,11 +2164,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 213067,
+        "sound_end": 215600
     },
     {
         "id": "Hirameno Gakko-f000071",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2123,11 +2191,12 @@
             "は",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 219053,
+        "sound_end": 220945
     },
     {
         "id": "Hirameno Gakko-f000072",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2163,11 +2232,12 @@
             "です",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 220945,
+        "sound_end": 225720
     },
     {
         "id": "Hirameno Gakko-f000073",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2205,11 +2275,12 @@
             "で",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 225720,
+        "sound_end": 228960
     },
     {
         "id": "Hirameno Gakko-f000074",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2243,11 +2314,12 @@
             "た",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 228960,
+        "sound_end": 231880
     },
     {
         "id": "Hirameno Gakko-f000075",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2281,11 +2353,12 @@
             "から",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 235480,
+        "sound_end": 239320
     },
     {
         "id": "Hirameno Gakko-f000076",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2313,11 +2386,12 @@
             "た",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 239320,
+        "sound_end": 241120
     },
     {
         "id": "Hirameno Gakko-f000077",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2341,11 +2415,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 243720,
+        "sound_end": 246000
     },
     {
         "id": "Hirameno Gakko-f000078",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2375,11 +2450,12 @@
             "た",
             "。"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 246000,
+        "sound_end": 248040
     },
     {
         "id": "Hirameno Gakko-f000079",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2393,11 +2469,12 @@
             "時々",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 249940,
+        "sound_end": 250560
     },
     {
         "id": "Hirameno Gakko-f000080",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2425,11 +2502,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 250560,
+        "sound_end": 253840
     },
     {
         "id": "Hirameno Gakko-f000081",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2445,11 +2523,12 @@
             "と",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 253840,
+        "sound_end": 254240
     },
     {
         "id": "Hirameno Gakko-f000082",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2469,11 +2548,12 @@
             "が",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 254240,
+        "sound_end": 255686
     },
     {
         "id": "Hirameno Gakko-f000083",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2497,11 +2577,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 255686,
+        "sound_end": 257180
     },
     {
         "id": "Hirameno Gakko-f000084",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2531,11 +2612,12 @@
             "て",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 259279,
+        "sound_end": 262079
     },
     {
         "id": "Hirameno Gakko-f000085",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2565,11 +2647,12 @@
             "て",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 262079,
+        "sound_end": 264760
     },
     {
         "id": "Hirameno Gakko-f000086",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2599,11 +2682,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 264760,
+        "sound_end": 267220
     },
     {
         "id": "Hirameno Gakko-f000087",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2627,11 +2711,12 @@
             "と",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 271720,
+        "sound_end": 274017
     },
     {
         "id": "Hirameno Gakko-f000088",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2677,11 +2762,12 @@
             "た",
             "。"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 274017,
+        "sound_end": 280840
     },
     {
         "id": "Hirameno Gakko-f000089",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2705,11 +2791,12 @@
             "と",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 280840,
+        "sound_end": 283240
     },
     {
         "id": "Hirameno Gakko-f000090",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2729,11 +2816,12 @@
             "に",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 283240,
+        "sound_end": 285054
     },
     {
         "id": "Hirameno Gakko-f000091",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2757,11 +2845,12 @@
             "が",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 285054,
+        "sound_end": 287560
     },
     {
         "id": "Hirameno Gakko-f000092",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2809,11 +2898,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 287560,
+        "sound_end": 295080
     },
     {
         "id": "Hirameno Gakko-f000093",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2835,11 +2925,12 @@
             "です",
             "。"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 295080,
+        "sound_end": 296800
     },
     {
         "id": "Hirameno Gakko-f000094",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2857,11 +2948,12 @@
             "は",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 299100,
+        "sound_end": 300400
     },
     {
         "id": "Hirameno Gakko-f000095",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2899,11 +2991,12 @@
             "た",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 300400,
+        "sound_end": 304160
     },
     {
         "id": "Hirameno Gakko-f000096",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2935,11 +3028,12 @@
             "です",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 308260,
+        "sound_end": 312073
     },
     {
         "id": "Hirameno Gakko-f000097",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2963,11 +3057,12 @@
             "で",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 312073,
+        "sound_end": 314422
     },
     {
         "id": "Hirameno Gakko-f000098",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -2995,11 +3090,12 @@
             "て",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 314422,
+        "sound_end": 317240
     },
     {
         "id": "Hirameno Gakko-f000099",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3035,11 +3131,12 @@
             "た",
             "。"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 317240,
+        "sound_end": 323680
     },
     {
         "id": "Hirameno Gakko-f000100",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3057,11 +3154,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 323680,
+        "sound_end": 324520
     },
     {
         "id": "Hirameno Gakko-f000101",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3083,11 +3181,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 324520,
+        "sound_end": 326440
     },
     {
         "id": "Hirameno Gakko-f000102",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3103,11 +3202,12 @@
             "は",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 328040,
+        "sound_end": 328680
     },
     {
         "id": "Hirameno Gakko-f000103",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3137,11 +3237,12 @@
             "が",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 328680,
+        "sound_end": 331440
     },
     {
         "id": "Hirameno Gakko-f000104",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3181,11 +3282,12 @@
             "で",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 331440,
+        "sound_end": 335840
     },
     {
         "id": "Hirameno Gakko-f000105",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3207,11 +3309,12 @@
             "も",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 335840,
+        "sound_end": 337520
     },
     {
         "id": "Hirameno Gakko-f000106",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3237,11 +3340,12 @@
             "た",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 337520,
+        "sound_end": 342200
     },
     {
         "id": "Hirameno Gakko-f000107",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3255,11 +3359,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 342200,
+        "sound_end": 342640
     },
     {
         "id": "Hirameno Gakko-f000108",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3305,11 +3410,12 @@
             "です",
             "。"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 342640,
+        "sound_end": 349280
     },
     {
         "id": "Hirameno Gakko-f000109",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3335,11 +3441,12 @@
             "て",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 349280,
+        "sound_end": 351520
     },
     {
         "id": "Hirameno Gakko-f000110",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3383,11 +3490,12 @@
             "です",
             "。"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 351520,
+        "sound_end": 355800
     },
     {
         "id": "Hirameno Gakko-f000111",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3405,11 +3513,12 @@
             "も",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 357400,
+        "sound_end": 358120
     },
     {
         "id": "Hirameno Gakko-f000112",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3461,11 +3570,12 @@
             "た",
             "。"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 358120,
+        "sound_end": 364840
     },
     {
         "id": "Hirameno Gakko-f000113",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3479,11 +3589,12 @@
             "さア",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 364840,
+        "sound_end": 365280
     },
     {
         "id": "Hirameno Gakko-f000114",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3499,11 +3610,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 365280,
+        "sound_end": 366720
     },
     {
         "id": "Hirameno Gakko-f000115",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3521,11 +3633,12 @@
             "に",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 366720,
+        "sound_end": 367640
     },
     {
         "id": "Hirameno Gakko-f000116",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3555,11 +3668,12 @@
             "。",
             "」"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 367640,
+        "sound_end": 370800
     },
     {
         "id": "Hirameno Gakko-f000117",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3601,11 +3715,12 @@
             "た",
             "。"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 373600,
+        "sound_end": 378380
     },
     {
         "id": "Hirameno Gakko-f000118",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3621,11 +3736,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 380480,
+        "sound_end": 381160
     },
     {
         "id": "Hirameno Gakko-f000119",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3647,11 +3763,12 @@
             "？",
             "」"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 381160,
+        "sound_end": 384320
     },
     {
         "id": "Hirameno Gakko-f000120",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3687,11 +3804,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 384320,
+        "sound_end": 388857
     },
     {
         "id": "Hirameno Gakko-f000121",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3723,11 +3841,12 @@
             "。",
             "」"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 388857,
+        "sound_end": 391780
     },
     {
         "id": "Hirameno Gakko-f000122",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3755,11 +3874,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 393880,
+        "sound_end": 398040
     },
     {
         "id": "Hirameno Gakko-f000123",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3787,11 +3907,12 @@
             "と",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 398040,
+        "sound_end": 401006
     },
     {
         "id": "Hirameno Gakko-f000124",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3817,11 +3938,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 401006,
+        "sound_end": 403463
     },
     {
         "id": "Hirameno Gakko-f000125",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3841,11 +3963,12 @@
             "で",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 404800,
+        "sound_end": 406480
     },
     {
         "id": "Hirameno Gakko-f000126",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3873,11 +3996,12 @@
             "て",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 406480,
+        "sound_end": 409320
     },
     {
         "id": "Hirameno Gakko-f000127",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3913,11 +4037,12 @@
             "た",
             "。"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 409320,
+        "sound_end": 416080
     },
     {
         "id": "Hirameno Gakko-f000128",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3937,11 +4062,12 @@
             "と",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 416080,
+        "sound_end": 417960
     },
     {
         "id": "Hirameno Gakko-f000129",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -3965,11 +4091,12 @@
             "で",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 417960,
+        "sound_end": 420200
     },
     {
         "id": "Hirameno Gakko-f000130",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4001,11 +4128,12 @@
             "て",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 420200,
+        "sound_end": 424320
     },
     {
         "id": "Hirameno Gakko-f000131",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4043,11 +4171,12 @@
             "た",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 424320,
+        "sound_end": 428160
     },
     {
         "id": "Hirameno Gakko-f000132",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4085,11 +4214,12 @@
             "た",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 431260,
+        "sound_end": 434780
     },
     {
         "id": "Hirameno Gakko-f000133",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4125,11 +4255,12 @@
             "た",
             "。"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 436880,
+        "sound_end": 440640
     },
     {
         "id": "Hirameno Gakko-f000134",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4155,11 +4286,12 @@
             "の",
             "国"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 442768,
+        "sound_end": 449720
     },
     {
         "id": "Hirameno Gakko-f000135",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4181,11 +4313,12 @@
             "を",
             "つなぎ"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 449720,
+        "sound_end": 455880
     },
     {
         "id": "Hirameno Gakko-f000136",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4211,11 +4344,12 @@
             "の",
             "はらから"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 455880,
+        "sound_end": 462120
     },
     {
         "id": "Hirameno Gakko-f000137",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4233,11 +4367,12 @@
             "たのしく",
             "まなび"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 462120,
+        "sound_end": 465160
     },
     {
         "id": "Hirameno Gakko-f000138",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4261,11 +4396,12 @@
             "の",
             "国"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 465160,
+        "sound_end": 472516
     },
     {
         "id": "Hirameno Gakko-f000139",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4305,11 +4441,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 475600,
+        "sound_end": 479720
     },
     {
         "id": "Hirameno Gakko-f000140",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4327,11 +4464,12 @@
             "は",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 481420,
+        "sound_end": 483120
     },
     {
         "id": "Hirameno Gakko-f000141",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4377,11 +4515,12 @@
             "た",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 483120,
+        "sound_end": 490440
     },
     {
         "id": "Hirameno Gakko-f000142",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4417,11 +4556,12 @@
             "な",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 490440,
+        "sound_end": 494440
     },
     {
         "id": "Hirameno Gakko-f000143",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4441,11 +4581,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 494440,
+        "sound_end": 496040
     },
     {
         "id": "Hirameno Gakko-f000144",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4465,11 +4606,12 @@
             "と",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 496040,
+        "sound_end": 498080
     },
     {
         "id": "Hirameno Gakko-f000145",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4489,11 +4631,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 498080,
+        "sound_end": 501120
     },
     {
         "id": "Hirameno Gakko-f000146",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4515,11 +4658,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 501120,
+        "sound_end": 504030
     },
     {
         "id": "Hirameno Gakko-f000147",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4547,11 +4691,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 504030,
+        "sound_end": 507400
     },
     {
         "id": "Hirameno Gakko-f000148",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4571,11 +4716,12 @@
             "から",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 507400,
+        "sound_end": 508800
     },
     {
         "id": "Hirameno Gakko-f000149",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4615,11 +4761,12 @@
             "。",
             "」"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 508800,
+        "sound_end": 511640
     },
     {
         "id": "Hirameno Gakko-f000150",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4651,11 +4798,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 514440,
+        "sound_end": 518039
     },
     {
         "id": "Hirameno Gakko-f000151",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4671,11 +4819,12 @@
             "と",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 518039,
+        "sound_end": 519240
     },
     {
         "id": "Hirameno Gakko-f000152",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4701,11 +4850,12 @@
             "は",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 519240,
+        "sound_end": 521600
     },
     {
         "id": "Hirameno Gakko-f000153",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4729,11 +4879,12 @@
             "て",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 521600,
+        "sound_end": 525198
     },
     {
         "id": "Hirameno Gakko-f000154",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4779,11 +4930,12 @@
             "です",
             "。"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 525198,
+        "sound_end": 531960
     },
     {
         "id": "Hirameno Gakko-f000155",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4815,11 +4967,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 531960,
+        "sound_end": 534360
     },
     {
         "id": "Hirameno Gakko-f000156",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4837,11 +4990,12 @@
             "も",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 536360,
+        "sound_end": 537162
     },
     {
         "id": "Hirameno Gakko-f000157",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4861,11 +5015,12 @@
             "と",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 537162,
+        "sound_end": 539080
     },
     {
         "id": "Hirameno Gakko-f000158",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4895,11 +5050,12 @@
             "は",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 539080,
+        "sound_end": 542120
     },
     {
         "id": "Hirameno Gakko-f000159",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4939,11 +5095,12 @@
             "です",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 542120,
+        "sound_end": 545640
     },
     {
         "id": "Hirameno Gakko-f000160",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -4973,11 +5130,12 @@
             "です",
             "。"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 547640,
+        "sound_end": 550000
     },
     {
         "id": "Hirameno Gakko-f000161",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5009,11 +5167,12 @@
             "を",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 551800,
+        "sound_end": 554920
     },
     {
         "id": "Hirameno Gakko-f000162",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5049,11 +5208,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 554920,
+        "sound_end": 560120
     },
     {
         "id": "Hirameno Gakko-f000163",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5067,11 +5227,12 @@
             "さア",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 560120,
+        "sound_end": 561640
     },
     {
         "id": "Hirameno Gakko-f000164",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5097,11 +5258,12 @@
             "。",
             "」"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 561640,
+        "sound_end": 563720
     },
     {
         "id": "Hirameno Gakko-f000165",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5121,11 +5283,12 @@
             "も",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 567320,
+        "sound_end": 568200
     },
     {
         "id": "Hirameno Gakko-f000166",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5145,11 +5308,12 @@
             "も",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 568200,
+        "sound_end": 569160
     },
     {
         "id": "Hirameno Gakko-f000167",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5169,11 +5333,12 @@
             "て",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 569160,
+        "sound_end": 571083
     },
     {
         "id": "Hirameno Gakko-f000168",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5209,11 +5374,12 @@
             "た",
             "。"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 571083,
+        "sound_end": 574860
     },
     {
         "id": "Hirameno Gakko-f000169",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5239,11 +5405,12 @@
             "つけ",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 576960,
+        "sound_end": 579137
     },
     {
         "id": "Hirameno Gakko-f000170",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5271,11 +5438,12 @@
             "か",
             "、"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 579137,
+        "sound_end": 582440
     },
     {
         "id": "Hirameno Gakko-f000171",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5305,11 +5473,12 @@
             "た",
             "。"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 582440,
+        "sound_end": 585480
     },
     {
         "id": "Hirameno Gakko-f000172",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5355,11 +5524,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 589375,
+        "sound_end": 593977
     },
     {
         "id": "Hirameno Gakko-f000173",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5389,11 +5559,12 @@
             "も",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 596560,
+        "sound_end": 599880
     },
     {
         "id": "Hirameno Gakko-f000174",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5425,11 +5596,12 @@
             "た",
             "。"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 599880,
+        "sound_end": 602160
     },
     {
         "id": "Hirameno Gakko-f000175",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5447,11 +5619,12 @@
             "が",
             "、"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 604660,
+        "sound_end": 606000
     },
     {
         "id": "Hirameno Gakko-f000176",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5479,11 +5652,12 @@
             "です",
             "。"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 606000,
+        "sound_end": 610840
     },
     {
         "id": "Hirameno Gakko-f000177",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5509,11 +5683,12 @@
             "も",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 610840,
+        "sound_end": 612920
     },
     {
         "id": "Hirameno Gakko-f000178",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5535,11 +5710,12 @@
             "です",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 612920,
+        "sound_end": 614140
     },
     {
         "id": "Hirameno Gakko-f000179",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5561,11 +5737,12 @@
             "は",
             "、"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 616240,
+        "sound_end": 618040
     },
     {
         "id": "Hirameno Gakko-f000180",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5579,11 +5756,12 @@
             "毎年",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 618040,
+        "sound_end": 618607
     },
     {
         "id": "Hirameno Gakko-f000181",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5611,11 +5789,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 618607,
+        "sound_end": 621600
     },
     {
         "id": "Hirameno Gakko-f000182",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5651,11 +5830,12 @@
             "は",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 621600,
+        "sound_end": 625760
     },
     {
         "id": "Hirameno Gakko-f000183",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5687,11 +5867,12 @@
             "た",
             "。"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 625760,
+        "sound_end": 628580
     },
     {
         "id": "Hirameno Gakko-f000184",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5705,11 +5886,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 630680,
+        "sound_end": 632040
     },
     {
         "id": "Hirameno Gakko-f000185",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5751,11 +5933,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 632040,
+        "sound_end": 635840
     },
     {
         "id": "Hirameno Gakko-f000186",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5787,11 +5970,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 639440,
+        "sound_end": 643000
     },
     {
         "id": "Hirameno Gakko-f000187",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5809,11 +5993,12 @@
             "働き",
             "、"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 643000,
+        "sound_end": 645120
     },
     {
         "id": "Hirameno Gakko-f000188",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5833,11 +6018,12 @@
             "た",
             "。"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 645120,
+        "sound_end": 646960
     },
     {
         "id": "Hirameno Gakko-f000189",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5857,11 +6043,12 @@
             "いつも",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 649760,
+        "sound_end": 651920
     },
     {
         "id": "Hirameno Gakko-f000190",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5901,11 +6088,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 651920,
+        "sound_end": 656240
     },
     {
         "id": "Hirameno Gakko-f000191",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5921,11 +6109,12 @@
             "に",
             "、"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 659040,
+        "sound_end": 659560
     },
     {
         "id": "Hirameno Gakko-f000192",
-        "author": "Hayashi Fumiko",
         "author_japanese": "林 芙美子",
         "deck_name": "Hirameno Gakko",
         "deck_name_japanese": "ひらめの学校",
@@ -5965,6 +6154,8 @@
             "た",
             "。"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 659560,
+        "sound_end": 668440
     }
 ]

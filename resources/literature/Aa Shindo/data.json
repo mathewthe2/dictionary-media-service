@@ -1,7 +1,6 @@
 [
     {
         "id": "Aa Shindo-f000002",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -19,11 +18,12 @@
             "しんど",
             "」"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6515,
+        "sound_end": 10745
     },
     {
         "id": "Aa Shindo-f000003",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -55,11 +55,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10745,
+        "sound_end": 14760
     },
     {
         "id": "Aa Shindo-f000004",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -93,11 +94,12 @@
             "た",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 14760,
+        "sound_end": 17800
     },
     {
         "id": "Aa Shindo-f000005",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -131,11 +133,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 17800,
+        "sound_end": 20600
     },
     {
         "id": "Aa Shindo-f000006",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -163,11 +166,12 @@
             "って",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 20600,
+        "sound_end": 23520
     },
     {
         "id": "Aa Shindo-f000007",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -185,11 +189,12 @@
             "も",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 23520,
+        "sound_end": 24760
     },
     {
         "id": "Aa Shindo-f000008",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -203,11 +208,12 @@
             "あの",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 24760,
+        "sound_end": 25400
     },
     {
         "id": "Aa Shindo-f000009",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -229,11 +235,12 @@
             "に",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 25400,
+        "sound_end": 27400
     },
     {
         "id": "Aa Shindo-f000010",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -267,11 +274,12 @@
             "—",
             "—"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 27400,
+        "sound_end": 30360
     },
     {
         "id": "Aa Shindo-f000011",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -305,11 +313,12 @@
             "—",
             "—"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 30360,
+        "sound_end": 33960
     },
     {
         "id": "Aa Shindo-f000012",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -349,11 +358,12 @@
             "って",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 33960,
+        "sound_end": 38785
     },
     {
         "id": "Aa Shindo-f000013",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -371,11 +381,12 @@
             "—",
             "—"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 38785,
+        "sound_end": 41275
     },
     {
         "id": "Aa Shindo-f000014",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -411,11 +422,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 41275,
+        "sound_end": 45800
     },
     {
         "id": "Aa Shindo-f000015",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -443,11 +455,12 @@
             "です",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 45800,
+        "sound_end": 48760
     },
     {
         "id": "Aa Shindo-f000016",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -461,11 +474,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 48760,
+        "sound_end": 49280
     },
     {
         "id": "Aa Shindo-f000017",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -481,11 +495,12 @@
             "なんか",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 49280,
+        "sound_end": 50360
     },
     {
         "id": "Aa Shindo-f000018",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -499,11 +514,12 @@
             "厚ぼったく",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 50360,
+        "sound_end": 51280
     },
     {
         "id": "Aa Shindo-f000019",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -541,11 +557,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 51280,
+        "sound_end": 55320
     },
     {
         "id": "Aa Shindo-f000020",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -579,11 +596,12 @@
             "から",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 55320,
+        "sound_end": 58760
     },
     {
         "id": "Aa Shindo-f000021",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -627,11 +645,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 58760,
+        "sound_end": 64000
     },
     {
         "id": "Aa Shindo-f000022",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -645,11 +664,12 @@
             "冬",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 64000,
+        "sound_end": 65440
     },
     {
         "id": "Aa Shindo-f000023",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -675,11 +695,12 @@
             "て",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 65440,
+        "sound_end": 67729
     },
     {
         "id": "Aa Shindo-f000024",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -709,11 +730,12 @@
             "って",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 67729,
+        "sound_end": 70960
     },
     {
         "id": "Aa Shindo-f000025",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -727,11 +749,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 70960,
+        "sound_end": 73040
     },
     {
         "id": "Aa Shindo-f000026",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -753,11 +776,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 73040,
+        "sound_end": 74960
     },
     {
         "id": "Aa Shindo-f000027",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -779,11 +803,12 @@
             "て",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 74960,
+        "sound_end": 78184
     },
     {
         "id": "Aa Shindo-f000028",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -823,11 +848,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 78184,
+        "sound_end": 84751
     },
     {
         "id": "Aa Shindo-f000029",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -841,11 +867,12 @@
             "屹度",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 84751,
+        "sound_end": 85760
     },
     {
         "id": "Aa Shindo-f000030",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -863,11 +890,12 @@
             "は",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 85760,
+        "sound_end": 86840
     },
     {
         "id": "Aa Shindo-f000031",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -887,11 +915,12 @@
             "って",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 86840,
+        "sound_end": 88280
     },
     {
         "id": "Aa Shindo-f000032",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -911,11 +940,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 88280,
+        "sound_end": 89480
     },
     {
         "id": "Aa Shindo-f000033",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -951,11 +981,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 89480,
+        "sound_end": 92200
     },
     {
         "id": "Aa Shindo-f000034",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -969,11 +1000,12 @@
             "で",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 92200,
+        "sound_end": 92640
     },
     {
         "id": "Aa Shindo-f000035",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -993,11 +1025,12 @@
             "て",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 92640,
+        "sound_end": 94400
     },
     {
         "id": "Aa Shindo-f000036",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1029,11 +1062,12 @@
             "です",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 94400,
+        "sound_end": 99600
     },
     {
         "id": "Aa Shindo-f000037",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1049,11 +1083,12 @@
             "から",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 99600,
+        "sound_end": 100480
     },
     {
         "id": "Aa Shindo-f000038",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1079,11 +1114,12 @@
             "も",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 100480,
+        "sound_end": 102600
     },
     {
         "id": "Aa Shindo-f000039",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1119,11 +1155,12 @@
             "って",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 102600,
+        "sound_end": 107040
     },
     {
         "id": "Aa Shindo-f000040",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1143,11 +1180,12 @@
             "て",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 107040,
+        "sound_end": 109000
     },
     {
         "id": "Aa Shindo-f000041",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1185,11 +1223,12 @@
             "も",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 109000,
+        "sound_end": 112560
     },
     {
         "id": "Aa Shindo-f000042",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1209,11 +1248,12 @@
             "は",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 112560,
+        "sound_end": 113720
     },
     {
         "id": "Aa Shindo-f000043",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1235,11 +1275,12 @@
             "から",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 113720,
+        "sound_end": 116760
     },
     {
         "id": "Aa Shindo-f000044",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1259,11 +1300,12 @@
             "って",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 116760,
+        "sound_end": 117960
     },
     {
         "id": "Aa Shindo-f000045",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1283,11 +1325,12 @@
             "た",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 117960,
+        "sound_end": 119200
     },
     {
         "id": "Aa Shindo-f000046",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1315,11 +1358,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 119200,
+        "sound_end": 123450
     },
     {
         "id": "Aa Shindo-f000047",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1357,11 +1401,12 @@
             "も",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 123450,
+        "sound_end": 127600
     },
     {
         "id": "Aa Shindo-f000048",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1389,11 +1434,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 127600,
+        "sound_end": 131680
     },
     {
         "id": "Aa Shindo-f000049",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1429,11 +1475,12 @@
             "も",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 131680,
+        "sound_end": 135040
     },
     {
         "id": "Aa Shindo-f000050",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1473,11 +1520,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 135040,
+        "sound_end": 141342
     },
     {
         "id": "Aa Shindo-f000051",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1491,11 +1539,12 @@
             "で",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 141342,
+        "sound_end": 142416
     },
     {
         "id": "Aa Shindo-f000052",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1511,11 +1560,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 142416,
+        "sound_end": 143920
     },
     {
         "id": "Aa Shindo-f000053",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1539,11 +1589,12 @@
             "ちゃ",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 143920,
+        "sound_end": 146520
     },
     {
         "id": "Aa Shindo-f000054",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1577,11 +1628,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 146520,
+        "sound_end": 151120
     },
     {
         "id": "Aa Shindo-f000055",
-        "author": "Ikeda Shoen",
         "author_japanese": "池田 焦園",
         "deck_name": "Aa Shindo",
         "deck_name_japanese": "ああしんど",
@@ -1621,6 +1673,8 @@
             "ん",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 151120,
+        "sound_end": 160040
     }
 ]

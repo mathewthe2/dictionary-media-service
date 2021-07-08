@@ -1,7 +1,6 @@
 [
     {
         "id": "Inuno Itazura-f000002",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -17,11 +16,12 @@
             "の",
             "いたずら"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 7080,
+        "sound_end": 8960
     },
     {
         "id": "Inuno Itazura-f000003",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -61,11 +61,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 14112,
+        "sound_end": 22560
     },
     {
         "id": "Inuno Itazura-f000004",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -129,11 +130,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 22560,
+        "sound_end": 36480
     },
     {
         "id": "Inuno Itazura-f000005",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -153,11 +155,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 36480,
+        "sound_end": 38040
     },
     {
         "id": "Inuno Itazura-f000006",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -179,11 +182,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 38040,
+        "sound_end": 40520
     },
     {
         "id": "Inuno Itazura-f000007",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -203,11 +207,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 40520,
+        "sound_end": 42440
     },
     {
         "id": "Inuno Itazura-f000008",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -231,11 +236,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 42440,
+        "sound_end": 44857
     },
     {
         "id": "Inuno Itazura-f000009",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -261,11 +267,12 @@
             "た",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 44857,
+        "sound_end": 50480
     },
     {
         "id": "Inuno Itazura-f000010",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -295,11 +302,12 @@
             "が",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 50480,
+        "sound_end": 53080
     },
     {
         "id": "Inuno Itazura-f000011",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -329,11 +337,12 @@
             "から",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 53080,
+        "sound_end": 56400
     },
     {
         "id": "Inuno Itazura-f000012",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -369,11 +378,12 @@
             "か",
             "」"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 56400,
+        "sound_end": 60560
     },
     {
         "id": "Inuno Itazura-f000013",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -395,11 +405,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 60560,
+        "sound_end": 63960
     },
     {
         "id": "Inuno Itazura-f000014",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -431,11 +442,12 @@
             "て",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 63960,
+        "sound_end": 67200
     },
     {
         "id": "Inuno Itazura-f000015",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -459,11 +471,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 67200,
+        "sound_end": 69320
     },
     {
         "id": "Inuno Itazura-f000016",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -485,11 +498,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 71020,
+        "sound_end": 73320
     },
     {
         "id": "Inuno Itazura-f000017",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -525,11 +539,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 73320,
+        "sound_end": 77983
     },
     {
         "id": "Inuno Itazura-f000018",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -567,11 +582,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 77983,
+        "sound_end": 85407
     },
     {
         "id": "Inuno Itazura-f000019",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -605,11 +621,12 @@
             "た",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 85407,
+        "sound_end": 89520
     },
     {
         "id": "Inuno Itazura-f000020",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -641,11 +658,12 @@
             "さ",
             "」"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 89520,
+        "sound_end": 94480
     },
     {
         "id": "Inuno Itazura-f000021",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -661,11 +679,12 @@
             "ヘー",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 94480,
+        "sound_end": 95880
     },
     {
         "id": "Inuno Itazura-f000022",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -695,11 +714,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 95880,
+        "sound_end": 100000
     },
     {
         "id": "Inuno Itazura-f000023",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -723,11 +743,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 100000,
+        "sound_end": 102693
     },
     {
         "id": "Inuno Itazura-f000024",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -751,11 +772,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 102693,
+        "sound_end": 105440
     },
     {
         "id": "Inuno Itazura-f000025",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -775,11 +797,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 105440,
+        "sound_end": 107200
     },
     {
         "id": "Inuno Itazura-f000026",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -799,11 +822,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 107200,
+        "sound_end": 109160
     },
     {
         "id": "Inuno Itazura-f000027",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -829,11 +853,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 109160,
+        "sound_end": 112000
     },
     {
         "id": "Inuno Itazura-f000028",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -853,11 +878,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 112000,
+        "sound_end": 114560
     },
     {
         "id": "Inuno Itazura-f000029",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -887,11 +913,12 @@
             "たり",
             "」"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 114560,
+        "sound_end": 117120
     },
     {
         "id": "Inuno Itazura-f000030",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -907,11 +934,12 @@
             "ヘエ",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 117120,
+        "sound_end": 118040
     },
     {
         "id": "Inuno Itazura-f000031",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -935,11 +963,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 118040,
+        "sound_end": 120261
     },
     {
         "id": "Inuno Itazura-f000032",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -957,11 +986,12 @@
             "とも",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 120261,
+        "sound_end": 123120
     },
     {
         "id": "Inuno Itazura-f000033",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -985,11 +1015,12 @@
             "は",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 123120,
+        "sound_end": 126000
     },
     {
         "id": "Inuno Itazura-f000034",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1017,11 +1048,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 126000,
+        "sound_end": 129280
     },
     {
         "id": "Inuno Itazura-f000035",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1049,11 +1081,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 129280,
+        "sound_end": 131936
     },
     {
         "id": "Inuno Itazura-f000036",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1081,11 +1114,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 131936,
+        "sound_end": 134840
     },
     {
         "id": "Inuno Itazura-f000037",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1109,11 +1143,12 @@
             "たり",
             "」"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 134840,
+        "sound_end": 138840
     },
     {
         "id": "Inuno Itazura-f000038",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1129,11 +1164,12 @@
             "ヘエー",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 138840,
+        "sound_end": 140240
     },
     {
         "id": "Inuno Itazura-f000039",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1153,11 +1189,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 140240,
+        "sound_end": 142577
     },
     {
         "id": "Inuno Itazura-f000040",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1199,11 +1236,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 142577,
+        "sound_end": 149400
     },
     {
         "id": "Inuno Itazura-f000041",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1243,11 +1281,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 149400,
+        "sound_end": 154560
     },
     {
         "id": "Inuno Itazura-f000042",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1291,11 +1330,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 154560,
+        "sound_end": 161920
     },
     {
         "id": "Inuno Itazura-f000043",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1337,11 +1377,12 @@
             "し",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 161920,
+        "sound_end": 166880
     },
     {
         "id": "Inuno Itazura-f000044",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1379,11 +1420,12 @@
             "から",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 166880,
+        "sound_end": 171579
     },
     {
         "id": "Inuno Itazura-f000045",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1429,11 +1471,12 @@
             "やり",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 171579,
+        "sound_end": 176000
     },
     {
         "id": "Inuno Itazura-f000046",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1485,11 +1528,12 @@
             "だ",
             "」"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 176000,
+        "sound_end": 182800
     },
     {
         "id": "Inuno Itazura-f000047",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1505,11 +1549,12 @@
             "フーン",
             "」"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 182800,
+        "sound_end": 184360
     },
     {
         "id": "Inuno Itazura-f000048",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1553,11 +1598,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 184360,
+        "sound_end": 193600
     },
     {
         "id": "Inuno Itazura-f000049",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1577,11 +1623,12 @@
             "君",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 193600,
+        "sound_end": 195520
     },
     {
         "id": "Inuno Itazura-f000050",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1609,11 +1656,12 @@
             "い",
             "」"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 195520,
+        "sound_end": 198760
     },
     {
         "id": "Inuno Itazura-f000051",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1629,11 +1677,12 @@
             "ウン",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 198760,
+        "sound_end": 200240
     },
     {
         "id": "Inuno Itazura-f000052",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1657,11 +1706,12 @@
             "と",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 200240,
+        "sound_end": 202360
     },
     {
         "id": "Inuno Itazura-f000053",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1683,11 +1733,12 @@
             "が",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 202360,
+        "sound_end": 205371
     },
     {
         "id": "Inuno Itazura-f000054",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1713,11 +1764,12 @@
             "ぜ",
             "」"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 205371,
+        "sound_end": 209160
     },
     {
         "id": "Inuno Itazura-f000055",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1733,11 +1785,12 @@
             "何故",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 209160,
+        "sound_end": 210200
     },
     {
         "id": "Inuno Itazura-f000056",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1751,11 +1804,12 @@
             "何故",
             "」"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 210200,
+        "sound_end": 211761
     },
     {
         "id": "Inuno Itazura-f000057",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1787,11 +1841,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 211761,
+        "sound_end": 217840
     },
     {
         "id": "Inuno Itazura-f000058",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1809,11 +1864,12 @@
             "は",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 217840,
+        "sound_end": 218960
     },
     {
         "id": "Inuno Itazura-f000059",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1847,11 +1903,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 218960,
+        "sound_end": 223120
     },
     {
         "id": "Inuno Itazura-f000060",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1881,11 +1938,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 223120,
+        "sound_end": 227360
     },
     {
         "id": "Inuno Itazura-f000061",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1911,11 +1969,12 @@
             "て",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 227360,
+        "sound_end": 229880
     },
     {
         "id": "Inuno Itazura-f000062",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1941,11 +2000,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 229880,
+        "sound_end": 233480
     },
     {
         "id": "Inuno Itazura-f000063",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -1997,11 +2057,12 @@
             "か",
             "」"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 233480,
+        "sound_end": 238840
     },
     {
         "id": "Inuno Itazura-f000064",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2035,11 +2096,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 240840,
+        "sound_end": 246105
     },
     {
         "id": "Inuno Itazura-f000065",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2055,11 +2117,12 @@
             "成る程",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 246105,
+        "sound_end": 247536
     },
     {
         "id": "Inuno Itazura-f000066",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2099,11 +2162,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 247536,
+        "sound_end": 252800
     },
     {
         "id": "Inuno Itazura-f000067",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2123,11 +2187,12 @@
             "深い",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 252800,
+        "sound_end": 255600
     },
     {
         "id": "Inuno Itazura-f000068",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2155,11 +2220,12 @@
             "か",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 255600,
+        "sound_end": 258077
     },
     {
         "id": "Inuno Itazura-f000069",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2213,11 +2279,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 258077,
+        "sound_end": 264080
     },
     {
         "id": "Inuno Itazura-f000070",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2243,11 +2310,12 @@
             "しよう",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 264080,
+        "sound_end": 267160
     },
     {
         "id": "Inuno Itazura-f000071",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2277,11 +2345,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 267160,
+        "sound_end": 270080
     },
     {
         "id": "Inuno Itazura-f000072",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2309,11 +2378,12 @@
             "しよう",
             "」"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 270080,
+        "sound_end": 273560
     },
     {
         "id": "Inuno Itazura-f000073",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2329,11 +2399,12 @@
             "うん",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 273560,
+        "sound_end": 274200
     },
     {
         "id": "Inuno Itazura-f000074",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2351,11 +2422,12 @@
             "いい",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 274200,
+        "sound_end": 275873
     },
     {
         "id": "Inuno Itazura-f000075",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2387,11 +2459,12 @@
             "て",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 275873,
+        "sound_end": 279720
     },
     {
         "id": "Inuno Itazura-f000076",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2427,11 +2500,12 @@
             "と",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 279720,
+        "sound_end": 283600
     },
     {
         "id": "Inuno Itazura-f000077",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2475,11 +2549,12 @@
             "集めよう",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 283600,
+        "sound_end": 288360
     },
     {
         "id": "Inuno Itazura-f000078",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2535,11 +2610,12 @@
             "いよう",
             "」"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 288360,
+        "sound_end": 297240
     },
     {
         "id": "Inuno Itazura-f000079",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2563,11 +2639,12 @@
             "て",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 297240,
+        "sound_end": 299840
     },
     {
         "id": "Inuno Itazura-f000080",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2587,11 +2664,12 @@
             "いい",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 299840,
+        "sound_end": 301240
     },
     {
         "id": "Inuno Itazura-f000081",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2609,11 +2687,12 @@
             "いい",
             "」"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 301240,
+        "sound_end": 302765
     },
     {
         "id": "Inuno Itazura-f000082",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2633,11 +2712,12 @@
             "た",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 302765,
+        "sound_end": 306406
     },
     {
         "id": "Inuno Itazura-f000083",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2671,11 +2751,12 @@
             "た",
             "。"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 306406,
+        "sound_end": 311847
     },
     {
         "id": "Inuno Itazura-f000084",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2699,11 +2780,12 @@
             "た",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 311847,
+        "sound_end": 315403
     },
     {
         "id": "Inuno Itazura-f000085",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2743,11 +2825,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 315403,
+        "sound_end": 320480
     },
     {
         "id": "Inuno Itazura-f000086",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2775,11 +2858,12 @@
             "か",
             "」"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 320480,
+        "sound_end": 324825
     },
     {
         "id": "Inuno Itazura-f000087",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2817,11 +2901,12 @@
             "た",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 324825,
+        "sound_end": 331280
     },
     {
         "id": "Inuno Itazura-f000088",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2849,11 +2934,12 @@
             "て",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 331280,
+        "sound_end": 336720
     },
     {
         "id": "Inuno Itazura-f000089",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2879,11 +2965,12 @@
             "万歳",
             "」"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 336720,
+        "sound_end": 340200
     },
     {
         "id": "Inuno Itazura-f000090",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2909,11 +2996,12 @@
             "万歳",
             "」"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 340200,
+        "sound_end": 343386
     },
     {
         "id": "Inuno Itazura-f000091",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuno Itazura",
         "deck_name_japanese": "犬のいたずら",
@@ -2933,6 +3021,8 @@
             "た",
             "。"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 343386,
+        "sound_end": 348640
     }
 ]

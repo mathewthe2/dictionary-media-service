@@ -1,5 +1,5 @@
 from bottle import request, response, route, run, template, static_file, hook
-from search import look_up, get_sentence_by_id, get_sentence_with_context, get_sentences_with_combinatory_ids
+from search import get_deck_by_id, look_up, get_sentence_by_id, get_sentence_with_context, get_sentences_with_combinatory_ids
 from anki import generate_deck
 import requests
 import os
@@ -46,6 +46,17 @@ def sentence_with_context():
         response.set_header('Access-Control-Allow-Origin', '*')
         response.add_header('Access-Control-Allow-Methods', 'GET')
         return get_sentence_with_context(request.query.id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
+
+@route('/deck')
+def deck():
+    deck_id = request.query.get('id')
+    has_category = request.query.get('category') is not None and request.query.get('category') != ''
+    if deck_id is None:
+        return 'No idspecified.'
+    else: 
+        response.set_header('Access-Control-Allow-Origin', '*')
+        response.add_header('Access-Control-Allow-Methods', 'GET')
+        return get_deck_by_id(request.query.id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
 
 @route('/sentences')
 def sentences():

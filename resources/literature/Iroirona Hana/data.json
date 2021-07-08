@@ -1,7 +1,6 @@
 [
     {
         "id": "Iroirona Hana-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -17,11 +16,12 @@
             "な",
             "花"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5377,
+        "sound_end": 10560
     },
     {
         "id": "Iroirona Hana-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -41,11 +41,12 @@
             "が",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10560,
+        "sound_end": 12520
     },
     {
         "id": "Iroirona Hana-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -83,11 +84,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 12520,
+        "sound_end": 17520
     },
     {
         "id": "Iroirona Hana-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -103,11 +105,12 @@
             "は",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 17520,
+        "sound_end": 18466
     },
     {
         "id": "Iroirona Hana-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -141,11 +144,12 @@
             "です",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 18466,
+        "sound_end": 26000
     },
     {
         "id": "Iroirona Hana-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -167,11 +171,12 @@
             "に",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 26000,
+        "sound_end": 28040
     },
     {
         "id": "Iroirona Hana-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -209,11 +214,12 @@
             "は",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 28040,
+        "sound_end": 32040
     },
     {
         "id": "Iroirona Hana-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -247,11 +253,12 @@
             "た",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 32040,
+        "sound_end": 38000
     },
     {
         "id": "Iroirona Hana-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -273,11 +280,12 @@
             "も",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 38000,
+        "sound_end": 38880
     },
     {
         "id": "Iroirona Hana-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -301,11 +309,12 @@
             "て",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 38880,
+        "sound_end": 41240
     },
     {
         "id": "Iroirona Hana-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -345,11 +354,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 41240,
+        "sound_end": 49080
     },
     {
         "id": "Iroirona Hana-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -365,11 +375,12 @@
             "は",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 49080,
+        "sound_end": 49720
     },
     {
         "id": "Iroirona Hana-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -397,11 +408,12 @@
             "で",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 49720,
+        "sound_end": 52520
     },
     {
         "id": "Iroirona Hana-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -435,11 +447,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 52520,
+        "sound_end": 56120
     },
     {
         "id": "Iroirona Hana-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -455,11 +468,12 @@
             "は",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 56120,
+        "sound_end": 57280
     },
     {
         "id": "Iroirona Hana-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -485,11 +499,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 57280,
+        "sound_end": 59815
     },
     {
         "id": "Iroirona Hana-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -521,11 +536,12 @@
             "が",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 59815,
+        "sound_end": 63680
     },
     {
         "id": "Iroirona Hana-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -545,11 +561,12 @@
             "と",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 63680,
+        "sound_end": 65800
     },
     {
         "id": "Iroirona Hana-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -575,11 +592,12 @@
             "が",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 65800,
+        "sound_end": 67240
     },
     {
         "id": "Iroirona Hana-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -599,11 +617,12 @@
             "て",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 67240,
+        "sound_end": 69648
     },
     {
         "id": "Iroirona Hana-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -657,11 +676,12 @@
             "と",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 69648,
+        "sound_end": 76000
     },
     {
         "id": "Iroirona Hana-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -685,11 +705,12 @@
             "た",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 76000,
+        "sound_end": 79440
     },
     {
         "id": "Iroirona Hana-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -705,11 +726,12 @@
             "は",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 79440,
+        "sound_end": 80760
     },
     {
         "id": "Iroirona Hana-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -723,11 +745,12 @@
             "毎朝",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 80760,
+        "sound_end": 81240
     },
     {
         "id": "Iroirona Hana-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -749,11 +772,12 @@
             "から",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 81240,
+        "sound_end": 82640
     },
     {
         "id": "Iroirona Hana-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -775,11 +799,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 82640,
+        "sound_end": 84680
     },
     {
         "id": "Iroirona Hana-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -809,11 +834,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 84680,
+        "sound_end": 90480
     },
     {
         "id": "Iroirona Hana-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -835,11 +861,12 @@
             "か",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 90480,
+        "sound_end": 92800
     },
     {
         "id": "Iroirona Hana-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -863,11 +890,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 92800,
+        "sound_end": 95155
     },
     {
         "id": "Iroirona Hana-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -883,11 +911,12 @@
             "と",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 95155,
+        "sound_end": 95880
     },
     {
         "id": "Iroirona Hana-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -909,11 +938,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 95880,
+        "sound_end": 99614
     },
     {
         "id": "Iroirona Hana-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -927,11 +957,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 99614,
+        "sound_end": 101120
     },
     {
         "id": "Iroirona Hana-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -947,11 +978,12 @@
             "は",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 101120,
+        "sound_end": 101800
     },
     {
         "id": "Iroirona Hana-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -983,11 +1015,12 @@
             "て",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 101800,
+        "sound_end": 105040
     },
     {
         "id": "Iroirona Hana-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1021,11 +1054,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 105040,
+        "sound_end": 109691
     },
     {
         "id": "Iroirona Hana-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1041,11 +1075,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 109691,
+        "sound_end": 110400
     },
     {
         "id": "Iroirona Hana-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1071,11 +1106,12 @@
             "た",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 110400,
+        "sound_end": 112560
     },
     {
         "id": "Iroirona Hana-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1107,11 +1143,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 112560,
+        "sound_end": 117320
     },
     {
         "id": "Iroirona Hana-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1131,11 +1168,12 @@
             "は",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 117320,
+        "sound_end": 119080
     },
     {
         "id": "Iroirona Hana-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1167,11 +1205,12 @@
             "ゆく",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 119080,
+        "sound_end": 122360
     },
     {
         "id": "Iroirona Hana-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1201,11 +1240,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 122360,
+        "sound_end": 128240
     },
     {
         "id": "Iroirona Hana-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1225,11 +1265,12 @@
             "は",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 128240,
+        "sound_end": 130080
     },
     {
         "id": "Iroirona Hana-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1255,11 +1296,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 130080,
+        "sound_end": 133143
     },
     {
         "id": "Iroirona Hana-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1287,11 +1329,12 @@
             "て",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 133143,
+        "sound_end": 136640
     },
     {
         "id": "Iroirona Hana-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1319,11 +1362,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 136640,
+        "sound_end": 141360
     },
     {
         "id": "Iroirona Hana-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1339,11 +1383,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 141360,
+        "sound_end": 142040
     },
     {
         "id": "Iroirona Hana-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1363,11 +1408,12 @@
             "に",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 142040,
+        "sound_end": 143640
     },
     {
         "id": "Iroirona Hana-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1395,11 +1441,12 @@
             "て",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 143640,
+        "sound_end": 145880
     },
     {
         "id": "Iroirona Hana-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1423,11 +1470,12 @@
             "た",
             "。"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 145880,
+        "sound_end": 150120
     },
     {
         "id": "Iroirona Hana-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1443,11 +1491,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 150120,
+        "sound_end": 150880
     },
     {
         "id": "Iroirona Hana-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1467,11 +1516,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 150880,
+        "sound_end": 151680
     },
     {
         "id": "Iroirona Hana-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1493,11 +1543,12 @@
             "て",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 151680,
+        "sound_end": 154480
     },
     {
         "id": "Iroirona Hana-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1513,11 +1564,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 154480,
+        "sound_end": 155400
     },
     {
         "id": "Iroirona Hana-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1547,11 +1599,12 @@
             "か",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 155400,
+        "sound_end": 158480
     },
     {
         "id": "Iroirona Hana-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1571,11 +1624,12 @@
             "に",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 158480,
+        "sound_end": 160320
     },
     {
         "id": "Iroirona Hana-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1591,11 +1645,12 @@
             "に",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 160320,
+        "sound_end": 160880
     },
     {
         "id": "Iroirona Hana-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1625,11 +1680,12 @@
             "か",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 160880,
+        "sound_end": 164480
     },
     {
         "id": "Iroirona Hana-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1677,11 +1733,12 @@
             "が",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 164480,
+        "sound_end": 169204
     },
     {
         "id": "Iroirona Hana-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1697,11 +1754,12 @@
             "に",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 169204,
+        "sound_end": 170840
     },
     {
         "id": "Iroirona Hana-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1735,11 +1793,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 170840,
+        "sound_end": 175531
     },
     {
         "id": "Iroirona Hana-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1755,11 +1814,12 @@
             "と",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 175531,
+        "sound_end": 176382
     },
     {
         "id": "Iroirona Hana-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1779,11 +1839,12 @@
             "は",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 176382,
+        "sound_end": 177795
     },
     {
         "id": "Iroirona Hana-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1809,11 +1870,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 177795,
+        "sound_end": 182776
     },
     {
         "id": "Iroirona Hana-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1829,11 +1891,12 @@
             "は",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 182776,
+        "sound_end": 183480
     },
     {
         "id": "Iroirona Hana-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1865,11 +1928,12 @@
             "が",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 183480,
+        "sound_end": 186680
     },
     {
         "id": "Iroirona Hana-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1887,11 +1951,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 186680,
+        "sound_end": 187640
     },
     {
         "id": "Iroirona Hana-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1909,11 +1974,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 187640,
+        "sound_end": 189632
     },
     {
         "id": "Iroirona Hana-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1945,11 +2011,12 @@
             "か",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 189632,
+        "sound_end": 193074
     },
     {
         "id": "Iroirona Hana-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -1979,11 +2046,12 @@
             "とて",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 193074,
+        "sound_end": 196560
     },
     {
         "id": "Iroirona Hana-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2019,11 +2087,12 @@
             "か",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 196560,
+        "sound_end": 200110
     },
     {
         "id": "Iroirona Hana-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2039,11 +2108,12 @@
             "と",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 200110,
+        "sound_end": 200652
     },
     {
         "id": "Iroirona Hana-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2063,11 +2133,12 @@
             "た",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 200652,
+        "sound_end": 203389
     },
     {
         "id": "Iroirona Hana-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2091,11 +2162,12 @@
             "は",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 203389,
+        "sound_end": 204840
     },
     {
         "id": "Iroirona Hana-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2121,11 +2193,12 @@
             "か",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 204840,
+        "sound_end": 207760
     },
     {
         "id": "Iroirona Hana-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2147,11 +2220,12 @@
             "も",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 207760,
+        "sound_end": 209880
     },
     {
         "id": "Iroirona Hana-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2175,11 +2249,12 @@
             "か",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 209880,
+        "sound_end": 212317
     },
     {
         "id": "Iroirona Hana-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2195,11 +2270,12 @@
             "と",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 212317,
+        "sound_end": 213040
     },
     {
         "id": "Iroirona Hana-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2229,11 +2305,12 @@
             "た",
             "。"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 213040,
+        "sound_end": 217800
     },
     {
         "id": "Iroirona Hana-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2267,11 +2344,12 @@
             "が",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 217800,
+        "sound_end": 220415
     },
     {
         "id": "Iroirona Hana-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2297,11 +2375,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 220415,
+        "sound_end": 223680
     },
     {
         "id": "Iroirona Hana-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2339,11 +2418,12 @@
             "です",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 223680,
+        "sound_end": 229285
     },
     {
         "id": "Iroirona Hana-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2359,11 +2439,12 @@
             "と",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 229285,
+        "sound_end": 229480
     },
     {
         "id": "Iroirona Hana-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2383,11 +2464,12 @@
             "て",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 229480,
+        "sound_end": 231520
     },
     {
         "id": "Iroirona Hana-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2419,11 +2501,12 @@
             "た",
             "。"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 231520,
+        "sound_end": 237640
     },
     {
         "id": "Iroirona Hana-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2443,11 +2526,12 @@
             "は",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 237640,
+        "sound_end": 239520
     },
     {
         "id": "Iroirona Hana-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2483,11 +2567,12 @@
             "と",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 239520,
+        "sound_end": 242939
     },
     {
         "id": "Iroirona Hana-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2511,11 +2596,12 @@
             "た",
             "。"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 242939,
+        "sound_end": 247240
     },
     {
         "id": "Iroirona Hana-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2529,11 +2615,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 247240,
+        "sound_end": 248360
     },
     {
         "id": "Iroirona Hana-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2559,11 +2646,12 @@
             "て",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 248360,
+        "sound_end": 250760
     },
     {
         "id": "Iroirona Hana-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2597,11 +2685,12 @@
             "た",
             "。"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 250760,
+        "sound_end": 256399
     },
     {
         "id": "Iroirona Hana-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2629,11 +2718,12 @@
             "に",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 256399,
+        "sound_end": 259120
     },
     {
         "id": "Iroirona Hana-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2665,11 +2755,12 @@
             "て",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 259120,
+        "sound_end": 261978
     },
     {
         "id": "Iroirona Hana-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2701,11 +2792,12 @@
             "た",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 261978,
+        "sound_end": 265880
     },
     {
         "id": "Iroirona Hana-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2719,11 +2811,12 @@
             "ついに",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 265880,
+        "sound_end": 266757
     },
     {
         "id": "Iroirona Hana-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2743,11 +2836,12 @@
             "は",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 266757,
+        "sound_end": 268132
     },
     {
         "id": "Iroirona Hana-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2779,11 +2873,12 @@
             "です",
             "。"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 268132,
+        "sound_end": 273548
     },
     {
         "id": "Iroirona Hana-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2799,11 +2894,12 @@
             "から",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 273548,
+        "sound_end": 274200
     },
     {
         "id": "Iroirona Hana-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2825,11 +2921,12 @@
             "と",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 274200,
+        "sound_end": 276160
     },
     {
         "id": "Iroirona Hana-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2853,11 +2950,12 @@
             "で",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 276160,
+        "sound_end": 278240
     },
     {
         "id": "Iroirona Hana-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2875,11 +2973,12 @@
             "は",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 278240,
+        "sound_end": 279360
     },
     {
         "id": "Iroirona Hana-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2911,11 +3010,12 @@
             "た",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 279360,
+        "sound_end": 284000
     },
     {
         "id": "Iroirona Hana-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2939,11 +3039,12 @@
             "は",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 284000,
+        "sound_end": 286440
     },
     {
         "id": "Iroirona Hana-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -2995,11 +3096,12 @@
             "た",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 286440,
+        "sound_end": 295320
     },
     {
         "id": "Iroirona Hana-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3027,11 +3129,12 @@
             "は",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 295320,
+        "sound_end": 297880
     },
     {
         "id": "Iroirona Hana-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3069,11 +3172,12 @@
             "です",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 297880,
+        "sound_end": 305040
     },
     {
         "id": "Iroirona Hana-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3093,11 +3197,12 @@
             "は",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 305040,
+        "sound_end": 306560
     },
     {
         "id": "Iroirona Hana-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3125,11 +3230,12 @@
             "て",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 306560,
+        "sound_end": 308674
     },
     {
         "id": "Iroirona Hana-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3169,11 +3275,12 @@
             "も",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 308674,
+        "sound_end": 312280
     },
     {
         "id": "Iroirona Hana-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3187,11 +3294,12 @@
             "また",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 312280,
+        "sound_end": 312720
     },
     {
         "id": "Iroirona Hana-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3221,11 +3329,12 @@
             "て",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 312720,
+        "sound_end": 315320
     },
     {
         "id": "Iroirona Hana-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3261,11 +3370,12 @@
             "も",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 315320,
+        "sound_end": 318311
     },
     {
         "id": "Iroirona Hana-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3289,11 +3399,12 @@
             "て",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 318311,
+        "sound_end": 320560
     },
     {
         "id": "Iroirona Hana-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3329,11 +3440,12 @@
             "た",
             "。"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 320560,
+        "sound_end": 327390
     },
     {
         "id": "Iroirona Hana-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3353,11 +3465,12 @@
             "は",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 327390,
+        "sound_end": 329271
     },
     {
         "id": "Iroirona Hana-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3391,11 +3504,12 @@
             "た",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 329271,
+        "sound_end": 333079
     },
     {
         "id": "Iroirona Hana-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3415,11 +3529,12 @@
             "な",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 333079,
+        "sound_end": 334960
     },
     {
         "id": "Iroirona Hana-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3443,11 +3558,12 @@
             "た",
             "。"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 334960,
+        "sound_end": 338280
     },
     {
         "id": "Iroirona Hana-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3461,11 +3577,12 @@
             "たちまち",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 338280,
+        "sound_end": 339522
     },
     {
         "id": "Iroirona Hana-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3479,11 +3596,12 @@
             "カッポ",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 339522,
+        "sound_end": 339943
     },
     {
         "id": "Iroirona Hana-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3517,11 +3635,12 @@
             "た",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 339943,
+        "sound_end": 344840
     },
     {
         "id": "Iroirona Hana-f000122",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3539,11 +3658,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 344840,
+        "sound_end": 346448
     },
     {
         "id": "Iroirona Hana-f000123",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3559,11 +3679,12 @@
             "と",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 346448,
+        "sound_end": 347074
     },
     {
         "id": "Iroirona Hana-f000124",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3589,11 +3710,12 @@
             "た",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 347074,
+        "sound_end": 350760
     },
     {
         "id": "Iroirona Hana-f000125",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3611,11 +3733,12 @@
             "か",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 350760,
+        "sound_end": 351600
     },
     {
         "id": "Iroirona Hana-f000126",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3633,11 +3756,12 @@
             "が",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 351600,
+        "sound_end": 352640
     },
     {
         "id": "Iroirona Hana-f000127",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3663,11 +3787,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 352640,
+        "sound_end": 354725
     },
     {
         "id": "Iroirona Hana-f000128",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3683,11 +3808,12 @@
             "と",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 354725,
+        "sound_end": 354885
     },
     {
         "id": "Iroirona Hana-f000129",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3711,11 +3837,12 @@
             "た",
             "。"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 354885,
+        "sound_end": 358480
     },
     {
         "id": "Iroirona Hana-f000130",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3737,11 +3864,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 358480,
+        "sound_end": 359600
     },
     {
         "id": "Iroirona Hana-f000131",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3767,11 +3895,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 359600,
+        "sound_end": 361920
     },
     {
         "id": "Iroirona Hana-f000132",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3797,11 +3926,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 361920,
+        "sound_end": 364910
     },
     {
         "id": "Iroirona Hana-f000133",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3817,11 +3947,12 @@
             "と",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 364910,
+        "sound_end": 366048
     },
     {
         "id": "Iroirona Hana-f000134",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3851,11 +3982,12 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 366048,
+        "sound_end": 369998
     },
     {
         "id": "Iroirona Hana-f000135",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3873,11 +4005,12 @@
             "は",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 369998,
+        "sound_end": 370695
     },
     {
         "id": "Iroirona Hana-f000136",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3907,11 +4040,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 370695,
+        "sound_end": 372599
     },
     {
         "id": "Iroirona Hana-f000137",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3927,11 +4061,12 @@
             "と",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 372599,
+        "sound_end": 372750
     },
     {
         "id": "Iroirona Hana-f000138",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3953,11 +4088,12 @@
             "て",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 372750,
+        "sound_end": 374480
     },
     {
         "id": "Iroirona Hana-f000139",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -3985,11 +4121,12 @@
             "た",
             "。"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 374480,
+        "sound_end": 379040
     },
     {
         "id": "Iroirona Hana-f000140",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4005,11 +4142,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 379040,
+        "sound_end": 380105
     },
     {
         "id": "Iroirona Hana-f000141",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4023,11 +4161,12 @@
             "カッポ",
             "、"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 380105,
+        "sound_end": 380560
     },
     {
         "id": "Iroirona Hana-f000142",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4053,11 +4192,12 @@
             "た",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 380560,
+        "sound_end": 384600
     },
     {
         "id": "Iroirona Hana-f000143",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4079,11 +4219,12 @@
             "て",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 384600,
+        "sound_end": 386360
     },
     {
         "id": "Iroirona Hana-f000144",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4115,11 +4256,12 @@
             "です",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 386360,
+        "sound_end": 390880
     },
     {
         "id": "Iroirona Hana-f000145",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4133,11 +4275,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 390880,
+        "sound_end": 391600
     },
     {
         "id": "Iroirona Hana-f000146",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4189,11 +4332,12 @@
             "た",
             "。"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 391600,
+        "sound_end": 400680
     },
     {
         "id": "Iroirona Hana-f000147",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4223,11 +4367,12 @@
             "た",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 400680,
+        "sound_end": 404880
     },
     {
         "id": "Iroirona Hana-f000148",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4253,11 +4398,12 @@
             "で",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 404880,
+        "sound_end": 408400
     },
     {
         "id": "Iroirona Hana-f000149",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Iroirona Hana",
         "deck_name_japanese": "いろいろな花",
@@ -4281,6 +4427,8 @@
             "た",
             "。"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 408400,
+        "sound_end": 414040
     }
 ]

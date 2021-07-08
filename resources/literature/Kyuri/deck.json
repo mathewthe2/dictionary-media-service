@@ -1,0 +1,443 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "北大路魯山人　作",
+        "sentence_with_furigana": "北大路魯山人　作",
+        "audio_begin": 3270,
+        "audio_end": 6235
+    },
+    {
+        "id": "f000002",
+        "sentence": "胡瓜",
+        "sentence_with_furigana": "胡瓜",
+        "audio_begin": 6235,
+        "audio_end": 10613
+    },
+    {
+        "id": "f000003",
+        "sentence": "今日では温室栽培の向上によって、",
+        "sentence_with_furigana": "今日では温室栽培の向上によって、",
+        "audio_begin": 10613,
+        "audio_end": 14080
+    },
+    {
+        "id": "f000004",
+        "sentence": "くだもの、",
+        "sentence_with_furigana": "くだもの、",
+        "audio_begin": 14080,
+        "audio_end": 16040
+    },
+    {
+        "id": "f000005",
+        "sentence": "野菜など季節がなくなってしまった。",
+        "sentence_with_furigana": "野菜など季節がなくなってしまった。",
+        "audio_begin": 16040,
+        "audio_end": 21680
+    },
+    {
+        "id": "f000006",
+        "sentence": "早晩、",
+        "sentence_with_furigana": "早晩、",
+        "audio_begin": 21680,
+        "audio_end": 22480
+    },
+    {
+        "id": "f000007",
+        "sentence": "俳諧歳時記など書き改めねばならなくなりそうだ。",
+        "sentence_with_furigana": "俳諧[はいかい]歳時記など書き改めねばならなくなりそうだ。",
+        "audio_begin": 22480,
+        "audio_end": 28596
+    },
+    {
+        "id": "f000008",
+        "sentence": "とはいっても、",
+        "sentence_with_furigana": "とはいっても、",
+        "audio_begin": 28596,
+        "audio_end": 31400
+    },
+    {
+        "id": "f000009",
+        "sentence": "やはり旬のものに越したことはない。",
+        "sentence_with_furigana": "やはり 旬[しゅん]のものに越したことはない。",
+        "audio_begin": 31400,
+        "audio_end": 36960
+    },
+    {
+        "id": "f000010",
+        "sentence": "あえてきゅうりにはかぎらないが、",
+        "sentence_with_furigana": "あえてきゅうりにはかぎらないが、",
+        "audio_begin": 36960,
+        "audio_end": 38840
+    },
+    {
+        "id": "f000011",
+        "sentence": "旬がうまいということは、",
+        "sentence_with_furigana": "旬がうまいということは、",
+        "audio_begin": 38840,
+        "audio_end": 42400
+    },
+    {
+        "id": "f000012",
+        "sentence": "今も昔も変わらない。",
+        "sentence_with_furigana": "今も昔も変わらない。",
+        "audio_begin": 42400,
+        "audio_end": 47520
+    },
+    {
+        "id": "f000013",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 47520,
+        "audio_end": 48120
+    },
+    {
+        "id": "f000014",
+        "sentence": "促成野菜を味なきもののようにいうのは、",
+        "sentence_with_furigana": "促成野菜を味なきもののようにいうのは、",
+        "audio_begin": 48120,
+        "audio_end": 52120
+    },
+    {
+        "id": "f000015",
+        "sentence": "促成野菜の価値を認識しない批評であって、",
+        "sentence_with_furigana": "促成野菜の価値を認識しない批評であって、",
+        "audio_begin": 52120,
+        "audio_end": 57000
+    },
+    {
+        "id": "f000016",
+        "sentence": "促成野菜は、",
+        "sentence_with_furigana": "促成野菜は、",
+        "audio_begin": 57000,
+        "audio_end": 58600
+    },
+    {
+        "id": "f000017",
+        "sentence": "いわゆる旬のものにない味わいを持っている。",
+        "sentence_with_furigana": "いわゆる旬のものにない味わいを持っている。",
+        "audio_begin": 58600,
+        "audio_end": 64000
+    },
+    {
+        "id": "f000018",
+        "sentence": "従って、",
+        "sentence_with_furigana": "従って、",
+        "audio_begin": 64000,
+        "audio_end": 64840
+    },
+    {
+        "id": "f000019",
+        "sentence": "軽々に取り扱うのは考えものである。",
+        "sentence_with_furigana": "軽々に取り扱うのは考えものである。",
+        "audio_begin": 64840,
+        "audio_end": 71920
+    },
+    {
+        "id": "f000020",
+        "sentence": "昔は旬のきゅうりという一つのものであったが、",
+        "sentence_with_furigana": "昔は旬のきゅうりという一つのものであったが、",
+        "audio_begin": 71920,
+        "audio_end": 77087
+    },
+    {
+        "id": "f000021",
+        "sentence": "今日では促成野菜というものができて、",
+        "sentence_with_furigana": "今日では促成野菜というものができて、",
+        "audio_begin": 77087,
+        "audio_end": 81188
+    },
+    {
+        "id": "f000022",
+        "sentence": "きゅうりもなすも二種類になっているわけである。",
+        "sentence_with_furigana": "きゅうりもなすも二種類になっているわけである。",
+        "audio_begin": 81188,
+        "audio_end": 88160
+    },
+    {
+        "id": "f000023",
+        "sentence": "その他にも一が二になっている促成野菜というものは多種多様に発明されている。",
+        "sentence_with_furigana": "その他にも一が二になっている促成野菜というものは多種多様に発明されている。",
+        "audio_begin": 88160,
+        "audio_end": 98240
+    },
+    {
+        "id": "f000024",
+        "sentence": "従って促成と季節と楽しみは二つにふえているわけである。",
+        "sentence_with_furigana": "従って促成と季節と楽しみは二つにふえているわけである。",
+        "audio_begin": 98240,
+        "audio_end": 109008
+    },
+    {
+        "id": "f000025",
+        "sentence": "ところできゅうりはまっすぐなのがよく、",
+        "sentence_with_furigana": "ところできゅうりはまっすぐなのがよく、",
+        "audio_begin": 109008,
+        "audio_end": 113400
+    },
+    {
+        "id": "f000026",
+        "sentence": "ひょうたん形のものはまずい。",
+        "sentence_with_furigana": "ひょうたん形のものはまずい。",
+        "audio_begin": 113400,
+        "audio_end": 117520
+    },
+    {
+        "id": "f000027",
+        "sentence": "総じてよいきゅうりは形が平均している。",
+        "sentence_with_furigana": "総じてよいきゅうりは形が平均している。",
+        "audio_begin": 117520,
+        "audio_end": 123440
+    },
+    {
+        "id": "f000028",
+        "sentence": "真盛りになると、",
+        "sentence_with_furigana": "真盛りになると、",
+        "audio_begin": 123440,
+        "audio_end": 125320
+    },
+    {
+        "id": "f000029",
+        "sentence": "大きくなっても種がないうちはうまいが、",
+        "sentence_with_furigana": "大きくなっても種がないうちはうまいが、",
+        "audio_begin": 125320,
+        "audio_end": 128000
+    },
+    {
+        "id": "f000030",
+        "sentence": "種ができるように成長してしまっては落第である。",
+        "sentence_with_furigana": "種ができるように成長してしまっては落第である。",
+        "audio_begin": 128000,
+        "audio_end": 135920
+    },
+    {
+        "id": "f000031",
+        "sentence": "一般に、",
+        "sentence_with_furigana": "一般に、",
+        "audio_begin": 135920,
+        "audio_end": 137000
+    },
+    {
+        "id": "f000032",
+        "sentence": "温室など利用して作った小さなきゅうり、",
+        "sentence_with_furigana": "温室など利用して作った小さなきゅうり、",
+        "audio_begin": 137000,
+        "audio_end": 140880
+    },
+    {
+        "id": "f000033",
+        "sentence": "俗に初物と呼ぶような出たてのきゅうりで、",
+        "sentence_with_furigana": "俗に 初物[はつもの]と呼ぶような出たてのきゅうりで、",
+        "audio_begin": 140880,
+        "audio_end": 145360
+    },
+    {
+        "id": "f000034",
+        "sentence": "料理屋などで使うのは、",
+        "sentence_with_furigana": "料理屋などで使うのは、",
+        "audio_begin": 145360,
+        "audio_end": 146960
+    },
+    {
+        "id": "f000035",
+        "sentence": "小さなのがよい。",
+        "sentence_with_furigana": "小さなのがよい。",
+        "audio_begin": 146960,
+        "audio_end": 151902
+    },
+    {
+        "id": "f000036",
+        "sentence": "これは贅沢なシャレた食べ物の場合だが、",
+        "sentence_with_furigana": "これは贅沢なシャレた食べ物の場合だが、",
+        "audio_begin": 151902,
+        "audio_end": 155800
+    },
+    {
+        "id": "f000037",
+        "sentence": "いいきゅうりの漬けものを賞味しようと思ったら、",
+        "sentence_with_furigana": "いいきゅうりの漬けものを賞味しようと思ったら、",
+        "audio_begin": 155800,
+        "audio_end": 159200
+    },
+    {
+        "id": "f000038",
+        "sentence": "やはりあとさきの揃ったものを選ぶべきだ。",
+        "sentence_with_furigana": "やはりあとさきの 揃[そろ]ったものを選ぶべきだ。",
+        "audio_begin": 159200,
+        "audio_end": 165923
+    },
+    {
+        "id": "f000039",
+        "sentence": "漬けものの漬かり加減は非常にむずかしく、",
+        "sentence_with_furigana": "漬けものの漬かり加減は非常にむずかしく、",
+        "audio_begin": 165923,
+        "audio_end": 169608
+    },
+    {
+        "id": "f000040",
+        "sentence": "気候とぬかみそ漬けの置き場で、",
+        "sentence_with_furigana": "気候とぬかみそ漬けの置き場で、",
+        "audio_begin": 169608,
+        "audio_end": 172480
+    },
+    {
+        "id": "f000041",
+        "sentence": "漬かり方の速度に非常な差異ができるから、",
+        "sentence_with_furigana": "漬かり方の速度に非常な差異ができるから、",
+        "audio_begin": 172480,
+        "audio_end": 176840
+    },
+    {
+        "id": "f000042",
+        "sentence": "その点、",
+        "sentence_with_furigana": "その点、",
+        "audio_begin": 176840,
+        "audio_end": 177480
+    },
+    {
+        "id": "f000043",
+        "sentence": "注意深く心がける必要がある。",
+        "sentence_with_furigana": "注意深く心がける必要がある。",
+        "audio_begin": 177480,
+        "audio_end": 182465
+    },
+    {
+        "id": "f000044",
+        "sentence": "不精して漬け過ぎると、",
+        "sentence_with_furigana": "不精して漬け過ぎると、",
+        "audio_begin": 182465,
+        "audio_end": 184440
+    },
+    {
+        "id": "f000045",
+        "sentence": "きゅうりはすっぱくなるから、",
+        "sentence_with_furigana": "きゅうりはすっぱくなるから、",
+        "audio_begin": 184440,
+        "audio_end": 187160
+    },
+    {
+        "id": "f000046",
+        "sentence": "いい加減の時にぬかみそから取り出しておく。",
+        "sentence_with_furigana": "いい加減の時にぬかみそから取り出しておく。",
+        "audio_begin": 187160,
+        "audio_end": 192551
+    },
+    {
+        "id": "f000047",
+        "sentence": "取り出しておいても味は急に変わらない。",
+        "sentence_with_furigana": "取り出しておいても味は急に変わらない。",
+        "audio_begin": 192551,
+        "audio_end": 198200
+    },
+    {
+        "id": "f000048",
+        "sentence": "そのまま漬けておいたのでは酸っぱくなってしまう。",
+        "sentence_with_furigana": "そのまま漬けておいたのでは酸っぱくなってしまう。",
+        "audio_begin": 198200,
+        "audio_end": 204411
+    },
+    {
+        "id": "f000049",
+        "sentence": "ちょうどいいと思える時に取り出して、",
+        "sentence_with_furigana": "ちょうどいいと思える時に取り出して、",
+        "audio_begin": 204411,
+        "audio_end": 207520
+    },
+    {
+        "id": "f000050",
+        "sentence": "ぬかのついたまま包み、",
+        "sentence_with_furigana": "ぬかのついたまま包み、",
+        "audio_begin": 207520,
+        "audio_end": 209240
+    },
+    {
+        "id": "f000051",
+        "sentence": "冷たいところに置いておく。",
+        "sentence_with_furigana": "冷たいところに置いておく。",
+        "audio_begin": 209240,
+        "audio_end": 214760
+    },
+    {
+        "id": "f000052",
+        "sentence": "そうすれば二、",
+        "sentence_with_furigana": "そうすれば二、",
+        "audio_begin": 214760,
+        "audio_end": 215520
+    },
+    {
+        "id": "f000053",
+        "sentence": "三時間経ってもうまく食べられる。",
+        "sentence_with_furigana": "三時間 経[た]ってもうまく食べられる。",
+        "audio_begin": 215520,
+        "audio_end": 221600
+    },
+    {
+        "id": "f000054",
+        "sentence": "そのわけは塩が中まで浸潤していかないので味が変わらないからである。",
+        "sentence_with_furigana": "そのわけは塩が中まで浸潤していかないので味が変わらないからである。",
+        "audio_begin": 221600,
+        "audio_end": 231120
+    },
+    {
+        "id": "f000055",
+        "sentence": "そういったコツは、",
+        "sentence_with_furigana": "そういったコツは、",
+        "audio_begin": 231120,
+        "audio_end": 232600
+    },
+    {
+        "id": "f000056",
+        "sentence": "万人の苦労の集積から生み出されたものであろうが、",
+        "sentence_with_furigana": "万人の苦労の集積から生み出されたものであろうが、",
+        "audio_begin": 232600,
+        "audio_end": 236680
+    },
+    {
+        "id": "f000057",
+        "sentence": "そのコツを会得し、",
+        "sentence_with_furigana": "そのコツを会得し、",
+        "audio_begin": 236680,
+        "audio_end": 239000
+    },
+    {
+        "id": "f000058",
+        "sentence": "利用することはよいことである。",
+        "sentence_with_furigana": "利用することはよいことである。",
+        "audio_begin": 239000,
+        "audio_end": 243160
+    },
+    {
+        "id": "f000059",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 243160,
+        "audio_end": 244360
+    },
+    {
+        "id": "f000060",
+        "sentence": "なすの場合は出すと、",
+        "sentence_with_furigana": "なすの場合は出すと、",
+        "audio_begin": 244360,
+        "audio_end": 245840
+    },
+    {
+        "id": "f000061",
+        "sentence": "間もなく色が変わるからそういうわけにはいかない。",
+        "sentence_with_furigana": "間もなく色が変わるからそういうわけにはいかない。",
+        "audio_begin": 245840,
+        "audio_end": 251200
+    },
+    {
+        "id": "f000062",
+        "sentence": "出し置きの利かないなすは、",
+        "sentence_with_furigana": "出し置きの利かないなすは、",
+        "audio_begin": 251200,
+        "audio_end": 252760
+    },
+    {
+        "id": "f000063",
+        "sentence": "適当な時にぬかみそから出して食べることだ。",
+        "sentence_with_furigana": "適当な時にぬかみそから出して食べることだ。",
+        "audio_begin": 252760,
+        "audio_end": 257557
+    }
+]

@@ -2,226 +2,316 @@
     {
         "id": "f000001",
         "sentence": "小川未明　作",
-        "sentence_with_furigana": "小川未明　作"
+        "sentence_with_furigana": "小川未明　作",
+        "audio_begin": 15,
+        "audio_end": 5739
     },
     {
         "id": "f000002",
         "sentence": "おっぱい",
-        "sentence_with_furigana": "おっぱい"
+        "sentence_with_furigana": "おっぱい",
+        "audio_begin": 5739,
+        "audio_end": 9560
     },
     {
         "id": "f000003",
         "sentence": "赤ちゃんが、",
-        "sentence_with_furigana": "赤[あか]ちゃんが、"
+        "sentence_with_furigana": "赤[あか]ちゃんが、",
+        "audio_begin": 9560,
+        "audio_end": 10720
     },
     {
         "id": "f000004",
         "sentence": "おかあさんの　おっぱいを　すぱすぱと　のんで　いました。",
-        "sentence_with_furigana": "おかあさんの　おっぱいを　すぱすぱと　のんで　いました。"
+        "sentence_with_furigana": "おかあさんの　おっぱいを　すぱすぱと　のんで　いました。",
+        "audio_begin": 10720,
+        "audio_end": 17000
     },
     {
         "id": "f000005",
         "sentence": "そばで　みて　いた　つね子ちゃんは、",
-        "sentence_with_furigana": "そばで　みて　いた　つね 子[こ]ちゃんは、"
+        "sentence_with_furigana": "そばで　みて　いた　つね 子[こ]ちゃんは、",
+        "audio_begin": 17000,
+        "audio_end": 20280
     },
     {
         "id": "f000006",
         "sentence": "「おいしそうね。」",
-        "sentence_with_furigana": "「おいしそうね。」"
+        "sentence_with_furigana": "「おいしそうね。」",
+        "audio_begin": 20280,
+        "audio_end": 22114
     },
     {
         "id": "f000007",
         "sentence": "と　いいました。",
-        "sentence_with_furigana": "と　いいました。"
+        "sentence_with_furigana": "と　いいました。",
+        "audio_begin": 22114,
+        "audio_end": 25040
     },
     {
         "id": "f000008",
         "sentence": "「おまえも　こう　して　のんだのですよ。」",
-        "sentence_with_furigana": "「おまえも　こう　して　のんだのですよ。」"
+        "sentence_with_furigana": "「おまえも　こう　して　のんだのですよ。」",
+        "audio_begin": 25040,
+        "audio_end": 29109
     },
     {
         "id": "f000009",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 29109,
+        "audio_end": 29760
     },
     {
         "id": "f000010",
         "sentence": "おかあさんが　おっしゃいました。",
-        "sentence_with_furigana": "おかあさんが　おっしゃいました。"
+        "sentence_with_furigana": "おかあさんが　おっしゃいました。",
+        "audio_begin": 29760,
+        "audio_end": 32889
     },
     {
         "id": "f000011",
         "sentence": "つね子ちゃんは　きゅうに　おちちが　こいしく　なりました。",
-        "sentence_with_furigana": "つね 子[こ]ちゃんは　きゅうに　おちちが　こいしく　なりました。"
+        "sentence_with_furigana": "つね 子[こ]ちゃんは　きゅうに　おちちが　こいしく　なりました。",
+        "audio_begin": 32889,
+        "audio_end": 39080
     },
     {
         "id": "f000012",
         "sentence": "「あたしにも　のましてよ。」",
-        "sentence_with_furigana": "「あたしにも　のましてよ。」"
+        "sentence_with_furigana": "「あたしにも　のましてよ。」",
+        "audio_begin": 39080,
+        "audio_end": 41497
     },
     {
         "id": "f000013",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 41497,
+        "audio_end": 42480
     },
     {
         "id": "f000014",
         "sentence": "おかおを　だすと、",
-        "sentence_with_furigana": "おかおを　だすと、"
+        "sentence_with_furigana": "おかおを　だすと、",
+        "audio_begin": 42480,
+        "audio_end": 44200
     },
     {
         "id": "f000015",
         "sentence": "赤ちゃんが、",
-        "sentence_with_furigana": "赤[あか]ちゃんが、"
+        "sentence_with_furigana": "赤[あか]ちゃんが、",
+        "audio_begin": 44200,
+        "audio_end": 47640
     },
     {
         "id": "f000016",
         "sentence": "「ううん。」",
-        "sentence_with_furigana": "「ううん。」"
+        "sentence_with_furigana": "「ううん。」",
+        "audio_begin": 47640,
+        "audio_end": 48192
     },
     {
         "id": "f000017",
         "sentence": "と　いって、",
-        "sentence_with_furigana": "と　いって、"
+        "sentence_with_furigana": "と　いって、",
+        "audio_begin": 48188,
+        "audio_end": 48920
     },
     {
         "id": "f000018",
         "sentence": "おこりました。",
-        "sentence_with_furigana": "おこりました。"
+        "sentence_with_furigana": "おこりました。",
+        "audio_begin": 48920,
+        "audio_end": 51480
     },
     {
         "id": "f000019",
         "sentence": "「いじを　つついては　いけません。」",
-        "sentence_with_furigana": "「いじを　つついては　いけません。」"
+        "sentence_with_furigana": "「いじを　つついては　いけません。」",
+        "audio_begin": 51480,
+        "audio_end": 54748
     },
     {
         "id": "f000020",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 54748,
+        "audio_end": 55440
     },
     {
         "id": "f000021",
         "sentence": "おかあさんが　おっしゃいました。",
-        "sentence_with_furigana": "おかあさんが　おっしゃいました。"
+        "sentence_with_furigana": "おかあさんが　おっしゃいました。",
+        "audio_begin": 55440,
+        "audio_end": 58666
     },
     {
         "id": "f000022",
         "sentence": "「赤ちゃんの　いじわる。」",
-        "sentence_with_furigana": "「 赤[あか]ちゃんの　いじわる。」"
+        "sentence_with_furigana": "「 赤[あか]ちゃんの　いじわる。」",
+        "audio_begin": 58666,
+        "audio_end": 61952
     },
     {
         "id": "f000023",
         "sentence": "と　いって、",
-        "sentence_with_furigana": "と　いって、"
+        "sentence_with_furigana": "と　いって、",
+        "audio_begin": 61952,
+        "audio_end": 62920
     },
     {
         "id": "f000024",
         "sentence": "つね子ちゃんは　おもてへ　いきました。",
-        "sentence_with_furigana": "つね 子[こ]ちゃんは　おもてへ　いきました。"
+        "sentence_with_furigana": "つね 子[こ]ちゃんは　おもてへ　いきました。",
+        "audio_begin": 62920,
+        "audio_end": 68400
     },
     {
         "id": "f000025",
         "sentence": "おとなりの　よしおさんと　あそんで　いると、",
-        "sentence_with_furigana": "おとなりの　よしおさんと　あそんで　いると、"
+        "sentence_with_furigana": "おとなりの　よしおさんと　あそんで　いると、",
+        "audio_begin": 68400,
+        "audio_end": 71080
     },
     {
         "id": "f000026",
         "sentence": "かぜが　ふいて　きて、",
-        "sentence_with_furigana": "かぜが　ふいて　きて、"
+        "sentence_with_furigana": "かぜが　ふいて　きて、",
+        "audio_begin": 71080,
+        "audio_end": 73640
     },
     {
         "id": "f000027",
         "sentence": "ごみが　お目目に　はいりました。",
-        "sentence_with_furigana": "ごみが　お 目目[めめ]に　はいりました。"
+        "sentence_with_furigana": "ごみが　お 目目[めめ]に　はいりました。",
+        "audio_begin": 73640,
+        "audio_end": 77600
     },
     {
         "id": "f000028",
         "sentence": "「ぼくが　とって　あげよう。」",
-        "sentence_with_furigana": "「ぼくが　とって　あげよう。」"
+        "sentence_with_furigana": "「ぼくが　とって　あげよう。」",
+        "audio_begin": 77600,
+        "audio_end": 79080
     },
     {
         "id": "f000029",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 79080,
+        "audio_end": 80280
     },
     {
         "id": "f000030",
         "sentence": "よしおさんが　とろうと　しましたが、",
-        "sentence_with_furigana": "よしおさんが　とろうと　しましたが、"
+        "sentence_with_furigana": "よしおさんが　とろうと　しましたが、",
+        "audio_begin": 80280,
+        "audio_end": 83626
     },
     {
         "id": "f000031",
         "sentence": "とれません。",
-        "sentence_with_furigana": "とれません。"
+        "sentence_with_furigana": "とれません。",
+        "audio_begin": 83626,
+        "audio_end": 86495
     },
     {
         "id": "f000032",
         "sentence": "よしおさんが、",
-        "sentence_with_furigana": "よしおさんが、"
+        "sentence_with_furigana": "よしおさんが、",
+        "audio_begin": 86495,
+        "audio_end": 87880
     },
     {
         "id": "f000033",
         "sentence": "つね子ちゃんを　おうちへ　つれて　きて　あげました。",
-        "sentence_with_furigana": "つね 子[こ]ちゃんを　おうちへ　つれて　きて　あげました。"
+        "sentence_with_furigana": "つね 子[こ]ちゃんを　おうちへ　つれて　きて　あげました。",
+        "audio_begin": 87880,
+        "audio_end": 92560
     },
     {
         "id": "f000034",
         "sentence": "おかあさんは、",
-        "sentence_with_furigana": "おかあさんは、"
+        "sentence_with_furigana": "おかあさんは、",
+        "audio_begin": 92560,
+        "audio_end": 94200
     },
     {
         "id": "f000035",
         "sentence": "「よしおさん、",
-        "sentence_with_furigana": "「よしおさん、"
+        "sentence_with_furigana": "「よしおさん、",
+        "audio_begin": 94200,
+        "audio_end": 95720
     },
     {
         "id": "f000036",
         "sentence": "ありがとう。」",
-        "sentence_with_furigana": "ありがとう。」"
+        "sentence_with_furigana": "ありがとう。」",
+        "audio_begin": 95720,
+        "audio_end": 96520
     },
     {
         "id": "f000037",
         "sentence": "と　おっしゃいました。",
-        "sentence_with_furigana": "と　おっしゃいました。"
+        "sentence_with_furigana": "と　おっしゃいました。",
+        "audio_begin": 96520,
+        "audio_end": 99962
     },
     {
         "id": "f000038",
         "sentence": "つね子ちゃんは　よく　お目目を　あらいました。",
-        "sentence_with_furigana": "つね 子[こ]ちゃんは　よく　お 目目[めめ]を　あらいました。"
+        "sentence_with_furigana": "つね 子[こ]ちゃんは　よく　お 目目[めめ]を　あらいました。",
+        "audio_begin": 99962,
+        "audio_end": 105360
     },
     {
         "id": "f000039",
         "sentence": "「おちちを　さして　あげましょう。」",
-        "sentence_with_furigana": "「おちちを　さして　あげましょう。」"
+        "sentence_with_furigana": "「おちちを　さして　あげましょう。」",
+        "audio_begin": 105360,
+        "audio_end": 108694
     },
     {
         "id": "f000040",
         "sentence": "つね子ちゃんは　おかあさんに　だかれて、",
-        "sentence_with_furigana": "つね 子[こ]ちゃんは　おかあさんに　だかれて、"
+        "sentence_with_furigana": "つね 子[こ]ちゃんは　おかあさんに　だかれて、",
+        "audio_begin": 108694,
+        "audio_end": 112560
     },
     {
         "id": "f000041",
         "sentence": "おっぱいを　たらたらと　お目目に　いれて　いただきました。",
-        "sentence_with_furigana": "おっぱいを　たらたらと　お 目目[めめ]に　いれて　いただきました。"
+        "sentence_with_furigana": "おっぱいを　たらたらと　お 目目[めめ]に　いれて　いただきました。",
+        "audio_begin": 112560,
+        "audio_end": 118800
     },
     {
         "id": "f000042",
         "sentence": "「もう、",
-        "sentence_with_furigana": "「もう、"
+        "sentence_with_furigana": "「もう、",
+        "audio_begin": 118800,
+        "audio_end": 119080
     },
     {
         "id": "f000043",
         "sentence": "よく　なった？」",
-        "sentence_with_furigana": "よく　なった？」"
+        "sentence_with_furigana": "よく　なった？」",
+        "audio_begin": 119080,
+        "audio_end": 121158
     },
     {
         "id": "f000044",
         "sentence": "と　きいて、",
-        "sentence_with_furigana": "と　きいて、"
+        "sentence_with_furigana": "と　きいて、",
+        "audio_begin": 121158,
+        "audio_end": 122600
     },
     {
         "id": "f000045",
         "sentence": "そばで　みて　いた　よしおさんも　おっぱいを　こいしそうに　ながめて　いました。",
-        "sentence_with_furigana": "そばで　みて　いた　よしおさんも　おっぱいを　こいしそうに　ながめて　いました。"
+        "sentence_with_furigana": "そばで　みて　いた　よしおさんも　おっぱいを　こいしそうに　ながめて　いました。",
+        "audio_begin": 122600,
+        "audio_end": 132040
     }
 ]

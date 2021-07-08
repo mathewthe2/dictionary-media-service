@@ -1,0 +1,4209 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "エドガー・アラン・ポー　Edgar Allan Poe　作",
+        "sentence_with_furigana": "エドガー・アラン・ポー　Edgar Allan Poe　作",
+        "audio_begin": 2528,
+        "audio_end": 4941
+    },
+    {
+        "id": "f000002",
+        "sentence": "佐々木直次郎 訳",
+        "sentence_with_furigana": "佐々木直次郎 訳",
+        "audio_begin": 4941,
+        "audio_end": 7890
+    },
+    {
+        "id": "f000003",
+        "sentence": "黒猫",
+        "sentence_with_furigana": "黒猫",
+        "audio_begin": 7890,
+        "audio_end": 12760
+    },
+    {
+        "id": "f000004",
+        "sentence": "私がこれから書こうとしているきわめて奇怪な、",
+        "sentence_with_furigana": "私がこれから書こうとしているきわめて奇怪な、",
+        "audio_begin": 12760,
+        "audio_end": 17400
+    },
+    {
+        "id": "f000005",
+        "sentence": "またきわめて素朴な物語については、",
+        "sentence_with_furigana": "またきわめて 素朴[そぼく]な物語については、",
+        "audio_begin": 17400,
+        "audio_end": 21000
+    },
+    {
+        "id": "f000006",
+        "sentence": "自分はそれを信じてもらえるとも思わないし、",
+        "sentence_with_furigana": "自分はそれを信じてもらえるとも思わないし、",
+        "audio_begin": 21000,
+        "audio_end": 24200
+    },
+    {
+        "id": "f000007",
+        "sentence": "そう願いもしない。",
+        "sentence_with_furigana": "そう願いもしない。",
+        "audio_begin": 24200,
+        "audio_end": 25400
+    },
+    {
+        "id": "f000008",
+        "sentence": "自分の感覚でさえが自分の経験したことを信じないような場合に、",
+        "sentence_with_furigana": "自分の感覚でさえが自分の経験したことを信じないような場合に、",
+        "audio_begin": 27100,
+        "audio_end": 31680
+    },
+    {
+        "id": "f000009",
+        "sentence": "他人に信じてもらおうなどと期待するのは、",
+        "sentence_with_furigana": "他人に信じてもらおうなどと期待するのは、",
+        "audio_begin": 31680,
+        "audio_end": 35600
+    },
+    {
+        "id": "f000010",
+        "sentence": "ほんとに正気の沙汰とは言えないと思う。",
+        "sentence_with_furigana": "ほんとに正気の 沙汰[さた]とは言えないと思う。",
+        "audio_begin": 35600,
+        "audio_end": 39520
+    },
+    {
+        "id": "f000011",
+        "sentence": "だが、",
+        "sentence_with_furigana": "だが、",
+        "audio_begin": 39520,
+        "audio_end": 40960
+    },
+    {
+        "id": "f000012",
+        "sentence": "私は正気を失っている訳ではなく、──",
+        "sentence_with_furigana": "私は正気を失っている訳ではなく、──",
+        "audio_begin": 40960,
+        "audio_end": 45400
+    },
+    {
+        "id": "f000013",
+        "sentence": "また決して夢みているのでもない。",
+        "sentence_with_furigana": "また決して夢みているのでもない。",
+        "audio_begin": 45400,
+        "audio_end": 49720
+    },
+    {
+        "id": "f000014",
+        "sentence": "しかしあす私は死ぬべき身だ。",
+        "sentence_with_furigana": "しかしあす私は死ぬべき身だ。",
+        "audio_begin": 49720,
+        "audio_end": 53400
+    },
+    {
+        "id": "f000015",
+        "sentence": "で、今日のうちに自分の魂の重荷をおろしておきたいのだ。",
+        "sentence_with_furigana": "で、今日のうちに自分の魂の重荷をおろしておきたいのだ。",
+        "audio_begin": 53400,
+        "audio_end": 58200
+    },
+    {
+        "id": "f000016",
+        "sentence": "私の第一の目的は、",
+        "sentence_with_furigana": "私の第一の目的は、",
+        "audio_begin": 61000,
+        "audio_end": 63520
+    },
+    {
+        "id": "f000017",
+        "sentence": "一連の単なる家庭の出来事を、",
+        "sentence_with_furigana": "一連の単なる家庭の出来事を、",
+        "audio_begin": 63520,
+        "audio_end": 66200
+    },
+    {
+        "id": "f000018",
+        "sentence": "はっきりと、",
+        "sentence_with_furigana": "はっきりと、",
+        "audio_begin": 66200,
+        "audio_end": 66960
+    },
+    {
+        "id": "f000019",
+        "sentence": "簡潔に、",
+        "sentence_with_furigana": "簡潔に、",
+        "audio_begin": 66960,
+        "audio_end": 68120
+    },
+    {
+        "id": "f000020",
+        "sentence": "注釈ぬきで、",
+        "sentence_with_furigana": "注釈ぬきで、",
+        "audio_begin": 68120,
+        "audio_end": 69840
+    },
+    {
+        "id": "f000021",
+        "sentence": "世の人々に示すことである。",
+        "sentence_with_furigana": "世の人々に示すことである。",
+        "audio_begin": 69840,
+        "audio_end": 73560
+    },
+    {
+        "id": "f000022",
+        "sentence": "それらの出来事は、",
+        "sentence_with_furigana": "それらの出来事は、",
+        "audio_begin": 73560,
+        "audio_end": 75040
+    },
+    {
+        "id": "f000023",
+        "sentence": "その結果として、",
+        "sentence_with_furigana": "その結果として、",
+        "audio_begin": 75040,
+        "audio_end": 76600
+    },
+    {
+        "id": "f000024",
+        "sentence": "私を恐れさせ──",
+        "sentence_with_furigana": "私を恐れさせ──",
+        "audio_begin": 76600,
+        "audio_end": 78978
+    },
+    {
+        "id": "f000025",
+        "sentence": "苦しめ──",
+        "sentence_with_furigana": "苦しめ──",
+        "audio_begin": 78978,
+        "audio_end": 81000
+    },
+    {
+        "id": "f000026",
+        "sentence": "そして破滅させた。",
+        "sentence_with_furigana": "そして破滅させた。",
+        "audio_begin": 81000,
+        "audio_end": 84040
+    },
+    {
+        "id": "f000027",
+        "sentence": "だが私はそれをくどくどと説明しようとは思わない。",
+        "sentence_with_furigana": "だが私はそれをくどくどと説明しようとは思わない。",
+        "audio_begin": 84040,
+        "audio_end": 89440
+    },
+    {
+        "id": "f000028",
+        "sentence": "私にはそれはただもう恐怖だけを感じさせた。──",
+        "sentence_with_furigana": "私にはそれはただもう恐怖だけを感じさせた。──",
+        "audio_begin": 89440,
+        "audio_end": 97040
+    },
+    {
+        "id": "f000029",
+        "sentence": "多くの人々には恐ろしいというよりも怪奇なものに見えるであろう。",
+        "sentence_with_furigana": "多くの人々には恐ろしいというよりも 怪奇[バロック]なものに見えるであろう。",
+        "audio_begin": 97040,
+        "audio_end": 102965
+    },
+    {
+        "id": "f000030",
+        "sentence": "今後、",
+        "sentence_with_furigana": "今後、",
+        "audio_begin": 102965,
+        "audio_end": 104120
+    },
+    {
+        "id": "f000031",
+        "sentence": "あるいは、",
+        "sentence_with_furigana": "あるいは、",
+        "audio_begin": 104120,
+        "audio_end": 105000
+    },
+    {
+        "id": "f000032",
+        "sentence": "誰か知者があらわれてきて、",
+        "sentence_with_furigana": "誰か知者があらわれてきて、",
+        "audio_begin": 105000,
+        "audio_end": 107637
+    },
+    {
+        "id": "f000033",
+        "sentence": "私の幻想を単なる平凡なことにしてしまうかもしれぬ。──",
+        "sentence_with_furigana": "私の幻想を単なる平凡なことにしてしまうかもしれぬ。──",
+        "audio_begin": 107637,
+        "audio_end": 113920
+    },
+    {
+        "id": "f000034",
+        "sentence": "誰か私などよりももっと冷静な、",
+        "sentence_with_furigana": "誰か私などよりももっと冷静な、",
+        "audio_begin": 113920,
+        "audio_end": 118160
+    },
+    {
+        "id": "f000035",
+        "sentence": "もっと論理的な、",
+        "sentence_with_furigana": "もっと論理的な、",
+        "audio_begin": 118160,
+        "audio_end": 120160
+    },
+    {
+        "id": "f000036",
+        "sentence": "もっとずっと興奮しやすくない知性人が、",
+        "sentence_with_furigana": "もっとずっと興奮しやすくない知性人が、",
+        "audio_begin": 120160,
+        "audio_end": 124240
+    },
+    {
+        "id": "f000037",
+        "sentence": "私が畏怖をもって述べる事がらのなかに、",
+        "sentence_with_furigana": "私が 畏怖[いふ]をもって述べる事がらのなかに、",
+        "audio_begin": 124240,
+        "audio_end": 127602
+    },
+    {
+        "id": "f000038",
+        "sentence": "ごく自然な原因結果の普通の連続以上のものを認めないようになるであろう。",
+        "sentence_with_furigana": "ごく自然な原因結果の普通の連続以上のものを認めないようになるであろう。",
+        "audio_begin": 127602,
+        "audio_end": 133880
+    },
+    {
+        "id": "f000039",
+        "sentence": "子供のころから私はおとなしくて情けぶかい性質で知られていた。",
+        "sentence_with_furigana": "子供のころから私はおとなしくて情けぶかい性質で知られていた。",
+        "audio_begin": 138080,
+        "audio_end": 144680
+    },
+    {
+        "id": "f000040",
+        "sentence": "私の心の優しさは仲間たちにからかわれるくらいにきわだっていた。",
+        "sentence_with_furigana": "私の心の優しさは仲間たちにからかわれるくらいにきわだっていた。",
+        "audio_begin": 144680,
+        "audio_end": 149920
+    },
+    {
+        "id": "f000041",
+        "sentence": "とりわけ動物が好きで、",
+        "sentence_with_furigana": "とりわけ動物が好きで、",
+        "audio_begin": 151520,
+        "audio_end": 153600
+    },
+    {
+        "id": "f000042",
+        "sentence": "両親もさまざまな生きものを私の思いどおりに飼ってくれた。",
+        "sentence_with_furigana": "両親もさまざまな生きものを私の思いどおりに飼ってくれた。",
+        "audio_begin": 153600,
+        "audio_end": 158420
+    },
+    {
+        "id": "f000043",
+        "sentence": "私はたいていそれらの生きものを相手にして時を過し、",
+        "sentence_with_furigana": "私はたいていそれらの生きものを相手にして時を過し、",
+        "audio_begin": 160520,
+        "audio_end": 166240
+    },
+    {
+        "id": "f000044",
+        "sentence": "それらに食物をやったり、",
+        "sentence_with_furigana": "それらに食物をやったり、",
+        "audio_begin": 166240,
+        "audio_end": 168560
+    },
+    {
+        "id": "f000045",
+        "sentence": "それらを愛撫したりするときほど楽しいことはなかった。",
+        "sentence_with_furigana": "それらを 愛撫[あいぶ]したりするときほど楽しいことはなかった。",
+        "audio_begin": 168560,
+        "audio_end": 174646
+    },
+    {
+        "id": "f000046",
+        "sentence": "この特質は成長するとともにだんだん強くなり、",
+        "sentence_with_furigana": "この特質は成長するとともにだんだん強くなり、",
+        "audio_begin": 174646,
+        "audio_end": 180120
+    },
+    {
+        "id": "f000047",
+        "sentence": "大人になってからは自分の主な楽しみの源泉の一つとなったのであった。",
+        "sentence_with_furigana": "大人になってからは自分の主な楽しみの源泉の一つとなったのであった。",
+        "audio_begin": 180120,
+        "audio_end": 185360
+    },
+    {
+        "id": "f000048",
+        "sentence": "忠実な利口な犬をかわいがったことのある人には、",
+        "sentence_with_furigana": "忠実な利口な犬をかわいがったことのある人には、",
+        "audio_begin": 188160,
+        "audio_end": 192160
+    },
+    {
+        "id": "f000049",
+        "sentence": "そのような愉快さの性質や強さをわざわざ説明する必要はほとんどない。",
+        "sentence_with_furigana": "そのような愉快さの性質や強さをわざわざ説明する必要はほとんどない。",
+        "audio_begin": 192160,
+        "audio_end": 200080
+    },
+    {
+        "id": "f000050",
+        "sentence": "動物の非利己的な自己犠牲的な愛のなかには、",
+        "sentence_with_furigana": "動物の非利己的な自己犠牲的な愛のなかには、",
+        "audio_begin": 200080,
+        "audio_end": 204608
+    },
+    {
+        "id": "f000051",
+        "sentence": "単なる人間のさもしい友情や薄っぺらな信義をしばしば嘗めたことのある人の心をじかに打つなにものかがある。",
+        "sentence_with_furigana": "単なる人間のさもしい友情や薄っぺらな信義をしばしば 嘗[な]めたことのある人の心をじかに打つなにものかがある。",
+        "audio_begin": 204608,
+        "audio_end": 214200
+    },
+    {
+        "id": "f000052",
+        "sentence": "私は若いころ結婚したが、",
+        "sentence_with_furigana": "私は若いころ結婚したが、",
+        "audio_begin": 217800,
+        "audio_end": 220599
+    },
+    {
+        "id": "f000053",
+        "sentence": "幸いなことに妻は私と性の合う気質だった。",
+        "sentence_with_furigana": "幸いなことに妻は私と性の合う気質だった。",
+        "audio_begin": 220599,
+        "audio_end": 226360
+    },
+    {
+        "id": "f000054",
+        "sentence": "私が家庭的な生きものを好きなのに気がつくと、",
+        "sentence_with_furigana": "私が家庭的な生きものを好きなのに気がつくと、",
+        "audio_begin": 226360,
+        "audio_end": 230423
+    },
+    {
+        "id": "f000055",
+        "sentence": "彼女はおりさえあればとても気持のいい種類の生きものを手に入れた。",
+        "sentence_with_furigana": "彼女はおりさえあればとても気持のいい種類の生きものを手に入れた。",
+        "audio_begin": 230423,
+        "audio_end": 236920
+    },
+    {
+        "id": "f000056",
+        "sentence": "私たちは鳥類や、",
+        "sentence_with_furigana": "私たちは鳥類や、",
+        "audio_begin": 236920,
+        "audio_end": 238880
+    },
+    {
+        "id": "f000057",
+        "sentence": "金魚や、",
+        "sentence_with_furigana": "金魚や、",
+        "audio_begin": 238880,
+        "audio_end": 240600
+    },
+    {
+        "id": "f000058",
+        "sentence": "一匹の立派な犬や、",
+        "sentence_with_furigana": "一匹の立派な犬や、",
+        "audio_begin": 240600,
+        "audio_end": 242400
+    },
+    {
+        "id": "f000059",
+        "sentence": "兎や、",
+        "sentence_with_furigana": "兎[うさぎ]や、",
+        "audio_begin": 242400,
+        "audio_end": 243760
+    },
+    {
+        "id": "f000060",
+        "sentence": "一匹の小猿や、",
+        "sentence_with_furigana": "一匹の 小猿[こざる]や、",
+        "audio_begin": 243760,
+        "audio_end": 246000
+    },
+    {
+        "id": "f000061",
+        "sentence": "一匹の猫などを飼った。",
+        "sentence_with_furigana": "一匹の猫などを飼った。",
+        "audio_begin": 246000,
+        "audio_end": 247880
+    },
+    {
+        "id": "f000062",
+        "sentence": "この最後のものは非常に大きな美しい動物で、",
+        "sentence_with_furigana": "この最後のものは非常に大きな美しい動物で、",
+        "audio_begin": 250180,
+        "audio_end": 254764
+    },
+    {
+        "id": "f000063",
+        "sentence": "体じゅう黒く、",
+        "sentence_with_furigana": "体じゅう黒く、",
+        "audio_begin": 254764,
+        "audio_end": 256468
+    },
+    {
+        "id": "f000064",
+        "sentence": "驚くほどに利口だった。",
+        "sentence_with_furigana": "驚くほどに利口だった。",
+        "audio_begin": 256468,
+        "audio_end": 258240
+    },
+    {
+        "id": "f000065",
+        "sentence": "この猫の知恵のあることを話すときには、",
+        "sentence_with_furigana": "この猫の知恵のあることを話すときには、",
+        "audio_begin": 260240,
+        "audio_end": 263679
+    },
+    {
+        "id": "f000066",
+        "sentence": "心ではかなり迷信にかぶれていた妻は、",
+        "sentence_with_furigana": "心ではかなり迷信にかぶれていた妻は、",
+        "audio_begin": 263679,
+        "audio_end": 267566
+    },
+    {
+        "id": "f000067",
+        "sentence": "黒猫というものがみんな魔女が姿を変えたものだという、",
+        "sentence_with_furigana": "黒猫というものがみんな魔女が姿を変えたものだという、",
+        "audio_begin": 267566,
+        "audio_end": 272360
+    },
+    {
+        "id": "f000068",
+        "sentence": "あの昔からの世間の言いつたえを、",
+        "sentence_with_furigana": "あの昔からの世間の言いつたえを、",
+        "audio_begin": 272360,
+        "audio_end": 275000
+    },
+    {
+        "id": "f000069",
+        "sentence": "よく口にしたものだった。",
+        "sentence_with_furigana": "よく口にしたものだった。",
+        "audio_begin": 275000,
+        "audio_end": 278280
+    },
+    {
+        "id": "f000070",
+        "sentence": "もっとも、",
+        "sentence_with_furigana": "もっとも、",
+        "audio_begin": 278280,
+        "audio_end": 279240
+    },
+    {
+        "id": "f000071",
+        "sentence": "彼女だっていつでもこんなことを本気で考えていたというのではなく、──",
+        "sentence_with_furigana": "彼女だっていつでもこんなことを本気で考えていたというのではなく、──",
+        "audio_begin": 279240,
+        "audio_end": 286560
+    },
+    {
+        "id": "f000072",
+        "sentence": "私がこの事がらを述べるのはただ、",
+        "sentence_with_furigana": "私がこの事がらを述べるのはただ、",
+        "audio_begin": 286560,
+        "audio_end": 290069
+    },
+    {
+        "id": "f000073",
+        "sentence": "ちょうどいまふと思い出したからにすぎない。",
+        "sentence_with_furigana": "ちょうどいまふと思い出したからにすぎない。",
+        "audio_begin": 290069,
+        "audio_end": 293520
+    },
+    {
+        "id": "f000074",
+        "sentence": "プルートォ（１）──",
+        "sentence_with_furigana": "プルートォ（１）──",
+        "audio_begin": 297120,
+        "audio_end": 298830
+    },
+    {
+        "id": "f000075",
+        "sentence": "というのがその猫の名であった──",
+        "sentence_with_furigana": "というのがその猫の名であった──",
+        "audio_begin": 298830,
+        "audio_end": 302800
+    },
+    {
+        "id": "f000076",
+        "sentence": "は私の気に入りであり、",
+        "sentence_with_furigana": "は私の気に入りであり、",
+        "audio_begin": 302800,
+        "audio_end": 305360
+    },
+    {
+        "id": "f000077",
+        "sentence": "遊び仲間であった。",
+        "sentence_with_furigana": "遊び仲間であった。",
+        "audio_begin": 305360,
+        "audio_end": 307060
+    },
+    {
+        "id": "f000078",
+        "sentence": "食物をやるのはいつも私だけだったし、",
+        "sentence_with_furigana": "食物をやるのはいつも私だけだったし、",
+        "audio_begin": 309160,
+        "audio_end": 313059
+    },
+    {
+        "id": "f000079",
+        "sentence": "彼は家じゅう私の行くところへどこへでも一緒に来た。",
+        "sentence_with_furigana": "彼は家じゅう私の行くところへどこへでも一緒に来た。",
+        "audio_begin": 313059,
+        "audio_end": 318699
+    },
+    {
+        "id": "f000080",
+        "sentence": "往来へまでついて来ないようにするのには、",
+        "sentence_with_furigana": "往来へまでついて来ないようにするのには、",
+        "audio_begin": 318699,
+        "audio_end": 321680
+    },
+    {
+        "id": "f000081",
+        "sentence": "かなり骨が折れるくらいであった。",
+        "sentence_with_furigana": "かなり骨が折れるくらいであった。",
+        "audio_begin": 321680,
+        "audio_end": 327720
+    },
+    {
+        "id": "f000082",
+        "sentence": "私と猫との親しみはこんなぐあいにして数年間つづいたが、",
+        "sentence_with_furigana": "私と猫との親しみはこんなぐあいにして数年間つづいたが、",
+        "audio_begin": 327720,
+        "audio_end": 333733
+    },
+    {
+        "id": "f000083",
+        "sentence": "そのあいだに私の気質や性格は一般に──",
+        "sentence_with_furigana": "そのあいだに私の気質や性格は一般に──",
+        "audio_begin": 333733,
+        "audio_end": 339152
+    },
+    {
+        "id": "f000084",
+        "sentence": "酒癖という悪鬼のために──",
+        "sentence_with_furigana": "酒癖という悪鬼のために──",
+        "audio_begin": 339152,
+        "audio_end": 341699
+    },
+    {
+        "id": "f000085",
+        "sentence": "急激に悪いほうへ（白状するのも恥ずかしいが）変ってしまった。",
+        "sentence_with_furigana": "急激に悪いほうへ（白状するのも恥ずかしいが）変ってしまった。",
+        "audio_begin": 343120,
+        "audio_end": 352600
+    },
+    {
+        "id": "f000086",
+        "sentence": "私は一日一日と気むずかしくなり、",
+        "sentence_with_furigana": "私は一日一日と気むずかしくなり、",
+        "audio_begin": 352600,
+        "audio_end": 357125
+    },
+    {
+        "id": "f000087",
+        "sentence": "癇癪もちになり、",
+        "sentence_with_furigana": "癇癪[かんしゃく]もちになり、",
+        "audio_begin": 357125,
+        "audio_end": 359289
+    },
+    {
+        "id": "f000088",
+        "sentence": "他人の感情などちっともかまわなくなってしまった。",
+        "sentence_with_furigana": "他人の感情などちっともかまわなくなってしまった。",
+        "audio_begin": 359289,
+        "audio_end": 362600
+    },
+    {
+        "id": "f000089",
+        "sentence": "妻に対しては乱暴な言葉を使うようになった。",
+        "sentence_with_furigana": "妻に対しては乱暴な言葉を使うようになった。",
+        "audio_begin": 364400,
+        "audio_end": 369280
+    },
+    {
+        "id": "f000090",
+        "sentence": "しまいには彼女の体に手を振り上げるまでになった。",
+        "sentence_with_furigana": "しまいには彼女の体に手を振り上げるまでになった。",
+        "audio_begin": 369280,
+        "audio_end": 373160
+    },
+    {
+        "id": "f000091",
+        "sentence": "飼っていた生きものも、",
+        "sentence_with_furigana": "飼っていた生きものも、",
+        "audio_begin": 375060,
+        "audio_end": 376600
+    },
+    {
+        "id": "f000092",
+        "sentence": "もちろん、",
+        "sentence_with_furigana": "もちろん、",
+        "audio_begin": 376600,
+        "audio_end": 377840
+    },
+    {
+        "id": "f000093",
+        "sentence": "その私の性質の変化を感じさせられた。",
+        "sentence_with_furigana": "その私の性質の変化を感じさせられた。",
+        "audio_begin": 377840,
+        "audio_end": 383320
+    },
+    {
+        "id": "f000094",
+        "sentence": "私は彼らをかまわなくなっただけではなく、",
+        "sentence_with_furigana": "私は彼らをかまわなくなっただけではなく、",
+        "audio_begin": 383320,
+        "audio_end": 387440
+    },
+    {
+        "id": "f000095",
+        "sentence": "虐待した。",
+        "sentence_with_furigana": "虐待[ぎゃくたい]した。",
+        "audio_begin": 387440,
+        "audio_end": 389404
+    },
+    {
+        "id": "f000096",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 389404,
+        "audio_end": 390760
+    },
+    {
+        "id": "f000097",
+        "sentence": "兎や、猿や、",
+        "sentence_with_furigana": "兎や、猿や、",
+        "audio_begin": 390760,
+        "audio_end": 393200
+    },
+    {
+        "id": "f000098",
+        "sentence": "あるいは犬でさえも、",
+        "sentence_with_furigana": "あるいは犬でさえも、",
+        "audio_begin": 393200,
+        "audio_end": 395160
+    },
+    {
+        "id": "f000099",
+        "sentence": "なにげなく、",
+        "sentence_with_furigana": "なにげなく、",
+        "audio_begin": 395160,
+        "audio_end": 396520
+    },
+    {
+        "id": "f000100",
+        "sentence": "または私を慕って、",
+        "sentence_with_furigana": "または私を慕って、",
+        "audio_begin": 396520,
+        "audio_end": 398280
+    },
+    {
+        "id": "f000101",
+        "sentence": "そばへやって来ると、",
+        "sentence_with_furigana": "そばへやって来ると、",
+        "audio_begin": 398280,
+        "audio_end": 400440
+    },
+    {
+        "id": "f000102",
+        "sentence": "遠慮なしにいじめてやったものだったのだが、",
+        "sentence_with_furigana": "遠慮なしにいじめてやったものだったのだが、",
+        "audio_begin": 400440,
+        "audio_end": 404284
+    },
+    {
+        "id": "f000103",
+        "sentence": "プルートォをいじめないでおくだけの心づかいはまだあった。",
+        "sentence_with_furigana": "プルートォをいじめないでおくだけの心づかいはまだあった。",
+        "audio_begin": 404284,
+        "audio_end": 409880
+    },
+    {
+        "id": "f000104",
+        "sentence": "しかし私の病気はつのってきて──",
+        "sentence_with_furigana": "しかし私の病気はつのってきて──",
+        "audio_begin": 409880,
+        "audio_end": 413840
+    },
+    {
+        "id": "f000105",
+        "sentence": "ああ、アルコールのような恐ろしい病気が他にあろうか！──",
+        "sentence_with_furigana": "ああ、アルコールのような恐ろしい病気が他にあろうか！──",
+        "audio_begin": 413840,
+        "audio_end": 418560
+    },
+    {
+        "id": "f000106",
+        "sentence": "ついにはプルートォでさえ──",
+        "sentence_with_furigana": "ついにはプルートォでさえ──",
+        "audio_begin": 420560,
+        "audio_end": 424480
+    },
+    {
+        "id": "f000107",
+        "sentence": "いまでは年をとって、",
+        "sentence_with_furigana": "いまでは年をとって、",
+        "audio_begin": 424480,
+        "audio_end": 425880
+    },
+    {
+        "id": "f000108",
+        "sentence": "したがっていくらか怒りっぽくなっているプルートォでさえ、",
+        "sentence_with_furigana": "したがっていくらか怒りっぽくなっているプルートォでさえ、",
+        "audio_begin": 425880,
+        "audio_end": 431680
+    },
+    {
+        "id": "f000109",
+        "sentence": "私の不機嫌のとばっちりをうけるようになった。",
+        "sentence_with_furigana": "私の 不機嫌[ふきげん]のとばっちりをうけるようになった。",
+        "audio_begin": 431680,
+        "audio_end": 438800
+    },
+    {
+        "id": "f000110",
+        "sentence": "ある夜、",
+        "sentence_with_furigana": "ある夜、",
+        "audio_begin": 438800,
+        "audio_end": 440120
+    },
+    {
+        "id": "f000111",
+        "sentence": "町のそちこちにある自分の行きつけの酒場の一つからひどく酔っぱらって帰って来ると、",
+        "sentence_with_furigana": "町のそちこちにある自分の行きつけの酒場の一つからひどく酔っぱらって帰って来ると、",
+        "audio_begin": 440120,
+        "audio_end": 447480
+    },
+    {
+        "id": "f000112",
+        "sentence": "その猫がなんだか私の前を避けたような気がした。",
+        "sentence_with_furigana": "その猫がなんだか私の前を避けたような気がした。",
+        "audio_begin": 447480,
+        "audio_end": 453480
+    },
+    {
+        "id": "f000113",
+        "sentence": "私は彼をひっとらえた。",
+        "sentence_with_furigana": "私は彼をひっとらえた。",
+        "audio_begin": 453480,
+        "audio_end": 456202
+    },
+    {
+        "id": "f000114",
+        "sentence": "そのとき彼は私の手荒さにびっくりして、",
+        "sentence_with_furigana": "そのとき彼は私の手荒さにびっくりして、",
+        "audio_begin": 456202,
+        "audio_end": 460360
+    },
+    {
+        "id": "f000115",
+        "sentence": "歯で私の手にちょっとした傷をつけた。と、",
+        "sentence_with_furigana": "歯で私の手にちょっとした傷をつけた。と、",
+        "audio_begin": 460360,
+        "audio_end": 465232
+    },
+    {
+        "id": "f000116",
+        "sentence": "たちまち悪魔のような憤怒が私にのりうつった。",
+        "sentence_with_furigana": "たちまち悪魔のような 憤怒[ふんぬ]が私にのりうつった。",
+        "audio_begin": 465232,
+        "audio_end": 469880
+    },
+    {
+        "id": "f000117",
+        "sentence": "私は我を忘れてしまった。",
+        "sentence_with_furigana": "私は我を忘れてしまった。",
+        "audio_begin": 469880,
+        "audio_end": 473560
+    },
+    {
+        "id": "f000118",
+        "sentence": "生来のやさしい魂はすぐに私の体から飛び去ったようであった。",
+        "sentence_with_furigana": "生来のやさしい魂はすぐに私の体から飛び去ったようであった。",
+        "audio_begin": 473560,
+        "audio_end": 480760
+    },
+    {
+        "id": "f000119",
+        "sentence": "そしてジン酒におだてられた悪鬼以上の憎悪が体のあらゆる筋肉をぶるぶる震わせた。",
+        "sentence_with_furigana": "そしてジン酒におだてられた悪鬼以上の 憎悪[ぞうお]が体のあらゆる筋肉をぶるぶる震わせた。",
+        "audio_begin": 480760,
+        "audio_end": 488780
+    },
+    {
+        "id": "f000120",
+        "sentence": "私はチョッキのポケットからペンナイフを取り出し、",
+        "sentence_with_furigana": "私はチョッキのポケットからペンナイフを取り出し、",
+        "audio_begin": 490880,
+        "audio_end": 494760
+    },
+    {
+        "id": "f000121",
+        "sentence": "それを開き、",
+        "sentence_with_furigana": "それを開き、",
+        "audio_begin": 494760,
+        "audio_end": 496800
+    },
+    {
+        "id": "f000122",
+        "sentence": "そのかわいそうな動物の咽喉をつかむと、",
+        "sentence_with_furigana": "そのかわいそうな動物の 咽喉[のど]をつかむと、",
+        "audio_begin": 496800,
+        "audio_end": 500160
+    },
+    {
+        "id": "f000123",
+        "sentence": "悠々とその眼窩から片眼をえぐり取った。",
+        "sentence_with_furigana": "悠々[ゆうゆう]とその 眼窩[がんか]から 片眼[かため]をえぐり取った。",
+        "audio_begin": 500160,
+        "audio_end": 503920
+    },
+    {
+        "id": "f000124",
+        "sentence": "この憎むべき凶行をしるしながら、",
+        "sentence_with_furigana": "この憎むべき凶行をしるしながら、",
+        "audio_begin": 505820,
+        "audio_end": 509520
+    },
+    {
+        "id": "f000125",
+        "sentence": "私は面をあからめ、",
+        "sentence_with_furigana": "私は 面[おもて]をあからめ、",
+        "audio_begin": 509520,
+        "audio_end": 511800
+    },
+    {
+        "id": "f000126",
+        "sentence": "体がほてり、",
+        "sentence_with_furigana": "体がほてり、",
+        "audio_begin": 511800,
+        "audio_end": 513720
+    },
+    {
+        "id": "f000127",
+        "sentence": "身ぶるいする。",
+        "sentence_with_furigana": "身ぶるいする。",
+        "audio_begin": 513720,
+        "audio_end": 515539
+    },
+    {
+        "id": "f000128",
+        "sentence": "朝になって理性が戻ってきたとき──",
+        "sentence_with_furigana": "朝になって理性が戻ってきたとき──",
+        "audio_begin": 520039,
+        "audio_end": 524039
+    },
+    {
+        "id": "f000129",
+        "sentence": "一晩眠って前夜の乱行の毒気が消えてしまったとき──",
+        "sentence_with_furigana": "一晩眠って前夜の乱行の毒気が消えてしまったとき──",
+        "audio_begin": 524039,
+        "audio_end": 530480
+    },
+    {
+        "id": "f000130",
+        "sentence": "自分の犯した罪にたいしてなかば恐怖の、",
+        "sentence_with_furigana": "自分の犯した罪にたいしてなかば恐怖の、",
+        "audio_begin": 530480,
+        "audio_end": 535040
+    },
+    {
+        "id": "f000131",
+        "sentence": "なかば悔恨の情を感じた。",
+        "sentence_with_furigana": "なかば悔恨の情を感じた。",
+        "audio_begin": 535040,
+        "audio_end": 538197
+    },
+    {
+        "id": "f000132",
+        "sentence": "が、それもせいぜい弱い曖昧な感情で、",
+        "sentence_with_furigana": "が、それもせいぜい弱い 曖昧[あいまい]な感情で、",
+        "audio_begin": 538197,
+        "audio_end": 543004
+    },
+    {
+        "id": "f000133",
+        "sentence": "心まで動かされはしなかった。",
+        "sentence_with_furigana": "心まで動かされはしなかった。",
+        "audio_begin": 543004,
+        "audio_end": 545300
+    },
+    {
+        "id": "f000134",
+        "sentence": "私はふたたび無節制になって、",
+        "sentence_with_furigana": "私はふたたび無節制になって、",
+        "audio_begin": 547400,
+        "audio_end": 550400
+    },
+    {
+        "id": "f000135",
+        "sentence": "間もなくその行為のすべての記憶を酒にまぎらしてしまった。",
+        "sentence_with_furigana": "間もなくその行為のすべての記憶を酒にまぎらしてしまった。",
+        "audio_begin": 550400,
+        "audio_end": 555240
+    },
+    {
+        "id": "f000136",
+        "sentence": "そのうちに猫はいくらかずつ回復してきた。",
+        "sentence_with_furigana": "そのうちに猫はいくらかずつ回復してきた。",
+        "audio_begin": 559640,
+        "audio_end": 563700
+    },
+    {
+        "id": "f000137",
+        "sentence": "眼のなくなった眼窩はいかにも恐ろしい様子をしてはいたが、",
+        "sentence_with_furigana": "眼のなくなった眼窩はいかにも恐ろしい様子をしてはいたが、",
+        "audio_begin": 565800,
+        "audio_end": 571320
+    },
+    {
+        "id": "f000138",
+        "sentence": "もう痛みは少しもないようだった。",
+        "sentence_with_furigana": "もう痛みは少しもないようだった。",
+        "audio_begin": 571320,
+        "audio_end": 573760
+    },
+    {
+        "id": "f000139",
+        "sentence": "彼はもとどおりに家のなかを歩きまわっていたけれども、",
+        "sentence_with_furigana": "彼はもとどおりに家のなかを歩きまわっていたけれども、",
+        "audio_begin": 576360,
+        "audio_end": 581480
+    },
+    {
+        "id": "f000140",
+        "sentence": "当りまえのことであろうが私が近づくとひどく恐ろしがって逃げて行くのだった。",
+        "sentence_with_furigana": "当りまえのことであろうが私が近づくとひどく恐ろしがって逃げて行くのだった。",
+        "audio_begin": 581480,
+        "audio_end": 590280
+    },
+    {
+        "id": "f000141",
+        "sentence": "私は、前にあんなに自分を慕っていた動物が",
+        "sentence_with_furigana": "私は、前にあんなに自分を慕っていた動物が",
+        "audio_begin": 590280,
+        "audio_end": 594760
+    },
+    {
+        "id": "f000142",
+        "sentence": "こんなに明らかに自分を嫌うようになったことを、",
+        "sentence_with_furigana": "こんなに明らかに自分を 嫌[きら]うようになったことを、",
+        "audio_begin": 594760,
+        "audio_end": 598840
+    },
+    {
+        "id": "f000143",
+        "sentence": "初めは悲しく思うくらいに、",
+        "sentence_with_furigana": "初めは悲しく思うくらいに、",
+        "audio_begin": 598840,
+        "audio_end": 601400
+    },
+    {
+        "id": "f000144",
+        "sentence": "昔の心が残っていた。",
+        "sentence_with_furigana": "昔の心が残っていた。",
+        "audio_begin": 601400,
+        "audio_end": 605440
+    },
+    {
+        "id": "f000145",
+        "sentence": "しかしこの感情もやがて癇癪に変っていった。",
+        "sentence_with_furigana": "しかしこの感情もやがて癇癪に変っていった。",
+        "audio_begin": 605440,
+        "audio_end": 610680
+    },
+    {
+        "id": "f000146",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 610680,
+        "audio_end": 611880
+    },
+    {
+        "id": "f000147",
+        "sentence": "まるで私を最後の取りかえしのつかない破滅に陥らせるためのように、",
+        "sentence_with_furigana": "まるで私を最後の取りかえしのつかない破滅に陥らせるためのように、",
+        "audio_begin": 611880,
+        "audio_end": 617840
+    },
+    {
+        "id": "f000148",
+        "sentence": "天邪鬼の心持がやってきた。",
+        "sentence_with_furigana": "天邪鬼の心持がやってきた。",
+        "audio_begin": 617840,
+        "audio_end": 620120
+    },
+    {
+        "id": "f000149",
+        "sentence": "この心持を哲学は少しも認めてはいない。",
+        "sentence_with_furigana": "この心持を哲学は少しも認めてはいない。",
+        "audio_begin": 621820,
+        "audio_end": 626674
+    },
+    {
+        "id": "f000150",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 626674,
+        "audio_end": 628040
+    },
+    {
+        "id": "f000151",
+        "sentence": "私は、自分の魂が生きているということと同じくらいに、",
+        "sentence_with_furigana": "私は、自分の魂が生きているということと同じくらいに、",
+        "audio_begin": 628040,
+        "audio_end": 633680
+    },
+    {
+        "id": "f000152",
+        "sentence": "天邪鬼が人間の心の原始的な衝動の一つ──",
+        "sentence_with_furigana": "天邪鬼[あまのじゃく]が人間の心の原始的な衝動の一つ──",
+        "audio_begin": 633680,
+        "audio_end": 639840
+    },
+    {
+        "id": "f000153",
+        "sentence": "人の性格に命令する、",
+        "sentence_with_furigana": "人の性格に命令する、",
+        "audio_begin": 639840,
+        "audio_end": 642240
+    },
+    {
+        "id": "f000154",
+        "sentence": "分つことのできない本源的な性能もしくは感情の一つ──",
+        "sentence_with_furigana": "分つことのできない本源的な性能もしくは感情の一つ──",
+        "audio_begin": 642240,
+        "audio_end": 649080
+    },
+    {
+        "id": "f000155",
+        "sentence": "であるということを確信している。",
+        "sentence_with_furigana": "であるということを確信している。",
+        "audio_begin": 649080,
+        "audio_end": 653400
+    },
+    {
+        "id": "f000156",
+        "sentence": "してはいけないという、",
+        "sentence_with_furigana": "してはいけないという、",
+        "audio_begin": 653400,
+        "audio_end": 654960
+    },
+    {
+        "id": "f000157",
+        "sentence": "ただそれだけの理由で、",
+        "sentence_with_furigana": "ただそれだけの理由で、",
+        "audio_begin": 654960,
+        "audio_end": 657162
+    },
+    {
+        "id": "f000158",
+        "sentence": "自分が邪悪な、",
+        "sentence_with_furigana": "自分が邪悪な、",
+        "audio_begin": 657162,
+        "audio_end": 659080
+    },
+    {
+        "id": "f000159",
+        "sentence": "あるいは愚かな行為をしていることに、",
+        "sentence_with_furigana": "あるいは愚かな行為をしていることに、",
+        "audio_begin": 659080,
+        "audio_end": 662080
+    },
+    {
+        "id": "f000160",
+        "sentence": "人はどんなにかしばしば気づいたことであろう。",
+        "sentence_with_furigana": "人はどんなにかしばしば気づいたことであろう。",
+        "audio_begin": 662080,
+        "audio_end": 667006
+    },
+    {
+        "id": "f000161",
+        "sentence": "人は、掟を、",
+        "sentence_with_furigana": "人は、掟を、",
+        "audio_begin": 667006,
+        "audio_end": 669658
+    },
+    {
+        "id": "f000162",
+        "sentence": "単にそれが掟であると知っているだけのために、",
+        "sentence_with_furigana": "単にそれが 掟[おきて]であると知っているだけのために、",
+        "audio_begin": 669658,
+        "audio_end": 673600
+    },
+    {
+        "id": "f000163",
+        "sentence": "その最善の判断に逆らってまでも、",
+        "sentence_with_furigana": "その最善の判断に逆らってまでも、",
+        "audio_begin": 673600,
+        "audio_end": 676800
+    },
+    {
+        "id": "f000164",
+        "sentence": "その掟を破ろうとする永続的な性向を、",
+        "sentence_with_furigana": "その掟を破ろうとする永続的な性向を、",
+        "audio_begin": 676800,
+        "audio_end": 680880
+    },
+    {
+        "id": "f000165",
+        "sentence": "持っていはしないだろうか？",
+        "sentence_with_furigana": "持っていはしないだろうか？",
+        "audio_begin": 680880,
+        "audio_end": 682640
+    },
+    {
+        "id": "f000166",
+        "sentence": "この天邪鬼の心持がいま言ったように、",
+        "sentence_with_furigana": "この天邪鬼の心持がいま言ったように、",
+        "audio_begin": 684640,
+        "audio_end": 688520
+    },
+    {
+        "id": "f000167",
+        "sentence": "私の最後の破滅を来たしたのであった。",
+        "sentence_with_furigana": "私の最後の破滅を来たしたのであった。",
+        "audio_begin": 688520,
+        "audio_end": 693880
+    },
+    {
+        "id": "f000168",
+        "sentence": "なんの罪もない動物に対して自分の加えた傷害をなおもつづけさせ、",
+        "sentence_with_furigana": "なんの罪もない動物に対して自分の加えた傷害をなおもつづけさせ、",
+        "audio_begin": 693880,
+        "audio_end": 700778
+    },
+    {
+        "id": "f000169",
+        "sentence": "とうとう仕遂げさせるように私をせっついたのは、",
+        "sentence_with_furigana": "とうとう仕遂げさせるように私をせっついたのは、",
+        "audio_begin": 700778,
+        "audio_end": 704733
+    },
+    {
+        "id": "f000170",
+        "sentence": "魂の自らを苦しめようとする──",
+        "sentence_with_furigana": "魂の自らを苦しめようとする──",
+        "audio_begin": 704733,
+        "audio_end": 708802
+    },
+    {
+        "id": "f000171",
+        "sentence": "それ自身の本性に暴虐を加えようとする──",
+        "sentence_with_furigana": "それ自身の本性に暴虐を加えようとする──",
+        "audio_begin": 708802,
+        "audio_end": 714920
+    },
+    {
+        "id": "f000172",
+        "sentence": "悪のためにのみ悪をしようとする、",
+        "sentence_with_furigana": "悪のためにのみ悪をしようとする、",
+        "audio_begin": 714920,
+        "audio_end": 718550
+    },
+    {
+        "id": "f000173",
+        "sentence": "この不可解な切望であったのだ。",
+        "sentence_with_furigana": "この不可解な切望であったのだ。",
+        "audio_begin": 718550,
+        "audio_end": 725840
+    },
+    {
+        "id": "f000174",
+        "sentence": "ある朝、冷然と、",
+        "sentence_with_furigana": "ある朝、冷然と、",
+        "audio_begin": 725840,
+        "audio_end": 728720
+    },
+    {
+        "id": "f000175",
+        "sentence": "私は猫の首に輪索をはめて、",
+        "sentence_with_furigana": "私は猫の首に 輪索[わなわ]をはめて、",
+        "audio_begin": 728720,
+        "audio_end": 732040
+    },
+    {
+        "id": "f000176",
+        "sentence": "一本の木の枝につるした。──",
+        "sentence_with_furigana": "一本の木の枝につるした。──",
+        "audio_begin": 732040,
+        "audio_end": 734320
+    },
+    {
+        "id": "f000177",
+        "sentence": "眼から涙を流しながら、",
+        "sentence_with_furigana": "眼から涙を流しながら、",
+        "audio_begin": 737920,
+        "audio_end": 740947
+    },
+    {
+        "id": "f000178",
+        "sentence": "心に痛切な悔恨を感じながら、",
+        "sentence_with_furigana": "心に痛切な悔恨を感じながら、",
+        "audio_begin": 740947,
+        "audio_end": 743840
+    },
+    {
+        "id": "f000179",
+        "sentence": "つるした。──",
+        "sentence_with_furigana": "つるした。──",
+        "audio_begin": 743840,
+        "audio_end": 748240
+    },
+    {
+        "id": "f000180",
+        "sentence": "その猫が私を慕っていたということを知っていればこそ、",
+        "sentence_with_furigana": "その猫が私を慕っていたということを知っていればこそ、",
+        "audio_begin": 748240,
+        "audio_end": 754440
+    },
+    {
+        "id": "f000181",
+        "sentence": "猫が私を怒らせるようなことはなに一つしなかったということを感じていればこそ、",
+        "sentence_with_furigana": "猫が私を怒らせるようなことはなに一つしなかったということを感じていればこそ、",
+        "audio_begin": 754440,
+        "audio_end": 761314
+    },
+    {
+        "id": "f000182",
+        "sentence": "つるしたのだ。──",
+        "sentence_with_furigana": "つるしたのだ。──",
+        "audio_begin": 761314,
+        "audio_end": 762520
+    },
+    {
+        "id": "f000183",
+        "sentence": "そうすれば自分は罪を犯すのだ、──",
+        "sentence_with_furigana": "そうすれば自分は罪を犯すのだ、──",
+        "audio_begin": 765320,
+        "audio_end": 768240
+    },
+    {
+        "id": "f000184",
+        "sentence": "自分の不滅の魂をいとも慈悲ぶかく、",
+        "sentence_with_furigana": "自分の不滅の魂をいとも慈悲ぶかく、",
+        "audio_begin": 771040,
+        "audio_end": 775880
+    },
+    {
+        "id": "f000185",
+        "sentence": "いとも畏るべき神の無限の慈悲の及ばない彼方へ置く──",
+        "sentence_with_furigana": "いとも 畏[おそ]るべき神の無限の慈悲の及ばない 彼方[かなた]へ置く──",
+        "audio_begin": 775880,
+        "audio_end": 783160
+    },
+    {
+        "id": "f000186",
+        "sentence": "もしそういうことがありうるなら──",
+        "sentence_with_furigana": "もしそういうことがありうるなら──",
+        "audio_begin": 783160,
+        "audio_end": 785540
+    },
+    {
+        "id": "f000187",
+        "sentence": "ほどにも危うくするような極悪罪を犯すのだ、",
+        "sentence_with_furigana": "ほどにも危うくするような極悪罪を犯すのだ、",
+        "audio_begin": 787640,
+        "audio_end": 792329
+    },
+    {
+        "id": "f000188",
+        "sentence": "ということを知っていればこそ、",
+        "sentence_with_furigana": "ということを知っていればこそ、",
+        "audio_begin": 792329,
+        "audio_end": 794771
+    },
+    {
+        "id": "f000189",
+        "sentence": "つるしたのだった。",
+        "sentence_with_furigana": "つるしたのだった。",
+        "audio_begin": 794771,
+        "audio_end": 795960
+    },
+    {
+        "id": "f000190",
+        "sentence": "この残酷な行為をやった日の晩、",
+        "sentence_with_furigana": "この残酷な行為をやった日の晩、",
+        "audio_begin": 800060,
+        "audio_end": 803760
+    },
+    {
+        "id": "f000191",
+        "sentence": "私は火事だという叫び声で眠りから覚まされた。",
+        "sentence_with_furigana": "私は火事だという叫び声で眠りから覚まされた。",
+        "audio_begin": 803760,
+        "audio_end": 810600
+    },
+    {
+        "id": "f000192",
+        "sentence": "私の寝台のカーテンに火がついていた。",
+        "sentence_with_furigana": "私の寝台のカーテンに火がついていた。",
+        "audio_begin": 810600,
+        "audio_end": 814960
+    },
+    {
+        "id": "f000193",
+        "sentence": "家全体が燃え上がっていた。",
+        "sentence_with_furigana": "家全体が燃え上がっていた。",
+        "audio_begin": 814960,
+        "audio_end": 818288
+    },
+    {
+        "id": "f000194",
+        "sentence": "妻と、",
+        "sentence_with_furigana": "妻と、",
+        "audio_begin": 818288,
+        "audio_end": 819440
+    },
+    {
+        "id": "f000195",
+        "sentence": "召使と、",
+        "sentence_with_furigana": "召使と、",
+        "audio_begin": 819440,
+        "audio_end": 820600
+    },
+    {
+        "id": "f000196",
+        "sentence": "私自身とは、",
+        "sentence_with_furigana": "私自身とは、",
+        "audio_begin": 820600,
+        "audio_end": 822040
+    },
+    {
+        "id": "f000197",
+        "sentence": "やっとのことでその火災からのがれた。",
+        "sentence_with_furigana": "やっとのことでその火災からのがれた。",
+        "audio_begin": 822040,
+        "audio_end": 827760
+    },
+    {
+        "id": "f000198",
+        "sentence": "なにもかも焼けてしまった。",
+        "sentence_with_furigana": "なにもかも焼けてしまった。",
+        "audio_begin": 827760,
+        "audio_end": 829820
+    },
+    {
+        "id": "f000199",
+        "sentence": "私の全財産はなくなり、",
+        "sentence_with_furigana": "私の全財産はなくなり、",
+        "audio_begin": 831920,
+        "audio_end": 834880
+    },
+    {
+        "id": "f000200",
+        "sentence": "それ以来私は絶望に身をまかせてしまった。",
+        "sentence_with_furigana": "それ以来私は絶望に身をまかせてしまった。",
+        "audio_begin": 834880,
+        "audio_end": 839800
+    },
+    {
+        "id": "f000201",
+        "sentence": "この災難とあの凶行とのあいだに因果関係をつけようとするほど、",
+        "sentence_with_furigana": "この災難とあの凶行とのあいだに因果関係をつけようとするほど、",
+        "audio_begin": 844600,
+        "audio_end": 850920
+    },
+    {
+        "id": "f000202",
+        "sentence": "私は心の弱い者ではない。",
+        "sentence_with_furigana": "私は心の弱い者ではない。",
+        "audio_begin": 850920,
+        "audio_end": 854720
+    },
+    {
+        "id": "f000203",
+        "sentence": "しかし私は事実のつながりを詳しく述べているのであって、──",
+        "sentence_with_furigana": "しかし私は事実のつながりを詳しく述べているのであって、──",
+        "audio_begin": 854720,
+        "audio_end": 862720
+    },
+    {
+        "id": "f000204",
+        "sentence": "一つの鐶でも不完全にしておきたくないのである。",
+        "sentence_with_furigana": "一つの 鐶[かん]でも不完全にしておきたくないのである。",
+        "audio_begin": 862720,
+        "audio_end": 866480
+    },
+    {
+        "id": "f000205",
+        "sentence": "火事のつぎの日、",
+        "sentence_with_furigana": "火事のつぎの日、",
+        "audio_begin": 870980,
+        "audio_end": 872920
+    },
+    {
+        "id": "f000206",
+        "sentence": "私は焼跡へ行ってみた。",
+        "sentence_with_furigana": "私は焼跡へ行ってみた。",
+        "audio_begin": 872920,
+        "audio_end": 874800
+    },
+    {
+        "id": "f000207",
+        "sentence": "壁は、一カ所だけをのぞいて、",
+        "sentence_with_furigana": "壁は、一カ所だけをのぞいて、",
+        "audio_begin": 876500,
+        "audio_end": 878520
+    },
+    {
+        "id": "f000208",
+        "sentence": "みんな焼け落ちていた。",
+        "sentence_with_furigana": "みんな焼け落ちていた。",
+        "audio_begin": 878520,
+        "audio_end": 879920
+    },
+    {
+        "id": "f000209",
+        "sentence": "この一カ所というのは、",
+        "sentence_with_furigana": "この一カ所というのは、",
+        "audio_begin": 881620,
+        "audio_end": 883600
+    },
+    {
+        "id": "f000210",
+        "sentence": "家の真ん中あたりにある、",
+        "sentence_with_furigana": "家の真ん中あたりにある、",
+        "audio_begin": 883600,
+        "audio_end": 885785
+    },
+    {
+        "id": "f000211",
+        "sentence": "私の寝台の頭板に向っていた、",
+        "sentence_with_furigana": "私の寝台の頭板に向っていた、",
+        "audio_begin": 885785,
+        "audio_end": 889120
+    },
+    {
+        "id": "f000212",
+        "sentence": "あまり厚くない仕切壁のところであった。",
+        "sentence_with_furigana": "あまり厚くない仕切壁のところであった。",
+        "audio_begin": 889120,
+        "audio_end": 892080
+    },
+    {
+        "id": "f000213",
+        "sentence": "ここの漆喰だけはだいたい火の力に耐えていたが、──",
+        "sentence_with_furigana": "ここの 漆喰[しっくい]だけはだいたい火の力に耐えていたが、──",
+        "audio_begin": 893880,
+        "audio_end": 897800
+    },
+    {
+        "id": "f000214",
+        "sentence": "この事実を私は最近そこを塗り換えたからだろうと思った。",
+        "sentence_with_furigana": "この事実を私は最近そこを塗り換えたからだろうと思った。",
+        "audio_begin": 900000,
+        "audio_end": 905160
+    },
+    {
+        "id": "f000215",
+        "sentence": "この壁のまわりに真っ黒に人がたかっていて、",
+        "sentence_with_furigana": "この壁のまわりに真っ黒に人がたかっていて、",
+        "audio_begin": 907460,
+        "audio_end": 911840
+    },
+    {
+        "id": "f000216",
+        "sentence": "多くの人々がその一部分を綿密な熱心な注意をもって調べているようだった。",
+        "sentence_with_furigana": "多くの人々がその一部分を綿密な熱心な注意をもって調べているようだった。",
+        "audio_begin": 911840,
+        "audio_end": 919041
+    },
+    {
+        "id": "f000217",
+        "sentence": "「妙だな！」",
+        "sentence_with_furigana": "「妙だな！」",
+        "audio_begin": 920640,
+        "audio_end": 922363
+    },
+    {
+        "id": "f000218",
+        "sentence": "「不思議だね？」という言葉や、",
+        "sentence_with_furigana": "「不思議だね？」という言葉や、",
+        "audio_begin": 922363,
+        "audio_end": 925920
+    },
+    {
+        "id": "f000219",
+        "sentence": "その他それに似たような文句が、",
+        "sentence_with_furigana": "その他それに似たような文句が、",
+        "audio_begin": 925920,
+        "audio_end": 928880
+    },
+    {
+        "id": "f000220",
+        "sentence": "私の好奇心をそそった。",
+        "sentence_with_furigana": "私の好奇心をそそった。",
+        "audio_begin": 928880,
+        "audio_end": 932920
+    },
+    {
+        "id": "f000221",
+        "sentence": "近づいてみると、",
+        "sentence_with_furigana": "近づいてみると、",
+        "audio_begin": 932920,
+        "audio_end": 934560
+    },
+    {
+        "id": "f000222",
+        "sentence": "その白い表面に薄肉彫りに彫ったかのように、",
+        "sentence_with_furigana": "その白い表面に薄肉彫りに彫ったかのように、",
+        "audio_begin": 934560,
+        "audio_end": 939216
+    },
+    {
+        "id": "f000223",
+        "sentence": "巨大な猫の姿が見えた。",
+        "sentence_with_furigana": "巨大な猫の姿が見えた。",
+        "audio_begin": 939216,
+        "audio_end": 941360
+    },
+    {
+        "id": "f000224",
+        "sentence": "その痕はまったく驚くほど正確にあらわれていた。",
+        "sentence_with_furigana": "その 痕[あと]はまったく驚くほど正確にあらわれていた。",
+        "audio_begin": 943360,
+        "audio_end": 949800
+    },
+    {
+        "id": "f000225",
+        "sentence": "その動物の首のまわりには縄があった。",
+        "sentence_with_furigana": "その動物の首のまわりには 縄[なわ]があった。",
+        "audio_begin": 949800,
+        "audio_end": 954160
+    },
+    {
+        "id": "f000226",
+        "sentence": "最初この妖怪──",
+        "sentence_with_furigana": "最初この 妖怪[ようかい]──",
+        "audio_begin": 957687,
+        "audio_end": 960617
+    },
+    {
+        "id": "f000227",
+        "sentence": "というのは私にはそれ以外のものとは思えなかったからだが──",
+        "sentence_with_furigana": "というのは私にはそれ以外のものとは思えなかったからだが──",
+        "audio_begin": 960617,
+        "audio_end": 967360
+    },
+    {
+        "id": "f000228",
+        "sentence": "を見たとき、",
+        "sentence_with_furigana": "を見たとき、",
+        "audio_begin": 967360,
+        "audio_end": 969800
+    },
+    {
+        "id": "f000229",
+        "sentence": "私の驚愕と恐怖とは非常なものだった。",
+        "sentence_with_furigana": "私の 驚愕[きょうがく]と恐怖とは非常なものだった。",
+        "audio_begin": 969800,
+        "audio_end": 975520
+    },
+    {
+        "id": "f000230",
+        "sentence": "しかしあれこれと考えてみてやっと気が安まった。",
+        "sentence_with_furigana": "しかしあれこれと考えてみてやっと気が安まった。",
+        "audio_begin": 975520,
+        "audio_end": 981960
+    },
+    {
+        "id": "f000231",
+        "sentence": "猫が家につづいている庭につるしてあったことを私は思い出した。",
+        "sentence_with_furigana": "猫が家につづいている庭につるしてあったことを私は思い出した。",
+        "audio_begin": 981960,
+        "audio_end": 987840
+    },
+    {
+        "id": "f000232",
+        "sentence": "火事の警報が伝わると、",
+        "sentence_with_furigana": "火事の警報が伝わると、",
+        "audio_begin": 990240,
+        "audio_end": 992618
+    },
+    {
+        "id": "f000233",
+        "sentence": "この庭はすぐに大勢の人でいっぱいになり、──",
+        "sentence_with_furigana": "この庭はすぐに大勢の人でいっぱいになり、──",
+        "audio_begin": 992618,
+        "audio_end": 995880
+    },
+    {
+        "id": "f000234",
+        "sentence": "そのなかの誰かが猫を木から切りはなして、",
+        "sentence_with_furigana": "そのなかの誰かが猫を木から切りはなして、",
+        "audio_begin": 998180,
+        "audio_end": 1002600
+    },
+    {
+        "id": "f000235",
+        "sentence": "開いていた窓から私の部屋のなかへ投げこんだものにちがいない。",
+        "sentence_with_furigana": "開いていた窓から私の部屋のなかへ投げこんだものにちがいない。",
+        "audio_begin": 1002600,
+        "audio_end": 1006920
+    },
+    {
+        "id": "f000236",
+        "sentence": "これはきっと私の寝ているのを起すためにやったものだろう。",
+        "sentence_with_furigana": "これはきっと私の寝ているのを起すためにやったものだろう。",
+        "audio_begin": 1008720,
+        "audio_end": 1014400
+    },
+    {
+        "id": "f000237",
+        "sentence": "そこへ他の壁が落ちかかって、",
+        "sentence_with_furigana": "そこへ他の壁が落ちかかって、",
+        "audio_begin": 1014400,
+        "audio_end": 1016960
+    },
+    {
+        "id": "f000238",
+        "sentence": "私の残虐の犠牲者を、",
+        "sentence_with_furigana": "私の残虐の犠牲者を、",
+        "audio_begin": 1016960,
+        "audio_end": 1019640
+    },
+    {
+        "id": "f000239",
+        "sentence": "その塗りたての漆喰の壁のなかへ押しつけ、",
+        "sentence_with_furigana": "その塗りたての漆喰の壁のなかへ押しつけ、",
+        "audio_begin": 1019640,
+        "audio_end": 1023640
+    },
+    {
+        "id": "f000240",
+        "sentence": "そうして、",
+        "sentence_with_furigana": "そうして、",
+        "audio_begin": 1023640,
+        "audio_end": 1025079
+    },
+    {
+        "id": "f000241",
+        "sentence": "その漆喰の石灰と、",
+        "sentence_with_furigana": "その漆喰の石灰と、",
+        "audio_begin": 1025079,
+        "audio_end": 1027549
+    },
+    {
+        "id": "f000242",
+        "sentence": "火炎と、",
+        "sentence_with_furigana": "火炎と、",
+        "audio_begin": 1027549,
+        "audio_end": 1028890
+    },
+    {
+        "id": "f000243",
+        "sentence": "死骸から出たアンモニアとで、",
+        "sentence_with_furigana": "死骸[しがい]から出たアンモニアとで、",
+        "audio_begin": 1028890,
+        "audio_end": 1031675
+    },
+    {
+        "id": "f000244",
+        "sentence": "自分の見たような像ができあがったのだ。",
+        "sentence_with_furigana": "自分の見たような像ができあがったのだ。",
+        "audio_begin": 1031675,
+        "audio_end": 1034760
+    },
+    {
+        "id": "f000245",
+        "sentence": "いま述べた驚くべき事実を、",
+        "sentence_with_furigana": "いま述べた驚くべき事実を、",
+        "audio_begin": 1038359,
+        "audio_end": 1041560
+    },
+    {
+        "id": "f000246",
+        "sentence": "自分の良心にたいしてはぜんぜんできなかったとしても、",
+        "sentence_with_furigana": "自分の良心にたいしてはぜんぜんできなかったとしても、",
+        "audio_begin": 1041560,
+        "audio_end": 1046319
+    },
+    {
+        "id": "f000247",
+        "sentence": "理性にたいしてはこんなにたやすく説明したのであるが、",
+        "sentence_with_furigana": "理性にたいしてはこんなにたやすく説明したのであるが、",
+        "audio_begin": 1046319,
+        "audio_end": 1051760
+    },
+    {
+        "id": "f000248",
+        "sentence": "それでも、",
+        "sentence_with_furigana": "それでも、",
+        "audio_begin": 1051760,
+        "audio_end": 1053400
+    },
+    {
+        "id": "f000249",
+        "sentence": "それが私の想像に深い印象を与えたことに変りはなかった。",
+        "sentence_with_furigana": "それが私の想像に深い印象を与えたことに変りはなかった。",
+        "audio_begin": 1053400,
+        "audio_end": 1063480
+    },
+    {
+        "id": "f000250",
+        "sentence": "幾月ものあいだ私はその猫の幻像を払いのけることができなかった。",
+        "sentence_with_furigana": "幾月ものあいだ私はその猫の幻像を払いのけることができなかった。",
+        "audio_begin": 1063480,
+        "audio_end": 1070240
+    },
+    {
+        "id": "f000251",
+        "sentence": "そしてそのあいだ、",
+        "sentence_with_furigana": "そしてそのあいだ、",
+        "audio_begin": 1071840,
+        "audio_end": 1074048
+    },
+    {
+        "id": "f000252",
+        "sentence": "悔恨に似ているがそうではないある漠然とした感情が、",
+        "sentence_with_furigana": "悔恨に似ているがそうではないある 漠然[ばくぜん]とした感情が、",
+        "audio_begin": 1074048,
+        "audio_end": 1080000
+    },
+    {
+        "id": "f000253",
+        "sentence": "私の心のなかへ戻ってきた。",
+        "sentence_with_furigana": "私の心のなかへ戻ってきた。",
+        "audio_begin": 1080000,
+        "audio_end": 1083260
+    },
+    {
+        "id": "f000254",
+        "sentence": "私は猫のいなくなったことを悔むようにさえなり、",
+        "sentence_with_furigana": "私は猫のいなくなったことを悔むようにさえなり、",
+        "audio_begin": 1085360,
+        "audio_end": 1091160
+    },
+    {
+        "id": "f000255",
+        "sentence": "そのころ行きつけの悪所でそれの代りになる同じ種類の、",
+        "sentence_with_furigana": "そのころ行きつけの 悪所[あくしょ]でそれの代りになる同じ種類の、",
+        "audio_begin": 1091160,
+        "audio_end": 1096760
+    },
+    {
+        "id": "f000256",
+        "sentence": "またいくらか似たような毛並のものがいないかと自分のまわりを捜すようにもなった。",
+        "sentence_with_furigana": "またいくらか似たような毛並のものがいないかと自分のまわりを捜すようにもなった。",
+        "audio_begin": 1096760,
+        "audio_end": 1110013
+    },
+    {
+        "id": "f000257",
+        "sentence": "ある夜、",
+        "sentence_with_furigana": "ある夜、",
+        "audio_begin": 1110013,
+        "audio_end": 1111480
+    },
+    {
+        "id": "f000258",
+        "sentence": "ごくたちの悪い酒場に、",
+        "sentence_with_furigana": "ごくたちの悪い酒場に、",
+        "audio_begin": 1111480,
+        "audio_end": 1114080
+    },
+    {
+        "id": "f000259",
+        "sentence": "なかば茫然として腰かけていると、",
+        "sentence_with_furigana": "なかば 茫然[ぼうぜん]として腰かけていると、",
+        "audio_begin": 1114080,
+        "audio_end": 1117720
+    },
+    {
+        "id": "f000260",
+        "sentence": "その部屋の主な家具をになっているジン酒かラム酒の大樽の上に、",
+        "sentence_with_furigana": "その部屋の主な家具をになっているジン酒かラム酒の 大樽[おおだる]の上に、",
+        "audio_begin": 1117720,
+        "audio_end": 1123720
+    },
+    {
+        "id": "f000261",
+        "sentence": "なんだか黒い物がじっとしているのに、",
+        "sentence_with_furigana": "なんだか黒い物がじっとしているのに、",
+        "audio_begin": 1123720,
+        "audio_end": 1126320
+    },
+    {
+        "id": "f000262",
+        "sentence": "とつぜん注意をひかれた。",
+        "sentence_with_furigana": "とつぜん注意をひかれた。",
+        "audio_begin": 1126320,
+        "audio_end": 1130437
+    },
+    {
+        "id": "f000263",
+        "sentence": "私はそれまで数分間その大樽のてっぺんのところをじっと見ていたので、",
+        "sentence_with_furigana": "私はそれまで数分間その大樽のてっぺんのところをじっと見ていたので、",
+        "audio_begin": 1130437,
+        "audio_end": 1137800
+    },
+    {
+        "id": "f000264",
+        "sentence": "いま私を驚かせたことは、",
+        "sentence_with_furigana": "いま私を驚かせたことは、",
+        "audio_begin": 1137800,
+        "audio_end": 1140520
+    },
+    {
+        "id": "f000265",
+        "sentence": "自分がもっと早くその物に気がつかなかったという事実なのであった。",
+        "sentence_with_furigana": "自分がもっと早くその物に気がつかなかったという事実なのであった。",
+        "audio_begin": 1140520,
+        "audio_end": 1145660
+    },
+    {
+        "id": "f000266",
+        "sentence": "私は近づいて行って、",
+        "sentence_with_furigana": "私は近づいて行って、",
+        "audio_begin": 1147760,
+        "audio_end": 1149880
+    },
+    {
+        "id": "f000267",
+        "sentence": "それに手を触れてみた。",
+        "sentence_with_furigana": "それに手を触れてみた。",
+        "audio_begin": 1149880,
+        "audio_end": 1153400
+    },
+    {
+        "id": "f000268",
+        "sentence": "それは一匹の黒猫──",
+        "sentence_with_furigana": "それは一匹の黒猫──",
+        "audio_begin": 1153400,
+        "audio_end": 1157480
+    },
+    {
+        "id": "f000269",
+        "sentence": "非常に大きな猫──",
+        "sentence_with_furigana": "非常に大きな猫──",
+        "audio_begin": 1157480,
+        "audio_end": 1159987
+    },
+    {
+        "id": "f000270",
+        "sentence": "で、プルートォくらいの大きさは十分あり、",
+        "sentence_with_furigana": "で、プルートォくらいの大きさは十分あり、",
+        "audio_begin": 1159987,
+        "audio_end": 1163560
+    },
+    {
+        "id": "f000271",
+        "sentence": "一つの点をのぞいて、",
+        "sentence_with_furigana": "一つの点をのぞいて、",
+        "audio_begin": 1163560,
+        "audio_end": 1165880
+    },
+    {
+        "id": "f000272",
+        "sentence": "あらゆる点で彼にとてもよく似ていた。",
+        "sentence_with_furigana": "あらゆる点で彼にとてもよく似ていた。",
+        "audio_begin": 1165880,
+        "audio_end": 1169160
+    },
+    {
+        "id": "f000273",
+        "sentence": "プルートォは体のどこにも白い毛が一本もなかったが、",
+        "sentence_with_furigana": "プルートォは体のどこにも白い毛が一本もなかったが、",
+        "audio_begin": 1171660,
+        "audio_end": 1177127
+    },
+    {
+        "id": "f000274",
+        "sentence": "この猫は、",
+        "sentence_with_furigana": "この猫は、",
+        "audio_begin": 1177127,
+        "audio_end": 1178520
+    },
+    {
+        "id": "f000275",
+        "sentence": "胸のところがほとんど一面に、",
+        "sentence_with_furigana": "胸のところがほとんど一面に、",
+        "audio_begin": 1178520,
+        "audio_end": 1181040
+    },
+    {
+        "id": "f000276",
+        "sentence": "ぼんやりした形ではあるが、",
+        "sentence_with_furigana": "ぼんやりした形ではあるが、",
+        "audio_begin": 1181040,
+        "audio_end": 1184000
+    },
+    {
+        "id": "f000277",
+        "sentence": "大きな、",
+        "sentence_with_furigana": "大きな、",
+        "audio_begin": 1184000,
+        "audio_end": 1184800
+    },
+    {
+        "id": "f000278",
+        "sentence": "白い斑点で蔽われているのだ。",
+        "sentence_with_furigana": "白い 斑点[はんてん]で 蔽[おお]われているのだ。",
+        "audio_begin": 1184800,
+        "audio_end": 1190480
+    },
+    {
+        "id": "f000279",
+        "sentence": "私がさわると、",
+        "sentence_with_furigana": "私がさわると、",
+        "audio_begin": 1190480,
+        "audio_end": 1192120
+    },
+    {
+        "id": "f000280",
+        "sentence": "その猫はすぐに立ち上がり、",
+        "sentence_with_furigana": "その猫はすぐに立ち上がり、",
+        "audio_begin": 1192120,
+        "audio_end": 1194813
+    },
+    {
+        "id": "f000281",
+        "sentence": "さかんにごろごろ咽喉を鳴らし、",
+        "sentence_with_furigana": "さかんにごろごろ咽喉を鳴らし、",
+        "audio_begin": 1194813,
+        "audio_end": 1198080
+    },
+    {
+        "id": "f000282",
+        "sentence": "私の手に体をすりつけ、",
+        "sentence_with_furigana": "私の手に体をすりつけ、",
+        "audio_begin": 1198080,
+        "audio_end": 1200960
+    },
+    {
+        "id": "f000283",
+        "sentence": "私が目をつけてやったのを喜んでいるようだった。",
+        "sentence_with_furigana": "私が目をつけてやったのを喜んでいるようだった。",
+        "audio_begin": 1200960,
+        "audio_end": 1206150
+    },
+    {
+        "id": "f000284",
+        "sentence": "これこそ私の探している猫だった。",
+        "sentence_with_furigana": "これこそ私の探している猫だった。",
+        "audio_begin": 1206150,
+        "audio_end": 1210800
+    },
+    {
+        "id": "f000285",
+        "sentence": "私はすぐにそこの主人にそれを買いたいと言い出した。",
+        "sentence_with_furigana": "私はすぐにそこの主人にそれを買いたいと言い出した。",
+        "audio_begin": 1210800,
+        "audio_end": 1215285
+    },
+    {
+        "id": "f000286",
+        "sentence": "が主人はその猫を自分のものだとは言わず、──",
+        "sentence_with_furigana": "が主人はその猫を自分のものだとは言わず、──",
+        "audio_begin": 1215285,
+        "audio_end": 1220000
+    },
+    {
+        "id": "f000287",
+        "sentence": "ちっとも知らないし──",
+        "sentence_with_furigana": "ちっとも知らないし──",
+        "audio_begin": 1221800,
+        "audio_end": 1224480
+    },
+    {
+        "id": "f000288",
+        "sentence": "いままでに見たこともないと言うのだった。",
+        "sentence_with_furigana": "いままでに見たこともないと言うのだった。",
+        "audio_begin": 1224480,
+        "audio_end": 1227040
+    },
+    {
+        "id": "f000289",
+        "sentence": "私は愛撫をつづけていたが、",
+        "sentence_with_furigana": "私は愛撫をつづけていたが、",
+        "audio_begin": 1230740,
+        "audio_end": 1233680
+    },
+    {
+        "id": "f000290",
+        "sentence": "家へ帰りかけようとすると、",
+        "sentence_with_furigana": "家へ帰りかけようとすると、",
+        "audio_begin": 1233680,
+        "audio_end": 1235920
+    },
+    {
+        "id": "f000291",
+        "sentence": "その動物はついて来たいような様子を見せた。",
+        "sentence_with_furigana": "その動物はついて来たいような様子を見せた。",
+        "audio_begin": 1235920,
+        "audio_end": 1240240
+    },
+    {
+        "id": "f000292",
+        "sentence": "で、ついて来るままにさせ、",
+        "sentence_with_furigana": "で、ついて来るままにさせ、",
+        "audio_begin": 1240240,
+        "audio_end": 1243400
+    },
+    {
+        "id": "f000293",
+        "sentence": "歩いて行く途中でおりおりかがんで軽く手で叩いてやった。",
+        "sentence_with_furigana": "歩いて行く途中でおりおりかがんで軽く手で 叩[たた]いてやった。",
+        "audio_begin": 1243400,
+        "audio_end": 1248820
+    },
+    {
+        "id": "f000294",
+        "sentence": "家へ着くと、",
+        "sentence_with_furigana": "家へ着くと、",
+        "audio_begin": 1250920,
+        "audio_end": 1252040
+    },
+    {
+        "id": "f000295",
+        "sentence": "すぐに居ついてしまい、",
+        "sentence_with_furigana": "すぐに居ついてしまい、",
+        "audio_begin": 1252040,
+        "audio_end": 1254560
+    },
+    {
+        "id": "f000296",
+        "sentence": "すぐ妻の非常なお気に入りになった。",
+        "sentence_with_furigana": "すぐ妻の非常なお気に入りになった。",
+        "audio_begin": 1254560,
+        "audio_end": 1257920
+    },
+    {
+        "id": "f000297",
+        "sentence": "私はというと、",
+        "sentence_with_furigana": "私はというと、",
+        "audio_begin": 1261120,
+        "audio_end": 1263200
+    },
+    {
+        "id": "f000298",
+        "sentence": "間もなくその猫に対する嫌悪の情が心のなかに湧き起るのに気がついた。",
+        "sentence_with_furigana": "間もなくその猫に対する嫌悪の情が心のなかに 湧[わ]き起るのに気がついた。",
+        "audio_begin": 1263200,
+        "audio_end": 1269280
+    },
+    {
+        "id": "f000299",
+        "sentence": "これは自分の予想していたこととは正反対であった。",
+        "sentence_with_furigana": "これは自分の予想していたこととは正反対であった。",
+        "audio_begin": 1271180,
+        "audio_end": 1275520
+    },
+    {
+        "id": "f000300",
+        "sentence": "しかし──",
+        "sentence_with_furigana": "しかし──",
+        "audio_begin": 1277320,
+        "audio_end": 1280000
+    },
+    {
+        "id": "f000301",
+        "sentence": "どうしてだか、",
+        "sentence_with_furigana": "どうしてだか、",
+        "audio_begin": 1280000,
+        "audio_end": 1281560
+    },
+    {
+        "id": "f000302",
+        "sentence": "またなぜだかは知らないが──",
+        "sentence_with_furigana": "またなぜだかは知らないが──",
+        "audio_begin": 1281560,
+        "audio_end": 1283580
+    },
+    {
+        "id": "f000303",
+        "sentence": "猫がはっきり私を好いていることが私をかえって厭がらせ、",
+        "sentence_with_furigana": "猫がはっきり私を好いていることが私をかえって 厭[いや]がらせ、",
+        "audio_begin": 1285680,
+        "audio_end": 1292240
+    },
+    {
+        "id": "f000304",
+        "sentence": "うるさがらせた。",
+        "sentence_with_furigana": "うるさがらせた。",
+        "audio_begin": 1292240,
+        "audio_end": 1295720
+    },
+    {
+        "id": "f000305",
+        "sentence": "だんだんに、",
+        "sentence_with_furigana": "だんだんに、",
+        "audio_begin": 1295720,
+        "audio_end": 1296945
+    },
+    {
+        "id": "f000306",
+        "sentence": "この厭でうるさいという感情が嵩じてはげしい憎しみになっていった。",
+        "sentence_with_furigana": "この厭でうるさいという感情が 嵩[こう]じてはげしい憎しみになっていった。",
+        "audio_begin": 1296945,
+        "audio_end": 1303140
+    },
+    {
+        "id": "f000307",
+        "sentence": "私はその動物を避けた。",
+        "sentence_with_furigana": "私はその動物を避けた。",
+        "audio_begin": 1305240,
+        "audio_end": 1309320
+    },
+    {
+        "id": "f000308",
+        "sentence": "ある慚愧の念と、",
+        "sentence_with_furigana": "ある 慚愧[ざんき]の念と、",
+        "audio_begin": 1309320,
+        "audio_end": 1311400
+    },
+    {
+        "id": "f000309",
+        "sentence": "以前の残酷な行為の記憶とが、",
+        "sentence_with_furigana": "以前の残酷な行為の記憶とが、",
+        "audio_begin": 1311400,
+        "audio_end": 1314840
+    },
+    {
+        "id": "f000310",
+        "sentence": "私にそれを肉体的に虐待しないようにさせたのだ。",
+        "sentence_with_furigana": "私にそれを肉体的に虐待しないようにさせたのだ。",
+        "audio_begin": 1314840,
+        "audio_end": 1319940
+    },
+    {
+        "id": "f000311",
+        "sentence": "数週の間、",
+        "sentence_with_furigana": "数週の間、",
+        "audio_begin": 1322040,
+        "audio_end": 1323960
+    },
+    {
+        "id": "f000312",
+        "sentence": "私は打つとか、",
+        "sentence_with_furigana": "私は打つとか、",
+        "audio_begin": 1323960,
+        "audio_end": 1325880
+    },
+    {
+        "id": "f000313",
+        "sentence": "その他手荒なことはしなかった。",
+        "sentence_with_furigana": "その他手荒なことはしなかった。",
+        "audio_begin": 1325880,
+        "audio_end": 1329520
+    },
+    {
+        "id": "f000314",
+        "sentence": "がしだいしだいに──",
+        "sentence_with_furigana": "がしだいしだいに──",
+        "audio_begin": 1329520,
+        "audio_end": 1333446
+    },
+    {
+        "id": "f000315",
+        "sentence": "ごくゆっくりと──",
+        "sentence_with_furigana": "ごくゆっくりと──",
+        "audio_begin": 1333446,
+        "audio_end": 1336800
+    },
+    {
+        "id": "f000316",
+        "sentence": "言いようのない嫌悪の情をもってその猫を見るようになり、",
+        "sentence_with_furigana": "言いようのない嫌悪の情をもってその猫を見るようになり、",
+        "audio_begin": 1336800,
+        "audio_end": 1343400
+    },
+    {
+        "id": "f000317",
+        "sentence": "悪疫の息吹から逃げるように、",
+        "sentence_with_furigana": "悪疫[あくえき]の 息吹[いぶき]から逃げるように、",
+        "audio_begin": 1343400,
+        "audio_end": 1346400
+    },
+    {
+        "id": "f000318",
+        "sentence": "その忌むべき存在から無言のままで逃げ出すようになった。",
+        "sentence_with_furigana": "その 忌[い]むべき存在から無言のままで逃げ出すようになった。",
+        "audio_begin": 1346400,
+        "audio_end": 1355720
+    },
+    {
+        "id": "f000319",
+        "sentence": "疑いもなく、",
+        "sentence_with_furigana": "疑いもなく、",
+        "audio_begin": 1355720,
+        "audio_end": 1357280
+    },
+    {
+        "id": "f000320",
+        "sentence": "その動物に対する私の憎しみを増したのは、",
+        "sentence_with_furigana": "その動物に対する私の憎しみを増したのは、",
+        "audio_begin": 1357280,
+        "audio_end": 1361799
+    },
+    {
+        "id": "f000321",
+        "sentence": "それを家へ連れてきた翌朝、",
+        "sentence_with_furigana": "それを家へ連れてきた翌朝、",
+        "audio_begin": 1361799,
+        "audio_end": 1365600
+    },
+    {
+        "id": "f000322",
+        "sentence": "それにもプルートォのように片眼がないということを発見したことであった。",
+        "sentence_with_furigana": "それにもプルートォのように片眼がないということを発見したことであった。",
+        "audio_begin": 1365600,
+        "audio_end": 1372016
+    },
+    {
+        "id": "f000323",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 1372016,
+        "audio_end": 1373318
+    },
+    {
+        "id": "f000324",
+        "sentence": "この事がらのためにそれはますます妻にかわいがられるだけであった。",
+        "sentence_with_furigana": "この事がらのためにそれはますます妻にかわいがられるだけであった。",
+        "audio_begin": 1373318,
+        "audio_end": 1379000
+    },
+    {
+        "id": "f000325",
+        "sentence": "妻は、以前は私のりっぱな特徴であり、",
+        "sentence_with_furigana": "妻は、以前は私のりっぱな特徴であり、",
+        "audio_begin": 1381000,
+        "audio_end": 1385440
+    },
+    {
+        "id": "f000326",
+        "sentence": "また多くのもっとも単純な、",
+        "sentence_with_furigana": "また多くのもっとも単純な、",
+        "audio_begin": 1385440,
+        "audio_end": 1388680
+    },
+    {
+        "id": "f000327",
+        "sentence": "もっとも純粋な快楽の源であったあの慈悲ぶかい気持を、",
+        "sentence_with_furigana": "もっとも純粋な快楽の源であったあの慈悲ぶかい気持を、",
+        "audio_begin": 1388680,
+        "audio_end": 1394720
+    },
+    {
+        "id": "f000328",
+        "sentence": "前にも言ったように、",
+        "sentence_with_furigana": "前にも言ったように、",
+        "audio_begin": 1394720,
+        "audio_end": 1396309
+    },
+    {
+        "id": "f000329",
+        "sentence": "多分に持っていたのだ。",
+        "sentence_with_furigana": "多分に持っていたのだ。",
+        "audio_begin": 1396309,
+        "audio_end": 1398100
+    },
+    {
+        "id": "f000330",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 1400200,
+        "audio_end": 1401566
+    },
+    {
+        "id": "f000331",
+        "sentence": "私がこの猫を嫌えば嫌うほど、",
+        "sentence_with_furigana": "私がこの猫を嫌えば嫌うほど、",
+        "audio_begin": 1401566,
+        "audio_end": 1405120
+    },
+    {
+        "id": "f000332",
+        "sentence": "猫のほうはいよいよ私を好くようになってくるようだった。",
+        "sentence_with_furigana": "猫のほうはいよいよ私を好くようになってくるようだった。",
+        "audio_begin": 1405120,
+        "audio_end": 1409560
+    },
+    {
+        "id": "f000333",
+        "sentence": "私のあとをつけまわり、",
+        "sentence_with_furigana": "私のあとをつけまわり、",
+        "audio_begin": 1411360,
+        "audio_end": 1413720
+    },
+    {
+        "id": "f000334",
+        "sentence": "そのしつこさは読者に理解してもらうのが困難なくらいであった。",
+        "sentence_with_furigana": "そのしつこさは読者に理解してもらうのが困難なくらいであった。",
+        "audio_begin": 1413720,
+        "audio_end": 1418580
+    },
+    {
+        "id": "f000335",
+        "sentence": "私が腰かけているときにはいつでも、",
+        "sentence_with_furigana": "私が腰かけているときにはいつでも、",
+        "audio_begin": 1420680,
+        "audio_end": 1423840
+    },
+    {
+        "id": "f000336",
+        "sentence": "椅子の下にうずくまったり、",
+        "sentence_with_furigana": "椅子[いす]の下にうずくまったり、",
+        "audio_begin": 1423840,
+        "audio_end": 1426680
+    },
+    {
+        "id": "f000337",
+        "sentence": "あるいは膝の上へ上がって、",
+        "sentence_with_furigana": "あるいは 膝[ひざ]の上へ上がって、",
+        "audio_begin": 1426680,
+        "audio_end": 1428920
+    },
+    {
+        "id": "f000338",
+        "sentence": "しきりにどこへでもいまいましくじゃれついたりした。",
+        "sentence_with_furigana": "しきりにどこへでもいまいましくじゃれついたりした。",
+        "audio_begin": 1428920,
+        "audio_end": 1432400
+    },
+    {
+        "id": "f000339",
+        "sentence": "立ち上がって歩こうとすると、",
+        "sentence_with_furigana": "立ち上がって歩こうとすると、",
+        "audio_begin": 1434000,
+        "audio_end": 1436160
+    },
+    {
+        "id": "f000340",
+        "sentence": "両足のあいだへ入って、",
+        "sentence_with_furigana": "両足のあいだへ入って、",
+        "audio_begin": 1436160,
+        "audio_end": 1438240
+    },
+    {
+        "id": "f000341",
+        "sentence": "私を倒しそうにしたり、",
+        "sentence_with_furigana": "私を倒しそうにしたり、",
+        "audio_begin": 1438240,
+        "audio_end": 1440739
+    },
+    {
+        "id": "f000342",
+        "sentence": "あるいはその長い鋭い爪を私の着物にひっかけて、",
+        "sentence_with_furigana": "あるいはその長い鋭い 爪[つめ]を私の着物にひっかけて、",
+        "audio_begin": 1440739,
+        "audio_end": 1446280
+    },
+    {
+        "id": "f000343",
+        "sentence": "胸のところまでよじ登ったりする。",
+        "sentence_with_furigana": "胸のところまでよじ登ったりする。",
+        "audio_begin": 1446280,
+        "audio_end": 1449989
+    },
+    {
+        "id": "f000344",
+        "sentence": "そんなときには、",
+        "sentence_with_furigana": "そんなときには、",
+        "audio_begin": 1449989,
+        "audio_end": 1451640
+    },
+    {
+        "id": "f000345",
+        "sentence": "殴り殺してしまいたかったけれども、",
+        "sentence_with_furigana": "殴り殺してしまいたかったけれども、",
+        "audio_begin": 1451640,
+        "audio_end": 1455200
+    },
+    {
+        "id": "f000346",
+        "sentence": "そうすることを差し控えたのは、",
+        "sentence_with_furigana": "そうすることを差し控えたのは、",
+        "audio_begin": 1455200,
+        "audio_end": 1457920
+    },
+    {
+        "id": "f000347",
+        "sentence": "いくらか自分の以前の罪悪を思い出すためであったが、",
+        "sentence_with_furigana": "いくらか自分の以前の罪悪を思い出すためであったが、",
+        "audio_begin": 1457920,
+        "audio_end": 1463880
+    },
+    {
+        "id": "f000348",
+        "sentence": "主としては──",
+        "sentence_with_furigana": "主としては──",
+        "audio_begin": 1463880,
+        "audio_end": 1466240
+    },
+    {
+        "id": "f000349",
+        "sentence": "あっさり白状してしまえば──",
+        "sentence_with_furigana": "あっさり白状してしまえば──",
+        "audio_begin": 1466240,
+        "audio_end": 1469504
+    },
+    {
+        "id": "f000350",
+        "sentence": "その動物がほんとうに怖かったためであった。",
+        "sentence_with_furigana": "その動物がほんとうに怖かったためであった。",
+        "audio_begin": 1469504,
+        "audio_end": 1473480
+    },
+    {
+        "id": "f000351",
+        "sentence": "この怖さは肉体的災害の怖さとは少し違っていた、──",
+        "sentence_with_furigana": "この怖さは肉体的災害の怖さとは少し違っていた、──",
+        "audio_begin": 1477780,
+        "audio_end": 1485140
+    },
+    {
+        "id": "f000352",
+        "sentence": "が、それでもそのほかにそれをなんと説明してよいか私にはわからない。",
+        "sentence_with_furigana": "が、それでもそのほかにそれをなんと説明してよいか私にはわからない。",
+        "audio_begin": 1485140,
+        "audio_end": 1492500
+    },
+    {
+        "id": "f000353",
+        "sentence": "私は告白するのが恥ずかしいくらいだが──",
+        "sentence_with_furigana": "私は告白するのが恥ずかしいくらいだが──",
+        "audio_begin": 1494600,
+        "audio_end": 1498700
+    },
+    {
+        "id": "f000354",
+        "sentence": "そうだ、",
+        "sentence_with_furigana": "そうだ、",
+        "audio_begin": 1500800,
+        "audio_end": 1502261
+    },
+    {
+        "id": "f000355",
+        "sentence": "この重罪人の監房のなかにあってさえも、",
+        "sentence_with_furigana": "この重罪人の監房のなかにあってさえも、",
+        "audio_begin": 1502261,
+        "audio_end": 1505976
+    },
+    {
+        "id": "f000356",
+        "sentence": "告白するのが恥ずかしいくらいだが──",
+        "sentence_with_furigana": "告白するのが恥ずかしいくらいだが──",
+        "audio_begin": 1505976,
+        "audio_end": 1511440
+    },
+    {
+        "id": "f000357",
+        "sentence": "その動物が私の心に起させた恐怖の念は、",
+        "sentence_with_furigana": "その動物が私の心に起させた恐怖の念は、",
+        "audio_begin": 1511440,
+        "audio_end": 1517600
+    },
+    {
+        "id": "f000358",
+        "sentence": "実にくだらない一つの妄想のために強められていたのであった。",
+        "sentence_with_furigana": "実にくだらない一つの 妄想[もうそう]のために強められていたのであった。",
+        "audio_begin": 1517600,
+        "audio_end": 1522400
+    },
+    {
+        "id": "f000359",
+        "sentence": "その猫と前に殺した猫との唯一の眼に見える違いといえば、",
+        "sentence_with_furigana": "その猫と前に殺した猫との 唯一[ゆいいつ]の眼に見える違いといえば、",
+        "audio_begin": 1525100,
+        "audio_end": 1531720
+    },
+    {
+        "id": "f000360",
+        "sentence": "さっき話したあの白い毛の斑点なのだが、",
+        "sentence_with_furigana": "さっき話したあの白い毛の斑点なのだが、",
+        "audio_begin": 1531720,
+        "audio_end": 1537001
+    },
+    {
+        "id": "f000361",
+        "sentence": "妻はその斑点のことで何度か私に注意していた。",
+        "sentence_with_furigana": "妻はその斑点のことで何度か私に注意していた。",
+        "audio_begin": 1537001,
+        "audio_end": 1542120
+    },
+    {
+        "id": "f000362",
+        "sentence": "この斑点は、",
+        "sentence_with_furigana": "この斑点は、",
+        "audio_begin": 1543920,
+        "audio_end": 1545400
+    },
+    {
+        "id": "f000363",
+        "sentence": "大きくはあったが、",
+        "sentence_with_furigana": "大きくはあったが、",
+        "audio_begin": 1545400,
+        "audio_end": 1547360
+    },
+    {
+        "id": "f000364",
+        "sentence": "もとはたいへんぼんやりした形であったということを、",
+        "sentence_with_furigana": "もとはたいへんぼんやりした形であったということを、",
+        "audio_begin": 1547360,
+        "audio_end": 1550920
+    },
+    {
+        "id": "f000365",
+        "sentence": "読者は記憶せられるであろう。",
+        "sentence_with_furigana": "読者は記憶せられるであろう。",
+        "audio_begin": 1550920,
+        "audio_end": 1554974
+    },
+    {
+        "id": "f000366",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "audio_begin": 1554974,
+        "audio_end": 1556680
+    },
+    {
+        "id": "f000367",
+        "sentence": "だんだんに──",
+        "sentence_with_furigana": "だんだんに──",
+        "audio_begin": 1556680,
+        "audio_end": 1559000
+    },
+    {
+        "id": "f000368",
+        "sentence": "ほとんど眼につかないほどにゆっくりと、",
+        "sentence_with_furigana": "ほとんど眼につかないほどにゆっくりと、",
+        "audio_begin": 1559000,
+        "audio_end": 1562600
+    },
+    {
+        "id": "f000369",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 1562600,
+        "audio_end": 1564080
+    },
+    {
+        "id": "f000370",
+        "sentence": "長いあいだ私の理性はそれを気の迷いだとして否定しようとあせっていたのだが──",
+        "sentence_with_furigana": "長いあいだ私の理性はそれを気の迷いだとして否定しようとあせっていたのだが──",
+        "audio_begin": 1564080,
+        "audio_end": 1571360
+    },
+    {
+        "id": "f000371",
+        "sentence": "それが、",
+        "sentence_with_furigana": "それが、",
+        "audio_begin": 1574160,
+        "audio_end": 1575437
+    },
+    {
+        "id": "f000372",
+        "sentence": "とうとう、",
+        "sentence_with_furigana": "とうとう、",
+        "audio_begin": 1575437,
+        "audio_end": 1576680
+    },
+    {
+        "id": "f000373",
+        "sentence": "まったくきっぱりした輪郭となった。",
+        "sentence_with_furigana": "まったくきっぱりした輪郭となった。",
+        "audio_begin": 1576680,
+        "audio_end": 1579440
+    },
+    {
+        "id": "f000374",
+        "sentence": "それはいまや私が名を言うも身ぶるいするような物の格好になった。──",
+        "sentence_with_furigana": "それはいまや私が名を言うも身ぶるいするような物の格好になった。──",
+        "audio_begin": 1582040,
+        "audio_end": 1587760
+    },
+    {
+        "id": "f000375",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 1591060,
+        "audio_end": 1592440
+    },
+    {
+        "id": "f000376",
+        "sentence": "とりわけこのために、",
+        "sentence_with_furigana": "とりわけこのために、",
+        "audio_begin": 1592440,
+        "audio_end": 1595160
+    },
+    {
+        "id": "f000377",
+        "sentence": "私はその怪物を嫌い、恐れ、",
+        "sentence_with_furigana": "私はその怪物を嫌い、恐れ、",
+        "audio_begin": 1595160,
+        "audio_end": 1600227
+    },
+    {
+        "id": "f000378",
+        "sentence": "できるなら思いきってやっつけてしまいたいと思ったのであるが、──",
+        "sentence_with_furigana": "できるなら思いきってやっつけてしまいたいと思ったのであるが、──",
+        "audio_begin": 1600227,
+        "audio_end": 1604840
+    },
+    {
+        "id": "f000379",
+        "sentence": "それはいまや、",
+        "sentence_with_furigana": "それはいまや、",
+        "audio_begin": 1607640,
+        "audio_end": 1609840
+    },
+    {
+        "id": "f000380",
+        "sentence": "恐ろしい──",
+        "sentence_with_furigana": "恐ろしい──",
+        "audio_begin": 1609840,
+        "audio_end": 1611960
+    },
+    {
+        "id": "f000381",
+        "sentence": "もの凄い物の──",
+        "sentence_with_furigana": "もの 凄[すご]い物の──",
+        "audio_begin": 1611960,
+        "audio_end": 1613520
+    },
+    {
+        "id": "f000382",
+        "sentence": "絞首台の──",
+        "sentence_with_furigana": "絞首台の──",
+        "audio_begin": 1613520,
+        "audio_end": 1616200
+    },
+    {
+        "id": "f000383",
+        "sentence": "形になったのだ！",
+        "sentence_with_furigana": "形になったのだ！",
+        "audio_begin": 1616200,
+        "audio_end": 1617600
+    },
+    {
+        "id": "f000384",
+        "sentence": "──おお、恐怖と罪悪との──",
+        "sentence_with_furigana": "──おお、恐怖と罪悪との──",
+        "audio_begin": 1621200,
+        "audio_end": 1624600
+    },
+    {
+        "id": "f000385",
+        "sentence": "苦悶と死との痛ましい恐ろしい刑具の形になったのだ！",
+        "sentence_with_furigana": "苦悶[くもん]と死との痛ましい恐ろしい刑具の形になったのだ！",
+        "audio_begin": 1626200,
+        "audio_end": 1632360
+    },
+    {
+        "id": "f000386",
+        "sentence": "そしていまこそ私は実に単なる人間の惨めさ以上に惨めであった。",
+        "sentence_with_furigana": "そしていまこそ私は実に単なる人間の 惨[みじ]めさ以上に惨めであった。",
+        "audio_begin": 1635960,
+        "audio_end": 1644520
+    },
+    {
+        "id": "f000387",
+        "sentence": "一匹の畜生が──",
+        "sentence_with_furigana": "一匹の畜生が──",
+        "audio_begin": 1644520,
+        "audio_end": 1646260
+    },
+    {
+        "id": "f000388",
+        "sentence": "その仲間の奴を私は傲然と殺してやったのだ──",
+        "sentence_with_furigana": "その仲間の 奴[やつ]を私は 傲然[ごうぜん]と殺してやったのだ──",
+        "audio_begin": 1648360,
+        "audio_end": 1653300
+    },
+    {
+        "id": "f000389",
+        "sentence": "一匹の畜生が私に──",
+        "sentence_with_furigana": "一匹の畜生が私に──",
+        "audio_begin": 1655400,
+        "audio_end": 1657700
+    },
+    {
+        "id": "f000390",
+        "sentence": "いと高き神の像に象って造られた人間である（２）私に──",
+        "sentence_with_furigana": "いと高き神の 像[かたち]に 象[かたど]って造られた人間である（２）私に──",
+        "audio_begin": 1659800,
+        "audio_end": 1664640
+    },
+    {
+        "id": "f000391",
+        "sentence": "かくも多くの堪えがたい苦痛を与えるとは！",
+        "sentence_with_furigana": "かくも多くの堪えがたい苦痛を与えるとは！",
+        "audio_begin": 1668040,
+        "audio_end": 1672920
+    },
+    {
+        "id": "f000392",
+        "sentence": "ああ！",
+        "sentence_with_furigana": "ああ！",
+        "audio_begin": 1672920,
+        "audio_end": 1674600
+    },
+    {
+        "id": "f000393",
+        "sentence": "昼も夜も私はもう安息の恩恵というものを知らなくなった！",
+        "sentence_with_furigana": "昼も夜も私はもう安息の恩恵というものを知らなくなった！",
+        "audio_begin": 1674600,
+        "audio_end": 1682200
+    },
+    {
+        "id": "f000394",
+        "sentence": "昼間はかの動物がちょっとも私を一人にしておかなかった。",
+        "sentence_with_furigana": "昼間はかの動物がちょっとも私を一人にしておかなかった。",
+        "audio_begin": 1682200,
+        "audio_end": 1687920
+    },
+    {
+        "id": "f000395",
+        "sentence": "夜には、",
+        "sentence_with_furigana": "夜には、",
+        "audio_begin": 1689520,
+        "audio_end": 1690880
+    },
+    {
+        "id": "f000396",
+        "sentence": "私は言いようもなく恐ろしい夢から毎時間ぎょっとして目覚めると、",
+        "sentence_with_furigana": "私は言いようもなく恐ろしい夢から毎時間ぎょっとして目覚めると、",
+        "audio_begin": 1690880,
+        "audio_end": 1697400
+    },
+    {
+        "id": "f000397",
+        "sentence": "そいつの熱い息が自分の顔にかかり、",
+        "sentence_with_furigana": "そいつの熱い息が自分の顔にかかり、",
+        "audio_begin": 1697400,
+        "audio_end": 1701080
+    },
+    {
+        "id": "f000398",
+        "sentence": "そのどっしりした重さが──",
+        "sentence_with_furigana": "そのどっしりした重さが──",
+        "audio_begin": 1701080,
+        "audio_end": 1702980
+    },
+    {
+        "id": "f000399",
+        "sentence": "私には払い落す力のない悪魔の化身が──",
+        "sentence_with_furigana": "私には払い落す力のない悪魔の化身が──",
+        "audio_begin": 1705080,
+        "audio_end": 1708880
+    },
+    {
+        "id": "f000400",
+        "sentence": "いつもいつも私の心臓の上に圧しかかっているのだった！",
+        "sentence_with_furigana": "いつもいつも私の心臓の上に 圧[お]しかかっているのだった！",
+        "audio_begin": 1711680,
+        "audio_end": 1717160
+    },
+    {
+        "id": "f000401",
+        "sentence": "こういった呵責に押しつけられて、",
+        "sentence_with_furigana": "こういった 呵責[かしゃく]に押しつけられて、",
+        "audio_begin": 1721660,
+        "audio_end": 1724920
+    },
+    {
+        "id": "f000402",
+        "sentence": "私のうちに少しばかり残っていた善も敗北してしまった。",
+        "sentence_with_furigana": "私のうちに少しばかり残っていた善も敗北してしまった。",
+        "audio_begin": 1724920,
+        "audio_end": 1732240
+    },
+    {
+        "id": "f000403",
+        "sentence": "邪悪な考えが私の唯一の友となった、──",
+        "sentence_with_furigana": "邪悪な考えが私の唯一の友となった、──",
+        "audio_begin": 1732240,
+        "audio_end": 1736560
+    },
+    {
+        "id": "f000404",
+        "sentence": "もっとも暗黒な、",
+        "sentence_with_furigana": "もっとも暗黒な、",
+        "audio_begin": 1739360,
+        "audio_end": 1741680
+    },
+    {
+        "id": "f000405",
+        "sentence": "もっとも邪悪な考えが。",
+        "sentence_with_furigana": "もっとも邪悪な考えが。",
+        "audio_begin": 1741680,
+        "audio_end": 1747520
+    },
+    {
+        "id": "f000406",
+        "sentence": "私のいつもの気むずかしい気質はますますつのって、",
+        "sentence_with_furigana": "私のいつもの気むずかしい気質はますますつのって、",
+        "audio_begin": 1747520,
+        "audio_end": 1753200
+    },
+    {
+        "id": "f000407",
+        "sentence": "あらゆる物やあらゆる人を憎むようになった。",
+        "sentence_with_furigana": "あらゆる物やあらゆる人を憎むようになった。",
+        "audio_begin": 1753200,
+        "audio_end": 1758920
+    },
+    {
+        "id": "f000408",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 1758920,
+        "audio_end": 1760640
+    },
+    {
+        "id": "f000409",
+        "sentence": "いまでは幾度もとつぜんに起るおさえられぬ激怒の発作に盲目的に身をまかせたのだが、",
+        "sentence_with_furigana": "いまでは幾度もとつぜんに起るおさえられぬ激怒の発作に盲目的に身をまかせたのだが、",
+        "audio_begin": 1760640,
+        "audio_end": 1769071
+    },
+    {
+        "id": "f000410",
+        "sentence": "なんの苦情も言わない私の妻は、",
+        "sentence_with_furigana": "なんの苦情も言わない私の妻は、",
+        "audio_begin": 1769071,
+        "audio_end": 1773280
+    },
+    {
+        "id": "f000411",
+        "sentence": "ああ！",
+        "sentence_with_furigana": "ああ！",
+        "audio_begin": 1773280,
+        "audio_end": 1774950
+    },
+    {
+        "id": "f000412",
+        "sentence": "それを誰よりもいつもひどく受けながら、",
+        "sentence_with_furigana": "それを誰よりもいつもひどく受けながら、",
+        "audio_begin": 1774950,
+        "audio_end": 1779000
+    },
+    {
+        "id": "f000413",
+        "sentence": "辛抱づよく我慢したのだった。",
+        "sentence_with_furigana": "辛抱づよく我慢したのだった。",
+        "audio_begin": 1779000,
+        "audio_end": 1781980
+    },
+    {
+        "id": "f000414",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある日、",
+        "audio_begin": 1786480,
+        "audio_end": 1787738
+    },
+    {
+        "id": "f000415",
+        "sentence": "妻はなにかの家の用事で、",
+        "sentence_with_furigana": "妻はなにかの家の用事で、",
+        "audio_begin": 1787738,
+        "audio_end": 1790453
+    },
+    {
+        "id": "f000416",
+        "sentence": "貧乏のために私たちが仕方なく住んでいた古い穴蔵のなかへ、",
+        "sentence_with_furigana": "貧乏のために私たちが仕方なく住んでいた古い穴蔵のなかへ、",
+        "audio_begin": 1790453,
+        "audio_end": 1796720
+    },
+    {
+        "id": "f000417",
+        "sentence": "私と一緒に降りてきた。",
+        "sentence_with_furigana": "私と一緒に降りてきた。",
+        "audio_begin": 1796720,
+        "audio_end": 1800600
+    },
+    {
+        "id": "f000418",
+        "sentence": "猫もその急な階段を私のあとへついて降りてきたが、",
+        "sentence_with_furigana": "猫もその急な階段を私のあとへついて降りてきたが、",
+        "audio_begin": 1800600,
+        "audio_end": 1806360
+    },
+    {
+        "id": "f000419",
+        "sentence": "もう少しのことで私を真っ逆さまに突き落そうとしたので、",
+        "sentence_with_furigana": "もう少しのことで私を真っ逆さまに突き落そうとしたので、",
+        "audio_begin": 1806360,
+        "audio_end": 1812240
+    },
+    {
+        "id": "f000420",
+        "sentence": "私はかっと激怒した。",
+        "sentence_with_furigana": "私はかっと激怒した。",
+        "audio_begin": 1812240,
+        "audio_end": 1816360
+    },
+    {
+        "id": "f000421",
+        "sentence": "怒りのあまり、",
+        "sentence_with_furigana": "怒りのあまり、",
+        "audio_begin": 1816360,
+        "audio_end": 1817680
+    },
+    {
+        "id": "f000422",
+        "sentence": "これまで自分の手を止めていたあの子供らしい怖さも忘れて、",
+        "sentence_with_furigana": "これまで自分の手を止めていたあの子供らしい怖さも忘れて、",
+        "audio_begin": 1817680,
+        "audio_end": 1824200
+    },
+    {
+        "id": "f000423",
+        "sentence": "斧を振り上げ、",
+        "sentence_with_furigana": "斧[おの]を振り上げ、",
+        "audio_begin": 1824200,
+        "audio_end": 1826120
+    },
+    {
+        "id": "f000424",
+        "sentence": "その動物をめがけて一撃に打ち下ろそうとした。",
+        "sentence_with_furigana": "その動物をめがけて一撃に打ち下ろそうとした。",
+        "audio_begin": 1826120,
+        "audio_end": 1830300
+    },
+    {
+        "id": "f000425",
+        "sentence": "それを自分の思ったとおりに打ち下ろしたなら、",
+        "sentence_with_furigana": "それを自分の思ったとおりに打ち下ろしたなら、",
+        "audio_begin": 1832400,
+        "audio_end": 1835360
+    },
+    {
+        "id": "f000426",
+        "sentence": "もちろん、",
+        "sentence_with_furigana": "もちろん、",
+        "audio_begin": 1835360,
+        "audio_end": 1836645
+    },
+    {
+        "id": "f000427",
+        "sentence": "猫は即座に死んでしまったろう。",
+        "sentence_with_furigana": "猫は即座に死んでしまったろう。",
+        "audio_begin": 1836645,
+        "audio_end": 1841000
+    },
+    {
+        "id": "f000428",
+        "sentence": "が、その一撃は妻の手でさえぎられた。",
+        "sentence_with_furigana": "が、その一撃は妻の手でさえぎられた。",
+        "audio_begin": 1841000,
+        "audio_end": 1844480
+    },
+    {
+        "id": "f000429",
+        "sentence": "この邪魔立てに悪鬼以上の憤怒に駆られて、",
+        "sentence_with_furigana": "この邪魔立てに悪鬼以上の憤怒に駆られて、",
+        "audio_begin": 1846380,
+        "audio_end": 1851000
+    },
+    {
+        "id": "f000430",
+        "sentence": "私は妻につかまれている腕をひき放し、",
+        "sentence_with_furigana": "私は妻につかまれている腕をひき放し、",
+        "audio_begin": 1851000,
+        "audio_end": 1856040
+    },
+    {
+        "id": "f000431",
+        "sentence": "斧を彼女の脳天に打ちこんだ。",
+        "sentence_with_furigana": "斧を彼女の脳天に打ちこんだ。",
+        "audio_begin": 1856040,
+        "audio_end": 1858720
+    },
+    {
+        "id": "f000432",
+        "sentence": "彼女は呻き声もたてずに、",
+        "sentence_with_furigana": "彼女は 呻[うめ]き声もたてずに、",
+        "audio_begin": 1861520,
+        "audio_end": 1865200
+    },
+    {
+        "id": "f000433",
+        "sentence": "その場で倒れて死んでしまった。",
+        "sentence_with_furigana": "その場で倒れて死んでしまった。",
+        "audio_begin": 1865200,
+        "audio_end": 1868600
+    },
+    {
+        "id": "f000434",
+        "sentence": "この恐ろしい殺人をやってしまうと、",
+        "sentence_with_furigana": "この恐ろしい殺人をやってしまうと、",
+        "audio_begin": 1872400,
+        "audio_end": 1876200
+    },
+    {
+        "id": "f000435",
+        "sentence": "私はすぐに、",
+        "sentence_with_furigana": "私はすぐに、",
+        "audio_begin": 1876200,
+        "audio_end": 1878183
+    },
+    {
+        "id": "f000436",
+        "sentence": "きわめて慎重に、",
+        "sentence_with_furigana": "きわめて慎重に、",
+        "audio_begin": 1878183,
+        "audio_end": 1880240
+    },
+    {
+        "id": "f000437",
+        "sentence": "死体を隠す仕事に取りかかった。",
+        "sentence_with_furigana": "死体を隠す仕事に取りかかった。",
+        "audio_begin": 1880240,
+        "audio_end": 1884840
+    },
+    {
+        "id": "f000438",
+        "sentence": "昼でも夜でも、",
+        "sentence_with_furigana": "昼でも夜でも、",
+        "audio_begin": 1884840,
+        "audio_end": 1886935
+    },
+    {
+        "id": "f000439",
+        "sentence": "近所の人々の目にとまる恐れなしには、",
+        "sentence_with_furigana": "近所の人々の目にとまる恐れなしには、",
+        "audio_begin": 1886935,
+        "audio_end": 1890720
+    },
+    {
+        "id": "f000440",
+        "sentence": "それを家から運び去ることができないということは、",
+        "sentence_with_furigana": "それを家から運び去ることができないということは、",
+        "audio_begin": 1890720,
+        "audio_end": 1894480
+    },
+    {
+        "id": "f000441",
+        "sentence": "私にはわかっていた。",
+        "sentence_with_furigana": "私にはわかっていた。",
+        "audio_begin": 1894480,
+        "audio_end": 1896620
+    },
+    {
+        "id": "f000442",
+        "sentence": "いろいろの計画が心に浮んだ。",
+        "sentence_with_furigana": "いろいろの計画が心に浮んだ。",
+        "audio_begin": 1898720,
+        "audio_end": 1903200
+    },
+    {
+        "id": "f000443",
+        "sentence": "あるときは死骸を細かく切って火で焼いてしまおうと考えた。",
+        "sentence_with_furigana": "あるときは死骸を細かく切って火で焼いてしまおうと考えた。",
+        "audio_begin": 1903200,
+        "audio_end": 1910320
+    },
+    {
+        "id": "f000444",
+        "sentence": "またあるときには穴蔵の床にそれを埋める穴を掘ろうと決心した。",
+        "sentence_with_furigana": "またあるときには穴蔵の床にそれを埋める穴を掘ろうと決心した。",
+        "audio_begin": 1910320,
+        "audio_end": 1918360
+    },
+    {
+        "id": "f000445",
+        "sentence": "さらにまた、",
+        "sentence_with_furigana": "さらにまた、",
+        "audio_begin": 1918360,
+        "audio_end": 1919880
+    },
+    {
+        "id": "f000446",
+        "sentence": "庭の井戸のなかへ投げこもうかとも──",
+        "sentence_with_furigana": "庭の井戸のなかへ投げこもうかとも──",
+        "audio_begin": 1919880,
+        "audio_end": 1925720
+    },
+    {
+        "id": "f000447",
+        "sentence": "商品のように箱のなかへ入れて普通やるように荷造りして、",
+        "sentence_with_furigana": "商品のように箱のなかへ入れて普通やるように荷造りして、",
+        "audio_begin": 1925720,
+        "audio_end": 1932093
+    },
+    {
+        "id": "f000448",
+        "sentence": "運搬人に家から持ち出させようかとも、",
+        "sentence_with_furigana": "運搬人に家から持ち出させようかとも、",
+        "audio_begin": 1932093,
+        "audio_end": 1935722
+    },
+    {
+        "id": "f000449",
+        "sentence": "考えてみた。",
+        "sentence_with_furigana": "考えてみた。",
+        "audio_begin": 1935722,
+        "audio_end": 1939720
+    },
+    {
+        "id": "f000450",
+        "sentence": "最後に、",
+        "sentence_with_furigana": "最後に、",
+        "audio_begin": 1939720,
+        "audio_end": 1940840
+    },
+    {
+        "id": "f000451",
+        "sentence": "これらのどれよりもずっといいと思われる工夫を考えついた。",
+        "sentence_with_furigana": "これらのどれよりもずっといいと思われる工夫を考えついた。",
+        "audio_begin": 1940840,
+        "audio_end": 1945400
+    },
+    {
+        "id": "f000452",
+        "sentence": "中世紀の僧侶たちが彼らの犠牲者を壁に塗りこんだと伝えられているように──",
+        "sentence_with_furigana": "中世紀の 僧侶[そうりょ]たちが彼らの犠牲者を壁に塗りこんだと伝えられているように──",
+        "audio_begin": 1947900,
+        "audio_end": 1954960
+    },
+    {
+        "id": "f000453",
+        "sentence": "それを穴蔵の壁に塗りこむことに決めたのだ。",
+        "sentence_with_furigana": "それを穴蔵の壁に塗りこむことに決めたのだ。",
+        "audio_begin": 1957760,
+        "audio_end": 1962280
+    },
+    {
+        "id": "f000454",
+        "sentence": "そういった目的にはその穴蔵はたいへん適していた。",
+        "sentence_with_furigana": "そういった目的にはその穴蔵はたいへん適していた。",
+        "audio_begin": 1965880,
+        "audio_end": 1972400
+    },
+    {
+        "id": "f000455",
+        "sentence": "そこの壁はぞんざいにできていたし、",
+        "sentence_with_furigana": "そこの壁はぞんざいにできていたし、",
+        "audio_begin": 1972400,
+        "audio_end": 1976006
+    },
+    {
+        "id": "f000456",
+        "sentence": "近ごろ粗い漆喰を一面に塗られたばかりで、",
+        "sentence_with_furigana": "近ごろ粗い漆喰を一面に塗られたばかりで、",
+        "audio_begin": 1976006,
+        "audio_end": 1980430
+    },
+    {
+        "id": "f000457",
+        "sentence": "空気が湿っているためにその漆喰が固まっていないのだった。",
+        "sentence_with_furigana": "空気が湿っているためにその漆喰が固まっていないのだった。",
+        "audio_begin": 1980430,
+        "audio_end": 1985400
+    },
+    {
+        "id": "f000458",
+        "sentence": "その上に、",
+        "sentence_with_furigana": "その上に、",
+        "audio_begin": 1987500,
+        "audio_end": 1989040
+    },
+    {
+        "id": "f000459",
+        "sentence": "一方の壁には、",
+        "sentence_with_furigana": "一方の壁には、",
+        "audio_begin": 1989040,
+        "audio_end": 1990840
+    },
+    {
+        "id": "f000460",
+        "sentence": "穴蔵の他のところと同じようにしてある、",
+        "sentence_with_furigana": "穴蔵の他のところと同じようにしてある、",
+        "audio_begin": 1990840,
+        "audio_end": 1994400
+    },
+    {
+        "id": "f000461",
+        "sentence": "見せかけだけの煙突か暖炉のためにできた、",
+        "sentence_with_furigana": "見せかけだけの煙突か暖炉のためにできた、",
+        "audio_begin": 1994400,
+        "audio_end": 1998360
+    },
+    {
+        "id": "f000462",
+        "sentence": "突き出た一カ所があった。",
+        "sentence_with_furigana": "突き出た一カ所があった。",
+        "audio_begin": 1998360,
+        "audio_end": 2001764
+    },
+    {
+        "id": "f000463",
+        "sentence": "ここの煉瓦を取りのけて、",
+        "sentence_with_furigana": "ここの 煉瓦[れんが]を取りのけて、",
+        "audio_begin": 2001764,
+        "audio_end": 2003720
+    },
+    {
+        "id": "f000464",
+        "sentence": "死骸を押しこみ、",
+        "sentence_with_furigana": "死骸を押しこみ、",
+        "audio_begin": 2003720,
+        "audio_end": 2006200
+    },
+    {
+        "id": "f000465",
+        "sentence": "誰の目にもなに一つ怪しいことの見つからないように、",
+        "sentence_with_furigana": "誰の目にもなに一つ怪しいことの見つからないように、",
+        "audio_begin": 2006200,
+        "audio_end": 2011360
+    },
+    {
+        "id": "f000466",
+        "sentence": "前のとおりにすっかり壁を塗り潰すことは、",
+        "sentence_with_furigana": "前のとおりにすっかり壁を塗り 潰[つぶ]すことは、",
+        "audio_begin": 2011360,
+        "audio_end": 2015280
+    },
+    {
+        "id": "f000467",
+        "sentence": "造作なくできるにちがいない、",
+        "sentence_with_furigana": "造作なくできるにちがいない、",
+        "audio_begin": 2015280,
+        "audio_end": 2018099
+    },
+    {
+        "id": "f000468",
+        "sentence": "と私は思った。",
+        "sentence_with_furigana": "と私は思った。",
+        "audio_begin": 2018099,
+        "audio_end": 2022840
+    },
+    {
+        "id": "f000469",
+        "sentence": "そしてこの予想ははずれなかった。",
+        "sentence_with_furigana": "そしてこの予想ははずれなかった。",
+        "audio_begin": 2022840,
+        "audio_end": 2026928
+    },
+    {
+        "id": "f000470",
+        "sentence": "鉄梃を使って私はたやすく煉瓦を動かし、",
+        "sentence_with_furigana": "鉄梃[かなてこ]を使って私はたやすく煉瓦を動かし、",
+        "audio_begin": 2026928,
+        "audio_end": 2032440
+    },
+    {
+        "id": "f000471",
+        "sentence": "内側の壁に死体を注意深く寄せかけると、",
+        "sentence_with_furigana": "内側の壁に死体を注意深く寄せかけると、",
+        "audio_begin": 2032440,
+        "audio_end": 2037640
+    },
+    {
+        "id": "f000472",
+        "sentence": "その位置に支えておきながら、",
+        "sentence_with_furigana": "その位置に支えておきながら、",
+        "audio_begin": 2037640,
+        "audio_end": 2040080
+    },
+    {
+        "id": "f000473",
+        "sentence": "大した苦もなく全体をもとのとおりに積み直した。",
+        "sentence_with_furigana": "大した苦もなく全体をもとのとおりに積み直した。",
+        "audio_begin": 2040080,
+        "audio_end": 2047040
+    },
+    {
+        "id": "f000474",
+        "sentence": "できるかぎりの用心をして膠泥と、",
+        "sentence_with_furigana": "できるかぎりの用心をして 膠泥[モルタル]と、",
+        "audio_begin": 2047040,
+        "audio_end": 2051199
+    },
+    {
+        "id": "f000475",
+        "sentence": "砂と、毛髪とを手に入れると、",
+        "sentence_with_furigana": "砂と、毛髪とを手に入れると、",
+        "audio_begin": 2051199,
+        "audio_end": 2055520
+    },
+    {
+        "id": "f000476",
+        "sentence": "前のと区別のつけられない漆喰をこしらえ、",
+        "sentence_with_furigana": "前のと区別のつけられない漆喰をこしらえ、",
+        "audio_begin": 2055520,
+        "audio_end": 2059760
+    },
+    {
+        "id": "f000477",
+        "sentence": "それで新しい煉瓦細工の上をとても念入りに塗った。",
+        "sentence_with_furigana": "それで新しい煉瓦細工の上をとても念入りに塗った。",
+        "audio_begin": 2059760,
+        "audio_end": 2065219
+    },
+    {
+        "id": "f000478",
+        "sentence": "仕上げてしまうと、",
+        "sentence_with_furigana": "仕上げてしまうと、",
+        "audio_begin": 2067320,
+        "audio_end": 2069159
+    },
+    {
+        "id": "f000479",
+        "sentence": "万事がうまくいったのに満足した。",
+        "sentence_with_furigana": "万事がうまくいったのに満足した。",
+        "audio_begin": 2069159,
+        "audio_end": 2071719
+    },
+    {
+        "id": "f000480",
+        "sentence": "壁には手を加えたような様子が少しも見えなかった。",
+        "sentence_with_furigana": "壁には手を加えたような様子が少しも見えなかった。",
+        "audio_begin": 2074120,
+        "audio_end": 2078820
+    },
+    {
+        "id": "f000481",
+        "sentence": "床の上の屑はごく注意して拾い上げた。",
+        "sentence_with_furigana": "床の上の 屑[くず]はごく注意して拾い上げた。",
+        "audio_begin": 2080920,
+        "audio_end": 2087639
+    },
+    {
+        "id": "f000482",
+        "sentence": "私は得意になってあたりを見まわして、",
+        "sentence_with_furigana": "私は得意になってあたりを見まわして、",
+        "audio_begin": 2087639,
+        "audio_end": 2091239
+    },
+    {
+        "id": "f000483",
+        "sentence": "こう独言を言った。──",
+        "sentence_with_furigana": "こう 独言[ひとりごと]を言った。──",
+        "audio_begin": 2091239,
+        "audio_end": 2094500
+    },
+    {
+        "id": "f000484",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、",
+        "audio_begin": 2096600,
+        "audio_end": 2098705
+    },
+    {
+        "id": "f000485",
+        "sentence": "これで少なくとも今度だけは己の骨折りも無駄じゃなかったぞ」",
+        "sentence_with_furigana": "これで少なくとも今度だけは 己[おれ]の骨折りも 無駄[むだ]じゃなかったぞ」",
+        "audio_begin": 2098705,
+        "audio_end": 2106480
+    },
+    {
+        "id": "f000486",
+        "sentence": "次に私のやることは、",
+        "sentence_with_furigana": "次に私のやることは、",
+        "audio_begin": 2111380,
+        "audio_end": 2114007
+    },
+    {
+        "id": "f000487",
+        "sentence": "かくまでの不幸の原因であったあの獣を捜すことであった。",
+        "sentence_with_furigana": "かくまでの不幸の原因であったあの獣を捜すことであった。",
+        "audio_begin": 2114007,
+        "audio_end": 2119520
+    },
+    {
+        "id": "f000488",
+        "sentence": "とうとう私はそれを殺してやろうと堅く決心していたからである。",
+        "sentence_with_furigana": "とうとう私はそれを殺してやろうと堅く決心していたからである。",
+        "audio_begin": 2121820,
+        "audio_end": 2127840
+    },
+    {
+        "id": "f000489",
+        "sentence": "そのときそいつに出会うことができたなら、",
+        "sentence_with_furigana": "そのときそいつに出会うことができたなら、",
+        "audio_begin": 2130040,
+        "audio_end": 2133800
+    },
+    {
+        "id": "f000490",
+        "sentence": "そいつの命はないに決っていた。",
+        "sentence_with_furigana": "そいつの命はないに決っていた。",
+        "audio_begin": 2133800,
+        "audio_end": 2136988
+    },
+    {
+        "id": "f000491",
+        "sentence": "が、そのずるい動物は私のさっきの怒りのはげしさにびっくりしたらしく、",
+        "sentence_with_furigana": "が、そのずるい動物は私のさっきの怒りのはげしさにびっくりしたらしく、",
+        "audio_begin": 2136988,
+        "audio_end": 2145800
+    },
+    {
+        "id": "f000492",
+        "sentence": "私がいまの気分でいるところへは姿を見せるのを控えているようであった。",
+        "sentence_with_furigana": "私がいまの気分でいるところへは姿を見せるのを控えているようであった。",
+        "audio_begin": 2145800,
+        "audio_end": 2154160
+    },
+    {
+        "id": "f000493",
+        "sentence": "その厭でたまらない生きものがいなくなったために私の胸に生じた、",
+        "sentence_with_furigana": "その厭でたまらない生きものがいなくなったために私の胸に生じた、",
+        "audio_begin": 2154160,
+        "audio_end": 2160520
+    },
+    {
+        "id": "f000494",
+        "sentence": "深い、",
+        "sentence_with_furigana": "深い、",
+        "audio_begin": 2160520,
+        "audio_end": 2161080
+    },
+    {
+        "id": "f000495",
+        "sentence": "この上なく幸福な、",
+        "sentence_with_furigana": "この上なく幸福な、",
+        "audio_begin": 2161080,
+        "audio_end": 2163400
+    },
+    {
+        "id": "f000496",
+        "sentence": "安堵の感じは、",
+        "sentence_with_furigana": "安堵[あんど]の感じは、",
+        "audio_begin": 2163400,
+        "audio_end": 2165484
+    },
+    {
+        "id": "f000497",
+        "sentence": "記述することも、",
+        "sentence_with_furigana": "記述することも、",
+        "audio_begin": 2165484,
+        "audio_end": 2167280
+    },
+    {
+        "id": "f000498",
+        "sentence": "想像することもできないくらいである。",
+        "sentence_with_furigana": "想像することもできないくらいである。",
+        "audio_begin": 2167280,
+        "audio_end": 2170260
+    },
+    {
+        "id": "f000499",
+        "sentence": "猫はその夜じゅう姿をあらわさなかった。──",
+        "sentence_with_furigana": "猫はその夜じゅう姿をあらわさなかった。──",
+        "audio_begin": 2172360,
+        "audio_end": 2175760
+    },
+    {
+        "id": "f000500",
+        "sentence": "で、そのために、",
+        "sentence_with_furigana": "で、そのために、",
+        "audio_begin": 2178860,
+        "audio_end": 2181520
+    },
+    {
+        "id": "f000501",
+        "sentence": "あの猫を家へ連れてきて以来、",
+        "sentence_with_furigana": "あの猫を家へ連れてきて以来、",
+        "audio_begin": 2181520,
+        "audio_end": 2184760
+    },
+    {
+        "id": "f000502",
+        "sentence": "少なくとも一晩だけは、",
+        "sentence_with_furigana": "少なくとも一晩だけは、",
+        "audio_begin": 2184760,
+        "audio_end": 2187840
+    },
+    {
+        "id": "f000503",
+        "sentence": "私はぐっすりと安らかに眠った。",
+        "sentence_with_furigana": "私はぐっすりと安らかに眠った。",
+        "audio_begin": 2187840,
+        "audio_end": 2191100
+    },
+    {
+        "id": "f000504",
+        "sentence": "そうだ、",
+        "sentence_with_furigana": "そうだ、",
+        "audio_begin": 2193200,
+        "audio_end": 2195072
+    },
+    {
+        "id": "f000505",
+        "sentence": "魂に人殺しの重荷を負いながらも眠ったのだ！",
+        "sentence_with_furigana": "魂に人殺しの重荷を負いながらも眠ったのだ！",
+        "audio_begin": 2195072,
+        "audio_end": 2201180
+    },
+    {
+        "id": "f000506",
+        "sentence": "二日目も過ぎ三日目も過ぎたが、",
+        "sentence_with_furigana": "二日目も過ぎ三日目も過ぎたが、",
+        "audio_begin": 2205680,
+        "audio_end": 2209840
+    },
+    {
+        "id": "f000507",
+        "sentence": "それでもまだ私の呵責者は出てこなかった。",
+        "sentence_with_furigana": "それでもまだ私の呵責者は出てこなかった。",
+        "audio_begin": 2209840,
+        "audio_end": 2213780
+    },
+    {
+        "id": "f000508",
+        "sentence": "もう一度私は自由な人間として呼吸した。",
+        "sentence_with_furigana": "もう一度私は自由な人間として呼吸した。",
+        "audio_begin": 2215880,
+        "audio_end": 2223800
+    },
+    {
+        "id": "f000509",
+        "sentence": "あの怪物は永久にこの屋内から逃げ去ってしまったのだ！",
+        "sentence_with_furigana": "あの怪物は永久にこの屋内から逃げ去ってしまったのだ！",
+        "audio_begin": 2223800,
+        "audio_end": 2230600
+    },
+    {
+        "id": "f000510",
+        "sentence": "私はもうあいつを見ることはないのだ！",
+        "sentence_with_furigana": "私はもうあいつを見ることはないのだ！",
+        "audio_begin": 2230600,
+        "audio_end": 2236320
+    },
+    {
+        "id": "f000511",
+        "sentence": "私の幸福はこの上もなかった！",
+        "sentence_with_furigana": "私の幸福はこの上もなかった！",
+        "audio_begin": 2236320,
+        "audio_end": 2239940
+    },
+    {
+        "id": "f000512",
+        "sentence": "自分の凶行の罪はほとんど私を不安にさせなかった。",
+        "sentence_with_furigana": "自分の凶行の罪はほとんど私を不安にさせなかった。",
+        "audio_begin": 2242040,
+        "audio_end": 2247060
+    },
+    {
+        "id": "f000513",
+        "sentence": "二、三の訊問は受けたが、",
+        "sentence_with_furigana": "二、三の 訊問[じんもん]は受けたが、",
+        "audio_begin": 2249160,
+        "audio_end": 2251702
+    },
+    {
+        "id": "f000514",
+        "sentence": "それには造作なく答えた。",
+        "sentence_with_furigana": "それには造作なく答えた。",
+        "audio_begin": 2251702,
+        "audio_end": 2253760
+    },
+    {
+        "id": "f000515",
+        "sentence": "家宅捜索さえ一度行われた、──",
+        "sentence_with_furigana": "家宅捜索さえ一度行われた、──",
+        "audio_begin": 2255660,
+        "audio_end": 2259573
+    },
+    {
+        "id": "f000516",
+        "sentence": "が無論なにも発見されるはずがなかった。",
+        "sentence_with_furigana": "が無論なにも発見されるはずがなかった。",
+        "audio_begin": 2259573,
+        "audio_end": 2264100
+    },
+    {
+        "id": "f000517",
+        "sentence": "私は自分の未来の幸運を確実だと思った。",
+        "sentence_with_furigana": "私は自分の未来の幸運を確実だと思った。",
+        "audio_begin": 2266200,
+        "audio_end": 2272200
+    },
+    {
+        "id": "f000518",
+        "sentence": "殺人をしてから四日目に、",
+        "sentence_with_furigana": "殺人をしてから四日目に、",
+        "audio_begin": 2275800,
+        "audio_end": 2278600
+    },
+    {
+        "id": "f000519",
+        "sentence": "まったく思いがけなく、",
+        "sentence_with_furigana": "まったく思いがけなく、",
+        "audio_begin": 2278600,
+        "audio_end": 2280760
+    },
+    {
+        "id": "f000520",
+        "sentence": "一隊の警官が家へやって来て、",
+        "sentence_with_furigana": "一隊の警官が家へやって来て、",
+        "audio_begin": 2280760,
+        "audio_end": 2283684
+    },
+    {
+        "id": "f000521",
+        "sentence": "ふたたび屋内を厳重に調べにかかった。",
+        "sentence_with_furigana": "ふたたび屋内を厳重に調べにかかった。",
+        "audio_begin": 2283684,
+        "audio_end": 2286760
+    },
+    {
+        "id": "f000522",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 2288360,
+        "audio_end": 2289606
+    },
+    {
+        "id": "f000523",
+        "sentence": "自分の隠匿の場所はわかるはずがないと思って、",
+        "sentence_with_furigana": "自分の 隠匿[いんとく]の場所はわかるはずがないと思って、",
+        "audio_begin": 2289606,
+        "audio_end": 2293720
+    },
+    {
+        "id": "f000524",
+        "sentence": "私はちっともどぎまぎしなかった。",
+        "sentence_with_furigana": "私はちっともどぎまぎしなかった。",
+        "audio_begin": 2293720,
+        "audio_end": 2296600
+    },
+    {
+        "id": "f000525",
+        "sentence": "警官は私に彼らの捜索について来いと命じた。",
+        "sentence_with_furigana": "警官は私に彼らの捜索について来いと命じた。",
+        "audio_begin": 2298500,
+        "audio_end": 2302640
+    },
+    {
+        "id": "f000526",
+        "sentence": "彼らはすみずみまでも残るくまなく捜した。",
+        "sentence_with_furigana": "彼らはすみずみまでも残るくまなく捜した。",
+        "audio_begin": 2304540,
+        "audio_end": 2308320
+    },
+    {
+        "id": "f000527",
+        "sentence": "とうとう、",
+        "sentence_with_furigana": "とうとう、",
+        "audio_begin": 2310720,
+        "audio_end": 2311760
+    },
+    {
+        "id": "f000528",
+        "sentence": "三度目か四度目に穴蔵へ降りて行った。",
+        "sentence_with_furigana": "三度目か四度目に穴蔵へ降りて行った。",
+        "audio_begin": 2311760,
+        "audio_end": 2315200
+    },
+    {
+        "id": "f000529",
+        "sentence": "私は体の筋一つ動かさなかった。",
+        "sentence_with_furigana": "私は体の筋一つ動かさなかった。",
+        "audio_begin": 2317000,
+        "audio_end": 2323120
+    },
+    {
+        "id": "f000530",
+        "sentence": "私の心臓は罪もなくて眠っている人の心臓のように穏やかに鼓動していた。",
+        "sentence_with_furigana": "私の心臓は罪もなくて眠っている人の心臓のように穏やかに鼓動していた。",
+        "audio_begin": 2323120,
+        "audio_end": 2330700
+    },
+    {
+        "id": "f000531",
+        "sentence": "私は穴蔵を端から端へと歩いた。",
+        "sentence_with_furigana": "私は穴蔵を端から端へと歩いた。",
+        "audio_begin": 2332800,
+        "audio_end": 2337020
+    },
+    {
+        "id": "f000532",
+        "sentence": "腕を胸の上で組み、",
+        "sentence_with_furigana": "腕を胸の上で組み、",
+        "audio_begin": 2339120,
+        "audio_end": 2341640
+    },
+    {
+        "id": "f000533",
+        "sentence": "あちこち悠々と歩きまわった。",
+        "sentence_with_furigana": "あちこち 悠々[ゆうゆう]と歩きまわった。",
+        "audio_begin": 2341640,
+        "audio_end": 2343960
+    },
+    {
+        "id": "f000534",
+        "sentence": "警官はすっかり満足して、",
+        "sentence_with_furigana": "警官はすっかり満足して、",
+        "audio_begin": 2346460,
+        "audio_end": 2348680
+    },
+    {
+        "id": "f000535",
+        "sentence": "引き揚げようとした。",
+        "sentence_with_furigana": "引き揚げようとした。",
+        "audio_begin": 2348680,
+        "audio_end": 2350420
+    },
+    {
+        "id": "f000536",
+        "sentence": "私の心の歓喜は抑えきれないくらい強かった。",
+        "sentence_with_furigana": "私の心の歓喜は抑えきれないくらい強かった。",
+        "audio_begin": 2352520,
+        "audio_end": 2356840
+    },
+    {
+        "id": "f000537",
+        "sentence": "私は、凱歌のつもりでたった一言でも言ってやり、",
+        "sentence_with_furigana": "私は、 凱歌[がいか]のつもりでたった一言でも言ってやり、",
+        "audio_begin": 2358540,
+        "audio_end": 2363560
+    },
+    {
+        "id": "f000538",
+        "sentence": "また自分の潔白を彼らに確かな上にも確かにしてやりたくてたまらなかった。",
+        "sentence_with_furigana": "また自分の潔白を彼らに確かな上にも確かにしてやりたくてたまらなかった。",
+        "audio_begin": 2363560,
+        "audio_end": 2370280
+    },
+    {
+        "id": "f000539",
+        "sentence": "「皆さん」と、",
+        "sentence_with_furigana": "「皆さん」と、",
+        "audio_begin": 2373080,
+        "audio_end": 2375200
+    },
+    {
+        "id": "f000540",
+        "sentence": "とうとう私は、",
+        "sentence_with_furigana": "とうとう私は、",
+        "audio_begin": 2375200,
+        "audio_end": 2377800
+    },
+    {
+        "id": "f000541",
+        "sentence": "一行が階投をのぼりかけたときに、",
+        "sentence_with_furigana": "一行が階投をのぼりかけたときに、",
+        "audio_begin": 2377800,
+        "audio_end": 2380640
+    },
+    {
+        "id": "f000542",
+        "sentence": "言った。",
+        "sentence_with_furigana": "言った。",
+        "audio_begin": 2380640,
+        "audio_end": 2381460
+    },
+    {
+        "id": "f000543",
+        "sentence": "「お疑いが晴れたことをわたしは嬉しく思います。",
+        "sentence_with_furigana": "「お疑いが晴れたことをわたしは 嬉[うれ]しく思います。",
+        "audio_begin": 2383560,
+        "audio_end": 2388560
+    },
+    {
+        "id": "f000544",
+        "sentence": "皆さん方のご健康を祈り、",
+        "sentence_with_furigana": "皆さん方のご健康を祈り、",
+        "audio_begin": 2388560,
+        "audio_end": 2390760
+    },
+    {
+        "id": "f000545",
+        "sentence": "それからも少し礼儀を重んぜられんことを望みます。",
+        "sentence_with_furigana": "それからも少し礼儀を重んぜられんことを望みます。",
+        "audio_begin": 2390760,
+        "audio_end": 2396310
+    },
+    {
+        "id": "f000546",
+        "sentence": "ときに、",
+        "sentence_with_furigana": "ときに、",
+        "audio_begin": 2396310,
+        "audio_end": 2396960
+    },
+    {
+        "id": "f000547",
+        "sentence": "皆さん、",
+        "sentence_with_furigana": "皆さん、",
+        "audio_begin": 2396960,
+        "audio_end": 2398598
+    },
+    {
+        "id": "f000548",
+        "sentence": "これは──",
+        "sentence_with_furigana": "これは──",
+        "audio_begin": 2398598,
+        "audio_end": 2399320
+    },
+    {
+        "id": "f000549",
+        "sentence": "これはなかなかよくできている家ですぜ」",
+        "sentence_with_furigana": "これはなかなかよくできている家ですぜ」",
+        "audio_begin": 2401820,
+        "audio_end": 2407302
+    },
+    {
+        "id": "f000550",
+        "sentence": "私は自分の口にしていることがほとんどわからなかった〕──",
+        "sentence_with_furigana": "私は自分の口にしていることがほとんどわからなかった〕──",
+        "audio_begin": 2412000,
+        "audio_end": 2416560
+    },
+    {
+        "id": "f000551",
+        "sentence": "「すてきによくできている家だと言っていいでしょうな。",
+        "sentence_with_furigana": "「すてきによくできている家だと言っていいでしょうな。",
+        "audio_begin": 2419560,
+        "audio_end": 2423619
+    },
+    {
+        "id": "f000552",
+        "sentence": "この壁は──",
+        "sentence_with_furigana": "この壁は──",
+        "audio_begin": 2423619,
+        "audio_end": 2426320
+    },
+    {
+        "id": "f000553",
+        "sentence": "お帰りですか？",
+        "sentence_with_furigana": "お帰りですか？",
+        "audio_begin": 2426320,
+        "audio_end": 2428120
+    },
+    {
+        "id": "f000554",
+        "sentence": "皆さん──",
+        "sentence_with_furigana": "皆さん──",
+        "audio_begin": 2428120,
+        "audio_end": 2428680
+    },
+    {
+        "id": "f000555",
+        "sentence": "この壁はがんじょうにこしらえてありますよ」そう言って、",
+        "sentence_with_furigana": "この壁はがんじょうにこしらえてありますよ」そう言って、",
+        "audio_begin": 2430880,
+        "audio_end": 2438240
+    },
+    {
+        "id": "f000556",
+        "sentence": "ただ気違いじみた空威張りから、",
+        "sentence_with_furigana": "ただ気違いじみた 空威張[からいば]りから、",
+        "audio_begin": 2438240,
+        "audio_end": 2441755
+    },
+    {
+        "id": "f000557",
+        "sentence": "手にした杖で、",
+        "sentence_with_furigana": "手にした 杖[つえ]で、",
+        "audio_begin": 2441755,
+        "audio_end": 2443785
+    },
+    {
+        "id": "f000558",
+        "sentence": "ちょうど愛妻の死骸が内側に立っている部分の煉瓦細工を、",
+        "sentence_with_furigana": "ちょうど愛妻の死骸が内側に立っている部分の煉瓦細工を、",
+        "audio_begin": 2443785,
+        "audio_end": 2448880
+    },
+    {
+        "id": "f000559",
+        "sentence": "強くたたいた。",
+        "sentence_with_furigana": "強くたたいた。",
+        "audio_begin": 2448880,
+        "audio_end": 2450860
+    },
+    {
+        "id": "f000560",
+        "sentence": "だが、",
+        "sentence_with_furigana": "だが、",
+        "audio_begin": 2452960,
+        "audio_end": 2453360
+    },
+    {
+        "id": "f000561",
+        "sentence": "神よ、",
+        "sentence_with_furigana": "神よ、",
+        "audio_begin": 2453360,
+        "audio_end": 2454960
+    },
+    {
+        "id": "f000562",
+        "sentence": "魔王の牙より私を護りまた救いたまえ！",
+        "sentence_with_furigana": "魔王の 牙[きば]より私を 護[まも]りまた救いたまえ！",
+        "audio_begin": 2454960,
+        "audio_end": 2461480
+    },
+    {
+        "id": "f000563",
+        "sentence": "私の打った音の反響が鎮まるか鎮まらぬかに、",
+        "sentence_with_furigana": "私の打った音の反響が 鎮[しず]まるか鎮まらぬかに、",
+        "audio_begin": 2461480,
+        "audio_end": 2466560
+    },
+    {
+        "id": "f000564",
+        "sentence": "その墓のなかから一つの声が私に答えたのであった！",
+        "sentence_with_furigana": "その墓のなかから一つの声が私に答えたのであった！",
+        "audio_begin": 2466560,
+        "audio_end": 2475480
+    },
+    {
+        "id": "f000565",
+        "sentence": "──初めは、",
+        "sentence_with_furigana": "──初めは、",
+        "audio_begin": 2475480,
+        "audio_end": 2476480
+    },
+    {
+        "id": "f000566",
+        "sentence": "子供の啜り泣きのように、",
+        "sentence_with_furigana": "子供の 啜[すす]り泣きのように、",
+        "audio_begin": 2476480,
+        "audio_end": 2479360
+    },
+    {
+        "id": "f000567",
+        "sentence": "なにかで包まれたような、",
+        "sentence_with_furigana": "なにかで包まれたような、",
+        "audio_begin": 2479360,
+        "audio_end": 2481876
+    },
+    {
+        "id": "f000568",
+        "sentence": "きれぎれな叫び声であったが、",
+        "sentence_with_furigana": "きれぎれな叫び声であったが、",
+        "audio_begin": 2481876,
+        "audio_end": 2485560
+    },
+    {
+        "id": "f000569",
+        "sentence": "それから急に高まって、",
+        "sentence_with_furigana": "それから急に高まって、",
+        "audio_begin": 2485560,
+        "audio_end": 2488000
+    },
+    {
+        "id": "f000570",
+        "sentence": "まったく異様な、",
+        "sentence_with_furigana": "まったく異様な、",
+        "audio_begin": 2488000,
+        "audio_end": 2490080
+    },
+    {
+        "id": "f000571",
+        "sentence": "人間のものではない、",
+        "sentence_with_furigana": "人間のものではない、",
+        "audio_begin": 2490080,
+        "audio_end": 2492320
+    },
+    {
+        "id": "f000572",
+        "sentence": "一つの長い、",
+        "sentence_with_furigana": "一つの長い、",
+        "audio_begin": 2492320,
+        "audio_end": 2494324
+    },
+    {
+        "id": "f000573",
+        "sentence": "高い、",
+        "sentence_with_furigana": "高い、",
+        "audio_begin": 2494324,
+        "audio_end": 2495840
+    },
+    {
+        "id": "f000574",
+        "sentence": "連続した金切声となり、──",
+        "sentence_with_furigana": "連続した金切声となり、──",
+        "audio_begin": 2495840,
+        "audio_end": 2500640
+    },
+    {
+        "id": "f000575",
+        "sentence": "地獄に墜ちてもだえ苦しむ者と、",
+        "sentence_with_furigana": "地獄に 墜[お]ちてもだえ苦しむ者と、",
+        "audio_begin": 2500640,
+        "audio_end": 2504920
+    },
+    {
+        "id": "f000576",
+        "sentence": "地獄に墜して喜ぶ悪魔との咽喉から一緒になって、",
+        "sentence_with_furigana": "地獄に 墜[おと]して喜ぶ悪魔との 咽喉[のど]から一緒になって、",
+        "audio_begin": 2504920,
+        "audio_end": 2510210
+    },
+    {
+        "id": "f000577",
+        "sentence": "ただ地獄からだけ聞えてくるものと思われるような、",
+        "sentence_with_furigana": "ただ地獄からだけ聞えてくるものと思われるような、",
+        "audio_begin": 2510210,
+        "audio_end": 2516120
+    },
+    {
+        "id": "f000578",
+        "sentence": "なかば恐怖の、",
+        "sentence_with_furigana": "なかば恐怖の、",
+        "audio_begin": 2516120,
+        "audio_end": 2518880
+    },
+    {
+        "id": "f000579",
+        "sentence": "なかば勝利の、",
+        "sentence_with_furigana": "なかば勝利の、",
+        "audio_begin": 2518880,
+        "audio_end": 2521160
+    },
+    {
+        "id": "f000580",
+        "sentence": "号泣──",
+        "sentence_with_furigana": "号泣──",
+        "audio_begin": 2521160,
+        "audio_end": 2523347
+    },
+    {
+        "id": "f000581",
+        "sentence": "慟哭するような悲鳴──",
+        "sentence_with_furigana": "慟哭[どうこく]するような悲鳴──",
+        "audio_begin": 2523347,
+        "audio_end": 2526756
+    },
+    {
+        "id": "f000582",
+        "sentence": "となった。",
+        "sentence_with_furigana": "となった。",
+        "audio_begin": 2526756,
+        "audio_end": 2527560
+    },
+    {
+        "id": "f000583",
+        "sentence": "私自身の気持は語るも愚かである。",
+        "sentence_with_furigana": "私自身の気持は語るも愚かである。",
+        "audio_begin": 2532060,
+        "audio_end": 2535840
+    },
+    {
+        "id": "f000584",
+        "sentence": "気が遠くなって、",
+        "sentence_with_furigana": "気が遠くなって、",
+        "audio_begin": 2538440,
+        "audio_end": 2540592
+    },
+    {
+        "id": "f000585",
+        "sentence": "私は反対の側の壁へとよろめいた。",
+        "sentence_with_furigana": "私は反対の側の壁へとよろめいた。",
+        "audio_begin": 2540592,
+        "audio_end": 2545000
+    },
+    {
+        "id": "f000586",
+        "sentence": "一瞬間、",
+        "sentence_with_furigana": "一瞬間、",
+        "audio_begin": 2545000,
+        "audio_end": 2546692
+    },
+    {
+        "id": "f000587",
+        "sentence": "階段の上にいた一行は、",
+        "sentence_with_furigana": "階段の上にいた一行は、",
+        "audio_begin": 2546692,
+        "audio_end": 2549080
+    },
+    {
+        "id": "f000588",
+        "sentence": "極度の恐怖と畏懼とのために、",
+        "sentence_with_furigana": "極度の恐怖と 畏懼[いく]とのために、",
+        "audio_begin": 2549080,
+        "audio_end": 2552734
+    },
+    {
+        "id": "f000589",
+        "sentence": "じっと立ち止った。",
+        "sentence_with_furigana": "じっと立ち止った。",
+        "audio_begin": 2552734,
+        "audio_end": 2554280
+    },
+    {
+        "id": "f000590",
+        "sentence": "次の瞬間には、",
+        "sentence_with_furigana": "次の瞬間には、",
+        "audio_begin": 2556280,
+        "audio_end": 2558000
+    },
+    {
+        "id": "f000591",
+        "sentence": "幾本かの逞しい腕が壁をせっせとくずしていた。",
+        "sentence_with_furigana": "幾本かの 逞[たくま]しい腕が壁をせっせとくずしていた。",
+        "audio_begin": 2558000,
+        "audio_end": 2565546
+    },
+    {
+        "id": "f000592",
+        "sentence": "壁はそっくり落ちた。",
+        "sentence_with_furigana": "壁はそっくり落ちた。",
+        "audio_begin": 2565546,
+        "audio_end": 2568840
+    },
+    {
+        "id": "f000593",
+        "sentence": "もうひどく腐爛して血魂が固まりついている死骸が、",
+        "sentence_with_furigana": "もうひどく 腐爛[ふらん]して血魂が固まりついている死骸が、",
+        "audio_begin": 2568840,
+        "audio_end": 2574800
+    },
+    {
+        "id": "f000594",
+        "sentence": "そこにいた人々の眼前にすっくと立った。",
+        "sentence_with_furigana": "そこにいた人々の眼前にすっくと立った。",
+        "audio_begin": 2574800,
+        "audio_end": 2581840
+    },
+    {
+        "id": "f000595",
+        "sentence": "その頭の上に、",
+        "sentence_with_furigana": "その頭の上に、",
+        "audio_begin": 2581840,
+        "audio_end": 2584200
+    },
+    {
+        "id": "f000596",
+        "sentence": "赤い口を大きくあけ、",
+        "sentence_with_furigana": "赤い口を大きくあけ、",
+        "audio_begin": 2584200,
+        "audio_end": 2586840
+    },
+    {
+        "id": "f000597",
+        "sentence": "爛々たる片眼を光らせて、",
+        "sentence_with_furigana": "爛々たる 片眼[かため]を光らせて、",
+        "audio_begin": 2586840,
+        "audio_end": 2590400
+    },
+    {
+        "id": "f000598",
+        "sentence": "あのいまわしい獣が坐っていた。",
+        "sentence_with_furigana": "あのいまわしい獣が 坐[すわ]っていた。",
+        "audio_begin": 2590400,
+        "audio_end": 2593640
+    },
+    {
+        "id": "f000599",
+        "sentence": "そいつの奸策が私をおびきこんで人殺しをさせ、",
+        "sentence_with_furigana": "そいつの 奸策[かんさく]が私をおびきこんで人殺しをさせ、",
+        "audio_begin": 2596440,
+        "audio_end": 2602960
+    },
+    {
+        "id": "f000600",
+        "sentence": "そいつのたてた声が私を絞刑吏に引渡したのだ。",
+        "sentence_with_furigana": "そいつのたてた声が私を絞刑吏に引渡したのだ。",
+        "audio_begin": 2602960,
+        "audio_end": 2613615
+    },
+    {
+        "id": "f000601",
+        "sentence": "その怪物を私はその墓のなかへ塗りこめておいたのだった！",
+        "sentence_with_furigana": "その怪物を私はその墓のなかへ塗りこめておいたのだった！",
+        "audio_begin": 2613615,
+        "audio_end": 2619280
+    }
+]

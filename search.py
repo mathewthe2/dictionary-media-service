@@ -16,6 +16,10 @@ dictionary.load_dictionary('JMdict+')
 decks = DecksManager()
 decks.load_decks()
 
+def get_deck_by_id(deck_name, category=DEFAULT_CATEGORY):
+    decks.set_category(category)
+    return dict(data=decks.get_deck_by_name(deck_name))
+
 def get_sentence_by_id(sentence_id, category=DEFAULT_CATEGORY):
     decks.set_category(category)
     return decks.get_sentence(sentence_id)

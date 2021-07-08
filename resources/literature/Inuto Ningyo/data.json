@@ -1,7 +1,6 @@
 [
     {
         "id": "Inuto Ningyo-f000002",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -17,11 +16,12 @@
             "と",
             "人形"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5424,
+        "sound_end": 9076
     },
     {
         "id": "Inuto Ningyo-f000003",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -73,11 +73,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9076,
+        "sound_end": 16688
     },
     {
         "id": "Inuto Ningyo-f000004",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -125,11 +126,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 16688,
+        "sound_end": 22800
     },
     {
         "id": "Inuto Ningyo-f000005",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -153,11 +155,12 @@
             "は",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 24700,
+        "sound_end": 27000
     },
     {
         "id": "Inuto Ningyo-f000006",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -217,11 +220,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 27000,
+        "sound_end": 35572
     },
     {
         "id": "Inuto Ningyo-f000007",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -271,11 +275,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 35572,
+        "sound_end": 43560
     },
     {
         "id": "Inuto Ningyo-f000008",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -321,11 +326,12 @@
             "て",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 45860,
+        "sound_end": 53358
     },
     {
         "id": "Inuto Ningyo-f000009",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -341,11 +347,12 @@
             "ポチ",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 53358,
+        "sound_end": 54778
     },
     {
         "id": "Inuto Ningyo-f000010",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -359,11 +366,12 @@
             "ポチ",
             "」"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 54778,
+        "sound_end": 56258
     },
     {
         "id": "Inuto Ningyo-f000011",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -383,11 +391,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 56256,
+        "sound_end": 59160
     },
     {
         "id": "Inuto Ningyo-f000012",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -417,11 +426,12 @@
             "で",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 59160,
+        "sound_end": 63080
     },
     {
         "id": "Inuto Ningyo-f000013",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -439,11 +449,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 63080,
+        "sound_end": 64640
     },
     {
         "id": "Inuto Ningyo-f000014",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -459,11 +470,12 @@
             "さん",
             "」"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 64640,
+        "sound_end": 66525
     },
     {
         "id": "Inuto Ningyo-f000015",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -483,11 +495,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 66525,
+        "sound_end": 69280
     },
     {
         "id": "Inuto Ningyo-f000016",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -517,11 +530,12 @@
             "た",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 69280,
+        "sound_end": 75600
     },
     {
         "id": "Inuto Ningyo-f000017",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -557,11 +571,12 @@
             "て",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 75600,
+        "sound_end": 80600
     },
     {
         "id": "Inuto Ningyo-f000018",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -601,11 +616,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 80600,
+        "sound_end": 85760
     },
     {
         "id": "Inuto Ningyo-f000019",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -633,11 +649,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 85760,
+        "sound_end": 88213
     },
     {
         "id": "Inuto Ningyo-f000020",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -665,11 +682,12 @@
             "",
             "」"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 88213,
+        "sound_end": 90086
     },
     {
         "id": "Inuto Ningyo-f000021",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -691,11 +709,12 @@
             "た",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 90086,
+        "sound_end": 91916
     },
     {
         "id": "Inuto Ningyo-f000022",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -711,11 +730,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 94640,
+        "sound_end": 96630
     },
     {
         "id": "Inuto Ningyo-f000023",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -765,11 +785,12 @@
             "て",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 96630,
+        "sound_end": 102520
     },
     {
         "id": "Inuto Ningyo-f000024",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -805,11 +826,12 @@
             "下さい",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 104420,
+        "sound_end": 109080
     },
     {
         "id": "Inuto Ningyo-f000025",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -845,11 +867,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 109080,
+        "sound_end": 114474
     },
     {
         "id": "Inuto Ningyo-f000026",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -881,11 +904,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 114474,
+        "sound_end": 116720
     },
     {
         "id": "Inuto Ningyo-f000027",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -931,11 +955,12 @@
             "から",
             "」"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 116720,
+        "sound_end": 121223
     },
     {
         "id": "Inuto Ningyo-f000028",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -955,11 +980,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 121223,
+        "sound_end": 123565
     },
     {
         "id": "Inuto Ningyo-f000029",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -995,11 +1021,12 @@
             "て",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 123565,
+        "sound_end": 127386
     },
     {
         "id": "Inuto Ningyo-f000030",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1021,11 +1048,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 127386,
+        "sound_end": 129320
     },
     {
         "id": "Inuto Ningyo-f000031",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1055,11 +1083,12 @@
             "が",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 129320,
+        "sound_end": 131520
     },
     {
         "id": "Inuto Ningyo-f000032",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1093,11 +1122,12 @@
             "から",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 131520,
+        "sound_end": 134240
     },
     {
         "id": "Inuto Ningyo-f000033",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1125,11 +1155,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 134240,
+        "sound_end": 137840
     },
     {
         "id": "Inuto Ningyo-f000034",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1167,11 +1198,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 137840,
+        "sound_end": 142920
     },
     {
         "id": "Inuto Ningyo-f000035",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1217,11 +1249,12 @@
             "から",
             "」"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 142920,
+        "sound_end": 150120
     },
     {
         "id": "Inuto Ningyo-f000036",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1243,11 +1276,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 150120,
+        "sound_end": 151408
     },
     {
         "id": "Inuto Ningyo-f000037",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1281,11 +1315,12 @@
             "が",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 152872,
+        "sound_end": 157351
     },
     {
         "id": "Inuto Ningyo-f000038",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1319,11 +1354,12 @@
             "に",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 157351,
+        "sound_end": 161960
     },
     {
         "id": "Inuto Ningyo-f000039",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1389,11 +1425,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 161960,
+        "sound_end": 170716
     },
     {
         "id": "Inuto Ningyo-f000040",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1411,11 +1448,12 @@
             "は",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 170716,
+        "sound_end": 171640
     },
     {
         "id": "Inuto Ningyo-f000041",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1459,11 +1497,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 173240,
+        "sound_end": 177523
     },
     {
         "id": "Inuto Ningyo-f000042",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1505,11 +1544,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 177523,
+        "sound_end": 181959
     },
     {
         "id": "Inuto Ningyo-f000043",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1531,11 +1571,12 @@
             "が",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 181959,
+        "sound_end": 184240
     },
     {
         "id": "Inuto Ningyo-f000044",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1571,11 +1612,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 184240,
+        "sound_end": 188810
     },
     {
         "id": "Inuto Ningyo-f000045",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1599,11 +1641,12 @@
             "から",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 191320,
+        "sound_end": 194040
     },
     {
         "id": "Inuto Ningyo-f000046",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1647,11 +1690,12 @@
             "が",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 194040,
+        "sound_end": 198984
     },
     {
         "id": "Inuto Ningyo-f000047",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1683,11 +1727,12 @@
             "て",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 198984,
+        "sound_end": 202560
     },
     {
         "id": "Inuto Ningyo-f000048",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1721,11 +1766,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 202560,
+        "sound_end": 204751
     },
     {
         "id": "Inuto Ningyo-f000049",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1743,11 +1789,12 @@
             "来い",
             "」"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 204751,
+        "sound_end": 205878
     },
     {
         "id": "Inuto Ningyo-f000050",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1765,11 +1812,12 @@
             "で",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 205878,
+        "sound_end": 208000
     },
     {
         "id": "Inuto Ningyo-f000051",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1811,11 +1859,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 208000,
+        "sound_end": 212880
     },
     {
         "id": "Inuto Ningyo-f000052",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1869,11 +1918,12 @@
             "と",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 212880,
+        "sound_end": 219419
     },
     {
         "id": "Inuto Ningyo-f000053",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1901,11 +1951,12 @@
             "た",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 219419,
+        "sound_end": 222727
     },
     {
         "id": "Inuto Ningyo-f000054",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1947,11 +1998,12 @@
             "て",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 222727,
+        "sound_end": 228276
     },
     {
         "id": "Inuto Ningyo-f000055",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1969,11 +2021,12 @@
             "よ",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 228276,
+        "sound_end": 229652
     },
     {
         "id": "Inuto Ningyo-f000056",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -1989,11 +2042,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 229652,
+        "sound_end": 231130
     },
     {
         "id": "Inuto Ningyo-f000057",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2029,11 +2083,12 @@
             "で",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 231130,
+        "sound_end": 234848
     },
     {
         "id": "Inuto Ningyo-f000058",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2063,11 +2118,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 234848,
+        "sound_end": 238040
     },
     {
         "id": "Inuto Ningyo-f000059",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2117,11 +2173,12 @@
             "た",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 238040,
+        "sound_end": 245640
     },
     {
         "id": "Inuto Ningyo-f000060",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2147,11 +2204,12 @@
             "て",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 245640,
+        "sound_end": 248320
     },
     {
         "id": "Inuto Ningyo-f000061",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2171,11 +2229,12 @@
             "様",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 248320,
+        "sound_end": 249760
     },
     {
         "id": "Inuto Ningyo-f000062",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2213,11 +2272,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 249760,
+        "sound_end": 253920
     },
     {
         "id": "Inuto Ningyo-f000063",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2247,11 +2307,12 @@
             "なさい",
             "」"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 253920,
+        "sound_end": 256514
     },
     {
         "id": "Inuto Ningyo-f000064",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2273,11 +2334,12 @@
             "が",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 256514,
+        "sound_end": 258812
     },
     {
         "id": "Inuto Ningyo-f000065",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2331,11 +2393,12 @@
             "た",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 258812,
+        "sound_end": 265720
     },
     {
         "id": "Inuto Ningyo-f000066",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2377,11 +2440,12 @@
             "に",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 265720,
+        "sound_end": 274007
     },
     {
         "id": "Inuto Ningyo-f000067",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2399,11 +2463,12 @@
             "痛い",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 274008,
+        "sound_end": 275397
     },
     {
         "id": "Inuto Ningyo-f000068",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2417,11 +2482,12 @@
             "畜生",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 275397,
+        "sound_end": 276232
     },
     {
         "id": "Inuto Ningyo-f000069",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2443,11 +2509,12 @@
             "た",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 276229,
+        "sound_end": 277117
     },
     {
         "id": "Inuto Ningyo-f000070",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2465,11 +2532,12 @@
             "くれ",
             "」"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 277117,
+        "sound_end": 278240
     },
     {
         "id": "Inuto Ningyo-f000071",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2489,11 +2557,12 @@
             "に",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 278240,
+        "sound_end": 279680
     },
     {
         "id": "Inuto Ningyo-f000072",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2529,11 +2598,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 279680,
+        "sound_end": 283493
     },
     {
         "id": "Inuto Ningyo-f000073",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2561,11 +2631,12 @@
             "て",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 283493,
+        "sound_end": 285791
     },
     {
         "id": "Inuto Ningyo-f000074",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2583,11 +2654,12 @@
             "だ",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 285791,
+        "sound_end": 287174
     },
     {
         "id": "Inuto Ningyo-f000075",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2603,11 +2675,12 @@
             "だ",
             "」"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 287174,
+        "sound_end": 288104
     },
     {
         "id": "Inuto Ningyo-f000076",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2633,11 +2706,12 @@
             "た",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 288104,
+        "sound_end": 291040
     },
     {
         "id": "Inuto Ningyo-f000077",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2683,11 +2757,12 @@
             "と",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 291040,
+        "sound_end": 296600
     },
     {
         "id": "Inuto Ningyo-f000078",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2751,11 +2826,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 296600,
+        "sound_end": 304528
     },
     {
         "id": "Inuto Ningyo-f000079",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2797,11 +2873,12 @@
             "と",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 304528,
+        "sound_end": 311080
     },
     {
         "id": "Inuto Ningyo-f000080",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2843,11 +2920,12 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 311080,
+        "sound_end": 317586
     },
     {
         "id": "Inuto Ningyo-f000081",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2875,11 +2953,12 @@
             "と",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 317586,
+        "sound_end": 319958
     },
     {
         "id": "Inuto Ningyo-f000082",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2913,11 +2992,12 @@
             "た",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 319958,
+        "sound_end": 324349
     },
     {
         "id": "Inuto Ningyo-f000083",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2933,11 +3013,12 @@
             "えらい",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 324349,
+        "sound_end": 324891
     },
     {
         "id": "Inuto Ningyo-f000084",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2951,11 +3032,12 @@
             "えらい",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 324891,
+        "sound_end": 325403
     },
     {
         "id": "Inuto Ningyo-f000085",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -2979,11 +3061,12 @@
             "た",
             "」"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 325403,
+        "sound_end": 327687
     },
     {
         "id": "Inuto Ningyo-f000086",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -3013,11 +3096,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 327687,
+        "sound_end": 331449
     },
     {
         "id": "Inuto Ningyo-f000087",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -3059,11 +3143,12 @@
             "た",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 331449,
+        "sound_end": 336120
     },
     {
         "id": "Inuto Ningyo-f000088",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -3095,11 +3180,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 338220,
+        "sound_end": 341560
     },
     {
         "id": "Inuto Ningyo-f000089",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -3139,11 +3225,12 @@
             "た",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 343160,
+        "sound_end": 350362
     },
     {
         "id": "Inuto Ningyo-f000090",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Inuto Ningyo",
         "deck_name_japanese": "犬と人形",
@@ -3185,6 +3272,8 @@
             "た",
             "。"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 350362,
+        "sound_end": 358100
     }
 ]

@@ -2,371 +2,519 @@
     {
         "id": "f000001",
         "sentence": "夢野久作　作",
-        "sentence_with_furigana": "夢野久作　作"
+        "sentence_with_furigana": "夢野久作　作",
+        "audio_begin": 2878,
+        "audio_end": 4501
     },
     {
         "id": "f000002",
         "sentence": "梅のにおい",
-        "sentence_with_furigana": "梅のにおい"
+        "sentence_with_furigana": "梅のにおい",
+        "audio_begin": 5460,
+        "audio_end": 8830
     },
     {
         "id": "f000003",
         "sentence": "一匹の斑猫が人間の真似をして梅の木にのぼって花を嗅いでみました。",
-        "sentence_with_furigana": "一匹の 斑[ぶち]猫が人間の真似をして梅の木にのぼって花を嗅いでみました。"
+        "sentence_with_furigana": "一匹の 斑[ぶち]猫が人間の真似をして梅の木にのぼって花を嗅いでみました。",
+        "audio_begin": 8830,
+        "audio_end": 17227
     },
     {
         "id": "f000004",
         "sentence": "あの枝からこの枝、",
-        "sentence_with_furigana": "あの枝からこの枝、"
+        "sentence_with_furigana": "あの枝からこの枝、",
+        "audio_begin": 17227,
+        "audio_end": 19928
     },
     {
         "id": "f000005",
         "sentence": "花から蕾といくつもいくつも嗅いでみましたが、",
-        "sentence_with_furigana": "花から蕾といくつもいくつも嗅いでみましたが、"
+        "sentence_with_furigana": "花から蕾といくつもいくつも嗅いでみましたが、",
+        "audio_begin": 19928,
+        "audio_end": 25309
     },
     {
         "id": "f000006",
         "sentence": "「ナアーンダ、",
-        "sentence_with_furigana": "「ナアーンダ、"
+        "sentence_with_furigana": "「ナアーンダ、",
+        "audio_begin": 25309,
+        "audio_end": 27447
     },
     {
         "id": "f000007",
         "sentence": "人間がいいにおいだ、",
-        "sentence_with_furigana": "人間がいいにおいだ、"
+        "sentence_with_furigana": "人間がいいにおいだ、",
+        "audio_begin": 27447,
+        "audio_end": 28531
     },
     {
         "id": "f000008",
         "sentence": "いいにおいだと言うから本当にして嗅いでみたら、",
-        "sentence_with_furigana": "いいにおいだと言うから本当にして嗅いでみたら、"
+        "sentence_with_furigana": "いいにおいだと言うから本当にして嗅いでみたら、",
+        "audio_begin": 28531,
+        "audio_end": 32789
     },
     {
         "id": "f000009",
         "sentence": "つまらないにおいじゃないか。",
-        "sentence_with_furigana": "つまらないにおいじゃないか。"
+        "sentence_with_furigana": "つまらないにおいじゃないか。",
+        "audio_begin": 32789,
+        "audio_end": 34809
     },
     {
         "id": "f000010",
         "sentence": "馬鹿馬鹿しい、",
-        "sentence_with_furigana": "馬鹿馬鹿しい、"
+        "sentence_with_furigana": "馬鹿馬鹿しい、",
+        "audio_begin": 34809,
+        "audio_end": 36741
     },
     {
         "id": "f000011",
         "sentence": "帰ろう帰ろう」",
-        "sentence_with_furigana": "帰ろう帰ろう」"
+        "sentence_with_furigana": "帰ろう帰ろう」",
+        "audio_begin": 36741,
+        "audio_end": 39017
     },
     {
         "id": "f000012",
         "sentence": "と樹から降りかかりました。",
-        "sentence_with_furigana": "と樹から降りかかりました。"
+        "sentence_with_furigana": "と樹から降りかかりました。",
+        "audio_begin": 39017,
+        "audio_end": 43807
     },
     {
         "id": "f000013",
         "sentence": "「ホーホケキョ、",
-        "sentence_with_furigana": "「ホーホケキョ、"
+        "sentence_with_furigana": "「ホーホケキョ、",
+        "audio_begin": 43807,
+        "audio_end": 48440
     },
     {
         "id": "f000014",
         "sentence": "ホーホケキョ」",
-        "sentence_with_furigana": "ホーホケキョ」"
+        "sentence_with_furigana": "ホーホケキョ」",
+        "audio_begin": 48440,
+        "audio_end": 52960
     },
     {
         "id": "f000015",
         "sentence": "「オヤ、",
-        "sentence_with_furigana": "「オヤ、"
+        "sentence_with_furigana": "「オヤ、",
+        "audio_begin": 52960,
+        "audio_end": 54840
     },
     {
         "id": "f000016",
         "sentence": "鶯がやって来たな。",
-        "sentence_with_furigana": "鶯がやって来たな。"
+        "sentence_with_furigana": "鶯がやって来たな。",
+        "audio_begin": 54840,
+        "audio_end": 57920
     },
     {
         "id": "f000017",
         "sentence": "おれは一度あいつをたべてみたいと思っていたが、",
-        "sentence_with_furigana": "おれは一度あいつをたべてみたいと思っていたが、"
+        "sentence_with_furigana": "おれは一度あいつをたべてみたいと思っていたが、",
+        "audio_begin": 57920,
+        "audio_end": 61920
     },
     {
         "id": "f000018",
         "sentence": "ちょうどいい。",
-        "sentence_with_furigana": "ちょうどいい。"
+        "sentence_with_furigana": "ちょうどいい。",
+        "audio_begin": 61920,
+        "audio_end": 63449
     },
     {
         "id": "f000019",
         "sentence": "ここに隠れてまっていてやろう」",
-        "sentence_with_furigana": "ここに隠れてまっていてやろう」"
+        "sentence_with_furigana": "ここに隠れてまっていてやろう」",
+        "audio_begin": 63449,
+        "audio_end": 67273
     },
     {
         "id": "f000020",
         "sentence": "「ホーホケキョ、",
-        "sentence_with_furigana": "「ホーホケキョ、"
+        "sentence_with_furigana": "「ホーホケキョ、",
+        "audio_begin": 67273,
+        "audio_end": 71649
     },
     {
         "id": "f000021",
         "sentence": "ホーホケキョ、",
-        "sentence_with_furigana": "ホーホケキョ、"
+        "sentence_with_furigana": "ホーホケキョ、",
+        "audio_begin": 71649,
+        "audio_end": 74881
     },
     {
         "id": "f000022",
         "sentence": "ケキョ、",
-        "sentence_with_furigana": "ケキョ、"
+        "sentence_with_furigana": "ケキョ、",
+        "audio_begin": 74881,
+        "audio_end": 75320
     },
     {
         "id": "f000023",
         "sentence": "ケキョ、",
-        "sentence_with_furigana": "ケキョ、"
+        "sentence_with_furigana": "ケキョ、",
+        "audio_begin": 75320,
+        "audio_end": 75800
     },
     {
         "id": "f000024",
         "sentence": "ケキョ、",
-        "sentence_with_furigana": "ケキョ、"
+        "sentence_with_furigana": "ケキョ、",
+        "audio_begin": 75800,
+        "audio_end": 76290
     },
     {
         "id": "f000025",
         "sentence": "ケキョ、",
-        "sentence_with_furigana": "ケキョ、"
+        "sentence_with_furigana": "ケキョ、",
+        "audio_begin": 76290,
+        "audio_end": 76763
     },
     {
         "id": "f000026",
         "sentence": "ケキョ」",
-        "sentence_with_furigana": "ケキョ」"
+        "sentence_with_furigana": "ケキョ」",
+        "audio_begin": 76763,
+        "audio_end": 78912
     },
     {
         "id": "f000027",
         "sentence": "と言ううちに鶯は、",
-        "sentence_with_furigana": "と言ううちに鶯は、"
+        "sentence_with_furigana": "と言ううちに鶯は、",
+        "audio_begin": 78912,
+        "audio_end": 82154
     },
     {
         "id": "f000028",
         "sentence": "斑のいる梅の木のすぐそばにある梅の花のたくさん開いたほそい枝の処へ、",
-        "sentence_with_furigana": "斑のいる梅の木のすぐそばにある梅の花のたくさん開いたほそい枝の処へ、"
+        "sentence_with_furigana": "斑のいる梅の木のすぐそばにある梅の花のたくさん開いたほそい枝の処へ、",
+        "audio_begin": 82154,
+        "audio_end": 89640
     },
     {
         "id": "f000029",
         "sentence": "ヒョイととまりました。",
-        "sentence_with_furigana": "ヒョイととまりました。"
+        "sentence_with_furigana": "ヒョイととまりました。",
+        "audio_begin": 89640,
+        "audio_end": 93173
     },
     {
         "id": "f000030",
         "sentence": "「鶯さん鶯さん」",
-        "sentence_with_furigana": "「鶯さん鶯さん」"
+        "sentence_with_furigana": "「鶯さん鶯さん」",
+        "audio_begin": 93173,
+        "audio_end": 95972
     },
     {
         "id": "f000031",
         "sentence": "と猫なでごえで呼びかけました。",
-        "sentence_with_furigana": "と猫なでごえで呼びかけました。"
+        "sentence_with_furigana": "と猫なでごえで呼びかけました。",
+        "audio_begin": 95972,
+        "audio_end": 100032
     },
     {
         "id": "f000032",
         "sentence": "「オヤ斑さん、",
-        "sentence_with_furigana": "「オヤ斑さん、"
+        "sentence_with_furigana": "「オヤ斑さん、",
+        "audio_begin": 100032,
+        "audio_end": 102811
     },
     {
         "id": "f000033",
         "sentence": "今日はいいお天気ですね」",
-        "sentence_with_furigana": "今日はいいお天気ですね」"
+        "sentence_with_furigana": "今日はいいお天気ですね」",
+        "audio_begin": 102811,
+        "audio_end": 106160
     },
     {
         "id": "f000034",
         "sentence": "「ニャーニャー、",
-        "sentence_with_furigana": "「ニャーニャー、"
+        "sentence_with_furigana": "「ニャーニャー、",
+        "audio_begin": 106160,
+        "audio_end": 107720
     },
     {
         "id": "f000035",
         "sentence": "ホントにいいお天気ですね。",
-        "sentence_with_furigana": "ホントにいいお天気ですね。"
+        "sentence_with_furigana": "ホントにいいお天気ですね。",
+        "audio_begin": 107720,
+        "audio_end": 110794
     },
     {
         "id": "f000036",
         "sentence": "それにこの梅の花のにおいのいいこと。",
-        "sentence_with_furigana": "それにこの梅の花のにおいのいいこと。"
+        "sentence_with_furigana": "それにこの梅の花のにおいのいいこと。",
+        "audio_begin": 110794,
+        "audio_end": 115308
     },
     {
         "id": "f000037",
         "sentence": "ほんとにたべたくなるようですね」",
-        "sentence_with_furigana": "ほんとにたべたくなるようですね」"
+        "sentence_with_furigana": "ほんとにたべたくなるようですね」",
+        "audio_begin": 115308,
+        "audio_end": 118599
     },
     {
         "id": "f000038",
         "sentence": "「オホホホホ、",
-        "sentence_with_furigana": "「オホホホホ、"
+        "sentence_with_furigana": "「オホホホホ、",
+        "audio_begin": 118599,
+        "audio_end": 120511
     },
     {
         "id": "f000039",
         "sentence": "イヤな斑さんだこと。",
-        "sentence_with_furigana": "イヤな斑さんだこと。"
+        "sentence_with_furigana": "イヤな斑さんだこと。",
+        "audio_begin": 120511,
+        "audio_end": 122857
     },
     {
         "id": "f000040",
         "sentence": "梅の花においしいにおいがしますか」",
-        "sentence_with_furigana": "梅の花においしいにおいがしますか」"
+        "sentence_with_furigana": "梅の花においしいにおいがしますか」",
+        "audio_begin": 122857,
+        "audio_end": 126937
     },
     {
         "id": "f000041",
         "sentence": "「ええ、",
-        "sentence_with_furigana": "「ええ、"
+        "sentence_with_furigana": "「ええ、",
+        "audio_begin": 126937,
+        "audio_end": 128120
     },
     {
         "id": "f000042",
         "sentence": "梅のにおいをかぐとおなかが急にすくようです。",
-        "sentence_with_furigana": "梅のにおいをかぐとおなかが急にすくようです。"
+        "sentence_with_furigana": "梅のにおいをかぐとおなかが急にすくようです。",
+        "audio_begin": 128120,
+        "audio_end": 132397
     },
     {
         "id": "f000043",
         "sentence": "あなたはどんなにおいがするのですか」",
-        "sentence_with_furigana": "あなたはどんなにおいがするのですか」"
+        "sentence_with_furigana": "あなたはどんなにおいがするのですか」",
+        "audio_begin": 132400,
+        "audio_end": 136280
     },
     {
         "id": "f000044",
         "sentence": "「あたしはねえ、",
-        "sentence_with_furigana": "「あたしはねえ、"
+        "sentence_with_furigana": "「あたしはねえ、",
+        "audio_begin": 136280,
+        "audio_end": 138440
     },
     {
         "id": "f000045",
         "sentence": "梅のにおいを嗅ぐと何とも言えないいい心持ちになって、",
-        "sentence_with_furigana": "梅のにおいを嗅ぐと何とも言えないいい心持ちになって、"
+        "sentence_with_furigana": "梅のにおいを嗅ぐと何とも言えないいい心持ちになって、",
+        "audio_begin": 138440,
+        "audio_end": 143849
     },
     {
         "id": "f000046",
         "sentence": "歌がうたいたくなるのです。",
-        "sentence_with_furigana": "歌がうたいたくなるのです。"
+        "sentence_with_furigana": "歌がうたいたくなるのです。",
+        "audio_begin": 143849,
+        "audio_end": 146760
     },
     {
         "id": "f000047",
         "sentence": "そうしてあちらこちらと躍りながら飛びまわりたくなるのです」",
-        "sentence_with_furigana": "そうしてあちらこちらと躍りながら飛びまわりたくなるのです」"
+        "sentence_with_furigana": "そうしてあちらこちらと躍りながら飛びまわりたくなるのです」",
+        "audio_begin": 146760,
+        "audio_end": 153440
     },
     {
         "id": "f000048",
         "sentence": "「ヘエ、",
-        "sentence_with_furigana": "「ヘエ、"
+        "sentence_with_furigana": "「ヘエ、",
+        "audio_begin": 153440,
+        "audio_end": 154897
     },
     {
         "id": "f000049",
         "sentence": "さようですかね。",
-        "sentence_with_furigana": "さようですかね。"
+        "sentence_with_furigana": "さようですかね。",
+        "audio_begin": 155380,
+        "audio_end": 158640
     },
     {
         "id": "f000050",
         "sentence": "そう言えばあたしも何だか踊りたくなったようです」",
-        "sentence_with_furigana": "そう言えばあたしも何だか踊りたくなったようです」"
+        "sentence_with_furigana": "そう言えばあたしも何だか踊りたくなったようです」",
+        "audio_begin": 158640,
+        "audio_end": 162269
     },
     {
         "id": "f000051",
         "sentence": "「まあ、",
-        "sentence_with_furigana": "「まあ、"
+        "sentence_with_furigana": "「まあ、",
+        "audio_begin": 162269,
+        "audio_end": 163111
     },
     {
         "id": "f000052",
         "sentence": "おもしろいこと。",
-        "sentence_with_furigana": "おもしろいこと。"
+        "sentence_with_furigana": "おもしろいこと。",
+        "audio_begin": 163111,
+        "audio_end": 164708
     },
     {
         "id": "f000053",
         "sentence": "一つおどってみせてちょうだいな」",
-        "sentence_with_furigana": "一つおどってみせてちょうだいな」"
+        "sentence_with_furigana": "一つおどってみせてちょうだいな」",
+        "audio_begin": 164708,
+        "audio_end": 167440
     },
     {
         "id": "f000054",
         "sentence": "「いいえ、",
-        "sentence_with_furigana": "「いいえ、"
+        "sentence_with_furigana": "「いいえ、",
+        "audio_begin": 167440,
+        "audio_end": 169059
     },
     {
         "id": "f000055",
         "sentence": "あたしはあなたの着物のにおいを嗅いだら一緒に踊りたくなったのです、",
-        "sentence_with_furigana": "あたしはあなたの着物のにおいを嗅いだら一緒に踊りたくなったのです、"
+        "sentence_with_furigana": "あたしはあなたの着物のにおいを嗅いだら一緒に踊りたくなったのです、",
+        "audio_begin": 169059,
+        "audio_end": 174923
     },
     {
         "id": "f000056",
         "sentence": "本当にあなたのにおいを嗅ぐといいこころもちになります。",
-        "sentence_with_furigana": "本当にあなたのにおいを嗅ぐといいこころもちになります。"
+        "sentence_with_furigana": "本当にあなたのにおいを嗅ぐといいこころもちになります。",
+        "audio_begin": 174923,
+        "audio_end": 180718
     },
     {
         "id": "f000057",
         "sentence": "どうです、",
-        "sentence_with_furigana": "どうです、"
+        "sentence_with_furigana": "どうです、",
+        "audio_begin": 180718,
+        "audio_end": 181800
     },
     {
         "id": "f000058",
         "sentence": "一緒に踊ろうじゃありませんか」",
-        "sentence_with_furigana": "一緒に踊ろうじゃありませんか」"
+        "sentence_with_furigana": "一緒に踊ろうじゃありませんか」",
+        "audio_begin": 181800,
+        "audio_end": 184560
     },
     {
         "id": "f000059",
         "sentence": "「いやですよ。",
-        "sentence_with_furigana": "「いやですよ。"
+        "sentence_with_furigana": "「いやですよ。",
+        "audio_begin": 184560,
+        "audio_end": 186160
     },
     {
         "id": "f000060",
         "sentence": "あなたと踊るのはこわい」",
-        "sentence_with_furigana": "あなたと踊るのはこわい」"
+        "sentence_with_furigana": "あなたと踊るのはこわい」",
+        "audio_begin": 186160,
+        "audio_end": 188395
     },
     {
         "id": "f000061",
         "sentence": "「何故です。",
-        "sentence_with_furigana": "「何故です。"
+        "sentence_with_furigana": "「何故です。",
+        "audio_begin": 188395,
+        "audio_end": 189680
     },
     {
         "id": "f000062",
         "sentence": "ちっとも怖い事はないじゃありませんか。",
-        "sentence_with_furigana": "ちっとも怖い事はないじゃありませんか。"
+        "sentence_with_furigana": "ちっとも怖い事はないじゃありませんか。",
+        "audio_begin": 189680,
+        "audio_end": 194040
     },
     {
         "id": "f000063",
         "sentence": "もっとこっちへきてごらんなさい」",
-        "sentence_with_furigana": "もっとこっちへきてごらんなさい」"
+        "sentence_with_furigana": "もっとこっちへきてごらんなさい」",
+        "audio_begin": 194040,
+        "audio_end": 197120
     },
     {
         "id": "f000064",
         "sentence": "「イヤですよ。",
-        "sentence_with_furigana": "「イヤですよ。"
+        "sentence_with_furigana": "「イヤですよ。",
+        "audio_begin": 197120,
+        "audio_end": 198960
     },
     {
         "id": "f000065",
         "sentence": "妾のにおいを嗅いで踊りたくなったと言うのは嘘でしょう」",
-        "sentence_with_furigana": "妾のにおいを嗅いで踊りたくなったと言うのは嘘でしょう」"
+        "sentence_with_furigana": "妾のにおいを嗅いで踊りたくなったと言うのは嘘でしょう」",
+        "audio_begin": 198960,
+        "audio_end": 204666
     },
     {
         "id": "f000066",
         "sentence": "「どうして」",
-        "sentence_with_furigana": "「どうして」"
+        "sentence_with_furigana": "「どうして」",
+        "audio_begin": 204666,
+        "audio_end": 206933
     },
     {
         "id": "f000067",
         "sentence": "「たべたくなったんでしょう」",
-        "sentence_with_furigana": "「たべたくなったんでしょう」"
+        "sentence_with_furigana": "「たべたくなったんでしょう」",
+        "audio_begin": 206933,
+        "audio_end": 209781
     },
     {
         "id": "f000068",
         "sentence": "と言ううちに鶯はパッと飛げ出しました。",
-        "sentence_with_furigana": "と言ううちに鶯はパッと飛げ出しました。"
+        "sentence_with_furigana": "と言ううちに鶯はパッと飛げ出しました。",
+        "audio_begin": 209781,
+        "audio_end": 215640
     },
     {
         "id": "f000069",
         "sentence": "「しまった」",
-        "sentence_with_furigana": "「しまった」"
+        "sentence_with_furigana": "「しまった」",
+        "audio_begin": 215640,
+        "audio_end": 217173
     },
     {
         "id": "f000070",
         "sentence": "と斑が飛びつきますと、",
-        "sentence_with_furigana": "と斑が飛びつきますと、"
+        "sentence_with_furigana": "と斑が飛びつきますと、",
+        "audio_begin": 217173,
+        "audio_end": 219706
     },
     {
         "id": "f000071",
         "sentence": "ドタリと地べたへ落ちてしまいました。",
-        "sentence_with_furigana": "ドタリと地べたへ落ちてしまいました。"
+        "sentence_with_furigana": "ドタリと地べたへ落ちてしまいました。",
+        "audio_begin": 219706,
+        "audio_end": 224288
     },
     {
         "id": "f000072",
         "sentence": "「ホーホケキョ、",
-        "sentence_with_furigana": "「ホーホケキョ、"
+        "sentence_with_furigana": "「ホーホケキョ、",
+        "audio_begin": 224288,
+        "audio_end": 228506
     },
     {
         "id": "f000073",
         "sentence": "ホーホケキョ」",
-        "sentence_with_furigana": "ホーホケキョ」"
+        "sentence_with_furigana": "ホーホケキョ」",
+        "audio_begin": 228506,
+        "audio_end": 232656
     },
     {
         "id": "f000074",
         "sentence": "と鶯は隣のうちの梅の木で鳴いていました。",
-        "sentence_with_furigana": "と鶯は隣のうちの梅の木で鳴いていました。"
+        "sentence_with_furigana": "と鶯は隣のうちの梅の木で鳴いていました。",
+        "audio_begin": 232656,
+        "audio_end": 242520
     }
 ]

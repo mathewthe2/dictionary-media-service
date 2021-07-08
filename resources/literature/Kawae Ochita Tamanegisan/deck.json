@@ -1,0 +1,1304 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "村山籌子　作",
+        "sentence_with_furigana": "村山籌子　作",
+        "audio_begin": 0,
+        "audio_end": 5779
+    },
+    {
+        "id": "f000002",
+        "sentence": "川へおちた玉ねぎさん",
+        "sentence_with_furigana": "川へおちた玉ねぎさん",
+        "audio_begin": 5779,
+        "audio_end": 10920
+    },
+    {
+        "id": "f000003",
+        "sentence": "ある町にジヤガイモ・ホテルといふ宿屋がありました。",
+        "sentence_with_furigana": "ある町にジヤガイモ・ホテルといふ宿屋がありました。",
+        "audio_begin": 10920,
+        "audio_end": 14840
+    },
+    {
+        "id": "f000004",
+        "sentence": "主人といふのが、",
+        "sentence_with_furigana": "主人といふのが、",
+        "audio_begin": 14840,
+        "audio_end": 17800
+    },
+    {
+        "id": "f000005",
+        "sentence": "ジヤガイモだつたからです。",
+        "sentence_with_furigana": "ジヤガイモだつたからです。",
+        "audio_begin": 17800,
+        "audio_end": 21560
+    },
+    {
+        "id": "f000006",
+        "sentence": "主人のジヤガイモさんは大変親切な人だつたので、",
+        "sentence_with_furigana": "主人のジヤガイモさんは大変親切な人だつたので、",
+        "audio_begin": 21560,
+        "audio_end": 25200
+    },
+    {
+        "id": "f000007",
+        "sentence": "このホテルにはお客様がいつも多すぎて、",
+        "sentence_with_furigana": "このホテルにはお客様がいつも多すぎて、",
+        "audio_begin": 25200,
+        "audio_end": 30040
+    },
+    {
+        "id": "f000008",
+        "sentence": "どうかすると、",
+        "sentence_with_furigana": "どうかすると、",
+        "audio_begin": 30040,
+        "audio_end": 31120
+    },
+    {
+        "id": "f000009",
+        "sentence": "一晩に、",
+        "sentence_with_furigana": "一晩に、",
+        "audio_begin": 31120,
+        "audio_end": 31840
+    },
+    {
+        "id": "f000010",
+        "sentence": "二人や三人のお客様をことわらなければならぬこともありました。",
+        "sentence_with_furigana": "二人や三人のお客様をことわらなければならぬこともありました。",
+        "audio_begin": 31840,
+        "audio_end": 38800
+    },
+    {
+        "id": "f000011",
+        "sentence": "ある夕方、",
+        "sentence_with_furigana": "ある夕方、",
+        "audio_begin": 38800,
+        "audio_end": 40760
+    },
+    {
+        "id": "f000012",
+        "sentence": "もう、",
+        "sentence_with_furigana": "もう、",
+        "audio_begin": 40760,
+        "audio_end": 41000
+    },
+    {
+        "id": "f000013",
+        "sentence": "この上一人のお客様も泊めることが出来ない程、",
+        "sentence_with_furigana": "この上一人のお客様も泊めることが出来ない程、",
+        "audio_begin": 41000,
+        "audio_end": 43960
+    },
+    {
+        "id": "f000014",
+        "sentence": "満員になりましたので、",
+        "sentence_with_furigana": "満員になりましたので、",
+        "audio_begin": 43960,
+        "audio_end": 46960
+    },
+    {
+        "id": "f000015",
+        "sentence": "「満員になりましたから、",
+        "sentence_with_furigana": "「満員になりましたから、",
+        "audio_begin": 46960,
+        "audio_end": 48800
+    },
+    {
+        "id": "f000016",
+        "sentence": "お気の毒でも、",
+        "sentence_with_furigana": "お気の毒でも、",
+        "audio_begin": 48800,
+        "audio_end": 49640
+    },
+    {
+        "id": "f000017",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、",
+        "audio_begin": 49640,
+        "audio_end": 51480
+    },
+    {
+        "id": "f000018",
+        "sentence": "どなたもお泊め出来ません。",
+        "sentence_with_furigana": "どなたもお泊め出来ません。",
+        "audio_begin": 51480,
+        "audio_end": 52840
+    },
+    {
+        "id": "f000019",
+        "sentence": "」といふ大きな満員札をジヤガイモさんは、",
+        "sentence_with_furigana": "」といふ大きな満員札をジヤガイモさんは、",
+        "audio_begin": 52840,
+        "audio_end": 57720
+    },
+    {
+        "id": "f000020",
+        "sentence": "ホテルの入口にかけようとしました。",
+        "sentence_with_furigana": "ホテルの入口にかけようとしました。",
+        "audio_begin": 57720,
+        "audio_end": 61920
+    },
+    {
+        "id": "f000021",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 61920,
+        "audio_end": 62320
+    },
+    {
+        "id": "f000022",
+        "sentence": "そこへ、",
+        "sentence_with_furigana": "そこへ、",
+        "audio_begin": 62320,
+        "audio_end": 63560
+    },
+    {
+        "id": "f000023",
+        "sentence": "立派な玉ねぎの紳士がやつて来て、",
+        "sentence_with_furigana": "立派な玉ねぎの紳士がやつて来て、",
+        "audio_begin": 63560,
+        "audio_end": 66400
+    },
+    {
+        "id": "f000024",
+        "sentence": "ジヤガイモさんに言ひました。",
+        "sentence_with_furigana": "ジヤガイモさんに言ひました。",
+        "audio_begin": 66400,
+        "audio_end": 67720
+    },
+    {
+        "id": "f000025",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、",
+        "audio_begin": 67720,
+        "audio_end": 70720
+    },
+    {
+        "id": "f000026",
+        "sentence": "ジヤガイモさん、",
+        "sentence_with_furigana": "ジヤガイモさん、",
+        "audio_begin": 70720,
+        "audio_end": 72000
+    },
+    {
+        "id": "f000027",
+        "sentence": "私を泊めて下さい。",
+        "sentence_with_furigana": "私を泊めて下さい。",
+        "audio_begin": 72000,
+        "audio_end": 74370
+    },
+    {
+        "id": "f000028",
+        "sentence": "大変つかれてゐますから。」",
+        "sentence_with_furigana": "大変つかれてゐますから。」",
+        "audio_begin": 74370,
+        "audio_end": 79400
+    },
+    {
+        "id": "f000029",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "audio_begin": 79400,
+        "audio_end": 80200
+    },
+    {
+        "id": "f000030",
+        "sentence": "気の毒に思ひましたけれども、",
+        "sentence_with_furigana": "気の毒に思ひましたけれども、",
+        "audio_begin": 80200,
+        "audio_end": 82600
+    },
+    {
+        "id": "f000031",
+        "sentence": "空いてゐる部屋がないので、",
+        "sentence_with_furigana": "空いてゐる部屋がないので、",
+        "audio_begin": 82600,
+        "audio_end": 85560
+    },
+    {
+        "id": "f000032",
+        "sentence": "「お気の毒ですけれども、",
+        "sentence_with_furigana": "「お気の毒ですけれども、",
+        "audio_begin": 85560,
+        "audio_end": 87480
+    },
+    {
+        "id": "f000033",
+        "sentence": "何分、",
+        "sentence_with_furigana": "何分、",
+        "audio_begin": 87480,
+        "audio_end": 88480
+    },
+    {
+        "id": "f000034",
+        "sentence": "もう満員になつてしまひましたから。",
+        "sentence_with_furigana": "もう満員になつてしまひましたから。",
+        "audio_begin": 88480,
+        "audio_end": 91203
+    },
+    {
+        "id": "f000035",
+        "sentence": "」とことわりました。",
+        "sentence_with_furigana": "」とことわりました。",
+        "audio_begin": 91203,
+        "audio_end": 94704
+    },
+    {
+        "id": "f000036",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 94704,
+        "audio_end": 95320
+    },
+    {
+        "id": "f000037",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 95320,
+        "audio_end": 96920
+    },
+    {
+        "id": "f000038",
+        "sentence": "朝から遠い道を歩きつゞけて、",
+        "sentence_with_furigana": "朝から遠い道を歩きつゞけて、",
+        "audio_begin": 96920,
+        "audio_end": 99240
+    },
+    {
+        "id": "f000039",
+        "sentence": "くたくたにつかれてゐるので、",
+        "sentence_with_furigana": "くたくたにつかれてゐるので、",
+        "audio_begin": 99240,
+        "audio_end": 101470
+    },
+    {
+        "id": "f000040",
+        "sentence": "この上歩くことが出来ません。",
+        "sentence_with_furigana": "この上歩くことが出来ません。",
+        "audio_begin": 101470,
+        "audio_end": 106280
+    },
+    {
+        "id": "f000041",
+        "sentence": "「馬小屋でも、",
+        "sentence_with_furigana": "「馬小屋でも、",
+        "audio_begin": 106280,
+        "audio_end": 107600
+    },
+    {
+        "id": "f000042",
+        "sentence": "屋根裏でも、",
+        "sentence_with_furigana": "屋根裏でも、",
+        "audio_begin": 107600,
+        "audio_end": 108320
+    },
+    {
+        "id": "f000043",
+        "sentence": "どこでもいゝから、",
+        "sentence_with_furigana": "どこでもいゝから、",
+        "audio_begin": 108320,
+        "audio_end": 110200
+    },
+    {
+        "id": "f000044",
+        "sentence": "どうぞ泊めて下さい。",
+        "sentence_with_furigana": "どうぞ泊めて下さい。",
+        "audio_begin": 110200,
+        "audio_end": 112770
+    },
+    {
+        "id": "f000045",
+        "sentence": "」とたのみました。",
+        "sentence_with_furigana": "」とたのみました。",
+        "audio_begin": 112770,
+        "audio_end": 116095
+    },
+    {
+        "id": "f000046",
+        "sentence": "そこで、",
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 116095,
+        "audio_end": 117080
+    },
+    {
+        "id": "f000047",
+        "sentence": "ジヤガイモさんは考へました。",
+        "sentence_with_furigana": "ジヤガイモさんは考へました。",
+        "audio_begin": 117080,
+        "audio_end": 120520
+    },
+    {
+        "id": "f000048",
+        "sentence": "犬さんや、",
+        "sentence_with_furigana": "犬さんや、",
+        "audio_begin": 120520,
+        "audio_end": 121440
+    },
+    {
+        "id": "f000049",
+        "sentence": "お猫さんならいざ知らず、",
+        "sentence_with_furigana": "お猫さんならいざ知らず、",
+        "audio_begin": 121440,
+        "audio_end": 122640
+    },
+    {
+        "id": "f000050",
+        "sentence": "玉ねぎさんを馬小屋になんぞ泊めたら、",
+        "sentence_with_furigana": "玉ねぎさんを馬小屋になんぞ泊めたら、",
+        "audio_begin": 122640,
+        "audio_end": 127320
+    },
+    {
+        "id": "f000051",
+        "sentence": "いやしんぼの馬が、",
+        "sentence_with_furigana": "いやしんぼの馬が、",
+        "audio_begin": 127320,
+        "audio_end": 128520
+    },
+    {
+        "id": "f000052",
+        "sentence": "玉ねぎさんを食べてしまふだらう。",
+        "sentence_with_furigana": "玉ねぎさんを食べてしまふだらう。",
+        "audio_begin": 128520,
+        "audio_end": 131554
+    },
+    {
+        "id": "f000053",
+        "sentence": "屋根裏に泊めたら、",
+        "sentence_with_furigana": "屋根裏に泊めたら、",
+        "audio_begin": 131554,
+        "audio_end": 133800
+    },
+    {
+        "id": "f000054",
+        "sentence": "遠慮なしのくもが巣をかけるだらう。",
+        "sentence_with_furigana": "遠慮なしのくもが巣をかけるだらう。",
+        "audio_begin": 133800,
+        "audio_end": 137840
+    },
+    {
+        "id": "f000055",
+        "sentence": "ジヤガイモさんは大変困りましたが、",
+        "sentence_with_furigana": "ジヤガイモさんは大変困りましたが、",
+        "audio_begin": 137840,
+        "audio_end": 140376
+    },
+    {
+        "id": "f000056",
+        "sentence": "地下室のことを思ひ出して、",
+        "sentence_with_furigana": "地下室のことを思ひ出して、",
+        "audio_begin": 140376,
+        "audio_end": 143829
+    },
+    {
+        "id": "f000057",
+        "sentence": "「では、",
+        "sentence_with_furigana": "「では、",
+        "audio_begin": 143829,
+        "audio_end": 144520
+    },
+    {
+        "id": "f000058",
+        "sentence": "地下室でも、",
+        "sentence_with_furigana": "地下室でも、",
+        "audio_begin": 144520,
+        "audio_end": 145520
+    },
+    {
+        "id": "f000059",
+        "sentence": "よろしければお泊めします。",
+        "sentence_with_furigana": "よろしければお泊めします。",
+        "audio_begin": 145520,
+        "audio_end": 147694
+    },
+    {
+        "id": "f000060",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "audio_begin": 147694,
+        "audio_end": 151723
+    },
+    {
+        "id": "f000061",
+        "sentence": "玉ねぎさんは大変よろこんで、",
+        "sentence_with_furigana": "玉ねぎさんは大変よろこんで、",
+        "audio_begin": 151723,
+        "audio_end": 154190
+    },
+    {
+        "id": "f000062",
+        "sentence": "泊めてもらふことにしました。",
+        "sentence_with_furigana": "泊めてもらふことにしました。",
+        "audio_begin": 154190,
+        "audio_end": 157560
+    },
+    {
+        "id": "f000063",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 157560,
+        "audio_end": 158454
+    },
+    {
+        "id": "f000064",
+        "sentence": "ジヤガイモさんに案内してもらつて、",
+        "sentence_with_furigana": "ジヤガイモさんに案内してもらつて、",
+        "audio_begin": 158454,
+        "audio_end": 160709
+    },
+    {
+        "id": "f000065",
+        "sentence": "地下室に行きました。",
+        "sentence_with_furigana": "地下室に行きました。",
+        "audio_begin": 160709,
+        "audio_end": 165520
+    },
+    {
+        "id": "f000066",
+        "sentence": "そこは、",
+        "sentence_with_furigana": "そこは、",
+        "audio_begin": 165520,
+        "audio_end": 166120
+    },
+    {
+        "id": "f000067",
+        "sentence": "真くらで、",
+        "sentence_with_furigana": "真くらで、",
+        "audio_begin": 166120,
+        "audio_end": 167120
+    },
+    {
+        "id": "f000068",
+        "sentence": "何にも見ることが出来ませんでしたので、",
+        "sentence_with_furigana": "何にも見ることが出来ませんでしたので、",
+        "audio_begin": 167120,
+        "audio_end": 170037
+    },
+    {
+        "id": "f000069",
+        "sentence": "玉ねぎさんは手さぐりで、",
+        "sentence_with_furigana": "玉ねぎさんは手さぐりで、",
+        "audio_begin": 170037,
+        "audio_end": 172440
+    },
+    {
+        "id": "f000070",
+        "sentence": "小さいベツドを見付けて、",
+        "sentence_with_furigana": "小さいベツドを見付けて、",
+        "audio_begin": 172440,
+        "audio_end": 174640
+    },
+    {
+        "id": "f000071",
+        "sentence": "そこへ横になるなり、",
+        "sentence_with_furigana": "そこへ横になるなり、",
+        "audio_begin": 174640,
+        "audio_end": 175880
+    },
+    {
+        "id": "f000072",
+        "sentence": "ぐつすり寝込んでしまひました。",
+        "sentence_with_furigana": "ぐつすり寝込んでしまひました。",
+        "audio_begin": 175880,
+        "audio_end": 179669
+    },
+    {
+        "id": "f000073",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 179669,
+        "audio_end": 180206
+    },
+    {
+        "id": "f000074",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、",
+        "audio_begin": 180206,
+        "audio_end": 181800
+    },
+    {
+        "id": "f000075",
+        "sentence": "そのベツドが少しづゝ、",
+        "sentence_with_furigana": "そのベツドが少しづゝ、",
+        "audio_begin": 181800,
+        "audio_end": 183816
+    },
+    {
+        "id": "f000076",
+        "sentence": "コツトン、",
+        "sentence_with_furigana": "コツトン、",
+        "audio_begin": 183816,
+        "audio_end": 185049
+    },
+    {
+        "id": "f000077",
+        "sentence": "コツトンと窓の方へ動き初めました。",
+        "sentence_with_furigana": "コツトンと窓の方へ動き初めました。",
+        "audio_begin": 185049,
+        "audio_end": 190200
+    },
+    {
+        "id": "f000078",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 190200,
+        "audio_end": 191160
+    },
+    {
+        "id": "f000079",
+        "sentence": "窓ぎはの所まで来ると一緒に、",
+        "sentence_with_furigana": "窓ぎはの所まで来ると一緒に、",
+        "audio_begin": 191160,
+        "audio_end": 193671
+    },
+    {
+        "id": "f000080",
+        "sentence": "ベツドは、",
+        "sentence_with_furigana": "ベツドは、",
+        "audio_begin": 193671,
+        "audio_end": 194560
+    },
+    {
+        "id": "f000081",
+        "sentence": "急に、",
+        "sentence_with_furigana": "急に、",
+        "audio_begin": 194560,
+        "audio_end": 195120
+    },
+    {
+        "id": "f000082",
+        "sentence": "パンとひつくりかへつて、",
+        "sentence_with_furigana": "パンとひつくりかへつて、",
+        "audio_begin": 195120,
+        "audio_end": 196920
+    },
+    {
+        "id": "f000083",
+        "sentence": "そのはずみに、",
+        "sentence_with_furigana": "そのはずみに、",
+        "audio_begin": 196920,
+        "audio_end": 197960
+    },
+    {
+        "id": "f000084",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 197960,
+        "audio_end": 200120
+    },
+    {
+        "id": "f000085",
+        "sentence": "窓の外へ投げ出されてしまひました。",
+        "sentence_with_furigana": "窓の外へ投げ出されてしまひました。",
+        "audio_begin": 200120,
+        "audio_end": 204572
+    },
+    {
+        "id": "f000086",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "audio_begin": 204572,
+        "audio_end": 204966
+    },
+    {
+        "id": "f000087",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "audio_begin": 204969,
+        "audio_end": 205172
+    },
+    {
+        "id": "f000088",
+        "sentence": "皆さん、",
+        "sentence_with_furigana": "皆さん、",
+        "audio_begin": 205172,
+        "audio_end": 207040
+    },
+    {
+        "id": "f000089",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、",
+        "audio_begin": 207040,
+        "audio_end": 208520
+    },
+    {
+        "id": "f000090",
+        "sentence": "何があつたかごぞんじですか。",
+        "sentence_with_furigana": "何があつたかごぞんじですか。",
+        "audio_begin": 208520,
+        "audio_end": 212880
+    },
+    {
+        "id": "f000091",
+        "sentence": "窓の外には、",
+        "sentence_with_furigana": "窓の外には、",
+        "audio_begin": 212880,
+        "audio_end": 214160
+    },
+    {
+        "id": "f000092",
+        "sentence": "大きな川が流れてゐたのです。",
+        "sentence_with_furigana": "大きな川が流れてゐたのです。",
+        "audio_begin": 214160,
+        "audio_end": 218034
+    },
+    {
+        "id": "f000093",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 218034,
+        "audio_end": 219680
+    },
+    {
+        "id": "f000094",
+        "sentence": "あつ、",
+        "sentence_with_furigana": "あつ、",
+        "audio_begin": 219680,
+        "audio_end": 219880
+    },
+    {
+        "id": "f000095",
+        "sentence": "と言ふ間もなく、",
+        "sentence_with_furigana": "と言ふ間もなく、",
+        "audio_begin": 219880,
+        "audio_end": 220920
+    },
+    {
+        "id": "f000096",
+        "sentence": "川のなかへ、",
+        "sentence_with_furigana": "川のなかへ、",
+        "audio_begin": 220920,
+        "audio_end": 222280
+    },
+    {
+        "id": "f000097",
+        "sentence": "ざぶんとおつこちて、",
+        "sentence_with_furigana": "ざぶんとおつこちて、",
+        "audio_begin": 222280,
+        "audio_end": 224240
+    },
+    {
+        "id": "f000098",
+        "sentence": "見てゐるうちに、",
+        "sentence_with_furigana": "見てゐるうちに、",
+        "audio_begin": 224240,
+        "audio_end": 225200
+    },
+    {
+        "id": "f000099",
+        "sentence": "水のなかへ沈んで見えなくなつてしまひました。",
+        "sentence_with_furigana": "水のなかへ沈んで見えなくなつてしまひました。",
+        "audio_begin": 225200,
+        "audio_end": 229940
+    },
+    {
+        "id": "f000100",
+        "sentence": "かはいさうに、",
+        "sentence_with_furigana": "かはいさうに、",
+        "audio_begin": 229940,
+        "audio_end": 230680
+    },
+    {
+        "id": "f000101",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 230680,
+        "audio_end": 232360
+    },
+    {
+        "id": "f000102",
+        "sentence": "野菜の皮を外にすてるために、",
+        "sentence_with_furigana": "野菜の皮を外にすてるために、",
+        "audio_begin": 232360,
+        "audio_end": 234320
+    },
+    {
+        "id": "f000103",
+        "sentence": "こしらへてあつた、",
+        "sentence_with_furigana": "こしらへてあつた、",
+        "audio_begin": 234320,
+        "audio_end": 235880
+    },
+    {
+        "id": "f000104",
+        "sentence": "電気仕かけの箱をベツドとまちがへて、",
+        "sentence_with_furigana": "電気仕かけの箱をベツドとまちがへて、",
+        "audio_begin": 235880,
+        "audio_end": 239240
+    },
+    {
+        "id": "f000105",
+        "sentence": "そのなかにはいつて寝てゐたのです。",
+        "sentence_with_furigana": "そのなかにはいつて寝てゐたのです。",
+        "audio_begin": 239240,
+        "audio_end": 244520
+    },
+    {
+        "id": "f000106",
+        "sentence": "しかし——",
+        "sentence_with_furigana": "しかし——",
+        "audio_begin": 244520,
+        "audio_end": 245534
+    },
+    {
+        "id": "f000107",
+        "sentence": "そのうちに、",
+        "sentence_with_furigana": "そのうちに、",
+        "audio_begin": 245534,
+        "audio_end": 246240
+    },
+    {
+        "id": "f000108",
+        "sentence": "夜が明けました。",
+        "sentence_with_furigana": "夜が明けました。",
+        "audio_begin": 246240,
+        "audio_end": 247400
+    },
+    {
+        "id": "f000109",
+        "sentence": "",
+        "sentence_with_furigana": "",
+        "audio_begin": 247400,
+        "audio_end": 251607
+    },
+    {
+        "id": "f000110",
+        "sentence": "朝になつたので、",
+        "sentence_with_furigana": "朝になつたので、",
+        "audio_begin": 251607,
+        "audio_end": 253246
+    },
+    {
+        "id": "f000111",
+        "sentence": "ジヤガイモ・ホテルの主人のジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの主人のジヤガイモさんは、",
+        "audio_begin": 253246,
+        "audio_end": 256300
+    },
+    {
+        "id": "f000112",
+        "sentence": "地下室へ、",
+        "sentence_with_furigana": "地下室へ、",
+        "audio_begin": 256300,
+        "audio_end": 257079
+    },
+    {
+        "id": "f000113",
+        "sentence": "パンと紅茶を銀のおぼんにのつけて、",
+        "sentence_with_furigana": "パンと紅茶を銀のおぼんにのつけて、",
+        "audio_begin": 257079,
+        "audio_end": 259640
+    },
+    {
+        "id": "f000114",
+        "sentence": "来て見ますと、",
+        "sentence_with_furigana": "来て見ますと、",
+        "audio_begin": 259640,
+        "audio_end": 261516
+    },
+    {
+        "id": "f000115",
+        "sentence": "昨日の晩に、",
+        "sentence_with_furigana": "昨日の晩に、",
+        "audio_begin": 261516,
+        "audio_end": 262360
+    },
+    {
+        "id": "f000116",
+        "sentence": "とまつた筈の玉ねぎさんの姿は、",
+        "sentence_with_furigana": "とまつた 筈[はず]の玉ねぎさんの姿は、",
+        "audio_begin": 262360,
+        "audio_end": 265104
+    },
+    {
+        "id": "f000117",
+        "sentence": "影も形もありません。",
+        "sentence_with_furigana": "影も形もありません。",
+        "audio_begin": 265104,
+        "audio_end": 269363
+    },
+    {
+        "id": "f000118",
+        "sentence": "玉ねぎさんの持つて来たトランクが、",
+        "sentence_with_furigana": "玉ねぎさんの持つて来たトランクが、",
+        "audio_begin": 269363,
+        "audio_end": 271600
+    },
+    {
+        "id": "f000119",
+        "sentence": "のこつてゐるだけでした。",
+        "sentence_with_furigana": "のこつてゐるだけでした。",
+        "audio_begin": 271600,
+        "audio_end": 274960
+    },
+    {
+        "id": "f000120",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "audio_begin": 274960,
+        "audio_end": 275760
+    },
+    {
+        "id": "f000121",
+        "sentence": "大変に心配して、",
+        "sentence_with_furigana": "大変に心配して、",
+        "audio_begin": 275760,
+        "audio_end": 277920
+    },
+    {
+        "id": "f000122",
+        "sentence": "早速新聞社へ行つて、",
+        "sentence_with_furigana": "早速新聞社へ行つて、",
+        "audio_begin": 277920,
+        "audio_end": 279882
+    },
+    {
+        "id": "f000123",
+        "sentence": "次のやうな広告を出してもらひました。",
+        "sentence_with_furigana": "次のやうな広告を出してもらひました。",
+        "audio_begin": 279882,
+        "audio_end": 285268
+    },
+    {
+        "id": "f000124",
+        "sentence": "「キノフノバン、",
+        "sentence_with_furigana": "「キノフノバン、",
+        "audio_begin": 285268,
+        "audio_end": 287160
+    },
+    {
+        "id": "f000125",
+        "sentence": "私ノウチノ地下室ニトマツタ玉ネギサンガ、",
+        "sentence_with_furigana": "私ノウチノ地下室ニトマツタ玉ネギサンガ、",
+        "audio_begin": 287160,
+        "audio_end": 290680
+    },
+    {
+        "id": "f000126",
+        "sentence": "行方不明ニナリマシタ。",
+        "sentence_with_furigana": "行方不明ニナリマシタ。",
+        "audio_begin": 290680,
+        "audio_end": 293920
+    },
+    {
+        "id": "f000127",
+        "sentence": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。",
+        "sentence_with_furigana": "オ心アタリノ方ハ私ノトコロマデオ知ラセ下サイ。",
+        "audio_begin": 293920,
+        "audio_end": 299899
+    },
+    {
+        "id": "f000128",
+        "sentence": "知ラセテ下サツタ方ニハ、",
+        "sentence_with_furigana": "知ラセテ下サツタ方ニハ、",
+        "audio_begin": 299899,
+        "audio_end": 302360
+    },
+    {
+        "id": "f000129",
+        "sentence": "オ礼ヲ一円サシアゲマス。",
+        "sentence_with_furigana": "オ礼ヲ一円サシアゲマス。",
+        "audio_begin": 302360,
+        "audio_end": 305860
+    },
+    {
+        "id": "f000130",
+        "sentence": "ジヤガイモ・ホテル。」",
+        "sentence_with_furigana": "ジヤガイモ・ホテル。」",
+        "audio_begin": 305860,
+        "audio_end": 309760
+    },
+    {
+        "id": "f000131",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 309760,
+        "audio_end": 310320
+    },
+    {
+        "id": "f000132",
+        "sentence": "その日の夕方、",
+        "sentence_with_furigana": "その日の夕方、",
+        "audio_begin": 310320,
+        "audio_end": 312240
+    },
+    {
+        "id": "f000133",
+        "sentence": "ひよつくり、",
+        "sentence_with_furigana": "ひよつくり、",
+        "audio_begin": 312240,
+        "audio_end": 313161
+    },
+    {
+        "id": "f000134",
+        "sentence": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。",
+        "sentence_with_furigana": "昨日ゐなくなつた玉ねぎさんが帰つて来ました。",
+        "audio_begin": 313161,
+        "audio_end": 318960
+    },
+    {
+        "id": "f000135",
+        "sentence": "ジヤガイモさんは、",
+        "sentence_with_furigana": "ジヤガイモさんは、",
+        "audio_begin": 318960,
+        "audio_end": 320840
+    },
+    {
+        "id": "f000136",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "audio_begin": 320840,
+        "audio_end": 321400
+    },
+    {
+        "id": "f000137",
+        "sentence": "よく帰つて下さいました。",
+        "sentence_with_furigana": "よく帰つて下さいました。",
+        "audio_begin": 321400,
+        "audio_end": 323440
+    },
+    {
+        "id": "f000138",
+        "sentence": "どんなに心配したか知れません。",
+        "sentence_with_furigana": "どんなに心配したか知れません。",
+        "audio_begin": 323440,
+        "audio_end": 326077
+    },
+    {
+        "id": "f000139",
+        "sentence": "」と言ひましたので、",
+        "sentence_with_furigana": "」と言ひましたので、",
+        "audio_begin": 326077,
+        "audio_end": 327768
+    },
+    {
+        "id": "f000140",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 327768,
+        "audio_end": 329589
+    },
+    {
+        "id": "f000141",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、",
+        "audio_begin": 329589,
+        "audio_end": 330160
+    },
+    {
+        "id": "f000142",
+        "sentence": "ベツドから川のなかへ落ちたか、",
+        "sentence_with_furigana": "ベツドから川のなかへ落ちたか、",
+        "audio_begin": 330160,
+        "audio_end": 332880
+    },
+    {
+        "id": "f000143",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 332880,
+        "audio_end": 333920
+    },
+    {
+        "id": "f000144",
+        "sentence": "どんなに、",
+        "sentence_with_furigana": "どんなに、",
+        "audio_begin": 333920,
+        "audio_end": 334560
+    },
+    {
+        "id": "f000145",
+        "sentence": "あわてておよいで岸に這ひ上つたか、",
+        "sentence_with_furigana": "あわてておよいで岸に 這[は]ひ上つたか、",
+        "audio_begin": 334560,
+        "audio_end": 337880
+    },
+    {
+        "id": "f000146",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 337880,
+        "audio_end": 338920
+    },
+    {
+        "id": "f000147",
+        "sentence": "岸の上で、",
+        "sentence_with_furigana": "岸の上で、",
+        "audio_begin": 338920,
+        "audio_end": 340200
+    },
+    {
+        "id": "f000148",
+        "sentence": "新聞の広告をよんだかを話しました。",
+        "sentence_with_furigana": "新聞の広告をよんだかを話しました。",
+        "audio_begin": 340200,
+        "audio_end": 345320
+    },
+    {
+        "id": "f000149",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 345320,
+        "audio_end": 346840
+    },
+    {
+        "id": "f000150",
+        "sentence": "ジヤガイモさんは頭をかいて申しました。",
+        "sentence_with_furigana": "ジヤガイモさんは頭をかいて申しました。",
+        "audio_begin": 346840,
+        "audio_end": 350610
+    },
+    {
+        "id": "f000151",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、",
+        "audio_begin": 350610,
+        "audio_end": 351680
+    },
+    {
+        "id": "f000152",
+        "sentence": "まことにお気の毒なことを致しました。",
+        "sentence_with_furigana": "まことにお気の毒なことを致しました。",
+        "audio_begin": 351680,
+        "audio_end": 355720
+    },
+    {
+        "id": "f000153",
+        "sentence": "その代り、",
+        "sentence_with_furigana": "その代り、",
+        "audio_begin": 355720,
+        "audio_end": 357206
+    },
+    {
+        "id": "f000154",
+        "sentence": "今晩は、",
+        "sentence_with_furigana": "今晩は、",
+        "audio_begin": 357206,
+        "audio_end": 358040
+    },
+    {
+        "id": "f000155",
+        "sentence": "とても、",
+        "sentence_with_furigana": "とても、",
+        "audio_begin": 358040,
+        "audio_end": 358640
+    },
+    {
+        "id": "f000156",
+        "sentence": "すばらしいお部屋があいてゐますから、",
+        "sentence_with_furigana": "すばらしいお部屋があいてゐますから、",
+        "audio_begin": 358640,
+        "audio_end": 361153
+    },
+    {
+        "id": "f000157",
+        "sentence": "泊つて下さい。",
+        "sentence_with_furigana": "泊つて下さい。",
+        "audio_begin": 361153,
+        "audio_end": 362938
+    },
+    {
+        "id": "f000158",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "audio_begin": 362938,
+        "audio_end": 366640
+    },
+    {
+        "id": "f000159",
+        "sentence": "玉ねぎさんは笑ひながら言ひました。",
+        "sentence_with_furigana": "玉ねぎさんは笑ひながら言ひました。",
+        "audio_begin": 366640,
+        "audio_end": 370680
+    },
+    {
+        "id": "f000160",
+        "sentence": "「あ、",
+        "sentence_with_furigana": "「あ、",
+        "audio_begin": 370680,
+        "audio_end": 370923
+    },
+    {
+        "id": "f000161",
+        "sentence": "あ、",
+        "sentence_with_furigana": "あ、",
+        "audio_begin": 370923,
+        "audio_end": 371960
+    },
+    {
+        "id": "f000162",
+        "sentence": "僕がもう一日おそく、",
+        "sentence_with_furigana": "僕がもう一日おそく、",
+        "audio_begin": 371960,
+        "audio_end": 373480
+    },
+    {
+        "id": "f000163",
+        "sentence": "こゝへ来たら、",
+        "sentence_with_furigana": "こゝへ来たら、",
+        "audio_begin": 373480,
+        "audio_end": 374320
+    },
+    {
+        "id": "f000164",
+        "sentence": "昨日のやうな、",
+        "sentence_with_furigana": "昨日のやうな、",
+        "audio_begin": 374320,
+        "audio_end": 375960
+    },
+    {
+        "id": "f000165",
+        "sentence": "ひどい目には会はなかつたよ。",
+        "sentence_with_furigana": "ひどい目には会はなかつたよ。",
+        "audio_begin": 375960,
+        "audio_end": 378621
+    },
+    {
+        "id": "f000166",
+        "sentence": "」と申しました。",
+        "sentence_with_furigana": "」と申しました。",
+        "audio_begin": 378621,
+        "audio_end": 382920
+    },
+    {
+        "id": "f000167",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 382920,
+        "audio_end": 383360
+    },
+    {
+        "id": "f000168",
+        "sentence": "不思議なことに、",
+        "sentence_with_furigana": "不思議なことに、",
+        "audio_begin": 383360,
+        "audio_end": 384852
+    },
+    {
+        "id": "f000169",
+        "sentence": "玉ねぎさんは、",
+        "sentence_with_furigana": "玉ねぎさんは、",
+        "audio_begin": 384852,
+        "audio_end": 386080
+    },
+    {
+        "id": "f000170",
+        "sentence": "ひどく、",
+        "sentence_with_furigana": "ひどく、",
+        "audio_begin": 386080,
+        "audio_end": 386440
+    },
+    {
+        "id": "f000171",
+        "sentence": "このジヤガイモ・ホテルが気に入つてしまつて、",
+        "sentence_with_furigana": "このジヤガイモ・ホテルが気に入つてしまつて、",
+        "audio_begin": 386440,
+        "audio_end": 389840
+    },
+    {
+        "id": "f000172",
+        "sentence": "一生涯、",
+        "sentence_with_furigana": "一生涯、",
+        "audio_begin": 389840,
+        "audio_end": 390714
+    },
+    {
+        "id": "f000173",
+        "sentence": "この、",
+        "sentence_with_furigana": "この、",
+        "audio_begin": 390714,
+        "audio_end": 391102
+    },
+    {
+        "id": "f000174",
+        "sentence": "ジヤガイモ・ホテルの番頭さんになつて、",
+        "sentence_with_furigana": "ジヤガイモ・ホテルの番頭さんになつて、",
+        "audio_begin": 391102,
+        "audio_end": 394000
+    },
+    {
+        "id": "f000175",
+        "sentence": "ジヤガイモさんと一しよに住むことになりました。",
+        "sentence_with_furigana": "ジヤガイモさんと一しよに住むことになりました。",
+        "audio_begin": 394000,
+        "audio_end": 399240
+    },
+    {
+        "id": "f000176",
+        "sentence": "それですから皆さん、",
+        "sentence_with_furigana": "それですから皆さん、",
+        "audio_begin": 399240,
+        "audio_end": 401600
+    },
+    {
+        "id": "f000177",
+        "sentence": "あなた方のめしあがる洋食で、",
+        "sentence_with_furigana": "あなた方のめしあがる洋食で、",
+        "audio_begin": 401600,
+        "audio_end": 404080
+    },
+    {
+        "id": "f000178",
+        "sentence": "ジヤガイモのついてゐるお皿には、",
+        "sentence_with_furigana": "ジヤガイモのついてゐるお皿には、",
+        "audio_begin": 404080,
+        "audio_end": 406525
+    },
+    {
+        "id": "f000179",
+        "sentence": "きつと、",
+        "sentence_with_furigana": "きつと、",
+        "audio_begin": 406525,
+        "audio_end": 407788
+    },
+    {
+        "id": "f000180",
+        "sentence": "玉ねぎがついてゐるでせう。",
+        "sentence_with_furigana": "玉ねぎがついてゐるでせう。",
+        "audio_begin": 407788,
+        "audio_end": 410049
+    },
+    {
+        "id": "f000181",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "audio_begin": 410049,
+        "audio_end": 410520
+    },
+    {
+        "id": "f000182",
+        "sentence": "こんなわけです。",
+        "sentence_with_furigana": "こんなわけです。",
+        "audio_begin": 410520,
+        "audio_end": 414120
+    },
+    {
+        "id": "f000183",
+        "sentence": "その翌る日から、",
+        "sentence_with_furigana": "その 翌[あく]る日から、",
+        "audio_begin": 414120,
+        "audio_end": 416040
+    },
+    {
+        "id": "f000184",
+        "sentence": "ホテルの看板が、",
+        "sentence_with_furigana": "ホテルの看板が、",
+        "audio_begin": 416040,
+        "audio_end": 417673
+    },
+    {
+        "id": "f000185",
+        "sentence": "こんな風に書き変へられました。",
+        "sentence_with_furigana": "こんな風に書き変へられました。",
+        "audio_begin": 417673,
+        "audio_end": 421309
+    },
+    {
+        "id": "f000186",
+        "sentence": "「ジヤガイモ・玉ネギ・ホテル」と。",
+        "sentence_with_furigana": "「ジヤガイモ・玉ネギ・ホテル」と。",
+        "audio_begin": 421309,
+        "audio_end": 427040
+    }
+]

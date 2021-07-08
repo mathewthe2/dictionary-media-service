@@ -1,7 +1,6 @@
 [
     {
         "id": "Ojiisanga Sutetara-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -23,11 +22,12 @@
             "捨て",
             "たら"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5778,
+        "sound_end": 9040
     },
     {
         "id": "Ojiisanga Sutetara-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -43,11 +43,12 @@
             "日",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9040,
+        "sound_end": 10320
     },
     {
         "id": "Ojiisanga Sutetara-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -75,11 +76,12 @@
             "に",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 10320,
+        "sound_end": 12080
     },
     {
         "id": "Ojiisanga Sutetara-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -101,11 +103,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 12080,
+        "sound_end": 15600
     },
     {
         "id": "Ojiisanga Sutetara-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -123,11 +126,12 @@
             "に",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 15600,
+        "sound_end": 17000
     },
     {
         "id": "Ojiisanga Sutetara-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -147,11 +151,12 @@
             "て",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 17000,
+        "sound_end": 18800
     },
     {
         "id": "Ojiisanga Sutetara-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -177,11 +182,12 @@
             "た",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 18800,
+        "sound_end": 22600
     },
     {
         "id": "Ojiisanga Sutetara-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -197,11 +203,12 @@
             "と",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 22600,
+        "sound_end": 24080
     },
     {
         "id": "Ojiisanga Sutetara-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -223,11 +230,12 @@
             "から",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 24080,
+        "sound_end": 25880
     },
     {
         "id": "Ojiisanga Sutetara-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -251,11 +259,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 25880,
+        "sound_end": 29800
     },
     {
         "id": "Ojiisanga Sutetara-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -275,11 +284,12 @@
             "と",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 29800,
+        "sound_end": 31240
     },
     {
         "id": "Ojiisanga Sutetara-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -301,11 +311,12 @@
             "うす暗い",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 31240,
+        "sound_end": 32720
     },
     {
         "id": "Ojiisanga Sutetara-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -329,11 +340,12 @@
             "た",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 32720,
+        "sound_end": 34920
     },
     {
         "id": "Ojiisanga Sutetara-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -353,11 +365,12 @@
             "や",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 34920,
+        "sound_end": 38120
     },
     {
         "id": "Ojiisanga Sutetara-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -393,11 +406,12 @@
             "た",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 38120,
+        "sound_end": 43960
     },
     {
         "id": "Ojiisanga Sutetara-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -413,11 +427,12 @@
             "はい",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 43960,
+        "sound_end": 44800
     },
     {
         "id": "Ojiisanga Sutetara-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -431,11 +446,12 @@
             "はい",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 44800,
+        "sound_end": 46558
     },
     {
         "id": "Ojiisanga Sutetara-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -455,11 +471,12 @@
             "て",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 46558,
+        "sound_end": 48040
     },
     {
         "id": "Ojiisanga Sutetara-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -479,11 +496,12 @@
             "は",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 48040,
+        "sound_end": 49480
     },
     {
         "id": "Ojiisanga Sutetara-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -503,11 +521,12 @@
             "つ",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 49480,
+        "sound_end": 51240
     },
     {
         "id": "Ojiisanga Sutetara-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -535,11 +554,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 51240,
+        "sound_end": 55440
     },
     {
         "id": "Ojiisanga Sutetara-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -561,11 +581,12 @@
             "も",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 55440,
+        "sound_end": 57280
     },
     {
         "id": "Ojiisanga Sutetara-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -593,11 +614,12 @@
             "か",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 57280,
+        "sound_end": 59040
     },
     {
         "id": "Ojiisanga Sutetara-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -613,11 +635,12 @@
             "と",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 59040,
+        "sound_end": 62160
     },
     {
         "id": "Ojiisanga Sutetara-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -645,11 +668,12 @@
             "た",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 62160,
+        "sound_end": 66072
     },
     {
         "id": "Ojiisanga Sutetara-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -665,11 +689,12 @@
             "は",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 66072,
+        "sound_end": 67489
     },
     {
         "id": "Ojiisanga Sutetara-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -687,11 +712,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 67489,
+        "sound_end": 69480
     },
     {
         "id": "Ojiisanga Sutetara-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -723,11 +749,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 69480,
+        "sound_end": 74840
     },
     {
         "id": "Ojiisanga Sutetara-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -741,11 +768,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 74840,
+        "sound_end": 75160
     },
     {
         "id": "Ojiisanga Sutetara-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -779,11 +807,12 @@
             "て",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 75160,
+        "sound_end": 78320
     },
     {
         "id": "Ojiisanga Sutetara-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -815,11 +844,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 78320,
+        "sound_end": 83840
     },
     {
         "id": "Ojiisanga Sutetara-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -839,11 +869,12 @@
             "た",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 83840,
+        "sound_end": 85449
     },
     {
         "id": "Ojiisanga Sutetara-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -881,11 +912,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 85449,
+        "sound_end": 89199
     },
     {
         "id": "Ojiisanga Sutetara-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -905,11 +937,12 @@
             "しまい",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 89199,
+        "sound_end": 92240
     },
     {
         "id": "Ojiisanga Sutetara-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -923,11 +956,12 @@
             "また",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 92240,
+        "sound_end": 93560
     },
     {
         "id": "Ojiisanga Sutetara-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -941,11 +975,12 @@
             "美しい",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 93560,
+        "sound_end": 95120
     },
     {
         "id": "Ojiisanga Sutetara-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -983,11 +1018,12 @@
             "が",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 95120,
+        "sound_end": 98280
     },
     {
         "id": "Ojiisanga Sutetara-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1013,11 +1049,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 98280,
+        "sound_end": 100760
     },
     {
         "id": "Ojiisanga Sutetara-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1041,11 +1078,12 @@
             "て",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 100760,
+        "sound_end": 103400
     },
     {
         "id": "Ojiisanga Sutetara-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1075,11 +1113,12 @@
             "た",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 103400,
+        "sound_end": 109360
     },
     {
         "id": "Ojiisanga Sutetara-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1095,11 +1134,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 109360,
+        "sound_end": 110040
     },
     {
         "id": "Ojiisanga Sutetara-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1115,11 +1155,12 @@
             "に",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 110040,
+        "sound_end": 112826
     },
     {
         "id": "Ojiisanga Sutetara-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1135,11 +1176,12 @@
             "と",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 112826,
+        "sound_end": 113200
     },
     {
         "id": "Ojiisanga Sutetara-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1159,11 +1201,12 @@
             "は",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 113200,
+        "sound_end": 114440
     },
     {
         "id": "Ojiisanga Sutetara-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1185,11 +1228,12 @@
             "た",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 114440,
+        "sound_end": 118213
     },
     {
         "id": "Ojiisanga Sutetara-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1209,11 +1253,12 @@
             "と",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 118213,
+        "sound_end": 119760
     },
     {
         "id": "Ojiisanga Sutetara-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1233,11 +1278,12 @@
             "は",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 119760,
+        "sound_end": 122760
     },
     {
         "id": "Ojiisanga Sutetara-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1257,11 +1303,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 122760,
+        "sound_end": 124262
     },
     {
         "id": "Ojiisanga Sutetara-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1281,11 +1328,12 @@
             "は",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 124262,
+        "sound_end": 125240
     },
     {
         "id": "Ojiisanga Sutetara-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1307,11 +1355,12 @@
             "から",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 125240,
+        "sound_end": 127120
     },
     {
         "id": "Ojiisanga Sutetara-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1333,11 +1382,12 @@
             "て",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 127120,
+        "sound_end": 128840
     },
     {
         "id": "Ojiisanga Sutetara-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1365,11 +1415,12 @@
             "な",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 128840,
+        "sound_end": 132754
     },
     {
         "id": "Ojiisanga Sutetara-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1385,11 +1436,12 @@
             "と",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 132754,
+        "sound_end": 132923
     },
     {
         "id": "Ojiisanga Sutetara-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1411,11 +1463,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 132923,
+        "sound_end": 136417
     },
     {
         "id": "Ojiisanga Sutetara-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1431,11 +1484,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 136417,
+        "sound_end": 137920
     },
     {
         "id": "Ojiisanga Sutetara-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1475,11 +1529,12 @@
             "と",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 137920,
+        "sound_end": 142080
     },
     {
         "id": "Ojiisanga Sutetara-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1521,11 +1576,12 @@
             "が",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 142080,
+        "sound_end": 147029
     },
     {
         "id": "Ojiisanga Sutetara-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1551,11 +1607,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 147029,
+        "sound_end": 149600
     },
     {
         "id": "Ojiisanga Sutetara-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1577,11 +1634,12 @@
             "です",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 149600,
+        "sound_end": 152393
     },
     {
         "id": "Ojiisanga Sutetara-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1603,11 +1661,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 152393,
+        "sound_end": 155680
     },
     {
         "id": "Ojiisanga Sutetara-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1625,11 +1684,12 @@
             "は",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 155680,
+        "sound_end": 157164
     },
     {
         "id": "Ojiisanga Sutetara-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1647,11 +1707,12 @@
             "て",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 157164,
+        "sound_end": 157880
     },
     {
         "id": "Ojiisanga Sutetara-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1675,11 +1736,12 @@
             "が",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 157880,
+        "sound_end": 160061
     },
     {
         "id": "Ojiisanga Sutetara-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1699,11 +1761,12 @@
             "で",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 160061,
+        "sound_end": 161710
     },
     {
         "id": "Ojiisanga Sutetara-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1739,11 +1802,12 @@
             "ましょう",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 161710,
+        "sound_end": 167800
     },
     {
         "id": "Ojiisanga Sutetara-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1761,11 +1825,12 @@
             "も",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 167800,
+        "sound_end": 169080
     },
     {
         "id": "Ojiisanga Sutetara-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1803,11 +1868,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 169080,
+        "sound_end": 175480
     },
     {
         "id": "Ojiisanga Sutetara-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1821,11 +1887,12 @@
             "やがて",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 175480,
+        "sound_end": 176560
     },
     {
         "id": "Ojiisanga Sutetara-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1845,11 +1912,12 @@
             "は",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 176560,
+        "sound_end": 177720
     },
     {
         "id": "Ojiisanga Sutetara-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1873,11 +1941,12 @@
             "て",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 177720,
+        "sound_end": 179680
     },
     {
         "id": "Ojiisanga Sutetara-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1907,11 +1976,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 179680,
+        "sound_end": 183680
     },
     {
         "id": "Ojiisanga Sutetara-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1937,11 +2007,12 @@
             "た",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 183680,
+        "sound_end": 187880
     },
     {
         "id": "Ojiisanga Sutetara-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1955,11 +2026,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 187880,
+        "sound_end": 188960
     },
     {
         "id": "Ojiisanga Sutetara-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -1987,11 +2059,12 @@
             "た",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 188960,
+        "sound_end": 194154
     },
     {
         "id": "Ojiisanga Sutetara-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2007,11 +2080,12 @@
             "道筋",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 194154,
+        "sound_end": 195920
     },
     {
         "id": "Ojiisanga Sutetara-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2031,11 +2105,12 @@
             "は",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 195920,
+        "sound_end": 196760
     },
     {
         "id": "Ojiisanga Sutetara-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2057,11 +2132,12 @@
             "て",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 196760,
+        "sound_end": 198740
     },
     {
         "id": "Ojiisanga Sutetara-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2083,11 +2159,12 @@
             "た",
             "。"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 198740,
+        "sound_end": 201840
     },
     {
         "id": "Ojiisanga Sutetara-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2107,11 +2184,12 @@
             "も",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 201840,
+        "sound_end": 202680
     },
     {
         "id": "Ojiisanga Sutetara-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2133,11 +2211,12 @@
             "て",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 202680,
+        "sound_end": 204360
     },
     {
         "id": "Ojiisanga Sutetara-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2161,11 +2240,12 @@
             "な",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 204360,
+        "sound_end": 207040
     },
     {
         "id": "Ojiisanga Sutetara-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2179,11 +2259,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 207040,
+        "sound_end": 208400
     },
     {
         "id": "Ojiisanga Sutetara-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2199,11 +2280,12 @@
             "を",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 208400,
+        "sound_end": 209080
     },
     {
         "id": "Ojiisanga Sutetara-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2219,11 +2301,12 @@
             "に",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 209080,
+        "sound_end": 209680
     },
     {
         "id": "Ojiisanga Sutetara-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2247,11 +2330,12 @@
             "は",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 209680,
+        "sound_end": 212120
     },
     {
         "id": "Ojiisanga Sutetara-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2271,11 +2355,12 @@
             "って",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 212120,
+        "sound_end": 214947
     },
     {
         "id": "Ojiisanga Sutetara-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2301,11 +2386,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 214947,
+        "sound_end": 217000
     },
     {
         "id": "Ojiisanga Sutetara-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2321,11 +2407,12 @@
             "と",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 217000,
+        "sound_end": 218430
     },
     {
         "id": "Ojiisanga Sutetara-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2355,11 +2442,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 218430,
+        "sound_end": 222840
     },
     {
         "id": "Ojiisanga Sutetara-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2381,11 +2469,12 @@
             "さっそく",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 222840,
+        "sound_end": 224280
     },
     {
         "id": "Ojiisanga Sutetara-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2411,11 +2500,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 224280,
+        "sound_end": 228200
     },
     {
         "id": "Ojiisanga Sutetara-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2429,11 +2519,12 @@
             "また",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 228200,
+        "sound_end": 229160
     },
     {
         "id": "Ojiisanga Sutetara-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2457,11 +2548,12 @@
             "た",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 229160,
+        "sound_end": 231440
     },
     {
         "id": "Ojiisanga Sutetara-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2497,11 +2589,12 @@
             "た",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 231440,
+        "sound_end": 236159
     },
     {
         "id": "Ojiisanga Sutetara-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2537,11 +2630,12 @@
             "た",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 236159,
+        "sound_end": 242200
     },
     {
         "id": "Ojiisanga Sutetara-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2565,11 +2659,12 @@
             "た",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 242200,
+        "sound_end": 243760
     },
     {
         "id": "Ojiisanga Sutetara-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2607,11 +2702,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 243760,
+        "sound_end": 248800
     },
     {
         "id": "Ojiisanga Sutetara-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2631,11 +2727,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 248800,
+        "sound_end": 250000
     },
     {
         "id": "Ojiisanga Sutetara-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2667,11 +2764,12 @@
             "か",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 250000,
+        "sound_end": 253272
     },
     {
         "id": "Ojiisanga Sutetara-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2693,11 +2791,12 @@
             "た",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 253272,
+        "sound_end": 256975
     },
     {
         "id": "Ojiisanga Sutetara-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2729,11 +2828,12 @@
             "が",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 256975,
+        "sound_end": 259959
     },
     {
         "id": "Ojiisanga Sutetara-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2759,11 +2859,12 @@
             "らしい",
             "。"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 259959,
+        "sound_end": 264840
     },
     {
         "id": "Ojiisanga Sutetara-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2795,11 +2896,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 264840,
+        "sound_end": 270350
     },
     {
         "id": "Ojiisanga Sutetara-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2815,11 +2917,12 @@
             "と",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 270350,
+        "sound_end": 270571
     },
     {
         "id": "Ojiisanga Sutetara-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2845,11 +2948,12 @@
             "た",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 270571,
+        "sound_end": 274855
     },
     {
         "id": "Ojiisanga Sutetara-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2883,11 +2987,12 @@
             "から",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 274855,
+        "sound_end": 278326
     },
     {
         "id": "Ojiisanga Sutetara-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2903,11 +3008,12 @@
             "もの",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 278326,
+        "sound_end": 279963
     },
     {
         "id": "Ojiisanga Sutetara-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2929,11 +3035,12 @@
             "て",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 279963,
+        "sound_end": 281995
     },
     {
         "id": "Ojiisanga Sutetara-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2959,11 +3066,12 @@
             "た",
             "。"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 281995,
+        "sound_end": 286720
     },
     {
         "id": "Ojiisanga Sutetara-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -2989,11 +3097,12 @@
             "か",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 286720,
+        "sound_end": 289843
     },
     {
         "id": "Ojiisanga Sutetara-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3009,11 +3118,12 @@
             "と",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 289843,
+        "sound_end": 290080
     },
     {
         "id": "Ojiisanga Sutetara-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3033,11 +3143,12 @@
             "に",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 290080,
+        "sound_end": 291640
     },
     {
         "id": "Ojiisanga Sutetara-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3063,11 +3174,12 @@
             "た",
             "。"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 291640,
+        "sound_end": 295320
     },
     {
         "id": "Ojiisanga Sutetara-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3083,11 +3195,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 295320,
+        "sound_end": 296160
     },
     {
         "id": "Ojiisanga Sutetara-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3119,11 +3232,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 296160,
+        "sound_end": 300060
     },
     {
         "id": "Ojiisanga Sutetara-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3139,11 +3253,12 @@
             "と",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 300060,
+        "sound_end": 300280
     },
     {
         "id": "Ojiisanga Sutetara-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3167,11 +3282,12 @@
             "た",
             "。"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 300280,
+        "sound_end": 303680
     },
     {
         "id": "Ojiisanga Sutetara-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3187,11 +3303,12 @@
             "よく",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 303680,
+        "sound_end": 305006
     },
     {
         "id": "Ojiisanga Sutetara-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3211,11 +3328,12 @@
             "て",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 305006,
+        "sound_end": 307183
     },
     {
         "id": "Ojiisanga Sutetara-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3241,11 +3359,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 307183,
+        "sound_end": 310393
     },
     {
         "id": "Ojiisanga Sutetara-f000122",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3271,11 +3390,12 @@
             "で",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 310393,
+        "sound_end": 312760
     },
     {
         "id": "Ojiisanga Sutetara-f000123",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3295,11 +3415,12 @@
             "が",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 312760,
+        "sound_end": 313880
     },
     {
         "id": "Ojiisanga Sutetara-f000124",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3319,11 +3440,12 @@
             "て",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 313880,
+        "sound_end": 315160
     },
     {
         "id": "Ojiisanga Sutetara-f000125",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3361,11 +3483,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 315160,
+        "sound_end": 319994
     },
     {
         "id": "Ojiisanga Sutetara-f000126",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3385,11 +3508,12 @@
             "たり",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 319994,
+        "sound_end": 321608
     },
     {
         "id": "Ojiisanga Sutetara-f000127",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3413,11 +3537,12 @@
             "と",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 321608,
+        "sound_end": 323466
     },
     {
         "id": "Ojiisanga Sutetara-f000128",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3441,11 +3566,12 @@
             "から",
             "。"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 323466,
+        "sound_end": 327192
     },
     {
         "id": "Ojiisanga Sutetara-f000129",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3461,11 +3587,12 @@
             "と",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 327192,
+        "sound_end": 327440
     },
     {
         "id": "Ojiisanga Sutetara-f000130",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3485,11 +3612,12 @@
             "は",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 327440,
+        "sound_end": 328080
     },
     {
         "id": "Ojiisanga Sutetara-f000131",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3509,11 +3637,12 @@
             "た",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 328080,
+        "sound_end": 331960
     },
     {
         "id": "Ojiisanga Sutetara-f000132",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3527,11 +3656,12 @@
             "晩方",
             "、"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 331960,
+        "sound_end": 333360
     },
     {
         "id": "Ojiisanga Sutetara-f000133",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3555,11 +3685,12 @@
             "て",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 333360,
+        "sound_end": 335680
     },
     {
         "id": "Ojiisanga Sutetara-f000134",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3591,11 +3722,12 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 335680,
+        "sound_end": 340680
     },
     {
         "id": "Ojiisanga Sutetara-f000135",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3615,11 +3747,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 340680,
+        "sound_end": 342134
     },
     {
         "id": "Ojiisanga Sutetara-f000136",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3653,11 +3786,12 @@
             "か",
             "。"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 342134,
+        "sound_end": 345680
     },
     {
         "id": "Ojiisanga Sutetara-f000137",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3671,11 +3805,12 @@
             "なぜ",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 345680,
+        "sound_end": 345960
     },
     {
         "id": "Ojiisanga Sutetara-f000138",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3701,11 +3836,12 @@
             "か",
             "。"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 345960,
+        "sound_end": 349298
     },
     {
         "id": "Ojiisanga Sutetara-f000139",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3727,11 +3863,12 @@
             "た",
             "。"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 349298,
+        "sound_end": 352160
     },
     {
         "id": "Ojiisanga Sutetara-f000140",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3749,11 +3886,12 @@
             "が",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 352160,
+        "sound_end": 353710
     },
     {
         "id": "Ojiisanga Sutetara-f000141",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3787,11 +3925,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 353710,
+        "sound_end": 357878
     },
     {
         "id": "Ojiisanga Sutetara-f000142",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3807,11 +3946,12 @@
             "と",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 357878,
+        "sound_end": 358600
     },
     {
         "id": "Ojiisanga Sutetara-f000143",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3831,11 +3971,12 @@
             "は",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 358600,
+        "sound_end": 359280
     },
     {
         "id": "Ojiisanga Sutetara-f000144",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3853,11 +3994,12 @@
             "た",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 359280,
+        "sound_end": 362754
     },
     {
         "id": "Ojiisanga Sutetara-f000145",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3885,11 +4027,12 @@
             "は",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 362754,
+        "sound_end": 364623
     },
     {
         "id": "Ojiisanga Sutetara-f000146",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3913,11 +4056,12 @@
             "。",
             "」"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 364623,
+        "sound_end": 368733
     },
     {
         "id": "Ojiisanga Sutetara-f000147",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3949,11 +4093,12 @@
             "で",
             "、"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 368733,
+        "sound_end": 371926
     },
     {
         "id": "Ojiisanga Sutetara-f000148",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -3987,11 +4132,12 @@
             "。",
             "」"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 371926,
+        "sound_end": 376767
     },
     {
         "id": "Ojiisanga Sutetara-f000149",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4005,11 +4151,12 @@
             "こう",
             "、"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 376767,
+        "sound_end": 376975
     },
     {
         "id": "Ojiisanga Sutetara-f000150",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4029,11 +4176,12 @@
             "は",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 376975,
+        "sound_end": 377840
     },
     {
         "id": "Ojiisanga Sutetara-f000151",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4055,11 +4203,12 @@
             "た",
             "。"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 377840,
+        "sound_end": 380960
     },
     {
         "id": "Ojiisanga Sutetara-f000152",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4075,11 +4224,12 @@
             "から",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 380960,
+        "sound_end": 382280
     },
     {
         "id": "Ojiisanga Sutetara-f000153",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4099,11 +4249,12 @@
             "は",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 382280,
+        "sound_end": 382960
     },
     {
         "id": "Ojiisanga Sutetara-f000154",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4121,11 +4272,12 @@
             "て",
             "、"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 382960,
+        "sound_end": 384440
     },
     {
         "id": "Ojiisanga Sutetara-f000155",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4145,11 +4297,12 @@
             "に",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 384440,
+        "sound_end": 385880
     },
     {
         "id": "Ojiisanga Sutetara-f000156",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4179,11 +4332,12 @@
             "た",
             "。"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 385880,
+        "sound_end": 389760
     },
     {
         "id": "Ojiisanga Sutetara-f000157",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4211,11 +4365,12 @@
             "やり",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 389760,
+        "sound_end": 393760
     },
     {
         "id": "Ojiisanga Sutetara-f000158",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4263,11 +4418,12 @@
             "から",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 393760,
+        "sound_end": 399755
     },
     {
         "id": "Ojiisanga Sutetara-f000159",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4301,11 +4457,12 @@
             "て",
             "、"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 399755,
+        "sound_end": 404280
     },
     {
         "id": "Ojiisanga Sutetara-f000160",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4329,11 +4486,12 @@
             "た",
             "。"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 404280,
+        "sound_end": 407760
     },
     {
         "id": "Ojiisanga Sutetara-f000161",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4351,11 +4509,12 @@
             "は",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 407760,
+        "sound_end": 409542
     },
     {
         "id": "Ojiisanga Sutetara-f000162",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4377,11 +4536,12 @@
             "に",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 409542,
+        "sound_end": 412247
     },
     {
         "id": "Ojiisanga Sutetara-f000163",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4427,11 +4587,12 @@
             "た",
             "。"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 412247,
+        "sound_end": 420440
     },
     {
         "id": "Ojiisanga Sutetara-f000164",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4459,11 +4620,12 @@
             "咲き",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 420440,
+        "sound_end": 425920
     },
     {
         "id": "Ojiisanga Sutetara-f000165",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4511,11 +4673,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 425920,
+        "sound_end": 434840
     },
     {
         "id": "Ojiisanga Sutetara-f000166",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4539,11 +4702,12 @@
             "が",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 434840,
+        "sound_end": 437000
     },
     {
         "id": "Ojiisanga Sutetara-f000167",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4565,11 +4729,12 @@
             "て",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 437000,
+        "sound_end": 438640
     },
     {
         "id": "Ojiisanga Sutetara-f000168",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4593,11 +4758,12 @@
             "から",
             "、"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 438640,
+        "sound_end": 441284
     },
     {
         "id": "Ojiisanga Sutetara-f000169",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4619,11 +4785,12 @@
             "も",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 441284,
+        "sound_end": 443960
     },
     {
         "id": "Ojiisanga Sutetara-f000170",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4649,11 +4816,12 @@
             "が",
             "、"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 443960,
+        "sound_end": 445320
     },
     {
         "id": "Ojiisanga Sutetara-f000171",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4677,11 +4845,12 @@
             "は",
             "、"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 445320,
+        "sound_end": 447600
     },
     {
         "id": "Ojiisanga Sutetara-f000172",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4697,11 +4866,12 @@
             "は",
             "、"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 447600,
+        "sound_end": 448280
     },
     {
         "id": "Ojiisanga Sutetara-f000173",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4723,11 +4893,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 448280,
+        "sound_end": 451129
     },
     {
         "id": "Ojiisanga Sutetara-f000174",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4747,11 +4918,12 @@
             "て",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 451129,
+        "sound_end": 452429
     },
     {
         "id": "Ojiisanga Sutetara-f000175",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4769,11 +4941,12 @@
             "た",
             "。"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 452429,
+        "sound_end": 456388
     },
     {
         "id": "Ojiisanga Sutetara-f000176",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4797,11 +4970,12 @@
             "に",
             "、"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 456388,
+        "sound_end": 458880
     },
     {
         "id": "Ojiisanga Sutetara-f000177",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4829,11 +5003,12 @@
             "と",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 458880,
+        "sound_end": 460760
     },
     {
         "id": "Ojiisanga Sutetara-f000178",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4857,11 +5032,12 @@
             "て",
             "、"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 460760,
+        "sound_end": 464720
     },
     {
         "id": "Ojiisanga Sutetara-f000179",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4883,11 +5059,12 @@
             "な",
             "。"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 464720,
+        "sound_end": 467534
     },
     {
         "id": "Ojiisanga Sutetara-f000180",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4917,11 +5094,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 467534,
+        "sound_end": 469960
     },
     {
         "id": "Ojiisanga Sutetara-f000181",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4939,11 +5117,12 @@
             "は",
             "、"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 469960,
+        "sound_end": 471168
     },
     {
         "id": "Ojiisanga Sutetara-f000182",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -4981,11 +5160,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 471168,
+        "sound_end": 475480
     },
     {
         "id": "Ojiisanga Sutetara-f000183",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5005,11 +5185,12 @@
             "は",
             "、"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 475480,
+        "sound_end": 477158
     },
     {
         "id": "Ojiisanga Sutetara-f000184",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5027,11 +5208,12 @@
             "は",
             "、"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 477158,
+        "sound_end": 478203
     },
     {
         "id": "Ojiisanga Sutetara-f000185",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5059,11 +5241,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 478203,
+        "sound_end": 481721
     },
     {
         "id": "Ojiisanga Sutetara-f000186",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5083,11 +5266,12 @@
             "て",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 481721,
+        "sound_end": 482992
     },
     {
         "id": "Ojiisanga Sutetara-f000187",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5113,11 +5297,12 @@
             "た",
             "。"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 482992,
+        "sound_end": 487080
     },
     {
         "id": "Ojiisanga Sutetara-f000188",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5133,11 +5318,12 @@
             "が",
             "、"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 487080,
+        "sound_end": 488360
     },
     {
         "id": "Ojiisanga Sutetara-f000189",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5169,11 +5355,12 @@
             "が",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 488360,
+        "sound_end": 491400
     },
     {
         "id": "Ojiisanga Sutetara-f000190",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5201,11 +5388,12 @@
             "た",
             "。"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 491400,
+        "sound_end": 495040
     },
     {
         "id": "Ojiisanga Sutetara-f000191",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5221,11 +5409,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 495040,
+        "sound_end": 495680
     },
     {
         "id": "Ojiisanga Sutetara-f000192",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5253,11 +5442,12 @@
             "が",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 495680,
+        "sound_end": 497800
     },
     {
         "id": "Ojiisanga Sutetara-f000193",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5283,11 +5473,12 @@
             "て",
             "、"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 497800,
+        "sound_end": 500762
     },
     {
         "id": "Ojiisanga Sutetara-f000194",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5301,11 +5492,12 @@
             "たとえ",
             "、"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 500762,
+        "sound_end": 501354
     },
     {
         "id": "Ojiisanga Sutetara-f000195",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5323,11 +5515,12 @@
             "も",
             "、"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 501354,
+        "sound_end": 502600
     },
     {
         "id": "Ojiisanga Sutetara-f000196",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5349,11 +5542,12 @@
             "て",
             "、"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 502600,
+        "sound_end": 503920
     },
     {
         "id": "Ojiisanga Sutetara-f000197",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5373,11 +5567,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 503920,
+        "sound_end": 505440
     },
     {
         "id": "Ojiisanga Sutetara-f000198",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5403,11 +5598,12 @@
             "に",
             "、"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 505440,
+        "sound_end": 507040
     },
     {
         "id": "Ojiisanga Sutetara-f000199",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5433,11 +5629,12 @@
             "から",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 507040,
+        "sound_end": 509400
     },
     {
         "id": "Ojiisanga Sutetara-f000200",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5459,11 +5656,12 @@
             "が",
             "、"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 509400,
+        "sound_end": 510840
     },
     {
         "id": "Ojiisanga Sutetara-f000201",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5485,11 +5683,12 @@
             "た",
             "。"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 510840,
+        "sound_end": 514440
     },
     {
         "id": "Ojiisanga Sutetara-f000202",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5505,11 +5704,12 @@
             "で",
             "、"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 514440,
+        "sound_end": 515520
     },
     {
         "id": "Ojiisanga Sutetara-f000203",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5541,11 +5741,12 @@
             "た",
             "。"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 515520,
+        "sound_end": 521600
     },
     {
         "id": "Ojiisanga Sutetara-f000204",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5561,11 +5762,12 @@
             "日",
             "、"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 521600,
+        "sound_end": 523018
     },
     {
         "id": "Ojiisanga Sutetara-f000205",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5587,11 +5789,12 @@
             "が",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 523018,
+        "sound_end": 524777
     },
     {
         "id": "Ojiisanga Sutetara-f000206",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5613,11 +5816,12 @@
             "て",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 524777,
+        "sound_end": 526884
     },
     {
         "id": "Ojiisanga Sutetara-f000207",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5651,11 +5855,12 @@
             "で",
             "、"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 526884,
+        "sound_end": 530880
     },
     {
         "id": "Ojiisanga Sutetara-f000208",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5675,11 +5880,12 @@
             "は",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 530880,
+        "sound_end": 532242
     },
     {
         "id": "Ojiisanga Sutetara-f000209",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5709,11 +5915,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 532242,
+        "sound_end": 534960
     },
     {
         "id": "Ojiisanga Sutetara-f000210",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5755,11 +5962,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 534960,
+        "sound_end": 540752
     },
     {
         "id": "Ojiisanga Sutetara-f000211",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5773,11 +5981,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 540752,
+        "sound_end": 541240
     },
     {
         "id": "Ojiisanga Sutetara-f000212",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5795,11 +6004,12 @@
             "で",
             "、"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 541240,
+        "sound_end": 543960
     },
     {
         "id": "Ojiisanga Sutetara-f000213",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5819,11 +6029,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 543960,
+        "sound_end": 544840
     },
     {
         "id": "Ojiisanga Sutetara-f000214",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5845,11 +6056,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 544840,
+        "sound_end": 549094
     },
     {
         "id": "Ojiisanga Sutetara-f000215",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5869,11 +6081,12 @@
             "て",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 549094,
+        "sound_end": 550360
     },
     {
         "id": "Ojiisanga Sutetara-f000216",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5893,11 +6106,12 @@
             "は",
             "、"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 550360,
+        "sound_end": 551840
     },
     {
         "id": "Ojiisanga Sutetara-f000217",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Ojiisanga Sutetara",
         "deck_name_japanese": "おじいさんが捨てたら",
@@ -5921,6 +6135,8 @@
             "た",
             "。"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 551840,
+        "sound_end": 556080
     }
 ]

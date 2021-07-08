@@ -1,0 +1,2277 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "小川未明　作",
+        "sentence_with_furigana": "小川未明　作",
+        "audio_begin": 0,
+        "audio_end": 6144
+    },
+    {
+        "id": "f000002",
+        "sentence": "金魚売り",
+        "sentence_with_furigana": "金魚売り",
+        "audio_begin": 6144,
+        "audio_end": 10746
+    },
+    {
+        "id": "f000003",
+        "sentence": "たくさんな金魚の子が、",
+        "sentence_with_furigana": "たくさんな 金魚[きんぎょ]の 子[こ]が、",
+        "audio_begin": 10767,
+        "audio_end": 13520
+    },
+    {
+        "id": "f000004",
+        "sentence": "おけの中で、",
+        "sentence_with_furigana": "おけの 中[なか]で、",
+        "audio_begin": 13520,
+        "audio_end": 14880
+    },
+    {
+        "id": "f000005",
+        "sentence": "あふ、",
+        "sentence_with_furigana": "あふ、",
+        "audio_begin": 14880,
+        "audio_end": 15440
+    },
+    {
+        "id": "f000006",
+        "sentence": "あふとして泳いでいました。",
+        "sentence_with_furigana": "あふとして 泳[およ]いでいました。",
+        "audio_begin": 15440,
+        "audio_end": 19320
+    },
+    {
+        "id": "f000007",
+        "sentence": "体じゅうがすっかり赤いのや、",
+        "sentence_with_furigana": "体[からだ]じゅうがすっかり 赤[あか]いのや、",
+        "audio_begin": 19320,
+        "audio_end": 22120
+    },
+    {
+        "id": "f000008",
+        "sentence": "白と赤のまだらのや、",
+        "sentence_with_furigana": "白[しろ]と 赤[あか]のまだらのや、",
+        "audio_begin": 22120,
+        "audio_end": 24880
+    },
+    {
+        "id": "f000009",
+        "sentence": "頭のさきが、",
+        "sentence_with_furigana": "頭[あたま]のさきが、",
+        "audio_begin": 24880,
+        "audio_end": 25880
+    },
+    {
+        "id": "f000010",
+        "sentence": "ちょっと黒いのや、",
+        "sentence_with_furigana": "ちょっと 黒[くろ]いのや、",
+        "audio_begin": 25880,
+        "audio_end": 28120
+    },
+    {
+        "id": "f000011",
+        "sentence": "いろいろあったのです。",
+        "sentence_with_furigana": "いろいろあったのです。",
+        "audio_begin": 28120,
+        "audio_end": 31840
+    },
+    {
+        "id": "f000012",
+        "sentence": "それを前と後ろに二つのおけの中にいれて、",
+        "sentence_with_furigana": "それを 前[まえ]と 後[うし]ろに二つのおけの 中[なか]にいれて、",
+        "audio_begin": 31840,
+        "audio_end": 35720
+    },
+    {
+        "id": "f000013",
+        "sentence": "肩にかついで、",
+        "sentence_with_furigana": "肩[かた]にかついで、",
+        "audio_begin": 35720,
+        "audio_end": 38080
+    },
+    {
+        "id": "f000014",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 38080,
+        "audio_end": 39280
+    },
+    {
+        "id": "f000015",
+        "sentence": "春のさびしい道を歩いていました。",
+        "sentence_with_furigana": "春[はる]のさびしい 道[みち]を 歩[ある]いていました。",
+        "audio_begin": 39280,
+        "audio_end": 44268
+    },
+    {
+        "id": "f000016",
+        "sentence": "このおじいさんは、",
+        "sentence_with_furigana": "このおじいさんは、",
+        "audio_begin": 44268,
+        "audio_end": 46259
+    },
+    {
+        "id": "f000017",
+        "sentence": "これらの金魚を仲買や、",
+        "sentence_with_furigana": "これらの 金魚[きんぎょ]を 仲買[なかがい]や、",
+        "audio_begin": 46259,
+        "audio_end": 49360
+    },
+    {
+        "id": "f000018",
+        "sentence": "卸屋などから買ってきたのではありません。",
+        "sentence_with_furigana": "卸屋[おろしや]などから 買[か]ってきたのではありません。",
+        "audio_begin": 49360,
+        "audio_end": 54158
+    },
+    {
+        "id": "f000019",
+        "sentence": "自分で卵から養成したのでありますから、",
+        "sentence_with_furigana": "自分[じぶん]で 卵[たまご]から 養成[ようせい]したのでありますから、",
+        "audio_begin": 54158,
+        "audio_end": 57840
+    },
+    {
+        "id": "f000020",
+        "sentence": "ほんとうに、",
+        "sentence_with_furigana": "ほんとうに、",
+        "audio_begin": 57840,
+        "audio_end": 58880
+    },
+    {
+        "id": "f000021",
+        "sentence": "自分の子供のように、",
+        "sentence_with_furigana": "自分[じぶん]の 子供[こども]のように、",
+        "audio_begin": 58880,
+        "audio_end": 60760
+    },
+    {
+        "id": "f000022",
+        "sentence": "かわいく思っていたのです。",
+        "sentence_with_furigana": "かわいく 思[おも]っていたのです。",
+        "audio_begin": 60760,
+        "audio_end": 65438
+    },
+    {
+        "id": "f000023",
+        "sentence": "「これを売らなければならぬとは、",
+        "sentence_with_furigana": "「これを 売[う]らなければならぬとは、",
+        "audio_begin": 65438,
+        "audio_end": 68400
+    },
+    {
+        "id": "f000024",
+        "sentence": "なんと悲しいことだろう。」",
+        "sentence_with_furigana": "なんと 悲[かな]しいことだろう。」",
+        "audio_begin": 68400,
+        "audio_end": 71112
+    },
+    {
+        "id": "f000025",
+        "sentence": "こう、",
+        "sentence_with_furigana": "こう、",
+        "audio_begin": 71112,
+        "audio_end": 72440
+    },
+    {
+        "id": "f000026",
+        "sentence": "おじいさんは思ったのでした。",
+        "sentence_with_furigana": "おじいさんは 思[おも]ったのでした。",
+        "audio_begin": 72440,
+        "audio_end": 77320
+    },
+    {
+        "id": "f000027",
+        "sentence": "春の風は、",
+        "sentence_with_furigana": "春[はる]の 風[かぜ]は、",
+        "audio_begin": 77320,
+        "audio_end": 78160
+    },
+    {
+        "id": "f000028",
+        "sentence": "やわらかに吹いて、",
+        "sentence_with_furigana": "やわらかに 吹[ふ]いて、",
+        "audio_begin": 78160,
+        "audio_end": 79840
+    },
+    {
+        "id": "f000029",
+        "sentence": "おじいさんの顔をなで過ぎました。",
+        "sentence_with_furigana": "おじいさんの 顔[かお]をなで 過[す]ぎました。",
+        "audio_begin": 79840,
+        "audio_end": 84000
+    },
+    {
+        "id": "f000030",
+        "sentence": "道端には、",
+        "sentence_with_furigana": "道端[みちばた]には、",
+        "audio_begin": 84000,
+        "audio_end": 85000
+    },
+    {
+        "id": "f000031",
+        "sentence": "すみれや、",
+        "sentence_with_furigana": "すみれや、",
+        "audio_begin": 85000,
+        "audio_end": 86000
+    },
+    {
+        "id": "f000032",
+        "sentence": "たんぽぽ、",
+        "sentence_with_furigana": "たんぽぽ、",
+        "audio_begin": 86000,
+        "audio_end": 87200
+    },
+    {
+        "id": "f000033",
+        "sentence": "あざみなどの花が、",
+        "sentence_with_furigana": "あざみなどの 花[はな]が、",
+        "audio_begin": 87200,
+        "audio_end": 88600
+    },
+    {
+        "id": "f000034",
+        "sentence": "夢でも見ながら眠っているように咲いていました。",
+        "sentence_with_furigana": "夢[ゆめ]でも 見[み]ながら 眠[ねむ]っているように 咲[さ]いていました。",
+        "audio_begin": 88600,
+        "audio_end": 93760
+    },
+    {
+        "id": "f000035",
+        "sentence": "あちらの野原は、",
+        "sentence_with_furigana": "あちらの 野原[のはら]は、",
+        "audio_begin": 93760,
+        "audio_end": 94960
+    },
+    {
+        "id": "f000036",
+        "sentence": "かすんでいました。",
+        "sentence_with_furigana": "かすんでいました。",
+        "audio_begin": 94960,
+        "audio_end": 99200
+    },
+    {
+        "id": "f000037",
+        "sentence": "いろいろの思い出は、",
+        "sentence_with_furigana": "いろいろの 思[おも]い 出[で]は、",
+        "audio_begin": 99200,
+        "audio_end": 100920
+    },
+    {
+        "id": "f000038",
+        "sentence": "おじいさんの頭の中にあらわれて、",
+        "sentence_with_furigana": "おじいさんの 頭[あたま]の 中[なか]にあらわれて、",
+        "audio_begin": 100920,
+        "audio_end": 103800
+    },
+    {
+        "id": "f000039",
+        "sentence": "笑い声をたてたり、",
+        "sentence_with_furigana": "笑[わら]い 声[ごえ]をたてたり、",
+        "audio_begin": 103800,
+        "audio_end": 105720
+    },
+    {
+        "id": "f000040",
+        "sentence": "また悲しい泣き声をたてたかと思うと、",
+        "sentence_with_furigana": "また 悲[かな]しい 泣[な]き 声[ごえ]をたてたかと 思[おも]うと、",
+        "audio_begin": 105720,
+        "audio_end": 109400
+    },
+    {
+        "id": "f000041",
+        "sentence": "いつのまにか、",
+        "sentence_with_furigana": "いつのまにか、",
+        "audio_begin": 109400,
+        "audio_end": 110880
+    },
+    {
+        "id": "f000042",
+        "sentence": "跡も形もなく消えてしまって、",
+        "sentence_with_furigana": "跡[あと]も 形[かたち]もなく 消[き]えてしまって、",
+        "audio_begin": 110880,
+        "audio_end": 113960
+    },
+    {
+        "id": "f000043",
+        "sentence": "さらに、",
+        "sentence_with_furigana": "さらに、",
+        "audio_begin": 113960,
+        "audio_end": 114800
+    },
+    {
+        "id": "f000044",
+        "sentence": "新しい、",
+        "sentence_with_furigana": "新[あたら]しい、",
+        "audio_begin": 114800,
+        "audio_end": 115600
+    },
+    {
+        "id": "f000045",
+        "sentence": "別の空想が、",
+        "sentence_with_furigana": "別[べつ]の 空想[くうそう]が、",
+        "audio_begin": 115600,
+        "audio_end": 116960
+    },
+    {
+        "id": "f000046",
+        "sentence": "顔を出したのです。",
+        "sentence_with_furigana": "顔[かお]を 出[だ]したのです。",
+        "audio_begin": 116960,
+        "audio_end": 121600
+    },
+    {
+        "id": "f000047",
+        "sentence": "人家のあるところまでくると、",
+        "sentence_with_furigana": "人家[じんか]のあるところまでくると、",
+        "audio_begin": 121600,
+        "audio_end": 124560
+    },
+    {
+        "id": "f000048",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 124560,
+        "audio_end": 126591
+    },
+    {
+        "id": "f000049",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、",
+        "audio_begin": 126591,
+        "audio_end": 128276
+    },
+    {
+        "id": "f000050",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——",
+        "audio_begin": 128276,
+        "audio_end": 129856
+    },
+    {
+        "id": "f000051",
+        "sentence": "。」と、",
+        "sentence_with_furigana": "。」と、",
+        "audio_begin": 129856,
+        "audio_end": 130080
+    },
+    {
+        "id": "f000052",
+        "sentence": "呼びました。",
+        "sentence_with_furigana": "呼[よ]びました。",
+        "audio_begin": 130080,
+        "audio_end": 134175
+    },
+    {
+        "id": "f000053",
+        "sentence": "子供たちが、",
+        "sentence_with_furigana": "子供[こども]たちが、",
+        "audio_begin": 134175,
+        "audio_end": 135320
+    },
+    {
+        "id": "f000054",
+        "sentence": "その声を聞きつけて、",
+        "sentence_with_furigana": "その 声[こえ]を 聞[き]きつけて、",
+        "audio_begin": 135320,
+        "audio_end": 136880
+    },
+    {
+        "id": "f000055",
+        "sentence": "どこからかたくさん集まってきます。",
+        "sentence_with_furigana": "どこからかたくさん 集[あつ]まってきます。",
+        "audio_begin": 136880,
+        "audio_end": 142000
+    },
+    {
+        "id": "f000056",
+        "sentence": "その子供たちは、",
+        "sentence_with_furigana": "その 子供[こども]たちは、",
+        "audio_begin": 142000,
+        "audio_end": 143680
+    },
+    {
+        "id": "f000057",
+        "sentence": "なんとなく乱暴そうに見えました。",
+        "sentence_with_furigana": "なんとなく 乱暴[らんぼう]そうに 見[み]えました。",
+        "audio_begin": 143680,
+        "audio_end": 145680
+    },
+    {
+        "id": "f000058",
+        "sentence": "金魚の泳いでいる中へ棒をいれて、",
+        "sentence_with_furigana": "金魚[きんぎょ]の 泳[およ]いでいる 中[なか]へ 棒[ぼう]をいれて、",
+        "audio_begin": 145680,
+        "audio_end": 150160
+    },
+    {
+        "id": "f000059",
+        "sentence": "かきまわしかねないように見えました。",
+        "sentence_with_furigana": "かきまわしかねないように 見[み]えました。",
+        "audio_begin": 150160,
+        "audio_end": 154680
+    },
+    {
+        "id": "f000060",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 154680,
+        "audio_end": 155440
+    },
+    {
+        "id": "f000061",
+        "sentence": "そうした子供たちには、",
+        "sentence_with_furigana": "そうした 子供[こども]たちには、",
+        "audio_begin": 155440,
+        "audio_end": 157560
+    },
+    {
+        "id": "f000062",
+        "sentence": "売りたいとは思いませんでした。",
+        "sentence_with_furigana": "売[う]りたいとは 思[おも]いませんでした。",
+        "audio_begin": 157560,
+        "audio_end": 162024
+    },
+    {
+        "id": "f000063",
+        "sentence": "「きれいな金魚だね。」",
+        "sentence_with_furigana": "「きれいな 金魚[きんぎょ]だね。」",
+        "audio_begin": 162024,
+        "audio_end": 164754
+    },
+    {
+        "id": "f000064",
+        "sentence": "「僕は、",
+        "sentence_with_furigana": "「 僕[ぼく]は、",
+        "audio_begin": 164754,
+        "audio_end": 165680
+    },
+    {
+        "id": "f000065",
+        "sentence": "こいのほうがいいな。」",
+        "sentence_with_furigana": "こいのほうがいいな。」",
+        "audio_begin": 165680,
+        "audio_end": 168082
+    },
+    {
+        "id": "f000066",
+        "sentence": "「こいは、",
+        "sentence_with_furigana": "「こいは、",
+        "audio_begin": 168082,
+        "audio_end": 168680
+    },
+    {
+        "id": "f000067",
+        "sentence": "河にすんでいるだろう。」",
+        "sentence_with_furigana": "河[かわ]にすんでいるだろう。」",
+        "audio_begin": 168680,
+        "audio_end": 171000
+    },
+    {
+        "id": "f000068",
+        "sentence": "「いつか、",
+        "sentence_with_furigana": "「いつか、",
+        "audio_begin": 171000,
+        "audio_end": 171560
+    },
+    {
+        "id": "f000069",
+        "sentence": "僕、",
+        "sentence_with_furigana": "僕[ぼく]、",
+        "audio_begin": 171560,
+        "audio_end": 171800
+    },
+    {
+        "id": "f000070",
+        "sentence": "釣りにいったら、",
+        "sentence_with_furigana": "釣[つ]りにいったら、",
+        "audio_begin": 171800,
+        "audio_end": 173080
+    },
+    {
+        "id": "f000071",
+        "sentence": "大きなこいが、",
+        "sentence_with_furigana": "大[おお]きなこいが、",
+        "audio_begin": 173080,
+        "audio_end": 174280
+    },
+    {
+        "id": "f000072",
+        "sentence": "ぱくぱく、",
+        "sentence_with_furigana": "ぱくぱく、",
+        "audio_begin": 174280,
+        "audio_end": 175160
+    },
+    {
+        "id": "f000073",
+        "sentence": "すぐ僕の釣りをしている前のところへ浮いたのを見たよ。」",
+        "sentence_with_furigana": "すぐ 僕[ぼく]の 釣[つ]りをしている 前[まえ]のところへ 浮[う]いたのを 見[み]たよ。」",
+        "audio_begin": 175160,
+        "audio_end": 180360
+    },
+    {
+        "id": "f000074",
+        "sentence": "「赤かったかい。」",
+        "sentence_with_furigana": "「 赤[あか]かったかい。」",
+        "audio_begin": 180360,
+        "audio_end": 182596
+    },
+    {
+        "id": "f000075",
+        "sentence": "「黒かった。",
+        "sentence_with_furigana": "「 黒[くろ]かった。",
+        "audio_begin": 182596,
+        "audio_end": 184319
+    },
+    {
+        "id": "f000076",
+        "sentence": "すこし、",
+        "sentence_with_furigana": "すこし、",
+        "audio_begin": 184319,
+        "audio_end": 185360
+    },
+    {
+        "id": "f000077",
+        "sentence": "赤かった。」",
+        "sentence_with_furigana": "赤[あか]かった。」",
+        "audio_begin": 185360,
+        "audio_end": 186960
+    },
+    {
+        "id": "f000078",
+        "sentence": "「うそでない。",
+        "sentence_with_furigana": "「うそでない。",
+        "audio_begin": 186960,
+        "audio_end": 188040
+    },
+    {
+        "id": "f000079",
+        "sentence": "ほんとうだ。」",
+        "sentence_with_furigana": "ほんとうだ。」",
+        "audio_begin": 188040,
+        "audio_end": 191200
+    },
+    {
+        "id": "f000080",
+        "sentence": "その乱暴そうな子供たちは、",
+        "sentence_with_furigana": "その 乱暴[らんぼう]そうな 子供[こども]たちは、",
+        "audio_begin": 191200,
+        "audio_end": 193640
+    },
+    {
+        "id": "f000081",
+        "sentence": "もう金魚のことなんか忘れてしまって、",
+        "sentence_with_furigana": "もう 金魚[きんぎょ]のことなんか 忘[わす]れてしまって、",
+        "audio_begin": 193640,
+        "audio_end": 197400
+    },
+    {
+        "id": "f000082",
+        "sentence": "棒を持って、",
+        "sentence_with_furigana": "棒[ぼう]を 持[も]って、",
+        "audio_begin": 197400,
+        "audio_end": 198440
+    },
+    {
+        "id": "f000083",
+        "sentence": "戦争ごっこをはじめたのです。",
+        "sentence_with_furigana": "戦争[せんそう]ごっこをはじめたのです。",
+        "audio_begin": 198440,
+        "audio_end": 203280
+    },
+    {
+        "id": "f000084",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 203280,
+        "audio_end": 204040
+    },
+    {
+        "id": "f000085",
+        "sentence": "笑い顔をして、",
+        "sentence_with_furigana": "笑[わら]い 顔[がお]をして、",
+        "audio_begin": 204040,
+        "audio_end": 205200
+    },
+    {
+        "id": "f000086",
+        "sentence": "子供たちが無邪気に遊んでいるのをながめていましたが、",
+        "sentence_with_furigana": "子供[こども]たちが 無邪気[むじゃき]に 遊[あそ]んでいるのをながめていましたが、",
+        "audio_begin": 205200,
+        "audio_end": 209240
+    },
+    {
+        "id": "f000087",
+        "sentence": "やがて、",
+        "sentence_with_furigana": "やがて、",
+        "audio_begin": 209240,
+        "audio_end": 210840
+    },
+    {
+        "id": "f000088",
+        "sentence": "あちらへ歩いてゆきました。",
+        "sentence_with_furigana": "あちらへ 歩[ある]いてゆきました。",
+        "audio_begin": 210840,
+        "audio_end": 214400
+    },
+    {
+        "id": "f000089",
+        "sentence": "村を離れると、",
+        "sentence_with_furigana": "村[むら]を 離[はな]れると、",
+        "audio_begin": 214400,
+        "audio_end": 215960
+    },
+    {
+        "id": "f000090",
+        "sentence": "松の並木のつづく街道へ出たのであります。",
+        "sentence_with_furigana": "松[まつ]の 並木[なみき]のつづく 街道[かいどう]へ 出[で]たのであります。",
+        "audio_begin": 215960,
+        "audio_end": 221760
+    },
+    {
+        "id": "f000091",
+        "sentence": "その松の木の根に腰をかけて、",
+        "sentence_with_furigana": "その 松[まつ]の 木[き]の 根[ね]に 腰[こし]をかけて、",
+        "audio_begin": 221760,
+        "audio_end": 224755
+    },
+    {
+        "id": "f000092",
+        "sentence": "じっと、",
+        "sentence_with_furigana": "じっと、",
+        "audio_begin": 224755,
+        "audio_end": 226240
+    },
+    {
+        "id": "f000093",
+        "sentence": "おけの中にはいっているたくさんな金魚の姿をながめていました。",
+        "sentence_with_furigana": "おけの 中[なか]にはいっているたくさんな 金魚[きんぎょ]の 姿[すがた]をながめていました。",
+        "audio_begin": 226240,
+        "audio_end": 233240
+    },
+    {
+        "id": "f000094",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、",
+        "audio_begin": 233240,
+        "audio_end": 234000
+    },
+    {
+        "id": "f000095",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 234000,
+        "audio_end": 235400
+    },
+    {
+        "id": "f000096",
+        "sentence": "自分の育てた金魚は、",
+        "sentence_with_furigana": "自分[じぶん]の 育[そだ]てた 金魚[きんぎょ]は、",
+        "audio_begin": 235400,
+        "audio_end": 238240
+    },
+    {
+        "id": "f000097",
+        "sentence": "残らず目の中に、",
+        "sentence_with_furigana": "残[のこ]らず 目[め]の 中[なか]に、",
+        "audio_begin": 238240,
+        "audio_end": 239360
+    },
+    {
+        "id": "f000098",
+        "sentence": "はっきりとはいっていたのでした。",
+        "sentence_with_furigana": "はっきりとはいっていたのでした。",
+        "audio_begin": 239360,
+        "audio_end": 245680
+    },
+    {
+        "id": "f000099",
+        "sentence": "長い道をおじいさんにかつがれて、",
+        "sentence_with_furigana": "長[なが]い 道[みち]をおじいさんにかつがれて、",
+        "audio_begin": 245680,
+        "audio_end": 248520
+    },
+    {
+        "id": "f000100",
+        "sentence": "知らぬ町から町へ、",
+        "sentence_with_furigana": "知[し]らぬ 町[まち]から 町[まち]へ、",
+        "audio_begin": 248520,
+        "audio_end": 251040
+    },
+    {
+        "id": "f000101",
+        "sentence": "村から村へゆく間に、",
+        "sentence_with_furigana": "村[むら]から 村[むら]へゆく 間[あいだ]に、",
+        "audio_begin": 251040,
+        "audio_end": 252880
+    },
+    {
+        "id": "f000102",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 252880,
+        "audio_end": 254800
+    },
+    {
+        "id": "f000103",
+        "sentence": "自分の兄弟や、",
+        "sentence_with_furigana": "自分[じぶん]の 兄弟[きょうだい]や、",
+        "audio_begin": 254800,
+        "audio_end": 256120
+    },
+    {
+        "id": "f000104",
+        "sentence": "友だちと別れなければなりませんでした。",
+        "sentence_with_furigana": "友[とも]だちと 別[わか]れなければなりませんでした。",
+        "audio_begin": 256120,
+        "audio_end": 260200
+    },
+    {
+        "id": "f000105",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 260200,
+        "audio_end": 260959
+    },
+    {
+        "id": "f000106",
+        "sentence": "それらの兄弟や、",
+        "sentence_with_furigana": "それらの 兄弟[きょうだい]や、",
+        "audio_begin": 260959,
+        "audio_end": 262280
+    },
+    {
+        "id": "f000107",
+        "sentence": "友だちとは、",
+        "sentence_with_furigana": "友[とも]だちとは、",
+        "audio_begin": 262280,
+        "audio_end": 263520
+    },
+    {
+        "id": "f000108",
+        "sentence": "永久に、",
+        "sentence_with_furigana": "永久[えいきゅう]に、",
+        "audio_begin": 263520,
+        "audio_end": 264720
+    },
+    {
+        "id": "f000109",
+        "sentence": "またいっしょに暮らすこともなければ、",
+        "sentence_with_furigana": "またいっしょに 暮[く]らすこともなければ、",
+        "audio_begin": 264720,
+        "audio_end": 267280
+    },
+    {
+        "id": "f000110",
+        "sentence": "泳ぐこともなかったのです。",
+        "sentence_with_furigana": "泳[およ]ぐこともなかったのです。",
+        "audio_begin": 267280,
+        "audio_end": 271320
+    },
+    {
+        "id": "f000111",
+        "sentence": "もとより自分たちの生まれて、",
+        "sentence_with_furigana": "もとより 自分[じぶん]たちの 生[う]まれて、",
+        "audio_begin": 271320,
+        "audio_end": 273880
+    },
+    {
+        "id": "f000112",
+        "sentence": "育てられた故郷の小さな池へは帰ることがなかったでしょう。",
+        "sentence_with_furigana": "育[そだ]てられた 故郷[こきょう]の 小[ちい]さな 池[いけ]へは 帰[かえ]ることがなかったでしょう。",
+        "audio_begin": 273880,
+        "audio_end": 280744
+    },
+    {
+        "id": "f000113",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 280744,
+        "audio_end": 281480
+    },
+    {
+        "id": "f000114",
+        "sentence": "なにもいわなかったけれど、",
+        "sentence_with_furigana": "なにもいわなかったけれど、",
+        "audio_begin": 281480,
+        "audio_end": 283600
+    },
+    {
+        "id": "f000115",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 283600,
+        "audio_end": 284760
+    },
+    {
+        "id": "f000116",
+        "sentence": "よく、",
+        "sentence_with_furigana": "よく、",
+        "audio_begin": 284760,
+        "audio_end": 285240
+    },
+    {
+        "id": "f000117",
+        "sentence": "金魚の心持ちがわかるようでした。",
+        "sentence_with_furigana": "金魚[きんぎょ]の 心持[こころも]ちがわかるようでした。",
+        "audio_begin": 285240,
+        "audio_end": 290080
+    },
+    {
+        "id": "f000118",
+        "sentence": "あまり長い、",
+        "sentence_with_furigana": "あまり 長[なが]い、",
+        "audio_begin": 290080,
+        "audio_end": 291000
+    },
+    {
+        "id": "f000119",
+        "sentence": "毎日の旅にゆられて、",
+        "sentence_with_furigana": "毎日[まいにち]の 旅[たび]にゆられて、",
+        "audio_begin": 291000,
+        "audio_end": 293120
+    },
+    {
+        "id": "f000120",
+        "sentence": "中には、",
+        "sentence_with_furigana": "中[なか]には、",
+        "audio_begin": 293120,
+        "audio_end": 293800
+    },
+    {
+        "id": "f000121",
+        "sentence": "弱った金魚もありました。",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]もありました。",
+        "audio_begin": 293800,
+        "audio_end": 296800
+    },
+    {
+        "id": "f000122",
+        "sentence": "そんなのは、",
+        "sentence_with_furigana": "そんなのは、",
+        "audio_begin": 296800,
+        "audio_end": 297920
+    },
+    {
+        "id": "f000123",
+        "sentence": "別の器の中にいれて、",
+        "sentence_with_furigana": "別[べつ]の 器[うつわ]の 中[なか]にいれて、",
+        "audio_begin": 297920,
+        "audio_end": 300480
+    },
+    {
+        "id": "f000124",
+        "sentence": "みんなと別にしてやりました。",
+        "sentence_with_furigana": "みんなと 別[べつ]にしてやりました。",
+        "audio_begin": 300480,
+        "audio_end": 304360
+    },
+    {
+        "id": "f000125",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、",
+        "audio_begin": 304360,
+        "audio_end": 305080
+    },
+    {
+        "id": "f000126",
+        "sentence": "達者で、",
+        "sentence_with_furigana": "達者[たっしゃ]で、",
+        "audio_begin": 305080,
+        "audio_end": 306000
+    },
+    {
+        "id": "f000127",
+        "sentence": "元気のいいのがばかにするからです。",
+        "sentence_with_furigana": "元気[げんき]のいいのがばかにするからです。",
+        "audio_begin": 306000,
+        "audio_end": 310680
+    },
+    {
+        "id": "f000128",
+        "sentence": "そのことは、",
+        "sentence_with_furigana": "そのことは、",
+        "audio_begin": 310680,
+        "audio_end": 311480
+    },
+    {
+        "id": "f000129",
+        "sentence": "ちょうど人間の社会におけると違いがありません。",
+        "sentence_with_furigana": "ちょうど 人間[にんげん]の 社会[しゃかい]におけると 違[ちが]いがありません。",
+        "audio_begin": 311480,
+        "audio_end": 317605
+    },
+    {
+        "id": "f000130",
+        "sentence": "弱いものに対して、",
+        "sentence_with_furigana": "弱[よわ]いものに 対[たい]して、",
+        "audio_begin": 317605,
+        "audio_end": 319840
+    },
+    {
+        "id": "f000131",
+        "sentence": "憐れむものもあれば、",
+        "sentence_with_furigana": "憐[あわ]れむものもあれば、",
+        "audio_begin": 319840,
+        "audio_end": 321320
+    },
+    {
+        "id": "f000132",
+        "sentence": "かえって、",
+        "sentence_with_furigana": "かえって、",
+        "audio_begin": 321320,
+        "audio_end": 322840
+    },
+    {
+        "id": "f000133",
+        "sentence": "それをあざけり、",
+        "sentence_with_furigana": "それをあざけり、",
+        "audio_begin": 322840,
+        "audio_end": 324400
+    },
+    {
+        "id": "f000134",
+        "sentence": "いじめるようなものもありました。",
+        "sentence_with_furigana": "いじめるようなものもありました。",
+        "audio_begin": 324400,
+        "audio_end": 330000
+    },
+    {
+        "id": "f000135",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 330000,
+        "audio_end": 331280
+    },
+    {
+        "id": "f000136",
+        "sentence": "おけに鼻を打たれたり、",
+        "sentence_with_furigana": "おけに 鼻[はな]を 打[う]たれたり、",
+        "audio_begin": 331280,
+        "audio_end": 333160
+    },
+    {
+        "id": "f000137",
+        "sentence": "また揺られたために弱った金魚をいっそうかわいがってやりました。",
+        "sentence_with_furigana": "また 揺[ゆ]られたために 弱[よわ]った 金魚[きんぎょ]をいっそうかわいがってやりました。",
+        "audio_begin": 333160,
+        "audio_end": 341400
+    },
+    {
+        "id": "f000138",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "audio_begin": 341400,
+        "audio_end": 343480
+    },
+    {
+        "id": "f000139",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 343480,
+        "audio_end": 344400
+    },
+    {
+        "id": "f000140",
+        "sentence": "金魚のおけをかついで、",
+        "sentence_with_furigana": "金魚[きんぎょ]のおけをかついで、",
+        "audio_begin": 344400,
+        "audio_end": 347178
+    },
+    {
+        "id": "f000141",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、",
+        "audio_begin": 347178,
+        "audio_end": 348280
+    },
+    {
+        "id": "f000142",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——",
+        "audio_begin": 348280,
+        "audio_end": 350282
+    },
+    {
+        "id": "f000143",
+        "sentence": "。」と呼びながら、",
+        "sentence_with_furigana": "。」と 呼[よ]びながら、",
+        "audio_begin": 350282,
+        "audio_end": 351609
+    },
+    {
+        "id": "f000144",
+        "sentence": "小さな町へはいってきました。",
+        "sentence_with_furigana": "小[ちい]さな 町[まち]へはいってきました。",
+        "audio_begin": 351609,
+        "audio_end": 356080
+    },
+    {
+        "id": "f000145",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、",
+        "audio_begin": 356080,
+        "audio_end": 357160
+    },
+    {
+        "id": "f000146",
+        "sentence": "十二、",
+        "sentence_with_furigana": "十二、",
+        "audio_begin": 357160,
+        "audio_end": 357600
+    },
+    {
+        "id": "f000147",
+        "sentence": "三になる少年が、",
+        "sentence_with_furigana": "三になる 少年[しょうねん]が、",
+        "audio_begin": 357600,
+        "audio_end": 359829
+    },
+    {
+        "id": "f000148",
+        "sentence": "とある一軒の家から飛び出してきて、",
+        "sentence_with_furigana": "とある一 軒[けん]の 家[うち]から 飛[と]び 出[だ]してきて、",
+        "audio_begin": 359829,
+        "audio_end": 363000
+    },
+    {
+        "id": "f000149",
+        "sentence": "いきいきとした目でおじいさんを仰ぎながら、",
+        "sentence_with_furigana": "いきいきとした 目[め]でおじいさんを 仰[あお]ぎながら、",
+        "audio_begin": 363000,
+        "audio_end": 366990
+    },
+    {
+        "id": "f000150",
+        "sentence": "「金魚を見せておくれ。",
+        "sentence_with_furigana": "「 金魚[きんぎょ]を 見[み]せておくれ。",
+        "audio_begin": 366990,
+        "audio_end": 368680
+    },
+    {
+        "id": "f000151",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "audio_begin": 368680,
+        "audio_end": 373360
+    },
+    {
+        "id": "f000152",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 373360,
+        "audio_end": 374240
+    },
+    {
+        "id": "f000153",
+        "sentence": "おとなしい、",
+        "sentence_with_furigana": "おとなしい、",
+        "audio_begin": 374240,
+        "audio_end": 375000
+    },
+    {
+        "id": "f000154",
+        "sentence": "よい子供だと思いましたから、",
+        "sentence_with_furigana": "よい 子供[こども]だと 思[おも]いましたから、",
+        "audio_begin": 375000,
+        "audio_end": 377760
+    },
+    {
+        "id": "f000155",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、",
+        "audio_begin": 377760,
+        "audio_end": 378760
+    },
+    {
+        "id": "f000156",
+        "sentence": "見てください。",
+        "sentence_with_furigana": "見[み]てください。",
+        "audio_begin": 378760,
+        "audio_end": 379680
+    },
+    {
+        "id": "f000157",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 379680,
+        "audio_end": 381120
+    },
+    {
+        "id": "f000158",
+        "sentence": "答えて、",
+        "sentence_with_furigana": "答[こた]えて、",
+        "audio_begin": 381120,
+        "audio_end": 382320
+    },
+    {
+        "id": "f000159",
+        "sentence": "おけをおろして見せました。",
+        "sentence_with_furigana": "おけをおろして 見[み]せました。",
+        "audio_begin": 382320,
+        "audio_end": 387000
+    },
+    {
+        "id": "f000160",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、",
+        "audio_begin": 387000,
+        "audio_end": 387960
+    },
+    {
+        "id": "f000161",
+        "sentence": "二つのおけの中にはいっている金魚を熱心に見くらべていましたが、",
+        "sentence_with_furigana": "二つのおけの 中[なか]にはいっている 金魚[きんぎょ]を 熱心[ねっしん]に 見[み]くらべていましたが、",
+        "audio_begin": 387960,
+        "audio_end": 393600
+    },
+    {
+        "id": "f000162",
+        "sentence": "おじいさんが別にしておいた、",
+        "sentence_with_furigana": "おじいさんが 別[べつ]にしておいた、",
+        "audio_begin": 393600,
+        "audio_end": 395280
+    },
+    {
+        "id": "f000163",
+        "sentence": "弱った金魚へ、",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]へ、",
+        "audio_begin": 395280,
+        "audio_end": 397120
+    },
+    {
+        "id": "f000164",
+        "sentence": "その目を移したのです。",
+        "sentence_with_furigana": "その 目[め]を 移[うつ]したのです。",
+        "audio_begin": 397120,
+        "audio_end": 401315
+    },
+    {
+        "id": "f000165",
+        "sentence": "「この円い、",
+        "sentence_with_furigana": "「この 円[まる]い、",
+        "audio_begin": 401315,
+        "audio_end": 402760
+    },
+    {
+        "id": "f000166",
+        "sentence": "尾の長い金魚をくださいな。",
+        "sentence_with_furigana": "尾[お]の 長[なが]い 金魚[きんぎょ]をくださいな。",
+        "audio_begin": 402760,
+        "audio_end": 406249
+    },
+    {
+        "id": "f000167",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 406249,
+        "audio_end": 406640
+    },
+    {
+        "id": "f000168",
+        "sentence": "子供はいいました。",
+        "sentence_with_furigana": "子供[こども]はいいました。",
+        "audio_begin": 406640,
+        "audio_end": 409880
+    },
+    {
+        "id": "f000169",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、",
+        "audio_begin": 409880,
+        "audio_end": 410640
+    },
+    {
+        "id": "f000170",
+        "sentence": "この金魚は、",
+        "sentence_with_furigana": "この 金魚[きんぎょ]は、",
+        "audio_begin": 410640,
+        "audio_end": 412280
+    },
+    {
+        "id": "f000171",
+        "sentence": "いい金魚ですけれど、",
+        "sentence_with_furigana": "いい 金魚[きんぎょ]ですけれど、",
+        "audio_begin": 412280,
+        "audio_end": 413960
+    },
+    {
+        "id": "f000172",
+        "sentence": "すこし弱っていますよ。",
+        "sentence_with_furigana": "すこし 弱[よわ]っていますよ。",
+        "audio_begin": 413960,
+        "audio_end": 417508
+    },
+    {
+        "id": "f000173",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 417508,
+        "audio_end": 417880
+    },
+    {
+        "id": "f000174",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 417880,
+        "audio_end": 418640
+    },
+    {
+        "id": "f000175",
+        "sentence": "目を細くして答えました。",
+        "sentence_with_furigana": "目[め]を 細[ほそ]くして 答[こた]えました。",
+        "audio_begin": 418640,
+        "audio_end": 422303
+    },
+    {
+        "id": "f000176",
+        "sentence": "「どうして弱っているの？」",
+        "sentence_with_furigana": "「どうして 弱[よわ]っているの？」",
+        "audio_begin": 422303,
+        "audio_end": 425440
+    },
+    {
+        "id": "f000177",
+        "sentence": "「長い旅をして頭をおけで打って疲れているのですよ。」",
+        "sentence_with_furigana": "「 長[なが]い 旅[たび]をして 頭[あたま]をおけで 打[う]って 疲[つか]れているのですよ。」",
+        "audio_begin": 425440,
+        "audio_end": 432600
+    },
+    {
+        "id": "f000178",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 432600,
+        "audio_end": 433720
+    },
+    {
+        "id": "f000179",
+        "sentence": "やさしい、",
+        "sentence_with_furigana": "やさしい、",
+        "audio_begin": 433720,
+        "audio_end": 434640
+    },
+    {
+        "id": "f000180",
+        "sentence": "いい子供だと思って見ていました。",
+        "sentence_with_furigana": "いい 子供[こども]だと 思[おも]って 見[み]ていました。",
+        "audio_begin": 434640,
+        "audio_end": 439800
+    },
+    {
+        "id": "f000181",
+        "sentence": "「僕、",
+        "sentence_with_furigana": "「 僕[ぼく]、",
+        "audio_begin": 439800,
+        "audio_end": 440720
+    },
+    {
+        "id": "f000182",
+        "sentence": "大事にして、",
+        "sentence_with_furigana": "大事[だいじ]にして、",
+        "audio_begin": 440720,
+        "audio_end": 441800
+    },
+    {
+        "id": "f000183",
+        "sentence": "この金魚を飼ってやろうかしらん……。」",
+        "sentence_with_furigana": "この 金魚[きんぎょ]を 飼[か]ってやろうかしらん……。」",
+        "audio_begin": 441800,
+        "audio_end": 446440
+    },
+    {
+        "id": "f000184",
+        "sentence": "「そうしてくだされば、",
+        "sentence_with_furigana": "「そうしてくだされば、",
+        "audio_begin": 446440,
+        "audio_end": 447880
+    },
+    {
+        "id": "f000185",
+        "sentence": "金魚は喜びますよ。",
+        "sentence_with_furigana": "金魚[きんぎょ]は 喜[よろこ]びますよ。",
+        "audio_begin": 447880,
+        "audio_end": 451020
+    },
+    {
+        "id": "f000186",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 451020,
+        "audio_end": 451360
+    },
+    {
+        "id": "f000187",
+        "sentence": "おじいさんはいいました。",
+        "sentence_with_furigana": "おじいさんはいいました。",
+        "audio_begin": 451360,
+        "audio_end": 455205
+    },
+    {
+        "id": "f000188",
+        "sentence": "子供は、",
+        "sentence_with_furigana": "子供[こども]は、",
+        "audio_begin": 455205,
+        "audio_end": 456280
+    },
+    {
+        "id": "f000189",
+        "sentence": "円い尾の長い、",
+        "sentence_with_furigana": "円[まる]い 尾[お]の 長[なが]い、",
+        "audio_begin": 456280,
+        "audio_end": 458000
+    },
+    {
+        "id": "f000190",
+        "sentence": "赤と白のまだらの金魚を買いました。",
+        "sentence_with_furigana": "赤[あか]と 白[しろ]のまだらの 金魚[きんぎょ]を 買[か]いました。",
+        "audio_begin": 458000,
+        "audio_end": 461605
+    },
+    {
+        "id": "f000191",
+        "sentence": "そのほかにも二、",
+        "sentence_with_furigana": "そのほかにも二、",
+        "audio_begin": 461605,
+        "audio_end": 462920
+    },
+    {
+        "id": "f000192",
+        "sentence": "三びき買って家の中へ入ろうとして、",
+        "sentence_with_furigana": "三びき 買[か]って 家[うち]の 中[なか]へ 入[はい]ろうとして、",
+        "audio_begin": 462920,
+        "audio_end": 467840
+    },
+    {
+        "id": "f000193",
+        "sentence": "「おじいさんは、",
+        "sentence_with_furigana": "「おじいさんは、",
+        "audio_begin": 467840,
+        "audio_end": 469280
+    },
+    {
+        "id": "f000194",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "audio_begin": 469280,
+        "audio_end": 469600
+    },
+    {
+        "id": "f000195",
+        "sentence": "こっちへやってくるの？",
+        "sentence_with_furigana": "こっちへやってくるの？",
+        "audio_begin": 469600,
+        "audio_end": 471784
+    },
+    {
+        "id": "f000196",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 471784,
+        "audio_end": 472080
+    },
+    {
+        "id": "f000197",
+        "sentence": "少年は聞きました。",
+        "sentence_with_furigana": "少年[しょうねん]は 聞[き]きました。",
+        "audio_begin": 472080,
+        "audio_end": 475960
+    },
+    {
+        "id": "f000198",
+        "sentence": "「また、",
+        "sentence_with_furigana": "「また、",
+        "audio_begin": 475960,
+        "audio_end": 476200
+    },
+    {
+        "id": "f000199",
+        "sentence": "来年きますよ。",
+        "sentence_with_furigana": "来年[らいねん]きますよ。",
+        "audio_begin": 476200,
+        "audio_end": 478320
+    },
+    {
+        "id": "f000200",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 478320,
+        "audio_end": 479080
+    },
+    {
+        "id": "f000201",
+        "sentence": "金魚がじょうぶでいるか、",
+        "sentence_with_furigana": "金魚[きんぎょ]がじょうぶでいるか、",
+        "audio_begin": 479080,
+        "audio_end": 481440
+    },
+    {
+        "id": "f000202",
+        "sentence": "お家へいってみますよ。",
+        "sentence_with_furigana": "お 家[うち]へいってみますよ。",
+        "audio_begin": 481440,
+        "audio_end": 484371
+    },
+    {
+        "id": "f000203",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "audio_begin": 484371,
+        "audio_end": 488000
+    },
+    {
+        "id": "f000204",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、",
+        "audio_begin": 488000,
+        "audio_end": 488760
+    },
+    {
+        "id": "f000205",
+        "sentence": "うれしそうにして、",
+        "sentence_with_furigana": "うれしそうにして、",
+        "audio_begin": 488760,
+        "audio_end": 489920
+    },
+    {
+        "id": "f000206",
+        "sentence": "金魚をいれ物にいれて、",
+        "sentence_with_furigana": "金魚[きんぎょ]をいれ 物[もの]にいれて、",
+        "audio_begin": 489920,
+        "audio_end": 492360
+    },
+    {
+        "id": "f000207",
+        "sentence": "家へはいりました。",
+        "sentence_with_furigana": "家[うち]へはいりました。",
+        "audio_begin": 492360,
+        "audio_end": 495440
+    },
+    {
+        "id": "f000208",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 495440,
+        "audio_end": 496480
+    },
+    {
+        "id": "f000209",
+        "sentence": "かわいがっていた金魚の行く末をおもいながら、",
+        "sentence_with_furigana": "かわいがっていた 金魚[きんぎょ]の 行[ゆ]く 末[すえ]をおもいながら、",
+        "audio_begin": 496480,
+        "audio_end": 500320
+    },
+    {
+        "id": "f000210",
+        "sentence": "人のよさそうな顔に笑いをたたえて、",
+        "sentence_with_furigana": "人[ひと]のよさそうな 顔[かお]に 笑[わら]いをたたえて、",
+        "audio_begin": 500320,
+        "audio_end": 503583
+    },
+    {
+        "id": "f000211",
+        "sentence": "荷をかつぐと子供のはいった家の方を見かえりながら去ったのでした。",
+        "sentence_with_furigana": "荷[に]をかつぐと 子供[こども]のはいった 家[うち]の 方[ほう]を 見[み]かえりながら 去[さ]ったのでした。",
+        "audio_begin": 503583,
+        "audio_end": 511717
+    },
+    {
+        "id": "f000212",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、",
+        "audio_begin": 511717,
+        "audio_end": 513312
+    },
+    {
+        "id": "f000213",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——",
+        "audio_begin": 513312,
+        "audio_end": 515217
+    },
+    {
+        "id": "f000214",
+        "sentence": "。」という声が、",
+        "sentence_with_furigana": "。」という 声[こえ]が、",
+        "audio_begin": 515217,
+        "audio_end": 516840
+    },
+    {
+        "id": "f000215",
+        "sentence": "だんだん遠ざかってゆきました。",
+        "sentence_with_furigana": "だんだん 遠[とお]ざかってゆきました。",
+        "audio_begin": 516840,
+        "audio_end": 522840
+    },
+    {
+        "id": "f000216",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 522840,
+        "audio_end": 523559
+    },
+    {
+        "id": "f000217",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 523559,
+        "audio_end": 524920
+    },
+    {
+        "id": "f000218",
+        "sentence": "いろいろの町を歩き、",
+        "sentence_with_furigana": "いろいろの 町[まち]を 歩[ある]き、",
+        "audio_begin": 524920,
+        "audio_end": 526800
+    },
+    {
+        "id": "f000219",
+        "sentence": "また村をまわって、",
+        "sentence_with_furigana": "また 村[むら]をまわって、",
+        "audio_begin": 526800,
+        "audio_end": 529040
+    },
+    {
+        "id": "f000220",
+        "sentence": "春から、",
+        "sentence_with_furigana": "春[はる]から、",
+        "audio_begin": 529040,
+        "audio_end": 529680
+    },
+    {
+        "id": "f000221",
+        "sentence": "夏へと呼び歩いたのです。",
+        "sentence_with_furigana": "夏[なつ]へと 呼[よ]び 歩[ある]いたのです。",
+        "audio_begin": 529680,
+        "audio_end": 533509
+    },
+    {
+        "id": "f000222",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、",
+        "audio_begin": 533509,
+        "audio_end": 534800
+    },
+    {
+        "id": "f000223",
+        "sentence": "自分の育てた金魚は、",
+        "sentence_with_furigana": "自分[じぶん]の 育[そだ]てた 金魚[きんぎょ]は、",
+        "audio_begin": 534800,
+        "audio_end": 536960
+    },
+    {
+        "id": "f000224",
+        "sentence": "方々の家へ買われてゆきました。",
+        "sentence_with_furigana": "方々[ほうぼう]の 家[うち]へ 買[か]われてゆきました。",
+        "audio_begin": 536960,
+        "audio_end": 543600
+    },
+    {
+        "id": "f000225",
+        "sentence": "おじいさんから、",
+        "sentence_with_furigana": "おじいさんから、",
+        "audio_begin": 543600,
+        "audio_end": 544400
+    },
+    {
+        "id": "f000226",
+        "sentence": "弱った金魚を買った子供はその金魚をいたわってやりました。",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]を 買[か]った 子供[こども]はその 金魚[きんぎょ]をいたわってやりました。",
+        "audio_begin": 544400,
+        "audio_end": 550581
+    },
+    {
+        "id": "f000227",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 550581,
+        "audio_end": 551480
+    },
+    {
+        "id": "f000228",
+        "sentence": "急に、",
+        "sentence_with_furigana": "急[きゅう]に、",
+        "audio_begin": 551480,
+        "audio_end": 552160
+    },
+    {
+        "id": "f000229",
+        "sentence": "みんなから離れて、",
+        "sentence_with_furigana": "みんなから 離[はな]れて、",
+        "audio_begin": 552160,
+        "audio_end": 553120
+    },
+    {
+        "id": "f000230",
+        "sentence": "さびしくなったけれど、",
+        "sentence_with_furigana": "さびしくなったけれど、",
+        "audio_begin": 553120,
+        "audio_end": 555040
+    },
+    {
+        "id": "f000231",
+        "sentence": "静かな明るい水の中で、",
+        "sentence_with_furigana": "静[しず]かな 明[あか]るい 水[みず]の 中[なか]で、",
+        "audio_begin": 555040,
+        "audio_end": 557360
+    },
+    {
+        "id": "f000232",
+        "sentence": "二、",
+        "sentence_with_furigana": "二、",
+        "audio_begin": 557360,
+        "audio_end": 557640
+    },
+    {
+        "id": "f000233",
+        "sentence": "三の友だちといっしょにおちつくことができたので、",
+        "sentence_with_furigana": "三の 友[とも]だちといっしょにおちつくことができたので、",
+        "audio_begin": 557640,
+        "audio_end": 561960
+    },
+    {
+        "id": "f000234",
+        "sentence": "だんだん元気を恢復してきました。",
+        "sentence_with_furigana": "だんだん 元気[げんき]を 恢復[かいふく]してきました。",
+        "audio_begin": 561960,
+        "audio_end": 566400
+    },
+    {
+        "id": "f000235",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 566400,
+        "audio_end": 567840
+    },
+    {
+        "id": "f000236",
+        "sentence": "五日たち、",
+        "sentence_with_furigana": "五日[いつか]たち、",
+        "audio_begin": 567840,
+        "audio_end": 569360
+    },
+    {
+        "id": "f000237",
+        "sentence": "七日たつうちに、",
+        "sentence_with_furigana": "七日[なのか]たつうちに、",
+        "audio_begin": 569360,
+        "audio_end": 571280
+    },
+    {
+        "id": "f000238",
+        "sentence": "もとのじょうぶな体となったのであります。",
+        "sentence_with_furigana": "もとのじょうぶな 体[からだ]となったのであります。",
+        "audio_begin": 571280,
+        "audio_end": 578430
+    },
+    {
+        "id": "f000239",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 578430,
+        "audio_end": 579560
+    },
+    {
+        "id": "f000240",
+        "sentence": "水の中から、",
+        "sentence_with_furigana": "水[みず]の 中[なか]から、",
+        "audio_begin": 579560,
+        "audio_end": 581480
+    },
+    {
+        "id": "f000241",
+        "sentence": "庭さきに、",
+        "sentence_with_furigana": "庭[にわ]さきに、",
+        "audio_begin": 581480,
+        "audio_end": 582600
+    },
+    {
+        "id": "f000242",
+        "sentence": "いろいろの咲いた花をながめました。",
+        "sentence_with_furigana": "いろいろの 咲[さ]いた 花[はな]をながめました。",
+        "audio_begin": 582600,
+        "audio_end": 585869
+    },
+    {
+        "id": "f000243",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "audio_begin": 585869,
+        "audio_end": 586693
+    },
+    {
+        "id": "f000244",
+        "sentence": "ある夜はやわらかに照らす月の光をながめました。",
+        "sentence_with_furigana": "ある 夜[よ]はやわらかに 照[て]らす 月[つき]の 光[ひかり]をながめました。",
+        "audio_begin": 586693,
+        "audio_end": 593080
+    },
+    {
+        "id": "f000245",
+        "sentence": "自分たちをかわいがってくれた、",
+        "sentence_with_furigana": "自分[じぶん]たちをかわいがってくれた、",
+        "audio_begin": 593080,
+        "audio_end": 595080
+    },
+    {
+        "id": "f000246",
+        "sentence": "おじいさんの顔はふたたび、",
+        "sentence_with_furigana": "おじいさんの 顔[かお]はふたたび、",
+        "audio_begin": 595080,
+        "audio_end": 596960
+    },
+    {
+        "id": "f000247",
+        "sentence": "見ることはなかったけれど、",
+        "sentence_with_furigana": "見[み]ることはなかったけれど、",
+        "audio_begin": 596960,
+        "audio_end": 599720
+    },
+    {
+        "id": "f000248",
+        "sentence": "少年は毎日のように、",
+        "sentence_with_furigana": "少年[しょうねん]は 毎日[まいまち]のように、",
+        "audio_begin": 599720,
+        "audio_end": 601880
+    },
+    {
+        "id": "f000249",
+        "sentence": "水の中をのぞいて、",
+        "sentence_with_furigana": "水[みず]の 中[なか]をのぞいて、",
+        "audio_begin": 601880,
+        "audio_end": 603840
+    },
+    {
+        "id": "f000250",
+        "sentence": "餌をくれたり、",
+        "sentence_with_furigana": "餌[え]をくれたり、",
+        "audio_begin": 603840,
+        "audio_end": 605280
+    },
+    {
+        "id": "f000251",
+        "sentence": "新しい水をいれてくれたり、",
+        "sentence_with_furigana": "新[あたら]しい 水[みず]をいれてくれたり、",
+        "audio_begin": 605280,
+        "audio_end": 607520
+    },
+    {
+        "id": "f000252",
+        "sentence": "しんせつにしてくれたのであります。",
+        "sentence_with_furigana": "しんせつにしてくれたのであります。",
+        "audio_begin": 607520,
+        "audio_end": 610946
+    },
+    {
+        "id": "f000253",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 610946,
+        "audio_end": 613280
+    },
+    {
+        "id": "f000254",
+        "sentence": "だんだんおじいさんのことを忘れるようになりました。",
+        "sentence_with_furigana": "だんだんおじいさんのことを 忘[わす]れるようになりました。",
+        "audio_begin": 613280,
+        "audio_end": 620680
+    },
+    {
+        "id": "f000255",
+        "sentence": "夏が過ぎ、",
+        "sentence_with_furigana": "夏[なつ]が 過[す]ぎ、",
+        "audio_begin": 620680,
+        "audio_end": 622640
+    },
+    {
+        "id": "f000256",
+        "sentence": "秋が逝き、",
+        "sentence_with_furigana": "秋[あき]が 逝[ゆ]き、",
+        "audio_begin": 622640,
+        "audio_end": 624680
+    },
+    {
+        "id": "f000257",
+        "sentence": "冬となり、",
+        "sentence_with_furigana": "冬[ふゆ]となり、",
+        "audio_begin": 624680,
+        "audio_end": 626359
+    },
+    {
+        "id": "f000258",
+        "sentence": "そしてまた、",
+        "sentence_with_furigana": "そしてまた、",
+        "audio_begin": 626359,
+        "audio_end": 628200
+    },
+    {
+        "id": "f000259",
+        "sentence": "春がめぐってきました。",
+        "sentence_with_furigana": "春[はる]がめぐってきました。",
+        "audio_begin": 628200,
+        "audio_end": 633200
+    },
+    {
+        "id": "f000260",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "audio_begin": 633200,
+        "audio_end": 635120
+    },
+    {
+        "id": "f000261",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、",
+        "audio_begin": 635120,
+        "audio_end": 635800
+    },
+    {
+        "id": "f000262",
+        "sentence": "外にあって、",
+        "sentence_with_furigana": "外[そと]にあって、",
+        "audio_begin": 635800,
+        "audio_end": 637843
+    },
+    {
+        "id": "f000263",
+        "sentence": "「金魚やい、",
+        "sentence_with_furigana": "「 金魚[きんぎょ]やい、",
+        "audio_begin": 637843,
+        "audio_end": 639417
+    },
+    {
+        "id": "f000264",
+        "sentence": "金魚やい——",
+        "sentence_with_furigana": "金魚[きんぎょ]やい——",
+        "audio_begin": 639417,
+        "audio_end": 641300
+    },
+    {
+        "id": "f000265",
+        "sentence": "。」と、",
+        "sentence_with_furigana": "。」と、",
+        "audio_begin": 641300,
+        "audio_end": 641800
+    },
+    {
+        "id": "f000266",
+        "sentence": "いう呼び声を聞いたのです。",
+        "sentence_with_furigana": "いう 呼[よ]び 声[ごえ]を 聞[き]いたのです。",
+        "audio_begin": 641800,
+        "audio_end": 645753
+    },
+    {
+        "id": "f000267",
+        "sentence": "「金魚売りがきた……。",
+        "sentence_with_furigana": "「 金魚[きんぎょ] 売[う]りがきた……。",
+        "audio_begin": 645753,
+        "audio_end": 648118
+    },
+    {
+        "id": "f000268",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "audio_begin": 648118,
+        "audio_end": 649285
+    },
+    {
+        "id": "f000269",
+        "sentence": "彼は、",
+        "sentence_with_furigana": "彼[かれ]は、",
+        "audio_begin": 649285,
+        "audio_end": 649800
+    },
+    {
+        "id": "f000270",
+        "sentence": "すぐに、",
+        "sentence_with_furigana": "すぐに、",
+        "audio_begin": 649800,
+        "audio_end": 650760
+    },
+    {
+        "id": "f000271",
+        "sentence": "家の外へ飛び出てみました。",
+        "sentence_with_furigana": "家[うち]の 外[そと]へ 飛[と]び 出[で]てみました。",
+        "audio_begin": 650760,
+        "audio_end": 654433
+    },
+    {
+        "id": "f000272",
+        "sentence": "心のうちで待っていた、",
+        "sentence_with_furigana": "心[こころ]のうちで 待[ま]っていた、",
+        "audio_begin": 654433,
+        "audio_end": 656400
+    },
+    {
+        "id": "f000273",
+        "sentence": "去年金魚を買ったおじいさんでありました。",
+        "sentence_with_furigana": "去年[きょねん] 金魚[きんぎょ]を 買[か]ったおじいさんでありました。",
+        "audio_begin": 656400,
+        "audio_end": 662739
+    },
+    {
+        "id": "f000274",
+        "sentence": "顔を見ると、",
+        "sentence_with_furigana": "顔[かお]を 見[み]ると、",
+        "audio_begin": 662739,
+        "audio_end": 664013
+    },
+    {
+        "id": "f000275",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 664013,
+        "audio_end": 665120
+    },
+    {
+        "id": "f000276",
+        "sentence": "にっこり笑いました。",
+        "sentence_with_furigana": "にっこり 笑[わら]いました。",
+        "audio_begin": 665120,
+        "audio_end": 668640
+    },
+    {
+        "id": "f000277",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、",
+        "audio_begin": 668640,
+        "audio_end": 670006
+    },
+    {
+        "id": "f000278",
+        "sentence": "去年の金魚は達者ですか？",
+        "sentence_with_furigana": "去年[きょねん]の 金魚[きんぎょ]は 達者[たっしゃ]ですか？",
+        "audio_begin": 670006,
+        "audio_end": 673346
+    },
+    {
+        "id": "f000279",
+        "sentence": "」と聞きました。",
+        "sentence_with_furigana": "」と 聞[き]きました。",
+        "audio_begin": 673346,
+        "audio_end": 676120
+    },
+    {
+        "id": "f000280",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 676120,
+        "audio_end": 677160
+    },
+    {
+        "id": "f000281",
+        "sentence": "この子供が、",
+        "sentence_with_furigana": "この 子供[こども]が、",
+        "audio_begin": 677160,
+        "audio_end": 678920
+    },
+    {
+        "id": "f000282",
+        "sentence": "弱った金魚を大事に育てようといって、",
+        "sentence_with_furigana": "弱[よわ]った 金魚[きんぎょ]を 大事[だいじ]に 育[そだ]てようといって、",
+        "audio_begin": 678920,
+        "audio_end": 681960
+    },
+    {
+        "id": "f000283",
+        "sentence": "買ったことを忘れなかったのです。",
+        "sentence_with_furigana": "買[か]ったことを 忘[わす]れなかったのです。",
+        "audio_begin": 681960,
+        "audio_end": 686880
+    },
+    {
+        "id": "f000284",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、",
+        "audio_begin": 686880,
+        "audio_end": 687640
+    },
+    {
+        "id": "f000285",
+        "sentence": "金魚は、",
+        "sentence_with_furigana": "金魚[きんぎょ]は、",
+        "audio_begin": 687640,
+        "audio_end": 688840
+    },
+    {
+        "id": "f000286",
+        "sentence": "みんなじょうぶで、",
+        "sentence_with_furigana": "みんなじょうぶで、",
+        "audio_begin": 688840,
+        "audio_end": 690280
+    },
+    {
+        "id": "f000287",
+        "sentence": "大きくなりましたよ。",
+        "sentence_with_furigana": "大[おお]きくなりましたよ。",
+        "audio_begin": 690280,
+        "audio_end": 693371
+    },
+    {
+        "id": "f000288",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 693371,
+        "audio_end": 693720
+    },
+    {
+        "id": "f000289",
+        "sentence": "少年は答えました。",
+        "sentence_with_furigana": "少年[しょうねん]は 答[こた]えました。",
+        "audio_begin": 693720,
+        "audio_end": 697640
+    },
+    {
+        "id": "f000290",
+        "sentence": "「どれ、",
+        "sentence_with_furigana": "「どれ、",
+        "audio_begin": 697640,
+        "audio_end": 698120
+    },
+    {
+        "id": "f000291",
+        "sentence": "どれ、",
+        "sentence_with_furigana": "どれ、",
+        "audio_begin": 698120,
+        "audio_end": 698840
+    },
+    {
+        "id": "f000292",
+        "sentence": "私に見せてください。",
+        "sentence_with_furigana": "私[わたし]に 見[み]せてください。",
+        "audio_begin": 698840,
+        "audio_end": 701185
+    },
+    {
+        "id": "f000293",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 701185,
+        "audio_end": 701570
+    },
+    {
+        "id": "f000294",
+        "sentence": "いって、",
+        "sentence_with_furigana": "いって、",
+        "audio_begin": 701559,
+        "audio_end": 703000
+    },
+    {
+        "id": "f000295",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 703000,
+        "audio_end": 704160
+    },
+    {
+        "id": "f000296",
+        "sentence": "山吹の花の咲いている庭さきへまわって、",
+        "sentence_with_furigana": "山吹[やまぶき]の 花[はな]の 咲[さ]いている 庭[にわ]さきへまわって、",
+        "audio_begin": 704160,
+        "audio_end": 707970
+    },
+    {
+        "id": "f000297",
+        "sentence": "金魚のはいっている大きな鉢をのぞきました。",
+        "sentence_with_furigana": "金魚[きんぎょ]のはいっている 大[おお]きな 鉢[はち]をのぞきました。",
+        "audio_begin": 707970,
+        "audio_end": 713840
+    },
+    {
+        "id": "f000298",
+        "sentence": "「よう、",
+        "sentence_with_furigana": "「よう、",
+        "audio_begin": 713840,
+        "audio_end": 714400
+    },
+    {
+        "id": "f000299",
+        "sentence": "よう、",
+        "sentence_with_furigana": "よう、",
+        "audio_begin": 714400,
+        "audio_end": 715440
+    },
+    {
+        "id": "f000300",
+        "sentence": "大きくなった。",
+        "sentence_with_furigana": "大[おお]きくなった。",
+        "audio_begin": 715440,
+        "audio_end": 717625
+    },
+    {
+        "id": "f000301",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "audio_begin": 717625,
+        "audio_end": 718960
+    },
+    {
+        "id": "f000302",
+        "sentence": "おじいさんは喜びました。",
+        "sentence_with_furigana": "おじいさんは 喜[よろこ]びました。",
+        "audio_begin": 718960,
+        "audio_end": 722923
+    },
+    {
+        "id": "f000303",
+        "sentence": "少年は、",
+        "sentence_with_furigana": "少年[しょうねん]は、",
+        "audio_begin": 722923,
+        "audio_end": 724080
+    },
+    {
+        "id": "f000304",
+        "sentence": "おじいさんから、",
+        "sentence_with_furigana": "おじいさんから、",
+        "audio_begin": 724080,
+        "audio_end": 725320
+    },
+    {
+        "id": "f000305",
+        "sentence": "二ひき金魚を買いました。",
+        "sentence_with_furigana": "二ひき 金魚[きんぎょ]を 買[か]いました。",
+        "audio_begin": 725320,
+        "audio_end": 729040
+    },
+    {
+        "id": "f000306",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 729040,
+        "audio_end": 729840
+    },
+    {
+        "id": "f000307",
+        "sentence": "別に一ぴきいい金魚をくれたのです。",
+        "sentence_with_furigana": "別[べつ]に一ぴきいい 金魚[きんぎょ]をくれたのです。",
+        "audio_begin": 729840,
+        "audio_end": 736800
+    },
+    {
+        "id": "f000308",
+        "sentence": "「おじいさん、",
+        "sentence_with_furigana": "「おじいさん、",
+        "audio_begin": 736800,
+        "audio_end": 738040
+    },
+    {
+        "id": "f000309",
+        "sentence": "また来年こっちへくるの？",
+        "sentence_with_furigana": "また 来年[らいねん]こっちへくるの？",
+        "audio_begin": 738040,
+        "audio_end": 741792
+    },
+    {
+        "id": "f000310",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 741792,
+        "audio_end": 742240
+    },
+    {
+        "id": "f000311",
+        "sentence": "別れる時分に、",
+        "sentence_with_furigana": "別[わか]れる 時分[じぶん]に、",
+        "audio_begin": 742240,
+        "audio_end": 743480
+    },
+    {
+        "id": "f000312",
+        "sentence": "少年が聞きました。",
+        "sentence_with_furigana": "少年[しょうねん]が 聞[き]きました。",
+        "audio_begin": 743480,
+        "audio_end": 746640
+    },
+    {
+        "id": "f000313",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「 坊[ぼっ]ちゃん、",
+        "audio_begin": 746640,
+        "audio_end": 747840
+    },
+    {
+        "id": "f000314",
+        "sentence": "達者でしたら、",
+        "sentence_with_furigana": "達者[たっしゃ]でしたら、",
+        "audio_begin": 747840,
+        "audio_end": 749360
+    },
+    {
+        "id": "f000315",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "audio_begin": 749360,
+        "audio_end": 750080
+    },
+    {
+        "id": "f000316",
+        "sentence": "まいりますよ。",
+        "sentence_with_furigana": "まいりますよ。",
+        "audio_begin": 750080,
+        "audio_end": 752003
+    },
+    {
+        "id": "f000317",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 752003,
+        "audio_end": 752520
+    },
+    {
+        "id": "f000318",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 752520,
+        "audio_end": 753240
+    },
+    {
+        "id": "f000319",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。",
+        "audio_begin": 753240,
+        "audio_end": 755720
+    },
+    {
+        "id": "f000320",
+        "sentence": "けれどかならずくるとはいいませんでした。",
+        "sentence_with_furigana": "けれどかならずくるとはいいませんでした。",
+        "audio_begin": 755720,
+        "audio_end": 761454
+    },
+    {
+        "id": "f000321",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "audio_begin": 761454,
+        "audio_end": 762320
+    },
+    {
+        "id": "f000322",
+        "sentence": "年を取ったから、",
+        "sentence_with_furigana": "年[とし]を 取[と]ったから、",
+        "audio_begin": 762320,
+        "audio_end": 764080
+    },
+    {
+        "id": "f000323",
+        "sentence": "もうこうして歩くのは難儀となって、",
+        "sentence_with_furigana": "もうこうして 歩[ある]くのは 難儀[なんぎ]となって、",
+        "audio_begin": 764080,
+        "audio_end": 767480
+    },
+    {
+        "id": "f000324",
+        "sentence": "静かに、",
+        "sentence_with_furigana": "静[しず]かに、",
+        "audio_begin": 767480,
+        "audio_end": 768700
+    },
+    {
+        "id": "f000325",
+        "sentence": "故郷の圃でばらの花を造って暮らしたいと思っていたからであります。",
+        "sentence_with_furigana": "故郷[こきょう]の 圃[はたけ]でばらの 花[はな]を 造[つく]って 暮[く]らしたいと 思[おも]っていたからであります。",
+        "audio_begin": 768700,
+        "audio_end": 778151
+    }
+]

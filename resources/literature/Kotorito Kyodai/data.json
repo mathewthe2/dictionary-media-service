@@ -1,0 +1,5227 @@
+[
+    {
+        "id": "Kotorito Kyodai-f000002",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "小鳥と兄妹",
+        "sentence_with_furigana": "小鳥と兄妹",
+        "word_base_list": [
+            "小鳥",
+            "と",
+            "兄弟"
+        ],
+        "word_list": [
+            "小鳥",
+            "と",
+            "兄妹"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 5144,
+        "sound_end": 10120
+    },
+    {
+        "id": "Kotorito Kyodai-f000003",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "町からはなれて、",
+        "sentence_with_furigana": "町[まち]からはなれて、",
+        "word_base_list": [
+            "町",
+            "から",
+            "離れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "から",
+            "はなれ",
+            "て",
+            "、"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 10120,
+        "sound_end": 11240
+    },
+    {
+        "id": "Kotorito Kyodai-f000004",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "静かな村に、",
+        "sentence_with_furigana": "静[しず]かな 村[むら]に、",
+        "word_base_list": [
+            "静か",
+            "だ",
+            "村",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "静か",
+            "な",
+            "村",
+            "に",
+            "、"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 11240,
+        "sound_end": 13120
+    },
+    {
+        "id": "Kotorito Kyodai-f000005",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "仲のいい兄妹が住んでいました。",
+        "sentence_with_furigana": "仲[なか]のいい 兄妹[きょうだい]が 住[す]んでいました。",
+        "word_base_list": [
+            "仲",
+            "の",
+            "良い",
+            "兄弟",
+            "が",
+            "住む",
+            "で",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "仲",
+            "の",
+            "いい",
+            "兄妹",
+            "が",
+            "住ん",
+            "で",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 13120,
+        "sound_end": 17160
+    },
+    {
+        "id": "Kotorito Kyodai-f000006",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "兄を太郎といい、",
+        "sentence_with_furigana": "兄[あに]を 太郎[たろう]といい、",
+        "word_base_list": [
+            "兄",
+            "を",
+            "太郎",
+            "と",
+            "言う",
+            "、"
+        ],
+        "word_list": [
+            "兄",
+            "を",
+            "太郎",
+            "と",
+            "いい",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 17160,
+        "sound_end": 19040
+    },
+    {
+        "id": "Kotorito Kyodai-f000007",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "妹を雪子といいました。",
+        "sentence_with_furigana": "妹[いもうと]を 雪子[ゆきこ]といいました。",
+        "word_base_list": [
+            "妹",
+            "を",
+            "雪子",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "妹",
+            "を",
+            "雪子",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 19040,
+        "sound_end": 22680
+    },
+    {
+        "id": "Kotorito Kyodai-f000008",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "二人は、",
+        "sentence_with_furigana": "二人[ふたり]は、",
+        "word_base_list": [
+            "二人",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "二人",
+            "は",
+            "、"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 22680,
+        "sound_end": 23960
+    },
+    {
+        "id": "Kotorito Kyodai-f000009",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "毎月、",
+        "sentence_with_furigana": "毎月[まいげつ]、",
+        "word_base_list": [
+            "毎月",
+            "、"
+        ],
+        "word_list": [
+            "毎月",
+            "、"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 23960,
+        "sound_end": 24400
+    },
+    {
+        "id": "Kotorito Kyodai-f000010",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "町へくる新しい雑誌を買ってきて、",
+        "sentence_with_furigana": "町[まち]へくる 新[あたら]しい 雑誌[ざっし]を 買[か]ってきて、",
+        "word_base_list": [
+            "町",
+            "へ",
+            "来る",
+            "新しい",
+            "雑誌",
+            "を",
+            "買う",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "町",
+            "へ",
+            "くる",
+            "新しい",
+            "雑誌",
+            "を",
+            "買っ",
+            "て",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 24400,
+        "sound_end": 27520
+    },
+    {
+        "id": "Kotorito Kyodai-f000011",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いっしょに読むのをなによりの楽しみとしていました。",
+        "sentence_with_furigana": "いっしょに 読[よ]むのをなによりの 楽[たの]しみとしていました。",
+        "word_base_list": [
+            "一緒",
+            "に",
+            "読む",
+            "の",
+            "を",
+            "何",
+            "より",
+            "の",
+            "楽しい",
+            "味",
+            "と",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いっしょ",
+            "に",
+            "読む",
+            "の",
+            "を",
+            "なに",
+            "より",
+            "の",
+            "楽し",
+            "み",
+            "と",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 27520,
+        "sound_end": 33480
+    },
+    {
+        "id": "Kotorito Kyodai-f000012",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ある日のこと、",
+        "sentence_with_furigana": "ある 日[ひ]のこと、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "の",
+            "こと",
+            "、"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 33480,
+        "sound_end": 35263
+    },
+    {
+        "id": "Kotorito Kyodai-f000013",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "二人は、",
+        "sentence_with_furigana": "二人[ふたり]は、",
+        "word_base_list": [
+            "二人",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "二人",
+            "は",
+            "、"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 35263,
+        "sound_end": 35840
+    },
+    {
+        "id": "Kotorito Kyodai-f000014",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "雑誌を開いて見ていますと、",
+        "sentence_with_furigana": "雑誌[ざっし]を 開[ひら]いて 見[み]ていますと、",
+        "word_base_list": [
+            "雑誌",
+            "を",
+            "開く",
+            "て",
+            "見る",
+            "て",
+            "居る",
+            "ます",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "雑誌",
+            "を",
+            "開い",
+            "て",
+            "見",
+            "て",
+            "い",
+            "ます",
+            "と",
+            "、"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 35840,
+        "sound_end": 38240
+    },
+    {
+        "id": "Kotorito Kyodai-f000015",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その月のには、",
+        "sentence_with_furigana": "その 月[つき]のには、",
+        "word_base_list": [
+            "其の",
+            "月",
+            "の",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "月",
+            "の",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 38240,
+        "sound_end": 39800
+    },
+    {
+        "id": "Kotorito Kyodai-f000016",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "美しい花や鳥の写真がたくさんに載っていました。",
+        "sentence_with_furigana": "美[うつく]しい 花[はな]や 鳥[とり]の 写真[しゃしん]がたくさんに 載[の]っていました。",
+        "word_base_list": [
+            "美しい",
+            "花",
+            "や",
+            "鳥",
+            "の",
+            "写真",
+            "が",
+            "沢山",
+            "だ",
+            "乗る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "美しい",
+            "花",
+            "や",
+            "鳥",
+            "の",
+            "写真",
+            "が",
+            "たくさん",
+            "に",
+            "載っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 39800,
+        "sound_end": 46200
+    },
+    {
+        "id": "Kotorito Kyodai-f000017",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "word_base_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "まあ",
+            "、"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 46200,
+        "sound_end": 46680
+    },
+    {
+        "id": "Kotorito Kyodai-f000018",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "きれいだこと、",
+        "sentence_with_furigana": "きれいだこと、",
+        "word_base_list": [
+            "奇麗",
+            "だ",
+            "こと",
+            "、"
+        ],
+        "word_list": [
+            "きれい",
+            "だ",
+            "こと",
+            "、"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 46680,
+        "sound_end": 48520
+    },
+    {
+        "id": "Kotorito Kyodai-f000019",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "兄さん、",
+        "sentence_with_furigana": "兄[にい]さん、",
+        "word_base_list": [
+            "兄さん",
+            "、"
+        ],
+        "word_list": [
+            "兄さん",
+            "、"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 48520,
+        "sound_end": 49691
+    },
+    {
+        "id": "Kotorito Kyodai-f000020",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "この鳥は、",
+        "sentence_with_furigana": "この 鳥[とり]は、",
+        "word_base_list": [
+            "此の",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 49691,
+        "sound_end": 50560
+    },
+    {
+        "id": "Kotorito Kyodai-f000021",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "よく見る鳥じゃありませんか。",
+        "sentence_with_furigana": "よく 見[み]る 鳥[とり]じゃありませんか。",
+        "word_base_list": [
+            "良く",
+            "見る",
+            "鳥",
+            "だ",
+            "有る",
+            "ます",
+            "ず",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "よく",
+            "見る",
+            "鳥",
+            "じゃ",
+            "あり",
+            "ませ",
+            "ん",
+            "か",
+            "。"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 50560,
+        "sound_end": 53261
+    },
+    {
+        "id": "Kotorito Kyodai-f000022",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 53261,
+        "sound_end": 53394
+    },
+    {
+        "id": "Kotorito Kyodai-f000023",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "雪子はいいました。",
+        "sentence_with_furigana": "雪子[ゆきこ]はいいました。",
+        "word_base_list": [
+            "雪子",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "雪子",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 53394,
+        "sound_end": 56552
+    },
+    {
+        "id": "Kotorito Kyodai-f000024",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その鳥は、",
+        "sentence_with_furigana": "その 鳥[とり]は、",
+        "word_base_list": [
+            "其の",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 56552,
+        "sound_end": 57840
+    },
+    {
+        "id": "Kotorito Kyodai-f000025",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "すずめほどの大きさで、",
+        "sentence_with_furigana": "すずめほどの 大[おお]きさで、",
+        "word_base_list": [
+            "雀",
+            "ほど",
+            "の",
+            "大きい",
+            "さ",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "すずめ",
+            "ほど",
+            "の",
+            "大き",
+            "さ",
+            "で",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 57840,
+        "sound_end": 59240
+    },
+    {
+        "id": "Kotorito Kyodai-f000026",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "くびのまわりが紅く、",
+        "sentence_with_furigana": "くびのまわりが 紅[あか]く、",
+        "word_base_list": [
+            "首",
+            "の",
+            "周り",
+            "が",
+            "赤い",
+            "、"
+        ],
+        "word_list": [
+            "くび",
+            "の",
+            "まわり",
+            "が",
+            "紅く",
+            "、"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 59240,
+        "sound_end": 61640
+    },
+    {
+        "id": "Kotorito Kyodai-f000027",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "まことに美しかったのであります。",
+        "sentence_with_furigana": "まことに 美[うつく]しかったのであります。",
+        "word_base_list": [
+            "真",
+            "に",
+            "美しい",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "まこと",
+            "に",
+            "美しかっ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 61640,
+        "sound_end": 66200
+    },
+    {
+        "id": "Kotorito Kyodai-f000028",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 66200,
+        "sound_end": 66917
+    },
+    {
+        "id": "Kotorito Kyodai-f000029",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "この鳥は、",
+        "sentence_with_furigana": "この 鳥[とり]は、",
+        "word_base_list": [
+            "此の",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 66917,
+        "sound_end": 67800
+    },
+    {
+        "id": "Kotorito Kyodai-f000030",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "よく庭の木にやってくるうそという鳥だ。",
+        "sentence_with_furigana": "よく 庭[にわ]の 木[き]にやってくるうそという 鳥[とり]だ。",
+        "word_base_list": [
+            "良く",
+            "庭",
+            "の",
+            "木",
+            "に",
+            "遣る",
+            "て",
+            "来る",
+            "うそ",
+            "と",
+            "言う",
+            "鳥",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "よく",
+            "庭",
+            "の",
+            "木",
+            "に",
+            "やっ",
+            "て",
+            "くる",
+            "うそ",
+            "と",
+            "いう",
+            "鳥",
+            "だ",
+            "。"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 67800,
+        "sound_end": 72240
+    },
+    {
+        "id": "Kotorito Kyodai-f000031",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "こちらにはたくさんいて珍しい鳥でないけれど、",
+        "sentence_with_furigana": "こちらにはたくさんいて 珍[めずら]しい 鳥[とり]でないけれど、",
+        "word_base_list": [
+            "此方",
+            "に",
+            "は",
+            "沢山",
+            "居る",
+            "て",
+            "珍しい",
+            "鳥",
+            "だ",
+            "無い",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "こちら",
+            "に",
+            "は",
+            "たくさん",
+            "い",
+            "て",
+            "珍しい",
+            "鳥",
+            "で",
+            "ない",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 72240,
+        "sound_end": 75833
+    },
+    {
+        "id": "Kotorito Kyodai-f000032",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "東京へゆくと、",
+        "sentence_with_furigana": "東京[とうきょう]へゆくと、",
+        "word_base_list": [
+            "東京",
+            "へ",
+            "行く",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "東京",
+            "へ",
+            "ゆく",
+            "と",
+            "、"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 75833,
+        "sound_end": 76880
+    },
+    {
+        "id": "Kotorito Kyodai-f000033",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "この鳥は少ないとみえて、",
+        "sentence_with_furigana": "この 鳥[とり]は 少[すく]ないとみえて、",
+        "word_base_list": [
+            "此の",
+            "鳥",
+            "は",
+            "少ない",
+            "と",
+            "見える",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "鳥",
+            "は",
+            "少ない",
+            "と",
+            "みえ",
+            "て",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 76880,
+        "sound_end": 78760
+    },
+    {
+        "id": "Kotorito Kyodai-f000034",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "たいせつに飼われるのだね。",
+        "sentence_with_furigana": "たいせつに 飼[か]われるのだね。",
+        "word_base_list": [
+            "大切",
+            "だ",
+            "飼う",
+            "れる",
+            "の",
+            "だ",
+            "ね",
+            "。"
+        ],
+        "word_list": [
+            "たいせつ",
+            "に",
+            "飼わ",
+            "れる",
+            "の",
+            "だ",
+            "ね",
+            "。"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 78760,
+        "sound_end": 80720
+    },
+    {
+        "id": "Kotorito Kyodai-f000035",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 80720,
+        "sound_end": 81920
+    },
+    {
+        "id": "Kotorito Kyodai-f000036",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "兄はいって、",
+        "sentence_with_furigana": "兄[あに]はいって、",
+        "word_base_list": [
+            "兄",
+            "は",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "兄",
+            "は",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 81920,
+        "sound_end": 83480
+    },
+    {
+        "id": "Kotorito Kyodai-f000037",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "雑誌に書いてあることを妹に読んで聞かせたのです。",
+        "sentence_with_furigana": "雑誌[ざっし]に 書[か]いてあることを 妹[いもうと]に 読[よ]んで 聞[き]かせたのです。",
+        "word_base_list": [
+            "雑誌",
+            "に",
+            "書く",
+            "て",
+            "有る",
+            "こと",
+            "を",
+            "妹",
+            "に",
+            "読む",
+            "で",
+            "聞く",
+            "せる",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "雑誌",
+            "に",
+            "書い",
+            "て",
+            "ある",
+            "こと",
+            "を",
+            "妹",
+            "に",
+            "読ん",
+            "で",
+            "聞か",
+            "せ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 83480,
+        "sound_end": 90035
+    },
+    {
+        "id": "Kotorito Kyodai-f000038",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、",
+        "word_base_list": [
+            "此の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "とき",
+            "、"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 90035,
+        "sound_end": 91440
+    },
+    {
+        "id": "Kotorito Kyodai-f000039",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそが、",
+        "sentence_with_furigana": "うそが、",
+        "word_base_list": [
+            "うそ",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "うそ",
+            "が",
+            "、"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 91440,
+        "sound_end": 91880
+    },
+    {
+        "id": "Kotorito Kyodai-f000040",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ちょうど庭の木にきてとまっていました。",
+        "sentence_with_furigana": "ちょうど 庭[にわ]の 木[き]にきてとまっていました。",
+        "word_base_list": [
+            "丁度",
+            "庭",
+            "の",
+            "木",
+            "に",
+            "来る",
+            "て",
+            "とまる",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ちょうど",
+            "庭",
+            "の",
+            "木",
+            "に",
+            "き",
+            "て",
+            "とまっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 91880,
+        "sound_end": 96560
+    },
+    {
+        "id": "Kotorito Kyodai-f000041",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "兄と妹が、",
+        "sentence_with_furigana": "兄[あに]と 妹[いもうと]が、",
+        "word_base_list": [
+            "兄",
+            "と",
+            "妹",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "兄",
+            "と",
+            "妹",
+            "が",
+            "、"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 96560,
+        "sound_end": 97880
+    },
+    {
+        "id": "Kotorito Kyodai-f000042",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "雑誌を開いて、",
+        "sentence_with_furigana": "雑誌[ざっし]を 開[ひら]いて、",
+        "word_base_list": [
+            "雑誌",
+            "を",
+            "開く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "雑誌",
+            "を",
+            "開い",
+            "て",
+            "、"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 97880,
+        "sound_end": 98800
+    },
+    {
+        "id": "Kotorito Kyodai-f000043",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分の写真を指さしながら、",
+        "sentence_with_furigana": "自分[じぶん]の 写真[しゃしん]を 指[ゆび]さしながら、",
+        "word_base_list": [
+            "自分",
+            "の",
+            "写真",
+            "を",
+            "指差す",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "の",
+            "写真",
+            "を",
+            "指さし",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000043.mp3",
+        "sound_begin": 98800,
+        "sound_end": 100720
+    },
+    {
+        "id": "Kotorito Kyodai-f000044",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "話をしているのをじっとながめていました。",
+        "sentence_with_furigana": "話[はなし]をしているのをじっとながめていました。",
+        "word_base_list": [
+            "話",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "の",
+            "を",
+            "じっと",
+            "眺める",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "話",
+            "を",
+            "し",
+            "て",
+            "いる",
+            "の",
+            "を",
+            "じっと",
+            "ながめ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000044.mp3",
+        "sound_begin": 100720,
+        "sound_end": 106173
+    },
+    {
+        "id": "Kotorito Kyodai-f000045",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "鳥というものは耳ざといものでありますから、",
+        "sentence_with_furigana": "鳥[とり]というものは 耳[みみ]ざといものでありますから、",
+        "word_base_list": [
+            "鳥",
+            "と",
+            "言う",
+            "物",
+            "は",
+            "耳聡い",
+            "物",
+            "だ",
+            "有る",
+            "ます",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "鳥",
+            "と",
+            "いう",
+            "もの",
+            "は",
+            "耳ざとい",
+            "もの",
+            "で",
+            "あり",
+            "ます",
+            "から",
+            "、"
+        ],
+        "sound": "f000045.mp3",
+        "sound_begin": 106173,
+        "sound_end": 109560
+    },
+    {
+        "id": "Kotorito Kyodai-f000046",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "二人の話はなんでもよくわかりました。",
+        "sentence_with_furigana": "二人[ふたり]の 話[はなし]はなんでもよくわかりました。",
+        "word_base_list": [
+            "二人",
+            "の",
+            "話",
+            "は",
+            "何",
+            "で",
+            "も",
+            "良く",
+            "分かる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "二人",
+            "の",
+            "話",
+            "は",
+            "なん",
+            "で",
+            "も",
+            "よく",
+            "わかり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000046.mp3",
+        "sound_begin": 109560,
+        "sound_end": 113522
+    },
+    {
+        "id": "Kotorito Kyodai-f000047",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000047.mp3",
+        "sound_begin": 113522,
+        "sound_end": 114640
+    },
+    {
+        "id": "Kotorito Kyodai-f000048",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "目もよくききましたから、",
+        "sentence_with_furigana": "目[め]もよくききましたから、",
+        "word_base_list": [
+            "目",
+            "も",
+            "良く",
+            "きく",
+            "ます",
+            "た",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "目",
+            "も",
+            "よく",
+            "きき",
+            "まし",
+            "た",
+            "から",
+            "、"
+        ],
+        "sound": "f000048.mp3",
+        "sound_begin": 114640,
+        "sound_end": 116880
+    },
+    {
+        "id": "Kotorito Kyodai-f000049",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "二人が、",
+        "sentence_with_furigana": "二人[ふたり]が、",
+        "word_base_list": [
+            "二人",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "二人",
+            "が",
+            "、"
+        ],
+        "sound": "f000049.mp3",
+        "sound_begin": 116880,
+        "sound_end": 117360
+    },
+    {
+        "id": "Kotorito Kyodai-f000050",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "窓の下で見ている雑誌の絵もわかりました。",
+        "sentence_with_furigana": "窓[まど]の 下[した]で 見[み]ている 雑誌[ざっし]の 絵[え]もわかりました。",
+        "word_base_list": [
+            "窓",
+            "の",
+            "下",
+            "で",
+            "見る",
+            "て",
+            "居る",
+            "雑誌",
+            "の",
+            "絵",
+            "も",
+            "分かる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "窓",
+            "の",
+            "下",
+            "で",
+            "見",
+            "て",
+            "いる",
+            "雑誌",
+            "の",
+            "絵",
+            "も",
+            "わかり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000050.mp3",
+        "sound_begin": 117360,
+        "sound_end": 123560
+    },
+    {
+        "id": "Kotorito Kyodai-f000051",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「いま、",
+        "sentence_with_furigana": "「いま、",
+        "word_base_list": [
+            "「",
+            "今",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いま",
+            "、"
+        ],
+        "sound": "f000051.mp3",
+        "sound_begin": 123560,
+        "sound_end": 123800
+    },
+    {
+        "id": "Kotorito Kyodai-f000052",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あの子供さんたちがいっているのを聞くと、",
+        "sentence_with_furigana": "あの 子供[こども]さんたちがいっているのを 聞[き]くと、",
+        "word_base_list": [
+            "彼の",
+            "子供",
+            "さん",
+            "達",
+            "が",
+            "言う",
+            "て",
+            "居る",
+            "の",
+            "を",
+            "聞く",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "あの",
+            "子供",
+            "さん",
+            "たち",
+            "が",
+            "いっ",
+            "て",
+            "いる",
+            "の",
+            "を",
+            "聞く",
+            "と",
+            "、"
+        ],
+        "sound": "f000052.mp3",
+        "sound_begin": 123800,
+        "sound_end": 127080
+    },
+    {
+        "id": "Kotorito Kyodai-f000053",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ほかの国へゆけば、",
+        "sentence_with_furigana": "ほかの 国[くに]へゆけば、",
+        "word_base_list": [
+            "他",
+            "の",
+            "国",
+            "へ",
+            "行く",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "ほか",
+            "の",
+            "国",
+            "へ",
+            "ゆけ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000053.mp3",
+        "sound_begin": 127080,
+        "sound_end": 128880
+    },
+    {
+        "id": "Kotorito Kyodai-f000054",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分は大事にされるということであるが、",
+        "sentence_with_furigana": "自分[じぶん]は 大事[だいじ]にされるということであるが、",
+        "word_base_list": [
+            "自分",
+            "は",
+            "大事",
+            "だ",
+            "為る",
+            "れる",
+            "と",
+            "言う",
+            "こと",
+            "だ",
+            "有る",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "は",
+            "大事",
+            "に",
+            "さ",
+            "れる",
+            "と",
+            "いう",
+            "こと",
+            "で",
+            "ある",
+            "が",
+            "、"
+        ],
+        "sound": "f000054.mp3",
+        "sound_begin": 128880,
+        "sound_end": 132120
+    },
+    {
+        "id": "Kotorito Kyodai-f000055",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いったいどこだろう……。",
+        "sentence_with_furigana": "いったいどこだろう……。",
+        "word_base_list": [
+            "一体",
+            "どこ",
+            "だ",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "。"
+        ],
+        "word_list": [
+            "いったい",
+            "どこ",
+            "だろう",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "。"
+        ],
+        "sound": "f000055.mp3",
+        "sound_begin": 132120,
+        "sound_end": 135480
+    },
+    {
+        "id": "Kotorito Kyodai-f000056",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ああして、",
+        "sentence_with_furigana": "ああして、",
+        "word_base_list": [
+            "ああ",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ああ",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000056.mp3",
+        "sound_begin": 135480,
+        "sound_end": 136120
+    },
+    {
+        "id": "Kotorito Kyodai-f000057",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "絵にまで自分の姿をかいて出してあるのを見れば、",
+        "sentence_with_furigana": "絵[え]にまで 自分[じぶん]の 姿[すがた]をかいて 出[だ]してあるのを 見[み]れば、",
+        "word_base_list": [
+            "絵",
+            "に",
+            "まで",
+            "自分",
+            "の",
+            "姿",
+            "を",
+            "かく",
+            "て",
+            "出す",
+            "て",
+            "有る",
+            "の",
+            "を",
+            "見る",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "絵",
+            "に",
+            "まで",
+            "自分",
+            "の",
+            "姿",
+            "を",
+            "かい",
+            "て",
+            "出し",
+            "て",
+            "ある",
+            "の",
+            "を",
+            "見れ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000057.mp3",
+        "sound_begin": 136120,
+        "sound_end": 139600
+    },
+    {
+        "id": "Kotorito Kyodai-f000058",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "まんざらうそのことではない。",
+        "sentence_with_furigana": "まんざらうそのことではない。",
+        "word_base_list": [
+            "満更",
+            "うー",
+            "其の",
+            "こと",
+            "で",
+            "は",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "まんざら",
+            "う",
+            "その",
+            "こと",
+            "で",
+            "は",
+            "ない",
+            "。"
+        ],
+        "sound": "f000058.mp3",
+        "sound_begin": 139600,
+        "sound_end": 142936
+    },
+    {
+        "id": "Kotorito Kyodai-f000059",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000059.mp3",
+        "sound_begin": 142936,
+        "sound_end": 143116
+    },
+    {
+        "id": "Kotorito Kyodai-f000060",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそは思いました。",
+        "sentence_with_furigana": "うそは 思[おも]いました。",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000060.mp3",
+        "sound_begin": 143116,
+        "sound_end": 146477
+    },
+    {
+        "id": "Kotorito Kyodai-f000061",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "この小鳥は、",
+        "sentence_with_furigana": "この 小鳥[ことり]は、",
+        "word_base_list": [
+            "此の",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000061.mp3",
+        "sound_begin": 146477,
+        "sound_end": 147865
+    },
+    {
+        "id": "Kotorito Kyodai-f000062",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "寒い、",
+        "sentence_with_furigana": "寒[さむ]い、",
+        "word_base_list": [
+            "寒い",
+            "、"
+        ],
+        "word_list": [
+            "寒い",
+            "、"
+        ],
+        "sound": "f000062.mp3",
+        "sound_begin": 147865,
+        "sound_end": 148480
+    },
+    {
+        "id": "Kotorito Kyodai-f000063",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "寒い、",
+        "sentence_with_furigana": "寒[さむ]い、",
+        "word_base_list": [
+            "寒い",
+            "、"
+        ],
+        "word_list": [
+            "寒い",
+            "、"
+        ],
+        "sound": "f000063.mp3",
+        "sound_begin": 148480,
+        "sound_end": 149473
+    },
+    {
+        "id": "Kotorito Kyodai-f000064",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "北の国に産まれたのでした。",
+        "sentence_with_furigana": "北[きた]の 国[くに]に 産[う]まれたのでした。",
+        "word_base_list": [
+            "北",
+            "の",
+            "国",
+            "に",
+            "生まれる",
+            "た",
+            "の",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "北",
+            "の",
+            "国",
+            "に",
+            "産まれ",
+            "た",
+            "の",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000064.mp3",
+        "sound_begin": 149473,
+        "sound_end": 153821
+    },
+    {
+        "id": "Kotorito Kyodai-f000065",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "もう夏もやがてくるので仲間といっしょに、",
+        "sentence_with_furigana": "もう 夏[なつ]もやがてくるので 仲間[なかま]といっしょに、",
+        "word_base_list": [
+            "もう",
+            "夏",
+            "も",
+            "軈て",
+            "来る",
+            "の",
+            "だ",
+            "仲間",
+            "と",
+            "一緒",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "夏",
+            "も",
+            "やがて",
+            "くる",
+            "の",
+            "で",
+            "仲間",
+            "と",
+            "いっしょ",
+            "に",
+            "、"
+        ],
+        "sound": "f000065.mp3",
+        "sound_begin": 153821,
+        "sound_end": 157440
+    },
+    {
+        "id": "Kotorito Kyodai-f000066",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ふたたび故郷へ帰る約束をしたのであります。",
+        "sentence_with_furigana": "ふたたび 故郷[こきょう]へ 帰[かえ]る 約束[やくそく]をしたのであります。",
+        "word_base_list": [
+            "再び",
+            "故郷",
+            "へ",
+            "帰る",
+            "約束",
+            "を",
+            "為る",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "ふたたび",
+            "故郷",
+            "へ",
+            "帰る",
+            "約束",
+            "を",
+            "し",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000066.mp3",
+        "sound_begin": 157440,
+        "sound_end": 162389
+    },
+    {
+        "id": "Kotorito Kyodai-f000067",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "天気のいい日を、",
+        "sentence_with_furigana": "天気[てんき]のいい 日[ひ]を、",
+        "word_base_list": [
+            "天気",
+            "の",
+            "良い",
+            "日",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "天気",
+            "の",
+            "いい",
+            "日",
+            "を",
+            "、"
+        ],
+        "sound": "f000067.mp3",
+        "sound_begin": 162389,
+        "sound_end": 163240
+    },
+    {
+        "id": "Kotorito Kyodai-f000068",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "見はからって、",
+        "sentence_with_furigana": "見[み]はからって、",
+        "word_base_list": [
+            "見る",
+            "計らう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "見",
+            "はからっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000068.mp3",
+        "sound_begin": 163240,
+        "sound_end": 164815
+    },
+    {
+        "id": "Kotorito Kyodai-f000069",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "彼らは旅立つことになっていました。",
+        "sentence_with_furigana": "彼[かれ]らは 旅立[たびだ]つことになっていました。",
+        "word_base_list": [
+            "彼",
+            "等",
+            "は",
+            "旅立つ",
+            "こと",
+            "に",
+            "成る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "彼",
+            "ら",
+            "は",
+            "旅立つ",
+            "こと",
+            "に",
+            "なっ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000069.mp3",
+        "sound_begin": 164815,
+        "sound_end": 169880
+    },
+    {
+        "id": "Kotorito Kyodai-f000070",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "sound": "f000070.mp3",
+        "sound_begin": 169880,
+        "sound_end": 170560
+    },
+    {
+        "id": "Kotorito Kyodai-f000071",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "友だちとした約束を忘れなかったけれど、",
+        "sentence_with_furigana": "友[とも]だちとした 約束[やくそく]を 忘[わす]れなかったけれど、",
+        "word_base_list": [
+            "友達",
+            "と",
+            "為る",
+            "た",
+            "約束",
+            "を",
+            "忘れる",
+            "ない",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "友だち",
+            "と",
+            "し",
+            "た",
+            "約束",
+            "を",
+            "忘れ",
+            "なかっ",
+            "た",
+            "けれど",
+            "、"
+        ],
+        "sound": "f000071.mp3",
+        "sound_begin": 170560,
+        "sound_end": 174520
+    },
+    {
+        "id": "Kotorito Kyodai-f000072",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「どうか、",
+        "sentence_with_furigana": "「どうか、",
+        "word_base_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "どう",
+            "か",
+            "、"
+        ],
+        "sound": "f000072.mp3",
+        "sound_begin": 174520,
+        "sound_end": 175320
+    },
+    {
+        "id": "Kotorito Kyodai-f000073",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分をかわいがってくれる、",
+        "sentence_with_furigana": "自分[じぶん]をかわいがってくれる、",
+        "word_base_list": [
+            "自分",
+            "を",
+            "可愛い",
+            "がる",
+            "て",
+            "呉れる",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "を",
+            "かわい",
+            "がっ",
+            "て",
+            "くれる",
+            "、"
+        ],
+        "sound": "f000073.mp3",
+        "sound_begin": 175320,
+        "sound_end": 176840
+    },
+    {
+        "id": "Kotorito Kyodai-f000074",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その知らない土地へいってみたいものだ。",
+        "sentence_with_furigana": "その 知[し]らない 土地[とち]へいってみたいものだ。",
+        "word_base_list": [
+            "其の",
+            "知る",
+            "ない",
+            "土地",
+            "へ",
+            "行く",
+            "て",
+            "見る",
+            "たい",
+            "物",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "知ら",
+            "ない",
+            "土地",
+            "へ",
+            "いっ",
+            "て",
+            "み",
+            "たい",
+            "もの",
+            "だ",
+            "。"
+        ],
+        "sound": "f000074.mp3",
+        "sound_begin": 176840,
+        "sound_end": 179769
+    },
+    {
+        "id": "Kotorito Kyodai-f000075",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と思いました。",
+        "sentence_with_furigana": "」と 思[おも]いました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3",
+        "sound_begin": 179769,
+        "sound_end": 184088
+    },
+    {
+        "id": "Kotorito Kyodai-f000076",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "彼は、",
+        "sentence_with_furigana": "彼[かれ]は、",
+        "word_base_list": [
+            "彼",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "彼",
+            "は",
+            "、"
+        ],
+        "sound": "f000076.mp3",
+        "sound_begin": 184088,
+        "sound_end": 184800
+    },
+    {
+        "id": "Kotorito Kyodai-f000077",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "木から飛びたつと、",
+        "sentence_with_furigana": "木[き]から 飛[と]びたつと、",
+        "word_base_list": [
+            "木",
+            "から",
+            "飛ぶ",
+            "たつ",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "木",
+            "から",
+            "飛び",
+            "たつ",
+            "と",
+            "、"
+        ],
+        "sound": "f000077.mp3",
+        "sound_begin": 184800,
+        "sound_end": 186800
+    },
+    {
+        "id": "Kotorito Kyodai-f000078",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "はるかあちらへ飛んでゆきました。",
+        "sentence_with_furigana": "はるかあちらへ 飛[と]んでゆきました。",
+        "word_base_list": [
+            "遥か",
+            "彼方",
+            "へ",
+            "飛ぶ",
+            "で",
+            "行く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "はるか",
+            "あちら",
+            "へ",
+            "飛ん",
+            "で",
+            "ゆき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000078.mp3",
+        "sound_begin": 186800,
+        "sound_end": 190880
+    },
+    {
+        "id": "Kotorito Kyodai-f000079",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000079.mp3",
+        "sound_begin": 190880,
+        "sound_end": 191440
+    },
+    {
+        "id": "Kotorito Kyodai-f000080",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "街道にあった、",
+        "sentence_with_furigana": "街道[かいどう]にあった、",
+        "word_base_list": [
+            "街道",
+            "に",
+            "有る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "街道",
+            "に",
+            "あっ",
+            "た",
+            "、"
+        ],
+        "sound": "f000080.mp3",
+        "sound_begin": 191440,
+        "sound_end": 193000
+    },
+    {
+        "id": "Kotorito Kyodai-f000081",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "一本の電信柱にきて止まったのです。",
+        "sentence_with_furigana": "一 本[ぽん]の 電信柱[でんしんばしら]にきて 止[と]まったのです。",
+        "word_base_list": [
+            "1",
+            "本",
+            "の",
+            "電信",
+            "柱",
+            "に",
+            "来る",
+            "て",
+            "止まる",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "一",
+            "本",
+            "の",
+            "電信",
+            "柱",
+            "に",
+            "き",
+            "て",
+            "止まっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000081.mp3",
+        "sound_begin": 193000,
+        "sound_end": 198000
+    },
+    {
+        "id": "Kotorito Kyodai-f000082",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いつであったか、",
+        "sentence_with_furigana": "いつであったか、",
+        "word_base_list": [
+            "いつ",
+            "だ",
+            "有る",
+            "た",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "で",
+            "あっ",
+            "た",
+            "か",
+            "、"
+        ],
+        "sound": "f000082.mp3",
+        "sound_begin": 198000,
+        "sound_end": 199413
+    },
+    {
+        "id": "Kotorito Kyodai-f000083",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱が、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]が、",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "が",
+            "、"
+        ],
+        "sound": "f000083.mp3",
+        "sound_begin": 199413,
+        "sound_end": 201320
+    },
+    {
+        "id": "Kotorito Kyodai-f000084",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "なんでも自分に聞けば、",
+        "sentence_with_furigana": "なんでも 自分[じぶん]に 聞[き]けば、",
+        "word_base_list": [
+            "何",
+            "で",
+            "も",
+            "自分",
+            "に",
+            "聞く",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "なん",
+            "で",
+            "も",
+            "自分",
+            "に",
+            "聞け",
+            "ば",
+            "、"
+        ],
+        "sound": "f000084.mp3",
+        "sound_begin": 201320,
+        "sound_end": 203163
+    },
+    {
+        "id": "Kotorito Kyodai-f000085",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "この世の中のことで、",
+        "sentence_with_furigana": "この 世[よ]の 中[なか]のことで、",
+        "word_base_list": [
+            "此の",
+            "世の中",
+            "の",
+            "こと",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "世の中",
+            "の",
+            "こと",
+            "で",
+            "、"
+        ],
+        "sound": "f000085.mp3",
+        "sound_begin": 203163,
+        "sound_end": 204320
+    },
+    {
+        "id": "Kotorito Kyodai-f000086",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "知らないものはないといった、",
+        "sentence_with_furigana": "知[し]らないものはないといった、",
+        "word_base_list": [
+            "知る",
+            "ない",
+            "物",
+            "は",
+            "無い",
+            "と",
+            "言う",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "知ら",
+            "ない",
+            "もの",
+            "は",
+            "ない",
+            "と",
+            "いっ",
+            "た",
+            "、"
+        ],
+        "sound": "f000086.mp3",
+        "sound_begin": 204320,
+        "sound_end": 206320
+    },
+    {
+        "id": "Kotorito Kyodai-f000087",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そのことを思い出したからでした。",
+        "sentence_with_furigana": "そのことを 思[おも]い 出[だ]したからでした。",
+        "word_base_list": [
+            "其の",
+            "こと",
+            "を",
+            "思う",
+            "出す",
+            "た",
+            "から",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "その",
+            "こと",
+            "を",
+            "思い",
+            "出し",
+            "た",
+            "から",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000087.mp3",
+        "sound_begin": 206320,
+        "sound_end": 212040
+    },
+    {
+        "id": "Kotorito Kyodai-f000088",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "青く晴れた、",
+        "sentence_with_furigana": "青[あお]く 晴[は]れた、",
+        "word_base_list": [
+            "青い",
+            "晴れる",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "青く",
+            "晴れ",
+            "た",
+            "、"
+        ],
+        "sound": "f000088.mp3",
+        "sound_begin": 212040,
+        "sound_end": 212880
+    },
+    {
+        "id": "Kotorito Kyodai-f000089",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "空の下で、",
+        "sentence_with_furigana": "空[そら]の 下[した]で、",
+        "word_base_list": [
+            "空",
+            "の",
+            "下",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "空",
+            "の",
+            "下",
+            "で",
+            "、"
+        ],
+        "sound": "f000089.mp3",
+        "sound_begin": 212880,
+        "sound_end": 214480
+    },
+    {
+        "id": "Kotorito Kyodai-f000090",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱は居眠りをしていました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は 居眠[いねむ]りをしていました。",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "は",
+            "居眠り",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "は",
+            "居眠り",
+            "を",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000090.mp3",
+        "sound_begin": 214480,
+        "sound_end": 219040
+    },
+    {
+        "id": "Kotorito Kyodai-f000091",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その頭の上に止まると、",
+        "sentence_with_furigana": "その 頭[あたま]の 上[うえ]に 止[と]まると、",
+        "word_base_list": [
+            "其の",
+            "頭",
+            "の",
+            "上",
+            "に",
+            "止まる",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "頭",
+            "の",
+            "上",
+            "に",
+            "止まる",
+            "と",
+            "、"
+        ],
+        "sound": "f000091.mp3",
+        "sound_begin": 219040,
+        "sound_end": 221263
+    },
+    {
+        "id": "Kotorito Kyodai-f000092",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "小鳥は、",
+        "sentence_with_furigana": "小鳥[ことり]は、",
+        "word_base_list": [
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000092.mp3",
+        "sound_begin": 221263,
+        "sound_end": 221920
+    },
+    {
+        "id": "Kotorito Kyodai-f000093",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "黒いくちばしでコツ、",
+        "sentence_with_furigana": "黒[くろ]いくちばしでコツ、",
+        "word_base_list": [
+            "黒い",
+            "嘴",
+            "で",
+            "こつ",
+            "、"
+        ],
+        "word_list": [
+            "黒い",
+            "くちばし",
+            "で",
+            "コツ",
+            "、"
+        ],
+        "sound": "f000093.mp3",
+        "sound_begin": 221920,
+        "sound_end": 224000
+    },
+    {
+        "id": "Kotorito Kyodai-f000094",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "コツとつついて、",
+        "sentence_with_furigana": "コツとつついて、",
+        "word_base_list": [
+            "こつ",
+            "と",
+            "突く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "コツ",
+            "と",
+            "つつい",
+            "て",
+            "、"
+        ],
+        "sound": "f000094.mp3",
+        "sound_begin": 224000,
+        "sound_end": 225768
+    },
+    {
+        "id": "Kotorito Kyodai-f000095",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "彼の眠りをさました。",
+        "sentence_with_furigana": "彼[かれ]の 眠[ねむ]りをさました。",
+        "word_base_list": [
+            "彼",
+            "の",
+            "眠り",
+            "を",
+            "さます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "彼",
+            "の",
+            "眠り",
+            "を",
+            "さまし",
+            "た",
+            "。"
+        ],
+        "sound": "f000095.mp3",
+        "sound_begin": 225768,
+        "sound_end": 231240
+    },
+    {
+        "id": "Kotorito Kyodai-f000096",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000096.mp3",
+        "sound_begin": 231240,
+        "sound_end": 232200
+    },
+    {
+        "id": "Kotorito Kyodai-f000097",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "眠いことだ。",
+        "sentence_with_furigana": "眠[ねむ]いことだ。",
+        "word_base_list": [
+            "眠い",
+            "こと",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "眠い",
+            "こと",
+            "だ",
+            "。"
+        ],
+        "sound": "f000097.mp3",
+        "sound_begin": 232200,
+        "sound_end": 234360
+    },
+    {
+        "id": "Kotorito Kyodai-f000098",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いい風が、",
+        "sentence_with_furigana": "いい 風[かぜ]が、",
+        "word_base_list": [
+            "良い",
+            "風",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "いい",
+            "風",
+            "が",
+            "、"
+        ],
+        "sound": "f000098.mp3",
+        "sound_begin": 234360,
+        "sound_end": 235120
+    },
+    {
+        "id": "Kotorito Kyodai-f000099",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そよそよと吹くので、",
+        "sentence_with_furigana": "そよそよと 吹[ふ]くので、",
+        "word_base_list": [
+            "そよそよ",
+            "と",
+            "吹く",
+            "の",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "そよそよ",
+            "と",
+            "吹く",
+            "の",
+            "で",
+            "、"
+        ],
+        "sound": "f000099.mp3",
+        "sound_begin": 235120,
+        "sound_end": 236360
+    },
+    {
+        "id": "Kotorito Kyodai-f000100",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ぐっすり眠ってしまったが、",
+        "sentence_with_furigana": "ぐっすり 眠[ねむ]ってしまったが、",
+        "word_base_list": [
+            "ぐっすり",
+            "眠る",
+            "て",
+            "仕舞う",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ぐっすり",
+            "眠っ",
+            "て",
+            "しまっ",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000100.mp3",
+        "sound_begin": 236360,
+        "sound_end": 238880
+    },
+    {
+        "id": "Kotorito Kyodai-f000101",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "俺を起こしたのは、",
+        "sentence_with_furigana": "俺[おれ]を 起[お]こしたのは、",
+        "word_base_list": [
+            "俺",
+            "を",
+            "起こす",
+            "た",
+            "の",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "俺",
+            "を",
+            "起こし",
+            "た",
+            "の",
+            "は",
+            "、"
+        ],
+        "sound": "f000101.mp3",
+        "sound_begin": 238880,
+        "sound_end": 240400
+    },
+    {
+        "id": "Kotorito Kyodai-f000102",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "何者だ？",
+        "sentence_with_furigana": "何者[なにもの]だ？",
+        "word_base_list": [
+            "何者",
+            "だ",
+            "？"
+        ],
+        "word_list": [
+            "何者",
+            "だ",
+            "？"
+        ],
+        "sound": "f000102.mp3",
+        "sound_begin": 240400,
+        "sound_end": 242347
+    },
+    {
+        "id": "Kotorito Kyodai-f000103",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000103.mp3",
+        "sound_begin": 242347,
+        "sound_end": 242508
+    },
+    {
+        "id": "Kotorito Kyodai-f000104",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱は、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は、",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "は",
+            "、"
+        ],
+        "sound": "f000104.mp3",
+        "sound_begin": 242508,
+        "sound_end": 243878
+    },
+    {
+        "id": "Kotorito Kyodai-f000105",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "不平をいわずには、",
+        "sentence_with_furigana": "不平[ふへい]をいわずには、",
+        "word_base_list": [
+            "不平",
+            "を",
+            "言う",
+            "ず",
+            "に",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "不平",
+            "を",
+            "いわ",
+            "ず",
+            "に",
+            "は",
+            "、"
+        ],
+        "sound": "f000105.mp3",
+        "sound_begin": 243878,
+        "sound_end": 245040
+    },
+    {
+        "id": "Kotorito Kyodai-f000106",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いられなかったのです。",
+        "sentence_with_furigana": "いられなかったのです。",
+        "word_base_list": [
+            "居る",
+            "られる",
+            "ない",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "い",
+            "られ",
+            "なかっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000106.mp3",
+        "sound_begin": 245040,
+        "sound_end": 248440
+    },
+    {
+        "id": "Kotorito Kyodai-f000107",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「私ですよ。",
+        "sentence_with_furigana": "「 私[わたし]ですよ。",
+        "word_base_list": [
+            "「",
+            "私",
+            "です",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "私",
+            "です",
+            "よ",
+            "。"
+        ],
+        "sound": "f000107.mp3",
+        "sound_begin": 248440,
+        "sound_end": 250240
+    },
+    {
+        "id": "Kotorito Kyodai-f000108",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いつか、",
+        "sentence_with_furigana": "いつか、",
+        "word_base_list": [
+            "いつ",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "か",
+            "、"
+        ],
+        "sound": "f000108.mp3",
+        "sound_begin": 250240,
+        "sound_end": 250560
+    },
+    {
+        "id": "Kotorito Kyodai-f000109",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あなたから、",
+        "sentence_with_furigana": "あなたから、",
+        "word_base_list": [
+            "貴方",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "あなた",
+            "から",
+            "、"
+        ],
+        "sound": "f000109.mp3",
+        "sound_begin": 250560,
+        "sound_end": 251760
+    },
+    {
+        "id": "Kotorito Kyodai-f000110",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "おもしろい話を聞かせていただいたことのある、",
+        "sentence_with_furigana": "おもしろい 話[はなし]を 聞[き]かせていただいたことのある、",
+        "word_base_list": [
+            "面白い",
+            "話",
+            "を",
+            "聞く",
+            "せる",
+            "て",
+            "頂く",
+            "た",
+            "こと",
+            "の",
+            "有る",
+            "、"
+        ],
+        "word_list": [
+            "おもしろい",
+            "話",
+            "を",
+            "聞か",
+            "せ",
+            "て",
+            "いただい",
+            "た",
+            "こと",
+            "の",
+            "ある",
+            "、"
+        ],
+        "sound": "f000110.mp3",
+        "sound_begin": 251760,
+        "sound_end": 254826
+    },
+    {
+        "id": "Kotorito Kyodai-f000111",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "旅の小鳥です。」",
+        "sentence_with_furigana": "旅[たび]の 小鳥[ことり]です。」",
+        "word_base_list": [
+            "旅",
+            "の",
+            "小鳥",
+            "です",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "旅",
+            "の",
+            "小鳥",
+            "です",
+            "。",
+            "」"
+        ],
+        "sound": "f000111.mp3",
+        "sound_begin": 254826,
+        "sound_end": 257920
+    },
+    {
+        "id": "Kotorito Kyodai-f000112",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000112.mp3",
+        "sound_begin": 257920,
+        "sound_end": 258560
+    },
+    {
+        "id": "Kotorito Kyodai-f000113",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そうでしたか。",
+        "sentence_with_furigana": "そうでしたか。",
+        "word_base_list": [
+            "そう",
+            "です",
+            "た",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "そう",
+            "でし",
+            "た",
+            "か",
+            "。"
+        ],
+        "sound": "f000113.mp3",
+        "sound_begin": 258560,
+        "sound_end": 260560
+    },
+    {
+        "id": "Kotorito Kyodai-f000114",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "まだおまえさんたちは、",
+        "sentence_with_furigana": "まだおまえさんたちは、",
+        "word_base_list": [
+            "未だ",
+            "御前",
+            "さん",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "まだ",
+            "おまえ",
+            "さん",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000114.mp3",
+        "sound_begin": 260560,
+        "sound_end": 261839
+    },
+    {
+        "id": "Kotorito Kyodai-f000115",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "北の国へ帰らないのですか。",
+        "sentence_with_furigana": "北[きた]の 国[くに]へ 帰[かえ]らないのですか。",
+        "word_base_list": [
+            "北",
+            "の",
+            "国",
+            "へ",
+            "帰る",
+            "ない",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "北",
+            "の",
+            "国",
+            "へ",
+            "帰ら",
+            "ない",
+            "の",
+            "です",
+            "か",
+            "。"
+        ],
+        "sound": "f000115.mp3",
+        "sound_begin": 261839,
+        "sound_end": 265600
+    },
+    {
+        "id": "Kotorito Kyodai-f000116",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あの雲をごらんなさい。",
+        "sentence_with_furigana": "あの 雲[くも]をごらんなさい。",
+        "word_base_list": [
+            "彼の",
+            "雲",
+            "を",
+            "御覧",
+            "為す",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "雲",
+            "を",
+            "ごらん",
+            "なさい",
+            "。"
+        ],
+        "sound": "f000116.mp3",
+        "sound_begin": 265600,
+        "sound_end": 267900
+    },
+    {
+        "id": "Kotorito Kyodai-f000117",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "これからは、",
+        "sentence_with_furigana": "これからは、",
+        "word_base_list": [
+            "此れ",
+            "から",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "から",
+            "は",
+            "、"
+        ],
+        "sound": "f000117.mp3",
+        "sound_begin": 267900,
+        "sound_end": 269040
+    },
+    {
+        "id": "Kotorito Kyodai-f000118",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "だんだん暑くなります。",
+        "sentence_with_furigana": "だんだん 暑[あつ]くなります。",
+        "word_base_list": [
+            "段々",
+            "暑い",
+            "成る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "だんだん",
+            "暑く",
+            "なり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000118.mp3",
+        "sound_begin": 269040,
+        "sound_end": 271440
+    },
+    {
+        "id": "Kotorito Kyodai-f000119",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000119.mp3",
+        "sound_begin": 271440,
+        "sound_end": 272440
+    },
+    {
+        "id": "Kotorito Kyodai-f000120",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "日中の旅が困難になりますよ。",
+        "sentence_with_furigana": "日中[にっちゅう]の 旅[たび]が 困難[こんなん]になりますよ。",
+        "word_base_list": [
+            "日中",
+            "の",
+            "旅",
+            "が",
+            "困難",
+            "だ",
+            "成る",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "日中",
+            "の",
+            "旅",
+            "が",
+            "困難",
+            "に",
+            "なり",
+            "ます",
+            "よ",
+            "。"
+        ],
+        "sound": "f000120.mp3",
+        "sound_begin": 272440,
+        "sound_end": 275644
+    },
+    {
+        "id": "Kotorito Kyodai-f000121",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000121.mp3",
+        "sound_begin": 275644,
+        "sound_end": 275807
+    },
+    {
+        "id": "Kotorito Kyodai-f000122",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱がいいました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]がいいました。",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "が",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "が",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000122.mp3",
+        "sound_begin": 275807,
+        "sound_end": 279640
+    },
+    {
+        "id": "Kotorito Kyodai-f000123",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「私だけは、",
+        "sentence_with_furigana": "「 私[わたし]だけは、",
+        "word_base_list": [
+            "「",
+            "私",
+            "だけ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "私",
+            "だけ",
+            "は",
+            "、"
+        ],
+        "sound": "f000123.mp3",
+        "sound_begin": 279640,
+        "sound_end": 280720
+    },
+    {
+        "id": "Kotorito Kyodai-f000124",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "故郷へ帰らないと思うのです。",
+        "sentence_with_furigana": "故郷[こきょう]へ 帰[かえ]らないと 思[おも]うのです。",
+        "word_base_list": [
+            "故郷",
+            "へ",
+            "帰る",
+            "ない",
+            "と",
+            "思う",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "故郷",
+            "へ",
+            "帰ら",
+            "ない",
+            "と",
+            "思う",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000124.mp3",
+        "sound_begin": 280720,
+        "sound_end": 283880
+    },
+    {
+        "id": "Kotorito Kyodai-f000125",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "それで、",
+        "sentence_with_furigana": "それで、",
+        "word_base_list": [
+            "其れ",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "で",
+            "、"
+        ],
+        "sound": "f000125.mp3",
+        "sound_begin": 283880,
+        "sound_end": 284800
+    },
+    {
+        "id": "Kotorito Kyodai-f000126",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あなたにお聞きしたいと思うのですが、",
+        "sentence_with_furigana": "あなたにお 聞[き]きしたいと 思[おも]うのですが、",
+        "word_base_list": [
+            "貴方",
+            "に",
+            "御",
+            "聞く",
+            "為る",
+            "たい",
+            "と",
+            "思う",
+            "の",
+            "です",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "あなた",
+            "に",
+            "お",
+            "聞き",
+            "し",
+            "たい",
+            "と",
+            "思う",
+            "の",
+            "です",
+            "が",
+            "、"
+        ],
+        "sound": "f000126.mp3",
+        "sound_begin": 284800,
+        "sound_end": 287640
+    },
+    {
+        "id": "Kotorito Kyodai-f000127",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "どこかの国で、",
+        "sentence_with_furigana": "どこかの 国[くに]で、",
+        "word_base_list": [
+            "どこ",
+            "か",
+            "の",
+            "国",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "どこ",
+            "か",
+            "の",
+            "国",
+            "で",
+            "、"
+        ],
+        "sound": "f000127.mp3",
+        "sound_begin": 287640,
+        "sound_end": 289080
+    },
+    {
+        "id": "Kotorito Kyodai-f000128",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分たちを大事にして飼って、",
+        "sentence_with_furigana": "自分[じぶん]たちを 大事[だいじ]にして 飼[か]って、",
+        "word_base_list": [
+            "自分",
+            "達",
+            "を",
+            "大事",
+            "だ",
+            "為る",
+            "て",
+            "飼う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "自分",
+            "たち",
+            "を",
+            "大事",
+            "に",
+            "し",
+            "て",
+            "飼っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000128.mp3",
+        "sound_begin": 289080,
+        "sound_end": 291600
+    },
+    {
+        "id": "Kotorito Kyodai-f000129",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "もてなしてくれるところがあるということですが、",
+        "sentence_with_furigana": "もてなしてくれるところがあるということですが、",
+        "word_base_list": [
+            "持て成す",
+            "て",
+            "呉れる",
+            "所",
+            "が",
+            "有る",
+            "と",
+            "言う",
+            "こと",
+            "です",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "もてなし",
+            "て",
+            "くれる",
+            "ところ",
+            "が",
+            "ある",
+            "と",
+            "いう",
+            "こと",
+            "です",
+            "が",
+            "、"
+        ],
+        "sound": "f000129.mp3",
+        "sound_begin": 291600,
+        "sound_end": 294280
+    },
+    {
+        "id": "Kotorito Kyodai-f000130",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ほんとうでしょうか。",
+        "sentence_with_furigana": "ほんとうでしょうか。",
+        "word_base_list": [
+            "本当",
+            "です",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "ほんとう",
+            "でしょう",
+            "か",
+            "。"
+        ],
+        "sound": "f000130.mp3",
+        "sound_begin": 294280,
+        "sound_end": 296130
+    },
+    {
+        "id": "Kotorito Kyodai-f000131",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000131.mp3",
+        "sound_begin": 296130,
+        "sound_end": 296361
+    },
+    {
+        "id": "Kotorito Kyodai-f000132",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそはたずねました。",
+        "sentence_with_furigana": "うそはたずねました。",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "たずねる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "たずね",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000132.mp3",
+        "sound_begin": 296361,
+        "sound_end": 299160
+    },
+    {
+        "id": "Kotorito Kyodai-f000133",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000133.mp3",
+        "sound_begin": 299160,
+        "sound_end": 300280
+    },
+    {
+        "id": "Kotorito Kyodai-f000134",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱は、",
+        "sentence_with_furigana": "電信柱[でんしんばしら]は、",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "は",
+            "、"
+        ],
+        "sound": "f000134.mp3",
+        "sound_begin": 300280,
+        "sound_end": 301160
+    },
+    {
+        "id": "Kotorito Kyodai-f000135",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "脊伸びをしながら、",
+        "sentence_with_furigana": "脊伸[せの]びをしながら、",
+        "word_base_list": [
+            "脊",
+            "伸び",
+            "を",
+            "為る",
+            "ながら",
+            "、"
+        ],
+        "word_list": [
+            "脊",
+            "伸び",
+            "を",
+            "し",
+            "ながら",
+            "、"
+        ],
+        "sound": "f000135.mp3",
+        "sound_begin": 301160,
+        "sound_end": 303280
+    },
+    {
+        "id": "Kotorito Kyodai-f000136",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「それは、",
+        "sentence_with_furigana": "「それは、",
+        "word_base_list": [
+            "「",
+            "其れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "それ",
+            "は",
+            "、"
+        ],
+        "sound": "f000136.mp3",
+        "sound_begin": 303280,
+        "sound_end": 304000
+    },
+    {
+        "id": "Kotorito Kyodai-f000137",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ほんとうのことらしい。",
+        "sentence_with_furigana": "ほんとうのことらしい。",
+        "word_base_list": [
+            "本当",
+            "の",
+            "こと",
+            "らしい",
+            "。"
+        ],
+        "word_list": [
+            "ほんとう",
+            "の",
+            "こと",
+            "らしい",
+            "。"
+        ],
+        "sound": "f000137.mp3",
+        "sound_begin": 304000,
+        "sound_end": 306160
+    },
+    {
+        "id": "Kotorito Kyodai-f000138",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いつか、",
+        "sentence_with_furigana": "いつか、",
+        "word_base_list": [
+            "いつ",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "か",
+            "、"
+        ],
+        "sound": "f000138.mp3",
+        "sound_begin": 306160,
+        "sound_end": 307000
+    },
+    {
+        "id": "Kotorito Kyodai-f000139",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "下の街道を通る旅人が、",
+        "sentence_with_furigana": "下[した]の 街道[かいどう]を 通[とお]る 旅人[たびびと]が、",
+        "word_base_list": [
+            "下",
+            "の",
+            "街道",
+            "を",
+            "通る",
+            "旅人",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "下",
+            "の",
+            "街道",
+            "を",
+            "通る",
+            "旅人",
+            "が",
+            "、"
+        ],
+        "sound": "f000139.mp3",
+        "sound_begin": 307000,
+        "sound_end": 309520
+    },
+    {
+        "id": "Kotorito Kyodai-f000140",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いろいろ小鳥の名をいって、",
+        "sentence_with_furigana": "いろいろ 小鳥[ことり]の 名[な]をいって、",
+        "word_base_list": [
+            "色々",
+            "小鳥",
+            "の",
+            "名",
+            "を",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いろいろ",
+            "小鳥",
+            "の",
+            "名",
+            "を",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000140.mp3",
+        "sound_begin": 309520,
+        "sound_end": 311160
+    },
+    {
+        "id": "Kotorito Kyodai-f000141",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "金になるなどといっていたが、",
+        "sentence_with_furigana": "金[かね]になるなどといっていたが、",
+        "word_base_list": [
+            "金",
+            "に",
+            "成る",
+            "など",
+            "と",
+            "言う",
+            "て",
+            "居る",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "金",
+            "に",
+            "なる",
+            "など",
+            "と",
+            "いっ",
+            "て",
+            "い",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000141.mp3",
+        "sound_begin": 311160,
+        "sound_end": 313644
+    },
+    {
+        "id": "Kotorito Kyodai-f000142",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "たしかその中におまえさんの名もあったと思う。",
+        "sentence_with_furigana": "たしかその 中[なか]におまえさんの 名[な]もあったと 思[おも]う。",
+        "word_base_list": [
+            "確か",
+            "其の",
+            "中",
+            "に",
+            "御前",
+            "さん",
+            "の",
+            "名",
+            "も",
+            "有る",
+            "た",
+            "と",
+            "思う",
+            "。"
+        ],
+        "word_list": [
+            "たしか",
+            "その",
+            "中",
+            "に",
+            "おまえ",
+            "さん",
+            "の",
+            "名",
+            "も",
+            "あっ",
+            "た",
+            "と",
+            "思う",
+            "。"
+        ],
+        "sound": "f000142.mp3",
+        "sound_begin": 313644,
+        "sound_end": 317347
+    },
+    {
+        "id": "Kotorito Kyodai-f000143",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と答えました。",
+        "sentence_with_furigana": "」と 答[こた]えました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000143.mp3",
+        "sound_begin": 317347,
+        "sound_end": 319720
+    },
+    {
+        "id": "Kotorito Kyodai-f000144",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "sound": "f000144.mp3",
+        "sound_begin": 319720,
+        "sound_end": 320621
+    },
+    {
+        "id": "Kotorito Kyodai-f000145",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "体じゅうが熱く、",
+        "sentence_with_furigana": "体[からだ]じゅうが 熱[あつ]く、",
+        "word_base_list": [
+            "体",
+            "中",
+            "が",
+            "熱い",
+            "、"
+        ],
+        "word_list": [
+            "体",
+            "じゅう",
+            "が",
+            "熱く",
+            "、"
+        ],
+        "sound": "f000145.mp3",
+        "sound_begin": 320621,
+        "sound_end": 322160
+    },
+    {
+        "id": "Kotorito Kyodai-f000146",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "赤くなったように感じました。",
+        "sentence_with_furigana": "赤[あか]くなったように 感[かん]じました。",
+        "word_base_list": [
+            "赤い",
+            "成る",
+            "た",
+            "様",
+            "だ",
+            "感ずる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "赤く",
+            "なっ",
+            "た",
+            "よう",
+            "に",
+            "感じ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000146.mp3",
+        "sound_begin": 322160,
+        "sound_end": 326280
+    },
+    {
+        "id": "Kotorito Kyodai-f000147",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「電信柱さん、",
+        "sentence_with_furigana": "「 電信柱[でんしんばしら]さん、",
+        "word_base_list": [
+            "「",
+            "電信",
+            "柱",
+            "さん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "電信",
+            "柱",
+            "さん",
+            "、"
+        ],
+        "sound": "f000147.mp3",
+        "sound_begin": 326280,
+        "sound_end": 327840
+    },
+    {
+        "id": "Kotorito Kyodai-f000148",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そこへはどうしてゆけるか、",
+        "sentence_with_furigana": "そこへはどうしてゆけるか、",
+        "word_base_list": [
+            "其処",
+            "へ",
+            "は",
+            "どう",
+            "為る",
+            "て",
+            "行く",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "へ",
+            "は",
+            "どう",
+            "し",
+            "て",
+            "ゆける",
+            "か",
+            "、"
+        ],
+        "sound": "f000148.mp3",
+        "sound_begin": 327840,
+        "sound_end": 330160
+    },
+    {
+        "id": "Kotorito Kyodai-f000149",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "教えてください。",
+        "sentence_with_furigana": "教[おし]えてください。",
+        "word_base_list": [
+            "教える",
+            "て",
+            "下さる",
+            "。"
+        ],
+        "word_list": [
+            "教え",
+            "て",
+            "ください",
+            "。"
+        ],
+        "sound": "f000149.mp3",
+        "sound_begin": 330160,
+        "sound_end": 332376
+    },
+    {
+        "id": "Kotorito Kyodai-f000150",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000150.mp3",
+        "sound_begin": 332376,
+        "sound_end": 332560
+    },
+    {
+        "id": "Kotorito Kyodai-f000151",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "小鳥は頼んだ。",
+        "sentence_with_furigana": "小鳥[ことり]は 頼[たの]んだ。",
+        "word_base_list": [
+            "小鳥",
+            "は",
+            "頼む",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "小鳥",
+            "は",
+            "頼ん",
+            "だ",
+            "。"
+        ],
+        "sound": "f000151.mp3",
+        "sound_begin": 332560,
+        "sound_end": 335200
+    },
+    {
+        "id": "Kotorito Kyodai-f000152",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "「さあ、",
+        "sentence_with_furigana": "「さあ、",
+        "word_base_list": [
+            "「",
+            "さあ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "さあ",
+            "、"
+        ],
+        "sound": "f000152.mp3",
+        "sound_begin": 335200,
+        "sound_end": 336200
+    },
+    {
+        "id": "Kotorito Kyodai-f000153",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "なんというところか、",
+        "sentence_with_furigana": "なんというところか、",
+        "word_base_list": [
+            "何",
+            "と",
+            "言う",
+            "所",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "なん",
+            "と",
+            "いう",
+            "ところ",
+            "か",
+            "、"
+        ],
+        "sound": "f000153.mp3",
+        "sound_begin": 336200,
+        "sound_end": 338040
+    },
+    {
+        "id": "Kotorito Kyodai-f000154",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "場所さえわかれば、",
+        "sentence_with_furigana": "場所[ばしょ]さえわかれば、",
+        "word_base_list": [
+            "場所",
+            "さえ",
+            "分かる",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "場所",
+            "さえ",
+            "わかれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000154.mp3",
+        "sound_begin": 338040,
+        "sound_end": 339656
+    },
+    {
+        "id": "Kotorito Kyodai-f000155",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "汽車に乗ってゆくとも、",
+        "sentence_with_furigana": "汽車[きしゃ]に 乗[の]ってゆくとも、",
+        "word_base_list": [
+            "汽車",
+            "に",
+            "乗る",
+            "て",
+            "行く",
+            "とも",
+            "、"
+        ],
+        "word_list": [
+            "汽車",
+            "に",
+            "乗っ",
+            "て",
+            "ゆく",
+            "とも",
+            "、"
+        ],
+        "sound": "f000155.mp3",
+        "sound_begin": 339656,
+        "sound_end": 341496
+    },
+    {
+        "id": "Kotorito Kyodai-f000156",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000156.mp3",
+        "sound_begin": 341496,
+        "sound_end": 341880
+    },
+    {
+        "id": "Kotorito Kyodai-f000157",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あちらの港からたつ汽船に乗ってゆくとも、",
+        "sentence_with_furigana": "あちらの 港[みなと]からたつ 汽船[きせん]に 乗[の]ってゆくとも、",
+        "word_base_list": [
+            "彼方",
+            "の",
+            "港",
+            "から",
+            "たつ",
+            "汽船",
+            "に",
+            "乗る",
+            "て",
+            "行く",
+            "とも",
+            "、"
+        ],
+        "word_list": [
+            "あちら",
+            "の",
+            "港",
+            "から",
+            "たつ",
+            "汽船",
+            "に",
+            "乗っ",
+            "て",
+            "ゆく",
+            "とも",
+            "、"
+        ],
+        "sound": "f000157.mp3",
+        "sound_begin": 341880,
+        "sound_end": 345000
+    },
+    {
+        "id": "Kotorito Kyodai-f000158",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "また方法はいくらもあるが、",
+        "sentence_with_furigana": "また 方法[ほうほう]はいくらもあるが、",
+        "word_base_list": [
+            "又",
+            "方法",
+            "は",
+            "幾ら",
+            "も",
+            "有る",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "方法",
+            "は",
+            "いくら",
+            "も",
+            "ある",
+            "が",
+            "、"
+        ],
+        "sound": "f000158.mp3",
+        "sound_begin": 345000,
+        "sound_end": 347560
+    },
+    {
+        "id": "Kotorito Kyodai-f000159",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その町の名は、",
+        "sentence_with_furigana": "その 町[まち]の 名[な]は、",
+        "word_base_list": [
+            "其の",
+            "町",
+            "の",
+            "名",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "町",
+            "の",
+            "名",
+            "は",
+            "、"
+        ],
+        "sound": "f000159.mp3",
+        "sound_begin": 347560,
+        "sound_end": 348960
+    },
+    {
+        "id": "Kotorito Kyodai-f000160",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "私にもわかりません……。",
+        "sentence_with_furigana": "私[わたし]にもわかりません……。",
+        "word_base_list": [
+            "私",
+            "に",
+            "も",
+            "分かる",
+            "ます",
+            "ず",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "。"
+        ],
+        "word_list": [
+            "私",
+            "に",
+            "も",
+            "わかり",
+            "ませ",
+            "ん",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "。"
+        ],
+        "sound": "f000160.mp3",
+        "sound_begin": 348960,
+        "sound_end": 351457
+    },
+    {
+        "id": "Kotorito Kyodai-f000161",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000161.mp3",
+        "sound_begin": 351457,
+        "sound_end": 351680
+    },
+    {
+        "id": "Kotorito Kyodai-f000162",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "電信柱はいいました。",
+        "sentence_with_furigana": "電信柱[でんしんばしら]はいいました。",
+        "word_base_list": [
+            "電信",
+            "柱",
+            "は",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "電信",
+            "柱",
+            "は",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000162.mp3",
+        "sound_begin": 351680,
+        "sound_end": 355920
+    },
+    {
+        "id": "Kotorito Kyodai-f000163",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あわれな小鳥は、",
+        "sentence_with_furigana": "あわれな 小鳥[ことり]は、",
+        "word_base_list": [
+            "哀れ",
+            "だ",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "あわれ",
+            "な",
+            "小鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000163.mp3",
+        "sound_begin": 355920,
+        "sound_end": 357320
+    },
+    {
+        "id": "Kotorito Kyodai-f000164",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そこから飛び立つと、",
+        "sentence_with_furigana": "そこから 飛[と]び 立[た]つと、",
+        "word_base_list": [
+            "其処",
+            "から",
+            "飛ぶ",
+            "立つ",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "そこ",
+            "から",
+            "飛び",
+            "立つ",
+            "と",
+            "、"
+        ],
+        "sound": "f000164.mp3",
+        "sound_begin": 357320,
+        "sound_end": 359280
+    },
+    {
+        "id": "Kotorito Kyodai-f000165",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "もう一度、",
+        "sentence_with_furigana": "もう一 度[ど]、",
+        "word_base_list": [
+            "もう",
+            "一度",
+            "、"
+        ],
+        "word_list": [
+            "もう",
+            "一度",
+            "、"
+        ],
+        "sound": "f000165.mp3",
+        "sound_begin": 359280,
+        "sound_end": 360240
+    },
+    {
+        "id": "Kotorito Kyodai-f000166",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あの兄と妹が雑誌を開いて話をしていた窓の前にあった木にきて止まりました。",
+        "sentence_with_furigana": "あの 兄[あに]と 妹[いもうと]が 雑誌[ざっし]を 開[ひら]いて 話[はなし]をしていた 窓[まど]の 前[まえ]にあった 木[き]にきて 止[と]まりました。",
+        "word_base_list": [
+            "彼の",
+            "兄",
+            "と",
+            "妹",
+            "が",
+            "雑誌",
+            "を",
+            "開く",
+            "て",
+            "話",
+            "を",
+            "為る",
+            "て",
+            "居る",
+            "た",
+            "窓",
+            "の",
+            "前",
+            "に",
+            "有る",
+            "た",
+            "木",
+            "に",
+            "来る",
+            "て",
+            "止まる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "あの",
+            "兄",
+            "と",
+            "妹",
+            "が",
+            "雑誌",
+            "を",
+            "開い",
+            "て",
+            "話",
+            "を",
+            "し",
+            "て",
+            "い",
+            "た",
+            "窓",
+            "の",
+            "前",
+            "に",
+            "あっ",
+            "た",
+            "木",
+            "に",
+            "き",
+            "て",
+            "止まり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000166.mp3",
+        "sound_begin": 360240,
+        "sound_end": 367800
+    },
+    {
+        "id": "Kotorito Kyodai-f000167",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000167.mp3",
+        "sound_begin": 367800,
+        "sound_end": 368840
+    },
+    {
+        "id": "Kotorito Kyodai-f000168",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分たちをかわいがってくれる町の名を知りたいと思いました。",
+        "sentence_with_furigana": "自分[じぶん]たちをかわいがってくれる 町[まち]の 名[な]を 知[し]りたいと 思[おも]いました。",
+        "word_base_list": [
+            "自分",
+            "達",
+            "を",
+            "可愛い",
+            "がる",
+            "て",
+            "呉れる",
+            "町",
+            "の",
+            "名",
+            "を",
+            "知る",
+            "たい",
+            "と",
+            "思う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "自分",
+            "たち",
+            "を",
+            "かわい",
+            "がっ",
+            "て",
+            "くれる",
+            "町",
+            "の",
+            "名",
+            "を",
+            "知り",
+            "たい",
+            "と",
+            "思い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000168.mp3",
+        "sound_begin": 368840,
+        "sound_end": 374880
+    },
+    {
+        "id": "Kotorito Kyodai-f000169",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "しかしきてみると、",
+        "sentence_with_furigana": "しかしきてみると、",
+        "word_base_list": [
+            "然し",
+            "来る",
+            "て",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "き",
+            "て",
+            "みる",
+            "と",
+            "、"
+        ],
+        "sound": "f000169.mp3",
+        "sound_begin": 374880,
+        "sound_end": 376560
+    },
+    {
+        "id": "Kotorito Kyodai-f000170",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "その窓は、",
+        "sentence_with_furigana": "その 窓[まど]は、",
+        "word_base_list": [
+            "其の",
+            "窓",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "窓",
+            "は",
+            "、"
+        ],
+        "sound": "f000170.mp3",
+        "sound_begin": 376560,
+        "sound_end": 377240
+    },
+    {
+        "id": "Kotorito Kyodai-f000171",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "閉まって、",
+        "sentence_with_furigana": "閉[し]まって、",
+        "word_base_list": [
+            "締まる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "閉まっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000171.mp3",
+        "sound_begin": 377240,
+        "sound_end": 378640
+    },
+    {
+        "id": "Kotorito Kyodai-f000172",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "仲のいい兄と妹の姿は見えなかったのです。",
+        "sentence_with_furigana": "仲[なか]のいい 兄[あに]と 妹[いもうと]の 姿[すがた]は 見[み]えなかったのです。",
+        "word_base_list": [
+            "仲",
+            "の",
+            "良い",
+            "兄",
+            "と",
+            "妹",
+            "の",
+            "姿",
+            "は",
+            "見える",
+            "ない",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "仲",
+            "の",
+            "いい",
+            "兄",
+            "と",
+            "妹",
+            "の",
+            "姿",
+            "は",
+            "見え",
+            "なかっ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000172.mp3",
+        "sound_begin": 378640,
+        "sound_end": 384120
+    },
+    {
+        "id": "Kotorito Kyodai-f000173",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "sound": "f000173.mp3",
+        "sound_begin": 384120,
+        "sound_end": 385120
+    },
+    {
+        "id": "Kotorito Kyodai-f000174",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "いい声を出して鳴きました。",
+        "sentence_with_furigana": "いい 声[こえ]を 出[だ]して 鳴[な]きました。",
+        "word_base_list": [
+            "良い",
+            "声",
+            "を",
+            "出す",
+            "て",
+            "鳴く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いい",
+            "声",
+            "を",
+            "出し",
+            "て",
+            "鳴き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000174.mp3",
+        "sound_begin": 385120,
+        "sound_end": 388226
+    },
+    {
+        "id": "Kotorito Kyodai-f000175",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "けれど、",
+        "sentence_with_furigana": "けれど、",
+        "word_base_list": [
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "、"
+        ],
+        "sound": "f000175.mp3",
+        "sound_begin": 388226,
+        "sound_end": 389387
+    },
+    {
+        "id": "Kotorito Kyodai-f000176",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "ついに窓の障子は開きませんでした。",
+        "sentence_with_furigana": "ついに 窓[まど]の 障子[しょうじ]は 開[ひら]きませんでした。",
+        "word_base_list": [
+            "遂に",
+            "窓",
+            "の",
+            "障子",
+            "は",
+            "開く",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ついに",
+            "窓",
+            "の",
+            "障子",
+            "は",
+            "開き",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000176.mp3",
+        "sound_begin": 389387,
+        "sound_end": 395200
+    },
+    {
+        "id": "Kotorito Kyodai-f000177",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "うそは、",
+        "sentence_with_furigana": "うそは、",
+        "word_base_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "うそ",
+            "は",
+            "、"
+        ],
+        "sound": "f000177.mp3",
+        "sound_begin": 395200,
+        "sound_end": 395640
+    },
+    {
+        "id": "Kotorito Kyodai-f000178",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、",
+        "word_base_list": [
+            "此の",
+            "時",
+            "、"
+        ],
+        "word_list": [
+            "この",
+            "とき",
+            "、"
+        ],
+        "sound": "f000178.mp3",
+        "sound_begin": 395640,
+        "sound_end": 397040
+    },
+    {
+        "id": "Kotorito Kyodai-f000179",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "はかない希望を捨て、",
+        "sentence_with_furigana": "はかない 希望[きぼう]を 捨[す]て、",
+        "word_base_list": [
+            "儚い",
+            "希望",
+            "を",
+            "捨てる",
+            "、"
+        ],
+        "word_list": [
+            "はかない",
+            "希望",
+            "を",
+            "捨て",
+            "、"
+        ],
+        "sound": "f000179.mp3",
+        "sound_begin": 397040,
+        "sound_end": 399320
+    },
+    {
+        "id": "Kotorito Kyodai-f000180",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "みんなといっしょに故郷へ旅立つことを決心しました。",
+        "sentence_with_furigana": "みんなといっしょに 故郷[こきょう]へ 旅立[たびだ]つことを 決心[けっしん]しました。",
+        "word_base_list": [
+            "皆",
+            "と",
+            "一緒",
+            "に",
+            "故郷",
+            "へ",
+            "旅立つ",
+            "こと",
+            "を",
+            "決心",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "と",
+            "いっしょ",
+            "に",
+            "故郷",
+            "へ",
+            "旅立つ",
+            "こと",
+            "を",
+            "決心",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000180.mp3",
+        "sound_begin": 399320,
+        "sound_end": 404225
+    },
+    {
+        "id": "Kotorito Kyodai-f000181",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000181.mp3",
+        "sound_begin": 404225,
+        "sound_end": 405560
+    },
+    {
+        "id": "Kotorito Kyodai-f000182",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "青い空を、",
+        "sentence_with_furigana": "青[あお]い 空[そら]を、",
+        "word_base_list": [
+            "青い",
+            "空",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "青い",
+            "空",
+            "を",
+            "、"
+        ],
+        "sound": "f000182.mp3",
+        "sound_begin": 405560,
+        "sound_end": 406480
+    },
+    {
+        "id": "Kotorito Kyodai-f000183",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "あちらに駆けて、",
+        "sentence_with_furigana": "あちらに 駆[か]けて、",
+        "word_base_list": [
+            "彼方",
+            "に",
+            "駆ける",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "あちら",
+            "に",
+            "駆け",
+            "て",
+            "、"
+        ],
+        "sound": "f000183.mp3",
+        "sound_begin": 406480,
+        "sound_end": 408440
+    },
+    {
+        "id": "Kotorito Kyodai-f000184",
+        "author_japanese": "小川 未明",
+        "deck_name": "Kotorito Kyodai",
+        "deck_name_japanese": "小鳥と兄妹",
+        "sentence": "自分を待っている友だちのいる方へ去ったのであります。",
+        "sentence_with_furigana": "自分[じぶん]を 待[ま]っている 友[とも]だちのいる 方[ほう]へ 去[さ]ったのであります。",
+        "word_base_list": [
+            "自分",
+            "を",
+            "待つ",
+            "て",
+            "居る",
+            "友達",
+            "の",
+            "居る",
+            "方",
+            "へ",
+            "去る",
+            "た",
+            "の",
+            "だ",
+            "有る",
+            "ます",
+            "。"
+        ],
+        "word_list": [
+            "自分",
+            "を",
+            "待っ",
+            "て",
+            "いる",
+            "友だち",
+            "の",
+            "いる",
+            "方",
+            "へ",
+            "去っ",
+            "た",
+            "の",
+            "で",
+            "あり",
+            "ます",
+            "。"
+        ],
+        "sound": "f000184.mp3",
+        "sound_begin": 408440,
+        "sound_end": 416040
+    }
+]

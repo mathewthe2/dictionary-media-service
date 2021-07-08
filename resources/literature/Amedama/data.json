@@ -1,7 +1,6 @@
 [
     {
         "id": "Amedama-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -17,11 +16,12 @@
             "だ",
             "ま"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5066,
+        "sound_end": 10320
     },
     {
         "id": "Amedama-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -45,11 +45,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10320,
+        "sound_end": 14680
     },
     {
         "id": "Amedama-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -95,11 +96,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 14680,
+        "sound_end": 21320
     },
     {
         "id": "Amedama-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -123,11 +125,12 @@
             "と",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 23520,
+        "sound_end": 26458
     },
     {
         "id": "Amedama-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -147,11 +150,12 @@
             "い",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 26458,
+        "sound_end": 27560
     },
     {
         "id": "Amedama-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -173,11 +177,12 @@
             "。",
             "」"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 27560,
+        "sound_end": 30068
     },
     {
         "id": "Amedama-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -191,11 +196,12 @@
             "と",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 30068,
+        "sound_end": 30842
     },
     {
         "id": "Amedama-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -223,11 +229,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 30842,
+        "sound_end": 33830
     },
     {
         "id": "Amedama-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -253,11 +260,12 @@
             "て",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 33830,
+        "sound_end": 36548
     },
     {
         "id": "Amedama-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -281,11 +289,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 36548,
+        "sound_end": 38280
     },
     {
         "id": "Amedama-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -307,11 +316,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 40980,
+        "sound_end": 44680
     },
     {
         "id": "Amedama-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -347,11 +357,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 44680,
+        "sound_end": 51720
     },
     {
         "id": "Amedama-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -371,11 +382,12 @@
             "で",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 51720,
+        "sound_end": 54200
     },
     {
         "id": "Amedama-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -403,11 +415,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 54200,
+        "sound_end": 56880
     },
     {
         "id": "Amedama-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -429,11 +442,12 @@
             "て",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 59380,
+        "sound_end": 61676
     },
     {
         "id": "Amedama-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -455,11 +469,12 @@
             "が",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 61676,
+        "sound_end": 64259
     },
     {
         "id": "Amedama-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -481,11 +496,12 @@
             "で",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 64259,
+        "sound_end": 67928
     },
     {
         "id": "Amedama-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -507,11 +523,12 @@
             "て",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 67928,
+        "sound_end": 70440
     },
     {
         "id": "Amedama-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -533,11 +550,12 @@
             "た",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 70440,
+        "sound_end": 74520
     },
     {
         "id": "Amedama-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -567,11 +585,12 @@
             "て",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 74520,
+        "sound_end": 78520
     },
     {
         "id": "Amedama-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -595,11 +614,12 @@
             "。",
             "」"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 78520,
+        "sound_end": 80745
     },
     {
         "id": "Amedama-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -619,11 +639,12 @@
             "た",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 80745,
+        "sound_end": 83320
     },
     {
         "id": "Amedama-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -653,11 +674,12 @@
             "です",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 83320,
+        "sound_end": 88049
     },
     {
         "id": "Amedama-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -681,11 +703,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 88049,
+        "sound_end": 93000
     },
     {
         "id": "Amedama-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -711,11 +734,12 @@
             "が",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 93000,
+        "sound_end": 97416
     },
     {
         "id": "Amedama-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -731,11 +755,12 @@
             "かあちゃん",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 97416,
+        "sound_end": 99080
     },
     {
         "id": "Amedama-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -757,11 +782,12 @@
             "。",
             "」"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 99080,
+        "sound_end": 101304
     },
     {
         "id": "Amedama-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -787,11 +813,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 101304,
+        "sound_end": 104880
     },
     {
         "id": "Amedama-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -807,11 +834,12 @@
             "と",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 104880,
+        "sound_end": 105720
     },
     {
         "id": "Amedama-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -833,11 +861,12 @@
             "も",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 105720,
+        "sound_end": 108128
     },
     {
         "id": "Amedama-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -853,11 +882,12 @@
             "かあちゃん",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 108128,
+        "sound_end": 109480
     },
     {
         "id": "Amedama-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -877,11 +907,12 @@
             "。",
             "」"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 109480,
+        "sound_end": 111259
     },
     {
         "id": "Amedama-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -901,11 +932,12 @@
             "た",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 111259,
+        "sound_end": 114400
     },
     {
         "id": "Amedama-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -927,11 +959,12 @@
             "から",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 114400,
+        "sound_end": 116040
     },
     {
         "id": "Amedama-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -959,11 +992,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 116040,
+        "sound_end": 119329
     },
     {
         "id": "Amedama-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -979,11 +1013,12 @@
             "が",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 119329,
+        "sound_end": 120360
     },
     {
         "id": "Amedama-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1019,11 +1054,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 120360,
+        "sound_end": 125910
     },
     {
         "id": "Amedama-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1045,11 +1081,12 @@
             "。",
             "」"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 125910,
+        "sound_end": 128320
     },
     {
         "id": "Amedama-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1071,11 +1108,12 @@
             "。",
             "」"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 128320,
+        "sound_end": 131582
     },
     {
         "id": "Amedama-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1095,11 +1133,12 @@
             "は",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 131582,
+        "sound_end": 132760
     },
     {
         "id": "Amedama-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1123,11 +1162,12 @@
             "た",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 132760,
+        "sound_end": 136040
     },
     {
         "id": "Amedama-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1157,11 +1197,12 @@
             "で",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 136040,
+        "sound_end": 138640
     },
     {
         "id": "Amedama-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1189,11 +1230,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 138640,
+        "sound_end": 143280
     },
     {
         "id": "Amedama-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1225,11 +1267,12 @@
             "いで",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 143280,
+        "sound_end": 147080
     },
     {
         "id": "Amedama-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1261,11 +1304,12 @@
             "。",
             "」"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 147080,
+        "sound_end": 150996
     },
     {
         "id": "Amedama-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1291,11 +1335,12 @@
             "も",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 150996,
+        "sound_end": 153344
     },
     {
         "id": "Amedama-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1313,11 +1358,12 @@
             "は",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 153344,
+        "sound_end": 154480
     },
     {
         "id": "Amedama-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1333,11 +1379,12 @@
             "よオ",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 154480,
+        "sound_end": 155680
     },
     {
         "id": "Amedama-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1353,11 +1400,12 @@
             "よオ",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 155680,
+        "sound_end": 156600
     },
     {
         "id": "Amedama-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1381,11 +1429,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 156600,
+        "sound_end": 161000
     },
     {
         "id": "Amedama-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1417,11 +1466,12 @@
             "は",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 161000,
+        "sound_end": 164452
     },
     {
         "id": "Amedama-f000053",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1443,11 +1493,12 @@
             "て",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 164452,
+        "sound_end": 167288
     },
     {
         "id": "Amedama-f000054",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1481,11 +1532,12 @@
             "た",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 167288,
+        "sound_end": 172680
     },
     {
         "id": "Amedama-f000055",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1509,11 +1561,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 172680,
+        "sound_end": 176080
     },
     {
         "id": "Amedama-f000056",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1541,11 +1594,12 @@
             "で",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 176080,
+        "sound_end": 178245
     },
     {
         "id": "Amedama-f000057",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1579,11 +1633,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 178245,
+        "sound_end": 181190
     },
     {
         "id": "Amedama-f000058",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1603,11 +1658,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 181190,
+        "sound_end": 184400
     },
     {
         "id": "Amedama-f000059",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1633,11 +1689,12 @@
             "。",
             "」"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 184400,
+        "sound_end": 187047
     },
     {
         "id": "Amedama-f000060",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1651,11 +1708,12 @@
             "と",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 187047,
+        "sound_end": 187720
     },
     {
         "id": "Amedama-f000061",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1685,11 +1743,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 187720,
+        "sound_end": 191432
     },
     {
         "id": "Amedama-f000062",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1719,11 +1778,12 @@
             "た",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 191432,
+        "sound_end": 194940
     },
     {
         "id": "Amedama-f000063",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1743,11 +1803,12 @@
             "が",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 197040,
+        "sound_end": 199120
     },
     {
         "id": "Amedama-f000064",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1771,11 +1832,12 @@
             "て",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 199120,
+        "sound_end": 201880
     },
     {
         "id": "Amedama-f000065",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1813,11 +1875,12 @@
             "た",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 201880,
+        "sound_end": 206720
     },
     {
         "id": "Amedama-f000066",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1843,11 +1906,12 @@
             "て",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 206720,
+        "sound_end": 209121
     },
     {
         "id": "Amedama-f000067",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1871,11 +1935,12 @@
             "た",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 209121,
+        "sound_end": 212720
     },
     {
         "id": "Amedama-f000068",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1905,11 +1970,12 @@
             "を",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 212720,
+        "sound_end": 215080
     },
     {
         "id": "Amedama-f000069",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1939,11 +2005,12 @@
             "です",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 215080,
+        "sound_end": 221440
     },
     {
         "id": "Amedama-f000070",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1967,11 +2034,12 @@
             "。",
             "」"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 221440,
+        "sound_end": 223760
     },
     {
         "id": "Amedama-f000071",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -1995,11 +2063,12 @@
             "た",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 225460,
+        "sound_end": 228100
     },
     {
         "id": "Amedama-f000072",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2033,11 +2102,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 230200,
+        "sound_end": 235200
     },
     {
         "id": "Amedama-f000073",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2067,11 +2137,12 @@
             "のせ",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 237100,
+        "sound_end": 240013
     },
     {
         "id": "Amedama-f000074",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2103,11 +2174,12 @@
             "た",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 240013,
+        "sound_end": 247200
     },
     {
         "id": "Amedama-f000075",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2121,11 +2193,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 247200,
+        "sound_end": 248880
     },
     {
         "id": "Amedama-f000076",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2147,11 +2220,12 @@
             "。",
             "」"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 248880,
+        "sound_end": 250970
     },
     {
         "id": "Amedama-f000077",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2183,11 +2257,12 @@
             "た",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 250970,
+        "sound_end": 254720
     },
     {
         "id": "Amedama-f000078",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2203,11 +2278,12 @@
             "から",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 256519,
+        "sound_end": 257880
     },
     {
         "id": "Amedama-f000079",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2233,11 +2309,12 @@
             "て",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 257880,
+        "sound_end": 261084
     },
     {
         "id": "Amedama-f000080",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Amedama",
         "deck_name_japanese": "飴だま",
@@ -2261,6 +2338,8 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 261084,
+        "sound_end": 267304
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Ahirusanto Tokei-f000002",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -23,11 +22,12 @@
             "　",
             "時計"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5280,
+        "sound_end": 8085
     },
     {
         "id": "Ahirusanto Tokei-f000003",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -75,11 +75,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10320,
+        "sound_end": 15680
     },
     {
         "id": "Ahirusanto Tokei-f000004",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -113,11 +114,12 @@
             "が",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 15680,
+        "sound_end": 19640
     },
     {
         "id": "Ahirusanto Tokei-f000005",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -167,11 +169,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 19640,
+        "sound_end": 26800
     },
     {
         "id": "Ahirusanto Tokei-f000006",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -199,11 +202,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 26800,
+        "sound_end": 29800
     },
     {
         "id": "Ahirusanto Tokei-f000007",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -221,11 +225,12 @@
             "父さん",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 29800,
+        "sound_end": 30560
     },
     {
         "id": "Ahirusanto Tokei-f000008",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -251,11 +256,12 @@
             "。",
             "」"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 30560,
+        "sound_end": 33760
     },
     {
         "id": "Ahirusanto Tokei-f000009",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -279,11 +285,12 @@
             "た",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 33760,
+        "sound_end": 36080
     },
     {
         "id": "Ahirusanto Tokei-f000010",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -313,11 +320,12 @@
             "。",
             "」"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 36080,
+        "sound_end": 40040
     },
     {
         "id": "Ahirusanto Tokei-f000011",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -335,11 +343,12 @@
             "は",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 40040,
+        "sound_end": 41360
     },
     {
         "id": "Ahirusanto Tokei-f000012",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -371,11 +380,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 41360,
+        "sound_end": 45800
     },
     {
         "id": "Ahirusanto Tokei-f000013",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -395,11 +405,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 45800,
+        "sound_end": 46520
     },
     {
         "id": "Ahirusanto Tokei-f000014",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -429,11 +440,12 @@
             "。",
             "」"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 46520,
+        "sound_end": 50400
     },
     {
         "id": "Ahirusanto Tokei-f000015",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -471,11 +483,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 50400,
+        "sound_end": 54560
     },
     {
         "id": "Ahirusanto Tokei-f000016",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -515,11 +528,12 @@
             "。",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 54560,
+        "sound_end": 60720
     },
     {
         "id": "Ahirusanto Tokei-f000017",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -551,11 +565,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 60720,
+        "sound_end": 63040
     },
     {
         "id": "Ahirusanto Tokei-f000018",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -585,11 +600,12 @@
             "が",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 63040,
+        "sound_end": 66720
     },
     {
         "id": "Ahirusanto Tokei-f000019",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -605,11 +621,12 @@
             "に",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 66720,
+        "sound_end": 67720
     },
     {
         "id": "Ahirusanto Tokei-f000020",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -647,11 +664,12 @@
             "た",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 67720,
+        "sound_end": 72720
     },
     {
         "id": "Ahirusanto Tokei-f000021",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -681,11 +699,12 @@
             "から",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 72720,
+        "sound_end": 74720
     },
     {
         "id": "Ahirusanto Tokei-f000022",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -709,11 +728,12 @@
             "下さい",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 74720,
+        "sound_end": 76880
     },
     {
         "id": "Ahirusanto Tokei-f000023",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -741,11 +761,12 @@
             "。",
             "」"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 76880,
+        "sound_end": 81560
     },
     {
         "id": "Ahirusanto Tokei-f000024",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -789,11 +810,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 81560,
+        "sound_end": 86261
     },
     {
         "id": "Ahirusanto Tokei-f000025",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -831,11 +853,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 86261,
+        "sound_end": 91600
     },
     {
         "id": "Ahirusanto Tokei-f000026",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -889,11 +912,12 @@
             "た",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 91600,
+        "sound_end": 99920
     },
     {
         "id": "Ahirusanto Tokei-f000027",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -933,11 +957,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 99920,
+        "sound_end": 102880
     },
     {
         "id": "Ahirusanto Tokei-f000028",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -953,11 +978,12 @@
             "が",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 102880,
+        "sound_end": 105160
     },
     {
         "id": "Ahirusanto Tokei-f000029",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -985,11 +1011,12 @@
             "は",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 105160,
+        "sound_end": 107880
     },
     {
         "id": "Ahirusanto Tokei-f000030",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1027,11 +1054,12 @@
             "て",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 107880,
+        "sound_end": 111200
     },
     {
         "id": "Ahirusanto Tokei-f000031",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1065,11 +1093,12 @@
             "です",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 111200,
+        "sound_end": 116076
     },
     {
         "id": "Ahirusanto Tokei-f000032",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1087,11 +1116,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 116076,
+        "sound_end": 117810
     },
     {
         "id": "Ahirusanto Tokei-f000033",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1115,11 +1145,12 @@
             "に",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 117810,
+        "sound_end": 119920
     },
     {
         "id": "Ahirusanto Tokei-f000034",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1161,11 +1192,12 @@
             "か",
             "？"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 119920,
+        "sound_end": 126404
     },
     {
         "id": "Ahirusanto Tokei-f000035",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1195,11 +1227,12 @@
             "で",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 126404,
+        "sound_end": 129720
     },
     {
         "id": "Ahirusanto Tokei-f000036",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1239,11 +1272,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 129720,
+        "sound_end": 134000
     },
     {
         "id": "Ahirusanto Tokei-f000037",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1261,11 +1295,12 @@
             "で",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 134000,
+        "sound_end": 135360
     },
     {
         "id": "Ahirusanto Tokei-f000038",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1305,11 +1340,12 @@
             "で",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 135360,
+        "sound_end": 140483
     },
     {
         "id": "Ahirusanto Tokei-f000039",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1341,11 +1377,12 @@
             "です",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 140483,
+        "sound_end": 146560
     },
     {
         "id": "Ahirusanto Tokei-f000040",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1363,11 +1400,12 @@
             "も",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 146560,
+        "sound_end": 147800
     },
     {
         "id": "Ahirusanto Tokei-f000041",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1389,11 +1427,12 @@
             "で",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 147800,
+        "sound_end": 149880
     },
     {
         "id": "Ahirusanto Tokei-f000042",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1431,11 +1470,12 @@
             "た",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 149880,
+        "sound_end": 155220
     },
     {
         "id": "Ahirusanto Tokei-f000043",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1455,11 +1495,12 @@
             "日",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 157256,
+        "sound_end": 158480
     },
     {
         "id": "Ahirusanto Tokei-f000044",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1487,11 +1528,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 158480,
+        "sound_end": 162967
     },
     {
         "id": "Ahirusanto Tokei-f000045",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1525,11 +1567,12 @@
             "う",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 162967,
+        "sound_end": 166880
     },
     {
         "id": "Ahirusanto Tokei-f000046",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1583,11 +1626,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 166880,
+        "sound_end": 173520
     },
     {
         "id": "Ahirusanto Tokei-f000047",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1603,11 +1647,12 @@
             "君",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 173520,
+        "sound_end": 174280
     },
     {
         "id": "Ahirusanto Tokei-f000048",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1629,11 +1674,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 174280,
+        "sound_end": 175920
     },
     {
         "id": "Ahirusanto Tokei-f000049",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1663,11 +1709,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 175920,
+        "sound_end": 180480
     },
     {
         "id": "Ahirusanto Tokei-f000050",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1683,11 +1730,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 180480,
+        "sound_end": 181400
     },
     {
         "id": "Ahirusanto Tokei-f000051",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1721,11 +1769,12 @@
             "。",
             "」"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 181400,
+        "sound_end": 187280
     },
     {
         "id": "Ahirusanto Tokei-f000052",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1761,11 +1810,12 @@
             "で",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 187280,
+        "sound_end": 191360
     },
     {
         "id": "Ahirusanto Tokei-f000053",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1793,11 +1843,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 191360,
+        "sound_end": 194920
     },
     {
         "id": "Ahirusanto Tokei-f000054",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1811,11 +1862,12 @@
             "朝",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 194920,
+        "sound_end": 195480
     },
     {
         "id": "Ahirusanto Tokei-f000055",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1859,11 +1911,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 195480,
+        "sound_end": 200999
     },
     {
         "id": "Ahirusanto Tokei-f000056",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1909,11 +1962,12 @@
             "た",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 200999,
+        "sound_end": 205485
     },
     {
         "id": "Ahirusanto Tokei-f000057",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1929,11 +1983,12 @@
             "が",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 205485,
+        "sound_end": 207106
     },
     {
         "id": "Ahirusanto Tokei-f000058",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1947,11 +2002,12 @@
             "お",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 207106,
+        "sound_end": 207619
     },
     {
         "id": "Ahirusanto Tokei-f000059",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -1965,11 +2021,12 @@
             "お",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 207619,
+        "sound_end": 208623
     },
     {
         "id": "Ahirusanto Tokei-f000060",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -2015,11 +2072,12 @@
             "ばかり",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 208623,
+        "sound_end": 214280
     },
     {
         "id": "Ahirusanto Tokei-f000061",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -2083,11 +2141,12 @@
             "さ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 214280,
+        "sound_end": 222280
     },
     {
         "id": "Ahirusanto Tokei-f000062",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -2133,11 +2192,12 @@
             "が",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 222280,
+        "sound_end": 226920
     },
     {
         "id": "Ahirusanto Tokei-f000063",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -2151,11 +2211,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 226920,
+        "sound_end": 227200
     },
     {
         "id": "Ahirusanto Tokei-f000064",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Ahirusanto Tokei",
         "deck_name_japanese": "あひるさん と 時計",
@@ -2181,6 +2242,8 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 227200,
+        "sound_end": 229780
     }
 ]

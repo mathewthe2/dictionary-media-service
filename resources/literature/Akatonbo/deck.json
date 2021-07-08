@@ -2,1401 +2,1961 @@
     {
         "id": "f000001",
         "sentence": "新美南吉　作",
-        "sentence_with_furigana": "新美南吉　作"
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 3028,
+        "audio_end": 6480
     },
     {
         "id": "f000002",
         "sentence": "赤とんぼ",
-        "sentence_with_furigana": "赤とんぼ"
+        "sentence_with_furigana": "赤とんぼ",
+        "audio_begin": 6480,
+        "audio_end": 7760
     },
     {
         "id": "f000003",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 11360,
+        "audio_end": 12520
     },
     {
         "id": "f000004",
         "sentence": "三回ほど空をまわって、",
-        "sentence_with_furigana": "三回ほど空をまわって、"
+        "sentence_with_furigana": "三回ほど空をまわって、",
+        "audio_begin": 12520,
+        "audio_end": 15440
     },
     {
         "id": "f000005",
         "sentence": "いつも休む一本の垣根の竹の上に、",
-        "sentence_with_furigana": "いつも休む一本の 垣根[かきね]の竹の上に、"
+        "sentence_with_furigana": "いつも休む一本の 垣根[かきね]の竹の上に、",
+        "audio_begin": 15440,
+        "audio_end": 19040
     },
     {
         "id": "f000006",
         "sentence": "チョイととまりました。",
-        "sentence_with_furigana": "チョイととまりました。"
+        "sentence_with_furigana": "チョイととまりました。",
+        "audio_begin": 19040,
+        "audio_end": 23080
     },
     {
         "id": "f000007",
         "sentence": "山里の昼は静かです。",
-        "sentence_with_furigana": "山里の昼は静かです。"
+        "sentence_with_furigana": "山里の昼は静かです。",
+        "audio_begin": 23080,
+        "audio_end": 26440
     },
     {
         "id": "f000008",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 26440,
+        "audio_end": 27280
     },
     {
         "id": "f000009",
         "sentence": "初夏の山里は、",
-        "sentence_with_furigana": "初夏の山里は、"
+        "sentence_with_furigana": "初夏の山里は、",
+        "audio_begin": 27280,
+        "audio_end": 29080
     },
     {
         "id": "f000010",
         "sentence": "真実に緑につつまれています。",
-        "sentence_with_furigana": "真実[ほんとう]に緑につつまれています。"
+        "sentence_with_furigana": "真実[ほんとう]に緑につつまれています。",
+        "audio_begin": 29080,
+        "audio_end": 31860
     },
     {
         "id": "f000011",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 33960,
+        "audio_end": 35160
     },
     {
         "id": "f000012",
         "sentence": "クルリと眼玉を転じました。",
-        "sentence_with_furigana": "クルリと 眼玉[めだま]を 転[てん]じました。"
+        "sentence_with_furigana": "クルリと 眼玉[めだま]を 転[てん]じました。",
+        "audio_begin": 35160,
+        "audio_end": 39680
     },
     {
         "id": "f000013",
         "sentence": "赤とんぼの休んでいる竹には、",
-        "sentence_with_furigana": "赤とんぼの休んでいる竹には、"
+        "sentence_with_furigana": "赤とんぼの休んでいる竹には、",
+        "audio_begin": 39680,
+        "audio_end": 41960
     },
     {
         "id": "f000014",
         "sentence": "朝顔のつるがまきついています。",
-        "sentence_with_furigana": "朝顔[あさがお]のつるがまきついています。"
+        "sentence_with_furigana": "朝顔[あさがお]のつるがまきついています。",
+        "audio_begin": 41960,
+        "audio_end": 43960
     },
     {
         "id": "f000015",
         "sentence": "昨年の夏、",
-        "sentence_with_furigana": "昨年[さくねん]の夏、"
+        "sentence_with_furigana": "昨年[さくねん]の夏、",
+        "audio_begin": 46060,
+        "audio_end": 47360
     },
     {
         "id": "f000016",
         "sentence": "この別荘の主人が植えていった朝顔の結んだ実が、",
-        "sentence_with_furigana": "この 別荘[べっそう]の主人が 植[う]えていった朝顔の結んだ実が、"
+        "sentence_with_furigana": "この 別荘[べっそう]の主人が 植[う]えていった朝顔の結んだ実が、",
+        "audio_begin": 47360,
+        "audio_end": 51440
     },
     {
         "id": "f000017",
         "sentence": "また生えたんだろう──",
-        "sentence_with_furigana": "また 生[は]えたんだろう──"
+        "sentence_with_furigana": "また 生[は]えたんだろう──",
+        "audio_begin": 51440,
+        "audio_end": 53241
     },
     {
         "id": "f000018",
         "sentence": "と赤とんぼは思いました。",
-        "sentence_with_furigana": "と赤とんぼは思いました。"
+        "sentence_with_furigana": "と赤とんぼは思いました。",
+        "audio_begin": 53241,
+        "audio_end": 55600
     },
     {
         "id": "f000019",
         "sentence": "今はこの家には誰もいないので、",
-        "sentence_with_furigana": "今はこの家には 誰[だれ]もいないので、"
+        "sentence_with_furigana": "今はこの家には 誰[だれ]もいないので、",
+        "audio_begin": 58400,
+        "audio_end": 61066
     },
     {
         "id": "f000020",
         "sentence": "雨戸が淋しくしまっています。",
-        "sentence_with_furigana": "雨戸が 淋[さび]しくしまっています。"
+        "sentence_with_furigana": "雨戸が 淋[さび]しくしまっています。",
+        "audio_begin": 61066,
+        "audio_end": 65736
     },
     {
         "id": "f000021",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 65736,
+        "audio_end": 66800
     },
     {
         "id": "f000022",
         "sentence": "ツイと竹の先からからだを離して、",
-        "sentence_with_furigana": "ツイと竹の先からからだを 離[はな]して、"
+        "sentence_with_furigana": "ツイと竹の先からからだを 離[はな]して、",
+        "audio_begin": 66800,
+        "audio_end": 69764
     },
     {
         "id": "f000023",
         "sentence": "高い空に舞い上がりました。",
-        "sentence_with_furigana": "高い空に 舞[ま]い上がりました。"
+        "sentence_with_furigana": "高い空に 舞[ま]い上がりました。",
+        "audio_begin": 69764,
+        "audio_end": 72400
     },
     {
         "id": "f000024",
         "sentence": "三四人の人が、",
-        "sentence_with_furigana": "三四人の人が、"
+        "sentence_with_furigana": "三四人の人が、",
+        "audio_begin": 75200,
+        "audio_end": 76520
     },
     {
         "id": "f000025",
         "sentence": "こっちへやって来ます。",
-        "sentence_with_furigana": "こっちへやって来ます。"
+        "sentence_with_furigana": "こっちへやって来ます。",
+        "audio_begin": 76520,
+        "audio_end": 79720
     },
     {
         "id": "f000026",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 79720,
+        "audio_end": 80688
     },
     {
         "id": "f000027",
         "sentence": "さっきの竹にまたとまって、",
-        "sentence_with_furigana": "さっきの竹にまたとまって、"
+        "sentence_with_furigana": "さっきの竹にまたとまって、",
+        "audio_begin": 80688,
+        "audio_end": 83324
     },
     {
         "id": "f000028",
         "sentence": "じっと近づいて来る人々を見ていました。",
-        "sentence_with_furigana": "じっと近づいて来る人々を見ていました。"
+        "sentence_with_furigana": "じっと近づいて来る人々を見ていました。",
+        "audio_begin": 83324,
+        "audio_end": 87180
     },
     {
         "id": "f000029",
         "sentence": "一番最初にかけて来たのは、",
-        "sentence_with_furigana": "一番最初にかけて来たのは、"
+        "sentence_with_furigana": "一番最初にかけて来たのは、",
+        "audio_begin": 89280,
+        "audio_end": 91600
     },
     {
         "id": "f000030",
         "sentence": "赤いリボンの帽子をかぶったかあいいおじょうちゃんでした。",
-        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]をかぶったかあいいおじょうちゃんでした。"
+        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]をかぶったかあいいおじょうちゃんでした。",
+        "audio_begin": 91600,
+        "audio_end": 96680
     },
     {
         "id": "f000031",
         "sentence": "それから、",
-        "sentence_with_furigana": "それから、"
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 96680,
+        "audio_end": 97520
     },
     {
         "id": "f000032",
         "sentence": "おじょうちゃんのお母さん、",
-        "sentence_with_furigana": "おじょうちゃんのお母さん、"
+        "sentence_with_furigana": "おじょうちゃんのお母さん、",
+        "audio_begin": 97520,
+        "audio_end": 99410
     },
     {
         "id": "f000033",
         "sentence": "荷物をドッサリ持った書生さん──",
-        "sentence_with_furigana": "荷物[にもつ]をドッサリ持った 書生[しょせい]さん──"
+        "sentence_with_furigana": "荷物[にもつ]をドッサリ持った 書生[しょせい]さん──",
+        "audio_begin": 99410,
+        "audio_end": 101949
     },
     {
         "id": "f000034",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 101949,
+        "audio_end": 102560
     },
     {
         "id": "f000035",
         "sentence": "こう三人です。",
-        "sentence_with_furigana": "こう三人です。"
+        "sentence_with_furigana": "こう三人です。",
+        "audio_begin": 102560,
+        "audio_end": 105950
     },
     {
         "id": "f000036",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 105950,
+        "audio_end": 106960
     },
     {
         "id": "f000037",
         "sentence": "かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。",
-        "sentence_with_furigana": "かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。"
+        "sentence_with_furigana": "かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。",
+        "audio_begin": 106960,
+        "audio_end": 111767
     },
     {
         "id": "f000038",
         "sentence": "でも、",
-        "sentence_with_furigana": "でも、"
+        "sentence_with_furigana": "でも、",
+        "audio_begin": 111767,
+        "audio_end": 112520
     },
     {
         "id": "f000039",
         "sentence": "おじょうちゃんが怒るとこわいな──",
-        "sentence_with_furigana": "おじょうちゃんが 怒[おこ]るとこわいな──"
+        "sentence_with_furigana": "おじょうちゃんが 怒[おこ]るとこわいな──",
+        "audio_begin": 112520,
+        "audio_end": 114703
     },
     {
         "id": "f000040",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 114703,
+        "audio_end": 115520
     },
     {
         "id": "f000041",
         "sentence": "赤とんぼは頭をかたげました。",
-        "sentence_with_furigana": "赤とんぼは頭をかたげました。"
+        "sentence_with_furigana": "赤とんぼは頭をかたげました。",
+        "audio_begin": 115520,
+        "audio_end": 117400
     },
     {
         "id": "f000042",
         "sentence": "けど、",
-        "sentence_with_furigana": "けど、"
+        "sentence_with_furigana": "けど、",
+        "audio_begin": 119000,
+        "audio_end": 119889
     },
     {
         "id": "f000043",
         "sentence": "とうとう、",
-        "sentence_with_furigana": "とうとう、"
+        "sentence_with_furigana": "とうとう、",
+        "audio_begin": 119889,
+        "audio_end": 120374
     },
     {
         "id": "f000044",
         "sentence": "おじょうちゃんが前へ来たとき、",
-        "sentence_with_furigana": "おじょうちゃんが前へ来たとき、"
+        "sentence_with_furigana": "おじょうちゃんが前へ来たとき、",
+        "audio_begin": 120374,
+        "audio_end": 122440
     },
     {
         "id": "f000045",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 122440,
+        "audio_end": 123484
     },
     {
         "id": "f000046",
         "sentence": "おじょうちゃんの赤いリボンに飛びうつりました。",
-        "sentence_with_furigana": "おじょうちゃんの赤いリボンに飛びうつりました。"
+        "sentence_with_furigana": "おじょうちゃんの赤いリボンに飛びうつりました。",
+        "audio_begin": 123484,
+        "audio_end": 127662
     },
     {
         "id": "f000047",
         "sentence": "「あッ、",
-        "sentence_with_furigana": "「あッ、"
+        "sentence_with_furigana": "「あッ、",
+        "audio_begin": 127662,
+        "audio_end": 128488
     },
     {
         "id": "f000048",
         "sentence": "おじょうさん、",
-        "sentence_with_furigana": "おじょうさん、"
+        "sentence_with_furigana": "おじょうさん、",
+        "audio_begin": 128488,
+        "audio_end": 129751
     },
     {
         "id": "f000049",
         "sentence": "帽子に赤とんぼがとまりましたよ。",
-        "sentence_with_furigana": "帽子[ぼうし]に赤とんぼがとまりましたよ。"
+        "sentence_with_furigana": "帽子[ぼうし]に赤とんぼがとまりましたよ。",
+        "audio_begin": 129751,
+        "audio_end": 133035
     },
     {
         "id": "f000050",
         "sentence": "」と、",
-        "sentence_with_furigana": "」と、"
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 133035,
+        "audio_end": 133640
     },
     {
         "id": "f000051",
         "sentence": "書生さんがさけびました。",
-        "sentence_with_furigana": "書生さんがさけびました。"
+        "sentence_with_furigana": "書生さんがさけびました。",
+        "audio_begin": 133640,
+        "audio_end": 136572
     },
     {
         "id": "f000052",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 136572,
+        "audio_end": 137801
     },
     {
         "id": "f000053",
         "sentence": "今におじょうちゃんの手が、",
-        "sentence_with_furigana": "今におじょうちゃんの手が、"
+        "sentence_with_furigana": "今におじょうちゃんの手が、",
+        "audio_begin": 137801,
+        "audio_end": 139400
     },
     {
         "id": "f000054",
         "sentence": "自分をつかまえに来やしないかと思って、",
-        "sentence_with_furigana": "自分をつかまえに来やしないかと思って、"
+        "sentence_with_furigana": "自分をつかまえに来やしないかと思って、",
+        "audio_begin": 139400,
+        "audio_end": 142200
     },
     {
         "id": "f000055",
         "sentence": "すぐ飛ぶ用意をしました。",
-        "sentence_with_furigana": "すぐ飛ぶ用意をしました。"
+        "sentence_with_furigana": "すぐ飛ぶ用意をしました。",
+        "audio_begin": 142200,
+        "audio_end": 145600
     },
     {
         "id": "f000056",
         "sentence": "しかし、",
-        "sentence_with_furigana": "しかし、"
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 145600,
+        "audio_end": 146560
     },
     {
         "id": "f000057",
         "sentence": "おじょうちゃんは、",
-        "sentence_with_furigana": "おじょうちゃんは、"
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "audio_begin": 146560,
+        "audio_end": 147720
     },
     {
         "id": "f000058",
         "sentence": "赤とんぼをつかまえようともせず、",
-        "sentence_with_furigana": "赤とんぼをつかまえようともせず、"
+        "sentence_with_furigana": "赤とんぼをつかまえようともせず、",
+        "audio_begin": 147720,
+        "audio_end": 150960
     },
     {
         "id": "f000059",
         "sentence": "「まア、",
-        "sentence_with_furigana": "「まア、"
+        "sentence_with_furigana": "「まア、",
+        "audio_begin": 150960,
+        "audio_end": 152120
     },
     {
         "id": "f000060",
         "sentence": "あたしの帽子に！",
-        "sentence_with_furigana": "あたしの 帽子[ぼうし]に！"
+        "sentence_with_furigana": "あたしの 帽子[ぼうし]に！",
+        "audio_begin": 152120,
+        "audio_end": 154200
     },
     {
         "id": "f000061",
         "sentence": "うれしいわ！",
-        "sentence_with_furigana": "うれしいわ！"
+        "sentence_with_furigana": "うれしいわ！",
+        "audio_begin": 154200,
+        "audio_end": 155874
     },
     {
         "id": "f000062",
         "sentence": "」といって、",
-        "sentence_with_furigana": "」といって、"
+        "sentence_with_furigana": "」といって、",
+        "audio_begin": 155874,
+        "audio_end": 156840
     },
     {
         "id": "f000063",
         "sentence": "うれしさに跳び上がりました。",
-        "sentence_with_furigana": "うれしさに 跳[と]び上がりました。"
+        "sentence_with_furigana": "うれしさに 跳[と]び上がりました。",
+        "audio_begin": 156840,
+        "audio_end": 158284
     },
     {
         "id": "f000064",
         "sentence": "つばくらが、",
-        "sentence_with_furigana": "つばくらが、"
+        "sentence_with_furigana": "つばくらが、",
+        "audio_begin": 160482,
+        "audio_end": 161800
     },
     {
         "id": "f000065",
         "sentence": "風のようにかけて行きます。",
-        "sentence_with_furigana": "風のようにかけて行きます。"
+        "sentence_with_furigana": "風のようにかけて行きます。",
+        "audio_begin": 161800,
+        "audio_end": 163561
     },
     {
         "id": "f000066",
         "sentence": "かあいいおじょうちゃんは、",
-        "sentence_with_furigana": "かあいいおじょうちゃんは、"
+        "sentence_with_furigana": "かあいいおじょうちゃんは、",
+        "audio_begin": 167340,
+        "audio_end": 168920
     },
     {
         "id": "f000067",
         "sentence": "今まで空家だったその家に住みこみました。",
-        "sentence_with_furigana": "今まで 空家[あきや]だったその家に住みこみました。"
+        "sentence_with_furigana": "今まで 空家[あきや]だったその家に住みこみました。",
+        "audio_begin": 168920,
+        "audio_end": 172600
     },
     {
         "id": "f000068",
         "sentence": "もちろん、",
-        "sentence_with_furigana": "もちろん、"
+        "sentence_with_furigana": "もちろん、",
+        "audio_begin": 172600,
+        "audio_end": 173480
     },
     {
         "id": "f000069",
         "sentence": "お母さんや書生さんもいっしょです。",
-        "sentence_with_furigana": "お母さんや 書生[しょせい]さんもいっしょです。"
+        "sentence_with_furigana": "お母さんや 書生[しょせい]さんもいっしょです。",
+        "audio_begin": 173480,
+        "audio_end": 177320
     },
     {
         "id": "f000070",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 177320,
+        "audio_end": 178425
     },
     {
         "id": "f000071",
         "sentence": "今日も空をまわっています。",
-        "sentence_with_furigana": "今日も空をまわっています。"
+        "sentence_with_furigana": "今日も空をまわっています。",
+        "audio_begin": 178425,
+        "audio_end": 181880
     },
     {
         "id": "f000072",
         "sentence": "夕陽が、",
-        "sentence_with_furigana": "夕陽[ゆうひ]が、"
+        "sentence_with_furigana": "夕陽[ゆうひ]が、",
+        "audio_begin": 181880,
+        "audio_end": 183000
     },
     {
         "id": "f000073",
         "sentence": "その羽をいっそう赤くしています。",
-        "sentence_with_furigana": "その 羽[はね]をいっそう赤くしています。"
+        "sentence_with_furigana": "その 羽[はね]をいっそう赤くしています。",
+        "audio_begin": 183000,
+        "audio_end": 185480
     },
     {
         "id": "f000074",
         "sentence": "「とんぼとんぼ",
-        "sentence_with_furigana": "「とんぼとんぼ"
+        "sentence_with_furigana": "「とんぼとんぼ",
+        "audio_begin": 188780,
+        "audio_end": 191040
     },
     {
         "id": "f000075",
         "sentence": "赤とんぼ",
-        "sentence_with_furigana": "赤とんぼ"
+        "sentence_with_furigana": "赤とんぼ",
+        "audio_begin": 191040,
+        "audio_end": 193200
     },
     {
         "id": "f000076",
         "sentence": "すすきの中は",
-        "sentence_with_furigana": "すすきの中は"
+        "sentence_with_furigana": "すすきの中は",
+        "audio_begin": 193200,
+        "audio_end": 194702
     },
     {
         "id": "f000077",
         "sentence": "あぶないよ」",
-        "sentence_with_furigana": "あぶないよ」"
+        "sentence_with_furigana": "あぶないよ」",
+        "audio_begin": 194702,
+        "audio_end": 197600
     },
     {
         "id": "f000078",
         "sentence": "あどけない声で、",
-        "sentence_with_furigana": "あどけない声で、"
+        "sentence_with_furigana": "あどけない声で、",
+        "audio_begin": 197600,
+        "audio_end": 198800
     },
     {
         "id": "f000079",
         "sentence": "こんな歌をうたっているのが、",
-        "sentence_with_furigana": "こんな歌をうたっているのが、"
+        "sentence_with_furigana": "こんな歌をうたっているのが、",
+        "audio_begin": 198800,
+        "audio_end": 200400
     },
     {
         "id": "f000080",
         "sentence": "聞こえて来ました。",
-        "sentence_with_furigana": "聞こえて来ました。"
+        "sentence_with_furigana": "聞こえて来ました。",
+        "audio_begin": 200400,
+        "audio_end": 202960
     },
     {
         "id": "f000081",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 202960,
+        "audio_end": 204120
     },
     {
         "id": "f000082",
         "sentence": "あのおじょうちゃんだろうと思って、",
-        "sentence_with_furigana": "あのおじょうちゃんだろうと思って、"
+        "sentence_with_furigana": "あのおじょうちゃんだろうと思って、",
+        "audio_begin": 204120,
+        "audio_end": 206320
     },
     {
         "id": "f000083",
         "sentence": "そのまま、",
-        "sentence_with_furigana": "そのまま、"
+        "sentence_with_furigana": "そのまま、",
+        "audio_begin": 206320,
+        "audio_end": 206880
     },
     {
         "id": "f000084",
         "sentence": "声のする方へ飛んで行きました。",
-        "sentence_with_furigana": "声のする方へ飛んで行きました。"
+        "sentence_with_furigana": "声のする方へ飛んで行きました。",
+        "audio_begin": 206880,
+        "audio_end": 210320
     },
     {
         "id": "f000085",
         "sentence": "思った通り、",
-        "sentence_with_furigana": "思った通り、"
+        "sentence_with_furigana": "思った通り、",
+        "audio_begin": 210320,
+        "audio_end": 211640
     },
     {
         "id": "f000086",
         "sentence": "うたってるのは、",
-        "sentence_with_furigana": "うたってるのは、"
+        "sentence_with_furigana": "うたってるのは、",
+        "audio_begin": 211640,
+        "audio_end": 212680
     },
     {
         "id": "f000087",
         "sentence": "あのおじょうちゃんでした。",
-        "sentence_with_furigana": "あのおじょうちゃんでした。"
+        "sentence_with_furigana": "あのおじょうちゃんでした。",
+        "audio_begin": 212680,
+        "audio_end": 215760
     },
     {
         "id": "f000088",
         "sentence": "おじょうちゃんは、",
-        "sentence_with_furigana": "おじょうちゃんは、"
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "audio_begin": 215760,
+        "audio_end": 216817
     },
     {
         "id": "f000089",
         "sentence": "庭で行水をしながら、",
-        "sentence_with_furigana": "庭で 行水[ぎょうずい]をしながら、"
+        "sentence_with_furigana": "庭で 行水[ぎょうずい]をしながら、",
+        "audio_begin": 216817,
+        "audio_end": 218880
     },
     {
         "id": "f000090",
         "sentence": "一人うたってたのです。",
-        "sentence_with_furigana": "一人うたってたのです。"
+        "sentence_with_furigana": "一人うたってたのです。",
+        "audio_begin": 218880,
+        "audio_end": 222572
     },
     {
         "id": "f000091",
         "sentence": "赤とんぼが、",
-        "sentence_with_furigana": "赤とんぼが、"
+        "sentence_with_furigana": "赤とんぼが、",
+        "audio_begin": 222572,
+        "audio_end": 223400
     },
     {
         "id": "f000092",
         "sentence": "頭の上へ来ると、",
-        "sentence_with_furigana": "頭の上へ来ると、"
+        "sentence_with_furigana": "頭の上へ来ると、",
+        "audio_begin": 223400,
+        "audio_end": 225228
     },
     {
         "id": "f000093",
         "sentence": "おじょうちゃんは、",
-        "sentence_with_furigana": "おじょうちゃんは、"
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "audio_begin": 225228,
+        "audio_end": 225840
     },
     {
         "id": "f000094",
         "sentence": "持ってたおもちゃの金魚をにぎったまま、",
-        "sentence_with_furigana": "持ってたおもちゃの金魚をにぎったまま、"
+        "sentence_with_furigana": "持ってたおもちゃの金魚をにぎったまま、",
+        "audio_begin": 225840,
+        "audio_end": 229325
     },
     {
         "id": "f000095",
         "sentence": "「あたしの赤とんぼ！",
-        "sentence_with_furigana": "「あたしの赤とんぼ！"
+        "sentence_with_furigana": "「あたしの赤とんぼ！",
+        "audio_begin": 229325,
+        "audio_end": 231428
     },
     {
         "id": "f000096",
         "sentence": "」とさけんで、",
-        "sentence_with_furigana": "」とさけんで、"
+        "sentence_with_furigana": "」とさけんで、",
+        "audio_begin": 231428,
+        "audio_end": 232179
     },
     {
         "id": "f000097",
         "sentence": "両手を高くさし上げました。",
-        "sentence_with_furigana": "両手を高くさし上げました。"
+        "sentence_with_furigana": "両手を高くさし上げました。",
+        "audio_begin": 232179,
+        "audio_end": 236000
     },
     {
         "id": "f000098",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 236000,
+        "audio_end": 236760
     },
     {
         "id": "f000099",
         "sentence": "とても愉快です。",
-        "sentence_with_furigana": "とても 愉快[ゆかい]です。"
+        "sentence_with_furigana": "とても 愉快[ゆかい]です。",
+        "audio_begin": 236760,
+        "audio_end": 238180
     },
     {
         "id": "f000100",
         "sentence": "書生さんが、",
-        "sentence_with_furigana": "書生[しょせい]さんが、"
+        "sentence_with_furigana": "書生[しょせい]さんが、",
+        "audio_begin": 240235,
+        "audio_end": 240960
     },
     {
         "id": "f000101",
         "sentence": "シャボンを持ってやって来ました。",
-        "sentence_with_furigana": "シャボンを持ってやって来ました。"
+        "sentence_with_furigana": "シャボンを持ってやって来ました。",
+        "audio_begin": 240960,
+        "audio_end": 244243
     },
     {
         "id": "f000102",
         "sentence": "「おじょうさん、",
-        "sentence_with_furigana": "「おじょうさん、"
+        "sentence_with_furigana": "「おじょうさん、",
+        "audio_begin": 244243,
+        "audio_end": 245533
     },
     {
         "id": "f000103",
         "sentence": "背中を洗いましょうか？」",
-        "sentence_with_furigana": "背中[せなか]を 洗[あら]いましょうか？」"
+        "sentence_with_furigana": "背中[せなか]を 洗[あら]いましょうか？」",
+        "audio_begin": 245533,
+        "audio_end": 248599
     },
     {
         "id": "f000104",
         "sentence": "「いや──」",
-        "sentence_with_furigana": "「いや──」"
+        "sentence_with_furigana": "「いや──」",
+        "audio_begin": 248599,
+        "audio_end": 250292
     },
     {
         "id": "f000105",
         "sentence": "「だって──」",
-        "sentence_with_furigana": "「だって──」"
+        "sentence_with_furigana": "「だって──」",
+        "audio_begin": 250292,
+        "audio_end": 252327
     },
     {
         "id": "f000106",
         "sentence": "「いや！",
-        "sentence_with_furigana": "「いや！"
+        "sentence_with_furigana": "「いや！",
+        "audio_begin": 252327,
+        "audio_end": 253419
     },
     {
         "id": "f000107",
         "sentence": "いや！",
-        "sentence_with_furigana": "いや！"
+        "sentence_with_furigana": "いや！",
+        "audio_begin": 253419,
+        "audio_end": 254880
     },
     {
         "id": "f000108",
         "sentence": "お母さんでなくっちゃ──」",
-        "sentence_with_furigana": "お母さんでなくっちゃ──」"
+        "sentence_with_furigana": "お母さんでなくっちゃ──」",
+        "audio_begin": 254880,
+        "audio_end": 258704
     },
     {
         "id": "f000109",
         "sentence": "「困ったおじょうさん。」",
-        "sentence_with_furigana": "「 困[こま]ったおじょうさん。」"
+        "sentence_with_furigana": "「 困[こま]ったおじょうさん。」",
+        "audio_begin": 258704,
+        "audio_end": 261947
     },
     {
         "id": "f000110",
         "sentence": "書生さんは、",
-        "sentence_with_furigana": "書生[しょせい]さんは、"
+        "sentence_with_furigana": "書生[しょせい]さんは、",
+        "audio_begin": 261947,
+        "audio_end": 262880
     },
     {
         "id": "f000111",
         "sentence": "頭をかきながら歩き出しましたが、",
-        "sentence_with_furigana": "頭をかきながら歩き出しましたが、"
+        "sentence_with_furigana": "頭をかきながら歩き出しましたが、",
+        "audio_begin": 262880,
+        "audio_end": 265360
     },
     {
         "id": "f000112",
         "sentence": "朝顔の葉にとまって、",
-        "sentence_with_furigana": "朝顔の葉にとまって、"
+        "sentence_with_furigana": "朝顔の葉にとまって、",
+        "audio_begin": 265360,
+        "audio_end": 267354
     },
     {
         "id": "f000113",
         "sentence": "ふたりの話をきいてる赤とんぼを見つけると、",
-        "sentence_with_furigana": "ふたりの話をきいてる赤とんぼを見つけると、"
+        "sentence_with_furigana": "ふたりの話をきいてる赤とんぼを見つけると、",
+        "audio_begin": 267354,
+        "audio_end": 271040
     },
     {
         "id": "f000114",
         "sentence": "右手を大きくグルーッと一回まわしました。",
-        "sentence_with_furigana": "右手を大きくグルーッと一回まわしました。"
+        "sentence_with_furigana": "右手を大きくグルーッと一回まわしました。",
+        "audio_begin": 271040,
+        "audio_end": 276440
     },
     {
         "id": "f000115",
         "sentence": "妙な事をするな──",
-        "sentence_with_furigana": "妙[みょう]な事をするな──"
+        "sentence_with_furigana": "妙[みょう]な事をするな──",
+        "audio_begin": 276440,
+        "audio_end": 278292
     },
     {
         "id": "f000116",
         "sentence": "と思って、",
-        "sentence_with_furigana": "と思って、"
+        "sentence_with_furigana": "と思って、",
+        "audio_begin": 278292,
+        "audio_end": 279400
     },
     {
         "id": "f000117",
         "sentence": "赤とんぼはその指先を見ていました。",
-        "sentence_with_furigana": "赤とんぼはその指先を見ていました。"
+        "sentence_with_furigana": "赤とんぼはその指先を見ていました。",
+        "audio_begin": 279400,
+        "audio_end": 281665
     },
     {
         "id": "f000118",
         "sentence": "つづけて、",
-        "sentence_with_furigana": "つづけて、"
+        "sentence_with_furigana": "つづけて、",
+        "audio_begin": 283030,
+        "audio_end": 283918
     },
     {
         "id": "f000119",
         "sentence": "グルグルと書生さんは右手をまわします。",
-        "sentence_with_furigana": "グルグルと書生さんは右手をまわします。"
+        "sentence_with_furigana": "グルグルと書生さんは右手をまわします。",
+        "audio_begin": 283918,
+        "audio_end": 287782
     },
     {
         "id": "f000120",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 287782,
+        "audio_end": 288840
     },
     {
         "id": "f000121",
         "sentence": "だんだん、",
-        "sentence_with_furigana": "だんだん、"
+        "sentence_with_furigana": "だんだん、",
+        "audio_begin": 288840,
+        "audio_end": 289760
     },
     {
         "id": "f000122",
         "sentence": "その円を小さくして赤とんぼに近づいて来ます。",
-        "sentence_with_furigana": "その円を小さくして赤とんぼに近づいて来ます。"
+        "sentence_with_furigana": "その円を小さくして赤とんぼに近づいて来ます。",
+        "audio_begin": 289760,
+        "audio_end": 293340
     },
     {
         "id": "f000123",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 295306,
+        "audio_end": 296440
     },
     {
         "id": "f000124",
         "sentence": "大きな眼をギョロギョロ動かして、",
-        "sentence_with_furigana": "大きな 眼[め]をギョロギョロ動かして、"
+        "sentence_with_furigana": "大きな 眼[め]をギョロギョロ動かして、",
+        "audio_begin": 296440,
+        "audio_end": 298800
     },
     {
         "id": "f000125",
         "sentence": "書生さんの指先をみつめています。",
-        "sentence_with_furigana": "書生さんの指先をみつめています。"
+        "sentence_with_furigana": "書生さんの指先をみつめています。",
+        "audio_begin": 298800,
+        "audio_end": 301060
     },
     {
         "id": "f000126",
         "sentence": "だんだん、",
-        "sentence_with_furigana": "だんだん、"
+        "sentence_with_furigana": "だんだん、",
+        "audio_begin": 303104,
+        "audio_end": 304280
     },
     {
         "id": "f000127",
         "sentence": "円は小さく近く、",
-        "sentence_with_furigana": "円は小さく近く、"
+        "sentence_with_furigana": "円は小さく近く、",
+        "audio_begin": 304280,
+        "audio_end": 306840
     },
     {
         "id": "f000128",
         "sentence": "そして早くまわって来ます。",
-        "sentence_with_furigana": "そして早くまわって来ます。"
+        "sentence_with_furigana": "そして早くまわって来ます。",
+        "audio_begin": 306840,
+        "audio_end": 309726
     },
     {
         "id": "f000129",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 309726,
+        "audio_end": 310560
     },
     {
         "id": "f000130",
         "sentence": "眼まいをしてしまいました。",
-        "sentence_with_furigana": "眼[め]まいをしてしまいました。"
+        "sentence_with_furigana": "眼[め]まいをしてしまいました。",
+        "audio_begin": 310560,
+        "audio_end": 313004
     },
     {
         "id": "f000131",
         "sentence": "つぎの瞬間、",
-        "sentence_with_furigana": "つぎの 瞬間[しゅんかん]、"
+        "sentence_with_furigana": "つぎの 瞬間[しゅんかん]、",
+        "audio_begin": 313004,
+        "audio_end": 314642
     },
     {
         "id": "f000132",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 314642,
+        "audio_end": 316049
     },
     {
         "id": "f000133",
         "sentence": "書生さんの大きな指にはさまれていました。",
-        "sentence_with_furigana": "書生[しょせい]さんの大きな指にはさまれていました。"
+        "sentence_with_furigana": "書生[しょせい]さんの大きな指にはさまれていました。",
+        "audio_begin": 316049,
+        "audio_end": 320760
     },
     {
         "id": "f000134",
         "sentence": "「おじょうさん、",
-        "sentence_with_furigana": "「おじょうさん、"
+        "sentence_with_furigana": "「おじょうさん、",
+        "audio_begin": 320760,
+        "audio_end": 322248
     },
     {
         "id": "f000135",
         "sentence": "赤とんぼをつかまえましたよ。",
-        "sentence_with_furigana": "赤とんぼをつかまえましたよ。"
+        "sentence_with_furigana": "赤とんぼをつかまえましたよ。",
+        "audio_begin": 322248,
+        "audio_end": 325160
     },
     {
         "id": "f000136",
         "sentence": "あげましょうか？」",
-        "sentence_with_furigana": "あげましょうか？」"
+        "sentence_with_furigana": "あげましょうか？」",
+        "audio_begin": 325160,
+        "audio_end": 327760
     },
     {
         "id": "f000137",
         "sentence": "「ばか！",
-        "sentence_with_furigana": "「ばか！"
+        "sentence_with_furigana": "「ばか！",
+        "audio_begin": 327760,
+        "audio_end": 329360
     },
     {
         "id": "f000138",
         "sentence": "あたしの赤とんぼをつかまえたりなんかして──",
-        "sentence_with_furigana": "あたしの赤とんぼをつかまえたりなんかして──"
+        "sentence_with_furigana": "あたしの赤とんぼをつかまえたりなんかして──",
+        "audio_begin": 329360,
+        "audio_end": 332872
     },
     {
         "id": "f000139",
         "sentence": "山田のばか！」",
-        "sentence_with_furigana": "山田のばか！」"
+        "sentence_with_furigana": "山田のばか！」",
+        "audio_begin": 332872,
+        "audio_end": 335917
     },
     {
         "id": "f000140",
         "sentence": "おじょうちゃんは、",
-        "sentence_with_furigana": "おじょうちゃんは、"
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "audio_begin": 335917,
+        "audio_end": 336668
     },
     {
         "id": "f000141",
         "sentence": "口をとがらして、",
-        "sentence_with_furigana": "口をとがらして、"
+        "sentence_with_furigana": "口をとがらして、",
+        "audio_begin": 336668,
+        "audio_end": 338334
     },
     {
         "id": "f000142",
         "sentence": "湯を書生さんにぶっかけました。",
-        "sentence_with_furigana": "湯[ゆ]を書生さんにぶっかけました。"
+        "sentence_with_furigana": "湯[ゆ]を書生さんにぶっかけました。",
+        "audio_begin": 338334,
+        "audio_end": 342546
     },
     {
         "id": "f000143",
         "sentence": "書生さんは、",
-        "sentence_with_furigana": "書生さんは、"
+        "sentence_with_furigana": "書生さんは、",
+        "audio_begin": 342546,
+        "audio_end": 343366
     },
     {
         "id": "f000144",
         "sentence": "赤とんぼをはなして逃げて行きました。",
-        "sentence_with_furigana": "赤とんぼをはなして 逃[に]げて行きました。"
+        "sentence_with_furigana": "赤とんぼをはなして 逃[に]げて行きました。",
+        "audio_begin": 343366,
+        "audio_end": 345900
     },
     {
         "id": "f000145",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 347981,
+        "audio_end": 349039
     },
     {
         "id": "f000146",
         "sentence": "ホッとして空へ飛び上がりました。",
-        "sentence_with_furigana": "ホッとして空へ飛び上がりました。"
+        "sentence_with_furigana": "ホッとして空へ飛び上がりました。",
+        "audio_begin": 349039,
+        "audio_end": 350849
     },
     {
         "id": "f000147",
         "sentence": "良いおじょうちゃんだな、",
-        "sentence_with_furigana": "良いおじょうちゃんだな、"
+        "sentence_with_furigana": "良いおじょうちゃんだな、",
+        "audio_begin": 352520,
+        "audio_end": 354454
     },
     {
         "id": "f000148",
         "sentence": "と思いながら──",
-        "sentence_with_furigana": "と思いながら──"
+        "sentence_with_furigana": "と思いながら──",
+        "audio_begin": 354454,
+        "audio_end": 356000
     },
     {
         "id": "f000149",
         "sentence": "空は真青に晴れています。",
-        "sentence_with_furigana": "空は 真青[まっさお]に晴れています。"
+        "sentence_with_furigana": "空は 真青[まっさお]に晴れています。",
+        "audio_begin": 359600,
+        "audio_end": 362230
     },
     {
         "id": "f000150",
         "sentence": "どこまでも澄んでいます。",
-        "sentence_with_furigana": "どこまでも 澄[す]んでいます。"
+        "sentence_with_furigana": "どこまでも 澄[す]んでいます。",
+        "audio_begin": 362230,
+        "audio_end": 364920
     },
     {
         "id": "f000151",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 364920,
+        "audio_end": 365600
     },
     {
         "id": "f000152",
         "sentence": "窓に羽を休めて、",
-        "sentence_with_furigana": "窓[まど]に 羽[はね]を休めて、"
+        "sentence_with_furigana": "窓[まど]に 羽[はね]を休めて、",
+        "audio_begin": 365600,
+        "audio_end": 367310
     },
     {
         "id": "f000153",
         "sentence": "書生さんのお話に耳をかたむけています、",
-        "sentence_with_furigana": "書生さんのお話に耳をかたむけています、"
+        "sentence_with_furigana": "書生さんのお話に耳をかたむけています、",
+        "audio_begin": 367310,
+        "audio_end": 370765
     },
     {
         "id": "f000154",
         "sentence": "かあいいおじょうちゃんと同じように。",
-        "sentence_with_furigana": "かあいいおじょうちゃんと同じように。"
+        "sentence_with_furigana": "かあいいおじょうちゃんと同じように。",
+        "audio_begin": 370765,
+        "audio_end": 373060
     },
     {
         "id": "f000155",
         "sentence": "「それからね、",
-        "sentence_with_furigana": "「それからね、"
+        "sentence_with_furigana": "「それからね、",
+        "audio_begin": 375114,
+        "audio_end": 376680
     },
     {
         "id": "f000156",
         "sentence": "そのとんぼは、",
-        "sentence_with_furigana": "そのとんぼは、"
+        "sentence_with_furigana": "そのとんぼは、",
+        "audio_begin": 376680,
+        "audio_end": 378043
     },
     {
         "id": "f000157",
         "sentence": "怒って大蜘蛛のやつにくいかかりました。",
-        "sentence_with_furigana": "怒[おこ]って大 蜘蛛[ぐも]のやつにくいかかりました。"
+        "sentence_with_furigana": "怒[おこ]って大 蜘蛛[ぐも]のやつにくいかかりました。",
+        "audio_begin": 378043,
+        "audio_end": 381826
     },
     {
         "id": "f000158",
         "sentence": "くいつかれた大蜘蛛は、",
-        "sentence_with_furigana": "くいつかれた大 蜘蛛[ぐも]は、"
+        "sentence_with_furigana": "くいつかれた大 蜘蛛[ぐも]は、",
+        "audio_begin": 381826,
+        "audio_end": 383640
     },
     {
         "id": "f000159",
         "sentence": "痛い！",
-        "sentence_with_furigana": "痛[いた]い！"
+        "sentence_with_furigana": "痛[いた]い！",
+        "audio_begin": 383640,
+        "audio_end": 384480
     },
     {
         "id": "f000160",
         "sentence": "痛い！",
-        "sentence_with_furigana": "痛[いた]い！"
+        "sentence_with_furigana": "痛[いた]い！",
+        "audio_begin": 384480,
+        "audio_end": 385529
     },
     {
         "id": "f000161",
         "sentence": "助けてくれってね、",
-        "sentence_with_furigana": "助けてくれってね、"
+        "sentence_with_furigana": "助けてくれってね、",
+        "audio_begin": 385529,
+        "audio_end": 387280
     },
     {
         "id": "f000162",
         "sentence": "大声にさけんだのですよ。",
-        "sentence_with_furigana": "大声にさけんだのですよ。"
+        "sentence_with_furigana": "大声にさけんだのですよ。",
+        "audio_begin": 387280,
+        "audio_end": 389950
     },
     {
         "id": "f000163",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 389950,
+        "audio_end": 390640
     },
     {
         "id": "f000164",
         "sentence": "出て来たわ、",
-        "sentence_with_furigana": "出て来たわ、"
+        "sentence_with_furigana": "出て来たわ、",
+        "audio_begin": 390640,
+        "audio_end": 391360
     },
     {
         "id": "f000165",
         "sentence": "出て来たわ、",
-        "sentence_with_furigana": "出て来たわ、"
+        "sentence_with_furigana": "出て来たわ、",
+        "audio_begin": 391360,
+        "audio_end": 392000
     },
     {
         "id": "f000166",
         "sentence": "小さな蜘蛛が、",
-        "sentence_with_furigana": "小さな 蜘蛛[くも]が、"
+        "sentence_with_furigana": "小さな 蜘蛛[くも]が、",
+        "audio_begin": 392000,
+        "audio_end": 393160
     },
     {
         "id": "f000167",
         "sentence": "雲のように出て来ました。",
-        "sentence_with_furigana": "雲のように出て来ました。"
+        "sentence_with_furigana": "雲のように出て来ました。",
+        "audio_begin": 393160,
+        "audio_end": 394614
     },
     {
         "id": "f000168",
         "sentence": "けれども、",
-        "sentence_with_furigana": "けれども、"
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 396075,
+        "audio_end": 396640
     },
     {
         "id": "f000169",
         "sentence": "とんぼは、",
-        "sentence_with_furigana": "とんぼは、"
+        "sentence_with_furigana": "とんぼは、",
+        "audio_begin": 396640,
+        "audio_end": 397320
     },
     {
         "id": "f000170",
         "sentence": "もともと強いんですから、",
-        "sentence_with_furigana": "もともと強いんですから、"
+        "sentence_with_furigana": "もともと強いんですから、",
+        "audio_begin": 397320,
+        "audio_end": 399086
     },
     {
         "id": "f000171",
         "sentence": "片端から蜘蛛にくいついて、",
-        "sentence_with_furigana": "片端[かたはし]から 蜘蛛[くも]にくいついて、"
+        "sentence_with_furigana": "片端[かたはし]から 蜘蛛[くも]にくいついて、",
+        "audio_begin": 399086,
+        "audio_end": 401578
     },
     {
         "id": "f000172",
         "sentence": "とうとう一匹残らず殺してしまいました。",
-        "sentence_with_furigana": "とうとう一 匹[ぴき] 残[のこ]らず 殺[ころ]してしまいました。"
+        "sentence_with_furigana": "とうとう一 匹[ぴき] 残[のこ]らず 殺[ころ]してしまいました。",
+        "audio_begin": 401578,
+        "audio_end": 405906
     },
     {
         "id": "f000173",
         "sentence": "ホッとしてそのとんぼが、",
-        "sentence_with_furigana": "ホッとしてそのとんぼが、"
+        "sentence_with_furigana": "ホッとしてそのとんぼが、",
+        "audio_begin": 405906,
+        "audio_end": 407640
     },
     {
         "id": "f000174",
         "sentence": "自分の姿を見ると、",
-        "sentence_with_furigana": "自分の 姿[すがた]を見ると、"
+        "sentence_with_furigana": "自分の 姿[すがた]を見ると、",
+        "audio_begin": 407640,
+        "audio_end": 409648
     },
     {
         "id": "f000175",
         "sentence": "これはまあどうでしょう、",
-        "sentence_with_furigana": "これはまあどうでしょう、"
+        "sentence_with_furigana": "これはまあどうでしょう、",
+        "audio_begin": 409648,
+        "audio_end": 412085
     },
     {
         "id": "f000176",
         "sentence": "蜘蛛の血が、",
-        "sentence_with_furigana": "蜘蛛[くも]の血が、"
+        "sentence_with_furigana": "蜘蛛[くも]の血が、",
+        "audio_begin": 412085,
+        "audio_end": 413520
     },
     {
         "id": "f000177",
         "sentence": "まっかについてるじゃありませんか。",
-        "sentence_with_furigana": "まっかについてるじゃありませんか。"
+        "sentence_with_furigana": "まっかについてるじゃありませんか。",
+        "audio_begin": 413520,
+        "audio_end": 416714
     },
     {
         "id": "f000178",
         "sentence": "さあ大変だって、",
-        "sentence_with_furigana": "さあ大変だって、"
+        "sentence_with_furigana": "さあ大変だって、",
+        "audio_begin": 416714,
+        "audio_end": 418428
     },
     {
         "id": "f000179",
         "sentence": "とんぼは、",
-        "sentence_with_furigana": "とんぼは、"
+        "sentence_with_furigana": "とんぼは、",
+        "audio_begin": 418428,
+        "audio_end": 418940
     },
     {
         "id": "f000180",
         "sentence": "泉へ飛んで行って、",
-        "sentence_with_furigana": "泉へ飛んで行って、"
+        "sentence_with_furigana": "泉へ飛んで行って、",
+        "audio_begin": 418940,
+        "audio_end": 420120
     },
     {
         "id": "f000181",
         "sentence": "からだを洗いました。",
-        "sentence_with_furigana": "からだを 洗[あら]いました。"
+        "sentence_with_furigana": "からだを 洗[あら]いました。",
+        "audio_begin": 420120,
+        "audio_end": 422054
     },
     {
         "id": "f000182",
         "sentence": "が、",
-        "sentence_with_furigana": "が、"
+        "sentence_with_furigana": "が、",
+        "audio_begin": 422054,
+        "audio_end": 422798
     },
     {
         "id": "f000183",
         "sentence": "赤い血はちっともとれません。",
-        "sentence_with_furigana": "赤い血はちっともとれません。"
+        "sentence_with_furigana": "赤い血はちっともとれません。",
+        "audio_begin": 422798,
+        "audio_end": 426760
     },
     {
         "id": "f000184",
         "sentence": "で、",
-        "sentence_with_furigana": "で、"
+        "sentence_with_furigana": "で、",
+        "audio_begin": 426760,
+        "audio_end": 426920
     },
     {
         "id": "f000185",
         "sentence": "神様にお願いしてみると、",
-        "sentence_with_furigana": "神様にお 願[ねが]いしてみると、"
+        "sentence_with_furigana": "神様にお 願[ねが]いしてみると、",
+        "audio_begin": 426920,
+        "audio_end": 429277
     },
     {
         "id": "f000186",
         "sentence": "お前は、",
-        "sentence_with_furigana": "お前は、"
+        "sentence_with_furigana": "お前は、",
+        "audio_begin": 429277,
+        "audio_end": 429960
     },
     {
         "id": "f000187",
         "sentence": "罪の無い蜘蛛をたくさん殺したから、",
-        "sentence_with_furigana": "罪[つみ]の無い 蜘蛛[くも]をたくさん 殺[ころ]したから、"
+        "sentence_with_furigana": "罪[つみ]の無い 蜘蛛[くも]をたくさん 殺[ころ]したから、",
+        "audio_begin": 429960,
+        "audio_end": 432691
     },
     {
         "id": "f000188",
         "sentence": "そのたたりでそんなになったんだと、",
-        "sentence_with_furigana": "そのたたりでそんなになったんだと、"
+        "sentence_with_furigana": "そのたたりでそんなになったんだと、",
+        "audio_begin": 432691,
+        "audio_end": 435470
     },
     {
         "id": "f000189",
         "sentence": "叱られてしまいました。",
-        "sentence_with_furigana": "叱[しか]られてしまいました。"
+        "sentence_with_furigana": "叱[しか]られてしまいました。",
+        "audio_begin": 435470,
+        "audio_end": 438515
     },
     {
         "id": "f000190",
         "sentence": "そのとんぼが今の赤とんぼなんですよ。",
-        "sentence_with_furigana": "そのとんぼが今の赤とんぼなんですよ。"
+        "sentence_with_furigana": "そのとんぼが今の赤とんぼなんですよ。",
+        "audio_begin": 438515,
+        "audio_end": 442557
     },
     {
         "id": "f000191",
         "sentence": "だから、",
-        "sentence_with_furigana": "だから、"
+        "sentence_with_furigana": "だから、",
+        "audio_begin": 442557,
+        "audio_end": 443600
     },
     {
         "id": "f000192",
         "sentence": "赤とんぼは良くないとんぼです。」",
-        "sentence_with_furigana": "赤とんぼは良くないとんぼです。」"
+        "sentence_with_furigana": "赤とんぼは良くないとんぼです。」",
+        "audio_begin": 443600,
+        "audio_end": 448128
     },
     {
         "id": "f000193",
         "sentence": "書生さんのお話は終わりました。",
-        "sentence_with_furigana": "書生[しょせい]さんのお話は終わりました。"
+        "sentence_with_furigana": "書生[しょせい]さんのお話は終わりました。",
+        "audio_begin": 448128,
+        "audio_end": 451720
     },
     {
         "id": "f000194",
         "sentence": "私は、",
-        "sentence_with_furigana": "私[わたし]は、"
+        "sentence_with_furigana": "私[わたし]は、",
+        "audio_begin": 451720,
+        "audio_end": 452744
     },
     {
         "id": "f000195",
         "sentence": "そんな酷い事をしたおぼえはないがと、",
-        "sentence_with_furigana": "そんな 酷[むご]い事をしたおぼえはないがと、"
+        "sentence_with_furigana": "そんな 酷[むご]い事をしたおぼえはないがと、",
+        "audio_begin": 452744,
+        "audio_end": 456440
     },
     {
         "id": "f000196",
         "sentence": "赤とんぼが、",
-        "sentence_with_furigana": "赤とんぼが、"
+        "sentence_with_furigana": "赤とんぼが、",
+        "audio_begin": 456440,
+        "audio_end": 457160
     },
     {
         "id": "f000197",
         "sentence": "首をひねって考えましたとき、",
-        "sentence_with_furigana": "首をひねって考えましたとき、"
+        "sentence_with_furigana": "首をひねって考えましたとき、",
+        "audio_begin": 457160,
+        "audio_end": 460022
     },
     {
         "id": "f000198",
         "sentence": "おじょうちゃんが大声でさけびました。",
-        "sentence_with_furigana": "おじょうちゃんが大声でさけびました。"
+        "sentence_with_furigana": "おじょうちゃんが大声でさけびました。",
+        "audio_begin": 460022,
+        "audio_end": 463313
     },
     {
         "id": "f000199",
         "sentence": "「嘘だ嘘だ！",
-        "sentence_with_furigana": "「 嘘[うそ]だ 嘘[うそ]だ！"
+        "sentence_with_furigana": "「 嘘[うそ]だ 嘘[うそ]だ！",
+        "audio_begin": 463313,
+        "audio_end": 466132
     },
     {
         "id": "f000200",
         "sentence": "山田のお話は、",
-        "sentence_with_furigana": "山田のお話は、"
+        "sentence_with_furigana": "山田のお話は、",
+        "audio_begin": 466132,
+        "audio_end": 467240
     },
     {
         "id": "f000201",
         "sentence": "みんな嘘だよ。",
-        "sentence_with_furigana": "みんな 嘘[うそ]だよ。"
+        "sentence_with_furigana": "みんな 嘘[うそ]だよ。",
+        "audio_begin": 467240,
+        "audio_end": 469417
     },
     {
         "id": "f000202",
         "sentence": "あんなかあいらしい赤とんぼが、",
-        "sentence_with_furigana": "あんなかあいらしい赤とんぼが、"
+        "sentence_with_furigana": "あんなかあいらしい赤とんぼが、",
+        "audio_begin": 469417,
+        "audio_end": 471588
     },
     {
         "id": "f000203",
         "sentence": "そんな酷い事をするなんて、",
-        "sentence_with_furigana": "そんな 酷[むご]い事をするなんて、"
+        "sentence_with_furigana": "そんな 酷[むご]い事をするなんて、",
+        "audio_begin": 471588,
+        "audio_end": 474223
     },
     {
         "id": "f000204",
         "sentence": "蜘蛛の赤血だなんて──",
-        "sentence_with_furigana": "蜘蛛[くも]の赤血だなんて──"
+        "sentence_with_furigana": "蜘蛛[くも]の赤血だなんて──",
+        "audio_begin": 474223,
+        "audio_end": 476480
     },
     {
         "id": "f000205",
         "sentence": "みんな嘘だよ。」",
-        "sentence_with_furigana": "みんな 嘘[うそ]だよ。」"
+        "sentence_with_furigana": "みんな 嘘[うそ]だよ。」",
+        "audio_begin": 476480,
+        "audio_end": 479808
     },
     {
         "id": "f000206",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 479808,
+        "audio_end": 480696
     },
     {
         "id": "f000207",
         "sentence": "真実にうれしく思いました。",
-        "sentence_with_furigana": "真実[ほんとう]にうれしく思いました。"
+        "sentence_with_furigana": "真実[ほんとう]にうれしく思いました。",
+        "audio_begin": 480696,
+        "audio_end": 483840
     },
     {
         "id": "f000208",
         "sentence": "例の書生さんは、",
-        "sentence_with_furigana": "例の書生さんは、"
+        "sentence_with_furigana": "例の書生さんは、",
+        "audio_begin": 483840,
+        "audio_end": 485359
     },
     {
         "id": "f000209",
         "sentence": "顔をあかくして行ってしまいました。",
-        "sentence_with_furigana": "顔をあかくして行ってしまいました。"
+        "sentence_with_furigana": "顔をあかくして行ってしまいました。",
+        "audio_begin": 485359,
+        "audio_end": 487673
     },
     {
         "id": "f000210",
         "sentence": "窓から離れて、",
-        "sentence_with_furigana": "窓[まど]から 離[はな]れて、"
+        "sentence_with_furigana": "窓[まど]から 離[はな]れて、",
+        "audio_begin": 490400,
+        "audio_end": 491831
     },
     {
         "id": "f000211",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 491831,
+        "audio_end": 492487
     },
     {
         "id": "f000212",
         "sentence": "おじょうちゃんの肩につかまりました。",
-        "sentence_with_furigana": "おじょうちゃんの 肩[かた]につかまりました。"
+        "sentence_with_furigana": "おじょうちゃんの 肩[かた]につかまりました。",
+        "audio_begin": 492487,
+        "audio_end": 496280
     },
     {
         "id": "f000213",
         "sentence": "「まア！",
-        "sentence_with_furigana": "「まア！"
+        "sentence_with_furigana": "「まア！",
+        "audio_begin": 496280,
+        "audio_end": 497546
     },
     {
         "id": "f000214",
         "sentence": "あたしの赤とんぼ！",
-        "sentence_with_furigana": "あたしの赤とんぼ！"
+        "sentence_with_furigana": "あたしの赤とんぼ！",
+        "audio_begin": 497546,
+        "audio_end": 499704
     },
     {
         "id": "f000215",
         "sentence": "かあいい赤とんぼ！」",
-        "sentence_with_furigana": "かあいい赤とんぼ！」"
+        "sentence_with_furigana": "かあいい赤とんぼ！」",
+        "audio_begin": 499704,
+        "audio_end": 503760
     },
     {
         "id": "f000216",
         "sentence": "おじょうちゃんの瞳は、",
-        "sentence_with_furigana": "おじょうちゃんの 瞳[ひとみ]は、"
+        "sentence_with_furigana": "おじょうちゃんの 瞳[ひとみ]は、",
+        "audio_begin": 503760,
+        "audio_end": 505323
     },
     {
         "id": "f000217",
         "sentence": "黒く澄んでいました。",
-        "sentence_with_furigana": "黒く 澄[す]んでいました。"
+        "sentence_with_furigana": "黒く 澄[す]んでいました。",
+        "audio_begin": 505323,
+        "audio_end": 506800
     },
     {
         "id": "f000218",
         "sentence": "暑かった夏は、",
-        "sentence_with_furigana": "暑[あつ]かった夏は、"
+        "sentence_with_furigana": "暑[あつ]かった夏は、",
+        "audio_begin": 509570,
+        "audio_end": 511311
     },
     {
         "id": "f000219",
         "sentence": "いつの間にかすぎさってしまいました。",
-        "sentence_with_furigana": "いつの間にかすぎさってしまいました。"
+        "sentence_with_furigana": "いつの間にかすぎさってしまいました。",
+        "audio_begin": 511311,
+        "audio_end": 515256
     },
     {
         "id": "f000220",
         "sentence": "朝顔は、",
-        "sentence_with_furigana": "朝顔[あさがお]は、"
+        "sentence_with_furigana": "朝顔[あさがお]は、",
+        "audio_begin": 515256,
+        "audio_end": 516288
     },
     {
         "id": "f000221",
         "sentence": "垣根にまきついたまま、",
-        "sentence_with_furigana": "垣根[かきね]にまきついたまま、"
+        "sentence_with_furigana": "垣根[かきね]にまきついたまま、",
+        "audio_begin": 516288,
+        "audio_end": 518022
     },
     {
         "id": "f000222",
         "sentence": "しおれました。",
-        "sentence_with_furigana": "しおれました。"
+        "sentence_with_furigana": "しおれました。",
+        "audio_begin": 518022,
+        "audio_end": 518960
     },
     {
         "id": "f000223",
         "sentence": "鈴虫が、",
-        "sentence_with_furigana": "鈴虫[すずむし]が、"
+        "sentence_with_furigana": "鈴虫[すずむし]が、",
+        "audio_begin": 521159,
+        "audio_end": 522344
     },
     {
         "id": "f000224",
         "sentence": "涼しい声でなくようになりました。",
-        "sentence_with_furigana": "涼[すず]しい声でなくようになりました。"
+        "sentence_with_furigana": "涼[すず]しい声でなくようになりました。",
+        "audio_begin": 522344,
+        "audio_end": 524802
     },
     {
         "id": "f000225",
         "sentence": "今日も、",
-        "sentence_with_furigana": "今日も、"
+        "sentence_with_furigana": "今日も、",
+        "audio_begin": 528000,
+        "audio_end": 528482
     },
     {
         "id": "f000226",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 528482,
+        "audio_end": 529480
     },
     {
         "id": "f000227",
         "sentence": "おじょうちゃんに会いにやって来ました。",
-        "sentence_with_furigana": "おじょうちゃんに会いにやって来ました。"
+        "sentence_with_furigana": "おじょうちゃんに会いにやって来ました。",
+        "audio_begin": 529480,
+        "audio_end": 533364
     },
     {
         "id": "f000228",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 533364,
+        "audio_end": 534040
     },
     {
         "id": "f000229",
         "sentence": "ちょっとびっくりしました。",
-        "sentence_with_furigana": "ちょっとびっくりしました。"
+        "sentence_with_furigana": "ちょっとびっくりしました。",
+        "audio_begin": 534040,
+        "audio_end": 536520
     },
     {
         "id": "f000230",
         "sentence": "それは、",
-        "sentence_with_furigana": "それは、"
+        "sentence_with_furigana": "それは、",
+        "audio_begin": 536520,
+        "audio_end": 537406
     },
     {
         "id": "f000231",
         "sentence": "いつも開いている窓が、",
-        "sentence_with_furigana": "いつも開いている 窓[まど]が、"
+        "sentence_with_furigana": "いつも開いている 窓[まど]が、",
+        "audio_begin": 537406,
+        "audio_end": 539320
     },
     {
         "id": "f000232",
         "sentence": "皆しまっているからです。",
-        "sentence_with_furigana": "皆[みな]しまっているからです。"
+        "sentence_with_furigana": "皆[みな]しまっているからです。",
+        "audio_begin": 539320,
+        "audio_end": 542601
     },
     {
         "id": "f000233",
         "sentence": "どうしたのかしら？",
-        "sentence_with_furigana": "どうしたのかしら？"
+        "sentence_with_furigana": "どうしたのかしら？",
+        "audio_begin": 542601,
+        "audio_end": 544363
     },
     {
         "id": "f000234",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 544363,
+        "audio_end": 544549
     },
     {
         "id": "f000235",
         "sentence": "赤とんぼが考えたとき、",
-        "sentence_with_furigana": "赤とんぼが考えたとき、"
+        "sentence_with_furigana": "赤とんぼが考えたとき、",
+        "audio_begin": 544549,
+        "audio_end": 546760
     },
     {
         "id": "f000236",
         "sentence": "玄関から誰か跳び出して来ました。",
-        "sentence_with_furigana": "玄関[げんかん]から 誰[だれ]か 跳[と]び出して来ました。"
+        "sentence_with_furigana": "玄関[げんかん]から 誰[だれ]か 跳[と]び出して来ました。",
+        "audio_begin": 546760,
+        "audio_end": 550132
     },
     {
         "id": "f000237",
         "sentence": "おじょうちゃんです。",
-        "sentence_with_furigana": "おじょうちゃんです。"
+        "sentence_with_furigana": "おじょうちゃんです。",
+        "audio_begin": 550132,
+        "audio_end": 551511
     },
     {
         "id": "f000238",
         "sentence": "あのかあいいおじょうちゃんです。",
-        "sentence_with_furigana": "あのかあいいおじょうちゃんです。"
+        "sentence_with_furigana": "あのかあいいおじょうちゃんです。",
+        "audio_begin": 551511,
+        "audio_end": 554536
     },
     {
         "id": "f000239",
         "sentence": "けれども、",
-        "sentence_with_furigana": "けれども、"
+        "sentence_with_furigana": "けれども、",
+        "audio_begin": 554536,
+        "audio_end": 555519
     },
     {
         "id": "f000240",
         "sentence": "今日のおじょうちゃんは、",
-        "sentence_with_furigana": "今日のおじょうちゃんは、"
+        "sentence_with_furigana": "今日のおじょうちゃんは、",
+        "audio_begin": 555519,
+        "audio_end": 557120
     },
     {
         "id": "f000241",
         "sentence": "悲しい顔つきでした。",
-        "sentence_with_furigana": "悲しい顔つきでした。"
+        "sentence_with_furigana": "悲しい顔つきでした。",
+        "audio_begin": 557120,
+        "audio_end": 560160
     },
     {
         "id": "f000242",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 560160,
+        "audio_end": 561090
     },
     {
         "id": "f000243",
         "sentence": "この別荘へはじめて来たときかぶってた、",
-        "sentence_with_furigana": "この 別荘[べっそう]へはじめて来たときかぶってた、"
+        "sentence_with_furigana": "この 別荘[べっそう]へはじめて来たときかぶってた、",
+        "audio_begin": 561090,
+        "audio_end": 563951
     },
     {
         "id": "f000244",
         "sentence": "赤いリボンの帽子を着け、",
-        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]を着け、"
+        "sentence_with_furigana": "赤いリボンの 帽子[ぼうし]を着け、",
+        "audio_begin": 563951,
+        "audio_end": 566395
     },
     {
         "id": "f000245",
         "sentence": "きれいな服を着ていました。",
-        "sentence_with_furigana": "きれいな 服[ふく]を着ていました。"
+        "sentence_with_furigana": "きれいな 服[ふく]を着ていました。",
+        "audio_begin": 566395,
+        "audio_end": 570560
     },
     {
         "id": "f000246",
         "sentence": "赤とんぼはいつものように飛んで行って、",
-        "sentence_with_furigana": "赤とんぼはいつものように飛んで行って、"
+        "sentence_with_furigana": "赤とんぼはいつものように飛んで行って、",
+        "audio_begin": 570560,
+        "audio_end": 572964
     },
     {
         "id": "f000247",
         "sentence": "おじょうちゃんの肩にとまりました。",
-        "sentence_with_furigana": "おじょうちゃんの 肩[かた]にとまりました。"
+        "sentence_with_furigana": "おじょうちゃんの 肩[かた]にとまりました。",
+        "audio_begin": 572964,
+        "audio_end": 577204
     },
     {
         "id": "f000248",
         "sentence": "「あたしの赤とんぼ……かあいい赤とんぼ……あたし、",
-        "sentence_with_furigana": "「あたしの赤とんぼ……かあいい赤とんぼ……あたし、"
+        "sentence_with_furigana": "「あたしの赤とんぼ……かあいい赤とんぼ……あたし、",
+        "audio_begin": 577204,
+        "audio_end": 584263
     },
     {
         "id": "f000249",
         "sentence": "東京へ帰るのよ、",
-        "sentence_with_furigana": "東京へ帰るのよ、"
+        "sentence_with_furigana": "東京へ帰るのよ、",
+        "audio_begin": 584263,
+        "audio_end": 586796
     },
     {
         "id": "f000250",
         "sentence": "もうお別れよ。」",
-        "sentence_with_furigana": "もうお別れよ。」"
+        "sentence_with_furigana": "もうお別れよ。」",
+        "audio_begin": 586796,
+        "audio_end": 590360
     },
     {
         "id": "f000251",
         "sentence": "おじょうちゃんは、",
-        "sentence_with_furigana": "おじょうちゃんは、"
+        "sentence_with_furigana": "おじょうちゃんは、",
+        "audio_begin": 590360,
+        "audio_end": 591320
     },
     {
         "id": "f000252",
         "sentence": "小さい細い声で泣くように言いました。",
-        "sentence_with_furigana": "小さい細い声で 泣[な]くように言いました。"
+        "sentence_with_furigana": "小さい細い声で 泣[な]くように言いました。",
+        "audio_begin": 591320,
+        "audio_end": 596034
     },
     {
         "id": "f000253",
         "sentence": "赤とんぼは悲しくなりました。",
-        "sentence_with_furigana": "赤とんぼは悲しくなりました。"
+        "sentence_with_furigana": "赤とんぼは悲しくなりました。",
+        "audio_begin": 596034,
+        "audio_end": 599400
     },
     {
         "id": "f000254",
         "sentence": "自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。",
-        "sentence_with_furigana": "自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。"
+        "sentence_with_furigana": "自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。",
+        "audio_begin": 599400,
+        "audio_end": 606562
     },
     {
         "id": "f000255",
         "sentence": "そのとき、",
-        "sentence_with_furigana": "そのとき、"
+        "sentence_with_furigana": "そのとき、",
+        "audio_begin": 606562,
+        "audio_end": 607720
     },
     {
         "id": "f000256",
         "sentence": "おじょうちゃんのお母さんと、",
-        "sentence_with_furigana": "おじょうちゃんのお母さんと、"
+        "sentence_with_furigana": "おじょうちゃんのお母さんと、",
+        "audio_begin": 607720,
+        "audio_end": 609920
     },
     {
         "id": "f000257",
         "sentence": "赤とんぼにいたずらをした書生さんが、",
-        "sentence_with_furigana": "赤とんぼにいたずらをした 書生[しょせい]さんが、"
+        "sentence_with_furigana": "赤とんぼにいたずらをした 書生[しょせい]さんが、",
+        "audio_begin": 609920,
+        "audio_end": 611929
     },
     {
         "id": "f000258",
         "sentence": "出てまいりました。",
-        "sentence_with_furigana": "出てまいりました。"
+        "sentence_with_furigana": "出てまいりました。",
+        "audio_begin": 611929,
+        "audio_end": 615179
     },
     {
         "id": "f000259",
         "sentence": "「ではまいりましょう。」",
-        "sentence_with_furigana": "「ではまいりましょう。」"
+        "sentence_with_furigana": "「ではまいりましょう。」",
+        "audio_begin": 615179,
+        "audio_end": 618517
     },
     {
         "id": "f000260",
         "sentence": "皆、",
-        "sentence_with_furigana": "皆[みな]、"
+        "sentence_with_furigana": "皆[みな]、",
+        "audio_begin": 618517,
+        "audio_end": 619160
     },
     {
         "id": "f000261",
         "sentence": "歩き出しました。",
-        "sentence_with_furigana": "歩き出しました。"
+        "sentence_with_furigana": "歩き出しました。",
+        "audio_begin": 619160,
+        "audio_end": 622511
     },
     {
         "id": "f000262",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 622511,
+        "audio_end": 623570
     },
     {
         "id": "f000263",
         "sentence": "やがておじょうちゃんの肩を離れて、",
-        "sentence_with_furigana": "やがておじょうちゃんの 肩[かた]を 離[はな]れて、"
+        "sentence_with_furigana": "やがておじょうちゃんの 肩[かた]を 離[はな]れて、",
+        "audio_begin": 623570,
+        "audio_end": 626191
     },
     {
         "id": "f000264",
         "sentence": "垣根の竹の先にうつりました。",
-        "sentence_with_furigana": "垣根[かきね]の竹の先にうつりました。"
+        "sentence_with_furigana": "垣根[かきね]の竹の先にうつりました。",
+        "audio_begin": 626191,
+        "audio_end": 628940
     },
     {
         "id": "f000265",
         "sentence": "「あたしの赤とんぼよ、",
-        "sentence_with_furigana": "「あたしの赤とんぼよ、"
+        "sentence_with_furigana": "「あたしの赤とんぼよ、",
+        "audio_begin": 630882,
+        "audio_end": 633156
     },
     {
         "id": "f000266",
         "sentence": "さようなら──」",
-        "sentence_with_furigana": "さようなら──」"
+        "sentence_with_furigana": "さようなら──」",
+        "audio_begin": 633156,
+        "audio_end": 634309
     },
     {
         "id": "f000267",
         "sentence": "かあいいおじょうちゃんは、",
-        "sentence_with_furigana": "かあいいおじょうちゃんは、"
+        "sentence_with_furigana": "かあいいおじょうちゃんは、",
+        "audio_begin": 636520,
+        "audio_end": 638120
     },
     {
         "id": "f000268",
         "sentence": "なんべんもふりかえっていいました。",
-        "sentence_with_furigana": "なんべんもふりかえっていいました。"
+        "sentence_with_furigana": "なんべんもふりかえっていいました。",
+        "audio_begin": 638120,
+        "audio_end": 641028
     },
     {
         "id": "f000269",
         "sentence": "けど、",
-        "sentence_with_furigana": "けど、"
+        "sentence_with_furigana": "けど、",
+        "audio_begin": 641028,
+        "audio_end": 641758
     },
     {
         "id": "f000270",
         "sentence": "とうとう、",
-        "sentence_with_furigana": "とうとう、"
+        "sentence_with_furigana": "とうとう、",
+        "audio_begin": 641758,
+        "audio_end": 642920
     },
     {
         "id": "f000271",
         "sentence": "皆の姿は見えなくなってしまったのです。",
-        "sentence_with_furigana": "皆[みな]の 姿[すがた]は見えなくなってしまったのです。"
+        "sentence_with_furigana": "皆[みな]の 姿[すがた]は見えなくなってしまったのです。",
+        "audio_begin": 642920,
+        "audio_end": 647280
     },
     {
         "id": "f000272",
         "sentence": "もう、",
-        "sentence_with_furigana": "もう、"
+        "sentence_with_furigana": "もう、",
+        "audio_begin": 647280,
+        "audio_end": 647531
     },
     {
         "id": "f000273",
         "sentence": "これからは、",
-        "sentence_with_furigana": "これからは、"
+        "sentence_with_furigana": "これからは、",
+        "audio_begin": 647531,
+        "audio_end": 648623
     },
     {
         "id": "f000274",
         "sentence": "この家は空家になるのかな──",
-        "sentence_with_furigana": "この家は 空家[あきや]になるのかな──"
+        "sentence_with_furigana": "この家は 空家[あきや]になるのかな──",
+        "audio_begin": 648623,
+        "audio_end": 651706
     },
     {
         "id": "f000275",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 651706,
+        "audio_end": 653120
     },
     {
         "id": "f000276",
         "sentence": "しずかに首をかたむけました。",
-        "sentence_with_furigana": "しずかに首をかたむけました。"
+        "sentence_with_furigana": "しずかに首をかたむけました。",
+        "audio_begin": 653120,
+        "audio_end": 658840
     },
     {
         "id": "f000277",
         "sentence": "淋しい秋の夕方など、",
-        "sentence_with_furigana": "淋[さび]しい秋の夕方など、"
+        "sentence_with_furigana": "淋[さび]しい秋の夕方など、",
+        "audio_begin": 658840,
+        "audio_end": 661440
     },
     {
         "id": "f000278",
         "sentence": "赤とんぼは、",
-        "sentence_with_furigana": "赤とんぼは、"
+        "sentence_with_furigana": "赤とんぼは、",
+        "audio_begin": 661440,
+        "audio_end": 662720
     },
     {
         "id": "f000279",
         "sentence": "尾花の穂先にとまって、",
-        "sentence_with_furigana": "尾花[おばな]の 穂先[ほさき]にとまって、"
+        "sentence_with_furigana": "尾花[おばな]の 穂先[ほさき]にとまって、",
+        "audio_begin": 662720,
+        "audio_end": 665400
     },
     {
         "id": "f000280",
         "sentence": "あのかあいいおじょうちゃんを思い出しています。",
-        "sentence_with_furigana": "あのかあいいおじょうちゃんを思い出しています。"
+        "sentence_with_furigana": "あのかあいいおじょうちゃんを思い出しています。",
+        "audio_begin": 665400,
+        "audio_end": 669940
     }
 ]

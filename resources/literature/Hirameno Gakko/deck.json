@@ -2,961 +2,1345 @@
     {
         "id": "f000001",
         "sentence": "林芙美子　作",
-        "sentence_with_furigana": "林芙美子　作"
+        "sentence_with_furigana": "林芙美子　作",
+        "audio_begin": 3128,
+        "audio_end": 6200
     },
     {
         "id": "f000002",
         "sentence": "ひらめの学校",
-        "sentence_with_furigana": "ひらめの学校"
+        "sentence_with_furigana": "ひらめの学校",
+        "audio_begin": 6200,
+        "audio_end": 8160
     },
     {
         "id": "f000003",
         "sentence": "ひらめの学校の女の校長先生は、",
-        "sentence_with_furigana": "ひらめの学校の女の校長先生は、"
+        "sentence_with_furigana": "ひらめの学校の女の校長先生は、",
+        "audio_begin": 10960,
+        "audio_end": 13640
     },
     {
         "id": "f000004",
         "sentence": "このごろお年をとって眼鏡をかけました。",
-        "sentence_with_furigana": "このごろお年をとって眼鏡をかけました。"
+        "sentence_with_furigana": "このごろお年をとって眼鏡をかけました。",
+        "audio_begin": 13640,
+        "audio_end": 17320
     },
     {
         "id": "f000005",
         "sentence": "とても大きい眼鏡なので、",
-        "sentence_with_furigana": "とても大きい眼鏡なので、"
+        "sentence_with_furigana": "とても大きい眼鏡なので、",
+        "audio_begin": 19320,
+        "audio_end": 21560
     },
     {
         "id": "f000006",
         "sentence": "生徒はびっくりしていました。",
-        "sentence_with_furigana": "生徒はびっくりしていました。"
+        "sentence_with_furigana": "生徒はびっくりしていました。",
+        "audio_begin": 21560,
+        "audio_end": 25240
     },
     {
         "id": "f000007",
         "sentence": "「まア、",
-        "sentence_with_furigana": "「まア、"
+        "sentence_with_furigana": "「まア、",
+        "audio_begin": 25240,
+        "audio_end": 26400
     },
     {
         "id": "f000008",
         "sentence": "何て大きい眼鏡でしょうねえ。",
-        "sentence_with_furigana": "何て大きい眼鏡でしょうねえ。"
+        "sentence_with_furigana": "何て大きい眼鏡でしょうねえ。",
+        "audio_begin": 26400,
+        "audio_end": 29360
     },
     {
         "id": "f000009",
         "sentence": "あれでは陸の上まで見えるでしょうよ。",
-        "sentence_with_furigana": "あれでは陸の上まで見えるでしょうよ。"
+        "sentence_with_furigana": "あれでは陸の上まで見えるでしょうよ。",
+        "audio_begin": 29360,
+        "audio_end": 32080
     },
     {
         "id": "f000010",
         "sentence": "此の間、",
-        "sentence_with_furigana": "此の間、"
+        "sentence_with_furigana": "此の間、",
+        "audio_begin": 33680,
+        "audio_end": 34240
     },
     {
         "id": "f000011",
         "sentence": "校長会議で竜宮へいらっした時、",
-        "sentence_with_furigana": "校長会議で竜宮へいらっした時、"
+        "sentence_with_furigana": "校長会議で竜宮へいらっした時、",
+        "audio_begin": 34240,
+        "audio_end": 37440
     },
     {
         "id": "f000012",
         "sentence": "竜宮の街で、",
-        "sentence_with_furigana": "竜宮の街で、"
+        "sentence_with_furigana": "竜宮の街で、",
+        "audio_begin": 37440,
+        "audio_end": 38440
     },
     {
         "id": "f000013",
         "sentence": "あの眼鏡を貰っていらっしゃったンですって。」",
-        "sentence_with_furigana": "あの眼鏡を貰っていらっしゃったンですって。」"
+        "sentence_with_furigana": "あの眼鏡を貰っていらっしゃったンですって。」",
+        "audio_begin": 38440,
+        "audio_end": 41380
     },
     {
         "id": "f000014",
         "sentence": "生徒たちは、",
-        "sentence_with_furigana": "生徒たちは、"
+        "sentence_with_furigana": "生徒たちは、",
+        "audio_begin": 43480,
+        "audio_end": 44800
     },
     {
         "id": "f000015",
         "sentence": "海の底の砂地に腹這ってそんな話をしていました。",
-        "sentence_with_furigana": "海の底の砂地に腹這ってそんな話をしていました。"
+        "sentence_with_furigana": "海の底の砂地に腹這ってそんな話をしていました。",
+        "audio_begin": 44800,
+        "audio_end": 49120
     },
     {
         "id": "f000016",
         "sentence": "とてもいいお天気で、",
-        "sentence_with_furigana": "とてもいいお天気で、"
+        "sentence_with_furigana": "とてもいいお天気で、",
+        "audio_begin": 51620,
+        "audio_end": 53960
     },
     {
         "id": "f000017",
         "sentence": "海の底にもガラスのようなまっさおい光りが透けて、",
-        "sentence_with_furigana": "海の底にもガラスのようなまっさおい光りが透けて、"
+        "sentence_with_furigana": "海の底にもガラスのようなまっさおい光りが透けて、",
+        "audio_begin": 53960,
+        "audio_end": 58960
     },
     {
         "id": "f000018",
         "sentence": "水泡がぷつぷつと舞いあがっているといった気持ちのいいお天気です。",
-        "sentence_with_furigana": "水泡がぷつぷつと舞いあがっているといった気持ちのいいお天気です。"
+        "sentence_with_furigana": "水泡がぷつぷつと舞いあがっているといった気持ちのいいお天気です。",
+        "audio_begin": 58960,
+        "audio_end": 65720
     },
     {
         "id": "f000019",
         "sentence": "「あっ、",
-        "sentence_with_furigana": "「あっ、"
+        "sentence_with_furigana": "「あっ、",
+        "audio_begin": 65720,
+        "audio_end": 66040
     },
     {
         "id": "f000020",
         "sentence": "体操の先生よ。」",
-        "sentence_with_furigana": "体操の先生よ。」"
+        "sentence_with_furigana": "体操の先生よ。」",
+        "audio_begin": 66040,
+        "audio_end": 67600
     },
     {
         "id": "f000021",
         "sentence": "この間、",
-        "sentence_with_furigana": "この間、"
+        "sentence_with_furigana": "この間、",
+        "audio_begin": 69800,
+        "audio_end": 70315
     },
     {
         "id": "f000022",
         "sentence": "ハイキングにいらっして、",
-        "sentence_with_furigana": "ハイキングにいらっして、"
+        "sentence_with_furigana": "ハイキングにいらっして、",
+        "audio_begin": 70315,
+        "audio_end": 71720
     },
     {
         "id": "f000023",
         "sentence": "ちょっと、",
-        "sentence_with_furigana": "ちょっと、"
+        "sentence_with_furigana": "ちょっと、",
+        "audio_begin": 71720,
+        "audio_end": 72400
     },
     {
         "id": "f000024",
         "sentence": "尻尾をお怪我なすった体操の男の先生は、",
-        "sentence_with_furigana": "尻尾をお怪我なすった体操の男の先生は、"
+        "sentence_with_furigana": "尻尾をお怪我なすった体操の男の先生は、",
+        "audio_begin": 72400,
+        "audio_end": 76765
     },
     {
         "id": "f000025",
         "sentence": "大きい尻尾にほうたいをしていらっしゃいました。",
-        "sentence_with_furigana": "大きい尻尾にほうたいをしていらっしゃいました。"
+        "sentence_with_furigana": "大きい尻尾にほうたいをしていらっしゃいました。",
+        "audio_begin": 76765,
+        "audio_end": 79440
     },
     {
         "id": "f000026",
         "sentence": "「先生、",
-        "sentence_with_furigana": "「先生、"
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 81504,
+        "audio_end": 82560
     },
     {
         "id": "f000027",
         "sentence": "おはようございます。」",
-        "sentence_with_furigana": "おはようございます。」"
+        "sentence_with_furigana": "おはようございます。」",
+        "audio_begin": 82560,
+        "audio_end": 84458
     },
     {
         "id": "f000028",
         "sentence": "「先生、",
-        "sentence_with_furigana": "「先生、"
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 84458,
+        "audio_end": 85320
     },
     {
         "id": "f000029",
         "sentence": "おはよう。」",
-        "sentence_with_furigana": "おはよう。」"
+        "sentence_with_furigana": "おはよう。」",
+        "audio_begin": 85320,
+        "audio_end": 85960
     },
     {
         "id": "f000030",
         "sentence": "体操の先生はちょこんと紅白の運動帽をかぶって生徒たちのところへいらっしゃいました。",
-        "sentence_with_furigana": "体操の先生はちょこんと紅白の運動帽をかぶって生徒たちのところへいらっしゃいました。"
+        "sentence_with_furigana": "体操の先生はちょこんと紅白の運動帽をかぶって生徒たちのところへいらっしゃいました。",
+        "audio_begin": 88360,
+        "audio_end": 95440
     },
     {
         "id": "f000031",
         "sentence": "「今日は、",
-        "sentence_with_furigana": "「今日は、"
+        "sentence_with_furigana": "「今日は、",
+        "audio_begin": 97840,
+        "audio_end": 98400
     },
     {
         "id": "f000032",
         "sentence": "みなさんを連れて、",
-        "sentence_with_furigana": "みなさんを連れて、"
+        "sentence_with_furigana": "みなさんを連れて、",
+        "audio_begin": 98400,
+        "audio_end": 99720
     },
     {
         "id": "f000033",
         "sentence": "鯖村まで見学に行きます。",
-        "sentence_with_furigana": "鯖村まで見学に行きます。"
+        "sentence_with_furigana": "鯖村まで見学に行きます。",
+        "audio_begin": 99720,
+        "audio_end": 103400
     },
     {
         "id": "f000034",
         "sentence": "みなさんが、",
-        "sentence_with_furigana": "みなさんが、"
+        "sentence_with_furigana": "みなさんが、",
+        "audio_begin": 103400,
+        "audio_end": 104040
     },
     {
         "id": "f000035",
         "sentence": "いままでに見たこともない大きい怪物が天界から降って来たそうです。",
-        "sentence_with_furigana": "いままでに見たこともない大きい怪物が天界から降って来たそうです。"
+        "sentence_with_furigana": "いままでに見たこともない大きい怪物が天界から降って来たそうです。",
+        "audio_begin": 104040,
+        "audio_end": 110365
     },
     {
         "id": "f000036",
         "sentence": "飛魚さんのようなかっこうをして、",
-        "sentence_with_furigana": "飛魚さんのようなかっこうをして、"
+        "sentence_with_furigana": "飛魚さんのようなかっこうをして、",
+        "audio_begin": 110365,
+        "audio_end": 112800
     },
     {
         "id": "f000037",
         "sentence": "何だかものすごく大きくて動く事も出来ないものだそうです。」",
-        "sentence_with_furigana": "何だかものすごく大きくて動く事も出来ないものだそうです。」"
+        "sentence_with_furigana": "何だかものすごく大きくて動く事も出来ないものだそうです。」",
+        "audio_begin": 112800,
+        "audio_end": 117080
     },
     {
         "id": "f000038",
         "sentence": "小さいひらめの生徒は、",
-        "sentence_with_furigana": "小さいひらめの生徒は、"
+        "sentence_with_furigana": "小さいひらめの生徒は、",
+        "audio_begin": 119680,
+        "audio_end": 121680
     },
     {
         "id": "f000039",
         "sentence": "わあっと声をあげてよろこびました。",
-        "sentence_with_furigana": "わあっと声をあげてよろこびました。"
+        "sentence_with_furigana": "わあっと声をあげてよろこびました。",
+        "audio_begin": 121680,
+        "audio_end": 125147
     },
     {
         "id": "f000040",
         "sentence": "気の早い生徒はもう浮きたって、",
-        "sentence_with_furigana": "気の早い生徒はもう浮きたって、"
+        "sentence_with_furigana": "気の早い生徒はもう浮きたって、",
+        "audio_begin": 125147,
+        "audio_end": 127640
     },
     {
         "id": "f000041",
         "sentence": "ごぼごぼと舞い上ってゆくものもありました。",
-        "sentence_with_furigana": "ごぼごぼと舞い上ってゆくものもありました。"
+        "sentence_with_furigana": "ごぼごぼと舞い上ってゆくものもありました。",
+        "audio_begin": 127640,
+        "audio_end": 130699
     },
     {
         "id": "f000042",
         "sentence": "体操の先生は、",
-        "sentence_with_furigana": "体操の先生は、"
+        "sentence_with_furigana": "体操の先生は、",
+        "audio_begin": 132800,
+        "audio_end": 134040
     },
     {
         "id": "f000043",
         "sentence": "急に、",
-        "sentence_with_furigana": "急に、"
+        "sentence_with_furigana": "急に、",
+        "audio_begin": 134040,
+        "audio_end": 134760
     },
     {
         "id": "f000044",
         "sentence": "ピリピリと笛を鳴らしました。",
-        "sentence_with_furigana": "ピリピリと笛を鳴らしました。"
+        "sentence_with_furigana": "ピリピリと笛を鳴らしました。",
+        "audio_begin": 134760,
+        "audio_end": 138920
     },
     {
         "id": "f000045",
         "sentence": "「あわてものは誰ですか、",
-        "sentence_with_furigana": "「あわてものは誰ですか、"
+        "sentence_with_furigana": "「あわてものは誰ですか、",
+        "audio_begin": 138920,
+        "audio_end": 141000
     },
     {
         "id": "f000046",
         "sentence": "みんな二列に並んで、",
-        "sentence_with_furigana": "みんな二列に並んで、"
+        "sentence_with_furigana": "みんな二列に並んで、",
+        "audio_begin": 141000,
+        "audio_end": 142805
     },
     {
         "id": "f000047",
         "sentence": "きちんと列をくずさないように泳ぐのですよ。",
-        "sentence_with_furigana": "きちんと列をくずさないように泳ぐのですよ。"
+        "sentence_with_furigana": "きちんと列をくずさないように泳ぐのですよ。",
+        "audio_begin": 142805,
+        "audio_end": 146851
     },
     {
         "id": "f000048",
         "sentence": "この間みたいに、",
-        "sentence_with_furigana": "この間みたいに、"
+        "sentence_with_furigana": "この間みたいに、",
+        "audio_begin": 146851,
+        "audio_end": 148200
     },
     {
         "id": "f000049",
         "sentence": "おこぜにいじめられると困るでしょう。",
-        "sentence_with_furigana": "おこぜにいじめられると困るでしょう。"
+        "sentence_with_furigana": "おこぜにいじめられると困るでしょう。",
+        "audio_begin": 148200,
+        "audio_end": 151160
     },
     {
         "id": "f000050",
         "sentence": "いいですか、",
-        "sentence_with_furigana": "いいですか、"
+        "sentence_with_furigana": "いいですか、",
+        "audio_begin": 151160,
+        "audio_end": 152440
     },
     {
         "id": "f000051",
         "sentence": "先生の後からしずかに泳ぐのですよ。",
-        "sentence_with_furigana": "先生の後からしずかに泳ぐのですよ。"
+        "sentence_with_furigana": "先生の後からしずかに泳ぐのですよ。",
+        "audio_begin": 152440,
+        "audio_end": 155560
     },
     {
         "id": "f000052",
         "sentence": "鯖村では、",
-        "sentence_with_furigana": "鯖村では、"
+        "sentence_with_furigana": "鯖村では、",
+        "audio_begin": 157660,
+        "audio_end": 158560
     },
     {
         "id": "f000053",
         "sentence": "村長さんがみんなに御馳走して下さるそうです。",
-        "sentence_with_furigana": "村長さんがみんなに御馳走して下さるそうです。"
+        "sentence_with_furigana": "村長さんがみんなに御馳走して下さるそうです。",
+        "audio_begin": 158560,
+        "audio_end": 162423
     },
     {
         "id": "f000054",
         "sentence": "校長先生もいらっしゃるのですよ。",
-        "sentence_with_furigana": "校長先生もいらっしゃるのですよ。"
+        "sentence_with_furigana": "校長先生もいらっしゃるのですよ。",
+        "audio_begin": 162423,
+        "audio_end": 166160
     },
     {
         "id": "f000055",
         "sentence": "鯖村まで、",
-        "sentence_with_furigana": "鯖村まで、"
+        "sentence_with_furigana": "鯖村まで、",
+        "audio_begin": 166160,
+        "audio_end": 167320
     },
     {
         "id": "f000056",
         "sentence": "約二キロです。",
-        "sentence_with_furigana": "約二キロです。"
+        "sentence_with_furigana": "約二キロです。",
+        "audio_begin": 167320,
+        "audio_end": 169640
     },
     {
         "id": "f000057",
         "sentence": "正しく列を組んで泳ぎましょう。」",
-        "sentence_with_furigana": "正しく列を組んで泳ぎましょう。」"
+        "sentence_with_furigana": "正しく列を組んで泳ぎましょう。」",
+        "audio_begin": 169640,
+        "audio_end": 176520
     },
     {
         "id": "f000058",
         "sentence": "ひらめの学校の生徒は、",
-        "sentence_with_furigana": "ひらめの学校の生徒は、"
+        "sentence_with_furigana": "ひらめの学校の生徒は、",
+        "audio_begin": 176520,
+        "audio_end": 178280
     },
     {
         "id": "f000059",
         "sentence": "さあっと二列に並びました。",
-        "sentence_with_furigana": "さあっと二列に並びました。"
+        "sentence_with_furigana": "さあっと二列に並びました。",
+        "audio_begin": 178280,
+        "audio_end": 180120
     },
     {
         "id": "f000060",
         "sentence": "校長先生が、",
-        "sentence_with_furigana": "校長先生が、"
+        "sentence_with_furigana": "校長先生が、",
+        "audio_begin": 182220,
+        "audio_end": 183400
     },
     {
         "id": "f000061",
         "sentence": "大きい眼鏡をかけて出ていらっしゃいました。",
-        "sentence_with_furigana": "大きい眼鏡をかけて出ていらっしゃいました。"
+        "sentence_with_furigana": "大きい眼鏡をかけて出ていらっしゃいました。",
+        "audio_begin": 183400,
+        "audio_end": 185560
     },
     {
         "id": "f000062",
         "sentence": "生徒はいっせいに、",
-        "sentence_with_furigana": "生徒はいっせいに、"
+        "sentence_with_furigana": "生徒はいっせいに、",
+        "audio_begin": 187960,
+        "audio_end": 189240
     },
     {
         "id": "f000063",
         "sentence": "平べったい尻尾をひらひらとうち振って校長先生をお迎えしました。",
-        "sentence_with_furigana": "平べったい尻尾をひらひらとうち振って校長先生をお迎えしました。"
+        "sentence_with_furigana": "平べったい尻尾をひらひらとうち振って校長先生をお迎えしました。",
+        "audio_begin": 189240,
+        "audio_end": 194560
     },
     {
         "id": "f000064",
         "sentence": "校長先生の眼鏡はとても重いので、",
-        "sentence_with_furigana": "校長先生の眼鏡はとても重いので、"
+        "sentence_with_furigana": "校長先生の眼鏡はとても重いので、",
+        "audio_begin": 196560,
+        "audio_end": 200120
     },
     {
         "id": "f000065",
         "sentence": "眼鏡のつるに、",
-        "sentence_with_furigana": "眼鏡のつるに、"
+        "sentence_with_furigana": "眼鏡のつるに、",
+        "audio_begin": 200120,
+        "audio_end": 201160
     },
     {
         "id": "f000066",
         "sentence": "木で出来たブイがついていました。",
-        "sentence_with_furigana": "木で出来たブイがついていました。"
+        "sentence_with_furigana": "木で出来たブイがついていました。",
+        "audio_begin": 201160,
+        "audio_end": 203200
     },
     {
         "id": "f000067",
         "sentence": "ブイが両側についているので、",
-        "sentence_with_furigana": "ブイが両側についているので、"
+        "sentence_with_furigana": "ブイが両側についているので、",
+        "audio_begin": 205100,
+        "audio_end": 207720
     },
     {
         "id": "f000068",
         "sentence": "大きい眼鏡はゆらゆらと、",
-        "sentence_with_furigana": "大きい眼鏡はゆらゆらと、"
+        "sentence_with_furigana": "大きい眼鏡はゆらゆらと、",
+        "audio_begin": 207720,
+        "audio_end": 209760
     },
     {
         "id": "f000069",
         "sentence": "校長先生のひくいおはなのまわりに、",
-        "sentence_with_furigana": "校長先生のひくいおはなのまわりに、"
+        "sentence_with_furigana": "校長先生のひくいおはなのまわりに、",
+        "audio_begin": 209760,
+        "audio_end": 213067
     },
     {
         "id": "f000070",
         "sentence": "丁度都合よくつりあっています。",
-        "sentence_with_furigana": "丁度都合よくつりあっています。"
+        "sentence_with_furigana": "丁度都合よくつりあっています。",
+        "audio_begin": 213067,
+        "audio_end": 215600
     },
     {
         "id": "f000071",
         "sentence": "海のなかでは、",
-        "sentence_with_furigana": "海のなかでは、"
+        "sentence_with_furigana": "海のなかでは、",
+        "audio_begin": 219053,
+        "audio_end": 220945
     },
     {
         "id": "f000072",
         "sentence": "食べものも何も持って歩くことがないのです。",
-        "sentence_with_furigana": "食べものも何も持って歩くことがないのです。"
+        "sentence_with_furigana": "食べものも何も持って歩くことがないのです。",
+        "audio_begin": 220945,
+        "audio_end": 225720
     },
     {
         "id": "f000073",
         "sentence": "何でもお金と云うものがいらないので、",
-        "sentence_with_furigana": "何でもお金と云うものがいらないので、"
+        "sentence_with_furigana": "何でもお金と云うものがいらないので、",
+        "audio_begin": 225720,
+        "audio_end": 228960
     },
     {
         "id": "f000074",
         "sentence": "どこでも自由に食べる事が出来ました。",
-        "sentence_with_furigana": "どこでも自由に食べる事が出来ました。"
+        "sentence_with_furigana": "どこでも自由に食べる事が出来ました。",
+        "audio_begin": 228960,
+        "audio_end": 231880
     },
     {
         "id": "f000075",
         "sentence": "ひらめの生徒の行列は校長先生の後から、",
-        "sentence_with_furigana": "ひらめの生徒の行列は校長先生の後から、"
+        "sentence_with_furigana": "ひらめの生徒の行列は校長先生の後から、",
+        "audio_begin": 235480,
+        "audio_end": 239320
     },
     {
         "id": "f000076",
         "sentence": "愉しそうに泳いでゆきました。",
-        "sentence_with_furigana": "愉しそうに泳いでゆきました。"
+        "sentence_with_furigana": "愉しそうに泳いでゆきました。",
+        "audio_begin": 239320,
+        "audio_end": 241120
     },
     {
         "id": "f000077",
         "sentence": "昆布の林を抜けたり、",
-        "sentence_with_furigana": "昆布の林を抜けたり、"
+        "sentence_with_furigana": "昆布の林を抜けたり、",
+        "audio_begin": 243720,
+        "audio_end": 246000
     },
     {
         "id": "f000078",
         "sentence": "サンゴの森をくぐって行きました。",
-        "sentence_with_furigana": "サンゴの森をくぐって行きました。"
+        "sentence_with_furigana": "サンゴの森をくぐって行きました。",
+        "audio_begin": 246000,
+        "audio_end": 248040
     },
     {
         "id": "f000079",
         "sentence": "時々、",
-        "sentence_with_furigana": "時々、"
+        "sentence_with_furigana": "時々、",
+        "audio_begin": 249940,
+        "audio_end": 250560
     },
     {
         "id": "f000080",
         "sentence": "ぶりの家族が泳いで来ます。",
-        "sentence_with_furigana": "ぶりの家族が泳いで来ます。"
+        "sentence_with_furigana": "ぶりの家族が泳いで来ます。",
+        "audio_begin": 250560,
+        "audio_end": 253840
     },
     {
         "id": "f000081",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 253840,
+        "audio_end": 254240
     },
     {
         "id": "f000082",
         "sentence": "体操の先生が、",
-        "sentence_with_furigana": "体操の先生が、"
+        "sentence_with_furigana": "体操の先生が、",
+        "audio_begin": 254240,
+        "audio_end": 255686
     },
     {
         "id": "f000083",
         "sentence": "ピッと笛を吹きます。",
-        "sentence_with_furigana": "ピッと笛を吹きます。"
+        "sentence_with_furigana": "ピッと笛を吹きます。",
+        "audio_begin": 255686,
+        "audio_end": 257180
     },
     {
         "id": "f000084",
         "sentence": "生徒は校長先生をまんなかにして、",
-        "sentence_with_furigana": "生徒は校長先生をまんなかにして、"
+        "sentence_with_furigana": "生徒は校長先生をまんなかにして、",
+        "audio_begin": 259279,
+        "audio_end": 262079
     },
     {
         "id": "f000085",
         "sentence": "岩の上にぺたっと張りついて、",
-        "sentence_with_furigana": "岩の上にぺたっと張りついて、"
+        "sentence_with_furigana": "岩の上にぺたっと張りついて、",
+        "audio_begin": 262079,
+        "audio_end": 264760
     },
     {
         "id": "f000086",
         "sentence": "ぶりの家族をやりすごしてやります。",
-        "sentence_with_furigana": "ぶりの家族をやりすごしてやります。"
+        "sentence_with_furigana": "ぶりの家族をやりすごしてやります。",
+        "audio_begin": 264760,
+        "audio_end": 267220
     },
     {
         "id": "f000087",
         "sentence": "やっと鯖村へ着くと、",
-        "sentence_with_furigana": "やっと鯖村へ着くと、"
+        "sentence_with_furigana": "やっと鯖村へ着くと、",
+        "audio_begin": 271720,
+        "audio_end": 274017
     },
     {
         "id": "f000088",
         "sentence": "青いユニホームの鯖の子供が沢山岩の門まで迎えに来ました。",
-        "sentence_with_furigana": "青いユニホームの鯖の子供が沢山岩の門まで迎えに来ました。"
+        "sentence_with_furigana": "青いユニホームの鯖の子供が沢山岩の門まで迎えに来ました。",
+        "audio_begin": 274017,
+        "audio_end": 280840
     },
     {
         "id": "f000089",
         "sentence": "岩の門をくぐると、",
-        "sentence_with_furigana": "岩の門をくぐると、"
+        "sentence_with_furigana": "岩の門をくぐると、",
+        "audio_begin": 280840,
+        "audio_end": 283240
     },
     {
         "id": "f000090",
         "sentence": "驚いた事に、",
-        "sentence_with_furigana": "驚いた事に、"
+        "sentence_with_furigana": "驚いた事に、",
+        "audio_begin": 283240,
+        "audio_end": 285054
     },
     {
         "id": "f000091",
         "sentence": "銀色の大きい怪物が、",
-        "sentence_with_furigana": "銀色の大きい怪物が、"
+        "sentence_with_furigana": "銀色の大きい怪物が、",
+        "audio_begin": 285054,
+        "audio_end": 287560
     },
     {
         "id": "f000092",
         "sentence": "羽根に真紅なまるいマークをつけてどっかりと砂地にころんでいました。",
-        "sentence_with_furigana": "羽根に真紅なまるいマークをつけてどっかりと砂地にころんでいました。"
+        "sentence_with_furigana": "羽根に真紅なまるいマークをつけてどっかりと砂地にころんでいました。",
+        "audio_begin": 287560,
+        "audio_end": 295080
     },
     {
         "id": "f000093",
         "sentence": "まことに珍らしいものです。",
-        "sentence_with_furigana": "まことに珍らしいものです。"
+        "sentence_with_furigana": "まことに珍らしいものです。",
+        "audio_begin": 295080,
+        "audio_end": 296800
     },
     {
         "id": "f000094",
         "sentence": "校長先生は、",
-        "sentence_with_furigana": "校長先生は、"
+        "sentence_with_furigana": "校長先生は、",
+        "audio_begin": 299100,
+        "audio_end": 300400
     },
     {
         "id": "f000095",
         "sentence": "眼鏡のブイを握ってじいっと見とれていました。",
-        "sentence_with_furigana": "眼鏡のブイを握ってじいっと見とれていました。"
+        "sentence_with_furigana": "眼鏡のブイを握ってじいっと見とれていました。",
+        "audio_begin": 300400,
+        "audio_end": 304160
     },
     {
         "id": "f000096",
         "sentence": "鯖村の村長さんも女の方です。",
-        "sentence_with_furigana": "鯖村の村長さんも女の方です。"
+        "sentence_with_furigana": "鯖村の村長さんも女の方です。",
+        "audio_begin": 308260,
+        "audio_end": 312073
     },
     {
         "id": "f000097",
         "sentence": "とてもよくふとった方で、",
-        "sentence_with_furigana": "とてもよくふとった方で、"
+        "sentence_with_furigana": "とてもよくふとった方で、",
+        "audio_begin": 312073,
+        "audio_end": 314422
     },
     {
         "id": "f000098",
         "sentence": "きれいな藻で首巻きをつくって、",
-        "sentence_with_furigana": "きれいな藻で首巻きをつくって、"
+        "sentence_with_furigana": "きれいな藻で首巻きをつくって、",
+        "audio_begin": 314422,
+        "audio_end": 317240
     },
     {
         "id": "f000099",
         "sentence": "それを自慢そうに脊中にかけていらっしゃいました。",
-        "sentence_with_furigana": "それを自慢そうに脊中にかけていらっしゃいました。"
+        "sentence_with_furigana": "それを自慢そうに脊中にかけていらっしゃいました。",
+        "audio_begin": 317240,
+        "audio_end": 323680
     },
     {
         "id": "f000100",
         "sentence": "「みなさん、",
-        "sentence_with_furigana": "「みなさん、"
+        "sentence_with_furigana": "「みなさん、",
+        "audio_begin": 323680,
+        "audio_end": 324520
     },
     {
         "id": "f000101",
         "sentence": "よくいらっしゃいましたね。",
-        "sentence_with_furigana": "よくいらっしゃいましたね。"
+        "sentence_with_furigana": "よくいらっしゃいましたね。",
+        "audio_begin": 324520,
+        "audio_end": 326440
     },
     {
         "id": "f000102",
         "sentence": "これは、",
-        "sentence_with_furigana": "これは、"
+        "sentence_with_furigana": "これは、",
+        "audio_begin": 328040,
+        "audio_end": 328680
     },
     {
         "id": "f000103",
         "sentence": "ごらんのような妙なものですが、",
-        "sentence_with_furigana": "ごらんのような妙なものですが、"
+        "sentence_with_furigana": "ごらんのような妙なものですが、",
+        "audio_begin": 328680,
+        "audio_end": 331440
     },
     {
         "id": "f000104",
         "sentence": "陸上の人間のつくった飛行機と云うものだそうで、",
-        "sentence_with_furigana": "陸上の人間のつくった飛行機と云うものだそうで、"
+        "sentence_with_furigana": "陸上の人間のつくった飛行機と云うものだそうで、",
+        "audio_begin": 331440,
+        "audio_end": 335840
     },
     {
         "id": "f000105",
         "sentence": "竜宮の鯛王も、",
-        "sentence_with_furigana": "竜宮の鯛王も、"
+        "sentence_with_furigana": "竜宮の鯛王も、",
+        "audio_begin": 335840,
+        "audio_end": 337520
     },
     {
         "id": "f000106",
         "sentence": "先日わざわざ見にいらっしゃいました。",
-        "sentence_with_furigana": "先日わざわざ見にいらっしゃいました。"
+        "sentence_with_furigana": "先日わざわざ見にいらっしゃいました。",
+        "audio_begin": 337520,
+        "audio_end": 342200
     },
     {
         "id": "f000107",
         "sentence": "いま、",
-        "sentence_with_furigana": "いま、"
+        "sentence_with_furigana": "いま、",
+        "audio_begin": 342200,
+        "audio_end": 342640
     },
     {
         "id": "f000108",
         "sentence": "陸上では人間が戦争と云うものを始めているのだそうです。",
-        "sentence_with_furigana": "陸上では人間が戦争と云うものを始めているのだそうです。"
+        "sentence_with_furigana": "陸上では人間が戦争と云うものを始めているのだそうです。",
+        "audio_begin": 342640,
+        "audio_end": 349280
     },
     {
         "id": "f000109",
         "sentence": "鱶さんはとても面白がって、",
-        "sentence_with_furigana": "鱶さんはとても面白がって、"
+        "sentence_with_furigana": "鱶さんはとても面白がって、",
+        "audio_begin": 349280,
+        "audio_end": 351520
     },
     {
         "id": "f000110",
         "sentence": "鱶村全部で南の海へ戦争を見に行ったそうです。",
-        "sentence_with_furigana": "鱶村全部で南の海へ戦争を見に行ったそうです。"
+        "sentence_with_furigana": "鱶村全部で南の海へ戦争を見に行ったそうです。",
+        "audio_begin": 351520,
+        "audio_end": 355800
     },
     {
         "id": "f000111",
         "sentence": "鯛王も、",
-        "sentence_with_furigana": "鯛王も、"
+        "sentence_with_furigana": "鯛王も、",
+        "audio_begin": 357400,
+        "audio_end": 358120
     },
     {
         "id": "f000112",
         "sentence": "なるべく鱶族が長く南にたいざいしてくれるといいとおっしゃっていました。",
-        "sentence_with_furigana": "なるべく鱶族が長く南にたいざいしてくれるといいとおっしゃっていました。"
+        "sentence_with_furigana": "なるべく鱶族が長く南にたいざいしてくれるといいとおっしゃっていました。",
+        "audio_begin": 358120,
+        "audio_end": 364840
     },
     {
         "id": "f000113",
         "sentence": "さア、",
-        "sentence_with_furigana": "さア、"
+        "sentence_with_furigana": "さア、",
+        "audio_begin": 364840,
+        "audio_end": 365280
     },
     {
         "id": "f000114",
         "sentence": "みなさん、",
-        "sentence_with_furigana": "みなさん、"
+        "sentence_with_furigana": "みなさん、",
+        "audio_begin": 365280,
+        "audio_end": 366720
     },
     {
         "id": "f000115",
         "sentence": "御自由に、",
-        "sentence_with_furigana": "御自由に、"
+        "sentence_with_furigana": "御自由に、",
+        "audio_begin": 366720,
+        "audio_end": 367640
     },
     {
         "id": "f000116",
         "sentence": "飛行機と云うものをごらん下さい。」",
-        "sentence_with_furigana": "飛行機と云うものをごらん下さい。」"
+        "sentence_with_furigana": "飛行機と云うものをごらん下さい。」",
+        "audio_begin": 367640,
+        "audio_end": 370800
     },
     {
         "id": "f000117",
         "sentence": "ひらめの生徒はよろこんで飛行機のまわりを泳ぎはじめました。",
-        "sentence_with_furigana": "ひらめの生徒はよろこんで飛行機のまわりを泳ぎはじめました。"
+        "sentence_with_furigana": "ひらめの生徒はよろこんで飛行機のまわりを泳ぎはじめました。",
+        "audio_begin": 373600,
+        "audio_end": 378380
     },
     {
         "id": "f000118",
         "sentence": "「ねえ、",
-        "sentence_with_furigana": "「ねえ、"
+        "sentence_with_furigana": "「ねえ、",
+        "audio_begin": 380480,
+        "audio_end": 381160
     },
     {
         "id": "f000119",
         "sentence": "これは何だろう？」",
-        "sentence_with_furigana": "これは何だろう？」"
+        "sentence_with_furigana": "これは何だろう？」",
+        "audio_begin": 381160,
+        "audio_end": 384320
     },
     {
         "id": "f000120",
         "sentence": "大きい円いゴムの車輪が上を向いています。",
-        "sentence_with_furigana": "大きい円いゴムの車輪が上を向いています。"
+        "sentence_with_furigana": "大きい円いゴムの車輪が上を向いています。",
+        "audio_begin": 384320,
+        "audio_end": 388857
     },
     {
         "id": "f000121",
         "sentence": "「これはすべり台かもわからないわ。」",
-        "sentence_with_furigana": "「これはすべり台かもわからないわ。」"
+        "sentence_with_furigana": "「これはすべり台かもわからないわ。」",
+        "audio_begin": 388857,
+        "audio_end": 391780
     },
     {
         "id": "f000122",
         "sentence": "みんな珍らしくて仕方がありません。",
-        "sentence_with_furigana": "みんな珍らしくて仕方がありません。"
+        "sentence_with_furigana": "みんな珍らしくて仕方がありません。",
+        "audio_begin": 393880,
+        "audio_end": 398040
     },
     {
         "id": "f000123",
         "sentence": "ガラスの窓から中へはいると、",
-        "sentence_with_furigana": "ガラスの窓から中へはいると、"
+        "sentence_with_furigana": "ガラスの窓から中へはいると、",
+        "audio_begin": 398040,
+        "audio_end": 401006
     },
     {
         "id": "f000124",
         "sentence": "小さい人形がぶらさがっています。",
-        "sentence_with_furigana": "小さい人形がぶらさがっています。"
+        "sentence_with_furigana": "小さい人形がぶらさがっています。",
+        "audio_begin": 401006,
+        "audio_end": 403463
     },
     {
         "id": "f000125",
         "sentence": "とても可愛いので、",
-        "sentence_with_furigana": "とても可愛いので、"
+        "sentence_with_furigana": "とても可愛いので、",
+        "audio_begin": 404800,
+        "audio_end": 406480
     },
     {
         "id": "f000126",
         "sentence": "鯖村の村長さんにうかがって、",
-        "sentence_with_furigana": "鯖村の村長さんにうかがって、"
+        "sentence_with_furigana": "鯖村の村長さんにうかがって、",
+        "audio_begin": 406480,
+        "audio_end": 409320
     },
     {
         "id": "f000127",
         "sentence": "ひらめ学校の生徒はそれを記念にいただきました。",
-        "sentence_with_furigana": "ひらめ学校の生徒はそれを記念にいただきました。"
+        "sentence_with_furigana": "ひらめ学校の生徒はそれを記念にいただきました。",
+        "audio_begin": 409320,
+        "audio_end": 416080
     },
     {
         "id": "f000128",
         "sentence": "見物が済むと、",
-        "sentence_with_furigana": "見物が済むと、"
+        "sentence_with_furigana": "見物が済むと、",
+        "audio_begin": 416080,
+        "audio_end": 417960
     },
     {
         "id": "f000129",
         "sentence": "岩の中の食堂で、",
-        "sentence_with_furigana": "岩の中の食堂で、"
+        "sentence_with_furigana": "岩の中の食堂で、",
+        "audio_begin": 417960,
+        "audio_end": 420200
     },
     {
         "id": "f000130",
         "sentence": "ひらめ学校の生徒は沢山御馳走になって、",
-        "sentence_with_furigana": "ひらめ学校の生徒は沢山御馳走になって、"
+        "sentence_with_furigana": "ひらめ学校の生徒は沢山御馳走になって、",
+        "audio_begin": 420200,
+        "audio_end": 424320
     },
     {
         "id": "f000131",
         "sentence": "夕方ぢかくひらめ村へみんなで戻って来ました。",
-        "sentence_with_furigana": "夕方ぢかくひらめ村へみんなで戻って来ました。"
+        "sentence_with_furigana": "夕方ぢかくひらめ村へみんなで戻って来ました。",
+        "audio_begin": 424320,
+        "audio_end": 428160
     },
     {
         "id": "f000132",
         "sentence": "学校には夜光虫の灯がついていました。",
-        "sentence_with_furigana": "学校には夜光虫の灯がついていました。"
+        "sentence_with_furigana": "学校には夜光虫の灯がついていました。",
+        "audio_begin": 431260,
+        "audio_end": 434780
     },
     {
         "id": "f000133",
         "sentence": "みんな灯のそばへあつまって歌をうたいました。",
-        "sentence_with_furigana": "みんな灯のそばへあつまって歌をうたいました。"
+        "sentence_with_furigana": "みんな灯のそばへあつまって歌をうたいました。",
+        "audio_begin": 436880,
+        "audio_end": 440640
     },
     {
         "id": "f000134",
         "sentence": "とこしえにうつくしき海の国",
-        "sentence_with_furigana": "とこしえにうつくしき海の国"
+        "sentence_with_furigana": "とこしえにうつくしき海の国",
+        "audio_begin": 442768,
+        "audio_end": 449720
     },
     {
         "id": "f000135",
         "sentence": "あらそいをさけ手をつなぎ",
-        "sentence_with_furigana": "あらそいをさけ手をつなぎ"
+        "sentence_with_furigana": "あらそいをさけ手をつなぎ",
+        "audio_begin": 449720,
+        "audio_end": 455880
     },
     {
         "id": "f000136",
         "sentence": "海の神に祈る海のはらから",
-        "sentence_with_furigana": "海の神に祈る海のはらから"
+        "sentence_with_furigana": "海の神に祈る海のはらから",
+        "audio_begin": 455880,
+        "audio_end": 462120
     },
     {
         "id": "f000137",
         "sentence": "われらたのしくまなび",
-        "sentence_with_furigana": "われらたのしくまなび"
+        "sentence_with_furigana": "われらたのしくまなび",
+        "audio_begin": 462120,
+        "audio_end": 465160
     },
     {
         "id": "f000138",
         "sentence": "われらたのしくはたらく海の国",
-        "sentence_with_furigana": "われらたのしくはたらく海の国"
+        "sentence_with_furigana": "われらたのしくはたらく海の国",
+        "audio_begin": 465160,
+        "audio_end": 472516
     },
     {
         "id": "f000139",
         "sentence": "女の先生が昆布で出来た楽器を鳴らしています。",
-        "sentence_with_furigana": "女の先生が昆布で出来た楽器を鳴らしています。"
+        "sentence_with_furigana": "女の先生が昆布で出来た楽器を鳴らしています。",
+        "audio_begin": 475600,
+        "audio_end": 479720
     },
     {
         "id": "f000140",
         "sentence": "校長先生は、",
-        "sentence_with_furigana": "校長先生は、"
+        "sentence_with_furigana": "校長先生は、",
+        "audio_begin": 481420,
+        "audio_end": 483120
     },
     {
         "id": "f000141",
         "sentence": "鯖村で貰った人形と云うものを村の衆にみせました。",
-        "sentence_with_furigana": "鯖村で貰った人形と云うものを村の衆にみせました。"
+        "sentence_with_furigana": "鯖村で貰った人形と云うものを村の衆にみせました。",
+        "audio_begin": 483120,
+        "audio_end": 490440
     },
     {
         "id": "f000142",
         "sentence": "「人間というものは尻尾がねえンだな。",
-        "sentence_with_furigana": "「人間というものは尻尾がねえンだな。"
+        "sentence_with_furigana": "「人間というものは尻尾がねえンだな。",
+        "audio_begin": 490440,
+        "audio_end": 494440
     },
     {
         "id": "f000143",
         "sentence": "おかしなものだね。",
-        "sentence_with_furigana": "おかしなものだね。"
+        "sentence_with_furigana": "おかしなものだね。",
+        "audio_begin": 494440,
+        "audio_end": 496040
     },
     {
         "id": "f000144",
         "sentence": "尻尾がないと、",
-        "sentence_with_furigana": "尻尾がないと、"
+        "sentence_with_furigana": "尻尾がないと、",
+        "audio_begin": 496040,
+        "audio_end": 498080
     },
     {
         "id": "f000145",
         "sentence": "こっけいに見えるね。",
-        "sentence_with_furigana": "こっけいに見えるね。"
+        "sentence_with_furigana": "こっけいに見えるね。",
+        "audio_begin": 498080,
+        "audio_end": 501120
     },
     {
         "id": "f000146",
         "sentence": "戦争って何だろうね。",
-        "sentence_with_furigana": "戦争って何だろうね。"
+        "sentence_with_furigana": "戦争って何だろうね。",
+        "audio_begin": 501120,
+        "audio_end": 504030
     },
     {
         "id": "f000147",
         "sentence": "どうして戦争するンだろうね。",
-        "sentence_with_furigana": "どうして戦争するンだろうね。"
+        "sentence_with_furigana": "どうして戦争するンだろうね。",
+        "audio_begin": 504030,
+        "audio_end": 507400
     },
     {
         "id": "f000148",
         "sentence": "いっぺんでいいから、",
-        "sentence_with_furigana": "いっぺんでいいから、"
+        "sentence_with_furigana": "いっぺんでいいから、",
+        "audio_begin": 507400,
+        "audio_end": 508800
     },
     {
         "id": "f000149",
         "sentence": "人間の国に遊びに行ってみたいものだね。」",
-        "sentence_with_furigana": "人間の国に遊びに行ってみたいものだね。」"
+        "sentence_with_furigana": "人間の国に遊びに行ってみたいものだね。」",
+        "audio_begin": 508800,
+        "audio_end": 511640
     },
     {
         "id": "f000150",
         "sentence": "ひらめの村の衆がささやいています。",
-        "sentence_with_furigana": "ひらめの村の衆がささやいています。"
+        "sentence_with_furigana": "ひらめの村の衆がささやいています。",
+        "audio_begin": 514440,
+        "audio_end": 518039
     },
     {
         "id": "f000151",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 518039,
+        "audio_end": 519240
     },
     {
         "id": "f000152",
         "sentence": "ひらめの村の老村長は、",
-        "sentence_with_furigana": "ひらめの村の老村長は、"
+        "sentence_with_furigana": "ひらめの村の老村長は、",
+        "audio_begin": 519240,
+        "audio_end": 521600
     },
     {
         "id": "f000153",
         "sentence": "えへんと咳ばらいをして、",
-        "sentence_with_furigana": "えへんと咳ばらいをして、"
+        "sentence_with_furigana": "えへんと咳ばらいをして、",
+        "audio_begin": 521600,
+        "audio_end": 525198
     },
     {
         "id": "f000154",
         "sentence": "「よその世界をのぞきに行くのは地獄に行くようなものです。",
-        "sentence_with_furigana": "「よその世界をのぞきに行くのは地獄に行くようなものです。"
+        "sentence_with_furigana": "「よその世界をのぞきに行くのは地獄に行くようなものです。",
+        "audio_begin": 525198,
+        "audio_end": 531960
     },
     {
         "id": "f000155",
         "sentence": "海の世界ほどよいところはありません。",
-        "sentence_with_furigana": "海の世界ほどよいところはありません。"
+        "sentence_with_furigana": "海の世界ほどよいところはありません。",
+        "audio_begin": 531960,
+        "audio_end": 534360
     },
     {
         "id": "f000156",
         "sentence": "この間も、",
-        "sentence_with_furigana": "この間も、"
+        "sentence_with_furigana": "この間も、",
+        "audio_begin": 536360,
+        "audio_end": 537162
     },
     {
         "id": "f000157",
         "sentence": "話にきくと、",
-        "sentence_with_furigana": "話にきくと、"
+        "sentence_with_furigana": "話にきくと、",
+        "audio_begin": 537162,
+        "audio_end": 539080
     },
     {
         "id": "f000158",
         "sentence": "南に行った鱶村の衆は、",
-        "sentence_with_furigana": "南に行った鱶村の衆は、"
+        "sentence_with_furigana": "南に行った鱶村の衆は、",
+        "audio_begin": 539080,
+        "audio_end": 542120
     },
     {
         "id": "f000159",
         "sentence": "人間の戦争を見に行って随分殺ろされたそうです。",
-        "sentence_with_furigana": "人間の戦争を見に行って随分殺ろされたそうです。"
+        "sentence_with_furigana": "人間の戦争を見に行って随分殺ろされたそうです。",
+        "audio_begin": 542120,
+        "audio_end": 545640
     },
     {
         "id": "f000160",
         "sentence": "近々に帰えって来るということです。",
-        "sentence_with_furigana": "近々に帰えって来るということです。"
+        "sentence_with_furigana": "近々に帰えって来るということです。",
+        "audio_begin": 547640,
+        "audio_end": 550000
     },
     {
         "id": "f000161",
         "sentence": "鱶村の衆でさえ住めないものを、",
-        "sentence_with_furigana": "鱶村の衆でさえ住めないものを、"
+        "sentence_with_furigana": "鱶村の衆でさえ住めないものを、",
+        "audio_begin": 551800,
+        "audio_end": 554920
     },
     {
         "id": "f000162",
         "sentence": "私達がだいそれた事を考えてはいけません。",
-        "sentence_with_furigana": "私達がだいそれた事を考えてはいけません。"
+        "sentence_with_furigana": "私達がだいそれた事を考えてはいけません。",
+        "audio_begin": 554920,
+        "audio_end": 560120
     },
     {
         "id": "f000163",
         "sentence": "さア、",
-        "sentence_with_furigana": "さア、"
+        "sentence_with_furigana": "さア、",
+        "audio_begin": 560120,
+        "audio_end": 561640
     },
     {
         "id": "f000164",
         "sentence": "今日の祈りをいたしましょう。」",
-        "sentence_with_furigana": "今日の祈りをいたしましょう。」"
+        "sentence_with_furigana": "今日の祈りをいたしましょう。」",
+        "audio_begin": 561640,
+        "audio_end": 563720
     },
     {
         "id": "f000165",
         "sentence": "村の衆も、",
-        "sentence_with_furigana": "村の衆も、"
+        "sentence_with_furigana": "村の衆も、",
+        "audio_begin": 567320,
+        "audio_end": 568200
     },
     {
         "id": "f000166",
         "sentence": "学校の生徒も、",
-        "sentence_with_furigana": "学校の生徒も、"
+        "sentence_with_furigana": "学校の生徒も、",
+        "audio_begin": 568200,
+        "audio_end": 569160
     },
     {
         "id": "f000167",
         "sentence": "輪になって、",
-        "sentence_with_furigana": "輪になって、"
+        "sentence_with_furigana": "輪になって、",
+        "audio_begin": 569160,
+        "audio_end": 571083
     },
     {
         "id": "f000168",
         "sentence": "暗い海の底で祈りの歌をうたいました。",
-        "sentence_with_furigana": "暗い海の底で祈りの歌をうたいました。"
+        "sentence_with_furigana": "暗い海の底で祈りの歌をうたいました。",
+        "audio_begin": 571083,
+        "audio_end": 574860
     },
     {
         "id": "f000169",
         "sentence": "夜がふけてくるにつけ、",
-        "sentence_with_furigana": "夜がふけてくるにつけ、"
+        "sentence_with_furigana": "夜がふけてくるにつけ、",
+        "audio_begin": 576960,
+        "audio_end": 579137
     },
     {
         "id": "f000170",
         "sentence": "今夜は月あかりなのでしょうか、",
-        "sentence_with_furigana": "今夜は月あかりなのでしょうか、"
+        "sentence_with_furigana": "今夜は月あかりなのでしょうか、",
+        "audio_begin": 579137,
+        "audio_end": 582440
     },
     {
         "id": "f000171",
         "sentence": "海の底がぼおっと明るくなりました。",
-        "sentence_with_furigana": "海の底がぼおっと明るくなりました。"
+        "sentence_with_furigana": "海の底がぼおっと明るくなりました。",
+        "audio_begin": 582440,
+        "audio_end": 585480
     },
     {
         "id": "f000172",
         "sentence": "隣り村のたこさんの部落からもお祈りの声がしています。",
-        "sentence_with_furigana": "隣り村のたこさんの部落からもお祈りの声がしています。"
+        "sentence_with_furigana": "隣り村のたこさんの部落からもお祈りの声がしています。",
+        "audio_begin": 589375,
+        "audio_end": 593977
     },
     {
         "id": "f000173",
         "sentence": "魚の国ではどこの部落も、",
-        "sentence_with_furigana": "魚の国ではどこの部落も、"
+        "sentence_with_furigana": "魚の国ではどこの部落も、",
+        "audio_begin": 596560,
+        "audio_end": 599880
     },
     {
         "id": "f000174",
         "sentence": "よく神様にお祈りをあげました。",
-        "sentence_with_furigana": "よく神様にお祈りをあげました。"
+        "sentence_with_furigana": "よく神様にお祈りをあげました。",
+        "audio_begin": 599880,
+        "audio_end": 602160
     },
     {
         "id": "f000175",
         "sentence": "神様が、",
-        "sentence_with_furigana": "神様が、"
+        "sentence_with_furigana": "神様が、",
+        "audio_begin": 604660,
+        "audio_end": 606000
     },
     {
         "id": "f000176",
         "sentence": "みんなを可愛がって下さるからです。",
-        "sentence_with_furigana": "みんなを可愛がって下さるからです。"
+        "sentence_with_furigana": "みんなを可愛がって下さるからです。",
+        "audio_begin": 606000,
+        "audio_end": 610840
     },
     {
         "id": "f000177",
         "sentence": "竜宮の鯛の王様も、",
-        "sentence_with_furigana": "竜宮の鯛の王様も、"
+        "sentence_with_furigana": "竜宮の鯛の王様も、",
+        "audio_begin": 610840,
+        "audio_end": 612920
     },
     {
         "id": "f000178",
         "sentence": "お祈りが好きです。",
-        "sentence_with_furigana": "お祈りが好きです。"
+        "sentence_with_furigana": "お祈りが好きです。",
+        "audio_begin": 612920,
+        "audio_end": 614140
     },
     {
         "id": "f000179",
         "sentence": "ひらめの学校からは、",
-        "sentence_with_furigana": "ひらめの学校からは、"
+        "sentence_with_furigana": "ひらめの学校からは、",
+        "audio_begin": 616240,
+        "audio_end": 618040
     },
     {
         "id": "f000180",
         "sentence": "毎年、",
-        "sentence_with_furigana": "毎年、"
+        "sentence_with_furigana": "毎年、",
+        "audio_begin": 618040,
+        "audio_end": 618607
     },
     {
         "id": "f000181",
         "sentence": "竜宮へ留学生を出しますけれど、",
-        "sentence_with_furigana": "竜宮へ留学生を出しますけれど、"
+        "sentence_with_furigana": "竜宮へ留学生を出しますけれど、",
+        "audio_begin": 618607,
+        "audio_end": 621600
     },
     {
         "id": "f000182",
         "sentence": "しばらくして戻って来るひらめの学校の生徒は、",
-        "sentence_with_furigana": "しばらくして戻って来るひらめの学校の生徒は、"
+        "sentence_with_furigana": "しばらくして戻って来るひらめの学校の生徒は、",
+        "audio_begin": 621600,
+        "audio_end": 625760
     },
     {
         "id": "f000183",
         "sentence": "みんな立派になって戻って来ました。",
-        "sentence_with_furigana": "みんな立派になって戻って来ました。"
+        "sentence_with_furigana": "みんな立派になって戻って来ました。",
+        "audio_begin": 625760,
+        "audio_end": 628580
     },
     {
         "id": "f000184",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 630680,
+        "audio_end": 632040
     },
     {
         "id": "f000185",
         "sentence": "いつでも村の為になることばかりしようと競走します。",
-        "sentence_with_furigana": "いつでも村の為になることばかりしようと競走します。"
+        "sentence_with_furigana": "いつでも村の為になることばかりしようと競走します。",
+        "audio_begin": 632040,
+        "audio_end": 635840
     },
     {
         "id": "f000186",
         "sentence": "魚の国にはお金はないけれど、",
-        "sentence_with_furigana": "魚の国にはお金はないけれど、"
+        "sentence_with_furigana": "魚の国にはお金はないけれど、",
+        "audio_begin": 639440,
+        "audio_end": 643000
     },
     {
         "id": "f000187",
         "sentence": "みんなよく働き、",
-        "sentence_with_furigana": "みんなよく働き、"
+        "sentence_with_furigana": "みんなよく働き、",
+        "audio_begin": 643000,
+        "audio_end": 645120
     },
     {
         "id": "f000188",
         "sentence": "みんな仲よしでした。",
-        "sentence_with_furigana": "みんな仲よしでした。"
+        "sentence_with_furigana": "みんな仲よしでした。",
+        "audio_begin": 645120,
+        "audio_end": 646960
     },
     {
         "id": "f000189",
         "sentence": "校長先生はいつも、",
-        "sentence_with_furigana": "校長先生はいつも、"
+        "sentence_with_furigana": "校長先生はいつも、",
+        "audio_begin": 649760,
+        "audio_end": 651920
     },
     {
         "id": "f000190",
         "sentence": "眼鏡をかけたまま学校のなかをゆらゆら泳いでいらっしゃいます。",
-        "sentence_with_furigana": "眼鏡をかけたまま学校のなかをゆらゆら泳いでいらっしゃいます。"
+        "sentence_with_furigana": "眼鏡をかけたまま学校のなかをゆらゆら泳いでいらっしゃいます。",
+        "audio_begin": 651920,
+        "audio_end": 656240
     },
     {
         "id": "f000191",
         "sentence": "本当に、",
-        "sentence_with_furigana": "本当に、"
+        "sentence_with_furigana": "本当に、",
+        "audio_begin": 659040,
+        "audio_end": 659560
     },
     {
         "id": "f000192",
         "sentence": "その眼鏡はひらめ学校の校長先生にふさわしのものでした。",
-        "sentence_with_furigana": "その眼鏡はひらめ学校の校長先生にふさわしのものでした。"
+        "sentence_with_furigana": "その眼鏡はひらめ学校の校長先生にふさわしのものでした。",
+        "audio_begin": 659560,
+        "audio_end": 668440
     }
 ]

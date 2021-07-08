@@ -1,7 +1,6 @@
 [
     {
         "id": "Ashi-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -13,11 +12,12 @@
         "word_list": [
             "あし"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5680,
+        "sound_end": 8720
     },
     {
         "id": "Ashi-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -39,11 +39,12 @@
             "が",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 8720,
+        "sound_end": 11040
     },
     {
         "id": "Ashi-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -87,11 +88,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 11040,
+        "sound_end": 15160
     },
     {
         "id": "Ashi-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -107,11 +109,12 @@
             "と",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 16860,
+        "sound_end": 18120
     },
     {
         "id": "Ashi-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -141,11 +144,12 @@
             "で",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 18120,
+        "sound_end": 21000
     },
     {
         "id": "Ashi-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -183,11 +187,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 21000,
+        "sound_end": 24200
     },
     {
         "id": "Ashi-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -203,11 +208,12 @@
             "が",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 25800,
+        "sound_end": 27120
     },
     {
         "id": "Ashi-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -239,11 +245,12 @@
             "で",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 27120,
+        "sound_end": 30320
     },
     {
         "id": "Ashi-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -269,11 +276,12 @@
             "た",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 30320,
+        "sound_end": 33960
     },
     {
         "id": "Ashi-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -293,11 +301,12 @@
             "。",
             "」"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 33960,
+        "sound_end": 36053
     },
     {
         "id": "Ashi-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -329,11 +338,12 @@
             "も",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 36053,
+        "sound_end": 39920
     },
     {
         "id": "Ashi-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -353,11 +363,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 39920,
+        "sound_end": 42847
     },
     {
         "id": "Ashi-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -389,11 +400,12 @@
             "た",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 42847,
+        "sound_end": 45560
     },
     {
         "id": "Ashi-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -411,11 +423,12 @@
             "だ",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 47160,
+        "sound_end": 48520
     },
     {
         "id": "Ashi-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -435,11 +448,12 @@
             "いっぽん",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 48520,
+        "sound_end": 49640
     },
     {
         "id": "Ashi-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -469,11 +483,12 @@
             "。",
             "」"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 49640,
+        "sound_end": 53040
     },
     {
         "id": "Ashi-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -491,11 +506,12 @@
             "って",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 53040,
+        "sound_end": 53728
     },
     {
         "id": "Ashi-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -521,11 +537,12 @@
             "。",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 53728,
+        "sound_end": 56320
     },
     {
         "id": "Ashi-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -547,11 +564,12 @@
             "ちがう",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 56320,
+        "sound_end": 58040
     },
     {
         "id": "Ashi-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -575,11 +593,12 @@
             "。",
             "」"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 58040,
+        "sound_end": 60110
     },
     {
         "id": "Ashi-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -601,11 +620,12 @@
             "。",
             "」"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 60110,
+        "sound_end": 62520
     },
     {
         "id": "Ashi-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -635,11 +655,12 @@
             "もの",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 62520,
+        "sound_end": 66053
     },
     {
         "id": "Ashi-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -669,11 +690,12 @@
             "。",
             "」"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 66053,
+        "sound_end": 70480
     },
     {
         "id": "Ashi-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -689,11 +711,12 @@
             "で",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 70480,
+        "sound_end": 71408
     },
     {
         "id": "Ashi-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -713,11 +736,12 @@
             "は",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 71408,
+        "sound_end": 72960
     },
     {
         "id": "Ashi-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -755,11 +779,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 72960,
+        "sound_end": 77741
     },
     {
         "id": "Ashi-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -787,11 +812,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 77741,
+        "sound_end": 80800
     },
     {
         "id": "Ashi-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -809,11 +835,12 @@
             "もの",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 80800,
+        "sound_end": 83000
     },
     {
         "id": "Ashi-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -841,11 +868,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 83000,
+        "sound_end": 86480
     },
     {
         "id": "Ashi-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -859,11 +887,12 @@
             "よし",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 86480,
+        "sound_end": 87240
     },
     {
         "id": "Ashi-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -877,11 +906,12 @@
             "はやく",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 87240,
+        "sound_end": 87760
     },
     {
         "id": "Ashi-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -911,11 +941,12 @@
             "。",
             "」"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 87760,
+        "sound_end": 92160
     },
     {
         "id": "Ashi-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -931,11 +962,12 @@
             "で",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 92160,
+        "sound_end": 94000
     },
     {
         "id": "Ashi-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -967,11 +999,12 @@
             "た",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 94000,
+        "sound_end": 95800
     },
     {
         "id": "Ashi-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -989,11 +1022,12 @@
             "ァ",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 97600,
+        "sound_end": 98320
     },
     {
         "id": "Ashi-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1011,11 +1045,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 98320,
+        "sound_end": 99920
     },
     {
         "id": "Ashi-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1053,11 +1088,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 99920,
+        "sound_end": 102600
     },
     {
         "id": "Ashi-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1071,11 +1107,12 @@
             "よし",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 104300,
+        "sound_end": 104720
     },
     {
         "id": "Ashi-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1095,11 +1132,12 @@
             "やろう",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 104720,
+        "sound_end": 106896
     },
     {
         "id": "Ashi-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1129,11 +1167,12 @@
             "。",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 106896,
+        "sound_end": 111040
     },
     {
         "id": "Ashi-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1153,11 +1192,12 @@
             "で",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 111040,
+        "sound_end": 112760
     },
     {
         "id": "Ashi-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1185,11 +1225,12 @@
             "た",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 112760,
+        "sound_end": 116680
     },
     {
         "id": "Ashi-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1205,11 +1246,12 @@
             "は",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 116680,
+        "sound_end": 117680
     },
     {
         "id": "Ashi-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1225,11 +1267,12 @@
             "とも",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 117680,
+        "sound_end": 118520
     },
     {
         "id": "Ashi-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1253,11 +1296,12 @@
             "で",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 118520,
+        "sound_end": 120111
     },
     {
         "id": "Ashi-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1279,11 +1323,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 120111,
+        "sound_end": 121540
     },
     {
         "id": "Ashi-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1299,11 +1344,12 @@
             "は",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 123640,
+        "sound_end": 124774
     },
     {
         "id": "Ashi-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1323,11 +1369,12 @@
             "や",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 124774,
+        "sound_end": 126520
     },
     {
         "id": "Ashi-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1347,11 +1394,12 @@
             "を",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 126520,
+        "sound_end": 127910
     },
     {
         "id": "Ashi-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1375,11 +1423,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 127910,
+        "sound_end": 129520
     },
     {
         "id": "Ashi-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1393,11 +1442,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 131320,
+        "sound_end": 132469
     },
     {
         "id": "Ashi-f000053",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1425,11 +1475,12 @@
             "て",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 132469,
+        "sound_end": 134699
     },
     {
         "id": "Ashi-f000054",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1451,11 +1502,12 @@
             "た",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 134699,
+        "sound_end": 138360
     },
     {
         "id": "Ashi-f000055",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1491,11 +1543,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 138360,
+        "sound_end": 142100
     },
     {
         "id": "Ashi-f000056",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1515,11 +1568,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 144200,
+        "sound_end": 145640
     },
     {
         "id": "Ashi-f000057",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1551,11 +1605,12 @@
             "。",
             "」"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 145640,
+        "sound_end": 148276
     },
     {
         "id": "Ashi-f000058",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1579,11 +1634,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 148276,
+        "sound_end": 151550
     },
     {
         "id": "Ashi-f000059",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1599,11 +1655,12 @@
             "で",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 151550,
+        "sound_end": 152680
     },
     {
         "id": "Ashi-f000060",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1641,11 +1698,12 @@
             "た",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 152680,
+        "sound_end": 156920
     },
     {
         "id": "Ashi-f000061",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1659,11 +1717,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 156920,
+        "sound_end": 157811
     },
     {
         "id": "Ashi-f000062",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1683,11 +1742,12 @@
             "て",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 157811,
+        "sound_end": 159728
     },
     {
         "id": "Ashi-f000063",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1725,11 +1785,12 @@
             "た",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 159728,
+        "sound_end": 163600
     },
     {
         "id": "Ashi-f000064",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1749,11 +1810,12 @@
             "は",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 165500,
+        "sound_end": 167440
     },
     {
         "id": "Ashi-f000065",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1773,11 +1835,12 @@
             "。",
             "」"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 167440,
+        "sound_end": 168720
     },
     {
         "id": "Ashi-f000066",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1803,11 +1866,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 168720,
+        "sound_end": 172880
     },
     {
         "id": "Ashi-f000067",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1829,11 +1893,12 @@
             "みろ",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 172880,
+        "sound_end": 174120
     },
     {
         "id": "Ashi-f000068",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1857,11 +1922,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 174120,
+        "sound_end": 176178
     },
     {
         "id": "Ashi-f000069",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1877,11 +1943,12 @@
             "だろう",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 176178,
+        "sound_end": 177320
     },
     {
         "id": "Ashi-f000070",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1903,11 +1970,12 @@
             "。",
             "」"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 177320,
+        "sound_end": 179551
     },
     {
         "id": "Ashi-f000071",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1931,11 +1999,12 @@
             "。",
             "」"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 179551,
+        "sound_end": 182237
     },
     {
         "id": "Ashi-f000072",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -1967,11 +2036,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 182237,
+        "sound_end": 187400
     },
     {
         "id": "Ashi-f000073",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2001,11 +2071,12 @@
             "で",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 187400,
+        "sound_end": 190042
     },
     {
         "id": "Ashi-f000074",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2023,11 +2094,12 @@
             "も",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 190042,
+        "sound_end": 191480
     },
     {
         "id": "Ashi-f000075",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2047,11 +2119,12 @@
             "。",
             "」"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 191480,
+        "sound_end": 192414
     },
     {
         "id": "Ashi-f000076",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2065,11 +2138,12 @@
             "と",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 192414,
+        "sound_end": 192747
     },
     {
         "id": "Ashi-f000077",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2089,11 +2163,12 @@
             "た",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 192747,
+        "sound_end": 195520
     },
     {
         "id": "Ashi-f000078",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2107,11 +2182,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 195520,
+        "sound_end": 196446
     },
     {
         "id": "Ashi-f000079",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2131,11 +2207,12 @@
             "で",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 196446,
+        "sound_end": 198240
     },
     {
         "id": "Ashi-f000080",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2169,11 +2246,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 198240,
+        "sound_end": 201520
     },
     {
         "id": "Ashi-f000081",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Ashi",
         "deck_name_japanese": "あし",
@@ -2205,6 +2283,8 @@
             "た",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 201520,
+        "sound_end": 204240
     }
 ]

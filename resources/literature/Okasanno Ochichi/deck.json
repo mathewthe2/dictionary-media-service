@@ -2,341 +2,477 @@
     {
         "id": "f000001",
         "sentence": "小川未明　作",
-        "sentence_with_furigana": "小川未明　作"
+        "sentence_with_furigana": "小川未明　作",
+        "audio_begin": 0,
+        "audio_end": 5637
     },
     {
         "id": "f000002",
         "sentence": "お母さんのお乳",
-        "sentence_with_furigana": "お母さんのお乳"
+        "sentence_with_furigana": "お母さんのお乳",
+        "audio_begin": 5637,
+        "audio_end": 11080
     },
     {
         "id": "f000003",
         "sentence": "赤ちゃんは、",
-        "sentence_with_furigana": "赤[あか]ちゃんは、"
+        "sentence_with_furigana": "赤[あか]ちゃんは、",
+        "audio_begin": 11080,
+        "audio_end": 12400
     },
     {
         "id": "f000004",
         "sentence": "お母さんのお乳にすがりついて、",
-        "sentence_with_furigana": "お 母[かあ]さんのお 乳[ちち]にすがりついて、"
+        "sentence_with_furigana": "お 母[かあ]さんのお 乳[ちち]にすがりついて、",
+        "audio_begin": 12400,
+        "audio_end": 15520
     },
     {
         "id": "f000005",
         "sentence": "うまそうに、",
-        "sentence_with_furigana": "うまそうに、"
+        "sentence_with_furigana": "うまそうに、",
+        "audio_begin": 15520,
+        "audio_end": 16920
     },
     {
         "id": "f000006",
         "sentence": "のんでいました。",
-        "sentence_with_furigana": "のんでいました。"
+        "sentence_with_furigana": "のんでいました。",
+        "audio_begin": 16920,
+        "audio_end": 19518
     },
     {
         "id": "f000007",
         "sentence": "それをさもうらやましそうにして、",
-        "sentence_with_furigana": "それをさもうらやましそうにして、"
+        "sentence_with_furigana": "それをさもうらやましそうにして、",
+        "audio_begin": 19518,
+        "audio_end": 23440
     },
     {
         "id": "f000008",
         "sentence": "五つになったお兄さんと、",
-        "sentence_with_furigana": "五つになったお 兄[にい]さんと、"
+        "sentence_with_furigana": "五つになったお 兄[にい]さんと、",
+        "audio_begin": 23440,
+        "audio_end": 26200
     },
     {
         "id": "f000009",
         "sentence": "七つになったお姉さんとがながめていました。",
-        "sentence_with_furigana": "七つになったお 姉[ねえ]さんとがながめていました。"
+        "sentence_with_furigana": "七つになったお 姉[ねえ]さんとがながめていました。",
+        "audio_begin": 26200,
+        "audio_end": 32200
     },
     {
         "id": "f000010",
         "sentence": "兄さんは、",
-        "sentence_with_furigana": "兄[にい]さんは、"
+        "sentence_with_furigana": "兄[にい]さんは、",
+        "audio_begin": 32200,
+        "audio_end": 33120
     },
     {
         "id": "f000011",
         "sentence": "ついに我慢がしきれなくなったとみえて、",
-        "sentence_with_furigana": "ついに 我慢[がまん]がしきれなくなったとみえて、"
+        "sentence_with_furigana": "ついに 我慢[がまん]がしきれなくなったとみえて、",
+        "audio_begin": 33120,
+        "audio_end": 37920
     },
     {
         "id": "f000012",
         "sentence": "お母さんのお乳に、",
-        "sentence_with_furigana": "お 母[かあ]さんのお 乳[ちち]に、"
+        "sentence_with_furigana": "お 母[かあ]さんのお 乳[ちち]に、",
+        "audio_begin": 37920,
+        "audio_end": 40130
     },
     {
         "id": "f000013",
         "sentence": "小さな手をかけようとしました。",
-        "sentence_with_furigana": "小[ちい]さな 手[て]をかけようとしました。"
+        "sentence_with_furigana": "小[ちい]さな 手[て]をかけようとしました。",
+        "audio_begin": 40130,
+        "audio_end": 44640
     },
     {
         "id": "f000014",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 44640,
+        "audio_end": 45720
     },
     {
         "id": "f000015",
         "sentence": "赤ちゃんは、",
-        "sentence_with_furigana": "赤[あか]ちゃんは、"
+        "sentence_with_furigana": "赤[あか]ちゃんは、",
+        "audio_begin": 45720,
+        "audio_end": 46986
     },
     {
         "id": "f000016",
         "sentence": "顔を真っ赤にして、",
-        "sentence_with_furigana": "顔[かお]を 真[ま]っ 赤[か]にして、"
+        "sentence_with_furigana": "顔[かお]を 真[ま]っ 赤[か]にして、",
+        "audio_begin": 46986,
+        "audio_end": 49040
     },
     {
         "id": "f000017",
         "sentence": "かわいらしい頭をふって、",
-        "sentence_with_furigana": "かわいらしい 頭[あたま]をふって、"
+        "sentence_with_furigana": "かわいらしい 頭[あたま]をふって、",
+        "audio_begin": 49040,
+        "audio_end": 52065
     },
     {
         "id": "f000018",
         "sentence": "さわってはいけないといって怒りました。",
-        "sentence_with_furigana": "さわってはいけないといって 怒[おこ]りました。"
+        "sentence_with_furigana": "さわってはいけないといって 怒[おこ]りました。",
+        "audio_begin": 52065,
+        "audio_end": 58480
     },
     {
         "id": "f000019",
         "sentence": "「よし、",
-        "sentence_with_furigana": "「よし、"
+        "sentence_with_furigana": "「よし、",
+        "audio_begin": 58480,
+        "audio_end": 58840
     },
     {
         "id": "f000020",
         "sentence": "よし、",
-        "sentence_with_furigana": "よし、"
+        "sentence_with_furigana": "よし、",
+        "audio_begin": 58840,
+        "audio_end": 59480
     },
     {
         "id": "f000021",
         "sentence": "お兄さん、",
-        "sentence_with_furigana": "お 兄[にい]さん、"
+        "sentence_with_furigana": "お 兄[にい]さん、",
+        "audio_begin": 59480,
+        "audio_end": 61120
     },
     {
         "id": "f000022",
         "sentence": "おっぱいにさわってはいけませんよ。",
-        "sentence_with_furigana": "おっぱいにさわってはいけませんよ。"
+        "sentence_with_furigana": "おっぱいにさわってはいけませんよ。",
+        "audio_begin": 61120,
+        "audio_end": 64474
     },
     {
         "id": "f000023",
         "sentence": "これは、",
-        "sentence_with_furigana": "これは、"
+        "sentence_with_furigana": "これは、",
+        "audio_begin": 64474,
+        "audio_end": 65519
     },
     {
         "id": "f000024",
         "sentence": "赤ちゃんのお乳ですから。",
-        "sentence_with_furigana": "赤[あか]ちゃんのお 乳[ちち]ですから。"
+        "sentence_with_furigana": "赤[あか]ちゃんのお 乳[ちち]ですから。",
+        "audio_begin": 65519,
+        "audio_end": 68670
     },
     {
         "id": "f000025",
         "sentence": "」と、",
-        "sentence_with_furigana": "」と、"
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 68670,
+        "audio_end": 69343
     },
     {
         "id": "f000026",
         "sentence": "お母さんは、",
-        "sentence_with_furigana": "お 母[かあ]さんは、"
+        "sentence_with_furigana": "お 母[かあ]さんは、",
+        "audio_begin": 69343,
+        "audio_end": 70760
     },
     {
         "id": "f000027",
         "sentence": "笑いながらいわれました。",
-        "sentence_with_furigana": "笑[わら]いながらいわれました。"
+        "sentence_with_furigana": "笑[わら]いながらいわれました。",
+        "audio_begin": 70760,
+        "audio_end": 74960
     },
     {
         "id": "f000028",
         "sentence": "お姉さんも、",
-        "sentence_with_furigana": "お 姉[ねえ]さんも、"
+        "sentence_with_furigana": "お 姉[ねえ]さんも、",
+        "audio_begin": 74960,
+        "audio_end": 76400
     },
     {
         "id": "f000029",
         "sentence": "またお兄さんも、",
-        "sentence_with_furigana": "またお 兄[にい]さんも、"
+        "sentence_with_furigana": "またお 兄[にい]さんも、",
+        "audio_begin": 76400,
+        "audio_end": 77920
     },
     {
         "id": "f000030",
         "sentence": "笑いましたが、",
-        "sentence_with_furigana": "笑[わら]いましたが、"
+        "sentence_with_furigana": "笑[わら]いましたが、",
+        "audio_begin": 77920,
+        "audio_end": 79680
     },
     {
         "id": "f000031",
         "sentence": "お兄さんは、",
-        "sentence_with_furigana": "お 兄[にい]さんは、"
+        "sentence_with_furigana": "お 兄[にい]さんは、",
+        "audio_begin": 79680,
+        "audio_end": 81080
     },
     {
         "id": "f000032",
         "sentence": "なんとなくさびしそうでした。",
-        "sentence_with_furigana": "なんとなくさびしそうでした。"
+        "sentence_with_furigana": "なんとなくさびしそうでした。",
+        "audio_begin": 81080,
+        "audio_end": 85007
     },
     {
         "id": "f000033",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 85007,
+        "audio_end": 86240
     },
     {
         "id": "f000034",
         "sentence": "お母さんに向かって、",
-        "sentence_with_furigana": "お 母[かあ]さんに 向[む]かって、"
+        "sentence_with_furigana": "お 母[かあ]さんに 向[む]かって、",
+        "audio_begin": 86240,
+        "audio_end": 88840
     },
     {
         "id": "f000035",
         "sentence": "「お母さん、",
-        "sentence_with_furigana": "「お 母[かあ]さん、"
+        "sentence_with_furigana": "「お 母[かあ]さん、",
+        "audio_begin": 88840,
+        "audio_end": 90280
     },
     {
         "id": "f000036",
         "sentence": "赤ちゃんは、",
-        "sentence_with_furigana": "赤[あか]ちゃんは、"
+        "sentence_with_furigana": "赤[あか]ちゃんは、",
+        "audio_begin": 90280,
+        "audio_end": 91680
     },
     {
         "id": "f000037",
         "sentence": "いじわるですねえ。",
-        "sentence_with_furigana": "いじわるですねえ。"
+        "sentence_with_furigana": "いじわるですねえ。",
+        "audio_begin": 91680,
+        "audio_end": 93914
     },
     {
         "id": "f000038",
         "sentence": "」といいました。",
-        "sentence_with_furigana": "」といいました。"
+        "sentence_with_furigana": "」といいました。",
+        "audio_begin": 93914,
+        "audio_end": 96874
     },
     {
         "id": "f000039",
         "sentence": "「坊やも、",
-        "sentence_with_furigana": "「 坊[ぼう]やも、"
+        "sentence_with_furigana": "「 坊[ぼう]やも、",
+        "audio_begin": 96874,
+        "audio_end": 98120
     },
     {
         "id": "f000040",
         "sentence": "赤ちゃんの時分は、",
-        "sentence_with_furigana": "赤[あか]ちゃんの 時分[じぶん]は、"
+        "sentence_with_furigana": "赤[あか]ちゃんの 時分[じぶん]は、",
+        "audio_begin": 98120,
+        "audio_end": 100120
     },
     {
         "id": "f000041",
         "sentence": "やはりおなじだったのだよ。」",
-        "sentence_with_furigana": "やはりおなじだったのだよ。」"
+        "sentence_with_furigana": "やはりおなじだったのだよ。」",
+        "audio_begin": 100120,
+        "audio_end": 103840
     },
     {
         "id": "f000042",
         "sentence": "「お母さん、",
-        "sentence_with_furigana": "「お 母[かあ]さん、"
+        "sentence_with_furigana": "「お 母[かあ]さん、",
+        "audio_begin": 103840,
+        "audio_end": 105287
     },
     {
         "id": "f000043",
         "sentence": "僕もこんなに、",
-        "sentence_with_furigana": "僕[ぼく]もこんなに、"
+        "sentence_with_furigana": "僕[ぼく]もこんなに、",
+        "audio_begin": 105287,
+        "audio_end": 107280
     },
     {
         "id": "f000044",
         "sentence": "いじわるだったの？」",
-        "sentence_with_furigana": "いじわるだったの？」"
+        "sentence_with_furigana": "いじわるだったの？」",
+        "audio_begin": 107280,
+        "audio_end": 110800
     },
     {
         "id": "f000045",
         "sentence": "「赤ちゃんが生まれるまでは、",
-        "sentence_with_furigana": "「 赤[あか]ちゃんが 生[う]まれるまでは、"
+        "sentence_with_furigana": "「 赤[あか]ちゃんが 生[う]まれるまでは、",
+        "audio_begin": 110800,
+        "audio_end": 113440
     },
     {
         "id": "f000046",
         "sentence": "坊やが、",
-        "sentence_with_furigana": "坊[ぼう]やが、"
+        "sentence_with_furigana": "坊[ぼう]やが、",
+        "audio_begin": 113440,
+        "audio_end": 114680
     },
     {
         "id": "f000047",
         "sentence": "毎日こうして、",
-        "sentence_with_furigana": "毎日[まいにち]こうして、"
+        "sentence_with_furigana": "毎日[まいにち]こうして、",
+        "audio_begin": 114680,
+        "audio_end": 116200
     },
     {
         "id": "f000048",
         "sentence": "母さんのおっぱいにぶらさがっていたの。",
-        "sentence_with_furigana": "母[かあ]さんのおっぱいにぶらさがっていたの。"
+        "sentence_with_furigana": "母[かあ]さんのおっぱいにぶらさがっていたの。",
+        "audio_begin": 116200,
+        "audio_end": 120720
     },
     {
         "id": "f000049",
         "sentence": "そしてお姉ちゃんが手を出そうものなら、",
-        "sentence_with_furigana": "そしてお 姉[ねえ]ちゃんが 手[て]を 出[だ]そうものなら、"
+        "sentence_with_furigana": "そしてお 姉[ねえ]ちゃんが 手[て]を 出[だ]そうものなら、",
+        "audio_begin": 120720,
+        "audio_end": 125360
     },
     {
         "id": "f000050",
         "sentence": "やはり、",
-        "sentence_with_furigana": "やはり、"
+        "sentence_with_furigana": "やはり、",
+        "audio_begin": 125360,
+        "audio_end": 125840
     },
     {
         "id": "f000051",
         "sentence": "こうして顔を真っ赤にして怒ったの……。",
-        "sentence_with_furigana": "こうして 顔[かお]を 真[ま]っ 赤[か]にして 怒[おこ]ったの……。"
+        "sentence_with_furigana": "こうして 顔[かお]を 真[ま]っ 赤[か]にして 怒[おこ]ったの……。",
+        "audio_begin": 125840,
+        "audio_end": 132230
     },
     {
         "id": "f000052",
         "sentence": "このお乳のまわりには、",
-        "sentence_with_furigana": "このお 乳[ちち]のまわりには、"
+        "sentence_with_furigana": "このお 乳[ちち]のまわりには、",
+        "audio_begin": 132230,
+        "audio_end": 134880
     },
     {
         "id": "f000053",
         "sentence": "みんなの唇の跡が、",
-        "sentence_with_furigana": "みんなの 唇[くちびる]の 跡[あと]が、"
+        "sentence_with_furigana": "みんなの 唇[くちびる]の 跡[あと]が、",
+        "audio_begin": 134880,
+        "audio_end": 137040
     },
     {
         "id": "f000054",
         "sentence": "数かぎりなくついているのです。",
-        "sentence_with_furigana": "数[かず]かぎりなくついているのです。"
+        "sentence_with_furigana": "数[かず]かぎりなくついているのです。",
+        "audio_begin": 137040,
+        "audio_end": 141947
     },
     {
         "id": "f000055",
         "sentence": "」と、",
-        "sentence_with_furigana": "」と、"
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 141947,
+        "audio_end": 142640
     },
     {
         "id": "f000056",
         "sentence": "お母さんはいわれました。",
-        "sentence_with_furigana": "お 母[かあ]さんはいわれました。"
+        "sentence_with_furigana": "お 母[かあ]さんはいわれました。",
+        "audio_begin": 142640,
+        "audio_end": 146447
     },
     {
         "id": "f000057",
         "sentence": "このお話を聞くと、",
-        "sentence_with_furigana": "このお 話[はなし]を 聞[き]くと、"
+        "sentence_with_furigana": "このお 話[はなし]を 聞[き]くと、",
+        "audio_begin": 146447,
+        "audio_end": 148840
     },
     {
         "id": "f000058",
         "sentence": "お姉さんも、",
-        "sentence_with_furigana": "お 姉[ねえ]さんも、"
+        "sentence_with_furigana": "お 姉[ねえ]さんも、",
+        "audio_begin": 148840,
+        "audio_end": 150240
     },
     {
         "id": "f000059",
         "sentence": "そうであったかというように、",
-        "sentence_with_furigana": "そうであったかというように、"
+        "sentence_with_furigana": "そうであったかというように、",
+        "audio_begin": 150240,
+        "audio_end": 152320
     },
     {
         "id": "f000060",
         "sentence": "かわいらしい目を輝かしました。",
-        "sentence_with_furigana": "かわいらしい 目[め]を 輝[かがや]かしました。"
+        "sentence_with_furigana": "かわいらしい 目[め]を 輝[かがや]かしました。",
+        "audio_begin": 152320,
+        "audio_end": 157480
     },
     {
         "id": "f000061",
         "sentence": "しかし、",
-        "sentence_with_furigana": "しかし、"
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 157480,
+        "audio_end": 158760
     },
     {
         "id": "f000062",
         "sentence": "お姉さんも、",
-        "sentence_with_furigana": "お 姉[ねえ]さんも、"
+        "sentence_with_furigana": "お 姉[ねえ]さんも、",
+        "audio_begin": 158760,
+        "audio_end": 160560
     },
     {
         "id": "f000063",
         "sentence": "お兄さんも、",
-        "sentence_with_furigana": "お 兄[にい]さんも、"
+        "sentence_with_furigana": "お 兄[にい]さんも、",
+        "audio_begin": 160560,
+        "audio_end": 162159
     },
     {
         "id": "f000064",
         "sentence": "そんなにして毎日飲んだ、",
-        "sentence_with_furigana": "そんなにして 毎日[まいにち] 飲[の]んだ、"
+        "sentence_with_furigana": "そんなにして 毎日[まいにち] 飲[の]んだ、",
+        "audio_begin": 162159,
+        "audio_end": 164800
     },
     {
         "id": "f000065",
         "sentence": "お乳の味を忘れてしまって、",
-        "sentence_with_furigana": "お 乳[ちち]の 味[あじ]を 忘[わす]れてしまって、"
+        "sentence_with_furigana": "お 乳[ちち]の 味[あじ]を 忘[わす]れてしまって、",
+        "audio_begin": 164800,
+        "audio_end": 168195
     },
     {
         "id": "f000066",
         "sentence": "ただお乳を見ると恋しいばかり。",
-        "sentence_with_furigana": "ただお 乳[ちち]を 見[み]ると 恋[こい]しいばかり。"
+        "sentence_with_furigana": "ただお 乳[ちち]を 見[み]ると 恋[こい]しいばかり。",
+        "audio_begin": 168195,
+        "audio_end": 172920
     },
     {
         "id": "f000067",
         "sentence": "赤ちゃんだけが、",
-        "sentence_with_furigana": "赤[あか]ちゃんだけが、"
+        "sentence_with_furigana": "赤[あか]ちゃんだけが、",
+        "audio_begin": 172920,
+        "audio_end": 174680
     },
     {
         "id": "f000068",
         "sentence": "お乳の味を知っていました。",
-        "sentence_with_furigana": "お 乳[ちち]の 味[あじ]を 知[し]っていました。"
+        "sentence_with_furigana": "お 乳[ちち]の 味[あじ]を 知[し]っていました。",
+        "audio_begin": 174680,
+        "audio_end": 180040
     }
 ]

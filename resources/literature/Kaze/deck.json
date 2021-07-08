@@ -1,0 +1,625 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "竹久夢二　作",
+        "sentence_with_furigana": "竹久夢二　作",
+        "audio_begin": 2828,
+        "audio_end": 4480
+    },
+    {
+        "id": "f000002",
+        "sentence": "風",
+        "sentence_with_furigana": "風",
+        "audio_begin": 4480,
+        "audio_end": 6200
+    },
+    {
+        "id": "f000003",
+        "sentence": "風が、",
+        "sentence_with_furigana": "風が、",
+        "audio_begin": 8500,
+        "audio_end": 9160
+    },
+    {
+        "id": "f000004",
+        "sentence": "山の方から吹いて来ました。",
+        "sentence_with_furigana": "山の方から吹いて来ました。",
+        "audio_begin": 9160,
+        "audio_end": 12200
+    },
+    {
+        "id": "f000005",
+        "sentence": "学校の先生がお通りになると、",
+        "sentence_with_furigana": "学校の先生がお通りになると、",
+        "audio_begin": 12200,
+        "audio_end": 14920
+    },
+    {
+        "id": "f000006",
+        "sentence": "街で遊んでいた生徒達が、",
+        "sentence_with_furigana": "街で遊んでいた生徒 達[たち]が、",
+        "audio_begin": 14920,
+        "audio_end": 17240
+    },
+    {
+        "id": "f000007",
+        "sentence": "みんなお辞儀をするように、",
+        "sentence_with_furigana": "みんなお辞儀をするように、",
+        "audio_begin": 17240,
+        "audio_end": 18760
+    },
+    {
+        "id": "f000008",
+        "sentence": "風が通ると、",
+        "sentence_with_furigana": "風が通ると、",
+        "audio_begin": 18760,
+        "audio_end": 21160
+    },
+    {
+        "id": "f000009",
+        "sentence": "林に立っている若い梢も、",
+        "sentence_with_furigana": "林に立っている若い 梢[こずえ]も、",
+        "audio_begin": 21160,
+        "audio_end": 23560
+    },
+    {
+        "id": "f000010",
+        "sentence": "野の草も、",
+        "sentence_with_furigana": "野の草も、",
+        "audio_begin": 23560,
+        "audio_end": 24960
+    },
+    {
+        "id": "f000011",
+        "sentence": "みんなお辞儀をするのでした。",
+        "sentence_with_furigana": "みんなお辞儀をするのでした。",
+        "audio_begin": 24960,
+        "audio_end": 26680
+    },
+    {
+        "id": "f000012",
+        "sentence": "風は、",
+        "sentence_with_furigana": "風は、",
+        "audio_begin": 28580,
+        "audio_end": 29440
+    },
+    {
+        "id": "f000013",
+        "sentence": "街の方へも吹いて来ました。",
+        "sentence_with_furigana": "街の方へも吹いて来ました。",
+        "audio_begin": 29440,
+        "audio_end": 32560
+    },
+    {
+        "id": "f000014",
+        "sentence": "それはたいそう面白そうでした。",
+        "sentence_with_furigana": "それはたいそう面白そうでした。",
+        "audio_begin": 32560,
+        "audio_end": 35524
+    },
+    {
+        "id": "f000015",
+        "sentence": "教会の十字塔を吹いたり、",
+        "sentence_with_furigana": "教会の十字塔を吹いたり、",
+        "audio_begin": 35524,
+        "audio_end": 38360
+    },
+    {
+        "id": "f000016",
+        "sentence": "煙突の口で鳴ったり、",
+        "sentence_with_furigana": "煙突の口で鳴ったり、",
+        "audio_begin": 38360,
+        "audio_end": 41160
+    },
+    {
+        "id": "f000017",
+        "sentence": "街の角を廻るとき蜻蛉返りをしたりする様子は、",
+        "sentence_with_furigana": "街の角を 廻[まわ]るとき 蜻蛉[とんぼ]返りをしたりする様子は、",
+        "audio_begin": 41160,
+        "audio_end": 45200
+    },
+    {
+        "id": "f000018",
+        "sentence": "とても面白そうで、",
+        "sentence_with_furigana": "とても面白そうで、",
+        "audio_begin": 45200,
+        "audio_end": 46680
+    },
+    {
+        "id": "f000019",
+        "sentence": "恰度子供達が「鬼ごっこするもん寄っといで」と言うように、",
+        "sentence_with_furigana": "恰度[ちょうど]子供達が「鬼ごっこするもん寄っといで」と言うように、",
+        "audio_begin": 46680,
+        "audio_end": 53760
+    },
+    {
+        "id": "f000020",
+        "sentence": "「ダンスをするもん寄っといで」といいながら、",
+        "sentence_with_furigana": "「ダンスをするもん寄っといで」といいながら、",
+        "audio_begin": 53760,
+        "audio_end": 56800
+    },
+    {
+        "id": "f000021",
+        "sentence": "風の遊仲間を集めるのでした。",
+        "sentence_with_furigana": "風の 遊仲間[あそびなかま]を集めるのでした。",
+        "audio_begin": 56800,
+        "audio_end": 59760
+    },
+    {
+        "id": "f000022",
+        "sentence": "風が面白そうな歌をうたいながら、",
+        "sentence_with_furigana": "風が面白そうな歌をうたいながら、",
+        "audio_begin": 61960,
+        "audio_end": 64920
+    },
+    {
+        "id": "f000023",
+        "sentence": "ダンスをして躍廻るので、",
+        "sentence_with_furigana": "ダンスをして 躍廻[おどりまわ]るので、",
+        "audio_begin": 64920,
+        "audio_end": 67621
+    },
+    {
+        "id": "f000024",
+        "sentence": "干物台のエプロンや、",
+        "sentence_with_furigana": "干物台のエプロンや、",
+        "audio_begin": 67621,
+        "audio_end": 70012
+    },
+    {
+        "id": "f000025",
+        "sentence": "子供の着物もダンスをはじめます。",
+        "sentence_with_furigana": "子供の着物もダンスをはじめます。",
+        "audio_begin": 70012,
+        "audio_end": 73381
+    },
+    {
+        "id": "f000026",
+        "sentence": "すると木の葉も、",
+        "sentence_with_furigana": "すると木の葉も、",
+        "audio_begin": 73381,
+        "audio_end": 75760
+    },
+    {
+        "id": "f000027",
+        "sentence": "枝の端で踊りだす。",
+        "sentence_with_furigana": "枝の端で踊りだす。",
+        "audio_begin": 75760,
+        "audio_end": 78600
+    },
+    {
+        "id": "f000028",
+        "sentence": "街に落ちていた煙草の吸殻も、",
+        "sentence_with_furigana": "街に落ちていた 煙草[たばこ]の吸殻も、",
+        "audio_begin": 78600,
+        "audio_end": 81600
+    },
+    {
+        "id": "f000029",
+        "sentence": "紙屑も空に舞上って踊るのでした。",
+        "sentence_with_furigana": "紙屑[かみくず]も空に 舞上[まいあが]って踊るのでした。",
+        "audio_begin": 81600,
+        "audio_end": 85040
+    },
+    {
+        "id": "f000030",
+        "sentence": "その時、",
+        "sentence_with_furigana": "その時、",
+        "audio_begin": 87040,
+        "audio_end": 88235
+    },
+    {
+        "id": "f000031",
+        "sentence": "街を歩いていた幸太郎という子供の帽子が浮かれだして、",
+        "sentence_with_furigana": "街を歩いていた 幸太郎[こうたろう]という子供の帽子が浮かれだして、",
+        "audio_begin": 88235,
+        "audio_end": 93769
+    },
+    {
+        "id": "f000032",
+        "sentence": "いつの間にか、",
+        "sentence_with_furigana": "いつの間にか、",
+        "audio_begin": 93769,
+        "audio_end": 94960
+    },
+    {
+        "id": "f000033",
+        "sentence": "幸太郎の頭から飛下りて、",
+        "sentence_with_furigana": "幸太郎[こうたろう]の頭から飛下りて、",
+        "audio_begin": 94960,
+        "audio_end": 97892
+    },
+    {
+        "id": "f000034",
+        "sentence": "ダンスをしながら街を駆けだしました。",
+        "sentence_with_furigana": "ダンスをしながら街を駆けだしました。",
+        "audio_begin": 97892,
+        "audio_end": 102360
+    },
+    {
+        "id": "f000035",
+        "sentence": "その帽子には、",
+        "sentence_with_furigana": "その帽子には、",
+        "audio_begin": 102360,
+        "audio_end": 103709
+    },
+    {
+        "id": "f000036",
+        "sentence": "長いリボンがついていたから、",
+        "sentence_with_furigana": "長いリボンがついていたから、",
+        "audio_begin": 103709,
+        "audio_end": 106364
+    },
+    {
+        "id": "f000037",
+        "sentence": "遠くから見るとまるで鳥のように飛ぶのでした。",
+        "sentence_with_furigana": "遠くから見るとまるで鳥のように飛ぶのでした。",
+        "audio_begin": 106364,
+        "audio_end": 111879
+    },
+    {
+        "id": "f000038",
+        "sentence": "幸太郎は、",
+        "sentence_with_furigana": "幸太郎は、",
+        "audio_begin": 111879,
+        "audio_end": 112632
+    },
+    {
+        "id": "f000039",
+        "sentence": "驚いて、",
+        "sentence_with_furigana": "驚いて、",
+        "audio_begin": 112632,
+        "audio_end": 113440
+    },
+    {
+        "id": "f000040",
+        "sentence": "「止れ！",
+        "sentence_with_furigana": "「止れ！",
+        "audio_begin": 113440,
+        "audio_end": 114200
+    },
+    {
+        "id": "f000041",
+        "sentence": "」と号令をかけたが、",
+        "sentence_with_furigana": "」と号令をかけたが、",
+        "audio_begin": 114200,
+        "audio_end": 116642
+    },
+    {
+        "id": "f000042",
+        "sentence": "帽子は聞えないふりをして、",
+        "sentence_with_furigana": "帽子は聞えないふりをして、",
+        "audio_begin": 116642,
+        "audio_end": 118840
+    },
+    {
+        "id": "f000043",
+        "sentence": "風とふざけながら、",
+        "sentence_with_furigana": "風とふざけながら、",
+        "audio_begin": 118840,
+        "audio_end": 120464
+    },
+    {
+        "id": "f000044",
+        "sentence": "どんどん大通りの方までとんでゆきます。",
+        "sentence_with_furigana": "どんどん大通りの方までとんでゆきます。",
+        "audio_begin": 120464,
+        "audio_end": 124520
+    },
+    {
+        "id": "f000045",
+        "sentence": "一生懸命に、",
+        "sentence_with_furigana": "一生懸命に、",
+        "audio_begin": 124520,
+        "audio_end": 125480
+    },
+    {
+        "id": "f000046",
+        "sentence": "幸太郎は追っかけたから、",
+        "sentence_with_furigana": "幸太郎は追っかけたから、",
+        "audio_begin": 125480,
+        "audio_end": 127354
+    },
+    {
+        "id": "f000047",
+        "sentence": "やっとのことで追いついて、",
+        "sentence_with_furigana": "やっとのことで追いついて、",
+        "audio_begin": 127354,
+        "audio_end": 129330
+    },
+    {
+        "id": "f000048",
+        "sentence": "帽子のリボンを押えようとすると、",
+        "sentence_with_furigana": "帽子のリボンを押えようとすると、",
+        "audio_begin": 129330,
+        "audio_end": 132560
+    },
+    {
+        "id": "f000049",
+        "sentence": "またどっと風が吹いてきたので、",
+        "sentence_with_furigana": "またどっと風が吹いてきたので、",
+        "audio_begin": 132560,
+        "audio_end": 135373
+    },
+    {
+        "id": "f000050",
+        "sentence": "こんどはまるで輪のようにくるくると廻りながら駆けだしました。",
+        "sentence_with_furigana": "こんどはまるで輪のようにくるくると 廻[まわ]りながら駆けだしました。",
+        "audio_begin": 135373,
+        "audio_end": 141640
+    },
+    {
+        "id": "f000051",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「坊ちゃん、",
+        "audio_begin": 141640,
+        "audio_end": 142520
+    },
+    {
+        "id": "f000052",
+        "sentence": "なかなかつかまりませんよ。」",
+        "sentence_with_furigana": "なかなかつかまりませんよ。」",
+        "audio_begin": 142520,
+        "audio_end": 145080
+    },
+    {
+        "id": "f000053",
+        "sentence": "帽子が駆けながらいうのです。",
+        "sentence_with_furigana": "帽子が駆けながらいうのです。",
+        "audio_begin": 145080,
+        "audio_end": 148043
+    },
+    {
+        "id": "f000054",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 148043,
+        "audio_end": 149240
+    },
+    {
+        "id": "f000055",
+        "sentence": "こんどは大通から横町の方へ風が吹きまわしたので、",
+        "sentence_with_furigana": "こんどは 大通[おおどおり]から横町の方へ風が吹きまわしたので、",
+        "audio_begin": 149240,
+        "audio_end": 153596
+    },
+    {
+        "id": "f000056",
+        "sentence": "幸太郎の帽子も、",
+        "sentence_with_furigana": "幸太郎の帽子も、",
+        "audio_begin": 153596,
+        "audio_end": 155200
+    },
+    {
+        "id": "f000057",
+        "sentence": "風と一しょに、",
+        "sentence_with_furigana": "風と一しょに、",
+        "audio_begin": 155200,
+        "audio_end": 156440
+    },
+    {
+        "id": "f000058",
+        "sentence": "横町へ曲ってしまいました。",
+        "sentence_with_furigana": "横町へ曲ってしまいました。",
+        "audio_begin": 156440,
+        "audio_end": 159489
+    },
+    {
+        "id": "f000059",
+        "sentence": "そしてそこにあったビール樽のかげへかくれました。",
+        "sentence_with_furigana": "そしてそこにあったビール 樽[たる]のかげへかくれました。",
+        "audio_begin": 159489,
+        "audio_end": 164383
+    },
+    {
+        "id": "f000060",
+        "sentence": "幸太郎は大急ぎで、",
+        "sentence_with_furigana": "幸太郎は大急ぎで、",
+        "audio_begin": 164383,
+        "audio_end": 166440
+    },
+    {
+        "id": "f000061",
+        "sentence": "横町の角まできたが、",
+        "sentence_with_furigana": "横町の角まできたが、",
+        "audio_begin": 166440,
+        "audio_end": 168200
+    },
+    {
+        "id": "f000062",
+        "sentence": "帽子は見つかりません。",
+        "sentence_with_furigana": "帽子は見つかりません。",
+        "audio_begin": 168200,
+        "audio_end": 170916
+    },
+    {
+        "id": "f000063",
+        "sentence": "「ぼくの帽子がないや」",
+        "sentence_with_furigana": "「ぼくの帽子がないや」",
+        "audio_begin": 170916,
+        "audio_end": 173760
+    },
+    {
+        "id": "f000064",
+        "sentence": "幸太郎は、",
+        "sentence_with_furigana": "幸太郎は、",
+        "audio_begin": 173760,
+        "audio_end": 174960
+    },
+    {
+        "id": "f000065",
+        "sentence": "もう泣きだしそうになって言いました。",
+        "sentence_with_furigana": "もう泣きだしそうになって言いました。",
+        "audio_begin": 174960,
+        "audio_end": 178360
+    },
+    {
+        "id": "f000066",
+        "sentence": "帽子をつれていった風も、",
+        "sentence_with_furigana": "帽子をつれていった風も、",
+        "audio_begin": 178360,
+        "audio_end": 180160
+    },
+    {
+        "id": "f000067",
+        "sentence": "幸太郎を気の毒になってきて、",
+        "sentence_with_furigana": "幸太郎を気の毒になってきて、",
+        "audio_begin": 180160,
+        "audio_end": 182680
+    },
+    {
+        "id": "f000068",
+        "sentence": "「坊ちゃん、",
+        "sentence_with_furigana": "「坊ちゃん、",
+        "audio_begin": 182680,
+        "audio_end": 184440
+    },
+    {
+        "id": "f000069",
+        "sentence": "私が見つけてあげましょう。」",
+        "sentence_with_furigana": "私が見つけてあげましょう。」",
+        "audio_begin": 184440,
+        "audio_end": 187360
+    },
+    {
+        "id": "f000070",
+        "sentence": "そういって、",
+        "sentence_with_furigana": "そういって、",
+        "audio_begin": 187360,
+        "audio_end": 188160
+    },
+    {
+        "id": "f000071",
+        "sentence": "ビール樽のかげの帽子のしっぽを、",
+        "sentence_with_furigana": "ビール樽のかげの帽子のしっぽを、",
+        "audio_begin": 188160,
+        "audio_end": 190645
+    },
+    {
+        "id": "f000072",
+        "sentence": "ひらひらと吹いて見せました。",
+        "sentence_with_furigana": "ひらひらと吹いて見せました。",
+        "audio_begin": 190645,
+        "audio_end": 192560
+    },
+    {
+        "id": "f000073",
+        "sentence": "幸太郎は、",
+        "sentence_with_furigana": "幸太郎は、",
+        "audio_begin": 192560,
+        "audio_end": 195040
+    },
+    {
+        "id": "f000074",
+        "sentence": "すぐ帽子のある所を見つけました。",
+        "sentence_with_furigana": "すぐ帽子のある所を見つけました。",
+        "audio_begin": 195040,
+        "audio_end": 198081
+    },
+    {
+        "id": "f000075",
+        "sentence": "「万歳！」",
+        "sentence_with_furigana": "「万歳！」",
+        "audio_begin": 198081,
+        "audio_end": 198800
+    },
+    {
+        "id": "f000076",
+        "sentence": "幸太郎は、",
+        "sentence_with_furigana": "幸太郎は、",
+        "audio_begin": 198800,
+        "audio_end": 201040
+    },
+    {
+        "id": "f000077",
+        "sentence": "帽子の尻尾をつかんで叫びました。",
+        "sentence_with_furigana": "帽子の 尻尾[しっぽ]をつかんで叫びました。",
+        "audio_begin": 201040,
+        "audio_end": 203400
+    },
+    {
+        "id": "f000078",
+        "sentence": "「風やい、",
+        "sentence_with_furigana": "「風やい、",
+        "audio_begin": 203400,
+        "audio_end": 205235
+    },
+    {
+        "id": "f000079",
+        "sentence": "もう取られないぞ！」",
+        "sentence_with_furigana": "もう取られないぞ！」",
+        "audio_begin": 205235,
+        "audio_end": 208120
+    },
+    {
+        "id": "f000080",
+        "sentence": "幸太郎は、",
+        "sentence_with_furigana": "幸太郎は、",
+        "audio_begin": 208120,
+        "audio_end": 209040
+    },
+    {
+        "id": "f000081",
+        "sentence": "帽子のつばを両手で、",
+        "sentence_with_furigana": "帽子のつばを両手で、",
+        "audio_begin": 209040,
+        "audio_end": 210007
+    },
+    {
+        "id": "f000082",
+        "sentence": "しっかり握っていいました。",
+        "sentence_with_furigana": "しっかり握っていいました。",
+        "audio_begin": 210007,
+        "audio_end": 213574
+    },
+    {
+        "id": "f000083",
+        "sentence": "「ほう、",
+        "sentence_with_furigana": "「ほう、",
+        "audio_begin": 213574,
+        "audio_end": 215800
+    },
+    {
+        "id": "f000084",
+        "sentence": "ほう」風はそう言いながら、",
+        "sentence_with_furigana": "ほう」風はそう言いながら、",
+        "audio_begin": 215800,
+        "audio_end": 217095
+    },
+    {
+        "id": "f000085",
+        "sentence": "飛んで行きました。",
+        "sentence_with_furigana": "飛んで行きました。",
+        "audio_begin": 217095,
+        "audio_end": 219843
+    },
+    {
+        "id": "f000086",
+        "sentence": "エプロンも、",
+        "sentence_with_furigana": "エプロンも、",
+        "audio_begin": 219843,
+        "audio_end": 220737
+    },
+    {
+        "id": "f000087",
+        "sentence": "木の葉も、",
+        "sentence_with_furigana": "木の葉も、",
+        "audio_begin": 220737,
+        "audio_end": 221509
+    },
+    {
+        "id": "f000088",
+        "sentence": "紙屑もまたダンスをしていたけれど、",
+        "sentence_with_furigana": "紙屑[かみくず]もまたダンスをしていたけれど、",
+        "audio_begin": 221509,
+        "audio_end": 224440
+    },
+    {
+        "id": "f000089",
+        "sentence": "幸太郎の帽子はもうダンスをしませんでした。",
+        "sentence_with_furigana": "幸太郎の帽子はもうダンスをしませんでした。",
+        "audio_begin": 224440,
+        "audio_end": 229540
+    }
+]

@@ -30,19 +30,21 @@ def parse_literature_deck(filename, skip_author=True):
             text = entry["sentence"]
             word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]
             word_list = [m.surface() for m in tokenizer_obj.tokenize(text, mode)]
-            print('name', metadata["title_english"])
+            print('name', filename)
             print('parsing note', entry["id"])
             example = {
-                'id': metadata["title_english"] + "-" + entry["id"],
-                'author': metadata["author_english"],
+                'id': filename + "-" + entry["id"],
+                # 'author': metadata["author_english"],
                 'author_japanese': metadata["author"],
-                'deck_name': metadata["title_english"],
+                'deck_name': filename,
                 'deck_name_japanese': metadata["title"],
                 'sentence': text,
                 'sentence_with_furigana': entry["sentence_with_furigana"],
                 'word_base_list': word_base_list,
                 'word_list': word_list,
-                'sound': entry["id"] + '.mp3'
+                'sound': entry["id"] + '.mp3',
+                'sound_begin':  entry["audio_begin"],
+                'sound_end':  entry["audio_end"]
             }
             examples.append(example)
 

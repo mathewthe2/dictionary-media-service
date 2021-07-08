@@ -1,7 +1,6 @@
 [
     {
         "id": "Abuno Orei-f000002",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -17,11 +16,12 @@
             "の",
             "おれい"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 6219,
+        "sound_end": 7760
     },
     {
         "id": "Abuno Orei-f000003",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -61,11 +61,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10270,
+        "sound_end": 18317
     },
     {
         "id": "Abuno Orei-f000004",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -107,11 +108,12 @@
             "と",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 18317,
+        "sound_end": 24339
     },
     {
         "id": "Abuno Orei-f000005",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -129,11 +131,12 @@
             "ブルブル",
             "」"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 24339,
+        "sound_end": 29214
     },
     {
         "id": "Abuno Orei-f000006",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -169,11 +172,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 29214,
+        "sound_end": 34360
     },
     {
         "id": "Abuno Orei-f000007",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -205,11 +209,12 @@
             "と",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 34360,
+        "sound_end": 37560
     },
     {
         "id": "Abuno Orei-f000008",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -263,11 +268,12 @@
             "で",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 37560,
+        "sound_end": 44000
     },
     {
         "id": "Abuno Orei-f000009",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -291,11 +297,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 44000,
+        "sound_end": 47926
     },
     {
         "id": "Abuno Orei-f000010",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -317,11 +324,12 @@
             "下さい",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 47926,
+        "sound_end": 52160
     },
     {
         "id": "Abuno Orei-f000011",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -341,11 +349,12 @@
             "下さい",
             "」"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 52160,
+        "sound_end": 54480
     },
     {
         "id": "Abuno Orei-f000012",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -367,11 +376,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 54480,
+        "sound_end": 56280
     },
     {
         "id": "Abuno Orei-f000013",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -413,11 +423,12 @@
             "て",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 58280,
+        "sound_end": 62766
     },
     {
         "id": "Abuno Orei-f000014",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -441,11 +452,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 62766,
+        "sound_end": 65884
     },
     {
         "id": "Abuno Orei-f000015",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -467,11 +479,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 65884,
+        "sound_end": 69343
     },
     {
         "id": "Abuno Orei-f000016",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -491,11 +504,12 @@
             "の",
             "」"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 69343,
+        "sound_end": 70965
     },
     {
         "id": "Abuno Orei-f000017",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -515,11 +529,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 70965,
+        "sound_end": 73480
     },
     {
         "id": "Abuno Orei-f000018",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -557,11 +572,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 73480,
+        "sound_end": 79066
     },
     {
         "id": "Abuno Orei-f000019",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -583,11 +599,12 @@
             "か",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 79066,
+        "sound_end": 80880
     },
     {
         "id": "Abuno Orei-f000020",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -611,11 +628,12 @@
             "が",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 80880,
+        "sound_end": 82840
     },
     {
         "id": "Abuno Orei-f000021",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -643,11 +661,12 @@
             "た",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 82840,
+        "sound_end": 85841
     },
     {
         "id": "Abuno Orei-f000022",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -665,11 +684,12 @@
             "下さい",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 85841,
+        "sound_end": 87705
     },
     {
         "id": "Abuno Orei-f000023",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -687,11 +707,12 @@
             "下さい",
             "」"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 87705,
+        "sound_end": 89578
     },
     {
         "id": "Abuno Orei-f000024",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -715,11 +736,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 89578,
+        "sound_end": 93665
     },
     {
         "id": "Abuno Orei-f000025",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -745,11 +767,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 93665,
+        "sound_end": 97120
     },
     {
         "id": "Abuno Orei-f000026",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -767,11 +790,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 97120,
+        "sound_end": 98840
     },
     {
         "id": "Abuno Orei-f000027",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -793,11 +817,12 @@
             "ねえ",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 98840,
+        "sound_end": 101440
     },
     {
         "id": "Abuno Orei-f000028",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -829,11 +854,12 @@
             "か",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 101440,
+        "sound_end": 104687
     },
     {
         "id": "Abuno Orei-f000029",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -847,11 +873,12 @@
             "そう",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 104687,
+        "sound_end": 106058
     },
     {
         "id": "Abuno Orei-f000030",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -875,11 +902,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 106058,
+        "sound_end": 109517
     },
     {
         "id": "Abuno Orei-f000031",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -907,11 +935,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 109517,
+        "sound_end": 112985
     },
     {
         "id": "Abuno Orei-f000032",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -943,11 +972,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 112985,
+        "sound_end": 116000
     },
     {
         "id": "Abuno Orei-f000033",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -967,11 +997,12 @@
             "から",
             "」"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 116000,
+        "sound_end": 117986
     },
     {
         "id": "Abuno Orei-f000034",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -993,11 +1024,12 @@
             "が",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 117986,
+        "sound_end": 119680
     },
     {
         "id": "Abuno Orei-f000035",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1023,11 +1055,12 @@
             "て",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 119680,
+        "sound_end": 122341
     },
     {
         "id": "Abuno Orei-f000036",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1047,11 +1080,12 @@
             "か",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 122341,
+        "sound_end": 124200
     },
     {
         "id": "Abuno Orei-f000037",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1069,11 +1103,12 @@
             "か",
             "」"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 124200,
+        "sound_end": 125719
     },
     {
         "id": "Abuno Orei-f000038",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1095,11 +1130,12 @@
             "です",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 125719,
+        "sound_end": 127951
     },
     {
         "id": "Abuno Orei-f000039",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1131,11 +1167,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 129400,
+        "sound_end": 133426
     },
     {
         "id": "Abuno Orei-f000040",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1169,11 +1206,12 @@
             "て",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 133426,
+        "sound_end": 136480
     },
     {
         "id": "Abuno Orei-f000041",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1239,11 +1277,12 @@
             "が",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 136480,
+        "sound_end": 144600
     },
     {
         "id": "Abuno Orei-f000042",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1281,11 +1320,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 144600,
+        "sound_end": 148280
     },
     {
         "id": "Abuno Orei-f000043",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1323,11 +1363,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 148280,
+        "sound_end": 151800
     },
     {
         "id": "Abuno Orei-f000044",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1355,11 +1396,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 154200,
+        "sound_end": 156560
     },
     {
         "id": "Abuno Orei-f000045",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1395,11 +1437,12 @@
             "た",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 158160,
+        "sound_end": 163480
     },
     {
         "id": "Abuno Orei-f000046",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1425,11 +1468,12 @@
             "だり",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 163480,
+        "sound_end": 165080
     },
     {
         "id": "Abuno Orei-f000047",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1467,11 +1511,12 @@
             "が",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 165080,
+        "sound_end": 170240
     },
     {
         "id": "Abuno Orei-f000048",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1503,11 +1548,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 170240,
+        "sound_end": 174160
     },
     {
         "id": "Abuno Orei-f000049",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1549,11 +1595,12 @@
             "かり",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 174160,
+        "sound_end": 178439
     },
     {
         "id": "Abuno Orei-f000050",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1577,11 +1624,12 @@
             "で",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 178439,
+        "sound_end": 180120
     },
     {
         "id": "Abuno Orei-f000051",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1605,11 +1653,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 180120,
+        "sound_end": 181840
     },
     {
         "id": "Abuno Orei-f000052",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1635,11 +1684,12 @@
             "た",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 183840,
+        "sound_end": 187880
     },
     {
         "id": "Abuno Orei-f000053",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1679,11 +1729,12 @@
             "が",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 187880,
+        "sound_end": 192796
     },
     {
         "id": "Abuno Orei-f000054",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1715,11 +1766,12 @@
             "て",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 192796,
+        "sound_end": 198160
     },
     {
         "id": "Abuno Orei-f000055",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1765,11 +1817,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 198160,
+        "sound_end": 202320
     },
     {
         "id": "Abuno Orei-f000056",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1795,11 +1848,12 @@
             "て",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 204320,
+        "sound_end": 206720
     },
     {
         "id": "Abuno Orei-f000057",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1849,11 +1903,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 206720,
+        "sound_end": 213400
     },
     {
         "id": "Abuno Orei-f000058",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1889,11 +1944,12 @@
             "て",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 215000,
+        "sound_end": 219960
     },
     {
         "id": "Abuno Orei-f000059",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1945,11 +2001,12 @@
             "と",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 219960,
+        "sound_end": 227200
     },
     {
         "id": "Abuno Orei-f000060",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -1995,11 +2052,12 @@
             "た",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 227200,
+        "sound_end": 232853
     },
     {
         "id": "Abuno Orei-f000061",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2041,11 +2099,12 @@
             "と",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 232853,
+        "sound_end": 237880
     },
     {
         "id": "Abuno Orei-f000062",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2109,11 +2168,12 @@
             "た",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 237880,
+        "sound_end": 244720
     },
     {
         "id": "Abuno Orei-f000063",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2149,11 +2209,12 @@
             "と",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 246320,
+        "sound_end": 249480
     },
     {
         "id": "Abuno Orei-f000064",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2185,11 +2246,12 @@
             "て",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 249480,
+        "sound_end": 252760
     },
     {
         "id": "Abuno Orei-f000065",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2243,11 +2305,12 @@
             "が",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 252760,
+        "sound_end": 259360
     },
     {
         "id": "Abuno Orei-f000066",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2293,11 +2356,12 @@
             "と",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 259360,
+        "sound_end": 265720
     },
     {
         "id": "Abuno Orei-f000067",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2317,11 +2381,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 265720,
+        "sound_end": 267462
     },
     {
         "id": "Abuno Orei-f000068",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2337,11 +2402,12 @@
             "さん",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 267462,
+        "sound_end": 269075
     },
     {
         "id": "Abuno Orei-f000069",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2369,11 +2435,12 @@
             "ます",
             "」"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 269075,
+        "sound_end": 274434
     },
     {
         "id": "Abuno Orei-f000070",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2407,11 +2474,12 @@
             "た",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 274434,
+        "sound_end": 278180
     },
     {
         "id": "Abuno Orei-f000071",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2429,11 +2497,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 280280,
+        "sound_end": 281960
     },
     {
         "id": "Abuno Orei-f000072",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2449,11 +2518,12 @@
             "母さん",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 281960,
+        "sound_end": 283601
     },
     {
         "id": "Abuno Orei-f000073",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2479,11 +2549,12 @@
             "た",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 283601,
+        "sound_end": 287571
     },
     {
         "id": "Abuno Orei-f000074",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2541,11 +2612,12 @@
             "た",
             "」"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 287571,
+        "sound_end": 294866
     },
     {
         "id": "Abuno Orei-f000075",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2587,11 +2659,12 @@
             "た",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 294866,
+        "sound_end": 301400
     },
     {
         "id": "Abuno Orei-f000076",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2607,11 +2680,12 @@
             "そう",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 301400,
+        "sound_end": 302895
     },
     {
         "id": "Abuno Orei-f000077",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2635,11 +2709,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 302895,
+        "sound_end": 305924
     },
     {
         "id": "Abuno Orei-f000078",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2665,11 +2740,12 @@
             "から",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 305924,
+        "sound_end": 308846
     },
     {
         "id": "Abuno Orei-f000079",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2695,11 +2771,12 @@
             "なさい",
             "」"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 308846,
+        "sound_end": 312493
     },
     {
         "id": "Abuno Orei-f000080",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2721,11 +2798,12 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 312493,
+        "sound_end": 315600
     },
     {
         "id": "Abuno Orei-f000081",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2741,11 +2819,12 @@
             "いいえ",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 315600,
+        "sound_end": 316640
     },
     {
         "id": "Abuno Orei-f000082",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2761,11 +2840,12 @@
             "母さん",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 316640,
+        "sound_end": 318960
     },
     {
         "id": "Abuno Orei-f000083",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2783,11 +2863,12 @@
             "は",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 318960,
+        "sound_end": 320000
     },
     {
         "id": "Abuno Orei-f000084",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2831,11 +2912,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 320000,
+        "sound_end": 325360
     },
     {
         "id": "Abuno Orei-f000085",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2865,11 +2947,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 325360,
+        "sound_end": 328830
     },
     {
         "id": "Abuno Orei-f000086",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2897,11 +2980,12 @@
             "た",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 328830,
+        "sound_end": 332680
     },
     {
         "id": "Abuno Orei-f000087",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -2947,11 +3031,12 @@
             "た",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 332680,
+        "sound_end": 337000
     },
     {
         "id": "Abuno Orei-f000088",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3003,11 +3088,12 @@
             "た",
             "。"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 339000,
+        "sound_end": 345400
     },
     {
         "id": "Abuno Orei-f000089",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3035,11 +3121,12 @@
             "から",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 348600,
+        "sound_end": 350400
     },
     {
         "id": "Abuno Orei-f000090",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3101,11 +3188,12 @@
             "た",
             "。"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 350400,
+        "sound_end": 358904
     },
     {
         "id": "Abuno Orei-f000091",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3129,11 +3217,12 @@
             "た",
             "。"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 358904,
+        "sound_end": 364040
     },
     {
         "id": "Abuno Orei-f000092",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3173,11 +3262,12 @@
             "て",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 364040,
+        "sound_end": 369174
     },
     {
         "id": "Abuno Orei-f000093",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3211,11 +3301,12 @@
             "と",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 369174,
+        "sound_end": 371760
     },
     {
         "id": "Abuno Orei-f000094",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3243,11 +3334,12 @@
             "た",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 371760,
+        "sound_end": 376289
     },
     {
         "id": "Abuno Orei-f000095",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3281,11 +3373,12 @@
             "と",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 376289,
+        "sound_end": 379480
     },
     {
         "id": "Abuno Orei-f000096",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3339,11 +3432,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 379480,
+        "sound_end": 386320
     },
     {
         "id": "Abuno Orei-f000097",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3369,11 +3463,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 388320,
+        "sound_end": 391280
     },
     {
         "id": "Abuno Orei-f000098",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3393,11 +3488,12 @@
             "だあれ",
             "」"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 391280,
+        "sound_end": 393997
     },
     {
         "id": "Abuno Orei-f000099",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3417,11 +3513,12 @@
             "た",
             "。"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 393997,
+        "sound_end": 397520
     },
     {
         "id": "Abuno Orei-f000100",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3445,11 +3542,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 397520,
+        "sound_end": 399880
     },
     {
         "id": "Abuno Orei-f000101",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3475,11 +3573,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 401580,
+        "sound_end": 403280
     },
     {
         "id": "Abuno Orei-f000102",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3525,11 +3624,12 @@
             "くれ",
             "」"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 403280,
+        "sound_end": 411472
     },
     {
         "id": "Abuno Orei-f000103",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3549,11 +3649,12 @@
             "た",
             "。"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 411472,
+        "sound_end": 413533
     },
     {
         "id": "Abuno Orei-f000104",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3599,11 +3700,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 413533,
+        "sound_end": 419560
     },
     {
         "id": "Abuno Orei-f000105",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3623,11 +3725,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 419560,
+        "sound_end": 422080
     },
     {
         "id": "Abuno Orei-f000106",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3653,11 +3756,12 @@
             "？",
             "」"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 422080,
+        "sound_end": 424735
     },
     {
         "id": "Abuno Orei-f000107",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3677,11 +3781,12 @@
             "た",
             "。"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 424735,
+        "sound_end": 426419
     },
     {
         "id": "Abuno Orei-f000108",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3727,11 +3832,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 427360,
+        "sound_end": 435200
     },
     {
         "id": "Abuno Orei-f000109",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3755,11 +3861,12 @@
             "ぞ",
             "。"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 435200,
+        "sound_end": 437880
     },
     {
         "id": "Abuno Orei-f000110",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3773,11 +3880,12 @@
             "さ",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 437880,
+        "sound_end": 439120
     },
     {
         "id": "Abuno Orei-f000111",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3817,11 +3925,12 @@
             "か",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 439120,
+        "sound_end": 444520
     },
     {
         "id": "Abuno Orei-f000112",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3851,11 +3960,12 @@
             "ぞ",
             "」"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 444520,
+        "sound_end": 448428
     },
     {
         "id": "Abuno Orei-f000113",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3875,11 +3985,12 @@
             "た",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 448428,
+        "sound_end": 450436
     },
     {
         "id": "Abuno Orei-f000114",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3897,11 +4008,12 @@
             "は",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 450436,
+        "sound_end": 452031
     },
     {
         "id": "Abuno Orei-f000115",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3919,11 +4031,12 @@
             "母さん",
             "」"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 452031,
+        "sound_end": 453823
     },
     {
         "id": "Abuno Orei-f000116",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3949,11 +4062,12 @@
             "た",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 453823,
+        "sound_end": 456888
     },
     {
         "id": "Abuno Orei-f000117",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3971,11 +4085,12 @@
             "やつ",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 456888,
+        "sound_end": 457960
     },
     {
         "id": "Abuno Orei-f000118",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -3993,11 +4108,12 @@
             "な",
             "」"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 457960,
+        "sound_end": 459227
     },
     {
         "id": "Abuno Orei-f000119",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4039,11 +4155,12 @@
             "た",
             "。"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 459227,
+        "sound_end": 464680
     },
     {
         "id": "Abuno Orei-f000120",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4085,11 +4202,12 @@
             "て",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 464680,
+        "sound_end": 470276
     },
     {
         "id": "Abuno Orei-f000121",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4125,11 +4243,12 @@
             "た",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 470276,
+        "sound_end": 476480
     },
     {
         "id": "Abuno Orei-f000122",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4155,11 +4274,12 @@
             "で",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 476480,
+        "sound_end": 478240
     },
     {
         "id": "Abuno Orei-f000123",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4177,11 +4297,12 @@
             "ちくしょう",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 478240,
+        "sound_end": 479640
     },
     {
         "id": "Abuno Orei-f000124",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4197,11 +4318,12 @@
             "ちくしょう",
             "」"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 479640,
+        "sound_end": 480600
     },
     {
         "id": "Abuno Orei-f000125",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4229,11 +4351,12 @@
             "が",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 480600,
+        "sound_end": 483400
     },
     {
         "id": "Abuno Orei-f000126",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4257,11 +4380,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 483400,
+        "sound_end": 486440
     },
     {
         "id": "Abuno Orei-f000127",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4285,11 +4409,12 @@
             "は",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 486440,
+        "sound_end": 488280
     },
     {
         "id": "Abuno Orei-f000128",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4307,11 +4432,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 488280,
+        "sound_end": 489800
     },
     {
         "id": "Abuno Orei-f000129",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4327,11 +4453,12 @@
             "母さん",
             "」"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 489800,
+        "sound_end": 491200
     },
     {
         "id": "Abuno Orei-f000130",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4375,11 +4502,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 491200,
+        "sound_end": 497000
     },
     {
         "id": "Abuno Orei-f000131",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4403,11 +4531,12 @@
             "か",
             "」"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 497000,
+        "sound_end": 498792
     },
     {
         "id": "Abuno Orei-f000132",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4435,11 +4564,12 @@
             "て",
             "、"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 498792,
+        "sound_end": 501516
     },
     {
         "id": "Abuno Orei-f000133",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4475,11 +4605,12 @@
             "た",
             "。"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 501516,
+        "sound_end": 505853
     },
     {
         "id": "Abuno Orei-f000134",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4527,11 +4658,12 @@
             "が",
             "、"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 505853,
+        "sound_end": 511240
     },
     {
         "id": "Abuno Orei-f000135",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4577,11 +4709,12 @@
             "た",
             "。"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 511240,
+        "sound_end": 517919
     },
     {
         "id": "Abuno Orei-f000136",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4597,11 +4730,12 @@
             "アイタッ",
             "」"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 517919,
+        "sound_end": 519510
     },
     {
         "id": "Abuno Orei-f000137",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4645,11 +4779,12 @@
             "て",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 519510,
+        "sound_end": 525080
     },
     {
         "id": "Abuno Orei-f000138",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4695,11 +4830,12 @@
             "た",
             "。"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 525080,
+        "sound_end": 530700
     },
     {
         "id": "Abuno Orei-f000139",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4731,11 +4867,12 @@
             "て",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 532800,
+        "sound_end": 535372
     },
     {
         "id": "Abuno Orei-f000140",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4775,11 +4912,12 @@
             "で",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 535372,
+        "sound_end": 538920
     },
     {
         "id": "Abuno Orei-f000141",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4811,11 +4949,12 @@
             "た",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 538920,
+        "sound_end": 545040
     },
     {
         "id": "Abuno Orei-f000142",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4861,11 +5000,12 @@
             "と",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 545040,
+        "sound_end": 549880
     },
     {
         "id": "Abuno Orei-f000143",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4909,11 +5049,12 @@
             "た",
             "。"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 549880,
+        "sound_end": 556019
     },
     {
         "id": "Abuno Orei-f000144",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4971,11 +5112,12 @@
             "た",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 556019,
+        "sound_end": 566289
     },
     {
         "id": "Abuno Orei-f000145",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -4993,11 +5135,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 566289,
+        "sound_end": 567884
     },
     {
         "id": "Abuno Orei-f000146",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5013,11 +5156,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 567884,
+        "sound_end": 570008
     },
     {
         "id": "Abuno Orei-f000147",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5051,11 +5195,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 570008,
+        "sound_end": 574360
     },
     {
         "id": "Abuno Orei-f000148",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5097,11 +5242,12 @@
             "よ",
             "」"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 574360,
+        "sound_end": 579193
     },
     {
         "id": "Abuno Orei-f000149",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5121,11 +5267,12 @@
             "た",
             "。"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 579193,
+        "sound_end": 581559
     },
     {
         "id": "Abuno Orei-f000150",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5155,11 +5302,12 @@
             "た",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 581559,
+        "sound_end": 584900
     },
     {
         "id": "Abuno Orei-f000151",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5217,11 +5365,12 @@
             "と",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 587000,
+        "sound_end": 594440
     },
     {
         "id": "Abuno Orei-f000152",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5251,11 +5400,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 594440,
+        "sound_end": 599320
     },
     {
         "id": "Abuno Orei-f000153",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5295,11 +5445,12 @@
             "だろう",
             "」"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 599320,
+        "sound_end": 605235
     },
     {
         "id": "Abuno Orei-f000154",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5325,11 +5476,12 @@
             "た",
             "。"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 605235,
+        "sound_end": 607520
     },
     {
         "id": "Abuno Orei-f000155",
-        "author": "Yumeno Kyusaku",
         "author_japanese": "夢野 久作",
         "deck_name": "Abuno Orei",
         "deck_name_japanese": "虻のおれい",
@@ -5367,6 +5519,8 @@
             "た",
             "。"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 610020,
+        "sound_end": 614880
     }
 ]

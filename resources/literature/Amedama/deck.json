@@ -2,401 +2,561 @@
     {
         "id": "f000001",
         "sentence": "新美南吉　作",
-        "sentence_with_furigana": "新美南吉　作"
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 1279,
+        "audio_end": 5066
     },
     {
         "id": "f000002",
         "sentence": "飴だま",
-        "sentence_with_furigana": "飴だま"
+        "sentence_with_furigana": "飴だま",
+        "audio_begin": 5066,
+        "audio_end": 10320
     },
     {
         "id": "f000003",
         "sentence": "春のあたたかい日のこと、",
-        "sentence_with_furigana": "春のあたたかい日のこと、"
+        "sentence_with_furigana": "春のあたたかい日のこと、",
+        "audio_begin": 10320,
+        "audio_end": 14680
     },
     {
         "id": "f000004",
         "sentence": "わたし舟にふたりの小さな子どもをつれた女の旅人がのりました。",
-        "sentence_with_furigana": "わたし 舟[ぶね]にふたりの小さな子どもをつれた女の 旅人[たびびと]がのりました。"
+        "sentence_with_furigana": "わたし 舟[ぶね]にふたりの小さな子どもをつれた女の 旅人[たびびと]がのりました。",
+        "audio_begin": 14680,
+        "audio_end": 21320
     },
     {
         "id": "f000005",
         "sentence": "舟が出ようとすると、",
-        "sentence_with_furigana": "舟[ふね]が出ようとすると、"
+        "sentence_with_furigana": "舟[ふね]が出ようとすると、",
+        "audio_begin": 23520,
+        "audio_end": 26458
     },
     {
         "id": "f000006",
         "sentence": "「おオい、",
-        "sentence_with_furigana": "「おオい、"
+        "sentence_with_furigana": "「おオい、",
+        "audio_begin": 26458,
+        "audio_end": 27560
     },
     {
         "id": "f000007",
         "sentence": "ちょっとまってくれ。」",
-        "sentence_with_furigana": "ちょっとまってくれ。」"
+        "sentence_with_furigana": "ちょっとまってくれ。」",
+        "audio_begin": 27560,
+        "audio_end": 30068
     },
     {
         "id": "f000008",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 30068,
+        "audio_end": 30842
     },
     {
         "id": "f000009",
         "sentence": "どての向こうから手をふりながら、",
-        "sentence_with_furigana": "どての向こうから手をふりながら、"
+        "sentence_with_furigana": "どての向こうから手をふりながら、",
+        "audio_begin": 30842,
+        "audio_end": 33830
     },
     {
         "id": "f000010",
         "sentence": "さむらいがひとり走ってきて、",
-        "sentence_with_furigana": "さむらいがひとり走ってきて、"
+        "sentence_with_furigana": "さむらいがひとり走ってきて、",
+        "audio_begin": 33830,
+        "audio_end": 36548
     },
     {
         "id": "f000011",
         "sentence": "舟にとびこみました。",
-        "sentence_with_furigana": "舟にとびこみました。"
+        "sentence_with_furigana": "舟にとびこみました。",
+        "audio_begin": 36548,
+        "audio_end": 38280
     },
     {
         "id": "f000012",
         "sentence": "舟は出ました。",
-        "sentence_with_furigana": "舟[ふね]は出ました。"
+        "sentence_with_furigana": "舟[ふね]は出ました。",
+        "audio_begin": 40980,
+        "audio_end": 44680
     },
     {
         "id": "f000013",
         "sentence": "さむらいは舟のまん中にどっかりすわっていました。",
-        "sentence_with_furigana": "さむらいは舟のまん中にどっかりすわっていました。"
+        "sentence_with_furigana": "さむらいは舟のまん中にどっかりすわっていました。",
+        "audio_begin": 44680,
+        "audio_end": 51720
     },
     {
         "id": "f000014",
         "sentence": "ぽかぽかあたたかいので、",
-        "sentence_with_furigana": "ぽかぽかあたたかいので、"
+        "sentence_with_furigana": "ぽかぽかあたたかいので、",
+        "audio_begin": 51720,
+        "audio_end": 54200
     },
     {
         "id": "f000015",
         "sentence": "そのうちにいねむりをはじめました。",
-        "sentence_with_furigana": "そのうちにいねむりをはじめました。"
+        "sentence_with_furigana": "そのうちにいねむりをはじめました。",
+        "audio_begin": 54200,
+        "audio_end": 56880
     },
     {
         "id": "f000016",
         "sentence": "黒いひげをはやして、",
-        "sentence_with_furigana": "黒いひげをはやして、"
+        "sentence_with_furigana": "黒いひげをはやして、",
+        "audio_begin": 59380,
+        "audio_end": 61676
     },
     {
         "id": "f000017",
         "sentence": "つよそうなさむらいが、",
-        "sentence_with_furigana": "つよそうなさむらいが、"
+        "sentence_with_furigana": "つよそうなさむらいが、",
+        "audio_begin": 61676,
+        "audio_end": 64259
     },
     {
         "id": "f000018",
         "sentence": "こっくりこっくりするので、",
-        "sentence_with_furigana": "こっくりこっくりするので、"
+        "sentence_with_furigana": "こっくりこっくりするので、",
+        "audio_begin": 64259,
+        "audio_end": 67928
     },
     {
         "id": "f000019",
         "sentence": "子どもたちはおかしくて、",
-        "sentence_with_furigana": "子どもたちはおかしくて、"
+        "sentence_with_furigana": "子どもたちはおかしくて、",
+        "audio_begin": 67928,
+        "audio_end": 70440
     },
     {
         "id": "f000020",
         "sentence": "ふふふと笑いました。",
-        "sentence_with_furigana": "ふふふと 笑[わら]いました。"
+        "sentence_with_furigana": "ふふふと 笑[わら]いました。",
+        "audio_begin": 70440,
+        "audio_end": 74520
     },
     {
         "id": "f000021",
         "sentence": "お母さんは口に指をあてて、",
-        "sentence_with_furigana": "お母さんは口に指をあてて、"
+        "sentence_with_furigana": "お母さんは口に指をあてて、",
+        "audio_begin": 74520,
+        "audio_end": 78520
     },
     {
         "id": "f000022",
         "sentence": "「だまっておいで。」",
-        "sentence_with_furigana": "「だまっておいで。」"
+        "sentence_with_furigana": "「だまっておいで。」",
+        "audio_begin": 78520,
+        "audio_end": 80745
     },
     {
         "id": "f000023",
         "sentence": "といいました。",
-        "sentence_with_furigana": "といいました。"
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 80745,
+        "audio_end": 83320
     },
     {
         "id": "f000024",
         "sentence": "さむらいがおこってはたいへんだからです。",
-        "sentence_with_furigana": "さむらいがおこってはたいへんだからです。"
+        "sentence_with_furigana": "さむらいがおこってはたいへんだからです。",
+        "audio_begin": 83320,
+        "audio_end": 88049
     },
     {
         "id": "f000025",
         "sentence": "子どもたちはだまりました。",
-        "sentence_with_furigana": "子どもたちはだまりました。"
+        "sentence_with_furigana": "子どもたちはだまりました。",
+        "audio_begin": 88049,
+        "audio_end": 93000
     },
     {
         "id": "f000026",
         "sentence": "しばらくするとひとりの子どもが、",
-        "sentence_with_furigana": "しばらくするとひとりの子どもが、"
+        "sentence_with_furigana": "しばらくするとひとりの子どもが、",
+        "audio_begin": 93000,
+        "audio_end": 97416
     },
     {
         "id": "f000027",
         "sentence": "「かあちゃん、",
-        "sentence_with_furigana": "「かあちゃん、"
+        "sentence_with_furigana": "「かあちゃん、",
+        "audio_begin": 97416,
+        "audio_end": 99080
     },
     {
         "id": "f000028",
         "sentence": "飴だまちょうだい。」",
-        "sentence_with_furigana": "飴[あめ]だまちょうだい。」"
+        "sentence_with_furigana": "飴[あめ]だまちょうだい。」",
+        "audio_begin": 99080,
+        "audio_end": 101304
     },
     {
         "id": "f000029",
         "sentence": "と手をさしだしました。",
-        "sentence_with_furigana": "と手をさしだしました。"
+        "sentence_with_furigana": "と手をさしだしました。",
+        "audio_begin": 101304,
+        "audio_end": 104880
     },
     {
         "id": "f000030",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 104880,
+        "audio_end": 105720
     },
     {
         "id": "f000031",
         "sentence": "もうひとりの子どもも、",
-        "sentence_with_furigana": "もうひとりの子どもも、"
+        "sentence_with_furigana": "もうひとりの子どもも、",
+        "audio_begin": 105720,
+        "audio_end": 108128
     },
     {
         "id": "f000032",
         "sentence": "「かあちゃん、",
-        "sentence_with_furigana": "「かあちゃん、"
+        "sentence_with_furigana": "「かあちゃん、",
+        "audio_begin": 108128,
+        "audio_end": 109480
     },
     {
         "id": "f000033",
         "sentence": "あたしにも。」",
-        "sentence_with_furigana": "あたしにも。」"
+        "sentence_with_furigana": "あたしにも。」",
+        "audio_begin": 109480,
+        "audio_end": 111259
     },
     {
         "id": "f000034",
         "sentence": "といいました。",
-        "sentence_with_furigana": "といいました。"
+        "sentence_with_furigana": "といいました。",
+        "audio_begin": 111259,
+        "audio_end": 114400
     },
     {
         "id": "f000035",
         "sentence": "お母さんはふところから、",
-        "sentence_with_furigana": "お母さんはふところから、"
+        "sentence_with_furigana": "お母さんはふところから、",
+        "audio_begin": 114400,
+        "audio_end": 116040
     },
     {
         "id": "f000036",
         "sentence": "紙のふくろをとりだしました。",
-        "sentence_with_furigana": "紙のふくろをとりだしました。"
+        "sentence_with_furigana": "紙のふくろをとりだしました。",
+        "audio_begin": 116040,
+        "audio_end": 119329
     },
     {
         "id": "f000037",
         "sentence": "ところが、",
-        "sentence_with_furigana": "ところが、"
+        "sentence_with_furigana": "ところが、",
+        "audio_begin": 119329,
+        "audio_end": 120360
     },
     {
         "id": "f000038",
         "sentence": "飴だまはもう一つしかありませんでした。",
-        "sentence_with_furigana": "飴[あめ]だまはもう一つしかありませんでした。"
+        "sentence_with_furigana": "飴[あめ]だまはもう一つしかありませんでした。",
+        "audio_begin": 120360,
+        "audio_end": 125910
     },
     {
         "id": "f000039",
         "sentence": "「あたしにちょうだい。」",
-        "sentence_with_furigana": "「あたしにちょうだい。」"
+        "sentence_with_furigana": "「あたしにちょうだい。」",
+        "audio_begin": 125910,
+        "audio_end": 128320
     },
     {
         "id": "f000040",
         "sentence": "「あたしにちょうだい。」",
-        "sentence_with_furigana": "「あたしにちょうだい。」"
+        "sentence_with_furigana": "「あたしにちょうだい。」",
+        "audio_begin": 128320,
+        "audio_end": 131582
     },
     {
         "id": "f000041",
         "sentence": "ふたりの子どもは、",
-        "sentence_with_furigana": "ふたりの子どもは、"
+        "sentence_with_furigana": "ふたりの子どもは、",
+        "audio_begin": 131582,
+        "audio_end": 132760
     },
     {
         "id": "f000042",
         "sentence": "りょうほうからせがみました。",
-        "sentence_with_furigana": "りょうほうからせがみました。"
+        "sentence_with_furigana": "りょうほうからせがみました。",
+        "audio_begin": 132760,
+        "audio_end": 136040
     },
     {
         "id": "f000043",
         "sentence": "飴だまは一つしかないので、",
-        "sentence_with_furigana": "飴[あめ]だまは一つしかないので、"
+        "sentence_with_furigana": "飴[あめ]だまは一つしかないので、",
+        "audio_begin": 136040,
+        "audio_end": 138640
     },
     {
         "id": "f000044",
         "sentence": "お母さんはこまってしまいました。",
-        "sentence_with_furigana": "お母さんはこまってしまいました。"
+        "sentence_with_furigana": "お母さんはこまってしまいました。",
+        "audio_begin": 138640,
+        "audio_end": 143280
     },
     {
         "id": "f000045",
         "sentence": "「いい子たちだから待っておいで、",
-        "sentence_with_furigana": "「いい子たちだから待っておいで、"
+        "sentence_with_furigana": "「いい子たちだから待っておいで、",
+        "audio_begin": 143280,
+        "audio_end": 147080
     },
     {
         "id": "f000046",
         "sentence": "向こうへついたら買ってあげるからね。」",
-        "sentence_with_furigana": "向こうへついたら買ってあげるからね。」"
+        "sentence_with_furigana": "向こうへついたら買ってあげるからね。」",
+        "audio_begin": 147080,
+        "audio_end": 150996
     },
     {
         "id": "f000047",
         "sentence": "といってきかせても、",
-        "sentence_with_furigana": "といってきかせても、"
+        "sentence_with_furigana": "といってきかせても、",
+        "audio_begin": 150996,
+        "audio_end": 153344
     },
     {
         "id": "f000048",
         "sentence": "子どもたちは、",
-        "sentence_with_furigana": "子どもたちは、"
+        "sentence_with_furigana": "子どもたちは、",
+        "audio_begin": 153344,
+        "audio_end": 154480
     },
     {
         "id": "f000049",
         "sentence": "ちょうだいよオ、",
-        "sentence_with_furigana": "ちょうだいよオ、"
+        "sentence_with_furigana": "ちょうだいよオ、",
+        "audio_begin": 154480,
+        "audio_end": 155680
     },
     {
         "id": "f000050",
         "sentence": "ちょうだいよオ、",
-        "sentence_with_furigana": "ちょうだいよオ、"
+        "sentence_with_furigana": "ちょうだいよオ、",
+        "audio_begin": 155680,
+        "audio_end": 156600
     },
     {
         "id": "f000051",
         "sentence": "とだだをこねました。",
-        "sentence_with_furigana": "とだだをこねました。"
+        "sentence_with_furigana": "とだだをこねました。",
+        "audio_begin": 156600,
+        "audio_end": 161000
     },
     {
         "id": "f000052",
         "sentence": "いねむりをしていたはずのさむらいは、",
-        "sentence_with_furigana": "いねむりをしていたはずのさむらいは、"
+        "sentence_with_furigana": "いねむりをしていたはずのさむらいは、",
+        "audio_begin": 161000,
+        "audio_end": 164452
     },
     {
         "id": "f000053",
         "sentence": "ぱっちり眼をあけて、",
-        "sentence_with_furigana": "ぱっちり 眼[め]をあけて、"
+        "sentence_with_furigana": "ぱっちり 眼[め]をあけて、",
+        "audio_begin": 164452,
+        "audio_end": 167288
     },
     {
         "id": "f000054",
         "sentence": "子どもたちがせがむのをみていました。",
-        "sentence_with_furigana": "子どもたちがせがむのをみていました。"
+        "sentence_with_furigana": "子どもたちがせがむのをみていました。",
+        "audio_begin": 167288,
+        "audio_end": 172680
     },
     {
         "id": "f000055",
         "sentence": "お母さんはおどろきました。",
-        "sentence_with_furigana": "お母さんはおどろきました。"
+        "sentence_with_furigana": "お母さんはおどろきました。",
+        "audio_begin": 172680,
+        "audio_end": 176080
     },
     {
         "id": "f000056",
         "sentence": "いねむりをじゃまされたので、",
-        "sentence_with_furigana": "いねむりをじゃまされたので、"
+        "sentence_with_furigana": "いねむりをじゃまされたので、",
+        "audio_begin": 176080,
+        "audio_end": 178245
     },
     {
         "id": "f000057",
         "sentence": "このおさむらいはおこっているのにちがいない、",
-        "sentence_with_furigana": "このおさむらいはおこっているのにちがいない、"
+        "sentence_with_furigana": "このおさむらいはおこっているのにちがいない、",
+        "audio_begin": 178245,
+        "audio_end": 181190
     },
     {
         "id": "f000058",
         "sentence": "と思いました。",
-        "sentence_with_furigana": "と思いました。"
+        "sentence_with_furigana": "と思いました。",
+        "audio_begin": 181190,
+        "audio_end": 184400
     },
     {
         "id": "f000059",
         "sentence": "「おとなしくしておいで。」",
-        "sentence_with_furigana": "「おとなしくしておいで。」"
+        "sentence_with_furigana": "「おとなしくしておいで。」",
+        "audio_begin": 184400,
+        "audio_end": 187047
     },
     {
         "id": "f000060",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 187047,
+        "audio_end": 187720
     },
     {
         "id": "f000061",
         "sentence": "お母さんは子どもたちをなだめました。",
-        "sentence_with_furigana": "お母さんは子どもたちをなだめました。"
+        "sentence_with_furigana": "お母さんは子どもたちをなだめました。",
+        "audio_begin": 187720,
+        "audio_end": 191432
     },
     {
         "id": "f000062",
         "sentence": "けれど子どもたちはききませんでした。",
-        "sentence_with_furigana": "けれど子どもたちはききませんでした。"
+        "sentence_with_furigana": "けれど子どもたちはききませんでした。",
+        "audio_begin": 191432,
+        "audio_end": 194940
     },
     {
         "id": "f000063",
         "sentence": "するとさむらいが、",
-        "sentence_with_furigana": "するとさむらいが、"
+        "sentence_with_furigana": "するとさむらいが、",
+        "audio_begin": 197040,
+        "audio_end": 199120
     },
     {
         "id": "f000064",
         "sentence": "すらりと刀をぬいて、",
-        "sentence_with_furigana": "すらりと 刀[かたな]をぬいて、"
+        "sentence_with_furigana": "すらりと 刀[かたな]をぬいて、",
+        "audio_begin": 199120,
+        "audio_end": 201880
     },
     {
         "id": "f000065",
         "sentence": "お母さんと子どもたちのまえにやってきました。",
-        "sentence_with_furigana": "お母さんと子どもたちのまえにやってきました。"
+        "sentence_with_furigana": "お母さんと子どもたちのまえにやってきました。",
+        "audio_begin": 201880,
+        "audio_end": 206720
     },
     {
         "id": "f000066",
         "sentence": "お母さんはまっさおになって、",
-        "sentence_with_furigana": "お母さんはまっさおになって、"
+        "sentence_with_furigana": "お母さんはまっさおになって、",
+        "audio_begin": 206720,
+        "audio_end": 209121
     },
     {
         "id": "f000067",
         "sentence": "子どもたちをかばいました。",
-        "sentence_with_furigana": "子どもたちをかばいました。"
+        "sentence_with_furigana": "子どもたちをかばいました。",
+        "audio_begin": 209121,
+        "audio_end": 212720
     },
     {
         "id": "f000068",
         "sentence": "いねむりのじゃまをした子どもたちを、",
-        "sentence_with_furigana": "いねむりのじゃまをした子どもたちを、"
+        "sentence_with_furigana": "いねむりのじゃまをした子どもたちを、",
+        "audio_begin": 212720,
+        "audio_end": 215080
     },
     {
         "id": "f000069",
         "sentence": "さむらいがきりころすと思ったのです。",
-        "sentence_with_furigana": "さむらいがきりころすと思ったのです。"
+        "sentence_with_furigana": "さむらいがきりころすと思ったのです。",
+        "audio_begin": 215080,
+        "audio_end": 221440
     },
     {
         "id": "f000070",
         "sentence": "「飴だまを出せ。」",
-        "sentence_with_furigana": "「 飴[あめ]だまを出せ。」"
+        "sentence_with_furigana": "「 飴[あめ]だまを出せ。」",
+        "audio_begin": 221440,
+        "audio_end": 223760
     },
     {
         "id": "f000071",
         "sentence": "とさむらいはいいました。",
-        "sentence_with_furigana": "とさむらいはいいました。"
+        "sentence_with_furigana": "とさむらいはいいました。",
+        "audio_begin": 225460,
+        "audio_end": 228100
     },
     {
         "id": "f000072",
         "sentence": "お母さんはおそるおそる飴だまをさしだしました。",
-        "sentence_with_furigana": "お母さんはおそるおそる 飴[あめ]だまをさしだしました。"
+        "sentence_with_furigana": "お母さんはおそるおそる 飴[あめ]だまをさしだしました。",
+        "audio_begin": 230200,
+        "audio_end": 235200
     },
     {
         "id": "f000073",
         "sentence": "さむらいはそれを舟のへりにのせ、",
-        "sentence_with_furigana": "さむらいはそれを 舟[ふね]のへりにのせ、"
+        "sentence_with_furigana": "さむらいはそれを 舟[ふね]のへりにのせ、",
+        "audio_begin": 237100,
+        "audio_end": 240013
     },
     {
         "id": "f000074",
         "sentence": "刀でぱちんと二つにわりました。",
-        "sentence_with_furigana": "刀でぱちんと二つにわりました。"
+        "sentence_with_furigana": "刀でぱちんと二つにわりました。",
+        "audio_begin": 240013,
+        "audio_end": 247200
     },
     {
         "id": "f000075",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 247200,
+        "audio_end": 248880
     },
     {
         "id": "f000076",
         "sentence": "「そオれ。」",
-        "sentence_with_furigana": "「そオれ。」"
+        "sentence_with_furigana": "「そオれ。」",
+        "audio_begin": 248880,
+        "audio_end": 250970
     },
     {
         "id": "f000077",
         "sentence": "とふたりの子どもにわけてやりました。",
-        "sentence_with_furigana": "とふたりの子どもにわけてやりました。"
+        "sentence_with_furigana": "とふたりの子どもにわけてやりました。",
+        "audio_begin": 250970,
+        "audio_end": 254720
     },
     {
         "id": "f000078",
         "sentence": "それから、",
-        "sentence_with_furigana": "それから、"
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 256519,
+        "audio_end": 257880
     },
     {
         "id": "f000079",
         "sentence": "またもとのところにかえって、",
-        "sentence_with_furigana": "またもとのところにかえって、"
+        "sentence_with_furigana": "またもとのところにかえって、",
+        "audio_begin": 257880,
+        "audio_end": 261084
     },
     {
         "id": "f000080",
         "sentence": "こっくりこっくりねむりはじめました。",
-        "sentence_with_furigana": "こっくりこっくりねむりはじめました。"
+        "sentence_with_furigana": "こっくりこっくりねむりはじめました。",
+        "audio_begin": 261084,
+        "audio_end": 267304
     }
 ]

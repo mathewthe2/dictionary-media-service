@@ -1,0 +1,990 @@
+[
+    {
+        "id": "Katatsumurino Uta-f000002",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "カタツムリノ　ウタ",
+        "sentence_with_furigana": "カタツムリノ　ウタ",
+        "word_base_list": [
+            "カタツムリノ",
+            " ",
+            "ウタ"
+        ],
+        "word_list": [
+            "カタツムリノ",
+            "　",
+            "ウタ"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 6720,
+        "sound_end": 12120
+    },
+    {
+        "id": "Katatsumurino Uta-f000003",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "アル　アサ　王サマハ、",
+        "sentence_with_furigana": "アル　アサ　王サマハ、",
+        "word_base_list": [
+            "アル",
+            " ",
+            "アサ",
+            " ",
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "word_list": [
+            "アル",
+            "　",
+            "アサ",
+            "　",
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 12120,
+        "sound_end": 15240
+    },
+    {
+        "id": "Katatsumurino Uta-f000004",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "石ノ　カベニ　一ピキノ　カタツムリヲ　ミツケマシタ。",
+        "sentence_with_furigana": "石ノ　カベニ　一ピキノ　カタツムリヲ　ミツケマシタ。",
+        "word_base_list": [
+            "石",
+            "の",
+            " ",
+            "カベニ",
+            " ",
+            "1",
+            "ピキノ",
+            " ",
+            "カタツムリヲ",
+            " ",
+            "ミツケマシタ",
+            "。"
+        ],
+        "word_list": [
+            "石",
+            "ノ",
+            "　",
+            "カベニ",
+            "　",
+            "一",
+            "ピキノ",
+            "　",
+            "カタツムリヲ",
+            "　",
+            "ミツケマシタ",
+            "。"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 15240,
+        "sound_end": 19600
+    },
+    {
+        "id": "Katatsumurino Uta-f000005",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "カタツムリガ　ツノヲ　フツテルノヲ　ミテ　ヰルト、",
+        "sentence_with_furigana": "カタツムリガ　ツノヲ　フツテルノヲ　ミテ　ヰルト、",
+        "word_base_list": [
+            "カタツムリガ",
+            " ",
+            "ツノヲ",
+            " ",
+            "フツテルノヲ",
+            " ",
+            "ミテ",
+            " ",
+            "ヰルト",
+            "、"
+        ],
+        "word_list": [
+            "カタツムリガ",
+            "　",
+            "ツノヲ",
+            "　",
+            "フツテルノヲ",
+            "　",
+            "ミテ",
+            "　",
+            "ヰルト",
+            "、"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 23000,
+        "sound_end": 28600
+    },
+    {
+        "id": "Katatsumurino Uta-f000006",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "王サマハ、",
+        "sentence_with_furigana": "王サマハ、",
+        "word_base_list": [
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 28600,
+        "sound_end": 29600
+    },
+    {
+        "id": "Katatsumurino Uta-f000007",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "子ドモノ　ジブン、",
+        "sentence_with_furigana": "子ドモノ　ジブン、",
+        "word_base_list": [
+            "子",
+            "ドモノ",
+            " ",
+            "自分",
+            "、"
+        ],
+        "word_list": [
+            "子",
+            "ドモノ",
+            "　",
+            "ジブン",
+            "、"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 29600,
+        "sound_end": 32080
+    },
+    {
+        "id": "Katatsumurino Uta-f000008",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "何ダカ、",
+        "sentence_with_furigana": "何ダカ、",
+        "word_base_list": [
+            "何",
+            "ダカ",
+            "、"
+        ],
+        "word_list": [
+            "何",
+            "ダカ",
+            "、"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 32080,
+        "sound_end": 33000
+    },
+    {
+        "id": "Katatsumurino Uta-f000009",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "カタツムリノ　ウタヲ　ヨク　ウタツタ　コトヲ　オモヒダシマシタ。",
+        "sentence_with_furigana": "カタツムリノ　ウタヲ　ヨク　ウタツタ　コトヲ　オモヒダシマシタ。",
+        "word_base_list": [
+            "カタツムリノ",
+            " ",
+            "ウタヲ",
+            " ",
+            "ヨク",
+            " ",
+            "ウタツタ",
+            " ",
+            "コトヲ",
+            " ",
+            "オモヒダシマシタ",
+            "。"
+        ],
+        "word_list": [
+            "カタツムリノ",
+            "　",
+            "ウタヲ",
+            "　",
+            "ヨク",
+            "　",
+            "ウタツタ",
+            "　",
+            "コトヲ",
+            "　",
+            "オモヒダシマシタ",
+            "。"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 33000,
+        "sound_end": 42094
+    },
+    {
+        "id": "Katatsumurino Uta-f000010",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "「デンデン　蟲々　ツノ　出セヤ　ダツタカナア」ト、",
+        "sentence_with_furigana": "「デンデン　蟲々　ツノ　出セヤ　ダツタカナア」ト、",
+        "word_base_list": [
+            "「",
+            "デンデン",
+            " ",
+            "虫",
+            "々",
+            " ",
+            "角",
+            " ",
+            "出",
+            "セヤ",
+            " ",
+            "ダツタカナア",
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "デンデン",
+            "　",
+            "蟲",
+            "々",
+            "　",
+            "ツノ",
+            "　",
+            "出",
+            "セヤ",
+            "　",
+            "ダツタカナア",
+            "」",
+            "ト",
+            "、"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 42094,
+        "sound_end": 54360
+    },
+    {
+        "id": "Katatsumurino Uta-f000011",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "イロイロ　カンガヘタガ、",
+        "sentence_with_furigana": "イロイロ　カンガヘタガ、",
+        "word_base_list": [
+            "色々",
+            " ",
+            "カンガヘタガ",
+            "、"
+        ],
+        "word_list": [
+            "イロイロ",
+            "　",
+            "カンガヘタガ",
+            "、"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 54360,
+        "sound_end": 57972
+    },
+    {
+        "id": "Katatsumurino Uta-f000012",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "チツトモ　ソノ　ウタハ　オモヒダセマセンデシタ。",
+        "sentence_with_furigana": "チツトモ　ソノ　ウタハ　オモヒダセマセンデシタ。",
+        "word_base_list": [
+            "チツトモ",
+            " ",
+            "其の",
+            " ",
+            "ウタハ",
+            " ",
+            "オモヒダセマセンデシタ",
+            "。"
+        ],
+        "word_list": [
+            "チツトモ",
+            "　",
+            "ソノ",
+            "　",
+            "ウタハ",
+            "　",
+            "オモヒダセマセンデシタ",
+            "。"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 57972,
+        "sound_end": 64800
+    },
+    {
+        "id": "Katatsumurino Uta-f000013",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "「オ前タチ、",
+        "sentence_with_furigana": "「オ前タチ、",
+        "word_base_list": [
+            "「",
+            "御",
+            "前",
+            "タチ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "オ",
+            "前",
+            "タチ",
+            "、"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 64800,
+        "sound_end": 66920
+    },
+    {
+        "id": "Katatsumurino Uta-f000014",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "デンデンムシノ　ウタ　シラナイカ」ト、",
+        "sentence_with_furigana": "デンデンムシノ　ウタ　シラナイカ」ト、",
+        "word_base_list": [
+            "デンデンムシノ",
+            " ",
+            "ウタ",
+            " ",
+            "シラナイカ",
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "デンデンムシノ",
+            "　",
+            "ウタ",
+            "　",
+            "シラナイカ",
+            "」",
+            "ト",
+            "、"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 66920,
+        "sound_end": 72720
+    },
+    {
+        "id": "Katatsumurino Uta-f000015",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "オソバノ　モノニ　キイテモ、",
+        "sentence_with_furigana": "オソバノ　モノニ　キイテモ、",
+        "word_base_list": [
+            "オソバノ",
+            " ",
+            "モノニ",
+            " ",
+            "キイテモ",
+            "、"
+        ],
+        "word_list": [
+            "オソバノ",
+            "　",
+            "モノニ",
+            "　",
+            "キイテモ",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 72720,
+        "sound_end": 75215
+    },
+    {
+        "id": "Katatsumurino Uta-f000016",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "「シリマセン」ト　イツテ　クビヲ　カシゲテ　ヰマス。",
+        "sentence_with_furigana": "「シリマセン」ト　イツテ　クビヲ　カシゲテ　ヰマス。",
+        "word_base_list": [
+            "「",
+            "シリマセン",
+            "」",
+            "と",
+            " ",
+            "イツテ",
+            " ",
+            "クビヲ",
+            " ",
+            "カシゲテ",
+            " ",
+            "ヰマス",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "シリマセン",
+            "」",
+            "ト",
+            "　",
+            "イツテ",
+            "　",
+            "クビヲ",
+            "　",
+            "カシゲテ",
+            "　",
+            "ヰマス",
+            "。"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 75215,
+        "sound_end": 81600
+    },
+    {
+        "id": "Katatsumurino Uta-f000017",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "王サマハ、",
+        "sentence_with_furigana": "王サマハ、",
+        "word_base_list": [
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "word_list": [
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 84400,
+        "sound_end": 86440
+    },
+    {
+        "id": "Katatsumurino Uta-f000018",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "「デンデン　ムシムシ」ト　口ノ　中デ　イヒナガラ、",
+        "sentence_with_furigana": "「デンデン　ムシムシ」ト　 口[クチ]ノ　中デ　イヒナガラ、",
+        "word_base_list": [
+            "「",
+            "デンデン",
+            " ",
+            "ムシムシ",
+            "」",
+            "と",
+            " ",
+            "口",
+            "の",
+            " ",
+            "中",
+            "デ",
+            " ",
+            "イヒナガラ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "デンデン",
+            "　",
+            "ムシムシ",
+            "」",
+            "ト",
+            "　",
+            "口",
+            "ノ",
+            "　",
+            "中",
+            "デ",
+            "　",
+            "イヒナガラ",
+            "、"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 86440,
+        "sound_end": 96040
+    },
+    {
+        "id": "Katatsumurino Uta-f000019",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ニハヲ　グルリト　マハツテ　キマシタ。",
+        "sentence_with_furigana": "ニハヲ　グルリト　マハツテ　キマシタ。",
+        "word_base_list": [
+            "ニハヲ",
+            " ",
+            "グルリト",
+            " ",
+            "マハツテ",
+            " ",
+            "キマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ニハヲ",
+            "　",
+            "グルリト",
+            "　",
+            "マハツテ",
+            "　",
+            "キマシタ",
+            "。"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 96040,
+        "sound_end": 101040
+    },
+    {
+        "id": "Katatsumurino Uta-f000020",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ソレデモ、",
+        "sentence_with_furigana": "ソレデモ、",
+        "word_base_list": [
+            "ソレデモ",
+            "、"
+        ],
+        "word_list": [
+            "ソレデモ",
+            "、"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 101040,
+        "sound_end": 101800
+    },
+    {
+        "id": "Katatsumurino Uta-f000021",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "オモヒダセナイノデ、",
+        "sentence_with_furigana": "オモヒダセナイノデ、",
+        "word_base_list": [
+            "オモヒダセナイノデ",
+            "、"
+        ],
+        "word_list": [
+            "オモヒダセナイノデ",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 101800,
+        "sound_end": 104119
+    },
+    {
+        "id": "Katatsumurino Uta-f000022",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "トウトウ　オコツテ、",
+        "sentence_with_furigana": "トウトウ　オコツテ、",
+        "word_base_list": [
+            "到頭",
+            " ",
+            "オコツテ",
+            "、"
+        ],
+        "word_list": [
+            "トウトウ",
+            "　",
+            "オコツテ",
+            "、"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 104119,
+        "sound_end": 107023
+    },
+    {
+        "id": "Katatsumurino Uta-f000023",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "カタツムリヲ　ツブシテ　シマハウト　シタ　トキ、",
+        "sentence_with_furigana": "カタツムリヲ　ツブシテ　シマハウト　シタ　トキ、",
+        "word_base_list": [
+            "カタツムリヲ",
+            " ",
+            "ツブシテ",
+            " ",
+            "シマハウト",
+            " ",
+            "シタ",
+            " ",
+            "鴇",
+            "、"
+        ],
+        "word_list": [
+            "カタツムリヲ",
+            "　",
+            "ツブシテ",
+            "　",
+            "シマハウト",
+            "　",
+            "シタ",
+            "　",
+            "トキ",
+            "、"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 107023,
+        "sound_end": 111640
+    },
+    {
+        "id": "Katatsumurino Uta-f000024",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "フツト　オウサマノ　ココロニ、",
+        "sentence_with_furigana": "フツト　オウサマノ　ココロニ、",
+        "word_base_list": [
+            "フツト",
+            " ",
+            "オウサマノ",
+            " ",
+            "ココロニ",
+            "、"
+        ],
+        "word_list": [
+            "フツト",
+            "　",
+            "オウサマノ",
+            "　",
+            "ココロニ",
+            "、"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 111640,
+        "sound_end": 116800
+    },
+    {
+        "id": "Katatsumurino Uta-f000025",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "「デンデン　ムシムシ　ツノ　フレヨ、",
+        "sentence_with_furigana": "「デンデン　ムシムシ　ツノ　フレヨ、",
+        "word_base_list": [
+            "「",
+            "デンデン",
+            " ",
+            "ムシムシ",
+            " ",
+            "角",
+            " ",
+            "フレヨ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "デンデン",
+            "　",
+            "ムシムシ",
+            "　",
+            "ツノ",
+            "　",
+            "フレヨ",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 116800,
+        "sound_end": 124280
+    },
+    {
+        "id": "Katatsumurino Uta-f000026",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "夜アケニ、",
+        "sentence_with_furigana": "夜アケニ、",
+        "word_base_list": [
+            "夜",
+            "アケニ",
+            "、"
+        ],
+        "word_list": [
+            "夜",
+            "アケニ",
+            "、"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 124280,
+        "sound_end": 126040
+    },
+    {
+        "id": "Katatsumurino Uta-f000027",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ヌストガ　ヤツテ　クル」ト　イフ　ウタガ、",
+        "sentence_with_furigana": "ヌストガ　ヤツテ　クル」ト　イフ　ウタガ、",
+        "word_base_list": [
+            "ヌストガ",
+            " ",
+            "ヤツテ",
+            " ",
+            "クル",
+            "」",
+            "と",
+            " ",
+            "イフ",
+            " ",
+            "ウタガ",
+            "、"
+        ],
+        "word_list": [
+            "ヌストガ",
+            "　",
+            "ヤツテ",
+            "　",
+            "クル",
+            "」",
+            "ト",
+            "　",
+            "イフ",
+            "　",
+            "ウタガ",
+            "、"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 126040,
+        "sound_end": 132360
+    },
+    {
+        "id": "Katatsumurino Uta-f000028",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ウカビマシタ。",
+        "sentence_with_furigana": "ウカビマシタ。",
+        "word_base_list": [
+            "ウカビマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ウカビマシタ",
+            "。"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 132360,
+        "sound_end": 133280
+    },
+    {
+        "id": "Katatsumurino Uta-f000029",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ソレト　一シヨニ、",
+        "sentence_with_furigana": "ソレト　一シヨニ、",
+        "word_base_list": [
+            "ソレト",
+            " ",
+            "1",
+            "シヨニ",
+            "、"
+        ],
+        "word_list": [
+            "ソレト",
+            "　",
+            "一",
+            "シヨニ",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 135480,
+        "sound_end": 137400
+    },
+    {
+        "id": "Katatsumurino Uta-f000030",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ソノ　ウタヲ、",
+        "sentence_with_furigana": "ソノ　ウタヲ、",
+        "word_base_list": [
+            "其の",
+            " ",
+            "ウタヲ",
+            "、"
+        ],
+        "word_list": [
+            "ソノ",
+            "　",
+            "ウタヲ",
+            "、"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 137400,
+        "sound_end": 138560
+    },
+    {
+        "id": "Katatsumurino Uta-f000031",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ヨク　ウタツテ　下サツタ、",
+        "sentence_with_furigana": "ヨク　ウタツテ　下サツタ、",
+        "word_base_list": [
+            "ヨク",
+            " ",
+            "ウタツテ",
+            " ",
+            "下",
+            "サツタ",
+            "、"
+        ],
+        "word_list": [
+            "ヨク",
+            "　",
+            "ウタツテ",
+            "　",
+            "下",
+            "サツタ",
+            "、"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 138560,
+        "sound_end": 142080
+    },
+    {
+        "id": "Katatsumurino Uta-f000032",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ヤサシイ　オ母サンノ　コトモ　オモヒダシマシタ。",
+        "sentence_with_furigana": "ヤサシイ　オ母サンノ　コトモ　オモヒダシマシタ。",
+        "word_base_list": [
+            "ヤサシイ",
+            " ",
+            "御",
+            "母",
+            "サンノ",
+            " ",
+            "コトモ",
+            " ",
+            "オモヒダシマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ヤサシイ",
+            "　",
+            "オ",
+            "母",
+            "サンノ",
+            "　",
+            "コトモ",
+            "　",
+            "オモヒダシマシタ",
+            "。"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 142080,
+        "sound_end": 149831
+    },
+    {
+        "id": "Katatsumurino Uta-f000033",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "ソコデ　王サマハ、",
+        "sentence_with_furigana": "ソコデ　王サマハ、",
+        "word_base_list": [
+            "ソコデ",
+            " ",
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "word_list": [
+            "ソコデ",
+            "　",
+            "王",
+            "サマハ",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 149831,
+        "sound_end": 152002
+    },
+    {
+        "id": "Katatsumurino Uta-f000034",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "カタツムリヲ　ツブサナイデ、",
+        "sentence_with_furigana": "カタツムリヲ　ツブサナイデ、",
+        "word_base_list": [
+            "カタツムリヲ",
+            " ",
+            "ツブサナイデ",
+            "、"
+        ],
+        "word_list": [
+            "カタツムリヲ",
+            "　",
+            "ツブサナイデ",
+            "、"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 152002,
+        "sound_end": 155440
+    },
+    {
+        "id": "Katatsumurino Uta-f000035",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Katatsumurino Uta",
+        "deck_name_japanese": "カタツムリノ ウタ",
+        "sentence": "青イ　ハノ　上ニ　ソツト　ノセテ　ヤリマシタ。",
+        "sentence_with_furigana": "青イ　ハノ　上ニ　ソツト　ノセテ　ヤリマシタ。",
+        "word_base_list": [
+            "青",
+            "イ",
+            " ",
+            "ハノ",
+            " ",
+            "上",
+            "に",
+            " ",
+            "ソツト",
+            " ",
+            "ノセテ",
+            " ",
+            "ヤリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "青",
+            "イ",
+            "　",
+            "ハノ",
+            "　",
+            "上",
+            "ニ",
+            "　",
+            "ソツト",
+            "　",
+            "ノセテ",
+            "　",
+            "ヤリマシタ",
+            "。"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 155440,
+        "sound_end": 163280
+    }
+]

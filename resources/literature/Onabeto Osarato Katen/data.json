@@ -1,7 +1,6 @@
 [
     {
         "id": "Onabeto Osarato Katen-f000002",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -25,11 +24,12 @@
             "と",
             "カーテン"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 4687,
+        "sound_end": 9130
     },
     {
         "id": "Onabeto Osarato Katen-f000003",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -81,11 +81,12 @@
             "です",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9130,
+        "sound_end": 15360
     },
     {
         "id": "Onabeto Osarato Katen-f000004",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -143,11 +144,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 15360,
+        "sound_end": 22496
     },
     {
         "id": "Onabeto Osarato Katen-f000005",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -211,11 +213,12 @@
             "が",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 22496,
+        "sound_end": 29600
     },
     {
         "id": "Onabeto Osarato Katen-f000006",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -235,11 +238,12 @@
             "て",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 29600,
+        "sound_end": 31440
     },
     {
         "id": "Onabeto Osarato Katen-f000007",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -275,11 +279,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 31440,
+        "sound_end": 34020
     },
     {
         "id": "Onabeto Osarato Katen-f000008",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -333,11 +338,12 @@
             "が",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 36120,
+        "sound_end": 41240
     },
     {
         "id": "Onabeto Osarato Katen-f000009",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -377,11 +383,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 41240,
+        "sound_end": 46480
     },
     {
         "id": "Onabeto Osarato Katen-f000010",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -419,11 +426,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 46480,
+        "sound_end": 50920
     },
     {
         "id": "Onabeto Osarato Katen-f000011",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -467,11 +475,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 50920,
+        "sound_end": 53900
     },
     {
         "id": "Onabeto Osarato Katen-f000012",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -489,11 +498,12 @@
             "て",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 56000,
+        "sound_end": 56400
     },
     {
         "id": "Onabeto Osarato Katen-f000013",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -507,11 +517,12 @@
             "わたし",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 56400,
+        "sound_end": 57360
     },
     {
         "id": "Onabeto Osarato Katen-f000014",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -543,11 +554,12 @@
             "も",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 57360,
+        "sound_end": 59320
     },
     {
         "id": "Onabeto Osarato Katen-f000015",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -585,11 +597,12 @@
             "て",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 59320,
+        "sound_end": 63400
     },
     {
         "id": "Onabeto Osarato Katen-f000016",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -611,11 +624,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 63400,
+        "sound_end": 64239
     },
     {
         "id": "Onabeto Osarato Katen-f000017",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -639,11 +653,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 64239,
+        "sound_end": 65424
     },
     {
         "id": "Onabeto Osarato Katen-f000018",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -667,11 +682,12 @@
             "から",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 65424,
+        "sound_end": 67040
     },
     {
         "id": "Onabeto Osarato Katen-f000019",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -693,11 +709,12 @@
             "た",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 67040,
+        "sound_end": 70145
     },
     {
         "id": "Onabeto Osarato Katen-f000020",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -721,11 +738,12 @@
             "も",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 70145,
+        "sound_end": 71985
     },
     {
         "id": "Onabeto Osarato Katen-f000021",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -751,11 +769,12 @@
             "て",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 71985,
+        "sound_end": 75000
     },
     {
         "id": "Onabeto Osarato Katen-f000022",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -793,11 +812,12 @@
             "が",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 75000,
+        "sound_end": 78494
     },
     {
         "id": "Onabeto Osarato Katen-f000023",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -813,11 +833,12 @@
             "です",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 78494,
+        "sound_end": 81720
     },
     {
         "id": "Onabeto Osarato Katen-f000024",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -833,11 +854,12 @@
             "で",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 81720,
+        "sound_end": 82921
     },
     {
         "id": "Onabeto Osarato Katen-f000025",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -861,11 +883,12 @@
             "の",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 82921,
+        "sound_end": 84200
     },
     {
         "id": "Onabeto Osarato Katen-f000026",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -907,11 +930,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 84200,
+        "sound_end": 87781
     },
     {
         "id": "Onabeto Osarato Katen-f000027",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -947,11 +971,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 87781,
+        "sound_end": 90611
     },
     {
         "id": "Onabeto Osarato Katen-f000028",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -991,11 +1016,12 @@
             "て",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 92850,
+        "sound_end": 95080
     },
     {
         "id": "Onabeto Osarato Katen-f000029",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1041,11 +1067,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 95080,
+        "sound_end": 99550
     },
     {
         "id": "Onabeto Osarato Katen-f000030",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1071,11 +1098,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 99550,
+        "sound_end": 102779
     },
     {
         "id": "Onabeto Osarato Katen-f000031",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1109,11 +1137,12 @@
             "て",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 102779,
+        "sound_end": 106268
     },
     {
         "id": "Onabeto Osarato Katen-f000032",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1139,11 +1168,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 106268,
+        "sound_end": 108060
     },
     {
         "id": "Onabeto Osarato Katen-f000033",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1191,11 +1221,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 110035,
+        "sound_end": 116943
     },
     {
         "id": "Onabeto Osarato Katen-f000034",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1233,11 +1264,12 @@
             "て",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 116943,
+        "sound_end": 120866
     },
     {
         "id": "Onabeto Osarato Katen-f000035",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1275,11 +1307,12 @@
             "た",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 120866,
+        "sound_end": 126299
     },
     {
         "id": "Onabeto Osarato Katen-f000036",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1317,11 +1350,12 @@
             "て",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 126299,
+        "sound_end": 130674
     },
     {
         "id": "Onabeto Osarato Katen-f000037",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1337,11 +1371,12 @@
             "あゝ",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 130674,
+        "sound_end": 131440
     },
     {
         "id": "Onabeto Osarato Katen-f000038",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1359,11 +1394,12 @@
             "つたい",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 131440,
+        "sound_end": 132939
     },
     {
         "id": "Onabeto Osarato Katen-f000039",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1383,11 +1419,12 @@
             "て",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 132939,
+        "sound_end": 134137
     },
     {
         "id": "Onabeto Osarato Katen-f000040",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1419,11 +1456,12 @@
             "た",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 134137,
+        "sound_end": 138945
     },
     {
         "id": "Onabeto Osarato Katen-f000041",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1445,11 +1483,12 @@
             "からんころん",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 138945,
+        "sound_end": 141202
     },
     {
         "id": "Onabeto Osarato Katen-f000042",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1463,11 +1502,12 @@
             "からんころん",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 141202,
+        "sound_end": 143102
     },
     {
         "id": "Onabeto Osarato Katen-f000043",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1485,11 +1525,12 @@
             "＼",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 143102,
+        "sound_end": 144196
     },
     {
         "id": "Onabeto Osarato Katen-f000044",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1509,11 +1550,12 @@
             "と",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 144196,
+        "sound_end": 146071
     },
     {
         "id": "Onabeto Osarato Katen-f000045",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1543,11 +1585,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 146071,
+        "sound_end": 148040
     },
     {
         "id": "Onabeto Osarato Katen-f000046",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1571,11 +1614,12 @@
             "た",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 148040,
+        "sound_end": 151120
     },
     {
         "id": "Onabeto Osarato Katen-f000047",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1599,11 +1643,12 @@
             "が",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 151120,
+        "sound_end": 152360
     },
     {
         "id": "Onabeto Osarato Katen-f000048",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1629,11 +1674,12 @@
             "で",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 152360,
+        "sound_end": 154689
     },
     {
         "id": "Onabeto Osarato Katen-f000049",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1675,11 +1721,12 @@
             "た",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 154689,
+        "sound_end": 162353
     },
     {
         "id": "Onabeto Osarato Katen-f000050",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1705,11 +1752,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 162353,
+        "sound_end": 164627
     },
     {
         "id": "Onabeto Osarato Katen-f000051",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1749,11 +1797,12 @@
             "に",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 164627,
+        "sound_end": 167638
     },
     {
         "id": "Onabeto Osarato Katen-f000052",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1775,11 +1824,12 @@
             "た",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 167638,
+        "sound_end": 169400
     },
     {
         "id": "Onabeto Osarato Katen-f000053",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1811,11 +1861,12 @@
             "た",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 169400,
+        "sound_end": 174686
     },
     {
         "id": "Onabeto Osarato Katen-f000054",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1863,11 +1914,12 @@
             "から",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 174686,
+        "sound_end": 179329
     },
     {
         "id": "Onabeto Osarato Katen-f000055",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1899,11 +1951,12 @@
             "で",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 179329,
+        "sound_end": 181907
     },
     {
         "id": "Onabeto Osarato Katen-f000056",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1931,11 +1984,12 @@
             "て",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 181907,
+        "sound_end": 183825
     },
     {
         "id": "Onabeto Osarato Katen-f000057",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1967,11 +2021,12 @@
             "きり",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 183825,
+        "sound_end": 187040
     },
     {
         "id": "Onabeto Osarato Katen-f000058",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -1985,11 +2040,12 @@
             "いくら",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 187040,
+        "sound_end": 187440
     },
     {
         "id": "Onabeto Osarato Katen-f000059",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2013,11 +2069,12 @@
             "が",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 187440,
+        "sound_end": 188486
     },
     {
         "id": "Onabeto Osarato Katen-f000060",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2047,11 +2104,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 188486,
+        "sound_end": 190152
     },
     {
         "id": "Onabeto Osarato Katen-f000061",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2069,11 +2127,12 @@
             "で",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 192808,
+        "sound_end": 194683
     },
     {
         "id": "Onabeto Osarato Katen-f000062",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2113,11 +2172,12 @@
             "で",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 194683,
+        "sound_end": 199213
     },
     {
         "id": "Onabeto Osarato Katen-f000063",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2143,11 +2203,12 @@
             "で",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 199213,
+        "sound_end": 201114
     },
     {
         "id": "Onabeto Osarato Katen-f000064",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2171,11 +2232,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 201114,
+        "sound_end": 204080
     },
     {
         "id": "Onabeto Osarato Katen-f000065",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2201,11 +2263,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 204080,
+        "sound_end": 206156
     },
     {
         "id": "Onabeto Osarato Katen-f000066",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2237,11 +2300,12 @@
             "て",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 206156,
+        "sound_end": 208552
     },
     {
         "id": "Onabeto Osarato Katen-f000067",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onabeto Osarato Katen",
         "deck_name_japanese": "お鍋とお皿とカーテン",
@@ -2279,6 +2343,8 @@
             "う",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 208552,
+        "sound_end": 211500
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Akiga Kimashita-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -23,11 +22,12 @@
             "まし",
             "た"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5683,
+        "sound_end": 7620
     },
     {
         "id": "Akiga Kimashita-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -49,11 +49,12 @@
             "が",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 9650,
+        "sound_end": 11330
     },
     {
         "id": "Akiga Kimashita-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -77,11 +78,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 11330,
+        "sound_end": 14320
     },
     {
         "id": "Akiga Kimashita-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -113,11 +115,12 @@
             "です",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 14320,
+        "sound_end": 16782
     },
     {
         "id": "Akiga Kimashita-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -131,11 +134,12 @@
             "ピイー",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 19060,
+        "sound_end": 21150
     },
     {
         "id": "Akiga Kimashita-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -155,11 +159,12 @@
             "いう",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 21150,
+        "sound_end": 23760
     },
     {
         "id": "Akiga Kimashita-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -193,11 +198,12 @@
             "た",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 23760,
+        "sound_end": 27800
     },
     {
         "id": "Akiga Kimashita-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -231,11 +237,12 @@
             "から",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 27800,
+        "sound_end": 30229
     },
     {
         "id": "Akiga Kimashita-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -269,11 +276,12 @@
             "。",
             "」"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 30229,
+        "sound_end": 33369
     },
     {
         "id": "Akiga Kimashita-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -287,11 +295,12 @@
             "と",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 33369,
+        "sound_end": 33920
     },
     {
         "id": "Akiga Kimashita-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -319,11 +328,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 33920,
+        "sound_end": 36680
     },
     {
         "id": "Akiga Kimashita-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -341,11 +351,12 @@
             "。",
             "」"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 36680,
+        "sound_end": 37494
     },
     {
         "id": "Akiga Kimashita-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -365,11 +376,12 @@
             "て",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 37494,
+        "sound_end": 38501
     },
     {
         "id": "Akiga Kimashita-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -407,11 +419,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 38501,
+        "sound_end": 40660
     },
     {
         "id": "Akiga Kimashita-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -431,11 +444,12 @@
             "て",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 42760,
+        "sound_end": 43640
     },
     {
         "id": "Akiga Kimashita-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -463,11 +477,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 43640,
+        "sound_end": 46880
     },
     {
         "id": "Akiga Kimashita-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -493,11 +508,12 @@
             "も",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 46880,
+        "sound_end": 48640
     },
     {
         "id": "Akiga Kimashita-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -527,11 +543,12 @@
             "。",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 48640,
+        "sound_end": 50838
     },
     {
         "id": "Akiga Kimashita-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -553,11 +570,12 @@
             "た",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 50838,
+        "sound_end": 51640
     },
     {
         "id": "Akiga Kimashita-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -575,11 +593,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 53740,
+        "sound_end": 55040
     },
     {
         "id": "Akiga Kimashita-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -621,11 +640,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 55040,
+        "sound_end": 62400
     },
     {
         "id": "Akiga Kimashita-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -657,11 +677,12 @@
             "。",
             "」"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 62400,
+        "sound_end": 65239
     },
     {
         "id": "Akiga Kimashita-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -675,11 +696,12 @@
             "と",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 65239,
+        "sound_end": 65423
     },
     {
         "id": "Akiga Kimashita-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -707,11 +729,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 65423,
+        "sound_end": 68640
     },
     {
         "id": "Akiga Kimashita-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -743,11 +766,12 @@
             "。",
             "」"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 68640,
+        "sound_end": 71374
     },
     {
         "id": "Akiga Kimashita-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -761,11 +785,12 @@
             "と",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 71374,
+        "sound_end": 71523
     },
     {
         "id": "Akiga Kimashita-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -793,11 +818,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 71523,
+        "sound_end": 73163
     },
     {
         "id": "Akiga Kimashita-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -815,11 +841,12 @@
             "は",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 74720,
+        "sound_end": 76040
     },
     {
         "id": "Akiga Kimashita-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -853,11 +880,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 76040,
+        "sound_end": 80720
     },
     {
         "id": "Akiga Kimashita-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -871,11 +899,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 80720,
+        "sound_end": 81160
     },
     {
         "id": "Akiga Kimashita-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -897,11 +926,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 81160,
+        "sound_end": 84560
     },
     {
         "id": "Akiga Kimashita-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -937,11 +967,12 @@
             "だろう",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 84560,
+        "sound_end": 87160
     },
     {
         "id": "Akiga Kimashita-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -965,11 +996,12 @@
             "。",
             "」"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 87160,
+        "sound_end": 89762
     },
     {
         "id": "Akiga Kimashita-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -983,11 +1015,12 @@
             "と",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 89762,
+        "sound_end": 89920
     },
     {
         "id": "Akiga Kimashita-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1023,11 +1056,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 89920,
+        "sound_end": 93850
     },
     {
         "id": "Akiga Kimashita-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1061,11 +1095,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 93850,
+        "sound_end": 97320
     },
     {
         "id": "Akiga Kimashita-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1103,11 +1138,12 @@
             "て",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 97320,
+        "sound_end": 100200
     },
     {
         "id": "Akiga Kimashita-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1157,11 +1193,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 100200,
+        "sound_end": 103200
     },
     {
         "id": "Akiga Kimashita-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1179,11 +1216,12 @@
             "ちゃん",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 105500,
+        "sound_end": 106501
     },
     {
         "id": "Akiga Kimashita-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1207,11 +1245,12 @@
             "？",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 106501,
+        "sound_end": 108344
     },
     {
         "id": "Akiga Kimashita-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1225,11 +1264,12 @@
             "と",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 108344,
+        "sound_end": 108960
     },
     {
         "id": "Akiga Kimashita-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1267,11 +1307,12 @@
             "た",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 108960,
+        "sound_end": 112720
     },
     {
         "id": "Akiga Kimashita-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1287,11 +1328,12 @@
             "いま",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 112720,
+        "sound_end": 113255
     },
     {
         "id": "Akiga Kimashita-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1329,11 +1371,12 @@
             "。",
             "」"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 113255,
+        "sound_end": 115999
     },
     {
         "id": "Akiga Kimashita-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1347,11 +1390,12 @@
             "と",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 115999,
+        "sound_end": 116641
     },
     {
         "id": "Akiga Kimashita-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1377,11 +1421,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 116641,
+        "sound_end": 120040
     },
     {
         "id": "Akiga Kimashita-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1401,11 +1446,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 120040,
+        "sound_end": 121000
     },
     {
         "id": "Akiga Kimashita-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1431,11 +1477,12 @@
             "。",
             "」"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 121000,
+        "sound_end": 122929
     },
     {
         "id": "Akiga Kimashita-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1455,11 +1502,12 @@
             "と",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 122929,
+        "sound_end": 123920
     },
     {
         "id": "Akiga Kimashita-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1479,11 +1527,12 @@
             "は",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 123920,
+        "sound_end": 125720
     },
     {
         "id": "Akiga Kimashita-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1505,11 +1554,12 @@
             "かい",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 125720,
+        "sound_end": 127767
     },
     {
         "id": "Akiga Kimashita-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1539,11 +1589,12 @@
             "が",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 127767,
+        "sound_end": 129920
     },
     {
         "id": "Akiga Kimashita-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1577,11 +1628,12 @@
             "。",
             "」"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 129920,
+        "sound_end": 132647
     },
     {
         "id": "Akiga Kimashita-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1603,11 +1655,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 132647,
+        "sound_end": 133900
     },
     {
         "id": "Akiga Kimashita-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1643,11 +1696,12 @@
             "と",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 135360,
+        "sound_end": 138600
     },
     {
         "id": "Akiga Kimashita-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1681,11 +1735,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 138600,
+        "sound_end": 142169
     },
     {
         "id": "Akiga Kimashita-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1711,11 +1766,12 @@
             "は",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 142169,
+        "sound_end": 143970
     },
     {
         "id": "Akiga Kimashita-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1749,11 +1805,12 @@
             "た",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 143970,
+        "sound_end": 147360
     },
     {
         "id": "Akiga Kimashita-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1769,11 +1826,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 147360,
+        "sound_end": 148000
     },
     {
         "id": "Akiga Kimashita-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1791,11 +1849,12 @@
             "。",
             "」"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 148000,
+        "sound_end": 149805
     },
     {
         "id": "Akiga Kimashita-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1809,11 +1868,12 @@
             "と",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 149805,
+        "sound_end": 150000
     },
     {
         "id": "Akiga Kimashita-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1851,11 +1911,12 @@
             "た",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 150000,
+        "sound_end": 153800
     },
     {
         "id": "Akiga Kimashita-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1873,11 +1934,12 @@
             "て",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 153800,
+        "sound_end": 154837
     },
     {
         "id": "Akiga Kimashita-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1915,11 +1977,12 @@
             "と",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 154837,
+        "sound_end": 158154
     },
     {
         "id": "Akiga Kimashita-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1945,11 +2008,12 @@
             "ブウー",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 158154,
+        "sound_end": 162236
     },
     {
         "id": "Akiga Kimashita-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -1983,11 +2047,12 @@
             "た",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 162236,
+        "sound_end": 165930
     },
     {
         "id": "Akiga Kimashita-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -2007,11 +2072,12 @@
             "は",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 165930,
+        "sound_end": 167220
     },
     {
         "id": "Akiga Kimashita-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -2051,11 +2117,12 @@
             "た",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 167220,
+        "sound_end": 172082
     },
     {
         "id": "Akiga Kimashita-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -2079,11 +2146,12 @@
             "て",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 172082,
+        "sound_end": 174089
     },
     {
         "id": "Akiga Kimashita-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -2099,11 +2167,12 @@
             "から",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 174089,
+        "sound_end": 174880
     },
     {
         "id": "Akiga Kimashita-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akiga Kimashita",
         "deck_name_japanese": "秋が　きました",
@@ -2143,6 +2212,8 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 174880,
+        "sound_end": 178280
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Akino Uta-f000002",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -17,11 +16,12 @@
             "の",
             "歌"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 4129,
+        "sound_end": 10107
     },
     {
         "id": "Akino Uta-f000003",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -57,11 +57,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10107,
+        "sound_end": 16840
     },
     {
         "id": "Akino Uta-f000004",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -103,11 +104,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 16840,
+        "sound_end": 22760
     },
     {
         "id": "Akino Uta-f000005",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -121,11 +123,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 22760,
+        "sound_end": 23760
     },
     {
         "id": "Akino Uta-f000006",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -145,11 +148,12 @@
             "て",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 23760,
+        "sound_end": 24600
     },
     {
         "id": "Akino Uta-f000007",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -171,11 +175,12 @@
             "て",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 24600,
+        "sound_end": 26800
     },
     {
         "id": "Akino Uta-f000008",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -215,11 +220,12 @@
             "入る",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 26800,
+        "sound_end": 35960
     },
     {
         "id": "Akino Uta-f000009",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -235,11 +241,12 @@
             "の",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 35960,
+        "sound_end": 36920
     },
     {
         "id": "Akino Uta-f000010",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -265,11 +272,12 @@
             "に",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 36920,
+        "sound_end": 38560
     },
     {
         "id": "Akino Uta-f000011",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -291,11 +299,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 38560,
+        "sound_end": 42588
     },
     {
         "id": "Akino Uta-f000012",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -325,11 +334,12 @@
             "は",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 42588,
+        "sound_end": 45760
     },
     {
         "id": "Akino Uta-f000013",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -355,11 +365,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 45760,
+        "sound_end": 49840
     },
     {
         "id": "Akino Uta-f000014",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -381,11 +392,12 @@
             "から",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 49840,
+        "sound_end": 51918
     },
     {
         "id": "Akino Uta-f000015",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -409,11 +421,12 @@
             "と",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 51918,
+        "sound_end": 54880
     },
     {
         "id": "Akino Uta-f000016",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -429,11 +442,12 @@
             "が",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 54880,
+        "sound_end": 56240
     },
     {
         "id": "Akino Uta-f000017",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -461,11 +475,12 @@
             "注ぐ",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 56240,
+        "sound_end": 63760
     },
     {
         "id": "Akino Uta-f000018",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -481,11 +496,12 @@
             "は",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 63760,
+        "sound_end": 64760
     },
     {
         "id": "Akino Uta-f000019",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -507,11 +523,12 @@
             "縫う",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 64760,
+        "sound_end": 66160
     },
     {
         "id": "Akino Uta-f000020",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -533,11 +550,12 @@
             "を",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 66160,
+        "sound_end": 67920
     },
     {
         "id": "Akino Uta-f000021",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -559,11 +577,12 @@
             "歩く",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 67920,
+        "sound_end": 71360
     },
     {
         "id": "Akino Uta-f000022",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -583,11 +602,12 @@
             "で",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 71360,
+        "sound_end": 73120
     },
     {
         "id": "Akino Uta-f000023",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -613,11 +633,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 73120,
+        "sound_end": 79200
     },
     {
         "id": "Akino Uta-f000024",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -643,11 +664,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 79200,
+        "sound_end": 82640
     },
     {
         "id": "Akino Uta-f000025",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -661,11 +683,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 82640,
+        "sound_end": 83920
     },
     {
         "id": "Akino Uta-f000026",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -697,11 +720,12 @@
             "は",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 83920,
+        "sound_end": 86200
     },
     {
         "id": "Akino Uta-f000027",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -725,11 +749,12 @@
             "て",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 86200,
+        "sound_end": 88848
     },
     {
         "id": "Akino Uta-f000028",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -751,11 +776,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 88848,
+        "sound_end": 93000
     },
     {
         "id": "Akino Uta-f000029",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -773,11 +799,12 @@
             "は",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 93000,
+        "sound_end": 94280
     },
     {
         "id": "Akino Uta-f000030",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -809,11 +836,12 @@
             "て",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 94280,
+        "sound_end": 97360
     },
     {
         "id": "Akino Uta-f000031",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -845,11 +873,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 97360,
+        "sound_end": 102400
     },
     {
         "id": "Akino Uta-f000032",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -877,11 +906,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 102400,
+        "sound_end": 105200
     },
     {
         "id": "Akino Uta-f000033",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -907,11 +937,12 @@
             "答える",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 105200,
+        "sound_end": 109224
     },
     {
         "id": "Akino Uta-f000034",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -931,11 +962,12 @@
             "が",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 109224,
+        "sound_end": 111000
     },
     {
         "id": "Akino Uta-f000035",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -967,11 +999,12 @@
             "に",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 111000,
+        "sound_end": 114800
     },
     {
         "id": "Akino Uta-f000036",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -991,11 +1024,12 @@
             "止まる",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 114800,
+        "sound_end": 117294
     },
     {
         "id": "Akino Uta-f000037",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1009,11 +1043,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 117294,
+        "sound_end": 118600
     },
     {
         "id": "Akino Uta-f000038",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1035,11 +1070,12 @@
             "交わす",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 118600,
+        "sound_end": 121320
     },
     {
         "id": "Akino Uta-f000039",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1061,11 +1097,12 @@
             "は",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 121320,
+        "sound_end": 122880
     },
     {
         "id": "Akino Uta-f000040",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1091,11 +1128,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 122880,
+        "sound_end": 128360
     },
     {
         "id": "Akino Uta-f000041",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1117,11 +1155,12 @@
             "出す",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 128360,
+        "sound_end": 131771
     },
     {
         "id": "Akino Uta-f000042",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1141,11 +1180,12 @@
             "は",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 131771,
+        "sound_end": 133480
     },
     {
         "id": "Akino Uta-f000043",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1169,11 +1209,12 @@
             "て",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 133480,
+        "sound_end": 135960
     },
     {
         "id": "Akino Uta-f000044",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1197,11 +1238,12 @@
             "入る",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 135960,
+        "sound_end": 139920
     },
     {
         "id": "Akino Uta-f000045",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1221,11 +1263,12 @@
             "の",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 139920,
+        "sound_end": 140920
     },
     {
         "id": "Akino Uta-f000046",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1249,11 +1292,12 @@
             "て",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 140920,
+        "sound_end": 142680
     },
     {
         "id": "Akino Uta-f000047",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1275,11 +1319,12 @@
             "に",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 142680,
+        "sound_end": 145176
     },
     {
         "id": "Akino Uta-f000048",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1295,11 +1340,12 @@
             "な",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 145176,
+        "sound_end": 145960
     },
     {
         "id": "Akino Uta-f000049",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1329,11 +1375,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 145960,
+        "sound_end": 149922
     },
     {
         "id": "Akino Uta-f000050",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1359,11 +1406,12 @@
             "を",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 149922,
+        "sound_end": 151960
     },
     {
         "id": "Akino Uta-f000051",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1389,11 +1437,12 @@
             "に",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 151960,
+        "sound_end": 154080
     },
     {
         "id": "Akino Uta-f000052",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1421,11 +1470,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 154080,
+        "sound_end": 156320
     },
     {
         "id": "Akino Uta-f000053",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1451,11 +1501,12 @@
             "が",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 156320,
+        "sound_end": 161800
     },
     {
         "id": "Akino Uta-f000054",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1475,11 +1526,12 @@
             "の",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 161800,
+        "sound_end": 163400
     },
     {
         "id": "Akino Uta-f000055",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1511,11 +1563,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 163400,
+        "sound_end": 167898
     },
     {
         "id": "Akino Uta-f000056",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1535,11 +1588,12 @@
             "果敢なく",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 167898,
+        "sound_end": 170320
     },
     {
         "id": "Akino Uta-f000057",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1553,11 +1607,12 @@
             "淋しい",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 170320,
+        "sound_end": 174320
     },
     {
         "id": "Akino Uta-f000058",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1587,11 +1642,12 @@
             "が",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 174320,
+        "sound_end": 177080
     },
     {
         "id": "Akino Uta-f000059",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1617,11 +1673,12 @@
             "行く",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 177080,
+        "sound_end": 180600
     },
     {
         "id": "Akino Uta-f000060",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1637,11 +1694,12 @@
             "は",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 180600,
+        "sound_end": 181600
     },
     {
         "id": "Akino Uta-f000061",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1665,11 +1723,12 @@
             "て",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 181600,
+        "sound_end": 183440
     },
     {
         "id": "Akino Uta-f000062",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1693,11 +1752,12 @@
             "に",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 183440,
+        "sound_end": 185324
     },
     {
         "id": "Akino Uta-f000063",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1733,11 +1793,12 @@
             "詰める",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 185324,
+        "sound_end": 192480
     },
     {
         "id": "Akino Uta-f000064",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1763,11 +1824,12 @@
             "が",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 192480,
+        "sound_end": 194547
     },
     {
         "id": "Akino Uta-f000065",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1791,11 +1853,12 @@
             "流れる",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 194547,
+        "sound_end": 197680
     },
     {
         "id": "Akino Uta-f000066",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1809,11 +1872,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 197680,
+        "sound_end": 198920
     },
     {
         "id": "Akino Uta-f000067",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1847,11 +1911,12 @@
             "て",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 198920,
+        "sound_end": 202440
     },
     {
         "id": "Akino Uta-f000068",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1875,11 +1940,12 @@
             "入る",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 202440,
+        "sound_end": 205000
     },
     {
         "id": "Akino Uta-f000069",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1905,11 +1971,12 @@
             "ある",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 205000,
+        "sound_end": 211223
     },
     {
         "id": "Akino Uta-f000070",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1931,11 +1998,12 @@
             "来る",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 211223,
+        "sound_end": 213880
     },
     {
         "id": "Akino Uta-f000071",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1961,11 +2029,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 213880,
+        "sound_end": 218920
     },
     {
         "id": "Akino Uta-f000072",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -1981,11 +2050,12 @@
             "は",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 218920,
+        "sound_end": 219680
     },
     {
         "id": "Akino Uta-f000073",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2003,11 +2073,12 @@
             "淋しく",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 219680,
+        "sound_end": 221840
     },
     {
         "id": "Akino Uta-f000074",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2039,11 +2110,12 @@
             "て",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 221840,
+        "sound_end": 225218
     },
     {
         "id": "Akino Uta-f000075",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2095,11 +2167,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 225218,
+        "sound_end": 234735
     },
     {
         "id": "Akino Uta-f000076",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2119,11 +2192,12 @@
             "と",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 234735,
+        "sound_end": 236290
     },
     {
         "id": "Akino Uta-f000077",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2145,11 +2219,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 236304,
+        "sound_end": 239320
     },
     {
         "id": "Akino Uta-f000078",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2163,11 +2238,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 239320,
+        "sound_end": 240480
     },
     {
         "id": "Akino Uta-f000079",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2195,11 +2271,12 @@
             "から",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 240480,
+        "sound_end": 242960
     },
     {
         "id": "Akino Uta-f000080",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2235,11 +2312,12 @@
             "て",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 242960,
+        "sound_end": 247040
     },
     {
         "id": "Akino Uta-f000081",
-        "author": "Torahiko Terada",
         "author_japanese": "寺田 寅彦",
         "deck_name": "Akino Uta",
         "deck_name_japanese": "秋の歌",
@@ -2261,6 +2339,8 @@
             "砕ける",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 247040,
+        "sound_end": 249347
     }
 ]

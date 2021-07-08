@@ -1,0 +1,4189 @@
+[
+    {
+        "id": "Karasuto Kagashi-f000002",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "からすとかがし",
+        "sentence_with_furigana": "からすとかがし",
+        "word_base_list": [
+            "烏",
+            "と",
+            "か",
+            "が",
+            "為る"
+        ],
+        "word_list": [
+            "からす",
+            "と",
+            "か",
+            "が",
+            "し"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 4995,
+        "sound_end": 9680
+    },
+    {
+        "id": "Karasuto Kagashi-f000003",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、",
+        "word_base_list": [
+            "太吉",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "太吉",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 9680,
+        "sound_end": 11320
+    },
+    {
+        "id": "Karasuto Kagashi-f000004",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "百姓が、",
+        "sentence_with_furigana": "百 姓[しょう]が、",
+        "word_base_list": [
+            "百姓",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "百姓",
+            "が",
+            "、"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 11320,
+        "sound_end": 12000
+    },
+    {
+        "id": "Karasuto Kagashi-f000005",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かさをかぶって、",
+        "sentence_with_furigana": "かさをかぶって、",
+        "word_base_list": [
+            "かさ",
+            "を",
+            "被る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "かさ",
+            "を",
+            "かぶっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 12000,
+        "sound_end": 13692
+    },
+    {
+        "id": "Karasuto Kagashi-f000006",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "手に弓を持って立っている、",
+        "sentence_with_furigana": "手[て]に 弓[ゆみ]を 持[も]って 立[た]っている、",
+        "word_base_list": [
+            "手",
+            "に",
+            "弓",
+            "を",
+            "持つ",
+            "て",
+            "立つ",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "手",
+            "に",
+            "弓",
+            "を",
+            "持っ",
+            "て",
+            "立っ",
+            "て",
+            "いる",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 13692,
+        "sound_end": 15840
+    },
+    {
+        "id": "Karasuto Kagashi-f000007",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かがしをつくる名人でした。",
+        "sentence_with_furigana": "かがしをつくる 名人[めいじん]でした。",
+        "word_base_list": [
+            "か",
+            "がし",
+            "を",
+            "作る",
+            "名人",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "か",
+            "がし",
+            "を",
+            "つくる",
+            "名人",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 15840,
+        "sound_end": 19400
+    },
+    {
+        "id": "Karasuto Kagashi-f000008",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "それを見ると、",
+        "sentence_with_furigana": "それを 見[み]ると、",
+        "word_base_list": [
+            "其れ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 19400,
+        "sound_end": 21040
+    },
+    {
+        "id": "Karasuto Kagashi-f000009",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "からすやすずめなどが、",
+        "sentence_with_furigana": "からすやすずめなどが、",
+        "word_base_list": [
+            "烏",
+            "や",
+            "雀",
+            "など",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "からす",
+            "や",
+            "すずめ",
+            "など",
+            "が",
+            "、"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 21040,
+        "sound_end": 22480
+    },
+    {
+        "id": "Karasuto Kagashi-f000010",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そばへ寄りつきませんでした。",
+        "sentence_with_furigana": "そばへ 寄[よ]りつきませんでした。",
+        "word_base_list": [
+            "そば",
+            "へ",
+            "寄る",
+            "付く",
+            "ます",
+            "ず",
+            "です",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "そば",
+            "へ",
+            "寄り",
+            "つき",
+            "ませ",
+            "ん",
+            "でし",
+            "た",
+            "。"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 22480,
+        "sound_end": 26640
+    },
+    {
+        "id": "Karasuto Kagashi-f000011",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "それも、",
+        "sentence_with_furigana": "それも、",
+        "word_base_list": [
+            "其れ",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "も",
+            "、"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 26640,
+        "sound_end": 27160
+    },
+    {
+        "id": "Karasuto Kagashi-f000012",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そのはずで、",
+        "sentence_with_furigana": "そのはずで、",
+        "word_base_list": [
+            "其の",
+            "筈",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "はず",
+            "で",
+            "、"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 27160,
+        "sound_end": 29000
+    },
+    {
+        "id": "Karasuto Kagashi-f000013",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんは若い時分から弓を射ることが上手で、",
+        "sentence_with_furigana": "おじいさんは 若[わか]い 時分[じぶん]から 弓[ゆみ]を 射[い]ることが 上手[じょうず]で、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "若い",
+            "時分",
+            "から",
+            "弓",
+            "を",
+            "射る",
+            "こと",
+            "が",
+            "上手",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "若い",
+            "時分",
+            "から",
+            "弓",
+            "を",
+            "射る",
+            "こと",
+            "が",
+            "上手",
+            "で",
+            "、"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 29000,
+        "sound_end": 34440
+    },
+    {
+        "id": "Karasuto Kagashi-f000014",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "どんな小さな鳥でも、",
+        "sentence_with_furigana": "どんな 小[ちい]さな 鳥[とり]でも、",
+        "word_base_list": [
+            "どんな",
+            "小さな",
+            "鳥",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "どんな",
+            "小さな",
+            "鳥",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 34440,
+        "sound_end": 36800
+    },
+    {
+        "id": "Karasuto Kagashi-f000015",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ねらえば、",
+        "sentence_with_furigana": "ねらえば、",
+        "word_base_list": [
+            "狙う",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "ねらえ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 36800,
+        "sound_end": 37791
+    },
+    {
+        "id": "Karasuto Kagashi-f000016",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かならず射落としたものです。",
+        "sentence_with_furigana": "かならず 射落[いお]としたものです。",
+        "word_base_list": [
+            "必ず",
+            "射る",
+            "落とす",
+            "た",
+            "物",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "かならず",
+            "射",
+            "落とし",
+            "た",
+            "もの",
+            "です",
+            "。"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 37791,
+        "sound_end": 41040
+    },
+    {
+        "id": "Karasuto Kagashi-f000017",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "よく、",
+        "sentence_with_furigana": "よく、",
+        "word_base_list": [
+            "良く",
+            "、"
+        ],
+        "word_list": [
+            "よく",
+            "、"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 41040,
+        "sound_end": 42200
+    },
+    {
+        "id": "Karasuto Kagashi-f000018",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "晩方の空を飛んでいくかりを射落としたり、",
+        "sentence_with_furigana": "晩方[ばんがた]の 空[そら]を 飛[と]んでいくかりを 射落[いお]としたり、",
+        "word_base_list": [
+            "晩方",
+            "の",
+            "空",
+            "を",
+            "飛ぶ",
+            "で",
+            "行く",
+            "かり",
+            "を",
+            "射る",
+            "落とす",
+            "たり",
+            "、"
+        ],
+        "word_list": [
+            "晩方",
+            "の",
+            "空",
+            "を",
+            "飛ん",
+            "で",
+            "いく",
+            "かり",
+            "を",
+            "射",
+            "落とし",
+            "たり",
+            "、"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 42200,
+        "sound_end": 46000
+    },
+    {
+        "id": "Karasuto Kagashi-f000019",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "はたけで遊んでいるすずめを射とめたりしました。",
+        "sentence_with_furigana": "はたけで 遊[あそ]んでいるすずめを 射[い]とめたりしました。",
+        "word_base_list": [
+            "はたけ",
+            "で",
+            "遊ぶ",
+            "で",
+            "居る",
+            "雀",
+            "を",
+            "射る",
+            "とめる",
+            "たり",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "はたけ",
+            "で",
+            "遊ん",
+            "で",
+            "いる",
+            "すずめ",
+            "を",
+            "射",
+            "とめ",
+            "たり",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 46000,
+        "sound_end": 50880
+    },
+    {
+        "id": "Karasuto Kagashi-f000020",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "だからおじいさんを見ると、",
+        "sentence_with_furigana": "だからおじいさんを 見[み]ると、",
+        "word_base_list": [
+            "だ",
+            "から",
+            "御",
+            "爺",
+            "さん",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "だ",
+            "から",
+            "お",
+            "じい",
+            "さん",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 50880,
+        "sound_end": 53383
+    },
+    {
+        "id": "Karasuto Kagashi-f000021",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "小鳥たちは鳴くのをやめて、",
+        "sentence_with_furigana": "小鳥[ことり]たちは 鳴[な]くのをやめて、",
+        "word_base_list": [
+            "小鳥",
+            "達",
+            "は",
+            "鳴く",
+            "の",
+            "を",
+            "やめる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "小鳥",
+            "たち",
+            "は",
+            "鳴く",
+            "の",
+            "を",
+            "やめ",
+            "て",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 53383,
+        "sound_end": 56080
+    },
+    {
+        "id": "Karasuto Kagashi-f000022",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "どこへか姿をかくしてしまいました。",
+        "sentence_with_furigana": "どこへか 姿[すがた]をかくしてしまいました。",
+        "word_base_list": [
+            "どこ",
+            "へ",
+            "か",
+            "姿",
+            "を",
+            "隠す",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "どこ",
+            "へ",
+            "か",
+            "姿",
+            "を",
+            "かくし",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 56080,
+        "sound_end": 62960
+    },
+    {
+        "id": "Karasuto Kagashi-f000023",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "word_base_list": [
+            "然し",
+            "、"
+        ],
+        "word_list": [
+            "しかし",
+            "、"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 62960,
+        "sound_end": 63480
+    },
+    {
+        "id": "Karasuto Kagashi-f000024",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "このごろは、",
+        "sentence_with_furigana": "このごろは、",
+        "word_base_list": [
+            "此の頃",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "このごろ",
+            "は",
+            "、"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 63480,
+        "sound_end": 65319
+    },
+    {
+        "id": "Karasuto Kagashi-f000025",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんも目がわるくなって、",
+        "sentence_with_furigana": "おじいさんも 目[め]がわるくなって、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "も",
+            "目",
+            "が",
+            "悪い",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "も",
+            "目",
+            "が",
+            "わるく",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 65319,
+        "sound_end": 67535
+    },
+    {
+        "id": "Karasuto Kagashi-f000026",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ねらいがきかなくなりました。",
+        "sentence_with_furigana": "ねらいがきかなくなりました。",
+        "word_base_list": [
+            "狙い",
+            "が",
+            "きく",
+            "ない",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ねらい",
+            "が",
+            "きか",
+            "なく",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 67535,
+        "sound_end": 71680
+    },
+    {
+        "id": "Karasuto Kagashi-f000027",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "けれども、",
+        "sentence_with_furigana": "けれども、",
+        "word_base_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "けれど",
+            "も",
+            "、"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 71680,
+        "sound_end": 72200
+    },
+    {
+        "id": "Karasuto Kagashi-f000028",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "鳥たちは、",
+        "sentence_with_furigana": "鳥[とり]たちは、",
+        "word_base_list": [
+            "鳥",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "鳥",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 72200,
+        "sound_end": 74240
+    },
+    {
+        "id": "Karasuto Kagashi-f000029",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "弓を持って立っいるかがしを見ると、",
+        "sentence_with_furigana": "弓[ゆみ]を 持[も]って 立[た]っいるかがしを 見[み]ると、",
+        "word_base_list": [
+            "弓",
+            "を",
+            "持つ",
+            "て",
+            "立つ",
+            "居る",
+            "か",
+            "がし",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "弓",
+            "を",
+            "持っ",
+            "て",
+            "立っ",
+            "いる",
+            "か",
+            "がし",
+            "を",
+            "見る",
+            "と",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 74240,
+        "sound_end": 77960
+    },
+    {
+        "id": "Karasuto Kagashi-f000030",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "やはりおじいさんのような、",
+        "sentence_with_furigana": "やはりおじいさんのような、",
+        "word_base_list": [
+            "矢張り",
+            "御",
+            "爺",
+            "さん",
+            "の",
+            "様",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "やはり",
+            "お",
+            "じい",
+            "さん",
+            "の",
+            "よう",
+            "な",
+            "、"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 77960,
+        "sound_end": 80200
+    },
+    {
+        "id": "Karasuto Kagashi-f000031",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "怖ろしい人だと思ったのです。",
+        "sentence_with_furigana": "怖[おそ]ろしい 人[ひと]だと 思[おも]ったのです。",
+        "word_base_list": [
+            "恐ろしい",
+            "人",
+            "だ",
+            "と",
+            "思う",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "怖ろしい",
+            "人",
+            "だ",
+            "と",
+            "思っ",
+            "た",
+            "の",
+            "です",
+            "。"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 80200,
+        "sound_end": 86640
+    },
+    {
+        "id": "Karasuto Kagashi-f000032",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "親鳥は、",
+        "sentence_with_furigana": "親鳥[おやどり]は、",
+        "word_base_list": [
+            "親鳥",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "親鳥",
+            "は",
+            "、"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 86640,
+        "sound_end": 88027
+    },
+    {
+        "id": "Karasuto Kagashi-f000033",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "子鳥にいいました。",
+        "sentence_with_furigana": "子鳥[ことり]にいいました。",
+        "word_base_list": [
+            "小鳥",
+            "に",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "子鳥",
+            "に",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 88027,
+        "sound_end": 93160
+    },
+    {
+        "id": "Karasuto Kagashi-f000034",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「あの、",
+        "sentence_with_furigana": "「あの、",
+        "word_base_list": [
+            "「",
+            "彼の",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あの",
+            "、"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 93160,
+        "sound_end": 94163
+    },
+    {
+        "id": "Karasuto Kagashi-f000035",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "田の中に立っている人の手に持つのが、",
+        "sentence_with_furigana": "田[た]の 中[なか]に 立[た]っている 人[ひと]の 手[て]に 持[も]つのが、",
+        "word_base_list": [
+            "田",
+            "の",
+            "中",
+            "に",
+            "立つ",
+            "て",
+            "居る",
+            "人",
+            "の",
+            "手",
+            "に",
+            "持つ",
+            "の",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "田",
+            "の",
+            "中",
+            "に",
+            "立っ",
+            "て",
+            "いる",
+            "人",
+            "の",
+            "手",
+            "に",
+            "持つ",
+            "の",
+            "が",
+            "、"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 94163,
+        "sound_end": 97530
+    },
+    {
+        "id": "Karasuto Kagashi-f000036",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんや、",
+        "sentence_with_furigana": "おじいさんや、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "や",
+            "、"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 97530,
+        "sound_end": 98720
+    },
+    {
+        "id": "Karasuto Kagashi-f000037",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おばあさんから、",
+        "sentence_with_furigana": "おばあさんから、",
+        "word_base_list": [
+            "御",
+            "婆",
+            "さん",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ばあ",
+            "さん",
+            "から",
+            "、"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 98720,
+        "sound_end": 99640
+    },
+    {
+        "id": "Karasuto Kagashi-f000038",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "話にきいた、",
+        "sentence_with_furigana": "話[はなし]にきいた、",
+        "word_base_list": [
+            "話",
+            "に",
+            "きく",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "話",
+            "に",
+            "きい",
+            "た",
+            "、"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 99640,
+        "sound_end": 101360
+    },
+    {
+        "id": "Karasuto Kagashi-f000039",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "怖ろしい弓というものだよ。",
+        "sentence_with_furigana": "怖[おそ]ろしい 弓[ゆみ]というものだよ。",
+        "word_base_list": [
+            "恐ろしい",
+            "弓",
+            "と",
+            "言う",
+            "物",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "怖ろしい",
+            "弓",
+            "と",
+            "いう",
+            "もの",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 101360,
+        "sound_end": 105160
+    },
+    {
+        "id": "Karasuto Kagashi-f000040",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いつ飛んできて、",
+        "sentence_with_furigana": "いつ 飛[と]んできて、",
+        "word_base_list": [
+            "いつ",
+            "飛ぶ",
+            "で",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "飛ん",
+            "で",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 105160,
+        "sound_end": 106560
+    },
+    {
+        "id": "Karasuto Kagashi-f000041",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "あたるかしれないから、",
+        "sentence_with_furigana": "あたるかしれないから、",
+        "word_base_list": [
+            "当たる",
+            "か",
+            "知る",
+            "ない",
+            "から",
+            "、"
+        ],
+        "word_list": [
+            "あたる",
+            "か",
+            "しれ",
+            "ない",
+            "から",
+            "、"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 106560,
+        "sound_end": 108840
+    },
+    {
+        "id": "Karasuto Kagashi-f000042",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そばにゆかないがいい。」",
+        "sentence_with_furigana": "そばにゆかないがいい。」",
+        "word_base_list": [
+            "そば",
+            "に",
+            "行く",
+            "ない",
+            "が",
+            "良い",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "そば",
+            "に",
+            "ゆか",
+            "ない",
+            "が",
+            "いい",
+            "。",
+            "」"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 108840,
+        "sound_end": 113673
+    },
+    {
+        "id": "Karasuto Kagashi-f000043",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "子鳥たちは、",
+        "sentence_with_furigana": "子鳥[ことり]たちは、",
+        "word_base_list": [
+            "小鳥",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "子鳥",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000043.mp3",
+        "sound_begin": 113673,
+        "sound_end": 115612
+    },
+    {
+        "id": "Karasuto Kagashi-f000044",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "たびたび、",
+        "sentence_with_furigana": "たびたび、",
+        "word_base_list": [
+            "度々",
+            "、"
+        ],
+        "word_list": [
+            "たびたび",
+            "、"
+        ],
+        "sound": "f000044.mp3",
+        "sound_begin": 115612,
+        "sound_end": 116320
+    },
+    {
+        "id": "Karasuto Kagashi-f000045",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いいきかされたのでよく守っていました。",
+        "sentence_with_furigana": "いいきかされたのでよく 守[まも]っていました。",
+        "word_base_list": [
+            "言う",
+            "きく",
+            "れる",
+            "た",
+            "の",
+            "だ",
+            "良く",
+            "守る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いい",
+            "きかさ",
+            "れ",
+            "た",
+            "の",
+            "で",
+            "よく",
+            "守っ",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000045.mp3",
+        "sound_begin": 116320,
+        "sound_end": 123480
+    },
+    {
+        "id": "Karasuto Kagashi-f000046",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "word_base_list": [
+            "又",
+            "、"
+        ],
+        "word_list": [
+            "また",
+            "、"
+        ],
+        "sound": "f000046.mp3",
+        "sound_begin": 123480,
+        "sound_end": 124840
+    },
+    {
+        "id": "Karasuto Kagashi-f000047",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "来年、",
+        "sentence_with_furigana": "来年[らいねん]、",
+        "word_base_list": [
+            "来年",
+            "、"
+        ],
+        "word_list": [
+            "来年",
+            "、"
+        ],
+        "sound": "f000047.mp3",
+        "sound_begin": 124840,
+        "sound_end": 125760
+    },
+    {
+        "id": "Karasuto Kagashi-f000048",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "稲の実るころになると、",
+        "sentence_with_furigana": "稲[いね]の 実[みの]るころになると、",
+        "word_base_list": [
+            "稲",
+            "の",
+            "実る",
+            "頃",
+            "に",
+            "成る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "稲",
+            "の",
+            "実る",
+            "ころ",
+            "に",
+            "なる",
+            "と",
+            "、"
+        ],
+        "sound": "f000048.mp3",
+        "sound_begin": 125760,
+        "sound_end": 127896
+    },
+    {
+        "id": "Karasuto Kagashi-f000049",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、",
+        "word_base_list": [
+            "太吉",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "太吉",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000049.mp3",
+        "sound_begin": 127896,
+        "sound_end": 129600
+    },
+    {
+        "id": "Karasuto Kagashi-f000050",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "新しいかがしを造りました。",
+        "sentence_with_furigana": "新[あたら]しいかがしを 造[つく]りました。",
+        "word_base_list": [
+            "新しい",
+            "か",
+            "がし",
+            "を",
+            "作る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "新しい",
+            "か",
+            "がし",
+            "を",
+            "造り",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000050.mp3",
+        "sound_begin": 129600,
+        "sound_end": 134339
+    },
+    {
+        "id": "Karasuto Kagashi-f000051",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "去年の子鳥たちはもう親鳥となって、",
+        "sentence_with_furigana": "去年[きょねん]の 子鳥[ことり]たちはもう 親鳥[おやどり]となって、",
+        "word_base_list": [
+            "去年",
+            "の",
+            "小鳥",
+            "達",
+            "は",
+            "もう",
+            "親鳥",
+            "と",
+            "成る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "去年",
+            "の",
+            "子鳥",
+            "たち",
+            "は",
+            "もう",
+            "親鳥",
+            "と",
+            "なっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000051.mp3",
+        "sound_begin": 134339,
+        "sound_end": 139080
+    },
+    {
+        "id": "Karasuto Kagashi-f000052",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "同じように、",
+        "sentence_with_furigana": "同[おな]じように、",
+        "word_base_list": [
+            "同じ",
+            "様",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "同じ",
+            "よう",
+            "に",
+            "、"
+        ],
+        "sound": "f000052.mp3",
+        "sound_begin": 139080,
+        "sound_end": 140640
+    },
+    {
+        "id": "Karasuto Kagashi-f000053",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "その子供たちに向かって、",
+        "sentence_with_furigana": "その 子供[こども]たちに 向[む]かって、",
+        "word_base_list": [
+            "其の",
+            "子供",
+            "達",
+            "に",
+            "向かう",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "子供",
+            "たち",
+            "に",
+            "向かっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000053.mp3",
+        "sound_begin": 140640,
+        "sound_end": 144120
+    },
+    {
+        "id": "Karasuto Kagashi-f000054",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「あれは、",
+        "sentence_with_furigana": "「あれは、",
+        "word_base_list": [
+            "「",
+            "彼れ",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "あれ",
+            "は",
+            "、"
+        ],
+        "sound": "f000054.mp3",
+        "sound_begin": 144120,
+        "sound_end": 144680
+    },
+    {
+        "id": "Karasuto Kagashi-f000055",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "弓というものだよ。",
+        "sentence_with_furigana": "弓[ゆみ]というものだよ。",
+        "word_base_list": [
+            "弓",
+            "と",
+            "言う",
+            "物",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "弓",
+            "と",
+            "いう",
+            "もの",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000055.mp3",
+        "sound_begin": 144680,
+        "sound_end": 146913
+    },
+    {
+        "id": "Karasuto Kagashi-f000056",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と自分たちのきいた、",
+        "sentence_with_furigana": "」と 自分[じぶん]たちのきいた、",
+        "word_base_list": [
+            "」",
+            "と",
+            "自分",
+            "達",
+            "の",
+            "きく",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "自分",
+            "たち",
+            "の",
+            "きい",
+            "た",
+            "、"
+        ],
+        "sound": "f000056.mp3",
+        "sound_begin": 146913,
+        "sound_end": 149120
+    },
+    {
+        "id": "Karasuto Kagashi-f000057",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "怖ろしい話をしてきかせました。",
+        "sentence_with_furigana": "怖[おそ]ろしい 話[はなし]をしてきかせました。",
+        "word_base_list": [
+            "恐ろしい",
+            "話",
+            "を",
+            "為る",
+            "て",
+            "きく",
+            "せる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "怖ろしい",
+            "話",
+            "を",
+            "し",
+            "て",
+            "きか",
+            "せ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000057.mp3",
+        "sound_begin": 149120,
+        "sound_end": 153832
+    },
+    {
+        "id": "Karasuto Kagashi-f000058",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "こうして、",
+        "sentence_with_furigana": "こうして、",
+        "word_base_list": [
+            "こう",
+            "為る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "こう",
+            "し",
+            "て",
+            "、"
+        ],
+        "sound": "f000058.mp3",
+        "sound_begin": 153832,
+        "sound_end": 154800
+    },
+    {
+        "id": "Karasuto Kagashi-f000059",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "鳥たちは、",
+        "sentence_with_furigana": "鳥[とり]たちは、",
+        "word_base_list": [
+            "鳥",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "鳥",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000059.mp3",
+        "sound_begin": 154800,
+        "sound_end": 156560
+    },
+    {
+        "id": "Karasuto Kagashi-f000060",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "なるたけおじいさんのたんぼに近寄らないようにしていました。",
+        "sentence_with_furigana": "なるたけおじいさんのたんぼに 近寄[ちかよ]らないようにしていました。",
+        "word_base_list": [
+            "成る丈",
+            "御",
+            "爺",
+            "さん",
+            "の",
+            "田圃",
+            "に",
+            "近寄る",
+            "ない",
+            "様",
+            "だ",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "なるたけ",
+            "お",
+            "じい",
+            "さん",
+            "の",
+            "たんぼ",
+            "に",
+            "近寄ら",
+            "ない",
+            "よう",
+            "に",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000060.mp3",
+        "sound_begin": 156560,
+        "sound_end": 164304
+    },
+    {
+        "id": "Karasuto Kagashi-f000061",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "word_base_list": [
+            "所",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ところ",
+            "が",
+            "、"
+        ],
+        "sound": "f000061.mp3",
+        "sound_begin": 164304,
+        "sound_end": 166046
+    },
+    {
+        "id": "Karasuto Kagashi-f000062",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "物忘れをするからすがありました。",
+        "sentence_with_furigana": "物忘[ものわす]れをするからすがありました。",
+        "word_base_list": [
+            "物忘れ",
+            "を",
+            "為る",
+            "烏",
+            "が",
+            "有る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "物忘れ",
+            "を",
+            "する",
+            "からす",
+            "が",
+            "あり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000062.mp3",
+        "sound_begin": 166046,
+        "sound_end": 170446
+    },
+    {
+        "id": "Karasuto Kagashi-f000063",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "きいた話を、",
+        "sentence_with_furigana": "きいた 話[はなし]を、",
+        "word_base_list": [
+            "きく",
+            "た",
+            "話",
+            "を",
+            "、"
+        ],
+        "word_list": [
+            "きい",
+            "た",
+            "話",
+            "を",
+            "、"
+        ],
+        "sound": "f000063.mp3",
+        "sound_begin": 170446,
+        "sound_end": 171560
+    },
+    {
+        "id": "Karasuto Kagashi-f000064",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "すっかり忘れて、",
+        "sentence_with_furigana": "すっかり 忘[わす]れて、",
+        "word_base_list": [
+            "すっかり",
+            "忘れる",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "すっかり",
+            "忘れ",
+            "て",
+            "、"
+        ],
+        "sound": "f000064.mp3",
+        "sound_begin": 171560,
+        "sound_end": 173244
+    },
+    {
+        "id": "Karasuto Kagashi-f000065",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かがしの上にきて止まりました。",
+        "sentence_with_furigana": "かがしの 上[うえ]にきて 止[と]まりました。",
+        "word_base_list": [
+            "か",
+            "が",
+            "為る",
+            "の",
+            "上",
+            "に",
+            "来る",
+            "て",
+            "止まる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "か",
+            "が",
+            "し",
+            "の",
+            "上",
+            "に",
+            "き",
+            "て",
+            "止まり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000065.mp3",
+        "sound_begin": 173244,
+        "sound_end": 176360
+    },
+    {
+        "id": "Karasuto Kagashi-f000066",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000066.mp3",
+        "sound_begin": 176360,
+        "sound_end": 177830
+    },
+    {
+        "id": "Karasuto Kagashi-f000067",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "カア、",
+        "sentence_with_furigana": "カア、",
+        "word_base_list": [
+            "母",
+            "、"
+        ],
+        "word_list": [
+            "カア",
+            "、"
+        ],
+        "sound": "f000067.mp3",
+        "sound_begin": 177830,
+        "sound_end": 179130
+    },
+    {
+        "id": "Karasuto Kagashi-f000068",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "カアと鳴きながらかがしの頭をつつきました。",
+        "sentence_with_furigana": "カアと 鳴[な]きながらかがしの 頭[あたま]をつつきました。",
+        "word_base_list": [
+            "母",
+            "と",
+            "鳴く",
+            "ながら",
+            "か",
+            "が",
+            "為る",
+            "の",
+            "頭",
+            "を",
+            "突く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "カア",
+            "と",
+            "鳴き",
+            "ながら",
+            "か",
+            "が",
+            "し",
+            "の",
+            "頭",
+            "を",
+            "つつき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000068.mp3",
+        "sound_begin": 179130,
+        "sound_end": 186329
+    },
+    {
+        "id": "Karasuto Kagashi-f000069",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "これを見たすずめたちは、",
+        "sentence_with_furigana": "これを 見[み]たすずめたちは、",
+        "word_base_list": [
+            "此れ",
+            "を",
+            "見る",
+            "た",
+            "雀",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "を",
+            "見",
+            "た",
+            "すずめ",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000069.mp3",
+        "sound_begin": 186329,
+        "sound_end": 188662
+    },
+    {
+        "id": "Karasuto Kagashi-f000070",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "びっくりしてどうなるのかと目をまるくしていましたが、",
+        "sentence_with_furigana": "びっくりしてどうなるのかと 目[め]をまるくしていましたが、",
+        "word_base_list": [
+            "びっくり",
+            "為る",
+            "て",
+            "どう",
+            "成る",
+            "の",
+            "か",
+            "と",
+            "目",
+            "を",
+            "丸い",
+            "為る",
+            "て",
+            "居る",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "びっくり",
+            "し",
+            "て",
+            "どう",
+            "なる",
+            "の",
+            "か",
+            "と",
+            "目",
+            "を",
+            "まるく",
+            "し",
+            "て",
+            "い",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000070.mp3",
+        "sound_begin": 188662,
+        "sound_end": 193840
+    },
+    {
+        "id": "Karasuto Kagashi-f000071",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "しまいに、",
+        "sentence_with_furigana": "しまいに、",
+        "word_base_list": [
+            "仕舞い",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "しまい",
+            "に",
+            "、"
+        ],
+        "sound": "f000071.mp3",
+        "sound_begin": 193840,
+        "sound_end": 196400
+    },
+    {
+        "id": "Karasuto Kagashi-f000072",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「なんだ、",
+        "sentence_with_furigana": "「なんだ、",
+        "word_base_list": [
+            "「",
+            "何",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "なん",
+            "だ",
+            "、"
+        ],
+        "sound": "f000072.mp3",
+        "sound_begin": 196400,
+        "sound_end": 197851
+    },
+    {
+        "id": "Karasuto Kagashi-f000073",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "からすがとまってもなんでもないじゃないか。",
+        "sentence_with_furigana": "からすがとまってもなんでもないじゃないか。",
+        "word_base_list": [
+            "烏",
+            "が",
+            "とまる",
+            "て",
+            "も",
+            "何",
+            "で",
+            "も",
+            "無い",
+            "だ",
+            "無い",
+            "か",
+            "。"
+        ],
+        "word_list": [
+            "からす",
+            "が",
+            "とまっ",
+            "て",
+            "も",
+            "なん",
+            "で",
+            "も",
+            "ない",
+            "じゃ",
+            "ない",
+            "か",
+            "。"
+        ],
+        "sound": "f000073.mp3",
+        "sound_begin": 197851,
+        "sound_end": 201218
+    },
+    {
+        "id": "Karasuto Kagashi-f000074",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000074.mp3",
+        "sound_begin": 201218,
+        "sound_end": 202800
+    },
+    {
+        "id": "Karasuto Kagashi-f000075",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "どっと押しよせてきました。",
+        "sentence_with_furigana": "どっと 押[お]しよせてきました。",
+        "word_base_list": [
+            "どっと",
+            "押す",
+            "寄せる",
+            "て",
+            "来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "どっと",
+            "押し",
+            "よせ",
+            "て",
+            "き",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000075.mp3",
+        "sound_begin": 202800,
+        "sound_end": 206007
+    },
+    {
+        "id": "Karasuto Kagashi-f000076",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000076.mp3",
+        "sound_begin": 206007,
+        "sound_end": 208000
+    },
+    {
+        "id": "Karasuto Kagashi-f000077",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "長い間自分たちをだましていた正体を見破ってしまいました。",
+        "sentence_with_furigana": "長[なが]い 間[あいだ] 自分[じぶん]たちをだましていた 正体[しょうたい]を 見破[みやぶ]ってしまいました。",
+        "word_base_list": [
+            "長い",
+            "間",
+            "自分",
+            "達",
+            "を",
+            "騙す",
+            "て",
+            "居る",
+            "た",
+            "正体",
+            "を",
+            "見る",
+            "破る",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "長い",
+            "間",
+            "自分",
+            "たち",
+            "を",
+            "だまし",
+            "て",
+            "い",
+            "た",
+            "正体",
+            "を",
+            "見",
+            "破っ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000077.mp3",
+        "sound_begin": 208000,
+        "sound_end": 216584
+    },
+    {
+        "id": "Karasuto Kagashi-f000078",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「こんな、",
+        "sentence_with_furigana": "「こんな、",
+        "word_base_list": [
+            "「",
+            "こんな",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "こんな",
+            "、"
+        ],
+        "sound": "f000078.mp3",
+        "sound_begin": 216584,
+        "sound_end": 217160
+    },
+    {
+        "id": "Karasuto Kagashi-f000079",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "まがった竹がなんになるんだ。",
+        "sentence_with_furigana": "まがった 竹[たけ]がなんになるんだ。",
+        "word_base_list": [
+            "曲がる",
+            "た",
+            "竹",
+            "が",
+            "何",
+            "に",
+            "成る",
+            "の",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "まがっ",
+            "た",
+            "竹",
+            "が",
+            "なん",
+            "に",
+            "なる",
+            "ん",
+            "だ",
+            "。"
+        ],
+        "sound": "f000079.mp3",
+        "sound_begin": 217160,
+        "sound_end": 220154
+    },
+    {
+        "id": "Karasuto Kagashi-f000080",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000080.mp3",
+        "sound_begin": 220154,
+        "sound_end": 221501
+    },
+    {
+        "id": "Karasuto Kagashi-f000081",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "すずめたちは弓にとまりました。",
+        "sentence_with_furigana": "すずめたちは 弓[ゆみ]にとまりました。",
+        "word_base_list": [
+            "雀",
+            "達",
+            "は",
+            "弓",
+            "に",
+            "とまる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "すずめ",
+            "たち",
+            "は",
+            "弓",
+            "に",
+            "とまり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000081.mp3",
+        "sound_begin": 221501,
+        "sound_end": 223560
+    },
+    {
+        "id": "Karasuto Kagashi-f000082",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "旅をして帰った、",
+        "sentence_with_furigana": "旅[たび]をして 帰[かえ]った、",
+        "word_base_list": [
+            "旅",
+            "を",
+            "為る",
+            "て",
+            "帰る",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "旅",
+            "を",
+            "し",
+            "て",
+            "帰っ",
+            "た",
+            "、"
+        ],
+        "sound": "f000082.mp3",
+        "sound_begin": 223560,
+        "sound_end": 229400
+    },
+    {
+        "id": "Karasuto Kagashi-f000083",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "じいさんの息子が、",
+        "sentence_with_furigana": "じいさんの 息子[むすこ]が、",
+        "word_base_list": [
+            "爺",
+            "さん",
+            "の",
+            "息子",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "じい",
+            "さん",
+            "の",
+            "息子",
+            "が",
+            "、"
+        ],
+        "sound": "f000083.mp3",
+        "sound_begin": 229400,
+        "sound_end": 232840
+    },
+    {
+        "id": "Karasuto Kagashi-f000084",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「いまごろ、",
+        "sentence_with_furigana": "「いまごろ、",
+        "word_base_list": [
+            "「",
+            "今頃",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "いまごろ",
+            "、"
+        ],
+        "sound": "f000084.mp3",
+        "sound_begin": 232840,
+        "sound_end": 233560
+    },
+    {
+        "id": "Karasuto Kagashi-f000085",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "弓なんか持ったかがしなんてあるものでない。",
+        "sentence_with_furigana": "弓[ゆみ]なんか 持[も]ったかがしなんてあるものでない。",
+        "word_base_list": [
+            "弓",
+            "なんか",
+            "持つ",
+            "た",
+            "か",
+            "が",
+            "為る",
+            "なんて",
+            "有る",
+            "物",
+            "だ",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "弓",
+            "なんか",
+            "持っ",
+            "た",
+            "か",
+            "が",
+            "し",
+            "なんて",
+            "ある",
+            "もの",
+            "で",
+            "ない",
+            "。"
+        ],
+        "sound": "f000085.mp3",
+        "sound_begin": 233560,
+        "sound_end": 237280
+    },
+    {
+        "id": "Karasuto Kagashi-f000086",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "どこの田や、",
+        "sentence_with_furigana": "どこの 田[た]や、",
+        "word_base_list": [
+            "どこ",
+            "の",
+            "田",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "どこ",
+            "の",
+            "田",
+            "や",
+            "、"
+        ],
+        "sound": "f000086.mp3",
+        "sound_begin": 237280,
+        "sound_end": 238160
+    },
+    {
+        "id": "Karasuto Kagashi-f000087",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "圃でも、",
+        "sentence_with_furigana": "圃[はたけ]でも、",
+        "word_base_list": [
+            "圃",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "圃",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000087.mp3",
+        "sound_begin": 238160,
+        "sound_end": 239450
+    },
+    {
+        "id": "Karasuto Kagashi-f000088",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "鉄砲を持った、",
+        "sentence_with_furigana": "鉄砲[てっぽう]を 持[も]った、",
+        "word_base_list": [
+            "鉄砲",
+            "を",
+            "持つ",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "鉄砲",
+            "を",
+            "持っ",
+            "た",
+            "、"
+        ],
+        "sound": "f000088.mp3",
+        "sound_begin": 239450,
+        "sound_end": 240565
+    },
+    {
+        "id": "Karasuto Kagashi-f000089",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "勇ましいかがしを立てている。",
+        "sentence_with_furigana": "勇[いさ]ましいかがしを 立[た]てている。",
+        "word_base_list": [
+            "勇ましい",
+            "か",
+            "がし",
+            "を",
+            "立つ",
+            "て",
+            "居る",
+            "。"
+        ],
+        "word_list": [
+            "勇ましい",
+            "か",
+            "がし",
+            "を",
+            "立て",
+            "て",
+            "いる",
+            "。"
+        ],
+        "sound": "f000089.mp3",
+        "sound_begin": 240565,
+        "sound_end": 242916
+    },
+    {
+        "id": "Karasuto Kagashi-f000090",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」といいました。",
+        "sentence_with_furigana": "」といいました。",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000090.mp3",
+        "sound_begin": 242916,
+        "sound_end": 246010
+    },
+    {
+        "id": "Karasuto Kagashi-f000091",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "これをきいて、",
+        "sentence_with_furigana": "これをきいて、",
+        "word_base_list": [
+            "此れ",
+            "を",
+            "きく",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "を",
+            "きい",
+            "て",
+            "、"
+        ],
+        "sound": "f000091.mp3",
+        "sound_begin": 246010,
+        "sound_end": 247525
+    },
+    {
+        "id": "Karasuto Kagashi-f000092",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "太吉じいさんは、",
+        "sentence_with_furigana": "太吉[たきち]じいさんは、",
+        "word_base_list": [
+            "太吉",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "太吉",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000092.mp3",
+        "sound_begin": 247525,
+        "sound_end": 250480
+    },
+    {
+        "id": "Karasuto Kagashi-f000093",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「なるほどそうかな、",
+        "sentence_with_furigana": "「なるほどそうかな、",
+        "word_base_list": [
+            "「",
+            "成る程",
+            "そう",
+            "か",
+            "な",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "なるほど",
+            "そう",
+            "か",
+            "な",
+            "、"
+        ],
+        "sound": "f000093.mp3",
+        "sound_begin": 250480,
+        "sound_end": 251760
+    },
+    {
+        "id": "Karasuto Kagashi-f000094",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "弓なんて、",
+        "sentence_with_furigana": "弓[ゆみ]なんて、",
+        "word_base_list": [
+            "弓",
+            "なんて",
+            "、"
+        ],
+        "word_list": [
+            "弓",
+            "なんて",
+            "、"
+        ],
+        "sound": "f000094.mp3",
+        "sound_begin": 251760,
+        "sound_end": 253600
+    },
+    {
+        "id": "Karasuto Kagashi-f000095",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "なにするものか、",
+        "sentence_with_furigana": "なにするものか、",
+        "word_base_list": [
+            "何",
+            "為る",
+            "物",
+            "か",
+            "、"
+        ],
+        "word_list": [
+            "なに",
+            "する",
+            "もの",
+            "か",
+            "、"
+        ],
+        "sound": "f000095.mp3",
+        "sound_begin": 253600,
+        "sound_end": 256000
+    },
+    {
+        "id": "Karasuto Kagashi-f000096",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "昔の鳥は知っても、",
+        "sentence_with_furigana": "昔[むかし]の 鳥[とり]は 知[し]っても、",
+        "word_base_list": [
+            "昔",
+            "の",
+            "鳥",
+            "は",
+            "知る",
+            "て",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "昔",
+            "の",
+            "鳥",
+            "は",
+            "知っ",
+            "て",
+            "も",
+            "、"
+        ],
+        "sound": "f000096.mp3",
+        "sound_begin": 256000,
+        "sound_end": 258415
+    },
+    {
+        "id": "Karasuto Kagashi-f000097",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "このごろの鳥たちは知るまいて。",
+        "sentence_with_furigana": "このごろの 鳥[とり]たちは 知[し]るまいて。",
+        "word_base_list": [
+            "此の頃",
+            "の",
+            "鳥",
+            "達",
+            "は",
+            "知る",
+            "況して",
+            "。"
+        ],
+        "word_list": [
+            "このごろ",
+            "の",
+            "鳥",
+            "たち",
+            "は",
+            "知る",
+            "まいて",
+            "。"
+        ],
+        "sound": "f000097.mp3",
+        "sound_begin": 258415,
+        "sound_end": 261805
+    },
+    {
+        "id": "Karasuto Kagashi-f000098",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000098.mp3",
+        "sound_begin": 261805,
+        "sound_end": 262280
+    },
+    {
+        "id": "Karasuto Kagashi-f000099",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いって、",
+        "sentence_with_furigana": "いって、",
+        "word_base_list": [
+            "行く",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000099.mp3",
+        "sound_begin": 262280,
+        "sound_end": 263440
+    },
+    {
+        "id": "Karasuto Kagashi-f000100",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんは弓のかわりに、",
+        "sentence_with_furigana": "おじいさんは 弓[ゆみ]のかわりに、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "弓",
+            "の",
+            "かわり",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "弓",
+            "の",
+            "かわり",
+            "に",
+            "、"
+        ],
+        "sound": "f000100.mp3",
+        "sound_begin": 263440,
+        "sound_end": 265915
+    },
+    {
+        "id": "Karasuto Kagashi-f000101",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "鉄砲を持って立っている、",
+        "sentence_with_furigana": "鉄砲[てっぽう]を 持[も]って 立[た]っている、",
+        "word_base_list": [
+            "鉄砲",
+            "を",
+            "持つ",
+            "て",
+            "立つ",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "鉄砲",
+            "を",
+            "持っ",
+            "て",
+            "立っ",
+            "て",
+            "いる",
+            "、"
+        ],
+        "sound": "f000101.mp3",
+        "sound_begin": 265915,
+        "sound_end": 267560
+    },
+    {
+        "id": "Karasuto Kagashi-f000102",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かがしをつくりました。",
+        "sentence_with_furigana": "かがしをつくりました。",
+        "word_base_list": [
+            "か",
+            "がし",
+            "を",
+            "作る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "か",
+            "がし",
+            "を",
+            "つくり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000102.mp3",
+        "sound_begin": 267560,
+        "sound_end": 271766
+    },
+    {
+        "id": "Karasuto Kagashi-f000103",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「見てくれ、",
+        "sentence_with_furigana": "「 見[み]てくれ、",
+        "word_base_list": [
+            "「",
+            "見る",
+            "て",
+            "呉れる",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "見",
+            "て",
+            "くれ",
+            "、"
+        ],
+        "sound": "f000103.mp3",
+        "sound_begin": 271766,
+        "sound_end": 273728
+    },
+    {
+        "id": "Karasuto Kagashi-f000104",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "これなら、",
+        "sentence_with_furigana": "これなら、",
+        "word_base_list": [
+            "此れ",
+            "だ",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "なら",
+            "、"
+        ],
+        "sound": "f000104.mp3",
+        "sound_begin": 273728,
+        "sound_end": 274520
+    },
+    {
+        "id": "Karasuto Kagashi-f000105",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いいだろう。",
+        "sentence_with_furigana": "いいだろう。",
+        "word_base_list": [
+            "良い",
+            "だ",
+            "。"
+        ],
+        "word_list": [
+            "いい",
+            "だろう",
+            "。"
+        ],
+        "sound": "f000105.mp3",
+        "sound_begin": 274520,
+        "sound_end": 276329
+    },
+    {
+        "id": "Karasuto Kagashi-f000106",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000106.mp3",
+        "sound_begin": 276329,
+        "sound_end": 276497
+    },
+    {
+        "id": "Karasuto Kagashi-f000107",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんは、",
+        "sentence_with_furigana": "おじいさんは、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "は",
+            "、"
+        ],
+        "sound": "f000107.mp3",
+        "sound_begin": 276497,
+        "sound_end": 277160
+    },
+    {
+        "id": "Karasuto Kagashi-f000108",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ききました。",
+        "sentence_with_furigana": "ききました。",
+        "word_base_list": [
+            "きく",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "きき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000108.mp3",
+        "sound_begin": 277160,
+        "sound_end": 280680
+    },
+    {
+        "id": "Karasuto Kagashi-f000109",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「ああ、",
+        "sentence_with_furigana": "「ああ、",
+        "word_base_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ああ",
+            "、"
+        ],
+        "sound": "f000109.mp3",
+        "sound_begin": 280680,
+        "sound_end": 281812
+    },
+    {
+        "id": "Karasuto Kagashi-f000110",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "よくできました。",
+        "sentence_with_furigana": "よくできました。",
+        "word_base_list": [
+            "良く",
+            "出来る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "よく",
+            "でき",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000110.mp3",
+        "sound_begin": 281812,
+        "sound_end": 283725
+    },
+    {
+        "id": "Karasuto Kagashi-f000111",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000111.mp3",
+        "sound_begin": 283725,
+        "sound_end": 283960
+    },
+    {
+        "id": "Karasuto Kagashi-f000112",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "息子は、",
+        "sentence_with_furigana": "息子[むすこ]は、",
+        "word_base_list": [
+            "息子",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "息子",
+            "は",
+            "、"
+        ],
+        "sound": "f000112.mp3",
+        "sound_begin": 283960,
+        "sound_end": 284480
+    },
+    {
+        "id": "Karasuto Kagashi-f000113",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "答えました。",
+        "sentence_with_furigana": "答[こた]えました。",
+        "word_base_list": [
+            "答える",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "答え",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000113.mp3",
+        "sound_begin": 284480,
+        "sound_end": 287242
+    },
+    {
+        "id": "Karasuto Kagashi-f000114",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "これを見たすずめたちは、",
+        "sentence_with_furigana": "これを 見[み]たすずめたちは、",
+        "word_base_list": [
+            "此れ",
+            "を",
+            "見る",
+            "た",
+            "雀",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "これ",
+            "を",
+            "見",
+            "た",
+            "すずめ",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000114.mp3",
+        "sound_begin": 287242,
+        "sound_end": 289360
+    },
+    {
+        "id": "Karasuto Kagashi-f000115",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ふるえあがりました。",
+        "sentence_with_furigana": "ふるえあがりました。",
+        "word_base_list": [
+            "震える",
+            "上がる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "ふるえ",
+            "あがり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000115.mp3",
+        "sound_begin": 289360,
+        "sound_end": 293760
+    },
+    {
+        "id": "Karasuto Kagashi-f000116",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「あれは鉄砲だよ。",
+        "sentence_with_furigana": "「あれは 鉄砲[てっぽう]だよ。",
+        "word_base_list": [
+            "「",
+            "彼れ",
+            "は",
+            "鉄砲",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "あれ",
+            "は",
+            "鉄砲",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000116.mp3",
+        "sound_begin": 293760,
+        "sound_end": 296080
+    },
+    {
+        "id": "Karasuto Kagashi-f000117",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "近寄ると、",
+        "sentence_with_furigana": "近寄[ちかよ]ると、",
+        "word_base_list": [
+            "近寄る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "近寄る",
+            "と",
+            "、"
+        ],
+        "sound": "f000117.mp3",
+        "sound_begin": 296080,
+        "sound_end": 296960
+    },
+    {
+        "id": "Karasuto Kagashi-f000118",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ズドンといって、",
+        "sentence_with_furigana": "ズドンといって、",
+        "word_base_list": [
+            "ずどん",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "ズドン",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000118.mp3",
+        "sound_begin": 296960,
+        "sound_end": 299200
+    },
+    {
+        "id": "Karasuto Kagashi-f000119",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "みんな殺されてしまうのだよ。",
+        "sentence_with_furigana": "みんな 殺[ころ]されてしまうのだよ。",
+        "word_base_list": [
+            "皆",
+            "殺す",
+            "れる",
+            "て",
+            "仕舞う",
+            "の",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "殺さ",
+            "れ",
+            "て",
+            "しまう",
+            "の",
+            "だ",
+            "よ",
+            "。"
+        ],
+        "sound": "f000119.mp3",
+        "sound_begin": 299200,
+        "sound_end": 302811
+    },
+    {
+        "id": "Karasuto Kagashi-f000120",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000120.mp3",
+        "sound_begin": 302811,
+        "sound_end": 303200
+    },
+    {
+        "id": "Karasuto Kagashi-f000121",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "親すずめは子すずめにいいきかせました。",
+        "sentence_with_furigana": "親[おや]すずめは 子[こ]すずめにいいきかせました。",
+        "word_base_list": [
+            "親",
+            "雀",
+            "は",
+            "小雀",
+            "に",
+            "言う",
+            "聞く",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "親",
+            "すずめ",
+            "は",
+            "子すずめ",
+            "に",
+            "いい",
+            "きかせ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000121.mp3",
+        "sound_begin": 303200,
+        "sound_end": 308187
+    },
+    {
+        "id": "Karasuto Kagashi-f000122",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ところが、",
+        "sentence_with_furigana": "ところが、",
+        "word_base_list": [
+            "所",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ところ",
+            "が",
+            "、"
+        ],
+        "sound": "f000122.mp3",
+        "sound_begin": 308187,
+        "sound_end": 309917
+    },
+    {
+        "id": "Karasuto Kagashi-f000123",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いつかの物忘れのからすがやってきて、",
+        "sentence_with_furigana": "いつかの 物忘[ものわす]れのからすがやってきて、",
+        "word_base_list": [
+            "いつ",
+            "か",
+            "の",
+            "物忘れ",
+            "の",
+            "烏",
+            "が",
+            "遣る",
+            "て",
+            "来る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "か",
+            "の",
+            "物忘れ",
+            "の",
+            "からす",
+            "が",
+            "やっ",
+            "て",
+            "き",
+            "て",
+            "、"
+        ],
+        "sound": "f000123.mp3",
+        "sound_begin": 309917,
+        "sound_end": 312924
+    },
+    {
+        "id": "Karasuto Kagashi-f000124",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かがしの上に止まりました。",
+        "sentence_with_furigana": "かがしの 上[うえ]に 止[と]まりました。",
+        "word_base_list": [
+            "か",
+            "が",
+            "為る",
+            "の",
+            "上",
+            "に",
+            "止まる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "か",
+            "が",
+            "し",
+            "の",
+            "上",
+            "に",
+            "止まり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000124.mp3",
+        "sound_begin": 312924,
+        "sound_end": 317637
+    },
+    {
+        "id": "Karasuto Kagashi-f000125",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「どうしたのだろうな。",
+        "sentence_with_furigana": "「どうしたのだろうな。",
+        "word_base_list": [
+            "「",
+            "どう",
+            "為る",
+            "た",
+            "の",
+            "だ",
+            "な",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "どう",
+            "し",
+            "た",
+            "の",
+            "だろう",
+            "な",
+            "。"
+        ],
+        "sound": "f000125.mp3",
+        "sound_begin": 317637,
+        "sound_end": 320493
+    },
+    {
+        "id": "Karasuto Kagashi-f000126",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "word_base_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "、"
+        ],
+        "sound": "f000126.mp3",
+        "sound_begin": 320493,
+        "sound_end": 320680
+    },
+    {
+        "id": "Karasuto Kagashi-f000127",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんが、",
+        "sentence_with_furigana": "おじいさんが、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "が",
+            "、"
+        ],
+        "sound": "f000127.mp3",
+        "sound_begin": 320680,
+        "sound_end": 321400
+    },
+    {
+        "id": "Karasuto Kagashi-f000128",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "頸をかしげました。",
+        "sentence_with_furigana": "頸[くび]をかしげました。",
+        "word_base_list": [
+            "首",
+            "を",
+            "傾げる",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "頸",
+            "を",
+            "かしげ",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000128.mp3",
+        "sound_begin": 321400,
+        "sound_end": 324160
+    },
+    {
+        "id": "Karasuto Kagashi-f000129",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "word_base_list": [
+            "為る",
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "する",
+            "と",
+            "、"
+        ],
+        "sound": "f000129.mp3",
+        "sound_begin": 324160,
+        "sound_end": 325200
+    },
+    {
+        "id": "Karasuto Kagashi-f000130",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そのからすは、",
+        "sentence_with_furigana": "そのからすは、",
+        "word_base_list": [
+            "其の",
+            "烏",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "その",
+            "からす",
+            "は",
+            "、"
+        ],
+        "sound": "f000130.mp3",
+        "sound_begin": 325200,
+        "sound_end": 327720
+    },
+    {
+        "id": "Karasuto Kagashi-f000131",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "「知っていますよ、",
+        "sentence_with_furigana": "「 知[し]っていますよ、",
+        "word_base_list": [
+            "「",
+            "知る",
+            "て",
+            "居る",
+            "ます",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "知っ",
+            "て",
+            "い",
+            "ます",
+            "よ",
+            "、"
+        ],
+        "sound": "f000131.mp3",
+        "sound_begin": 327720,
+        "sound_end": 329560
+    },
+    {
+        "id": "Karasuto Kagashi-f000132",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "なにを持っても打てないことを。",
+        "sentence_with_furigana": "なにを 持[も]っても 打[う]てないことを。",
+        "word_base_list": [
+            "何",
+            "を",
+            "持つ",
+            "て",
+            "も",
+            "打つ",
+            "ない",
+            "こと",
+            "を",
+            "。"
+        ],
+        "word_list": [
+            "なに",
+            "を",
+            "持っ",
+            "て",
+            "も",
+            "打て",
+            "ない",
+            "こと",
+            "を",
+            "。"
+        ],
+        "sound": "f000132.mp3",
+        "sound_begin": 329560,
+        "sound_end": 332120
+    },
+    {
+        "id": "Karasuto Kagashi-f000133",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ばか、",
+        "sentence_with_furigana": "ばか、",
+        "word_base_list": [
+            "ばか",
+            "、"
+        ],
+        "word_list": [
+            "ばか",
+            "、"
+        ],
+        "sound": "f000133.mp3",
+        "sound_begin": 332120,
+        "sound_end": 333080
+    },
+    {
+        "id": "Karasuto Kagashi-f000134",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ばか。",
+        "sentence_with_furigana": "ばか。",
+        "word_base_list": [
+            "ばか",
+            "。"
+        ],
+        "word_list": [
+            "ばか",
+            "。"
+        ],
+        "sound": "f000134.mp3",
+        "sound_begin": 333080,
+        "sound_end": 334396
+    },
+    {
+        "id": "Karasuto Kagashi-f000135",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "」といって、",
+        "sentence_with_furigana": "」といって、",
+        "word_base_list": [
+            "」",
+            "と",
+            "言う",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "」",
+            "と",
+            "いっ",
+            "て",
+            "、"
+        ],
+        "sound": "f000135.mp3",
+        "sound_begin": 334396,
+        "sound_end": 335160
+    },
+    {
+        "id": "Karasuto Kagashi-f000136",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "笑いました。",
+        "sentence_with_furigana": "笑[わら]いました。",
+        "word_base_list": [
+            "笑う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "笑い",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000136.mp3",
+        "sound_begin": 335160,
+        "sound_end": 338880
+    },
+    {
+        "id": "Karasuto Kagashi-f000137",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "他の鳥たちは、",
+        "sentence_with_furigana": "他[ほか]の 鳥[とり]たちは、",
+        "word_base_list": [
+            "他",
+            "の",
+            "鳥",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "他",
+            "の",
+            "鳥",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000137.mp3",
+        "sound_begin": 338880,
+        "sound_end": 340349
+    },
+    {
+        "id": "Karasuto Kagashi-f000138",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "からすの勇気に感心しました。",
+        "sentence_with_furigana": "からすの 勇気[ゆうき]に 感心[かんしん]しました。",
+        "word_base_list": [
+            "烏",
+            "の",
+            "勇気",
+            "に",
+            "感心",
+            "為る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "からす",
+            "の",
+            "勇気",
+            "に",
+            "感心",
+            "し",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000138.mp3",
+        "sound_begin": 340349,
+        "sound_end": 344920
+    },
+    {
+        "id": "Karasuto Kagashi-f000139",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いままで、",
+        "sentence_with_furigana": "いままで、",
+        "word_base_list": [
+            "今",
+            "まで",
+            "、"
+        ],
+        "word_list": [
+            "いま",
+            "まで",
+            "、"
+        ],
+        "sound": "f000139.mp3",
+        "sound_begin": 344920,
+        "sound_end": 345480
+    },
+    {
+        "id": "Karasuto Kagashi-f000140",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ばかにされたからすが、",
+        "sentence_with_furigana": "ばかにされたからすが、",
+        "word_base_list": [
+            "ばか",
+            "だ",
+            "為る",
+            "れる",
+            "た",
+            "烏",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "ばか",
+            "に",
+            "さ",
+            "れ",
+            "た",
+            "からす",
+            "が",
+            "、"
+        ],
+        "sound": "f000140.mp3",
+        "sound_begin": 345480,
+        "sound_end": 347800
+    },
+    {
+        "id": "Karasuto Kagashi-f000141",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いちばんりこうな鳥といわれるようになりました。",
+        "sentence_with_furigana": "いちばんりこうな 鳥[とり]といわれるようになりました。",
+        "word_base_list": [
+            "一番",
+            "利口",
+            "だ",
+            "鳥",
+            "と",
+            "言う",
+            "れる",
+            "様",
+            "だ",
+            "成る",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "いちばん",
+            "りこう",
+            "な",
+            "鳥",
+            "と",
+            "いわ",
+            "れる",
+            "よう",
+            "に",
+            "なり",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000141.mp3",
+        "sound_begin": 347800,
+        "sound_end": 352600
+    },
+    {
+        "id": "Karasuto Kagashi-f000142",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "word_base_list": [
+            "そして",
+            "、"
+        ],
+        "word_list": [
+            "そして",
+            "、"
+        ],
+        "sound": "f000142.mp3",
+        "sound_begin": 352600,
+        "sound_end": 354040
+    },
+    {
+        "id": "Karasuto Kagashi-f000143",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "すずめたちは、",
+        "sentence_with_furigana": "すずめたちは、",
+        "word_base_list": [
+            "雀",
+            "達",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "すずめ",
+            "たち",
+            "は",
+            "、"
+        ],
+        "sound": "f000143.mp3",
+        "sound_begin": 354040,
+        "sound_end": 354960
+    },
+    {
+        "id": "Karasuto Kagashi-f000144",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "かがしを侮って、",
+        "sentence_with_furigana": "かがしを 侮[あなど]って、",
+        "word_base_list": [
+            "か",
+            "がし",
+            "を",
+            "侮る",
+            "て",
+            "、"
+        ],
+        "word_list": [
+            "か",
+            "がし",
+            "を",
+            "侮っ",
+            "て",
+            "、"
+        ],
+        "sound": "f000144.mp3",
+        "sound_begin": 354960,
+        "sound_end": 356800
+    },
+    {
+        "id": "Karasuto Kagashi-f000145",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "稲を荒らしましたが、",
+        "sentence_with_furigana": "稲[いね]を 荒[あ]らしましたが、",
+        "word_base_list": [
+            "稲",
+            "を",
+            "荒らす",
+            "ます",
+            "た",
+            "が",
+            "、"
+        ],
+        "word_list": [
+            "稲",
+            "を",
+            "荒らし",
+            "まし",
+            "た",
+            "が",
+            "、"
+        ],
+        "sound": "f000145.mp3",
+        "sound_begin": 356800,
+        "sound_end": 360040
+    },
+    {
+        "id": "Karasuto Kagashi-f000146",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ある日、",
+        "sentence_with_furigana": "ある 日[ひ]、",
+        "word_base_list": [
+            "或る",
+            "日",
+            "、"
+        ],
+        "word_list": [
+            "ある",
+            "日",
+            "、"
+        ],
+        "sound": "f000146.mp3",
+        "sound_begin": 360040,
+        "sound_end": 362220
+    },
+    {
+        "id": "Karasuto Kagashi-f000147",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "おじいさんの息子の打った、",
+        "sentence_with_furigana": "おじいさんの 息子[むすこ]の 打[う]った、",
+        "word_base_list": [
+            "御",
+            "爺",
+            "さん",
+            "の",
+            "息子",
+            "の",
+            "打つ",
+            "た",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "じい",
+            "さん",
+            "の",
+            "息子",
+            "の",
+            "打っ",
+            "た",
+            "、"
+        ],
+        "sound": "f000147.mp3",
+        "sound_begin": 362220,
+        "sound_end": 364920
+    },
+    {
+        "id": "Karasuto Kagashi-f000148",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ほんとうの鉄砲で、",
+        "sentence_with_furigana": "ほんとうの 鉄砲[てっぽう]で、",
+        "word_base_list": [
+            "本当",
+            "の",
+            "鉄砲",
+            "で",
+            "、"
+        ],
+        "word_list": [
+            "ほんとう",
+            "の",
+            "鉄砲",
+            "で",
+            "、"
+        ],
+        "sound": "f000148.mp3",
+        "sound_begin": 364920,
+        "sound_end": 367360
+    },
+    {
+        "id": "Karasuto Kagashi-f000149",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "みんな殺されてしまいました。",
+        "sentence_with_furigana": "みんな 殺[ころ]されてしまいました。",
+        "word_base_list": [
+            "皆",
+            "殺す",
+            "れる",
+            "て",
+            "仕舞う",
+            "ます",
+            "た",
+            "。"
+        ],
+        "word_list": [
+            "みんな",
+            "殺さ",
+            "れ",
+            "て",
+            "しまい",
+            "まし",
+            "た",
+            "。"
+        ],
+        "sound": "f000149.mp3",
+        "sound_begin": 367360,
+        "sound_end": 373000
+    },
+    {
+        "id": "Karasuto Kagashi-f000150",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "いつでも、",
+        "sentence_with_furigana": "いつでも、",
+        "word_base_list": [
+            "いつ",
+            "で",
+            "も",
+            "、"
+        ],
+        "word_list": [
+            "いつ",
+            "で",
+            "も",
+            "、"
+        ],
+        "sound": "f000150.mp3",
+        "sound_begin": 373000,
+        "sound_end": 374497
+    },
+    {
+        "id": "Karasuto Kagashi-f000151",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ばかとりこうとは、",
+        "sentence_with_furigana": "ばかとりこうとは、",
+        "word_base_list": [
+            "ばか",
+            "と",
+            "利口",
+            "と",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "ばか",
+            "と",
+            "りこう",
+            "と",
+            "は",
+            "、"
+        ],
+        "sound": "f000151.mp3",
+        "sound_begin": 374497,
+        "sound_end": 376779
+    },
+    {
+        "id": "Karasuto Kagashi-f000152",
+        "author_japanese": "小川 未明",
+        "deck_name": "Karasuto Kagashi",
+        "deck_name_japanese": "からすとかがし",
+        "sentence": "ちょっと見分けのつかぬものです。",
+        "sentence_with_furigana": "ちょっと 見分[みわ]けのつかぬものです。",
+        "word_base_list": [
+            "一寸",
+            "見分け",
+            "の",
+            "付く",
+            "ず",
+            "物",
+            "です",
+            "。"
+        ],
+        "word_list": [
+            "ちょっと",
+            "見分け",
+            "の",
+            "つか",
+            "ぬ",
+            "もの",
+            "です",
+            "。"
+        ],
+        "sound": "f000152.mp3",
+        "sound_begin": 376779,
+        "sound_end": 382080
+    }
+]

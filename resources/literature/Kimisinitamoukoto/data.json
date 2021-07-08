@@ -1,0 +1,1388 @@
+[
+    {
+        "id": "Kimisinitamoukoto-f000002",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ",
+        "sentence_with_furigana": "君死にたまふことなかれ",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 5696,
+        "sound_end": 11040
+    },
+    {
+        "id": "Kimisinitamoukoto-f000003",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "（旅順の攻囲軍にある弟宗七を歎きて）",
+        "sentence_with_furigana": "（旅順の攻囲軍にある弟宗七を歎きて）",
+        "word_base_list": [
+            "（",
+            "旅順",
+            "の",
+            "攻囲",
+            "軍",
+            "に",
+            "有る",
+            "弟",
+            "宗七",
+            "を",
+            "嘆く",
+            "て",
+            "）"
+        ],
+        "word_list": [
+            "（",
+            "旅順",
+            "の",
+            "攻囲",
+            "軍",
+            "に",
+            "ある",
+            "弟",
+            "宗七",
+            "を",
+            "歎き",
+            "て",
+            "）"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 11040,
+        "sound_end": 20352
+    },
+    {
+        "id": "Kimisinitamoukoto-f000004",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "ああ、",
+        "sentence_with_furigana": "ああ、",
+        "word_base_list": [
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "ああ",
+            "、"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 20352,
+        "sound_end": 21309
+    },
+    {
+        "id": "Kimisinitamoukoto-f000005",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "弟よ、",
+        "sentence_with_furigana": "弟よ、",
+        "word_base_list": [
+            "弟",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "弟",
+            "よ",
+            "、"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 21309,
+        "sound_end": 22857
+    },
+    {
+        "id": "Kimisinitamoukoto-f000006",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君を泣く、",
+        "sentence_with_furigana": "君を泣く、",
+        "word_base_list": [
+            "君",
+            "を",
+            "泣く",
+            "、"
+        ],
+        "word_list": [
+            "君",
+            "を",
+            "泣く",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 22857,
+        "sound_end": 26152
+    },
+    {
+        "id": "Kimisinitamoukoto-f000007",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ。",
+        "sentence_with_furigana": "君死にたまふことなかれ。",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ",
+            "。"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 26152,
+        "sound_end": 32202
+    },
+    {
+        "id": "Kimisinitamoukoto-f000008",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "末に生れし君なれば",
+        "sentence_with_furigana": "末[すゑ]に生れし君なれば",
+        "word_base_list": [
+            "末",
+            "に",
+            "生まれる",
+            "為る",
+            "君",
+            "なり",
+            "ば"
+        ],
+        "word_list": [
+            "末",
+            "に",
+            "生れ",
+            "し",
+            "君",
+            "なれ",
+            "ば"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 32202,
+        "sound_end": 35247
+    },
+    {
+        "id": "Kimisinitamoukoto-f000009",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "親のなさけは勝りしも、",
+        "sentence_with_furigana": "親のなさけは 勝[まさ]りしも、",
+        "word_base_list": [
+            "親",
+            "の",
+            "情け",
+            "は",
+            "勝り",
+            "しも",
+            "、"
+        ],
+        "word_list": [
+            "親",
+            "の",
+            "なさけ",
+            "は",
+            "勝り",
+            "しも",
+            "、"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 35247,
+        "sound_end": 39240
+    },
+    {
+        "id": "Kimisinitamoukoto-f000010",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "親は刄をにぎらせて",
+        "sentence_with_furigana": "親は 刄[やいば]をにぎらせて",
+        "word_base_list": [
+            "親",
+            "は",
+            "刃",
+            "を",
+            "握る",
+            "せる",
+            "て"
+        ],
+        "word_list": [
+            "親",
+            "は",
+            "刄",
+            "を",
+            "にぎら",
+            "せ",
+            "て"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 39240,
+        "sound_end": 41858
+    },
+    {
+        "id": "Kimisinitamoukoto-f000011",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "人を殺せと教へしや、",
+        "sentence_with_furigana": "人を殺せと教へしや、",
+        "word_base_list": [
+            "人",
+            "を",
+            "殺す",
+            "と",
+            "教える",
+            "き",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "人",
+            "を",
+            "殺せ",
+            "と",
+            "教へ",
+            "し",
+            "や",
+            "、"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 41858,
+        "sound_end": 45725
+    },
+    {
+        "id": "Kimisinitamoukoto-f000012",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "人を殺して死ねよとて",
+        "sentence_with_furigana": "人を殺して死ねよとて",
+        "word_base_list": [
+            "人",
+            "を",
+            "殺す",
+            "て",
+            "死ぬ",
+            "とて"
+        ],
+        "word_list": [
+            "人",
+            "を",
+            "殺し",
+            "て",
+            "死ねよ",
+            "とて"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 45725,
+        "sound_end": 48960
+    },
+    {
+        "id": "Kimisinitamoukoto-f000013",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "廿四までを育てしや。",
+        "sentence_with_furigana": "廿四[にじふし]までを育てしや。",
+        "word_base_list": [
+            "二十",
+            "4",
+            "まで",
+            "を",
+            "育つ",
+            "き",
+            "や",
+            "。"
+        ],
+        "word_list": [
+            "廿",
+            "四",
+            "まで",
+            "を",
+            "育て",
+            "し",
+            "や",
+            "。"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 48960,
+        "sound_end": 55200
+    },
+    {
+        "id": "Kimisinitamoukoto-f000014",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "堺の街のあきびとの",
+        "sentence_with_furigana": "堺[さかい]の街のあきびとの",
+        "word_base_list": [
+            "堺",
+            "の",
+            "街",
+            "の",
+            "商人",
+            "の"
+        ],
+        "word_list": [
+            "堺",
+            "の",
+            "街",
+            "の",
+            "あきびと",
+            "の"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 55200,
+        "sound_end": 58040
+    },
+    {
+        "id": "Kimisinitamoukoto-f000015",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "老舗を誇るあるじにて、",
+        "sentence_with_furigana": "老舗[しにせ]を誇るあるじにて、",
+        "word_base_list": [
+            "老舗",
+            "を",
+            "誇る",
+            "主",
+            "にて",
+            "、"
+        ],
+        "word_list": [
+            "老舗",
+            "を",
+            "誇る",
+            "あるじ",
+            "にて",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 58040,
+        "sound_end": 62120
+    },
+    {
+        "id": "Kimisinitamoukoto-f000016",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "親の名を継ぐ君なれば、",
+        "sentence_with_furigana": "親の名を継ぐ君なれば、",
+        "word_base_list": [
+            "親",
+            "の",
+            "名",
+            "を",
+            "継ぐ",
+            "君",
+            "なり",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "親",
+            "の",
+            "名",
+            "を",
+            "継ぐ",
+            "君",
+            "なれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 62120,
+        "sound_end": 65558
+    },
+    {
+        "id": "Kimisinitamoukoto-f000017",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ。",
+        "sentence_with_furigana": "君死にたまふことなかれ。",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ",
+            "。"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 65558,
+        "sound_end": 71659
+    },
+    {
+        "id": "Kimisinitamoukoto-f000018",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "旅順の城はほろぶとも、",
+        "sentence_with_furigana": "旅順の城はほろぶとも、",
+        "word_base_list": [
+            "旅順",
+            "の",
+            "城",
+            "は",
+            "滅ぶ",
+            "とも",
+            "、"
+        ],
+        "word_list": [
+            "旅順",
+            "の",
+            "城",
+            "は",
+            "ほろぶ",
+            "とも",
+            "、"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 71659,
+        "sound_end": 74720
+    },
+    {
+        "id": "Kimisinitamoukoto-f000019",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "ほろびずとても、",
+        "sentence_with_furigana": "ほろびずとても、",
+        "word_base_list": [
+            "滅ぶ",
+            "ず",
+            "迚も",
+            "、"
+        ],
+        "word_list": [
+            "ほろび",
+            "ず",
+            "とても",
+            "、"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 74720,
+        "sound_end": 76120
+    },
+    {
+        "id": "Kimisinitamoukoto-f000020",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "何事ぞ、",
+        "sentence_with_furigana": "何事[なにごと]ぞ、",
+        "word_base_list": [
+            "何事",
+            "ぞ",
+            "、"
+        ],
+        "word_list": [
+            "何事",
+            "ぞ",
+            "、"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 76120,
+        "sound_end": 78987
+    },
+    {
+        "id": "Kimisinitamoukoto-f000021",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君は知らじな、",
+        "sentence_with_furigana": "君は知らじな、",
+        "word_base_list": [
+            "君",
+            "は",
+            "知る",
+            "じ",
+            "な",
+            "、"
+        ],
+        "word_list": [
+            "君",
+            "は",
+            "知ら",
+            "じ",
+            "な",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 78987,
+        "sound_end": 80360
+    },
+    {
+        "id": "Kimisinitamoukoto-f000022",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "あきびとの",
+        "sentence_with_furigana": "あきびとの",
+        "word_base_list": [
+            "商人",
+            "の"
+        ],
+        "word_list": [
+            "あきびと",
+            "の"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 80360,
+        "sound_end": 81950
+    },
+    {
+        "id": "Kimisinitamoukoto-f000023",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "家の習ひに無きことを。",
+        "sentence_with_furigana": "家[いへ]の習ひに無きことを。",
+        "word_base_list": [
+            "家",
+            "の",
+            "習う",
+            "に",
+            "無い",
+            "こと",
+            "を",
+            "。"
+        ],
+        "word_list": [
+            "家",
+            "の",
+            "習ひ",
+            "に",
+            "無き",
+            "こと",
+            "を",
+            "。"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 81950,
+        "sound_end": 87615
+    },
+    {
+        "id": "Kimisinitamoukoto-f000024",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ。",
+        "sentence_with_furigana": "君死にたまふことなかれ。",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ",
+            "。"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 87615,
+        "sound_end": 93165
+    },
+    {
+        "id": "Kimisinitamoukoto-f000025",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "すめらみことは、",
+        "sentence_with_furigana": "すめらみことは、",
+        "word_base_list": [
+            "天皇",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "すめらみこと",
+            "は",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 93165,
+        "sound_end": 94423
+    },
+    {
+        "id": "Kimisinitamoukoto-f000026",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "戦ひに",
+        "sentence_with_furigana": "戦ひに",
+        "word_base_list": [
+            "戦う",
+            "に"
+        ],
+        "word_list": [
+            "戦ひ",
+            "に"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 94423,
+        "sound_end": 96003
+    },
+    {
+        "id": "Kimisinitamoukoto-f000027",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "おほみづからは出でまさね、",
+        "sentence_with_furigana": "おほみづからは 出[い]でまさね、",
+        "word_base_list": [
+            "おー",
+            "ほ",
+            "自ら",
+            "は",
+            "出る",
+            "ます",
+            "ね",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ほ",
+            "みづから",
+            "は",
+            "出で",
+            "まさ",
+            "ね",
+            "、"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 96003,
+        "sound_end": 100057
+    },
+    {
+        "id": "Kimisinitamoukoto-f000028",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "互に人の血を流し、",
+        "sentence_with_furigana": "互[かたみ]に人の血を流し、",
+        "word_base_list": [
+            "互い",
+            "に",
+            "人",
+            "の",
+            "血",
+            "を",
+            "流す",
+            "、"
+        ],
+        "word_list": [
+            "互",
+            "に",
+            "人",
+            "の",
+            "血",
+            "を",
+            "流し",
+            "、"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 100057,
+        "sound_end": 102832
+    },
+    {
+        "id": "Kimisinitamoukoto-f000029",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "獣の道に死ねよとは、",
+        "sentence_with_furigana": "獣[けもの]の 道[みち]に死ねよとは、",
+        "word_base_list": [
+            "獣",
+            "の",
+            "道",
+            "に",
+            "死ぬ",
+            "と",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "獣",
+            "の",
+            "道",
+            "に",
+            "死ねよ",
+            "と",
+            "は",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 102832,
+        "sound_end": 105846
+    },
+    {
+        "id": "Kimisinitamoukoto-f000030",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "死ぬるを人の誉れとは、",
+        "sentence_with_furigana": "死ぬるを人の 誉[ほま]れとは、",
+        "word_base_list": [
+            "死ぬ",
+            "り",
+            "を",
+            "人",
+            "の",
+            "誉",
+            "と",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "死ぬ",
+            "る",
+            "を",
+            "人",
+            "の",
+            "誉れ",
+            "と",
+            "は",
+            "、"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 105846,
+        "sound_end": 110240
+    },
+    {
+        "id": "Kimisinitamoukoto-f000031",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "おほみこころの深ければ、",
+        "sentence_with_furigana": "おほみこころの深ければ、",
+        "word_base_list": [
+            "御",
+            "ほ",
+            "み",
+            "心",
+            "の",
+            "深い",
+            "ば",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "ほ",
+            "み",
+            "こころ",
+            "の",
+            "深けれ",
+            "ば",
+            "、"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 110240,
+        "sound_end": 113120
+    },
+    {
+        "id": "Kimisinitamoukoto-f000032",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "もとより如何で思されん。",
+        "sentence_with_furigana": "もとより 如何[いか]で 思[おぼ]されん。",
+        "word_base_list": [
+            "固より",
+            "如何で",
+            "思う",
+            "れる",
+            "ず",
+            "。"
+        ],
+        "word_list": [
+            "もとより",
+            "如何で",
+            "思さ",
+            "れ",
+            "ん",
+            "。"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 113120,
+        "sound_end": 120596
+    },
+    {
+        "id": "Kimisinitamoukoto-f000033",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "ああ、",
+        "sentence_with_furigana": "ああ、",
+        "word_base_list": [
+            "ああ",
+            "、"
+        ],
+        "word_list": [
+            "ああ",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 120596,
+        "sound_end": 121600
+    },
+    {
+        "id": "Kimisinitamoukoto-f000034",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "弟よ、",
+        "sentence_with_furigana": "弟よ、",
+        "word_base_list": [
+            "弟",
+            "よ",
+            "、"
+        ],
+        "word_list": [
+            "弟",
+            "よ",
+            "、"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 121600,
+        "sound_end": 123132
+    },
+    {
+        "id": "Kimisinitamoukoto-f000035",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "戦ひに",
+        "sentence_with_furigana": "戦ひに",
+        "word_base_list": [
+            "戦う",
+            "に"
+        ],
+        "word_list": [
+            "戦ひ",
+            "に"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 123132,
+        "sound_end": 125055
+    },
+    {
+        "id": "Kimisinitamoukoto-f000036",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ。",
+        "sentence_with_furigana": "君死にたまふことなかれ。",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ",
+            "。"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 125055,
+        "sound_end": 131280
+    },
+    {
+        "id": "Kimisinitamoukoto-f000037",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "過ぎにし秋を父君に",
+        "sentence_with_furigana": "過ぎにし秋を 父君[ちゝぎみ]に",
+        "word_base_list": [
+            "過ぎ",
+            "だ",
+            "為る",
+            "秋",
+            "を",
+            "父",
+            "君",
+            "に"
+        ],
+        "word_list": [
+            "過ぎ",
+            "に",
+            "し",
+            "秋",
+            "を",
+            "父",
+            "君",
+            "に"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 131280,
+        "sound_end": 134566
+    },
+    {
+        "id": "Kimisinitamoukoto-f000038",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "おくれたまへる母君は、",
+        "sentence_with_furigana": "おくれたまへる 母君[はゝぎみ]は、",
+        "word_base_list": [
+            "御",
+            "呉れる",
+            "給う",
+            "り",
+            "母",
+            "君",
+            "は",
+            "、"
+        ],
+        "word_list": [
+            "お",
+            "くれ",
+            "たまへ",
+            "る",
+            "母",
+            "君",
+            "は",
+            "、"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 134566,
+        "sound_end": 138578
+    },
+    {
+        "id": "Kimisinitamoukoto-f000039",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "歎きのなかに、",
+        "sentence_with_furigana": "歎きのなかに、",
+        "word_base_list": [
+            "嘆き",
+            "の",
+            "中",
+            "に",
+            "、"
+        ],
+        "word_list": [
+            "歎き",
+            "の",
+            "なか",
+            "に",
+            "、"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 138578,
+        "sound_end": 140000
+    },
+    {
+        "id": "Kimisinitamoukoto-f000040",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "いたましく、",
+        "sentence_with_furigana": "いたましく、",
+        "word_base_list": [
+            "痛ましい",
+            "、"
+        ],
+        "word_list": [
+            "いたましく",
+            "、"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 140000,
+        "sound_end": 143040
+    },
+    {
+        "id": "Kimisinitamoukoto-f000041",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "我子を召され、",
+        "sentence_with_furigana": "我子[わがこ]を 召[め]され、",
+        "word_base_list": [
+            "我が",
+            "子",
+            "を",
+            "召す",
+            "れる",
+            "、"
+        ],
+        "word_list": [
+            "我",
+            "子",
+            "を",
+            "召さ",
+            "れ",
+            "、"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 143040,
+        "sound_end": 145160
+    },
+    {
+        "id": "Kimisinitamoukoto-f000042",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "家を守り、",
+        "sentence_with_furigana": "家[いへ]を 守[も]り、",
+        "word_base_list": [
+            "家",
+            "を",
+            "守る",
+            "、"
+        ],
+        "word_list": [
+            "家",
+            "を",
+            "守り",
+            "、"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 145160,
+        "sound_end": 148320
+    },
+    {
+        "id": "Kimisinitamoukoto-f000043",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "安しと聞ける大御代も",
+        "sentence_with_furigana": "安[やす]しと聞ける 大御代[おほみよ]も",
+        "word_base_list": [
+            "安い",
+            "と",
+            "聞く",
+            "大",
+            "御代",
+            "も"
+        ],
+        "word_list": [
+            "安し",
+            "と",
+            "聞ける",
+            "大",
+            "御代",
+            "も"
+        ],
+        "sound": "f000043.mp3",
+        "sound_begin": 148320,
+        "sound_end": 151560
+    },
+    {
+        "id": "Kimisinitamoukoto-f000044",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "母の白髪は増さりゆく。",
+        "sentence_with_furigana": "母の 白髪[しらが]は増さりゆく。",
+        "word_base_list": [
+            "母",
+            "の",
+            "白髪",
+            "は",
+            "増さる",
+            "行く",
+            "。"
+        ],
+        "word_list": [
+            "母",
+            "の",
+            "白髪",
+            "は",
+            "増さり",
+            "ゆく",
+            "。"
+        ],
+        "sound": "f000044.mp3",
+        "sound_begin": 151560,
+        "sound_end": 158440
+    },
+    {
+        "id": "Kimisinitamoukoto-f000045",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "暖簾のかげに伏して泣く",
+        "sentence_with_furigana": "暖簾[のれん]のかげに伏して泣く",
+        "word_base_list": [
+            "暖簾",
+            "の",
+            "かげ",
+            "に",
+            "伏す",
+            "て",
+            "泣く"
+        ],
+        "word_list": [
+            "暖簾",
+            "の",
+            "かげ",
+            "に",
+            "伏し",
+            "て",
+            "泣く"
+        ],
+        "sound": "f000045.mp3",
+        "sound_begin": 158440,
+        "sound_end": 162413
+    },
+    {
+        "id": "Kimisinitamoukoto-f000046",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "あえかに若き新妻を",
+        "sentence_with_furigana": "あえかに若き 新妻[にひづま]を",
+        "word_base_list": [
+            "あえか",
+            "だ",
+            "若い",
+            "新妻",
+            "を"
+        ],
+        "word_list": [
+            "あえか",
+            "に",
+            "若き",
+            "新妻",
+            "を"
+        ],
+        "sound": "f000046.mp3",
+        "sound_begin": 162413,
+        "sound_end": 165313
+    },
+    {
+        "id": "Kimisinitamoukoto-f000047",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君忘るるや、",
+        "sentence_with_furigana": "君忘るるや、",
+        "word_base_list": [
+            "君",
+            "忘れる",
+            "や",
+            "、"
+        ],
+        "word_list": [
+            "君",
+            "忘るる",
+            "や",
+            "、"
+        ],
+        "sound": "f000047.mp3",
+        "sound_begin": 165313,
+        "sound_end": 167776
+    },
+    {
+        "id": "Kimisinitamoukoto-f000048",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "思へるや。",
+        "sentence_with_furigana": "思へるや。",
+        "word_base_list": [
+            "思う",
+            "や",
+            "。"
+        ],
+        "word_list": [
+            "思へる",
+            "や",
+            "。"
+        ],
+        "sound": "f000048.mp3",
+        "sound_begin": 167776,
+        "sound_end": 171030
+    },
+    {
+        "id": "Kimisinitamoukoto-f000049",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "十月も添はで別れたる",
+        "sentence_with_furigana": "十月[とつき]も添はで別れたる",
+        "word_base_list": [
+            "10",
+            "月",
+            "も",
+            "添",
+            "は",
+            "で",
+            "別れる",
+            "たり"
+        ],
+        "word_list": [
+            "十",
+            "月",
+            "も",
+            "添",
+            "は",
+            "で",
+            "別れ",
+            "たる"
+        ],
+        "sound": "f000049.mp3",
+        "sound_begin": 171030,
+        "sound_end": 174107
+    },
+    {
+        "id": "Kimisinitamoukoto-f000050",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "少女ごころを思ひみよ。",
+        "sentence_with_furigana": "少女[をとめ]ごころを思ひみよ。",
+        "word_base_list": [
+            "少女",
+            "心",
+            "を",
+            "思う",
+            "見る",
+            "よ",
+            "。"
+        ],
+        "word_list": [
+            "少女",
+            "ごころ",
+            "を",
+            "思ひ",
+            "み",
+            "よ",
+            "。"
+        ],
+        "sound": "f000050.mp3",
+        "sound_begin": 174107,
+        "sound_end": 179231
+    },
+    {
+        "id": "Kimisinitamoukoto-f000051",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "この世ひとりの君ならで",
+        "sentence_with_furigana": "この世ひとりの君ならで",
+        "word_base_list": [
+            "此の世",
+            "一人",
+            "の",
+            "君",
+            "なり",
+            "で"
+        ],
+        "word_list": [
+            "この世",
+            "ひとり",
+            "の",
+            "君",
+            "なら",
+            "で"
+        ],
+        "sound": "f000051.mp3",
+        "sound_begin": 179231,
+        "sound_end": 182391
+    },
+    {
+        "id": "Kimisinitamoukoto-f000052",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "ああまた誰を頼むべき。",
+        "sentence_with_furigana": "ああまた 誰[たれ]を頼むべき。",
+        "word_base_list": [
+            "あー",
+            "数多",
+            "誰",
+            "を",
+            "頼む",
+            "べし",
+            "。"
+        ],
+        "word_list": [
+            "あ",
+            "あまた",
+            "誰",
+            "を",
+            "頼む",
+            "べき",
+            "。"
+        ],
+        "sound": "f000052.mp3",
+        "sound_begin": 182391,
+        "sound_end": 188440
+    },
+    {
+        "id": "Kimisinitamoukoto-f000053",
+        "author_japanese": "与謝野 晶子",
+        "deck_name": "Kimisinitamoukoto",
+        "deck_name_japanese": "君死にたまふことなかれ",
+        "sentence": "君死にたまふことなかれ。",
+        "sentence_with_furigana": "君死にたまふことなかれ。",
+        "word_base_list": [
+            "君",
+            "死ぬ",
+            "給う",
+            "こと",
+            "無い",
+            "。"
+        ],
+        "word_list": [
+            "君",
+            "死に",
+            "たまふ",
+            "こと",
+            "なかれ",
+            "。"
+        ],
+        "sound": "f000053.mp3",
+        "sound_begin": 188440,
+        "sound_end": 192214
+    }
+]

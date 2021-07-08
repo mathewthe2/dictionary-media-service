@@ -1,0 +1,681 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "村山籌子　作",
+        "sentence_with_furigana": "村山籌子　作",
+        "audio_begin": 2728,
+        "audio_end": 5457
+    },
+    {
+        "id": "f000002",
+        "sentence": "小ぐまさん　の　かんがへちがひ",
+        "sentence_with_furigana": "小ぐまさん　の　かんがへちがひ",
+        "audio_begin": 5457,
+        "audio_end": 12608
+    },
+    {
+        "id": "f000003",
+        "sentence": "ある日小ぐまさんが路ばたであそんでゐますと、",
+        "sentence_with_furigana": "ある日小ぐまさんが 路[みち]ばたであそんでゐますと、",
+        "audio_begin": 12608,
+        "audio_end": 17400
+    },
+    {
+        "id": "f000004",
+        "sentence": "お猫さんが通りがゝりました。",
+        "sentence_with_furigana": "お 猫[ねこ]さんが通りがゝりました。",
+        "audio_begin": 17400,
+        "audio_end": 19540
+    },
+    {
+        "id": "f000005",
+        "sentence": "お猫さんは、",
+        "sentence_with_furigana": "お猫さんは、",
+        "audio_begin": 21640,
+        "audio_end": 22760
+    },
+    {
+        "id": "f000006",
+        "sentence": "ふところから　赤いものをとりだして",
+        "sentence_with_furigana": "ふところから　赤いものをとりだして",
+        "audio_begin": 22760,
+        "audio_end": 25600
+    },
+    {
+        "id": "f000007",
+        "sentence": "「小ぐまさん、",
+        "sentence_with_furigana": "「小ぐまさん、",
+        "audio_begin": 27600,
+        "audio_end": 28400
+    },
+    {
+        "id": "f000008",
+        "sentence": "これなんだか知つてる？",
+        "sentence_with_furigana": "これなんだか知つてる？",
+        "audio_begin": 28400,
+        "audio_end": 30920
+    },
+    {
+        "id": "f000009",
+        "sentence": "」とききました。",
+        "sentence_with_furigana": "」とききました。",
+        "audio_begin": 32820,
+        "audio_end": 33880
+    },
+    {
+        "id": "f000010",
+        "sentence": "小ぐまさんは　一目みて、",
+        "sentence_with_furigana": "小ぐまさんは　一目みて、",
+        "audio_begin": 36180,
+        "audio_end": 37920
+    },
+    {
+        "id": "f000011",
+        "sentence": "それがほゝづきだとわかりましたので、",
+        "sentence_with_furigana": "それがほゝづきだとわかりましたので、",
+        "audio_begin": 37920,
+        "audio_end": 41960
+    },
+    {
+        "id": "f000012",
+        "sentence": "「あら、",
+        "sentence_with_furigana": "「あら、",
+        "audio_begin": 41960,
+        "audio_end": 42880
+    },
+    {
+        "id": "f000013",
+        "sentence": "いゝのね。",
+        "sentence_with_furigana": "いゝのね。",
+        "audio_begin": 42880,
+        "audio_end": 44800
+    },
+    {
+        "id": "f000014",
+        "sentence": "ひとつでいいから下さいな。",
+        "sentence_with_furigana": "ひとつでいいから下さいな。",
+        "audio_begin": 44800,
+        "audio_end": 46880
+    },
+    {
+        "id": "f000015",
+        "sentence": "」といひました。",
+        "sentence_with_furigana": "」といひました。",
+        "audio_begin": 48480,
+        "audio_end": 51480
+    },
+    {
+        "id": "f000016",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "audio_begin": 51480,
+        "audio_end": 52640
+    },
+    {
+        "id": "f000017",
+        "sentence": "ひとつ下さいですつて。",
+        "sentence_with_furigana": "ひとつ下さいですつて。",
+        "audio_begin": 52640,
+        "audio_end": 54600
+    },
+    {
+        "id": "f000018",
+        "sentence": "とてもね、",
+        "sentence_with_furigana": "とてもね、",
+        "audio_begin": 54600,
+        "audio_end": 57520
+    },
+    {
+        "id": "f000019",
+        "sentence": "大事なのよ、",
+        "sentence_with_furigana": "大事なのよ、",
+        "audio_begin": 57520,
+        "audio_end": 59234
+    },
+    {
+        "id": "f000020",
+        "sentence": "あげられやしない。",
+        "sentence_with_furigana": "あげられやしない。",
+        "audio_begin": 59234,
+        "audio_end": 61000
+    },
+    {
+        "id": "f000021",
+        "sentence": "」とお猫さんはいひながら、",
+        "sentence_with_furigana": "」とお猫さんはいひながら、",
+        "audio_begin": 62700,
+        "audio_end": 65319
+    },
+    {
+        "id": "f000022",
+        "sentence": "皮をむいて、",
+        "sentence_with_furigana": "皮をむいて、",
+        "audio_begin": 65319,
+        "audio_end": 67440
+    },
+    {
+        "id": "f000023",
+        "sentence": "ほゝづきの実をだしました。",
+        "sentence_with_furigana": "ほゝづきの実をだしました。",
+        "audio_begin": 67440,
+        "audio_end": 71280
+    },
+    {
+        "id": "f000024",
+        "sentence": "それをみると　小ぐまさんは、",
+        "sentence_with_furigana": "それをみると　小ぐまさんは、",
+        "audio_begin": 71280,
+        "audio_end": 73240
+    },
+    {
+        "id": "f000025",
+        "sentence": "とても欲しくなりました。",
+        "sentence_with_furigana": "とても欲しくなりました。",
+        "audio_begin": 73240,
+        "audio_end": 75540
+    },
+    {
+        "id": "f000026",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 77640,
+        "audio_end": 78880
+    },
+    {
+        "id": "f000027",
+        "sentence": "自分のうちの畑のすみに、",
+        "sentence_with_furigana": "自分のうちの畑のすみに、",
+        "audio_begin": 78880,
+        "audio_end": 81720
+    },
+    {
+        "id": "f000028",
+        "sentence": "一本　ほゝづきの木があるのを思ひだして、",
+        "sentence_with_furigana": "一本　ほゝづきの木があるのを思ひだして、",
+        "audio_begin": 81720,
+        "audio_end": 84700
+    },
+    {
+        "id": "f000029",
+        "sentence": "「ね、",
+        "sentence_with_furigana": "「ね、",
+        "audio_begin": 86800,
+        "audio_end": 87200
+    },
+    {
+        "id": "f000030",
+        "sentence": "いゝでせう？",
+        "sentence_with_furigana": "いゝでせう？",
+        "audio_begin": 87200,
+        "audio_end": 89360
+    },
+    {
+        "id": "f000031",
+        "sentence": "明日、",
+        "sentence_with_furigana": "明日[あした]、",
+        "audio_begin": 89360,
+        "audio_end": 89892
+    },
+    {
+        "id": "f000032",
+        "sentence": "二つにしてかへすから、",
+        "sentence_with_furigana": "二つにしてかへすから、",
+        "audio_begin": 89892,
+        "audio_end": 91920
+    },
+    {
+        "id": "f000033",
+        "sentence": "ひとつだけ下さい。",
+        "sentence_with_furigana": "ひとつだけ下さい。",
+        "audio_begin": 91920,
+        "audio_end": 94360
+    },
+    {
+        "id": "f000034",
+        "sentence": "うちにほゝづきの木があるの。",
+        "sentence_with_furigana": "うちにほゝづきの木があるの。",
+        "audio_begin": 94360,
+        "audio_end": 96960
+    },
+    {
+        "id": "f000035",
+        "sentence": "」といひました。",
+        "sentence_with_furigana": "」といひました。",
+        "audio_begin": 99060,
+        "audio_end": 102000
+    },
+    {
+        "id": "f000036",
+        "sentence": "お猫さんは、",
+        "sentence_with_furigana": "お猫さんは、",
+        "audio_begin": 102000,
+        "audio_end": 104080
+    },
+    {
+        "id": "f000037",
+        "sentence": "「まあ、",
+        "sentence_with_furigana": "「まあ、",
+        "audio_begin": 104080,
+        "audio_end": 105680
+    },
+    {
+        "id": "f000038",
+        "sentence": "二つにしてかへしてくれるのなら一つあげませう。",
+        "sentence_with_furigana": "二つにしてかへしてくれるのなら一つあげませう。",
+        "audio_begin": 105680,
+        "audio_end": 109800
+    },
+    {
+        "id": "f000039",
+        "sentence": "ぢやあ、",
+        "sentence_with_furigana": "ぢやあ、",
+        "audio_begin": 111500,
+        "audio_end": 112720
+    },
+    {
+        "id": "f000040",
+        "sentence": "あした、",
+        "sentence_with_furigana": "あした、",
+        "audio_begin": 112720,
+        "audio_end": 113520
+    },
+    {
+        "id": "f000041",
+        "sentence": "きつとね。",
+        "sentence_with_furigana": "きつとね。",
+        "audio_begin": 113520,
+        "audio_end": 114800
+    },
+    {
+        "id": "f000042",
+        "sentence": "」と指切りをして、",
+        "sentence_with_furigana": "」と指切りをして、",
+        "audio_begin": 116800,
+        "audio_end": 119520
+    },
+    {
+        "id": "f000043",
+        "sentence": "ひとつ、",
+        "sentence_with_furigana": "ひとつ、",
+        "audio_begin": 119520,
+        "audio_end": 120080
+    },
+    {
+        "id": "f000044",
+        "sentence": "くれました。",
+        "sentence_with_furigana": "くれました。",
+        "audio_begin": 120080,
+        "audio_end": 121120
+    },
+    {
+        "id": "f000045",
+        "sentence": "小ぐまさんはうれしくて　うれしくて、",
+        "sentence_with_furigana": "小ぐまさんはうれしくて　うれしくて、",
+        "audio_begin": 123108,
+        "audio_end": 126200
+    },
+    {
+        "id": "f000046",
+        "sentence": "その晩　一晩、",
+        "sentence_with_furigana": "その晩　一晩、",
+        "audio_begin": 126200,
+        "audio_end": 128280
+    },
+    {
+        "id": "f000047",
+        "sentence": "そのほゝづきを手のなかにいれて、",
+        "sentence_with_furigana": "そのほゝづきを手のなかにいれて、",
+        "audio_begin": 128280,
+        "audio_end": 131480
+    },
+    {
+        "id": "f000048",
+        "sentence": "ながめたり、",
+        "sentence_with_furigana": "ながめたり、",
+        "audio_begin": 131480,
+        "audio_end": 132320
+    },
+    {
+        "id": "f000049",
+        "sentence": "着物をきせてお人形さんにしたりしてあそびました。",
+        "sentence_with_furigana": "着物をきせてお人形さんにしたりしてあそびました。",
+        "audio_begin": 132320,
+        "audio_end": 140705
+    },
+    {
+        "id": "f000051",
+        "sentence": "その翌日、",
+        "sentence_with_furigana": "その 翌日[あくるひ]、",
+        "audio_begin": 140705,
+        "audio_end": 143223
+    },
+    {
+        "id": "f000052",
+        "sentence": "早く起きて、",
+        "sentence_with_furigana": "早く起きて、",
+        "audio_begin": 143223,
+        "audio_end": 144840
+    },
+    {
+        "id": "f000053",
+        "sentence": "小ぐまさんは畑にゆきました。",
+        "sentence_with_furigana": "小ぐまさんは畑にゆきました。",
+        "audio_begin": 144840,
+        "audio_end": 148480
+    },
+    {
+        "id": "f000054",
+        "sentence": "そしてお昼ころまで、",
+        "sentence_with_furigana": "そしてお昼ころまで、",
+        "audio_begin": 148480,
+        "audio_end": 150280
+    },
+    {
+        "id": "f000055",
+        "sentence": "あつちこつちをさがしましたが、",
+        "sentence_with_furigana": "あつちこつちをさがしましたが、",
+        "audio_begin": 150280,
+        "audio_end": 152960
+    },
+    {
+        "id": "f000056",
+        "sentence": "ほゝづきの木の影も形もありません。",
+        "sentence_with_furigana": "ほゝづきの木の影も形もありません。",
+        "audio_begin": 152960,
+        "audio_end": 157013
+    },
+    {
+        "id": "f000057",
+        "sentence": "やつと見付かつたのは、",
+        "sentence_with_furigana": "やつと見付かつたのは、",
+        "audio_begin": 157013,
+        "audio_end": 159000
+    },
+    {
+        "id": "f000058",
+        "sentence": "ほゝづきの木によく似た、",
+        "sentence_with_furigana": "ほゝづきの木によく似た、",
+        "audio_begin": 159000,
+        "audio_end": 161200
+    },
+    {
+        "id": "f000059",
+        "sentence": "まるで別の木なのでした。",
+        "sentence_with_furigana": "まるで別の木なのでした。",
+        "audio_begin": 161200,
+        "audio_end": 163180
+    },
+    {
+        "id": "f000060",
+        "sentence": "小ぐまさんは、",
+        "sentence_with_furigana": "小ぐまさんは、",
+        "audio_begin": 165280,
+        "audio_end": 166280
+    },
+    {
+        "id": "f000061",
+        "sentence": "すつかり考へちがひをして、",
+        "sentence_with_furigana": "すつかり考へちがひをして、",
+        "audio_begin": 166280,
+        "audio_end": 168280
+    },
+    {
+        "id": "f000062",
+        "sentence": "これをほゝづきの木だと思つてゐたのです。",
+        "sentence_with_furigana": "これをほゝづきの木だと思つてゐたのです。",
+        "audio_begin": 168280,
+        "audio_end": 171120
+    },
+    {
+        "id": "f000063",
+        "sentence": "小ぐまさんはどんなに心配したことでせう。",
+        "sentence_with_furigana": "小ぐまさんはどんなに心配したことでせう。",
+        "audio_begin": 173220,
+        "audio_end": 177540
+    },
+    {
+        "id": "f000064",
+        "sentence": "お猫さんがこれをきいたらどんなにおこるだらうかと思つて、",
+        "sentence_with_furigana": "お猫さんがこれをきいたらどんなにおこるだらうかと思つて、",
+        "audio_begin": 177540,
+        "audio_end": 181952
+    },
+    {
+        "id": "f000065",
+        "sentence": "大きい声をだして泣いてをりました。",
+        "sentence_with_furigana": "大きい声をだして泣いてをりました。",
+        "audio_begin": 181952,
+        "audio_end": 184960
+    },
+    {
+        "id": "f000066",
+        "sentence": "小ぐまさんの声があまり大きいので、",
+        "sentence_with_furigana": "小ぐまさんの声があまり大きいので、",
+        "audio_begin": 188616,
+        "audio_end": 192080
+    },
+    {
+        "id": "f000067",
+        "sentence": "お隣りのあひるさんがやつてきました。",
+        "sentence_with_furigana": "お隣りのあひるさんがやつてきました。",
+        "audio_begin": 192080,
+        "audio_end": 196240
+    },
+    {
+        "id": "f000068",
+        "sentence": "あひるさんは、",
+        "sentence_with_furigana": "あひるさんは、",
+        "audio_begin": 196240,
+        "audio_end": 197055
+    },
+    {
+        "id": "f000069",
+        "sentence": "たづねました。",
+        "sentence_with_furigana": "たづねました。",
+        "audio_begin": 197055,
+        "audio_end": 199529
+    },
+    {
+        "id": "f000070",
+        "sentence": "「どうしたのですか、",
+        "sentence_with_furigana": "「どうしたのですか、",
+        "audio_begin": 199529,
+        "audio_end": 201640
+    },
+    {
+        "id": "f000071",
+        "sentence": "私にはなして下さい。」",
+        "sentence_with_furigana": "私にはなして下さい。」",
+        "audio_begin": 201640,
+        "audio_end": 203480
+    },
+    {
+        "id": "f000072",
+        "sentence": "小ぐまさんは自分の心配を、",
+        "sentence_with_furigana": "小ぐまさんは自分の心配を、",
+        "audio_begin": 206280,
+        "audio_end": 208640
+    },
+    {
+        "id": "f000073",
+        "sentence": "あひるさんにはなしましたら、",
+        "sentence_with_furigana": "あひるさんにはなしましたら、",
+        "audio_begin": 208640,
+        "audio_end": 211160
+    },
+    {
+        "id": "f000074",
+        "sentence": "あひるさんは小ぐまさんをかわいさうに思つて、",
+        "sentence_with_furigana": "あひるさんは小ぐまさんをかわいさうに思つて、",
+        "audio_begin": 211160,
+        "audio_end": 214132
+    },
+    {
+        "id": "f000075",
+        "sentence": "わあわあ泣きました。",
+        "sentence_with_furigana": "わあわあ泣きました。",
+        "audio_begin": 214132,
+        "audio_end": 216260
+    },
+    {
+        "id": "f000076",
+        "sentence": "二人の泣き声があまりに大きいので、",
+        "sentence_with_furigana": "二人の泣き声があまりに大きいので、",
+        "audio_begin": 218360,
+        "audio_end": 221120
+    },
+    {
+        "id": "f000077",
+        "sentence": "昨日のお猫さんがやつてきました。",
+        "sentence_with_furigana": "昨日[きのふ]のお猫さんがやつてきました。",
+        "audio_begin": 221120,
+        "audio_end": 225840
+    },
+    {
+        "id": "f000078",
+        "sentence": "小ぐまさんは涙で目がみえないので、",
+        "sentence_with_furigana": "小ぐまさんは涙で目がみえないので、",
+        "audio_begin": 225840,
+        "audio_end": 228880
+    },
+    {
+        "id": "f000079",
+        "sentence": "お猫さんだとはしらず、",
+        "sentence_with_furigana": "お猫さんだとはしらず、",
+        "audio_begin": 228880,
+        "audio_end": 231080
+    },
+    {
+        "id": "f000080",
+        "sentence": "自分の心配をすつかりはなしましたら、",
+        "sentence_with_furigana": "自分の心配をすつかりはなしましたら、",
+        "audio_begin": 231080,
+        "audio_end": 234661
+    },
+    {
+        "id": "f000081",
+        "sentence": "お猫さんは「かわいさうに、",
+        "sentence_with_furigana": "お猫さんは「かわいさうに、",
+        "audio_begin": 234661,
+        "audio_end": 238701
+    },
+    {
+        "id": "f000082",
+        "sentence": "かわいさうに。",
+        "sentence_with_furigana": "かわいさうに。",
+        "audio_begin": 238701,
+        "audio_end": 240000
+    },
+    {
+        "id": "f000083",
+        "sentence": "」と泣きました。",
+        "sentence_with_furigana": "」と泣きました。",
+        "audio_begin": 241600,
+        "audio_end": 245200
+    },
+    {
+        "id": "f000084",
+        "sentence": "その声をきいて小ぐまさんは飛びあがるほどおどろいていひました。",
+        "sentence_with_furigana": "その声をきいて小ぐまさんは飛びあがるほどおどろいていひました。",
+        "audio_begin": 245200,
+        "audio_end": 251680
+    },
+    {
+        "id": "f000085",
+        "sentence": "「お猫さん、",
+        "sentence_with_furigana": "「お猫さん、",
+        "audio_begin": 251680,
+        "audio_end": 252520
+    },
+    {
+        "id": "f000086",
+        "sentence": "ほんとにごめんなさい。",
+        "sentence_with_furigana": "ほんとにごめんなさい。",
+        "audio_begin": 252520,
+        "audio_end": 254880
+    },
+    {
+        "id": "f000087",
+        "sentence": "」お猫さんは、",
+        "sentence_with_furigana": "」お猫さんは、",
+        "audio_begin": 257680,
+        "audio_end": 258760
+    },
+    {
+        "id": "f000088",
+        "sentence": "そこでやつと、",
+        "sentence_with_furigana": "そこでやつと、",
+        "audio_begin": 258760,
+        "audio_end": 260440
+    },
+    {
+        "id": "f000089",
+        "sentence": "昨日小ぐまさんにほゝづきをあげたのは自分だといふことに気がつきました。",
+        "sentence_with_furigana": "昨日小ぐまさんにほゝづきをあげたのは自分だといふことに気がつきました。",
+        "audio_begin": 260440,
+        "audio_end": 269572
+    },
+    {
+        "id": "f000090",
+        "sentence": "「私、",
+        "sentence_with_furigana": "「 私[わたし]、",
+        "audio_begin": 269572,
+        "audio_end": 271256
+    },
+    {
+        "id": "f000091",
+        "sentence": "すつかり、",
+        "sentence_with_furigana": "すつかり、",
+        "audio_begin": 271256,
+        "audio_end": 272231
+    },
+    {
+        "id": "f000092",
+        "sentence": "そんなこと忘れてゐました。",
+        "sentence_with_furigana": "そんなこと忘れてゐました。",
+        "audio_begin": 272231,
+        "audio_end": 274204
+    },
+    {
+        "id": "f000093",
+        "sentence": "」これをきいて、",
+        "sentence_with_furigana": "」これをきいて、",
+        "audio_begin": 277600,
+        "audio_end": 279400
+    },
+    {
+        "id": "f000094",
+        "sentence": "小ぐまさんはお猫さんが、",
+        "sentence_with_furigana": "小ぐまさんはお猫さんが、",
+        "audio_begin": 279400,
+        "audio_end": 281054
+    },
+    {
+        "id": "f000095",
+        "sentence": "おこつてゐないので、",
+        "sentence_with_furigana": "おこつてゐないので、",
+        "audio_begin": 281054,
+        "audio_end": 282720
+    },
+    {
+        "id": "f000096",
+        "sentence": "どんなに嬉しかつたでせう。",
+        "sentence_with_furigana": "どんなに 嬉[うれ]しかつたでせう。",
+        "audio_begin": 282720,
+        "audio_end": 284480
+    },
+    {
+        "id": "f000097",
+        "sentence": "三人でおひるのごはんをたべましたが、",
+        "sentence_with_furigana": "三人でおひるのごはんをたべましたが、",
+        "audio_begin": 286580,
+        "audio_end": 289646
+    },
+    {
+        "id": "f000098",
+        "sentence": "小ぐまさんはみんなの倍の倍も食べられました。",
+        "sentence_with_furigana": "小ぐまさんはみんなの倍の倍も食べられました。",
+        "audio_begin": 289646,
+        "audio_end": 295040
+    }
+]

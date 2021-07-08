@@ -1,7 +1,6 @@
 [
     {
         "id": "Umeno Nioi-f000002",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -17,11 +16,12 @@
             "の",
             "におい"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5460,
+        "sound_end": 8830
     },
     {
         "id": "Umeno Nioi-f000003",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -81,11 +81,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 8830,
+        "sound_end": 17227
     },
     {
         "id": "Umeno Nioi-f000004",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -107,11 +108,12 @@
             "枝",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 17227,
+        "sound_end": 19928
     },
     {
         "id": "Umeno Nioi-f000005",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -155,11 +157,12 @@
             "が",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 19928,
+        "sound_end": 25309
     },
     {
         "id": "Umeno Nioi-f000006",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -175,11 +178,12 @@
             "ナアーンダ",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 25309,
+        "sound_end": 27447
     },
     {
         "id": "Umeno Nioi-f000007",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -201,11 +205,12 @@
             "だ",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 27447,
+        "sound_end": 28531
     },
     {
         "id": "Umeno Nioi-f000008",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -245,11 +250,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 28531,
+        "sound_end": 32789
     },
     {
         "id": "Umeno Nioi-f000009",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -273,11 +279,12 @@
             "か",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 32789,
+        "sound_end": 34809
     },
     {
         "id": "Umeno Nioi-f000010",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -291,11 +298,12 @@
             "馬鹿馬鹿しい",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 34809,
+        "sound_end": 36741
     },
     {
         "id": "Umeno Nioi-f000011",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -311,11 +319,12 @@
             "帰ろう",
             "」"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 36741,
+        "sound_end": 39017
     },
     {
         "id": "Umeno Nioi-f000012",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -341,11 +350,12 @@
             "た",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 39017,
+        "sound_end": 43807
     },
     {
         "id": "Umeno Nioi-f000013",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -361,11 +371,12 @@
             "ホーホケキョ",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 43807,
+        "sound_end": 48440
     },
     {
         "id": "Umeno Nioi-f000014",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -379,11 +390,12 @@
             "ホーホケキョ",
             "」"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 48440,
+        "sound_end": 52960
     },
     {
         "id": "Umeno Nioi-f000015",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -399,11 +411,12 @@
             "オヤ",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 52960,
+        "sound_end": 54840
     },
     {
         "id": "Umeno Nioi-f000016",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -429,11 +442,12 @@
             "な",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 54840,
+        "sound_end": 57920
     },
     {
         "id": "Umeno Nioi-f000017",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -475,11 +489,12 @@
             "が",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 57920,
+        "sound_end": 61920
     },
     {
         "id": "Umeno Nioi-f000018",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -495,11 +510,12 @@
             "いい",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 61920,
+        "sound_end": 63449
     },
     {
         "id": "Umeno Nioi-f000019",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -529,11 +545,12 @@
             "やろう",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 63449,
+        "sound_end": 67273
     },
     {
         "id": "Umeno Nioi-f000020",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -549,11 +566,12 @@
             "ホーホケキョ",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 67273,
+        "sound_end": 71649
     },
     {
         "id": "Umeno Nioi-f000021",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -567,11 +585,12 @@
             "ホーホケキョ",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 71649,
+        "sound_end": 74881
     },
     {
         "id": "Umeno Nioi-f000022",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -585,11 +604,12 @@
             "ケキョ",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 74881,
+        "sound_end": 75320
     },
     {
         "id": "Umeno Nioi-f000023",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -603,11 +623,12 @@
             "ケキョ",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 75320,
+        "sound_end": 75800
     },
     {
         "id": "Umeno Nioi-f000024",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -621,11 +642,12 @@
             "ケキョ",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 75800,
+        "sound_end": 76290
     },
     {
         "id": "Umeno Nioi-f000025",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -639,11 +661,12 @@
             "ケキョ",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 76290,
+        "sound_end": 76763
     },
     {
         "id": "Umeno Nioi-f000026",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -657,11 +680,12 @@
             "ケキョ",
             "」"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 76763,
+        "sound_end": 78912
     },
     {
         "id": "Umeno Nioi-f000027",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -685,11 +709,12 @@
             "は",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 78912,
+        "sound_end": 82154
     },
     {
         "id": "Umeno Nioi-f000028",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -747,11 +772,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 82154,
+        "sound_end": 89640
     },
     {
         "id": "Umeno Nioi-f000029",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -773,11 +799,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 89640,
+        "sound_end": 93173
     },
     {
         "id": "Umeno Nioi-f000030",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -799,11 +826,12 @@
             "さん",
             "」"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 93173,
+        "sound_end": 95972
     },
     {
         "id": "Umeno Nioi-f000031",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -831,11 +859,12 @@
             "た",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 95972,
+        "sound_end": 100032
     },
     {
         "id": "Umeno Nioi-f000032",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -855,11 +884,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 100032,
+        "sound_end": 102811
     },
     {
         "id": "Umeno Nioi-f000033",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -885,11 +915,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 102811,
+        "sound_end": 106160
     },
     {
         "id": "Umeno Nioi-f000034",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -905,11 +936,12 @@
             "ニャーニャー",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 106160,
+        "sound_end": 107720
     },
     {
         "id": "Umeno Nioi-f000035",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -935,11 +967,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 107720,
+        "sound_end": 110794
     },
     {
         "id": "Umeno Nioi-f000036",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -973,11 +1006,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 110794,
+        "sound_end": 115308
     },
     {
         "id": "Umeno Nioi-f000037",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1005,11 +1039,12 @@
             "ね",
             "」"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 115308,
+        "sound_end": 118599
     },
     {
         "id": "Umeno Nioi-f000038",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1025,11 +1060,12 @@
             "オホホホホ",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 118599,
+        "sound_end": 120511
     },
     {
         "id": "Umeno Nioi-f000039",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1053,11 +1089,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 120511,
+        "sound_end": 122857
     },
     {
         "id": "Umeno Nioi-f000040",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1089,11 +1126,12 @@
             "か",
             "」"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 122857,
+        "sound_end": 126937
     },
     {
         "id": "Umeno Nioi-f000041",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1109,11 +1147,12 @@
             "ええ",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 126937,
+        "sound_end": 128120
     },
     {
         "id": "Umeno Nioi-f000042",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1151,11 +1190,12 @@
             "です",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 128120,
+        "sound_end": 132397
     },
     {
         "id": "Umeno Nioi-f000043",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1187,11 +1227,12 @@
             "か",
             "」"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 132400,
+        "sound_end": 136280
     },
     {
         "id": "Umeno Nioi-f000044",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1211,11 +1252,12 @@
             "ねえ",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 136280,
+        "sound_end": 138440
     },
     {
         "id": "Umeno Nioi-f000045",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1259,11 +1301,12 @@
             "て",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 138440,
+        "sound_end": 143849
     },
     {
         "id": "Umeno Nioi-f000046",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1289,11 +1332,12 @@
             "です",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 143849,
+        "sound_end": 146760
     },
     {
         "id": "Umeno Nioi-f000047",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1331,11 +1375,12 @@
             "です",
             "」"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 146760,
+        "sound_end": 153440
     },
     {
         "id": "Umeno Nioi-f000048",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1351,11 +1396,12 @@
             "ヘエ",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 153440,
+        "sound_end": 154897
     },
     {
         "id": "Umeno Nioi-f000049",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1375,11 +1421,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 155380,
+        "sound_end": 158640
     },
     {
         "id": "Umeno Nioi-f000050",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1419,11 +1466,12 @@
             "です",
             "」"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 158640,
+        "sound_end": 162269
     },
     {
         "id": "Umeno Nioi-f000051",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1439,11 +1487,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 162269,
+        "sound_end": 163111
     },
     {
         "id": "Umeno Nioi-f000052",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1459,11 +1508,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 163111,
+        "sound_end": 164708
     },
     {
         "id": "Umeno Nioi-f000053",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1491,11 +1541,12 @@
             "な",
             "」"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 164708,
+        "sound_end": 167440
     },
     {
         "id": "Umeno Nioi-f000054",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1511,11 +1562,12 @@
             "いいえ",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 167440,
+        "sound_end": 169059
     },
     {
         "id": "Umeno Nioi-f000055",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1563,11 +1615,12 @@
             "です",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 169059,
+        "sound_end": 174923
     },
     {
         "id": "Umeno Nioi-f000056",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1605,11 +1658,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 174923,
+        "sound_end": 180718
     },
     {
         "id": "Umeno Nioi-f000057",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1625,11 +1679,12 @@
             "です",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 180718,
+        "sound_end": 181800
     },
     {
         "id": "Umeno Nioi-f000058",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1657,11 +1712,12 @@
             "か",
             "」"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 181800,
+        "sound_end": 184560
     },
     {
         "id": "Umeno Nioi-f000059",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1681,11 +1737,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 184560,
+        "sound_end": 186160
     },
     {
         "id": "Umeno Nioi-f000060",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1709,11 +1766,12 @@
             "こわい",
             "」"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 186160,
+        "sound_end": 188395
     },
     {
         "id": "Umeno Nioi-f000061",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1731,11 +1789,12 @@
             "です",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 188395,
+        "sound_end": 189680
     },
     {
         "id": "Umeno Nioi-f000062",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1767,11 +1826,12 @@
             "か",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 189680,
+        "sound_end": 194040
     },
     {
         "id": "Umeno Nioi-f000063",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1797,11 +1857,12 @@
             "なさい",
             "」"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 194040,
+        "sound_end": 197120
     },
     {
         "id": "Umeno Nioi-f000064",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1821,11 +1882,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 197120,
+        "sound_end": 198960
     },
     {
         "id": "Umeno Nioi-f000065",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1869,11 +1931,12 @@
             "でしょう",
             "」"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 198960,
+        "sound_end": 204666
     },
     {
         "id": "Umeno Nioi-f000066",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1893,11 +1956,12 @@
             "て",
             "」"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 204666,
+        "sound_end": 206933
     },
     {
         "id": "Umeno Nioi-f000067",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1923,11 +1987,12 @@
             "でしょう",
             "」"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 206933,
+        "sound_end": 209781
     },
     {
         "id": "Umeno Nioi-f000068",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1965,11 +2030,12 @@
             "た",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 209781,
+        "sound_end": 215640
     },
     {
         "id": "Umeno Nioi-f000069",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -1987,11 +2053,12 @@
             "た",
             "」"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 215640,
+        "sound_end": 217173
     },
     {
         "id": "Umeno Nioi-f000070",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -2017,11 +2084,12 @@
             "と",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 217173,
+        "sound_end": 219706
     },
     {
         "id": "Umeno Nioi-f000071",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -2051,11 +2119,12 @@
             "た",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 219706,
+        "sound_end": 224288
     },
     {
         "id": "Umeno Nioi-f000072",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -2071,11 +2140,12 @@
             "ホーホケキョ",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 224288,
+        "sound_end": 228506
     },
     {
         "id": "Umeno Nioi-f000073",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -2089,11 +2159,12 @@
             "ホーホケキョ",
             "」"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 228506,
+        "sound_end": 232656
     },
     {
         "id": "Umeno Nioi-f000074",
-        "author": "Kyusaku Yumeno",
         "author_japanese": "夢野 久作",
         "deck_name": "Umeno Nioi",
         "deck_name_japanese": "梅のにおい",
@@ -2137,6 +2208,8 @@
             "た",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 232656,
+        "sound_end": 242520
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000002",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -43,11 +42,12 @@
             "けん",
             "くわ"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 4520,
+        "sound_end": 7920
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000003",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -77,11 +77,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 10220,
+        "sound_end": 14560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000004",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -101,11 +102,12 @@
             "て",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 14560,
+        "sound_end": 15840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000005",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -145,11 +147,12 @@
             "もの",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 15840,
+        "sound_end": 20680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000006",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -165,11 +168,12 @@
             "に",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 20680,
+        "sound_end": 21600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000007",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -213,11 +217,12 @@
             "カチン",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 21600,
+        "sound_end": 26800
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000008",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -231,11 +236,12 @@
             "カチン",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 26800,
+        "sound_end": 27400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000009",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -249,11 +255,12 @@
             "チヤラ",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 27400,
+        "sound_end": 28120
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000010",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -283,11 +290,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 28120,
+        "sound_end": 31600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000011",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -307,11 +315,12 @@
             "と",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 33200,
+        "sound_end": 34680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000012",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -333,11 +342,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 34680,
+        "sound_end": 36799
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000013",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -363,11 +373,12 @@
             "クツタ",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 36799,
+        "sound_end": 39126
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000014",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -381,11 +392,12 @@
             "クツタ",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 39126,
+        "sound_end": 39902
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000015",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -421,11 +433,12 @@
             "し",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 39902,
+        "sound_end": 43280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000016",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -439,11 +452,12 @@
             "ジヤ",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 43280,
+        "sound_end": 44560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000017",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -457,11 +471,12 @@
             "ジヤ",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 44560,
+        "sound_end": 45240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000018",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -475,11 +490,12 @@
             "ジヤ",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 45240,
+        "sound_end": 46560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000019",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -509,11 +525,12 @@
             "し",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 46560,
+        "sound_end": 50680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000020",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -527,11 +544,12 @@
             "バツタン",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 50680,
+        "sound_end": 52480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000021",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -561,11 +579,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 52480,
+        "sound_end": 56600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000022",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -599,11 +618,12 @@
             "です",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 56600,
+        "sound_end": 61320
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000023",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -657,11 +677,12 @@
             "た",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 64120,
+        "sound_end": 72060
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000024",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -691,11 +712,12 @@
             "と",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 72060,
+        "sound_end": 75160
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000025",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -713,11 +735,12 @@
             "と",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 75160,
+        "sound_end": 76200
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000026",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -741,11 +764,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 76200,
+        "sound_end": 78278
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000027",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -773,11 +797,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 78278,
+        "sound_end": 79880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000028",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -819,11 +844,12 @@
             "た",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 81480,
+        "sound_end": 89000
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000029",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -845,11 +871,12 @@
             "ボウ",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 89000,
+        "sound_end": 89720
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000030",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -863,11 +890,12 @@
             "ボウ",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 89720,
+        "sound_end": 90520
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000031",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -895,11 +923,12 @@
             "て",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 90520,
+        "sound_end": 93293
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000032",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -915,11 +944,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 93293,
+        "sound_end": 93840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000033",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -957,11 +987,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 93840,
+        "sound_end": 100440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000034",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -979,11 +1010,12 @@
             "ちやん",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 100440,
+        "sound_end": 101440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000035",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1013,11 +1045,12 @@
             "な",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 101440,
+        "sound_end": 103800
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000036",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1047,11 +1080,12 @@
             "う",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 103800,
+        "sound_end": 106040
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000037",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1087,11 +1121,12 @@
             "で",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 108240,
+        "sound_end": 111360
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000038",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1121,11 +1156,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 111360,
+        "sound_end": 115640
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000039",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1141,11 +1177,12 @@
             "と",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 115640,
+        "sound_end": 116720
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000040",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1163,11 +1200,12 @@
             "が",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 116720,
+        "sound_end": 117480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000041",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1195,11 +1233,12 @@
             "た",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 117480,
+        "sound_end": 121680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000042",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1215,11 +1254,12 @@
             "ブクツ",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 121680,
+        "sound_end": 122280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000043",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1233,11 +1273,12 @@
             "ブクツ",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 122280,
+        "sound_end": 122600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000044",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1251,11 +1292,12 @@
             "ブクツ",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 122600,
+        "sound_end": 123480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000045",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1269,11 +1311,12 @@
             "ブクツ",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 123480,
+        "sound_end": 123940
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000046",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1305,11 +1348,12 @@
             "て",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 126040,
+        "sound_end": 129223
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000047",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1325,11 +1369,12 @@
             "プー",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 129223,
+        "sound_end": 130453
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000048",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1343,11 +1388,12 @@
             "プー",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 130453,
+        "sound_end": 131120
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000049",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1361,11 +1407,12 @@
             "シユツ",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 131119,
+        "sound_end": 131558
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000050",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1379,11 +1426,12 @@
             "シユツ",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 131558,
+        "sound_end": 132616
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000051",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1397,11 +1445,12 @@
             "プー",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 132616,
+        "sound_end": 133240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000052",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1415,11 +1464,12 @@
             "プー",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 133240,
+        "sound_end": 133760
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000053",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1433,11 +1483,12 @@
             "シユツ",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 133760,
+        "sound_end": 134266
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000054",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1451,11 +1502,12 @@
             "シユツ",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 134266,
+        "sound_end": 134759
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000055",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1469,11 +1521,12 @@
             "シユツ",
             "」"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 134759,
+        "sound_end": 136231
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000056",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1489,11 +1542,12 @@
             "から",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 136231,
+        "sound_end": 137160
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000057",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1509,11 +1563,12 @@
             "と",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 137160,
+        "sound_end": 137840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000058",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1531,11 +1586,12 @@
             "大きく",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 137840,
+        "sound_end": 139640
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000059",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1551,11 +1607,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 139640,
+        "sound_end": 140240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000060",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1569,11 +1626,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 140240,
+        "sound_end": 140760
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000061",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1587,11 +1645,12 @@
             "シユ",
             "、"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 140760,
+        "sound_end": 141400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000062",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1605,11 +1664,12 @@
             "シユ",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 141400,
+        "sound_end": 142040
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000063",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1623,11 +1683,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 142040,
+        "sound_end": 142360
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000064",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1641,11 +1702,12 @@
             "シユ",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 142360,
+        "sound_end": 142880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000065",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1659,11 +1721,12 @@
             "シユ",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 142880,
+        "sound_end": 145724
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000066",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1699,11 +1762,12 @@
             "で",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 145724,
+        "sound_end": 149400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000067",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1745,11 +1809,12 @@
             "が",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 149400,
+        "sound_end": 153112
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000068",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1765,11 +1830,12 @@
             "パクン",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 153112,
+        "sound_end": 153680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000069",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1783,11 +1849,12 @@
             "パクン",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 153680,
+        "sound_end": 154240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000070",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1801,11 +1868,12 @@
             "パクン",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 154240,
+        "sound_end": 154848
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000071",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1827,11 +1895,12 @@
             "だり",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 154848,
+        "sound_end": 157609
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000072",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1853,11 +1922,12 @@
             "です",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 157609,
+        "sound_end": 162360
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000073",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1877,11 +1947,12 @@
             "が",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 162360,
+        "sound_end": 163080
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000074",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1915,11 +1986,12 @@
             "わ",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 163080,
+        "sound_end": 164880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000075",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1955,11 +2027,12 @@
             "かしらん",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 164880,
+        "sound_end": 168680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000076",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1973,11 +2046,12 @@
             "私",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 168680,
+        "sound_end": 169400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000077",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -1995,11 +2069,12 @@
             "わ",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 169400,
+        "sound_end": 170280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000078",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2019,11 +2094,12 @@
             "う",
             "。"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 170280,
+        "sound_end": 173000
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000079",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2053,11 +2129,12 @@
             "た",
             "。"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 173000,
+        "sound_end": 176725
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000080",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2073,11 +2150,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 176725,
+        "sound_end": 177461
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000081",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2091,11 +2169,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 177461,
+        "sound_end": 178040
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000082",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2109,11 +2188,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 178040,
+        "sound_end": 178579
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000083",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2127,11 +2207,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 178579,
+        "sound_end": 179157
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000084",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2145,11 +2226,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 179157,
+        "sound_end": 179736
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000085",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2163,11 +2245,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 179736,
+        "sound_end": 180196
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000086",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2217,11 +2300,12 @@
             "た",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 180196,
+        "sound_end": 188160
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000087",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2237,11 +2321,12 @@
             "グツタ",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 188160,
+        "sound_end": 188720
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000088",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2255,11 +2340,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 188720,
+        "sound_end": 189274
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000089",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2273,11 +2359,12 @@
             "グツタ",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 189274,
+        "sound_end": 189840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000090",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2291,11 +2378,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 189840,
+        "sound_end": 190440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000091",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2309,11 +2397,12 @@
             "グツタ",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 190440,
+        "sound_end": 190960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000092",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2327,11 +2416,12 @@
             "グツタ",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 190960,
+        "sound_end": 191480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000093",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2345,11 +2435,12 @@
             "グツタ",
             "。"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 191480,
+        "sound_end": 193461
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000094",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2377,11 +2468,12 @@
             "た",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 193461,
+        "sound_end": 197340
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000095",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2423,11 +2515,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 197340,
+        "sound_end": 200640
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000096",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2453,11 +2546,12 @@
             "て",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 200640,
+        "sound_end": 202800
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000097",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2483,11 +2577,12 @@
             "。",
             "」"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 202800,
+        "sound_end": 204597
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000098",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2503,11 +2598,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 204597,
+        "sound_end": 206240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000099",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2521,11 +2617,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 206240,
+        "sound_end": 206920
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000100",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2539,11 +2636,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 206920,
+        "sound_end": 207600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000101",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2557,11 +2655,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 207600,
+        "sound_end": 208280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000102",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2575,11 +2674,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 208280,
+        "sound_end": 208960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000103",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2593,11 +2693,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 208960,
+        "sound_end": 209560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000104",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2611,11 +2712,12 @@
             "ピチ",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 209560,
+        "sound_end": 210200
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000105",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2643,11 +2745,12 @@
             "て",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 212000,
+        "sound_end": 213840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000106",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2675,11 +2778,12 @@
             "た",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 213840,
+        "sound_end": 216240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000107",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2695,11 +2799,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 218440,
+        "sound_end": 219062
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000108",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2713,11 +2818,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 219062,
+        "sound_end": 219621
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000109",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2731,11 +2837,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 219621,
+        "sound_end": 220229
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000110",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2749,11 +2856,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 220229,
+        "sound_end": 220680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000111",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2767,11 +2875,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 220680,
+        "sound_end": 221200
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000112",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2785,11 +2894,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 221200,
+        "sound_end": 221960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000113",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2803,11 +2913,12 @@
             "チリ",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 221960,
+        "sound_end": 223560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000114",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2837,11 +2948,12 @@
             "や",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 223560,
+        "sound_end": 225120
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000115",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2861,11 +2973,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 225120,
+        "sound_end": 225960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000116",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2879,11 +2992,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 225960,
+        "sound_end": 226440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000117",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2897,11 +3011,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 226440,
+        "sound_end": 227080
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000118",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2915,11 +3030,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 227080,
+        "sound_end": 227760
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000119",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2933,11 +3049,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 227760,
+        "sound_end": 228400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000120",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2951,11 +3068,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 228400,
+        "sound_end": 228880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000121",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2969,11 +3087,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 228880,
+        "sound_end": 229520
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000122",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -2987,11 +3106,12 @@
             "チリ",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 229520,
+        "sound_end": 230240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000123",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3025,11 +3145,12 @@
             "？",
             "」"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 230240,
+        "sound_end": 233320
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000124",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3045,11 +3166,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 233320,
+        "sound_end": 233680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000125",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3063,11 +3185,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 233680,
+        "sound_end": 234400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000126",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3081,11 +3204,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 234400,
+        "sound_end": 234800
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000127",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3099,11 +3223,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 234800,
+        "sound_end": 235480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000128",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3117,11 +3242,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 235480,
+        "sound_end": 236080
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000129",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3135,11 +3261,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 236080,
+        "sound_end": 236520
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000130",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3153,11 +3280,12 @@
             "ブク",
             "。"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 236520,
+        "sound_end": 238120
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000131",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3191,11 +3319,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 238120,
+        "sound_end": 241040
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000132",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3215,11 +3344,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 241040,
+        "sound_end": 242400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000133",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3249,11 +3379,12 @@
             "又",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 242400,
+        "sound_end": 245720
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000134",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3279,11 +3410,12 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 245720,
+        "sound_end": 248960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000135",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3297,11 +3429,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 248960,
+        "sound_end": 249422
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000136",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3315,11 +3448,12 @@
             "ブク",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 249422,
+        "sound_end": 249922
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000137",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3333,11 +3467,12 @@
             "シユツ",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 249922,
+        "sound_end": 250415
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000138",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3349,11 +3484,12 @@
         "word_list": [
             "シユツ"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 250415,
+        "sound_end": 250951
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000139",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3367,11 +3503,12 @@
             "パク",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 250951,
+        "sound_end": 251440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000140",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3385,11 +3522,12 @@
             "パク",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 251440,
+        "sound_end": 252000
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000141",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3401,11 +3539,12 @@
         "word_list": [
             "パク"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 252000,
+        "sound_end": 252400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000142",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3419,11 +3558,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 252400,
+        "sound_end": 253520
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000143",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3437,11 +3577,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 253520,
+        "sound_end": 253960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000144",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3455,11 +3596,12 @@
             "グタ",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 253960,
+        "sound_end": 254468
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000145",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3471,11 +3613,12 @@
         "word_list": [
             "グタ"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 254468,
+        "sound_end": 255161
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000146",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3489,11 +3632,12 @@
             "チリ",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 255161,
+        "sound_end": 255664
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000147",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3507,11 +3651,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 255664,
+        "sound_end": 256206
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000148",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3523,11 +3668,12 @@
         "word_list": [
             "チリ"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 256206,
+        "sound_end": 258720
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000149",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3577,11 +3723,12 @@
             "に",
             "、"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 258720,
+        "sound_end": 264880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000150",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3595,11 +3742,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 264880,
+        "sound_end": 265320
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000151",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3613,11 +3761,12 @@
             "大変",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 265320,
+        "sound_end": 266280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000152",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3649,11 +3798,12 @@
             "た",
             "。"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 266280,
+        "sound_end": 269280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000153",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3667,11 +3817,12 @@
             "プク",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 269280,
+        "sound_end": 270760
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000154",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3685,11 +3836,12 @@
             "パク",
             "、"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 270760,
+        "sound_end": 271160
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000155",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3703,11 +3855,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 271160,
+        "sound_end": 271480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000156",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3721,11 +3874,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 271480,
+        "sound_end": 271840
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000157",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3739,11 +3893,12 @@
             "プク",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 271840,
+        "sound_end": 272120
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000158",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3757,11 +3912,12 @@
             "パク",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 272120,
+        "sound_end": 272400
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000159",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3775,11 +3931,12 @@
             "グツ",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 272400,
+        "sound_end": 272880
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000160",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3793,11 +3950,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 272880,
+        "sound_end": 273240
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000161",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3811,11 +3969,12 @@
             "プク",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 273240,
+        "sound_end": 273480
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000162",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3829,11 +3988,12 @@
             "パク",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 273480,
+        "sound_end": 273699
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000163",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3847,11 +4007,12 @@
             "グツ",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 273699,
+        "sound_end": 273960
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000164",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3865,11 +4026,12 @@
             "ピチ",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 273960,
+        "sound_end": 274200
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000165",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3883,11 +4045,12 @@
             "プク",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 274200,
+        "sound_end": 274440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000166",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3901,11 +4064,12 @@
             "パク",
             "。"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 274440,
+        "sound_end": 275855
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000167",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3929,11 +4093,12 @@
             "て",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 275855,
+        "sound_end": 277560
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000168",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3959,11 +4124,12 @@
             "て",
             "、"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 277560,
+        "sound_end": 279800
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000169",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -3985,11 +4151,12 @@
             "で",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 279800,
+        "sound_end": 281200
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000170",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4031,11 +4198,12 @@
             "た",
             "。"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 281200,
+        "sound_end": 286990
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000171",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4083,11 +4251,12 @@
             "た",
             "。"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 286990,
+        "sound_end": 294353
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000172",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4117,11 +4286,12 @@
             "た",
             "。"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 294353,
+        "sound_end": 296627
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000173",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4139,11 +4309,12 @@
             "ちやん",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 296627,
+        "sound_end": 297600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000174",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4159,11 +4330,12 @@
             "から",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 297600,
+        "sound_end": 298600
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000175",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4181,11 +4353,12 @@
             "や",
             "、"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 298600,
+        "sound_end": 299280
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000176",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4239,11 +4412,12 @@
             "。",
             "」"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 299280,
+        "sound_end": 306680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000177",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4273,11 +4447,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 306680,
+        "sound_end": 308440
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000178",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4319,11 +4494,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 308440,
+        "sound_end": 311944
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000179",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4343,11 +4519,12 @@
             "う",
             "！"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 311944,
+        "sound_end": 312680
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000180",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4363,11 +4540,12 @@
             "母さん",
             "？"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 312680,
+        "sound_end": 315217
     },
     {
         "id": "Onebeto Oyakanto Furaipanno Kenka-f000181",
-        "author": "Kazuko Murayama",
         "author_japanese": "村山 籌子",
         "deck_name": "Onebeto Oyakanto Furaipanno Kenka",
         "deck_name_japanese": "お鍋とおやかんとフライパンのけんくわ",
@@ -4419,6 +4597,8 @@
             "た",
             "。"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 315217,
+        "sound_end": 321420
     }
 ]

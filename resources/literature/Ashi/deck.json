@@ -2,406 +2,568 @@
     {
         "id": "f000001",
         "sentence": "新美南吉　作",
-        "sentence_with_furigana": "新美南吉　作"
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 2728,
+        "audio_end": 5680
     },
     {
         "id": "f000002",
         "sentence": "あし",
-        "sentence_with_furigana": "あし"
+        "sentence_with_furigana": "あし",
+        "audio_begin": 5680,
+        "audio_end": 8720
     },
     {
         "id": "f000003",
         "sentence": "二ひきの馬が、",
-        "sentence_with_furigana": "二ひきの馬が、"
+        "sentence_with_furigana": "二ひきの馬が、",
+        "audio_begin": 8720,
+        "audio_end": 11040
     },
     {
         "id": "f000004",
         "sentence": "まどのところでぐうるぐうるとひるねをしていました。",
-        "sentence_with_furigana": "まどのところでぐうるぐうるとひるねをしていました。"
+        "sentence_with_furigana": "まどのところでぐうるぐうるとひるねをしていました。",
+        "audio_begin": 11040,
+        "audio_end": 15160
     },
     {
         "id": "f000005",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 16860,
+        "audio_end": 18120
     },
     {
         "id": "f000006",
         "sentence": "すずしい風がでてきたので、",
-        "sentence_with_furigana": "すずしい風がでてきたので、"
+        "sentence_with_furigana": "すずしい風がでてきたので、",
+        "audio_begin": 18120,
+        "audio_end": 21000
     },
     {
         "id": "f000007",
         "sentence": "一ぴきがくしゃめをしてめをさましました。",
-        "sentence_with_furigana": "一ぴきがくしゃめをしてめをさましました。"
+        "sentence_with_furigana": "一ぴきがくしゃめをしてめをさましました。",
+        "audio_begin": 21000,
+        "audio_end": 24200
     },
     {
         "id": "f000008",
         "sentence": "ところが、",
-        "sentence_with_furigana": "ところが、"
+        "sentence_with_furigana": "ところが、",
+        "audio_begin": 25800,
+        "audio_end": 27120
     },
     {
         "id": "f000009",
         "sentence": "あとあしがいっぽんしびれていたので、",
-        "sentence_with_furigana": "あとあしがいっぽんしびれていたので、"
+        "sentence_with_furigana": "あとあしがいっぽんしびれていたので、",
+        "audio_begin": 27120,
+        "audio_end": 30320
     },
     {
         "id": "f000010",
         "sentence": "よろよろとよろけてしまいました。",
-        "sentence_with_furigana": "よろよろとよろけてしまいました。"
+        "sentence_with_furigana": "よろよろとよろけてしまいました。",
+        "audio_begin": 30320,
+        "audio_end": 33960
     },
     {
         "id": "f000011",
         "sentence": "「おやおや。」",
-        "sentence_with_furigana": "「おやおや。」"
+        "sentence_with_furigana": "「おやおや。」",
+        "audio_begin": 33960,
+        "audio_end": 36053
     },
     {
         "id": "f000012",
         "sentence": "そのあしに力をいれようとしても、",
-        "sentence_with_furigana": "そのあしに力をいれようとしても、"
+        "sentence_with_furigana": "そのあしに力をいれようとしても、",
+        "audio_begin": 36053,
+        "audio_end": 39920
     },
     {
         "id": "f000013",
         "sentence": "さっぱりはいりません。",
-        "sentence_with_furigana": "さっぱりはいりません。"
+        "sentence_with_furigana": "さっぱりはいりません。",
+        "audio_begin": 39920,
+        "audio_end": 42847
     },
     {
         "id": "f000014",
         "sentence": "そこでともだちの馬をゆりおこしました。",
-        "sentence_with_furigana": "そこでともだちの馬をゆりおこしました。"
+        "sentence_with_furigana": "そこでともだちの馬をゆりおこしました。",
+        "audio_begin": 42847,
+        "audio_end": 45560
     },
     {
         "id": "f000015",
         "sentence": "「たいへんだ、",
-        "sentence_with_furigana": "「たいへんだ、"
+        "sentence_with_furigana": "「たいへんだ、",
+        "audio_begin": 47160,
+        "audio_end": 48520
     },
     {
         "id": "f000016",
         "sentence": "あとあしをいっぽん、",
-        "sentence_with_furigana": "あとあしをいっぽん、"
+        "sentence_with_furigana": "あとあしをいっぽん、",
+        "audio_begin": 48520,
+        "audio_end": 49640
     },
     {
         "id": "f000017",
         "sentence": "だれかにぬすまれてしまった。」",
-        "sentence_with_furigana": "だれかにぬすまれてしまった。」"
+        "sentence_with_furigana": "だれかにぬすまれてしまった。」",
+        "audio_begin": 49640,
+        "audio_end": 53040
     },
     {
         "id": "f000018",
         "sentence": "「だって、",
-        "sentence_with_furigana": "「だって、"
+        "sentence_with_furigana": "「だって、",
+        "audio_begin": 53040,
+        "audio_end": 53728
     },
     {
         "id": "f000019",
         "sentence": "ちゃんとついてるじゃないか。」",
-        "sentence_with_furigana": "ちゃんとついてるじゃないか。」"
+        "sentence_with_furigana": "ちゃんとついてるじゃないか。」",
+        "audio_begin": 53728,
+        "audio_end": 56320
     },
     {
         "id": "f000020",
         "sentence": "「いやこれはちがう。",
-        "sentence_with_furigana": "「いやこれはちがう。"
+        "sentence_with_furigana": "「いやこれはちがう。",
+        "audio_begin": 56320,
+        "audio_end": 58040
     },
     {
         "id": "f000021",
         "sentence": "だれかのあしだ。」",
-        "sentence_with_furigana": "だれかのあしだ。」"
+        "sentence_with_furigana": "だれかのあしだ。」",
+        "audio_begin": 58040,
+        "audio_end": 60110
     },
     {
         "id": "f000022",
         "sentence": "「どうして。」",
-        "sentence_with_furigana": "「どうして。」"
+        "sentence_with_furigana": "「どうして。」",
+        "audio_begin": 60110,
+        "audio_end": 62520
     },
     {
         "id": "f000023",
         "sentence": "「ぼくの思うままに歩かないもの。",
-        "sentence_with_furigana": "「ぼくの思うままに歩かないもの。"
+        "sentence_with_furigana": "「ぼくの思うままに歩かないもの。",
+        "audio_begin": 62520,
+        "audio_end": 66053
     },
     {
         "id": "f000024",
         "sentence": "ちょっとこのあしをけとばしてくれ。」",
-        "sentence_with_furigana": "ちょっとこのあしをけとばしてくれ。」"
+        "sentence_with_furigana": "ちょっとこのあしをけとばしてくれ。」",
+        "audio_begin": 66053,
+        "audio_end": 70480
     },
     {
         "id": "f000025",
         "sentence": "そこで、",
-        "sentence_with_furigana": "そこで、"
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 70480,
+        "audio_end": 71408
     },
     {
         "id": "f000026",
         "sentence": "ともだちの馬は、",
-        "sentence_with_furigana": "ともだちの馬は、"
+        "sentence_with_furigana": "ともだちの馬は、",
+        "audio_begin": 71408,
+        "audio_end": 72960
     },
     {
         "id": "f000027",
         "sentence": "ひづめでそのあしをぽォんとけとばしました。",
-        "sentence_with_furigana": "ひづめでそのあしをぽォんとけとばしました。"
+        "sentence_with_furigana": "ひづめでそのあしをぽォんとけとばしました。",
+        "audio_begin": 72960,
+        "audio_end": 77741
     },
     {
         "id": "f000028",
         "sentence": "「やっぱりこれはぼくのじゃない、",
-        "sentence_with_furigana": "「やっぱりこれはぼくのじゃない、"
+        "sentence_with_furigana": "「やっぱりこれはぼくのじゃない、",
+        "audio_begin": 77741,
+        "audio_end": 80800
     },
     {
         "id": "f000029",
         "sentence": "いたくないもの。",
-        "sentence_with_furigana": "いたくないもの。"
+        "sentence_with_furigana": "いたくないもの。",
+        "audio_begin": 80800,
+        "audio_end": 83000
     },
     {
         "id": "f000030",
         "sentence": "ぼくのあしならいたいはずだ。",
-        "sentence_with_furigana": "ぼくのあしならいたいはずだ。"
+        "sentence_with_furigana": "ぼくのあしならいたいはずだ。",
+        "audio_begin": 83000,
+        "audio_end": 86480
     },
     {
         "id": "f000031",
         "sentence": "よし、",
-        "sentence_with_furigana": "よし、"
+        "sentence_with_furigana": "よし、",
+        "audio_begin": 86480,
+        "audio_end": 87240
     },
     {
         "id": "f000032",
         "sentence": "はやく、",
-        "sentence_with_furigana": "はやく、"
+        "sentence_with_furigana": "はやく、",
+        "audio_begin": 87240,
+        "audio_end": 87760
     },
     {
         "id": "f000033",
         "sentence": "ぬすまれたあしをみつけてこよう。」",
-        "sentence_with_furigana": "ぬすまれたあしをみつけてこよう。」"
+        "sentence_with_furigana": "ぬすまれたあしをみつけてこよう。」",
+        "audio_begin": 87760,
+        "audio_end": 92160
     },
     {
         "id": "f000034",
         "sentence": "そこで、",
-        "sentence_with_furigana": "そこで、"
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 92160,
+        "audio_end": 94000
     },
     {
         "id": "f000035",
         "sentence": "その馬はよろよろと歩いてゆきました。",
-        "sentence_with_furigana": "その馬はよろよろと歩いてゆきました。"
+        "sentence_with_furigana": "その馬はよろよろと歩いてゆきました。",
+        "audio_begin": 94000,
+        "audio_end": 95800
     },
     {
         "id": "f000036",
         "sentence": "「やァ、",
-        "sentence_with_furigana": "「やァ、"
+        "sentence_with_furigana": "「やァ、",
+        "audio_begin": 97600,
+        "audio_end": 98320
     },
     {
         "id": "f000037",
         "sentence": "椅子がある。",
-        "sentence_with_furigana": "椅子[いす]がある。"
+        "sentence_with_furigana": "椅子[いす]がある。",
+        "audio_begin": 98320,
+        "audio_end": 99920
     },
     {
         "id": "f000038",
         "sentence": "椅子がぼくのあしをぬすんだのかもしれない。",
-        "sentence_with_furigana": "椅子がぼくのあしをぬすんだのかもしれない。"
+        "sentence_with_furigana": "椅子がぼくのあしをぬすんだのかもしれない。",
+        "audio_begin": 99920,
+        "audio_end": 102600
     },
     {
         "id": "f000039",
         "sentence": "よし、",
-        "sentence_with_furigana": "よし、"
+        "sentence_with_furigana": "よし、",
+        "audio_begin": 104300,
+        "audio_end": 104720
     },
     {
         "id": "f000040",
         "sentence": "けとばしてやろう、",
-        "sentence_with_furigana": "けとばしてやろう、"
+        "sentence_with_furigana": "けとばしてやろう、",
+        "audio_begin": 104720,
+        "audio_end": 106896
     },
     {
         "id": "f000041",
         "sentence": "ぼくのあしならいたいはずだ。」",
-        "sentence_with_furigana": "ぼくのあしならいたいはずだ。」"
+        "sentence_with_furigana": "ぼくのあしならいたいはずだ。」",
+        "audio_begin": 106896,
+        "audio_end": 111040
     },
     {
         "id": "f000042",
         "sentence": "馬はかたあしで、",
-        "sentence_with_furigana": "馬はかたあしで、"
+        "sentence_with_furigana": "馬はかたあしで、",
+        "audio_begin": 111040,
+        "audio_end": 112760
     },
     {
         "id": "f000043",
         "sentence": "椅子のあしをけとばしました。",
-        "sentence_with_furigana": "椅子のあしをけとばしました。"
+        "sentence_with_furigana": "椅子のあしをけとばしました。",
+        "audio_begin": 112760,
+        "audio_end": 116680
     },
     {
         "id": "f000044",
         "sentence": "椅子は、",
-        "sentence_with_furigana": "椅子は、"
+        "sentence_with_furigana": "椅子は、",
+        "audio_begin": 116680,
+        "audio_end": 117680
     },
     {
         "id": "f000045",
         "sentence": "いたいとも、",
-        "sentence_with_furigana": "いたいとも、"
+        "sentence_with_furigana": "いたいとも、",
+        "audio_begin": 117680,
+        "audio_end": 118520
     },
     {
         "id": "f000046",
         "sentence": "なんともいわないで、",
-        "sentence_with_furigana": "なんともいわないで、"
+        "sentence_with_furigana": "なんともいわないで、",
+        "audio_begin": 118520,
+        "audio_end": 120111
     },
     {
         "id": "f000047",
         "sentence": "こわれてしまいました。",
-        "sentence_with_furigana": "こわれてしまいました。"
+        "sentence_with_furigana": "こわれてしまいました。",
+        "audio_begin": 120111,
+        "audio_end": 121540
     },
     {
         "id": "f000048",
         "sentence": "馬は、",
-        "sentence_with_furigana": "馬は、"
+        "sentence_with_furigana": "馬は、",
+        "audio_begin": 123640,
+        "audio_end": 124774
     },
     {
         "id": "f000049",
         "sentence": "テーブルのあしや、",
-        "sentence_with_furigana": "テーブルのあしや、"
+        "sentence_with_furigana": "テーブルのあしや、",
+        "audio_begin": 124774,
+        "audio_end": 126520
     },
     {
         "id": "f000050",
         "sentence": "ベッドのあしを、",
-        "sentence_with_furigana": "ベッドのあしを、"
+        "sentence_with_furigana": "ベッドのあしを、",
+        "audio_begin": 126520,
+        "audio_end": 127910
     },
     {
         "id": "f000051",
         "sentence": "ぽんぽんけってまわりました。",
-        "sentence_with_furigana": "ぽんぽんけってまわりました。"
+        "sentence_with_furigana": "ぽんぽんけってまわりました。",
+        "audio_begin": 127910,
+        "audio_end": 129520
     },
     {
         "id": "f000052",
         "sentence": "けれど、",
-        "sentence_with_furigana": "けれど、"
+        "sentence_with_furigana": "けれど、",
+        "audio_begin": 131320,
+        "audio_end": 132469
     },
     {
         "id": "f000053",
         "sentence": "どれもいたいといわなくて、",
-        "sentence_with_furigana": "どれもいたいといわなくて、"
+        "sentence_with_furigana": "どれもいたいといわなくて、",
+        "audio_begin": 132469,
+        "audio_end": 134699
     },
     {
         "id": "f000054",
         "sentence": "こわれてしまいました。",
-        "sentence_with_furigana": "こわれてしまいました。"
+        "sentence_with_furigana": "こわれてしまいました。",
+        "audio_begin": 134699,
+        "audio_end": 138360
     },
     {
         "id": "f000055",
         "sentence": "いくらさがしてもぬすまれたあしはありません。",
-        "sentence_with_furigana": "いくらさがしてもぬすまれたあしはありません。"
+        "sentence_with_furigana": "いくらさがしてもぬすまれたあしはありません。",
+        "audio_begin": 138360,
+        "audio_end": 142100
     },
     {
         "id": "f000056",
         "sentence": "「ひょっとしたら、",
-        "sentence_with_furigana": "「ひょっとしたら、"
+        "sentence_with_furigana": "「ひょっとしたら、",
+        "audio_begin": 144200,
+        "audio_end": 145640
     },
     {
         "id": "f000057",
         "sentence": "あいつがとったのかもしれない。」",
-        "sentence_with_furigana": "あいつがとったのかもしれない。」"
+        "sentence_with_furigana": "あいつがとったのかもしれない。」",
+        "audio_begin": 145640,
+        "audio_end": 148276
     },
     {
         "id": "f000058",
         "sentence": "と馬は思いました。",
-        "sentence_with_furigana": "と馬は思いました。"
+        "sentence_with_furigana": "と馬は思いました。",
+        "audio_begin": 148276,
+        "audio_end": 151550
     },
     {
         "id": "f000059",
         "sentence": "そこで、",
-        "sentence_with_furigana": "そこで、"
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 151550,
+        "audio_end": 152680
     },
     {
         "id": "f000060",
         "sentence": "馬はともだちの馬のところへかえってきました。",
-        "sentence_with_furigana": "馬はともだちの馬のところへかえってきました。"
+        "sentence_with_furigana": "馬はともだちの馬のところへかえってきました。",
+        "audio_begin": 152680,
+        "audio_end": 156920
     },
     {
         "id": "f000061",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 156920,
+        "audio_end": 157811
     },
     {
         "id": "f000062",
         "sentence": "すきをみて、",
-        "sentence_with_furigana": "すきをみて、"
+        "sentence_with_furigana": "すきをみて、",
+        "audio_begin": 157811,
+        "audio_end": 159728
     },
     {
         "id": "f000063",
         "sentence": "ともだちのあとあしをぽォんとけとばしました。",
-        "sentence_with_furigana": "ともだちのあとあしをぽォんとけとばしました。"
+        "sentence_with_furigana": "ともだちのあとあしをぽォんとけとばしました。",
+        "audio_begin": 159728,
+        "audio_end": 163600
     },
     {
         "id": "f000064",
         "sentence": "するとともだちは、",
-        "sentence_with_furigana": "するとともだちは、"
+        "sentence_with_furigana": "するとともだちは、",
+        "audio_begin": 165500,
+        "audio_end": 167440
     },
     {
         "id": "f000065",
         "sentence": "「いたいッ。」",
-        "sentence_with_furigana": "「いたいッ。」"
+        "sentence_with_furigana": "「いたいッ。」",
+        "audio_begin": 167440,
+        "audio_end": 168720
     },
     {
         "id": "f000066",
         "sentence": "とさけんでとびあがりました。",
-        "sentence_with_furigana": "とさけんでとびあがりました。"
+        "sentence_with_furigana": "とさけんでとびあがりました。",
+        "audio_begin": 168720,
+        "audio_end": 172880
     },
     {
         "id": "f000067",
         "sentence": "「そォらみろ、",
-        "sentence_with_furigana": "「そォらみろ、"
+        "sentence_with_furigana": "「そォらみろ、",
+        "audio_begin": 172880,
+        "audio_end": 174120
     },
     {
         "id": "f000068",
         "sentence": "それがぼくのあしだ。",
-        "sentence_with_furigana": "それがぼくのあしだ。"
+        "sentence_with_furigana": "それがぼくのあしだ。",
+        "audio_begin": 174120,
+        "audio_end": 176178
     },
     {
         "id": "f000069",
         "sentence": "きみだろう、",
-        "sentence_with_furigana": "きみだろう、"
+        "sentence_with_furigana": "きみだろう、",
+        "audio_begin": 176178,
+        "audio_end": 177320
     },
     {
         "id": "f000070",
         "sentence": "ぬすんだのは。」",
-        "sentence_with_furigana": "ぬすんだのは。」"
+        "sentence_with_furigana": "ぬすんだのは。」",
+        "audio_begin": 177320,
+        "audio_end": 179551
     },
     {
         "id": "f000071",
         "sentence": "「このとんまめが。」",
-        "sentence_with_furigana": "「このとんまめが。」"
+        "sentence_with_furigana": "「このとんまめが。」",
+        "audio_begin": 179551,
+        "audio_end": 182237
     },
     {
         "id": "f000072",
         "sentence": "ともだちの馬は力いっぱいけかえしました。",
-        "sentence_with_furigana": "ともだちの馬は力いっぱいけかえしました。"
+        "sentence_with_furigana": "ともだちの馬は力いっぱいけかえしました。",
+        "audio_begin": 182237,
+        "audio_end": 187400
     },
     {
         "id": "f000073",
         "sentence": "しびれがもうなおっていたので、",
-        "sentence_with_furigana": "しびれがもうなおっていたので、"
+        "sentence_with_furigana": "しびれがもうなおっていたので、",
+        "audio_begin": 187400,
+        "audio_end": 190042
     },
     {
         "id": "f000074",
         "sentence": "その馬も、",
-        "sentence_with_furigana": "その馬も、"
+        "sentence_with_furigana": "その馬も、",
+        "audio_begin": 190042,
+        "audio_end": 191480
     },
     {
         "id": "f000075",
         "sentence": "「いたいッ。」",
-        "sentence_with_furigana": "「いたいッ。」"
+        "sentence_with_furigana": "「いたいッ。」",
+        "audio_begin": 191480,
+        "audio_end": 192414
     },
     {
         "id": "f000076",
         "sentence": "と、",
-        "sentence_with_furigana": "と、"
+        "sentence_with_furigana": "と、",
+        "audio_begin": 192414,
+        "audio_end": 192747
     },
     {
         "id": "f000077",
         "sentence": "とびあがりました。",
-        "sentence_with_furigana": "とびあがりました。"
+        "sentence_with_furigana": "とびあがりました。",
+        "audio_begin": 192747,
+        "audio_end": 195520
     },
     {
         "id": "f000078",
         "sentence": "そして、",
-        "sentence_with_furigana": "そして、"
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 195520,
+        "audio_end": 196446
     },
     {
         "id": "f000079",
         "sentence": "やっとのことで、",
-        "sentence_with_furigana": "やっとのことで、"
+        "sentence_with_furigana": "やっとのことで、",
+        "audio_begin": 196446,
+        "audio_end": 198240
     },
     {
         "id": "f000080",
         "sentence": "じぶんのあしはぬすまれたのではなく、",
-        "sentence_with_furigana": "じぶんのあしはぬすまれたのではなく、"
+        "sentence_with_furigana": "じぶんのあしはぬすまれたのではなく、",
+        "audio_begin": 198240,
+        "audio_end": 201520
     },
     {
         "id": "f000081",
         "sentence": "しびれていたのだとわかりました。",
-        "sentence_with_furigana": "しびれていたのだとわかりました。"
+        "sentence_with_furigana": "しびれていたのだとわかりました。",
+        "audio_begin": 201520,
+        "audio_end": 204240
     }
 ]

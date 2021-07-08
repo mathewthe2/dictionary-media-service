@@ -1,7 +1,6 @@
 [
     {
         "id": "Akai Rosoku-f000002",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -15,11 +14,12 @@
             "赤い",
             "蝋燭"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5136,
+        "sound_end": 11280
     },
     {
         "id": "Akai Rosoku-f000003",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -73,11 +73,12 @@
             "た",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 11280,
+        "sound_end": 20560
     },
     {
         "id": "Akai Rosoku-f000004",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -111,11 +112,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 20560,
+        "sound_end": 26440
     },
     {
         "id": "Akai Rosoku-f000005",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -159,11 +161,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 26440,
+        "sound_end": 32119
     },
     {
         "id": "Akai Rosoku-f000006",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -207,11 +210,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 36720,
+        "sound_end": 43240
     },
     {
         "id": "Akai Rosoku-f000007",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -243,11 +247,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 46840,
+        "sound_end": 51320
     },
     {
         "id": "Akai Rosoku-f000008",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -273,11 +278,12 @@
             "は",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 51320,
+        "sound_end": 55160
     },
     {
         "id": "Akai Rosoku-f000009",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -319,11 +325,12 @@
             "も",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 55160,
+        "sound_end": 59665
     },
     {
         "id": "Akai Rosoku-f000010",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -345,11 +352,12 @@
             "も",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 59665,
+        "sound_end": 60720
     },
     {
         "id": "Akai Rosoku-f000011",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -371,11 +379,12 @@
             "も",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 60720,
+        "sound_end": 62749
     },
     {
         "id": "Akai Rosoku-f000012",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -397,11 +406,12 @@
             "も",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 62749,
+        "sound_end": 64080
     },
     {
         "id": "Akai Rosoku-f000013",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -423,11 +433,12 @@
             "も",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 64080,
+        "sound_end": 66760
     },
     {
         "id": "Akai Rosoku-f000014",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -459,11 +470,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 66760,
+        "sound_end": 70508
     },
     {
         "id": "Akai Rosoku-f000015",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -505,11 +517,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 70508,
+        "sound_end": 75400
     },
     {
         "id": "Akai Rosoku-f000016",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -525,11 +538,12 @@
             "ほう",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 78200,
+        "sound_end": 80000
     },
     {
         "id": "Akai Rosoku-f000017",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -543,11 +557,12 @@
             "すばらしい",
             "」"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 80000,
+        "sound_end": 81920
     },
     {
         "id": "Akai Rosoku-f000018",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -565,11 +580,12 @@
             "は",
             "、"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 84420,
+        "sound_end": 85440
     },
     {
         "id": "Akai Rosoku-f000019",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -589,11 +605,12 @@
             "だ",
             "」"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 85440,
+        "sound_end": 87280
     },
     {
         "id": "Akai Rosoku-f000020",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -657,11 +674,12 @@
             "た",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 90080,
+        "sound_end": 101960
     },
     {
         "id": "Akai Rosoku-f000021",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -681,11 +699,12 @@
             "が",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 103744,
+        "sound_end": 106400
     },
     {
         "id": "Akai Rosoku-f000022",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -703,11 +722,12 @@
             "危い",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 106400,
+        "sound_end": 108150
     },
     {
         "id": "Akai Rosoku-f000023",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -733,11 +753,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 108150,
+        "sound_end": 111144
     },
     {
         "id": "Akai Rosoku-f000024",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -765,11 +786,12 @@
             "た",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 111144,
+        "sound_end": 116320
     },
     {
         "id": "Akai Rosoku-f000025",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -799,11 +821,12 @@
             "た",
             "。"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 116320,
+        "sound_end": 120240
     },
     {
         "id": "Akai Rosoku-f000026",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -833,11 +856,12 @@
             "が",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 123840,
+        "sound_end": 127773
     },
     {
         "id": "Akai Rosoku-f000027",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -869,11 +893,12 @@
             "か",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 127773,
+        "sound_end": 131960
     },
     {
         "id": "Akai Rosoku-f000028",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -901,11 +926,12 @@
             "か",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 131960,
+        "sound_end": 136800
     },
     {
         "id": "Akai Rosoku-f000029",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -933,11 +959,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 136800,
+        "sound_end": 139340
     },
     {
         "id": "Akai Rosoku-f000030",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -979,11 +1006,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 141440,
+        "sound_end": 147680
     },
     {
         "id": "Akai Rosoku-f000031",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1001,11 +1029,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 150480,
+        "sound_end": 151781
     },
     {
         "id": "Akai Rosoku-f000032",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1057,11 +1086,12 @@
             "た",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 151781,
+        "sound_end": 159100
     },
     {
         "id": "Akai Rosoku-f000033",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1085,11 +1115,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 161121,
+        "sound_end": 163500
     },
     {
         "id": "Akai Rosoku-f000034",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1151,11 +1182,12 @@
             "た",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 165483,
+        "sound_end": 175200
     },
     {
         "id": "Akai Rosoku-f000035",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1179,11 +1211,12 @@
             "た",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 178800,
+        "sound_end": 181660
     },
     {
         "id": "Akai Rosoku-f000036",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1227,11 +1260,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 183760,
+        "sound_end": 188720
     },
     {
         "id": "Akai Rosoku-f000037",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1289,11 +1323,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 191520,
+        "sound_end": 202040
     },
     {
         "id": "Akai Rosoku-f000038",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1329,11 +1364,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 202040,
+        "sound_end": 207320
     },
     {
         "id": "Akai Rosoku-f000039",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1361,11 +1397,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 207320,
+        "sound_end": 211019
     },
     {
         "id": "Akai Rosoku-f000040",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1387,11 +1424,12 @@
             "は",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 211019,
+        "sound_end": 213720
     },
     {
         "id": "Akai Rosoku-f000041",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1429,11 +1467,12 @@
             "です",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 213720,
+        "sound_end": 217520
     },
     {
         "id": "Akai Rosoku-f000042",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1479,11 +1518,12 @@
             "は",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 220320,
+        "sound_end": 226680
     },
     {
         "id": "Akai Rosoku-f000043",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1511,11 +1551,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 226680,
+        "sound_end": 228560
     },
     {
         "id": "Akai Rosoku-f000044",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1543,11 +1584,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 230560,
+        "sound_end": 232840
     },
     {
         "id": "Akai Rosoku-f000045",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1571,11 +1613,12 @@
             "て",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 235340,
+        "sound_end": 238000
     },
     {
         "id": "Akai Rosoku-f000046",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1613,11 +1656,12 @@
             "た",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 238000,
+        "sound_end": 241000
     },
     {
         "id": "Akai Rosoku-f000047",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1653,11 +1697,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 244200,
+        "sound_end": 248280
     },
     {
         "id": "Akai Rosoku-f000048",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1699,11 +1744,12 @@
             "た",
             "。"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 251780,
+        "sound_end": 257812
     },
     {
         "id": "Akai Rosoku-f000049",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1739,11 +1785,12 @@
             "か",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 257812,
+        "sound_end": 263520
     },
     {
         "id": "Akai Rosoku-f000050",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1757,11 +1804,12 @@
             "いえ",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 263520,
+        "sound_end": 264080
     },
     {
         "id": "Akai Rosoku-f000051",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1775,11 +1823,12 @@
             "いえ",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 264080,
+        "sound_end": 264360
     },
     {
         "id": "Akai Rosoku-f000052",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1845,11 +1894,12 @@
             "た",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 266160,
+        "sound_end": 275080
     },
     {
         "id": "Akai Rosoku-f000053",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1877,11 +1927,12 @@
             "て",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 277880,
+        "sound_end": 281135
     },
     {
         "id": "Akai Rosoku-f000054",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1913,11 +1964,12 @@
             "た",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 281135,
+        "sound_end": 283640
     },
     {
         "id": "Akai Rosoku-f000055",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1947,11 +1999,12 @@
             "た",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 286440,
+        "sound_end": 289160
     },
     {
         "id": "Akai Rosoku-f000056",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -1995,11 +2048,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 291060,
+        "sound_end": 296440
     },
     {
         "id": "Akai Rosoku-f000057",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2029,11 +2083,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 300040,
+        "sound_end": 303840
     },
     {
         "id": "Akai Rosoku-f000058",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2077,11 +2132,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 306340,
+        "sound_end": 314124
     },
     {
         "id": "Akai Rosoku-f000059",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2107,11 +2163,12 @@
             "た",
             "。"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 314124,
+        "sound_end": 318240
     },
     {
         "id": "Akai Rosoku-f000060",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2137,11 +2194,12 @@
             "た",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 318240,
+        "sound_end": 323680
     },
     {
         "id": "Akai Rosoku-f000061",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2183,11 +2241,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 323680,
+        "sound_end": 328760
     },
     {
         "id": "Akai Rosoku-f000062",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2229,11 +2288,12 @@
             "た",
             "。"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 331560,
+        "sound_end": 338880
     },
     {
         "id": "Akai Rosoku-f000063",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2267,11 +2327,12 @@
             "た",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 338880,
+        "sound_end": 343160
     },
     {
         "id": "Akai Rosoku-f000064",
-        "author": "Nankichi Niimi",
         "author_japanese": "新美 南吉",
         "deck_name": "Akai Rosoku",
         "deck_name_japanese": "赤い蝋燭",
@@ -2317,6 +2378,8 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 346960,
+        "sound_end": 355740
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Urikohimeko-f000002",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -15,11 +14,12 @@
             "瓜子姫",
             "子"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 4640,
+        "sound_end": 7280
     },
     {
         "id": "Urikohimeko-f000003",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -31,11 +31,12 @@
         "word_list": [
             "一"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 7280,
+        "sound_end": 10120
     },
     {
         "id": "Urikohimeko-f000004",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -49,11 +50,12 @@
             "むかし",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 10120,
+        "sound_end": 10920
     },
     {
         "id": "Urikohimeko-f000005",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -67,11 +69,12 @@
             "むかし",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 10920,
+        "sound_end": 12000
     },
     {
         "id": "Urikohimeko-f000006",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -105,11 +108,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 12000,
+        "sound_end": 15600
     },
     {
         "id": "Urikohimeko-f000007",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -151,11 +155,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 15600,
+        "sound_end": 20200
     },
     {
         "id": "Urikohimeko-f000008",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -189,11 +194,12 @@
             "た",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 20200,
+        "sound_end": 25320
     },
     {
         "id": "Urikohimeko-f000009",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -233,11 +239,12 @@
             "と",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 25320,
+        "sound_end": 30320
     },
     {
         "id": "Urikohimeko-f000010",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -263,11 +270,12 @@
             "つ",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 30320,
+        "sound_end": 33520
     },
     {
         "id": "Urikohimeko-f000011",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -281,11 +289,12 @@
             "ぽっかり",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 33520,
+        "sound_end": 35080
     },
     {
         "id": "Urikohimeko-f000012",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -299,11 +308,12 @@
             "ぽっかり",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 35080,
+        "sound_end": 35849
     },
     {
         "id": "Urikohimeko-f000013",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -325,11 +335,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 35849,
+        "sound_end": 38840
     },
     {
         "id": "Urikohimeko-f000014",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -357,11 +368,12 @@
             "て",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 38840,
+        "sound_end": 41880
     },
     {
         "id": "Urikohimeko-f000015",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -379,11 +391,12 @@
             "やおや",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 41880,
+        "sound_end": 42840
     },
     {
         "id": "Urikohimeko-f000016",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -397,11 +410,12 @@
             "まあ",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 42840,
+        "sound_end": 43680
     },
     {
         "id": "Urikohimeko-f000017",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -423,11 +437,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 43680,
+        "sound_end": 47040
     },
     {
         "id": "Urikohimeko-f000018",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -445,11 +460,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 47040,
+        "sound_end": 49160
     },
     {
         "id": "Urikohimeko-f000019",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -473,11 +489,12 @@
             "て",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 49160,
+        "sound_end": 50760
     },
     {
         "id": "Urikohimeko-f000020",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -507,11 +524,12 @@
             "。",
             "」"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 50760,
+        "sound_end": 53520
     },
     {
         "id": "Urikohimeko-f000021",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -529,11 +547,12 @@
             "いい",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 53520,
+        "sound_end": 55400
     },
     {
         "id": "Urikohimeko-f000022",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -563,11 +582,12 @@
             "て",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 55400,
+        "sound_end": 58840
     },
     {
         "id": "Urikohimeko-f000023",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -585,11 +605,12 @@
             "て",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 58840,
+        "sound_end": 60440
     },
     {
         "id": "Urikohimeko-f000024",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -615,11 +636,12 @@
             "た",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 60440,
+        "sound_end": 65239
     },
     {
         "id": "Urikohimeko-f000025",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -639,11 +661,12 @@
             "と",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 65239,
+        "sound_end": 67040
     },
     {
         "id": "Urikohimeko-f000026",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -669,11 +692,12 @@
             "とおり",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 67040,
+        "sound_end": 69560
     },
     {
         "id": "Urikohimeko-f000027",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -707,11 +731,12 @@
             "た",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 69560,
+        "sound_end": 73210
     },
     {
         "id": "Urikohimeko-f000028",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -743,11 +768,12 @@
             "て",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 73210,
+        "sound_end": 77160
     },
     {
         "id": "Urikohimeko-f000029",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -765,11 +791,12 @@
             "やおや",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 77160,
+        "sound_end": 77920
     },
     {
         "id": "Urikohimeko-f000030",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -787,11 +814,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 77920,
+        "sound_end": 78760
     },
     {
         "id": "Urikohimeko-f000031",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -811,11 +839,12 @@
             "え",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 78760,
+        "sound_end": 80040
     },
     {
         "id": "Urikohimeko-f000032",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -845,11 +874,12 @@
             "な",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 80040,
+        "sound_end": 82265
     },
     {
         "id": "Urikohimeko-f000033",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -883,11 +913,12 @@
             "から",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 82265,
+        "sound_end": 85680
     },
     {
         "id": "Urikohimeko-f000034",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -921,11 +952,12 @@
             "て",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 85680,
+        "sound_end": 88880
     },
     {
         "id": "Urikohimeko-f000035",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -957,11 +989,12 @@
             "。",
             "」"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 88880,
+        "sound_end": 91160
     },
     {
         "id": "Urikohimeko-f000036",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -979,11 +1012,12 @@
             "て",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 91160,
+        "sound_end": 93560
     },
     {
         "id": "Urikohimeko-f000037",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1017,11 +1051,12 @@
             "た",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 93560,
+        "sound_end": 97760
     },
     {
         "id": "Urikohimeko-f000038",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1037,11 +1072,12 @@
             "ほう",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 97760,
+        "sound_end": 98284
     },
     {
         "id": "Urikohimeko-f000039",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1055,11 +1091,12 @@
             "ほう",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 98284,
+        "sound_end": 98880
     },
     {
         "id": "Urikohimeko-f000040",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1083,11 +1120,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 98880,
+        "sound_end": 102120
     },
     {
         "id": "Urikohimeko-f000041",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1105,11 +1143,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 102120,
+        "sound_end": 104400
     },
     {
         "id": "Urikohimeko-f000042",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1131,11 +1170,12 @@
             "。",
             "」"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 104400,
+        "sound_end": 106360
     },
     {
         "id": "Urikohimeko-f000043",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1149,11 +1189,12 @@
             "と",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 106360,
+        "sound_end": 107680
     },
     {
         "id": "Urikohimeko-f000044",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1179,11 +1220,12 @@
             "た",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 107680,
+        "sound_end": 110158
     },
     {
         "id": "Urikohimeko-f000045",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1207,11 +1249,12 @@
             "は",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 110158,
+        "sound_end": 111680
     },
     {
         "id": "Urikohimeko-f000046",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1239,11 +1282,12 @@
             "て",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 111680,
+        "sound_end": 115600
     },
     {
         "id": "Urikohimeko-f000047",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1275,11 +1319,12 @@
             "と",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 115600,
+        "sound_end": 118240
     },
     {
         "id": "Urikohimeko-f000048",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1309,11 +1354,12 @@
             "て",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 118240,
+        "sound_end": 121600
     },
     {
         "id": "Urikohimeko-f000049",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1339,11 +1385,12 @@
             "た",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 121600,
+        "sound_end": 127760
     },
     {
         "id": "Urikohimeko-f000050",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1361,11 +1408,12 @@
             "やおや",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 127760,
+        "sound_end": 128731
     },
     {
         "id": "Urikohimeko-f000051",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1379,11 +1427,12 @@
             "まあ",
             "」"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 128731,
+        "sound_end": 129199
     },
     {
         "id": "Urikohimeko-f000052",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1403,11 +1452,12 @@
             "まま",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 129199,
+        "sound_end": 132040
     },
     {
         "id": "Urikohimeko-f000053",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1435,11 +1485,12 @@
             "も",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 132040,
+        "sound_end": 133680
     },
     {
         "id": "Urikohimeko-f000054",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1471,11 +1522,12 @@
             "た",
             "。"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 133680,
+        "sound_end": 139160
     },
     {
         "id": "Urikohimeko-f000055",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1501,11 +1553,12 @@
             "が",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 139160,
+        "sound_end": 140960
     },
     {
         "id": "Urikohimeko-f000056",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1525,11 +1578,12 @@
             "きっと",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 140960,
+        "sound_end": 144480
     },
     {
         "id": "Urikohimeko-f000057",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1565,11 +1619,12 @@
             "て",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 144480,
+        "sound_end": 148520
     },
     {
         "id": "Urikohimeko-f000058",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1603,11 +1658,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 148520,
+        "sound_end": 152760
     },
     {
         "id": "Urikohimeko-f000059",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1633,11 +1689,12 @@
             "。",
             "」"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 152760,
+        "sound_end": 156240
     },
     {
         "id": "Urikohimeko-f000060",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1657,11 +1714,12 @@
             "とも",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 157840,
+        "sound_end": 159080
     },
     {
         "id": "Urikohimeko-f000061",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1677,11 +1735,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 159080,
+        "sound_end": 160400
     },
     {
         "id": "Urikohimeko-f000062",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1695,11 +1754,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 160400,
+        "sound_end": 160920
     },
     {
         "id": "Urikohimeko-f000063",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1721,11 +1781,12 @@
             "て",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 160920,
+        "sound_end": 163280
     },
     {
         "id": "Urikohimeko-f000064",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1751,11 +1812,12 @@
             "。",
             "」"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 163280,
+        "sound_end": 165400
     },
     {
         "id": "Urikohimeko-f000065",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1769,11 +1831,12 @@
             "と",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 165400,
+        "sound_end": 167400
     },
     {
         "id": "Urikohimeko-f000066",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1799,11 +1862,12 @@
             "た",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 167400,
+        "sound_end": 168760
     },
     {
         "id": "Urikohimeko-f000067",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1835,11 +1899,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 170560,
+        "sound_end": 173800
     },
     {
         "id": "Urikohimeko-f000068",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1865,11 +1930,12 @@
             "て",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 173800,
+        "sound_end": 176560
     },
     {
         "id": "Urikohimeko-f000069",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1897,11 +1963,12 @@
             "て",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 176560,
+        "sound_end": 179640
     },
     {
         "id": "Urikohimeko-f000070",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1929,11 +1996,12 @@
             "で",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 179640,
+        "sound_end": 181960
     },
     {
         "id": "Urikohimeko-f000071",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -1957,11 +2025,12 @@
             "た",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 181960,
+        "sound_end": 186640
     },
     {
         "id": "Urikohimeko-f000072",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2003,11 +2072,12 @@
             "で",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 186640,
+        "sound_end": 190280
     },
     {
         "id": "Urikohimeko-f000073",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2037,11 +2107,12 @@
             "た",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 190280,
+        "sound_end": 194760
     },
     {
         "id": "Urikohimeko-f000074",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2059,11 +2130,12 @@
             "は",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 194760,
+        "sound_end": 196320
     },
     {
         "id": "Urikohimeko-f000075",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2091,11 +2163,12 @@
             "た",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 196320,
+        "sound_end": 201120
     },
     {
         "id": "Urikohimeko-f000076",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2125,11 +2198,12 @@
             "で",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 201120,
+        "sound_end": 203840
     },
     {
         "id": "Urikohimeko-f000077",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2163,11 +2237,12 @@
             "て",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 203840,
+        "sound_end": 208138
     },
     {
         "id": "Urikohimeko-f000078",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2181,11 +2256,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 208138,
+        "sound_end": 209040
     },
     {
         "id": "Urikohimeko-f000079",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2199,11 +2275,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 209040,
+        "sound_end": 210367
     },
     {
         "id": "Urikohimeko-f000080",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2221,11 +2298,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 210367,
+        "sound_end": 211360
     },
     {
         "id": "Urikohimeko-f000081",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2243,11 +2321,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 211360,
+        "sound_end": 213520
     },
     {
         "id": "Urikohimeko-f000082",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2263,11 +2342,12 @@
             "ばったん",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 213520,
+        "sound_end": 215280
     },
     {
         "id": "Urikohimeko-f000083",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2283,11 +2363,12 @@
             "ばったん",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 215280,
+        "sound_end": 217560
     },
     {
         "id": "Urikohimeko-f000084",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2313,11 +2394,12 @@
             "た",
             "。"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 217560,
+        "sound_end": 220040
     },
     {
         "id": "Urikohimeko-f000085",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2343,11 +2425,12 @@
             "とおり",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 220040,
+        "sound_end": 222160
     },
     {
         "id": "Urikohimeko-f000086",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2377,11 +2460,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 222160,
+        "sound_end": 224800
     },
     {
         "id": "Urikohimeko-f000087",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2415,11 +2499,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 224800,
+        "sound_end": 228520
     },
     {
         "id": "Urikohimeko-f000088",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2443,11 +2528,12 @@
             "一人",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 228520,
+        "sound_end": 231480
     },
     {
         "id": "Urikohimeko-f000089",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2473,11 +2559,12 @@
             "て",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 231480,
+        "sound_end": 233880
     },
     {
         "id": "Urikohimeko-f000090",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2491,11 +2578,12 @@
             "あいかわらず",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 233880,
+        "sound_end": 234760
     },
     {
         "id": "Urikohimeko-f000091",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2513,11 +2601,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 234760,
+        "sound_end": 236280
     },
     {
         "id": "Urikohimeko-f000092",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2535,11 +2624,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 236280,
+        "sound_end": 238160
     },
     {
         "id": "Urikohimeko-f000093",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2555,11 +2645,12 @@
             "ばったん",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 238160,
+        "sound_end": 239280
     },
     {
         "id": "Urikohimeko-f000094",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2585,11 +2676,12 @@
             "た",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 239280,
+        "sound_end": 244240
     },
     {
         "id": "Urikohimeko-f000095",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2617,11 +2709,12 @@
             "は",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 244240,
+        "sound_end": 246480
     },
     {
         "id": "Urikohimeko-f000096",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2649,11 +2742,12 @@
             "て",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 246480,
+        "sound_end": 249800
     },
     {
         "id": "Urikohimeko-f000097",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2679,11 +2773,12 @@
             "は",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 249800,
+        "sound_end": 253400
     },
     {
         "id": "Urikohimeko-f000098",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2717,11 +2812,12 @@
             "いる",
             "。"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 253400,
+        "sound_end": 257079
     },
     {
         "id": "Urikohimeko-f000099",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2757,11 +2853,12 @@
             "から",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 257079,
+        "sound_end": 260000
     },
     {
         "id": "Urikohimeko-f000100",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2793,11 +2890,12 @@
             "。",
             "」"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 260000,
+        "sound_end": 263600
     },
     {
         "id": "Urikohimeko-f000101",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2815,11 +2913,12 @@
             "て",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 263600,
+        "sound_end": 266360
     },
     {
         "id": "Urikohimeko-f000102",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2851,11 +2950,12 @@
             "た",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 266360,
+        "sound_end": 271400
     },
     {
         "id": "Urikohimeko-f000103",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2867,11 +2967,12 @@
         "word_list": [
             "二"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 271395,
+        "sound_end": 273215
     },
     {
         "id": "Urikohimeko-f000104",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2895,11 +2996,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 274080,
+        "sound_end": 276320
     },
     {
         "id": "Urikohimeko-f000105",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2921,11 +3023,12 @@
             "で",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 276320,
+        "sound_end": 278160
     },
     {
         "id": "Urikohimeko-f000106",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2943,11 +3046,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 278160,
+        "sound_end": 279400
     },
     {
         "id": "Urikohimeko-f000107",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2965,11 +3069,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 279400,
+        "sound_end": 281640
     },
     {
         "id": "Urikohimeko-f000108",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -2985,11 +3090,12 @@
             "ばったん",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 281640,
+        "sound_end": 283400
     },
     {
         "id": "Urikohimeko-f000109",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3015,11 +3121,12 @@
             "と",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 283400,
+        "sound_end": 286160
     },
     {
         "id": "Urikohimeko-f000110",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3053,11 +3160,12 @@
             "た",
             "。"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 286160,
+        "sound_end": 288800
     },
     {
         "id": "Urikohimeko-f000111",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3083,11 +3191,12 @@
             "て",
             "、"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 288800,
+        "sound_end": 294480
     },
     {
         "id": "Urikohimeko-f000112",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3103,11 +3212,12 @@
             "もしもし",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 294480,
+        "sound_end": 295560
     },
     {
         "id": "Urikohimeko-f000113",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3123,11 +3233,12 @@
             "子",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 295560,
+        "sound_end": 296560
     },
     {
         "id": "Urikohimeko-f000114",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3155,11 +3266,12 @@
             "な",
             "。"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 296560,
+        "sound_end": 298760
     },
     {
         "id": "Urikohimeko-f000115",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3183,11 +3295,12 @@
             "。",
             "」"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 298760,
+        "sound_end": 300880
     },
     {
         "id": "Urikohimeko-f000116",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3207,11 +3320,12 @@
             "た",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 300880,
+        "sound_end": 303680
     },
     {
         "id": "Urikohimeko-f000117",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3227,11 +3341,12 @@
             "いいえ",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 303680,
+        "sound_end": 304600
     },
     {
         "id": "Urikohimeko-f000118",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3253,11 +3368,12 @@
             "。",
             "」"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 304600,
+        "sound_end": 306628
     },
     {
         "id": "Urikohimeko-f000119",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3271,11 +3387,12 @@
             "と",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 306628,
+        "sound_end": 307240
     },
     {
         "id": "Urikohimeko-f000120",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3299,11 +3416,12 @@
             "た",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 307240,
+        "sound_end": 309640
     },
     {
         "id": "Urikohimeko-f000121",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3321,11 +3439,12 @@
             "子",
             "、"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 309640,
+        "sound_end": 310960
     },
     {
         "id": "Urikohimeko-f000122",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3351,11 +3470,12 @@
             "おくれ",
             "、"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 310960,
+        "sound_end": 313778
     },
     {
         "id": "Urikohimeko-f000123",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3385,11 +3505,12 @@
             "。",
             "」"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 313778,
+        "sound_end": 315680
     },
     {
         "id": "Urikohimeko-f000124",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3407,11 +3528,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 317580,
+        "sound_end": 318640
     },
     {
         "id": "Urikohimeko-f000125",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3433,11 +3555,12 @@
             "。",
             "」"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 318640,
+        "sound_end": 321880
     },
     {
         "id": "Urikohimeko-f000126",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3461,11 +3584,12 @@
             "おくれ",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 321880,
+        "sound_end": 323880
     },
     {
         "id": "Urikohimeko-f000127",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3481,11 +3605,12 @@
             "子",
             "。"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 323880,
+        "sound_end": 325200
     },
     {
         "id": "Urikohimeko-f000128",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3511,11 +3636,12 @@
             "。",
             "」"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 325200,
+        "sound_end": 327400
     },
     {
         "id": "Urikohimeko-f000129",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3533,11 +3659,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 329500,
+        "sound_end": 330814
     },
     {
         "id": "Urikohimeko-f000130",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3559,11 +3686,12 @@
             "。",
             "」"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 330814,
+        "sound_end": 334160
     },
     {
         "id": "Urikohimeko-f000131",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3581,11 +3709,12 @@
             "子",
             "、"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 334160,
+        "sound_end": 335560
     },
     {
         "id": "Urikohimeko-f000132",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3603,11 +3732,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 335560,
+        "sound_end": 337320
     },
     {
         "id": "Urikohimeko-f000133",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3627,11 +3757,12 @@
             "くれ",
             "。"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 337320,
+        "sound_end": 338600
     },
     {
         "id": "Urikohimeko-f000134",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3655,11 +3786,12 @@
             "。",
             "」"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 338600,
+        "sound_end": 343600
     },
     {
         "id": "Urikohimeko-f000135",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3681,11 +3813,12 @@
             "で",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 343600,
+        "sound_end": 345320
     },
     {
         "id": "Urikohimeko-f000136",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3721,11 +3854,12 @@
             "と",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 345320,
+        "sound_end": 350400
     },
     {
         "id": "Urikohimeko-f000137",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3771,11 +3905,12 @@
             "た",
             "。"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 350400,
+        "sound_end": 355560
     },
     {
         "id": "Urikohimeko-f000138",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3793,11 +3928,12 @@
             "子",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 355560,
+        "sound_end": 356760
     },
     {
         "id": "Urikohimeko-f000139",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3831,11 +3967,12 @@
             "。",
             "」"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 356760,
+        "sound_end": 360057
     },
     {
         "id": "Urikohimeko-f000140",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3849,11 +3986,12 @@
             "と",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 360057,
+        "sound_end": 360760
     },
     {
         "id": "Urikohimeko-f000141",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3881,11 +4019,12 @@
             "た",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 360760,
+        "sound_end": 362000
     },
     {
         "id": "Urikohimeko-f000142",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3915,11 +4054,12 @@
             "いや",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 362000,
+        "sound_end": 365360
     },
     {
         "id": "Urikohimeko-f000143",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3947,11 +4087,12 @@
             "。",
             "」"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 365360,
+        "sound_end": 367787
     },
     {
         "id": "Urikohimeko-f000144",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3965,11 +4106,12 @@
             "と",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 367787,
+        "sound_end": 368440
     },
     {
         "id": "Urikohimeko-f000145",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -3993,11 +4135,12 @@
             "た",
             "。"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 368440,
+        "sound_end": 370920
     },
     {
         "id": "Urikohimeko-f000146",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4021,11 +4164,12 @@
             "くが",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 370920,
+        "sound_end": 372120
     },
     {
         "id": "Urikohimeko-f000147",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4061,11 +4205,12 @@
             "た",
             "。"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 372120,
+        "sound_end": 378080
     },
     {
         "id": "Urikohimeko-f000148",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4089,11 +4234,12 @@
             "て",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 378080,
+        "sound_end": 380680
     },
     {
         "id": "Urikohimeko-f000149",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4127,11 +4273,12 @@
             "た",
             "。"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 380680,
+        "sound_end": 386480
     },
     {
         "id": "Urikohimeko-f000150",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4155,11 +4302,12 @@
             "と",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 386480,
+        "sound_end": 388480
     },
     {
         "id": "Urikohimeko-f000151",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4197,11 +4345,12 @@
             "て",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 388480,
+        "sound_end": 391977
     },
     {
         "id": "Urikohimeko-f000152",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4225,11 +4374,12 @@
             "を",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 391977,
+        "sound_end": 394520
     },
     {
         "id": "Urikohimeko-f000153",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4255,11 +4405,12 @@
             "食べ",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 394520,
+        "sound_end": 396680
     },
     {
         "id": "Urikohimeko-f000154",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4285,11 +4436,12 @@
             "た",
             "。"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 396680,
+        "sound_end": 399400
     },
     {
         "id": "Urikohimeko-f000155",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4317,11 +4469,12 @@
             "は",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 399400,
+        "sound_end": 402440
     },
     {
         "id": "Urikohimeko-f000156",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4337,11 +4490,12 @@
             "や",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 402440,
+        "sound_end": 404000
     },
     {
         "id": "Urikohimeko-f000157",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4363,11 +4517,12 @@
             "て",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 404000,
+        "sound_end": 405560
     },
     {
         "id": "Urikohimeko-f000158",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4395,11 +4550,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 405560,
+        "sound_end": 408600
     },
     {
         "id": "Urikohimeko-f000159",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4423,11 +4579,12 @@
             "て",
             "、"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 408600,
+        "sound_end": 412160
     },
     {
         "id": "Urikohimeko-f000160",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4455,11 +4612,12 @@
             "。",
             "」"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 412160,
+        "sound_end": 414763
     },
     {
         "id": "Urikohimeko-f000161",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4479,11 +4637,12 @@
             "と",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 414763,
+        "sound_end": 416200
     },
     {
         "id": "Urikohimeko-f000162",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4505,11 +4664,12 @@
             "は",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 416200,
+        "sound_end": 417600
     },
     {
         "id": "Urikohimeko-f000163",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4531,11 +4691,12 @@
             "て",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 417600,
+        "sound_end": 418600
     },
     {
         "id": "Urikohimeko-f000164",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4559,11 +4720,12 @@
             "。",
             "」"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 418600,
+        "sound_end": 420499
     },
     {
         "id": "Urikohimeko-f000165",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4581,11 +4743,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 420499,
+        "sound_end": 421640
     },
     {
         "id": "Urikohimeko-f000166",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4609,11 +4772,12 @@
             "て",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 421640,
+        "sound_end": 423161
     },
     {
         "id": "Urikohimeko-f000167",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4653,11 +4817,12 @@
             "た",
             "。"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 423161,
+        "sound_end": 428880
     },
     {
         "id": "Urikohimeko-f000168",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4675,11 +4840,12 @@
             "に",
             "、"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 428880,
+        "sound_end": 430640
     },
     {
         "id": "Urikohimeko-f000169",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4713,11 +4879,12 @@
             "。",
             "」"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 430640,
+        "sound_end": 433920
     },
     {
         "id": "Urikohimeko-f000170",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4735,11 +4902,12 @@
             "て",
             "、"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 433920,
+        "sound_end": 435920
     },
     {
         "id": "Urikohimeko-f000171",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4775,11 +4943,12 @@
             "た",
             "。"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 435920,
+        "sound_end": 441800
     },
     {
         "id": "Urikohimeko-f000172",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4821,11 +4990,12 @@
             "と",
             "、"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 441800,
+        "sound_end": 447960
     },
     {
         "id": "Urikohimeko-f000173",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4847,11 +5017,12 @@
             "は",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 447960,
+        "sound_end": 449160
     },
     {
         "id": "Urikohimeko-f000174",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4877,11 +5048,12 @@
             "か",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 449160,
+        "sound_end": 451240
     },
     {
         "id": "Urikohimeko-f000175",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4905,11 +5077,12 @@
             "て",
             "、"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 451240,
+        "sound_end": 453080
     },
     {
         "id": "Urikohimeko-f000176",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4943,11 +5116,12 @@
             "た",
             "。"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 453080,
+        "sound_end": 457800
     },
     {
         "id": "Urikohimeko-f000177",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -4979,11 +5153,12 @@
             "て",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 457800,
+        "sound_end": 461730
     },
     {
         "id": "Urikohimeko-f000178",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5005,11 +5180,12 @@
             "て",
             "、"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 461730,
+        "sound_end": 464000
     },
     {
         "id": "Urikohimeko-f000179",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5033,11 +5209,12 @@
             "て",
             "、"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 464000,
+        "sound_end": 465640
     },
     {
         "id": "Urikohimeko-f000180",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5061,11 +5238,12 @@
             "て",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 465640,
+        "sound_end": 467680
     },
     {
         "id": "Urikohimeko-f000181",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5085,11 +5263,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 467680,
+        "sound_end": 469480
     },
     {
         "id": "Urikohimeko-f000182",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5107,11 +5286,12 @@
             "こ",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 469480,
+        "sound_end": 471120
     },
     {
         "id": "Urikohimeko-f000183",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5127,11 +5307,12 @@
             "ばったん",
             "、"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 471120,
+        "sound_end": 472946
     },
     {
         "id": "Urikohimeko-f000184",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5157,11 +5338,12 @@
             "た",
             "。"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 472946,
+        "sound_end": 474440
     },
     {
         "id": "Urikohimeko-f000185",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5173,11 +5355,12 @@
         "word_list": [
             "三"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 476540,
+        "sound_end": 476880
     },
     {
         "id": "Urikohimeko-f000186",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5195,11 +5378,12 @@
             "と",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 478580,
+        "sound_end": 480120
     },
     {
         "id": "Urikohimeko-f000187",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5239,11 +5423,12 @@
             "が",
             "、"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 480120,
+        "sound_end": 483320
     },
     {
         "id": "Urikohimeko-f000188",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5269,11 +5454,12 @@
             "から",
             "、"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 483320,
+        "sound_end": 486480
     },
     {
         "id": "Urikohimeko-f000189",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5291,11 +5477,12 @@
             "子",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 486480,
+        "sound_end": 487680
     },
     {
         "id": "Urikohimeko-f000190",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5327,11 +5514,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 487680,
+        "sound_end": 490480
     },
     {
         "id": "Urikohimeko-f000191",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5351,11 +5539,12 @@
             "。",
             "」"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 490480,
+        "sound_end": 492440
     },
     {
         "id": "Urikohimeko-f000192",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5373,11 +5562,12 @@
             "て",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 492440,
+        "sound_end": 494040
     },
     {
         "id": "Urikohimeko-f000193",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5403,11 +5593,12 @@
             "と",
             "、"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 494040,
+        "sound_end": 496360
     },
     {
         "id": "Urikohimeko-f000194",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5429,11 +5620,12 @@
             "は",
             "、"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 496360,
+        "sound_end": 497880
     },
     {
         "id": "Urikohimeko-f000195",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5449,11 +5641,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 497880,
+        "sound_end": 498720
     },
     {
         "id": "Urikohimeko-f000196",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5469,11 +5662,12 @@
             "。",
             "」"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 498720,
+        "sound_end": 499080
     },
     {
         "id": "Urikohimeko-f000197",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5491,11 +5685,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 499080,
+        "sound_end": 501040
     },
     {
         "id": "Urikohimeko-f000198",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5519,11 +5714,12 @@
             "た",
             "。"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 501040,
+        "sound_end": 503903
     },
     {
         "id": "Urikohimeko-f000199",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5547,11 +5743,12 @@
             "が",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 503903,
+        "sound_end": 506240
     },
     {
         "id": "Urikohimeko-f000200",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5575,11 +5772,12 @@
             "て",
             "、"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 506240,
+        "sound_end": 509360
     },
     {
         "id": "Urikohimeko-f000201",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5611,11 +5809,12 @@
             "大ぜい",
             "、"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 509360,
+        "sound_end": 512360
     },
     {
         "id": "Urikohimeko-f000202",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5635,11 +5834,12 @@
             "た",
             "、"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 512360,
+        "sound_end": 514480
     },
     {
         "id": "Urikohimeko-f000203",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5673,11 +5873,12 @@
             "て",
             "、"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 514480,
+        "sound_end": 517760
     },
     {
         "id": "Urikohimeko-f000204",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5719,11 +5920,12 @@
             "た",
             "。"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 517760,
+        "sound_end": 521840
     },
     {
         "id": "Urikohimeko-f000205",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5751,11 +5953,12 @@
             "は",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 521840,
+        "sound_end": 523840
     },
     {
         "id": "Urikohimeko-f000206",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5785,11 +5988,12 @@
             "て",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 523840,
+        "sound_end": 526160
     },
     {
         "id": "Urikohimeko-f000207",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5813,11 +6017,12 @@
             "と",
             "、"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 526160,
+        "sound_end": 528120
     },
     {
         "id": "Urikohimeko-f000208",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5839,11 +6044,12 @@
             "時",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 528120,
+        "sound_end": 529960
     },
     {
         "id": "Urikohimeko-f000209",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5875,11 +6081,12 @@
             "て",
             "、"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 529960,
+        "sound_end": 533329
     },
     {
         "id": "Urikohimeko-f000210",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5919,11 +6126,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 533329,
+        "sound_end": 538320
     },
     {
         "id": "Urikohimeko-f000211",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5951,11 +6159,12 @@
             "が",
             "、"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 538320,
+        "sound_end": 540880
     },
     {
         "id": "Urikohimeko-f000212",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -5999,11 +6208,12 @@
             "から",
             "、"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 540880,
+        "sound_end": 545240
     },
     {
         "id": "Urikohimeko-f000213",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6035,11 +6245,12 @@
             "。",
             "」"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 545240,
+        "sound_end": 547440
     },
     {
         "id": "Urikohimeko-f000214",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6059,11 +6270,12 @@
             "た",
             "。"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 547440,
+        "sound_end": 550240
     },
     {
         "id": "Urikohimeko-f000215",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6097,11 +6309,12 @@
             "で",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 550240,
+        "sound_end": 554280
     },
     {
         "id": "Urikohimeko-f000216",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6143,11 +6356,12 @@
             "た",
             "。"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 554280,
+        "sound_end": 560200
     },
     {
         "id": "Urikohimeko-f000217",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6181,11 +6395,12 @@
             "て",
             "、"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 560200,
+        "sound_end": 563320
     },
     {
         "id": "Urikohimeko-f000218",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6213,11 +6428,12 @@
             "と",
             "、"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 563320,
+        "sound_end": 565440
     },
     {
         "id": "Urikohimeko-f000219",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6237,11 +6453,12 @@
             "で",
             "、"
         ],
-        "sound": "f000219.mp3"
+        "sound": "f000219.mp3",
+        "sound_begin": 565440,
+        "sound_end": 568480
     },
     {
         "id": "Urikohimeko-f000220",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6257,11 +6474,12 @@
             "ああん",
             "、"
         ],
-        "sound": "f000220.mp3"
+        "sound": "f000220.mp3",
+        "sound_begin": 568480,
+        "sound_end": 569200
     },
     {
         "id": "Urikohimeko-f000221",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6275,11 +6493,12 @@
             "ああん",
             "、"
         ],
-        "sound": "f000221.mp3"
+        "sound": "f000221.mp3",
+        "sound_begin": 569200,
+        "sound_end": 570120
     },
     {
         "id": "Urikohimeko-f000222",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6303,11 +6522,12 @@
             "に",
             "、"
         ],
-        "sound": "f000222.mp3"
+        "sound": "f000222.mp3",
+        "sound_begin": 570120,
+        "sound_end": 572280
     },
     {
         "id": "Urikohimeko-f000223",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6335,11 +6555,12 @@
             "行く",
             "。"
         ],
-        "sound": "f000223.mp3"
+        "sound": "f000223.mp3",
+        "sound_begin": 572280,
+        "sound_end": 574400
     },
     {
         "id": "Urikohimeko-f000224",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6363,11 +6584,12 @@
             "に",
             "、"
         ],
-        "sound": "f000224.mp3"
+        "sound": "f000224.mp3",
+        "sound_begin": 574400,
+        "sound_end": 576440
     },
     {
         "id": "Urikohimeko-f000225",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6397,11 +6619,12 @@
             "。",
             "」"
         ],
-        "sound": "f000225.mp3"
+        "sound": "f000225.mp3",
+        "sound_begin": 576440,
+        "sound_end": 578979
     },
     {
         "id": "Urikohimeko-f000226",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6427,11 +6650,12 @@
             "た",
             "。"
         ],
-        "sound": "f000226.mp3"
+        "sound": "f000226.mp3",
+        "sound_begin": 578979,
+        "sound_end": 582160
     },
     {
         "id": "Urikohimeko-f000227",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6447,11 +6671,12 @@
             "おや",
             "、"
         ],
-        "sound": "f000227.mp3"
+        "sound": "f000227.mp3",
+        "sound_begin": 582160,
+        "sound_end": 582559
     },
     {
         "id": "Urikohimeko-f000228",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6469,11 +6694,12 @@
             "。",
             "」"
         ],
-        "sound": "f000228.mp3"
+        "sound": "f000228.mp3",
+        "sound_begin": 582559,
+        "sound_end": 582960
     },
     {
         "id": "Urikohimeko-f000229",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6491,11 +6717,12 @@
             "て",
             "、"
         ],
-        "sound": "f000229.mp3"
+        "sound": "f000229.mp3",
+        "sound_begin": 582960,
+        "sound_end": 583560
     },
     {
         "id": "Urikohimeko-f000230",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6521,11 +6748,12 @@
             "と",
             "、"
         ],
-        "sound": "f000230.mp3"
+        "sound": "f000230.mp3",
+        "sound_begin": 583560,
+        "sound_end": 585160
     },
     {
         "id": "Urikohimeko-f000231",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6547,11 +6775,12 @@
             "は",
             "、"
         ],
-        "sound": "f000231.mp3"
+        "sound": "f000231.mp3",
+        "sound_begin": 585160,
+        "sound_end": 588120
     },
     {
         "id": "Urikohimeko-f000232",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6585,11 +6814,12 @@
             "て",
             "、"
         ],
-        "sound": "f000232.mp3"
+        "sound": "f000232.mp3",
+        "sound_begin": 588120,
+        "sound_end": 591080
     },
     {
         "id": "Urikohimeko-f000233",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6623,11 +6853,12 @@
             "た",
             "。"
         ],
-        "sound": "f000233.mp3"
+        "sound": "f000233.mp3",
+        "sound_begin": 591080,
+        "sound_end": 594480
     },
     {
         "id": "Urikohimeko-f000234",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6657,11 +6888,12 @@
             "と",
             "、"
         ],
-        "sound": "f000234.mp3"
+        "sound": "f000234.mp3",
+        "sound_begin": 594480,
+        "sound_end": 596920
     },
     {
         "id": "Urikohimeko-f000235",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6681,11 +6913,12 @@
             "て",
             "、"
         ],
-        "sound": "f000235.mp3"
+        "sound": "f000235.mp3",
+        "sound_begin": 596920,
+        "sound_end": 598080
     },
     {
         "id": "Urikohimeko-f000236",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6711,11 +6944,12 @@
             "た",
             "。"
         ],
-        "sound": "f000236.mp3"
+        "sound": "f000236.mp3",
+        "sound_begin": 598080,
+        "sound_end": 600680
     },
     {
         "id": "Urikohimeko-f000237",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6741,11 +6975,12 @@
             "て",
             "、"
         ],
-        "sound": "f000237.mp3"
+        "sound": "f000237.mp3",
+        "sound_begin": 600680,
+        "sound_end": 603720
     },
     {
         "id": "Urikohimeko-f000238",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6781,11 +7016,12 @@
             "て",
             "、"
         ],
-        "sound": "f000238.mp3"
+        "sound": "f000238.mp3",
+        "sound_begin": 603720,
+        "sound_end": 607120
     },
     {
         "id": "Urikohimeko-f000239",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6827,11 +7063,12 @@
             "た",
             "。"
         ],
-        "sound": "f000239.mp3"
+        "sound": "f000239.mp3",
+        "sound_begin": 607120,
+        "sound_end": 613080
     },
     {
         "id": "Urikohimeko-f000240",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6865,11 +7102,12 @@
             "て",
             "、"
         ],
-        "sound": "f000240.mp3"
+        "sound": "f000240.mp3",
+        "sound_begin": 613080,
+        "sound_end": 616480
     },
     {
         "id": "Urikohimeko-f000241",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6895,11 +7133,12 @@
             "た",
             "。"
         ],
-        "sound": "f000241.mp3"
+        "sound": "f000241.mp3",
+        "sound_begin": 616480,
+        "sound_end": 618240
     },
     {
         "id": "Urikohimeko-f000242",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6927,11 +7166,12 @@
             "が",
             "、"
         ],
-        "sound": "f000242.mp3"
+        "sound": "f000242.mp3",
+        "sound_begin": 618240,
+        "sound_end": 621200
     },
     {
         "id": "Urikohimeko-f000243",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6953,11 +7193,12 @@
             "て",
             "、"
         ],
-        "sound": "f000243.mp3"
+        "sound": "f000243.mp3",
+        "sound_begin": 621200,
+        "sound_end": 622760
     },
     {
         "id": "Urikohimeko-f000244",
-        "author": "Masao Kusuyama",
         "author_japanese": "楠山 正雄",
         "deck_name": "Urikohimeko",
         "deck_name_japanese": "瓜子姫子",
@@ -6993,6 +7234,8 @@
             "た",
             "。"
         ],
-        "sound": "f000244.mp3"
+        "sound": "f000244.mp3",
+        "sound_begin": 622760,
+        "sound_end": 628280
     }
 ]

@@ -2,336 +2,470 @@
     {
         "id": "f000001",
         "sentence": "村山籌子　作",
-        "sentence_with_furigana": "村山籌子　作"
+        "sentence_with_furigana": "村山籌子　作",
+        "audio_begin": 2128,
+        "audio_end": 4687
     },
     {
         "id": "f000002",
         "sentence": "お鍋とお皿とカーテン",
-        "sentence_with_furigana": "お鍋とお皿とカーテン"
+        "sentence_with_furigana": "お鍋とお皿とカーテン",
+        "audio_begin": 4687,
+        "audio_end": 9130
     },
     {
         "id": "f000003",
         "sentence": "これは　せんせいが　一年生に　してくださつた　おはなしです。",
-        "sentence_with_furigana": "これは　せんせいが　一年生に　してくださつた　おはなしです。"
+        "sentence_with_furigana": "これは　せんせいが　一年生に　してくださつた　おはなしです。",
+        "audio_begin": 9130,
+        "audio_end": 15360
     },
     {
         "id": "f000004",
         "sentence": "あるおうちの　お台所に　お鍋とお皿とカーテンが　くらしてゐました。",
-        "sentence_with_furigana": "あるおうちの　お台所に　お鍋とお皿とカーテンが　くらしてゐました。"
+        "sentence_with_furigana": "あるおうちの　お台所に　お鍋とお皿とカーテンが　くらしてゐました。",
+        "audio_begin": 15360,
+        "audio_end": 22496
     },
     {
         "id": "f000005",
         "sentence": "ところが　おなべも　お皿も　カーテンも　毎日　おなじおしごとを　してゐるのが、",
-        "sentence_with_furigana": "ところが　おなべも　お皿も　カーテンも　毎日　おなじおしごとを　してゐるのが、"
+        "sentence_with_furigana": "ところが　おなべも　お皿も　カーテンも　毎日　おなじおしごとを　してゐるのが、",
+        "audio_begin": 22496,
+        "audio_end": 29600
     },
     {
         "id": "f000006",
         "sentence": "いやになつて、",
-        "sentence_with_furigana": "いやになつて、"
+        "sentence_with_furigana": "いやになつて、",
+        "audio_begin": 29600,
+        "audio_end": 31440
     },
     {
         "id": "f000007",
         "sentence": "お台所から　にげだすことに　しました。",
-        "sentence_with_furigana": "お台所から　にげだすことに　しました。"
+        "sentence_with_furigana": "お台所から　にげだすことに　しました。",
+        "audio_begin": 31440,
+        "audio_end": 34020
     },
     {
         "id": "f000008",
         "sentence": "お鍋と　お皿は　さきにでぐちの　ところへ　いきましたが、",
-        "sentence_with_furigana": "お鍋と　お皿は　さきにでぐちの　ところへ　いきましたが、"
+        "sentence_with_furigana": "お鍋と　お皿は　さきにでぐちの　ところへ　いきましたが、",
+        "audio_begin": 36120,
+        "audio_end": 41240
     },
     {
         "id": "f000009",
         "sentence": "まつても　まつても　カーテンが　きません。",
-        "sentence_with_furigana": "まつても　まつても　カーテンが　きません。"
+        "sentence_with_furigana": "まつても　まつても　カーテンが　きません。",
+        "audio_begin": 41240,
+        "audio_end": 46480
     },
     {
         "id": "f000010",
         "sentence": "「はやくこないと　二人で行つてしまふわよ。",
-        "sentence_with_furigana": "「はやくこないと　二人で行つてしまふわよ。"
+        "sentence_with_furigana": "「はやくこないと　二人で行つてしまふわよ。",
+        "audio_begin": 46480,
+        "audio_end": 50920
     },
     {
         "id": "f000011",
         "sentence": "」お鍋と　お皿は　いらいらして　いひました。",
-        "sentence_with_furigana": "」お鍋と　お皿は　いらいらして　いひました。"
+        "sentence_with_furigana": "」お鍋と　お皿は　いらいらして　いひました。",
+        "audio_begin": 50920,
+        "audio_end": 53900
     },
     {
         "id": "f000012",
         "sentence": "「だつて、",
-        "sentence_with_furigana": "「だつて、"
+        "sentence_with_furigana": "「だつて、",
+        "audio_begin": 56000,
+        "audio_end": 56400
     },
     {
         "id": "f000013",
         "sentence": "わたし、",
-        "sentence_with_furigana": "わたし、"
+        "sentence_with_furigana": "わたし、",
+        "audio_begin": 56400,
+        "audio_end": 57360
     },
     {
         "id": "f000014",
         "sentence": "いくら　あし　で　ふんばつても、",
-        "sentence_with_furigana": "いくら　あし　で　ふんばつても、"
+        "sentence_with_furigana": "いくら　あし　で　ふんばつても、",
+        "audio_begin": 57360,
+        "audio_end": 59320
     },
     {
         "id": "f000015",
         "sentence": "あたまが　てつのぼうに　くつついてゐて、",
-        "sentence_with_furigana": "あたまが　てつのぼうに　くつついてゐて、"
+        "sentence_with_furigana": "あたまが　てつのぼうに　くつついてゐて、",
+        "audio_begin": 59320,
+        "audio_end": 63400
     },
     {
         "id": "f000016",
         "sentence": "はなれないのよ。",
-        "sentence_with_furigana": "はなれないのよ。"
+        "sentence_with_furigana": "はなれないのよ。",
+        "audio_begin": 63400,
+        "audio_end": 64239
     },
     {
         "id": "f000017",
         "sentence": "」とカーテンはなきながら、",
-        "sentence_with_furigana": "」とカーテンはなきながら、"
+        "sentence_with_furigana": "」とカーテンはなきながら、",
+        "audio_begin": 64239,
+        "audio_end": 65424
     },
     {
         "id": "f000018",
         "sentence": "あたまをてつのぼうから、",
-        "sentence_with_furigana": "あたまをてつのぼうから、"
+        "sentence_with_furigana": "あたまをてつのぼうから、",
+        "audio_begin": 65424,
+        "audio_end": 67040
     },
     {
         "id": "f000019",
         "sentence": "はづさうとしました。",
-        "sentence_with_furigana": "はづさうとしました。"
+        "sentence_with_furigana": "はづさうとしました。",
+        "audio_begin": 67040,
+        "audio_end": 70145
     },
     {
         "id": "f000020",
         "sentence": "お鍋とお皿も、",
-        "sentence_with_furigana": "お鍋とお皿も、"
+        "sentence_with_furigana": "お鍋とお皿も、",
+        "audio_begin": 70145,
+        "audio_end": 71985
     },
     {
         "id": "f000021",
         "sentence": "カーテンの　すそをもつて、",
-        "sentence_with_furigana": "カーテンの　すそをもつて、"
+        "sentence_with_furigana": "カーテンの　すそをもつて、",
+        "audio_begin": 71985,
+        "audio_end": 75000
     },
     {
         "id": "f000022",
         "sentence": "うんさこら　うんさこら　とひつぱりましたが、",
-        "sentence_with_furigana": "うんさこら　うんさこら　とひつぱりましたが、"
+        "sentence_with_furigana": "うんさこら　うんさこら　とひつぱりましたが、",
+        "audio_begin": 75000,
+        "audio_end": 78494
     },
     {
         "id": "f000023",
         "sentence": "だめです。",
-        "sentence_with_furigana": "だめです。"
+        "sentence_with_furigana": "だめです。",
+        "audio_begin": 78494,
+        "audio_end": 81720
     },
     {
         "id": "f000024",
         "sentence": "そこで、",
-        "sentence_with_furigana": "そこで、"
+        "sentence_with_furigana": "そこで、",
+        "audio_begin": 81720,
+        "audio_end": 82921
     },
     {
         "id": "f000025",
         "sentence": "お鍋とお皿の、",
-        "sentence_with_furigana": "お鍋とお皿の、"
+        "sentence_with_furigana": "お鍋とお皿の、",
+        "audio_begin": 82921,
+        "audio_end": 84200
     },
     {
         "id": "f000026",
         "sentence": "どつちかが　カーテンをよぢのぼつていつて、",
-        "sentence_with_furigana": "どつちかが　カーテンをよぢのぼつていつて、"
+        "sentence_with_furigana": "どつちかが　カーテンをよぢのぼつていつて、",
+        "audio_begin": 84200,
+        "audio_end": 87781
     },
     {
         "id": "f000027",
         "sentence": "てつのぼうを　はずすことに　なりました。",
-        "sentence_with_furigana": "てつのぼうを　はずすことに　なりました。"
+        "sentence_with_furigana": "てつのぼうを　はずすことに　なりました。",
+        "audio_begin": 87781,
+        "audio_end": 90611
     },
     {
         "id": "f000028",
         "sentence": "お鍋と　お皿が　じやんけんをして、",
-        "sentence_with_furigana": "お鍋と　お皿が　じやんけんをして、"
+        "sentence_with_furigana": "お鍋と　お皿が　じやんけんをして、",
+        "audio_begin": 92850,
+        "audio_end": 95080
     },
     {
         "id": "f000029",
         "sentence": "まけたはうが　のぼつてゆくことに　しました。",
-        "sentence_with_furigana": "まけたはうが　のぼつてゆくことに　しました。"
+        "sentence_with_furigana": "まけたはうが　のぼつてゆくことに　しました。",
+        "audio_begin": 95080,
+        "audio_end": 99550
     },
     {
         "id": "f000030",
         "sentence": "お鍋が　まけました。",
-        "sentence_with_furigana": "お鍋が　まけました。"
+        "sentence_with_furigana": "お鍋が　まけました。",
+        "audio_begin": 99550,
+        "audio_end": 102779
     },
     {
         "id": "f000031",
         "sentence": "お皿は下で　大きな口をあけて、",
-        "sentence_with_furigana": "お皿は下で　大きな口をあけて、"
+        "sentence_with_furigana": "お皿は下で　大きな口をあけて、",
+        "audio_begin": 102779,
+        "audio_end": 106268
     },
     {
         "id": "f000032",
         "sentence": "けんぶつして　ゐました。",
-        "sentence_with_furigana": "けんぶつして　ゐました。"
+        "sentence_with_furigana": "けんぶつして　ゐました。",
+        "audio_begin": 106268,
+        "audio_end": 108060
     },
     {
         "id": "f000033",
         "sentence": "まけたお鍋は　カーテンの　わきばらを　よぢのぼりました。",
-        "sentence_with_furigana": "まけたお鍋は　カーテンの　わきばらを　よぢのぼりました。"
+        "sentence_with_furigana": "まけたお鍋は　カーテンの　わきばらを　よぢのぼりました。",
+        "audio_begin": 110035,
+        "audio_end": 116943
     },
     {
         "id": "f000034",
         "sentence": "ところが　お鍋が　よぢのぼるにつれて、",
-        "sentence_with_furigana": "ところが　お鍋が　よぢのぼるにつれて、"
+        "sentence_with_furigana": "ところが　お鍋が　よぢのぼるにつれて、",
+        "audio_begin": 116943,
+        "audio_end": 120866
     },
     {
         "id": "f000035",
         "sentence": "カーテンはよこはらが　くすぐつたく　なりました。",
-        "sentence_with_furigana": "カーテンはよこはらが　くすぐつたく　なりました。"
+        "sentence_with_furigana": "カーテンはよこはらが　くすぐつたく　なりました。",
+        "audio_begin": 120866,
+        "audio_end": 126299
     },
     {
         "id": "f000036",
         "sentence": "そして　とう／＼　がまんが　できなくなつて、",
-        "sentence_with_furigana": "そして　とう／＼　がまんが　できなくなつて、"
+        "sentence_with_furigana": "そして　とう／＼　がまんが　できなくなつて、",
+        "audio_begin": 126299,
+        "audio_end": 130674
     },
     {
         "id": "f000037",
         "sentence": "「あゝ、",
-        "sentence_with_furigana": "「あゝ、"
+        "sentence_with_furigana": "「あゝ、",
+        "audio_begin": 130674,
+        "audio_end": 131440
     },
     {
         "id": "f000038",
         "sentence": "くすぐつたい。",
-        "sentence_with_furigana": "くすぐつたい。"
+        "sentence_with_furigana": "くすぐつたい。",
+        "audio_begin": 131440,
+        "audio_end": 132939
     },
     {
         "id": "f000039",
         "sentence": "」といつて、",
-        "sentence_with_furigana": "」といつて、"
+        "sentence_with_furigana": "」といつて、",
+        "audio_begin": 132939,
+        "audio_end": 134137
     },
     {
         "id": "f000040",
         "sentence": "お鍋を　いきなり　ふりとばしました。",
-        "sentence_with_furigana": "お鍋を　いきなり　ふりとばしました。"
+        "sentence_with_furigana": "お鍋を　いきなり　ふりとばしました。",
+        "audio_begin": 134137,
+        "audio_end": 138945
     },
     {
         "id": "f000041",
         "sentence": "お鍋は　からんころん、",
-        "sentence_with_furigana": "お鍋は　からんころん、"
+        "sentence_with_furigana": "お鍋は　からんころん、",
+        "audio_begin": 138945,
+        "audio_end": 141202
     },
     {
         "id": "f000042",
         "sentence": "からんころん、",
-        "sentence_with_furigana": "からんころん、"
+        "sentence_with_furigana": "からんころん、",
+        "audio_begin": 141202,
+        "audio_end": 143102
     },
     {
         "id": "f000043",
         "sentence": "ころ／＼、",
-        "sentence_with_furigana": "ころ／＼、"
+        "sentence_with_furigana": "ころ／＼、",
+        "audio_begin": 143102,
+        "audio_end": 144196
     },
     {
         "id": "f000044",
         "sentence": "ころ／＼と、",
-        "sentence_with_furigana": "ころ／＼と、"
+        "sentence_with_furigana": "ころ／＼と、",
+        "audio_begin": 144196,
+        "audio_end": 146071
     },
     {
         "id": "f000045",
         "sentence": "台所の　むかふの　はしまで、",
-        "sentence_with_furigana": "台所の　むかふの　はしまで、"
+        "sentence_with_furigana": "台所の　むかふの　はしまで、",
+        "audio_begin": 146071,
+        "audio_end": 148040
     },
     {
         "id": "f000046",
         "sentence": "ころがつて行きました。",
-        "sentence_with_furigana": "ころがつて行きました。"
+        "sentence_with_furigana": "ころがつて行きました。",
+        "audio_begin": 148040,
+        "audio_end": 151120
     },
     {
         "id": "f000047",
         "sentence": "その　かつかう　が、",
-        "sentence_with_furigana": "その　かつかう　が、"
+        "sentence_with_furigana": "その　かつかう　が、",
+        "audio_begin": 151120,
+        "audio_end": 152360
     },
     {
         "id": "f000048",
         "sentence": "とてもおかしかつたので、",
-        "sentence_with_furigana": "とてもおかしかつたので、"
+        "sentence_with_furigana": "とてもおかしかつたので、",
+        "audio_begin": 152360,
+        "audio_end": 154689
     },
     {
         "id": "f000049",
         "sentence": "カーテンは　「アハハハハハ」と　大わらひしました。",
-        "sentence_with_furigana": "カーテンは　「アハハハハハ」と　大わらひしました。"
+        "sentence_with_furigana": "カーテンは　「アハハハハハ」と　大わらひしました。",
+        "audio_begin": 154689,
+        "audio_end": 162353
     },
     {
         "id": "f000050",
         "sentence": "お皿は　わたしだつたら、",
-        "sentence_with_furigana": "お皿は　わたしだつたら、"
+        "sentence_with_furigana": "お皿は　わたしだつたら、",
+        "audio_begin": 162353,
+        "audio_end": 164627
     },
     {
         "id": "f000051",
         "sentence": "こな／″＼　に　こはれるところだつたのに、",
-        "sentence_with_furigana": "こな／″＼　に　こはれるところだつたのに、"
+        "sentence_with_furigana": "こな／″＼　に　こはれるところだつたのに、",
+        "audio_begin": 164627,
+        "audio_end": 167638
     },
     {
         "id": "f000052",
         "sentence": "「まあよかつた。",
-        "sentence_with_furigana": "「まあよかつた。"
+        "sentence_with_furigana": "「まあよかつた。",
+        "audio_begin": 167638,
+        "audio_end": 169400
     },
     {
         "id": "f000053",
         "sentence": "」と　むねを　なでおろしました。",
-        "sentence_with_furigana": "」と　むねを　なでおろしました。"
+        "sentence_with_furigana": "」と　むねを　なでおろしました。",
+        "audio_begin": 169400,
+        "audio_end": 174686
     },
     {
         "id": "f000054",
         "sentence": "お鍋は　もと／＼　たいへんな　はづかしがりやさんでしたから、",
-        "sentence_with_furigana": "お鍋は　もと／＼　たいへんな　はづかしがりやさんでしたから、"
+        "sentence_with_furigana": "お鍋は　もと／＼　たいへんな　はづかしがりやさんでしたから、",
+        "audio_begin": 174686,
+        "audio_end": 179329
     },
     {
         "id": "f000055",
         "sentence": "カーテン　に　わらはれたので、",
-        "sentence_with_furigana": "カーテン　に　わらはれたので、"
+        "sentence_with_furigana": "カーテン　に　わらはれたので、",
+        "audio_begin": 179329,
+        "audio_end": 181907
     },
     {
         "id": "f000056",
         "sentence": "かほを　まつかにして、",
-        "sentence_with_furigana": "かほを　まつかにして、"
+        "sentence_with_furigana": "かほを　まつかにして、",
+        "audio_begin": 181907,
+        "audio_end": 183825
     },
     {
         "id": "f000057",
         "sentence": "とだなの　中へ　かけこんだきり、",
-        "sentence_with_furigana": "とだなの　中へ　かけこんだきり、"
+        "sentence_with_furigana": "とだなの　中へ　かけこんだきり、",
+        "audio_begin": 183825,
+        "audio_end": 187040
     },
     {
         "id": "f000058",
         "sentence": "いくら、",
-        "sentence_with_furigana": "いくら、"
+        "sentence_with_furigana": "いくら、",
+        "audio_begin": 187040,
+        "audio_end": 187440
     },
     {
         "id": "f000059",
         "sentence": "カーテンと　お皿が、",
-        "sentence_with_furigana": "カーテンと　お皿が、"
+        "sentence_with_furigana": "カーテンと　お皿が、",
+        "audio_begin": 187440,
+        "audio_end": 188486
     },
     {
         "id": "f000060",
         "sentence": "よんでも　でてきません。",
-        "sentence_with_furigana": "よんでも　でてきません。"
+        "sentence_with_furigana": "よんでも　でてきません。",
+        "audio_begin": 188486,
+        "audio_end": 190152
     },
     {
         "id": "f000061",
         "sentence": "こんなわけで、",
-        "sentence_with_furigana": "こんなわけで、"
+        "sentence_with_furigana": "こんなわけで、",
+        "audio_begin": 192808,
+        "audio_end": 194683
     },
     {
         "id": "f000062",
         "sentence": "お鍋とお皿を　カーテンは　にげださないで、",
-        "sentence_with_furigana": "お鍋とお皿を　カーテンは　にげださないで、"
+        "sentence_with_furigana": "お鍋とお皿を　カーテンは　にげださないで、",
+        "audio_begin": 194683,
+        "audio_end": 199213
     },
     {
         "id": "f000063",
         "sentence": "いまでも　お台所で、",
-        "sentence_with_furigana": "いまでも　お台所で、"
+        "sentence_with_furigana": "いまでも　お台所で、",
+        "audio_begin": 199213,
+        "audio_end": 201114
     },
     {
         "id": "f000064",
         "sentence": "やくにたつてゐます。",
-        "sentence_with_furigana": "やくにたつてゐます。"
+        "sentence_with_furigana": "やくにたつてゐます。",
+        "audio_begin": 201114,
+        "audio_end": 204080
     },
     {
         "id": "f000065",
         "sentence": "もし　にげだしてゐたら、",
-        "sentence_with_furigana": "もし　にげだしてゐたら、"
+        "sentence_with_furigana": "もし　にげだしてゐたら、",
+        "audio_begin": 204080,
+        "audio_end": 206156
     },
     {
         "id": "f000066",
         "sentence": "くづやさんに　ひろはれて、",
-        "sentence_with_furigana": "くづやさんに　ひろはれて、"
+        "sentence_with_furigana": "くづやさんに　ひろはれて、",
+        "audio_begin": 206156,
+        "audio_end": 208552
     },
     {
         "id": "f000067",
         "sentence": "かなしい　みのうへに　なつてゐたでせう。",
-        "sentence_with_furigana": "かなしい　みのうへに　なつてゐたでせう。"
+        "sentence_with_furigana": "かなしい　みのうへに　なつてゐたでせう。",
+        "audio_begin": 208552,
+        "audio_end": 211500
     }
 ]

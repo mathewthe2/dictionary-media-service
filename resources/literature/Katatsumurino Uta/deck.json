@@ -1,0 +1,247 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 3028,
+        "audio_end": 6720
+    },
+    {
+        "id": "f000002",
+        "sentence": "カタツムリノ　ウタ",
+        "sentence_with_furigana": "カタツムリノ　ウタ",
+        "audio_begin": 6720,
+        "audio_end": 12120
+    },
+    {
+        "id": "f000003",
+        "sentence": "アル　アサ　王サマハ、",
+        "sentence_with_furigana": "アル　アサ　王サマハ、",
+        "audio_begin": 12120,
+        "audio_end": 15240
+    },
+    {
+        "id": "f000004",
+        "sentence": "石ノ　カベニ　一ピキノ　カタツムリヲ　ミツケマシタ。",
+        "sentence_with_furigana": "石ノ　カベニ　一ピキノ　カタツムリヲ　ミツケマシタ。",
+        "audio_begin": 15240,
+        "audio_end": 19600
+    },
+    {
+        "id": "f000005",
+        "sentence": "カタツムリガ　ツノヲ　フツテルノヲ　ミテ　ヰルト、",
+        "sentence_with_furigana": "カタツムリガ　ツノヲ　フツテルノヲ　ミテ　ヰルト、",
+        "audio_begin": 23000,
+        "audio_end": 28600
+    },
+    {
+        "id": "f000006",
+        "sentence": "王サマハ、",
+        "sentence_with_furigana": "王サマハ、",
+        "audio_begin": 28600,
+        "audio_end": 29600
+    },
+    {
+        "id": "f000007",
+        "sentence": "子ドモノ　ジブン、",
+        "sentence_with_furigana": "子ドモノ　ジブン、",
+        "audio_begin": 29600,
+        "audio_end": 32080
+    },
+    {
+        "id": "f000008",
+        "sentence": "何ダカ、",
+        "sentence_with_furigana": "何ダカ、",
+        "audio_begin": 32080,
+        "audio_end": 33000
+    },
+    {
+        "id": "f000009",
+        "sentence": "カタツムリノ　ウタヲ　ヨク　ウタツタ　コトヲ　オモヒダシマシタ。",
+        "sentence_with_furigana": "カタツムリノ　ウタヲ　ヨク　ウタツタ　コトヲ　オモヒダシマシタ。",
+        "audio_begin": 33000,
+        "audio_end": 42094
+    },
+    {
+        "id": "f000010",
+        "sentence": "「デンデン　蟲々　ツノ　出セヤ　ダツタカナア」ト、",
+        "sentence_with_furigana": "「デンデン　蟲々　ツノ　出セヤ　ダツタカナア」ト、",
+        "audio_begin": 42094,
+        "audio_end": 54360
+    },
+    {
+        "id": "f000011",
+        "sentence": "イロイロ　カンガヘタガ、",
+        "sentence_with_furigana": "イロイロ　カンガヘタガ、",
+        "audio_begin": 54360,
+        "audio_end": 57972
+    },
+    {
+        "id": "f000012",
+        "sentence": "チツトモ　ソノ　ウタハ　オモヒダセマセンデシタ。",
+        "sentence_with_furigana": "チツトモ　ソノ　ウタハ　オモヒダセマセンデシタ。",
+        "audio_begin": 57972,
+        "audio_end": 64800
+    },
+    {
+        "id": "f000013",
+        "sentence": "「オ前タチ、",
+        "sentence_with_furigana": "「オ前タチ、",
+        "audio_begin": 64800,
+        "audio_end": 66920
+    },
+    {
+        "id": "f000014",
+        "sentence": "デンデンムシノ　ウタ　シラナイカ」ト、",
+        "sentence_with_furigana": "デンデンムシノ　ウタ　シラナイカ」ト、",
+        "audio_begin": 66920,
+        "audio_end": 72720
+    },
+    {
+        "id": "f000015",
+        "sentence": "オソバノ　モノニ　キイテモ、",
+        "sentence_with_furigana": "オソバノ　モノニ　キイテモ、",
+        "audio_begin": 72720,
+        "audio_end": 75215
+    },
+    {
+        "id": "f000016",
+        "sentence": "「シリマセン」ト　イツテ　クビヲ　カシゲテ　ヰマス。",
+        "sentence_with_furigana": "「シリマセン」ト　イツテ　クビヲ　カシゲテ　ヰマス。",
+        "audio_begin": 75215,
+        "audio_end": 81600
+    },
+    {
+        "id": "f000017",
+        "sentence": "王サマハ、",
+        "sentence_with_furigana": "王サマハ、",
+        "audio_begin": 84400,
+        "audio_end": 86440
+    },
+    {
+        "id": "f000018",
+        "sentence": "「デンデン　ムシムシ」ト　口ノ　中デ　イヒナガラ、",
+        "sentence_with_furigana": "「デンデン　ムシムシ」ト　 口[クチ]ノ　中デ　イヒナガラ、",
+        "audio_begin": 86440,
+        "audio_end": 96040
+    },
+    {
+        "id": "f000019",
+        "sentence": "ニハヲ　グルリト　マハツテ　キマシタ。",
+        "sentence_with_furigana": "ニハヲ　グルリト　マハツテ　キマシタ。",
+        "audio_begin": 96040,
+        "audio_end": 101040
+    },
+    {
+        "id": "f000020",
+        "sentence": "ソレデモ、",
+        "sentence_with_furigana": "ソレデモ、",
+        "audio_begin": 101040,
+        "audio_end": 101800
+    },
+    {
+        "id": "f000021",
+        "sentence": "オモヒダセナイノデ、",
+        "sentence_with_furigana": "オモヒダセナイノデ、",
+        "audio_begin": 101800,
+        "audio_end": 104119
+    },
+    {
+        "id": "f000022",
+        "sentence": "トウトウ　オコツテ、",
+        "sentence_with_furigana": "トウトウ　オコツテ、",
+        "audio_begin": 104119,
+        "audio_end": 107023
+    },
+    {
+        "id": "f000023",
+        "sentence": "カタツムリヲ　ツブシテ　シマハウト　シタ　トキ、",
+        "sentence_with_furigana": "カタツムリヲ　ツブシテ　シマハウト　シタ　トキ、",
+        "audio_begin": 107023,
+        "audio_end": 111640
+    },
+    {
+        "id": "f000024",
+        "sentence": "フツト　オウサマノ　ココロニ、",
+        "sentence_with_furigana": "フツト　オウサマノ　ココロニ、",
+        "audio_begin": 111640,
+        "audio_end": 116800
+    },
+    {
+        "id": "f000025",
+        "sentence": "「デンデン　ムシムシ　ツノ　フレヨ、",
+        "sentence_with_furigana": "「デンデン　ムシムシ　ツノ　フレヨ、",
+        "audio_begin": 116800,
+        "audio_end": 124280
+    },
+    {
+        "id": "f000026",
+        "sentence": "夜アケニ、",
+        "sentence_with_furigana": "夜アケニ、",
+        "audio_begin": 124280,
+        "audio_end": 126040
+    },
+    {
+        "id": "f000027",
+        "sentence": "ヌストガ　ヤツテ　クル」ト　イフ　ウタガ、",
+        "sentence_with_furigana": "ヌストガ　ヤツテ　クル」ト　イフ　ウタガ、",
+        "audio_begin": 126040,
+        "audio_end": 132360
+    },
+    {
+        "id": "f000028",
+        "sentence": "ウカビマシタ。",
+        "sentence_with_furigana": "ウカビマシタ。",
+        "audio_begin": 132360,
+        "audio_end": 133280
+    },
+    {
+        "id": "f000029",
+        "sentence": "ソレト　一シヨニ、",
+        "sentence_with_furigana": "ソレト　一シヨニ、",
+        "audio_begin": 135480,
+        "audio_end": 137400
+    },
+    {
+        "id": "f000030",
+        "sentence": "ソノ　ウタヲ、",
+        "sentence_with_furigana": "ソノ　ウタヲ、",
+        "audio_begin": 137400,
+        "audio_end": 138560
+    },
+    {
+        "id": "f000031",
+        "sentence": "ヨク　ウタツテ　下サツタ、",
+        "sentence_with_furigana": "ヨク　ウタツテ　下サツタ、",
+        "audio_begin": 138560,
+        "audio_end": 142080
+    },
+    {
+        "id": "f000032",
+        "sentence": "ヤサシイ　オ母サンノ　コトモ　オモヒダシマシタ。",
+        "sentence_with_furigana": "ヤサシイ　オ母サンノ　コトモ　オモヒダシマシタ。",
+        "audio_begin": 142080,
+        "audio_end": 149831
+    },
+    {
+        "id": "f000033",
+        "sentence": "ソコデ　王サマハ、",
+        "sentence_with_furigana": "ソコデ　王サマハ、",
+        "audio_begin": 149831,
+        "audio_end": 152002
+    },
+    {
+        "id": "f000034",
+        "sentence": "カタツムリヲ　ツブサナイデ、",
+        "sentence_with_furigana": "カタツムリヲ　ツブサナイデ、",
+        "audio_begin": 152002,
+        "audio_end": 155440
+    },
+    {
+        "id": "f000035",
+        "sentence": "青イ　ハノ　上ニ　ソツト　ノセテ　ヤリマシタ。",
+        "sentence_with_furigana": "青イ　ハノ　上ニ　ソツト　ノセテ　ヤリマシタ。",
+        "audio_begin": 155440,
+        "audio_end": 163280
+    }
+]

@@ -2,776 +2,1086 @@
     {
         "id": "f000001",
         "sentence": "夢野久作　作",
-        "sentence_with_furigana": "夢野久作　作"
+        "sentence_with_furigana": "夢野久作　作",
+        "audio_begin": 0,
+        "audio_end": 6219
     },
     {
         "id": "f000002",
         "sentence": "虻のおれい",
-        "sentence_with_furigana": "虻のおれい"
+        "sentence_with_furigana": "虻のおれい",
+        "audio_begin": 6219,
+        "audio_end": 7760
     },
     {
         "id": "f000003",
         "sentence": "チエ子さんは今年六つになる可愛いお嬢さんでした。",
-        "sentence_with_furigana": "チエ子さんは今年六つになる可愛いお嬢さんでした。"
+        "sentence_with_furigana": "チエ子さんは今年六つになる可愛いお嬢さんでした。",
+        "audio_begin": 10270,
+        "audio_end": 18317
     },
     {
         "id": "f000004",
         "sentence": "ある日裏のお庭で一人でおとなしく遊んでいますと、",
-        "sentence_with_furigana": "ある日裏のお庭で一人でおとなしく遊んでいますと、"
+        "sentence_with_furigana": "ある日裏のお庭で一人でおとなしく遊んでいますと、",
+        "audio_begin": 18317,
+        "audio_end": 24339
     },
     {
         "id": "f000005",
         "sentence": "「ブルブルブルブル」",
-        "sentence_with_furigana": "「ブルブルブルブル」"
+        "sentence_with_furigana": "「ブルブルブルブル」",
+        "audio_begin": 24339,
+        "audio_end": 29214
     },
     {
         "id": "f000006",
         "sentence": "と変な歌のような声がきこえました。",
-        "sentence_with_furigana": "と変な歌のような声がきこえました。"
+        "sentence_with_furigana": "と変な歌のような声がきこえました。",
+        "audio_begin": 29214,
+        "audio_end": 34360
     },
     {
         "id": "f000007",
         "sentence": "何だろうとそこいらを見まわしますと、",
-        "sentence_with_furigana": "何だろうとそこいらを見まわしますと、"
+        "sentence_with_furigana": "何だろうとそこいらを見まわしますと、",
+        "audio_begin": 34360,
+        "audio_end": 37560
     },
     {
         "id": "f000008",
         "sentence": "そこの白壁によせかけてあったサイダーの瓶に一匹の虻が落ち込んで、",
-        "sentence_with_furigana": "そこの白壁によせかけてあったサイダーの 瓶[ビン]に一匹の 虻[あぶ]が落ち込んで、"
+        "sentence_with_furigana": "そこの白壁によせかけてあったサイダーの 瓶[ビン]に一匹の 虻[あぶ]が落ち込んで、",
+        "audio_begin": 37560,
+        "audio_end": 44000
     },
     {
         "id": "f000009",
         "sentence": "ブルンブルンと狂いまわりながら、",
-        "sentence_with_furigana": "ブルンブルンと狂いまわりながら、"
+        "sentence_with_furigana": "ブルンブルンと狂いまわりながら、",
+        "audio_begin": 44000,
+        "audio_end": 47926
     },
     {
         "id": "f000010",
         "sentence": "「ドウゾ助けて下さい。",
-        "sentence_with_furigana": "「ドウゾ助けて下さい。"
+        "sentence_with_furigana": "「ドウゾ助けて下さい。",
+        "audio_begin": 47926,
+        "audio_end": 52160
     },
     {
         "id": "f000011",
         "sentence": "ドウゾ助けて下さい」",
-        "sentence_with_furigana": "ドウゾ助けて下さい」"
+        "sentence_with_furigana": "ドウゾ助けて下さい」",
+        "audio_begin": 52160,
+        "audio_end": 54480
     },
     {
         "id": "f000012",
         "sentence": "と言っています。",
-        "sentence_with_furigana": "と言っています。"
+        "sentence_with_furigana": "と言っています。",
+        "audio_begin": 54480,
+        "audio_end": 56280
     },
     {
         "id": "f000013",
         "sentence": "チエ子さんはすぐに走って行ってその瓶を取り上げて、",
-        "sentence_with_furigana": "チエ子さんはすぐに走って行ってその瓶を取り上げて、"
+        "sentence_with_furigana": "チエ子さんはすぐに走って行ってその瓶を取り上げて、",
+        "audio_begin": 58280,
+        "audio_end": 62766
     },
     {
         "id": "f000014",
         "sentence": "口のところからのぞきながら、",
-        "sentence_with_furigana": "口のところからのぞきながら、"
+        "sentence_with_furigana": "口のところからのぞきながら、",
+        "audio_begin": 62766,
+        "audio_end": 65884
     },
     {
         "id": "f000015",
         "sentence": "「虻さん虻さん、",
-        "sentence_with_furigana": "「虻さん虻さん、"
+        "sentence_with_furigana": "「虻さん虻さん、",
+        "audio_begin": 65884,
+        "audio_end": 69343
     },
     {
         "id": "f000016",
         "sentence": "どうしたの」",
-        "sentence_with_furigana": "どうしたの」"
+        "sentence_with_furigana": "どうしたの」",
+        "audio_begin": 69343,
+        "audio_end": 70965
     },
     {
         "id": "f000017",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 70965,
+        "audio_end": 73480
     },
     {
         "id": "f000018",
         "sentence": "虻は狂いまわってビンのガラスのアッチコッチへぶつかりながら、",
-        "sentence_with_furigana": "虻は狂いまわってビンのガラスのアッチコッチへぶつかりながら、"
+        "sentence_with_furigana": "虻は狂いまわってビンのガラスのアッチコッチへぶつかりながら、",
+        "audio_begin": 73480,
+        "audio_end": 79066
     },
     {
         "id": "f000019",
         "sentence": "「どうしてか、",
-        "sentence_with_furigana": "「どうしてか、"
+        "sentence_with_furigana": "「どうしてか、",
+        "audio_begin": 79066,
+        "audio_end": 80880
     },
     {
         "id": "f000020",
         "sentence": "落ち込みましたところが、",
-        "sentence_with_furigana": "落ち込みましたところが、"
+        "sentence_with_furigana": "落ち込みましたところが、",
+        "audio_begin": 80880,
+        "audio_end": 82840
     },
     {
         "id": "f000021",
         "sentence": "出て行かれなくなりました。",
-        "sentence_with_furigana": "出て行かれなくなりました。"
+        "sentence_with_furigana": "出て行かれなくなりました。",
+        "audio_begin": 82840,
+        "audio_end": 85841
     },
     {
         "id": "f000022",
         "sentence": "助けて下さい、",
-        "sentence_with_furigana": "助けて下さい、"
+        "sentence_with_furigana": "助けて下さい、",
+        "audio_begin": 85841,
+        "audio_end": 87705
     },
     {
         "id": "f000023",
         "sentence": "助けて下さい」",
-        "sentence_with_furigana": "助けて下さい」"
+        "sentence_with_furigana": "助けて下さい」",
+        "audio_begin": 87705,
+        "audio_end": 89578
     },
     {
         "id": "f000024",
         "sentence": "と泣いて狂いまわります。",
-        "sentence_with_furigana": "と泣いて狂いまわります。"
+        "sentence_with_furigana": "と泣いて狂いまわります。",
+        "audio_begin": 89578,
+        "audio_end": 93665
     },
     {
         "id": "f000025",
         "sentence": "チエ子さんは笑い出しました。",
-        "sentence_with_furigana": "チエ子さんは笑い出しました。"
+        "sentence_with_furigana": "チエ子さんは笑い出しました。",
+        "audio_begin": 93665,
+        "audio_end": 97120
     },
     {
         "id": "f000026",
         "sentence": "「虻さん、",
-        "sentence_with_furigana": "「虻さん、"
+        "sentence_with_furigana": "「虻さん、",
+        "audio_begin": 97120,
+        "audio_end": 98840
     },
     {
         "id": "f000027",
         "sentence": "お前はバカだねえ。",
-        "sentence_with_furigana": "お前はバカだねえ。"
+        "sentence_with_furigana": "お前はバカだねえ。",
+        "audio_begin": 98840,
+        "audio_end": 101440
     },
     {
         "id": "f000028",
         "sentence": "上の方に穴があるじゃないか。",
-        "sentence_with_furigana": "上の方に穴があるじゃないか。"
+        "sentence_with_furigana": "上の方に穴があるじゃないか。",
+        "audio_begin": 101440,
+        "audio_end": 104687
     },
     {
         "id": "f000029",
         "sentence": "そう、",
-        "sentence_with_furigana": "そう、"
+        "sentence_with_furigana": "そう、",
+        "audio_begin": 104687,
+        "audio_end": 106058
     },
     {
         "id": "f000030",
         "sentence": "あたしの声が聞こえるでしょう。",
-        "sentence_with_furigana": "あたしの声が聞こえるでしょう。"
+        "sentence_with_furigana": "あたしの声が聞こえるでしょう。",
+        "audio_begin": 106058,
+        "audio_end": 109517
     },
     {
         "id": "f000031",
         "sentence": "その方へ来れば逃げられるよ。",
-        "sentence_with_furigana": "その方へ来れば逃げられるよ。"
+        "sentence_with_furigana": "その方へ来れば逃げられるよ。",
+        "audio_begin": 109517,
+        "audio_end": 112985
     },
     {
         "id": "f000032",
         "sentence": "横の方へ行ってもダメだよ。",
-        "sentence_with_furigana": "横の方へ行ってもダメだよ。"
+        "sentence_with_furigana": "横の方へ行ってもダメだよ。",
+        "audio_begin": 112985,
+        "audio_end": 116000
     },
     {
         "id": "f000033",
         "sentence": "ガラスがあるから」",
-        "sentence_with_furigana": "ガラスがあるから」"
+        "sentence_with_furigana": "ガラスがあるから」",
+        "audio_begin": 116000,
+        "audio_end": 117986
     },
     {
         "id": "f000034",
         "sentence": "と言いましたが、",
-        "sentence_with_furigana": "と言いましたが、"
+        "sentence_with_furigana": "と言いましたが、",
+        "audio_begin": 117986,
+        "audio_end": 119680
     },
     {
         "id": "f000035",
         "sentence": "虻はもう夢中になって、",
-        "sentence_with_furigana": "虻はもう夢中になって、"
+        "sentence_with_furigana": "虻はもう夢中になって、",
+        "audio_begin": 119680,
+        "audio_end": 122341
     },
     {
         "id": "f000036",
         "sentence": "「どこですか、",
-        "sentence_with_furigana": "「どこですか、"
+        "sentence_with_furigana": "「どこですか、",
+        "audio_begin": 122341,
+        "audio_end": 124200
     },
     {
         "id": "f000037",
         "sentence": "どこですか」",
-        "sentence_with_furigana": "どこですか」"
+        "sentence_with_furigana": "どこですか」",
+        "audio_begin": 124200,
+        "audio_end": 125719
     },
     {
         "id": "f000038",
         "sentence": "と狂いまわるばかりです。",
-        "sentence_with_furigana": "と狂いまわるばかりです。"
+        "sentence_with_furigana": "と狂いまわるばかりです。",
+        "audio_begin": 125719,
+        "audio_end": 127951
     },
     {
         "id": "f000039",
         "sentence": "チエ子さんは虻が可哀そうになりました。",
-        "sentence_with_furigana": "チエ子さんは虻が可哀そうになりました。"
+        "sentence_with_furigana": "チエ子さんは虻が可哀そうになりました。",
+        "audio_begin": 129400,
+        "audio_end": 133426
     },
     {
         "id": "f000040",
         "sentence": "どうかして助けてやりたいと思って、",
-        "sentence_with_furigana": "どうかして助けてやりたいと思って、"
+        "sentence_with_furigana": "どうかして助けてやりたいと思って、",
+        "audio_begin": 133426,
+        "audio_end": 136480
     },
     {
         "id": "f000041",
         "sentence": "そこいらに落ちていた棒切れを拾って上から突込んで上の方へ追いやろうとしましたが、",
-        "sentence_with_furigana": "そこいらに落ちていた棒切れを拾って上から突込んで上の方へ追いやろうとしましたが、"
+        "sentence_with_furigana": "そこいらに落ちていた棒切れを拾って上から突込んで上の方へ追いやろうとしましたが、",
+        "audio_begin": 136480,
+        "audio_end": 144600
     },
     {
         "id": "f000042",
         "sentence": "虻はどうしても上の方へ来ません。",
-        "sentence_with_furigana": "虻はどうしても上の方へ来ません。"
+        "sentence_with_furigana": "虻はどうしても上の方へ来ません。",
+        "audio_begin": 144600,
+        "audio_end": 148280
     },
     {
         "id": "f000043",
         "sentence": "うっかりすると棒にさわって殺されそうになります。",
-        "sentence_with_furigana": "うっかりすると棒にさわって殺されそうになります。"
+        "sentence_with_furigana": "うっかりすると棒にさわって殺されそうになります。",
+        "audio_begin": 148280,
+        "audio_end": 151800
     },
     {
         "id": "f000044",
         "sentence": "チエ子さんは困ってしまいました。",
-        "sentence_with_furigana": "チエ子さんは困ってしまいました。"
+        "sentence_with_furigana": "チエ子さんは困ってしまいました。",
+        "audio_begin": 154200,
+        "audio_end": 156560
     },
     {
         "id": "f000045",
         "sentence": "どうして助けてやろうかといろいろ考えました。",
-        "sentence_with_furigana": "どうして助けてやろうかといろいろ考えました。"
+        "sentence_with_furigana": "どうして助けてやろうかといろいろ考えました。",
+        "audio_begin": 158160,
+        "audio_end": 163480
     },
     {
         "id": "f000046",
         "sentence": "上から息を吹きこんだり、",
-        "sentence_with_furigana": "上から息を吹きこんだり、"
+        "sentence_with_furigana": "上から息を吹きこんだり、",
+        "audio_begin": 163480,
+        "audio_end": 165080
     },
     {
         "id": "f000047",
         "sentence": "瓶をさかさまにして打ちふったりしましたが、",
-        "sentence_with_furigana": "瓶をさかさまにして打ちふったりしましたが、"
+        "sentence_with_furigana": "瓶をさかさまにして打ちふったりしましたが、",
+        "audio_begin": 165080,
+        "audio_end": 170240
     },
     {
         "id": "f000048",
         "sentence": "虻はなかなか口の方へ来ません。",
-        "sentence_with_furigana": "虻はなかなか口の方へ来ません。"
+        "sentence_with_furigana": "虻はなかなか口の方へ来ません。",
+        "audio_begin": 170240,
+        "audio_end": 174160
     },
     {
         "id": "f000049",
         "sentence": "やっぱり横の方へ横の方へと飛んでは打かり、",
-        "sentence_with_furigana": "やっぱり横の方へ横の方へと飛んでは 打[ぶつ]かり、"
+        "sentence_with_furigana": "やっぱり横の方へ横の方へと飛んでは 打[ぶつ]かり、",
+        "audio_begin": 174160,
+        "audio_end": 178439
     },
     {
         "id": "f000050",
         "sentence": "打かっては飛んで、",
-        "sentence_with_furigana": "打かっては飛んで、"
+        "sentence_with_furigana": "打かっては飛んで、",
+        "audio_begin": 178439,
+        "audio_end": 180120
     },
     {
         "id": "f000051",
         "sentence": "死ぬ程苦しんでいます。",
-        "sentence_with_furigana": "死ぬ程苦しんでいます。"
+        "sentence_with_furigana": "死ぬ程苦しんでいます。",
+        "audio_begin": 180120,
+        "audio_end": 181840
     },
     {
         "id": "f000052",
         "sentence": "チエ子さんは又考えました。",
-        "sentence_with_furigana": "チエ子さんは又考えました。"
+        "sentence_with_furigana": "チエ子さんは又考えました。",
+        "audio_begin": 183840,
+        "audio_end": 187880
     },
     {
         "id": "f000053",
         "sentence": "どうかして助けたいと一所懸命に考えましたが、",
-        "sentence_with_furigana": "どうかして助けたいと一所懸命に考えましたが、"
+        "sentence_with_furigana": "どうかして助けたいと一所懸命に考えましたが、",
+        "audio_begin": 187880,
+        "audio_end": 192796
     },
     {
         "id": "f000054",
         "sentence": "とうとう一つうまいことを考え出しまして、",
-        "sentence_with_furigana": "とうとう一つうまいことを考え出しまして、"
+        "sentence_with_furigana": "とうとう一つうまいことを考え出しまして、",
+        "audio_begin": 192796,
+        "audio_end": 198160
     },
     {
         "id": "f000055",
         "sentence": "瓶を手に持ったままお台所の方へ走って行きました。",
-        "sentence_with_furigana": "瓶を手に持ったままお台所の方へ走って行きました。"
+        "sentence_with_furigana": "瓶を手に持ったままお台所の方へ走って行きました。",
+        "audio_begin": 198160,
+        "audio_end": 202320
     },
     {
         "id": "f000056",
         "sentence": "チエ子さんは台所に行って、",
-        "sentence_with_furigana": "チエ子さんは台所に行って、"
+        "sentence_with_furigana": "チエ子さんは台所に行って、",
+        "audio_begin": 204320,
+        "audio_end": 206720
     },
     {
         "id": "f000057",
         "sentence": "サイダーを飲むときの麦わらとコップを一つお母さまから貸していただきました。",
-        "sentence_with_furigana": "サイダーを飲むときの麦わらとコップを一つお母さまから貸していただきました。"
+        "sentence_with_furigana": "サイダーを飲むときの麦わらとコップを一つお母さまから貸していただきました。",
+        "audio_begin": 206720,
+        "audio_end": 213400
     },
     {
         "id": "f000058",
         "sentence": "そのコップに水を入れて麦わらで吸い取って、",
-        "sentence_with_furigana": "そのコップに水を入れて麦わらで吸い取って、"
+        "sentence_with_furigana": "そのコップに水を入れて麦わらで吸い取って、",
+        "audio_begin": 215000,
+        "audio_end": 219960
     },
     {
         "id": "f000059",
         "sentence": "虻がジッとしているときにすこしずつ瓶の中に吹き込んでやりますと、",
-        "sentence_with_furigana": "虻がジッとしているときにすこしずつ瓶の中に吹き込んでやりますと、"
+        "sentence_with_furigana": "虻がジッとしているときにすこしずつ瓶の中に吹き込んでやりますと、",
+        "audio_begin": 219960,
+        "audio_end": 227200
     },
     {
         "id": "f000060",
         "sentence": "虻は水がこわいので段々上の方へやって来ました。",
-        "sentence_with_furigana": "虻は水がこわいので段々上の方へやって来ました。"
+        "sentence_with_furigana": "虻は水がこわいので段々上の方へやって来ました。",
+        "audio_begin": 227200,
+        "audio_end": 232853
     },
     {
         "id": "f000061",
         "sentence": "チエ子さんは喜んでもう一いき水を吹いてみますと、",
-        "sentence_with_furigana": "チエ子さんは喜んでもう一いき水を吹いてみますと、"
+        "sentence_with_furigana": "チエ子さんは喜んでもう一いき水を吹いてみますと、",
+        "audio_begin": 232853,
+        "audio_end": 237880
     },
     {
         "id": "f000062",
         "sentence": "どうしたものか虻は又あわて出してブルブルと飛ぶ拍子に水の中へ落ち込んでしまいました。",
-        "sentence_with_furigana": "どうしたものか虻は又あわて出してブルブルと飛ぶ拍子に水の中へ落ち込んでしまいました。"
+        "sentence_with_furigana": "どうしたものか虻は又あわて出してブルブルと飛ぶ拍子に水の中へ落ち込んでしまいました。",
+        "audio_begin": 237880,
+        "audio_end": 244720
     },
     {
         "id": "f000063",
         "sentence": "チエ子さんはあわてて瓶をさかさまにしますと、",
-        "sentence_with_furigana": "チエ子さんはあわてて瓶をさかさまにしますと、"
+        "sentence_with_furigana": "チエ子さんはあわてて瓶をさかさまにしますと、",
+        "audio_begin": 246320,
+        "audio_end": 249480
     },
     {
         "id": "f000064",
         "sentence": "水と一諸に虻も流れ出て、",
-        "sentence_with_furigana": "水と一諸に虻も流れ出て、"
+        "sentence_with_furigana": "水と一諸に虻も流れ出て、",
+        "audio_begin": 249480,
+        "audio_end": 252760
     },
     {
         "id": "f000065",
         "sentence": "ビショビショに濡れた羽根を引きずりながら苦しそうに地べたの上をはい出しましたが、",
-        "sentence_with_furigana": "ビショビショに 濡[ぬ]れた羽根を引きずりながら苦しそうに地べたの上をはい出しましたが、"
+        "sentence_with_furigana": "ビショビショに 濡[ぬ]れた羽根を引きずりながら苦しそうに地べたの上をはい出しましたが、",
+        "audio_begin": 252760,
+        "audio_end": 259360
     },
     {
         "id": "f000066",
         "sentence": "やがて水のないところへ来て羽根をブルブルとふるわしたと思うと、",
-        "sentence_with_furigana": "やがて水のないところへ来て羽根をブルブルとふるわしたと思うと、"
+        "sentence_with_furigana": "やがて水のないところへ来て羽根をブルブルとふるわしたと思うと、",
+        "audio_begin": 259360,
+        "audio_end": 265720
     },
     {
         "id": "f000067",
         "sentence": "「ありがとう御座います。",
-        "sentence_with_furigana": "「ありがとう御座います。"
+        "sentence_with_furigana": "「ありがとう御座います。",
+        "audio_begin": 265720,
+        "audio_end": 267462
     },
     {
         "id": "f000068",
         "sentence": "チエ子さん。",
-        "sentence_with_furigana": "チエ子さん。"
+        "sentence_with_furigana": "チエ子さん。",
+        "audio_begin": 267462,
+        "audio_end": 269075
     },
     {
         "id": "f000069",
         "sentence": "このおれいはいつかきっといたします」",
-        "sentence_with_furigana": "このおれいはいつかきっといたします」"
+        "sentence_with_furigana": "このおれいはいつかきっといたします」",
+        "audio_begin": 269075,
+        "audio_end": 274434
     },
     {
         "id": "f000070",
         "sentence": "と言ううちにブーンと飛んで行きました。",
-        "sentence_with_furigana": "と言ううちにブーンと飛んで行きました。"
+        "sentence_with_furigana": "と言ううちにブーンと飛んで行きました。",
+        "audio_begin": 274434,
+        "audio_end": 278180
     },
     {
         "id": "f000071",
         "sentence": "「お母さん、",
-        "sentence_with_furigana": "「お母さん、"
+        "sentence_with_furigana": "「お母さん、",
+        "audio_begin": 280280,
+        "audio_end": 281960
     },
     {
         "id": "f000072",
         "sentence": "お母さん。",
-        "sentence_with_furigana": "お母さん。"
+        "sentence_with_furigana": "お母さん。",
+        "audio_begin": 281960,
+        "audio_end": 283601
     },
     {
         "id": "f000073",
         "sentence": "チエ子は虻を助けました。",
-        "sentence_with_furigana": "チエ子は虻を助けました。"
+        "sentence_with_furigana": "チエ子は虻を助けました。",
+        "audio_begin": 283601,
+        "audio_end": 287571
     },
     {
         "id": "f000074",
         "sentence": "サイダーの瓶の中に落ちていたのを水を入れて外に出してやりました」",
-        "sentence_with_furigana": "サイダーの瓶の中に落ちていたのを水を入れて外に出してやりました」"
+        "sentence_with_furigana": "サイダーの瓶の中に落ちていたのを水を入れて外に出してやりました」",
+        "audio_begin": 287571,
+        "audio_end": 294866
     },
     {
         "id": "f000075",
         "sentence": "とチエ子さんは大喜びをしながらお母さんにお話しました。",
-        "sentence_with_furigana": "とチエ子さんは大喜びをしながらお母さんにお話しました。"
+        "sentence_with_furigana": "とチエ子さんは大喜びをしながらお母さんにお話しました。",
+        "audio_begin": 294866,
+        "audio_end": 301400
     },
     {
         "id": "f000076",
         "sentence": "「そう。",
-        "sentence_with_furigana": "「そう。"
+        "sentence_with_furigana": "「そう。",
+        "audio_begin": 301400,
+        "audio_end": 302895
     },
     {
         "id": "f000077",
         "sentence": "チエ子さんはお利口ね。",
-        "sentence_with_furigana": "チエ子さんはお利口ね。"
+        "sentence_with_furigana": "チエ子さんはお利口ね。",
+        "audio_begin": 302895,
+        "audio_end": 305924
     },
     {
         "id": "f000078",
         "sentence": "けれども虻は刺しますから、",
-        "sentence_with_furigana": "けれども虻は刺しますから、"
+        "sentence_with_furigana": "けれども虻は刺しますから、",
+        "audio_begin": 305924,
+        "audio_end": 308846
     },
     {
         "id": "f000079",
         "sentence": "これからいじらないようになさい」",
-        "sentence_with_furigana": "これからいじらないようになさい」"
+        "sentence_with_furigana": "これからいじらないようになさい」",
+        "audio_begin": 308846,
+        "audio_end": 312493
     },
     {
         "id": "f000080",
         "sentence": "と言われました。",
-        "sentence_with_furigana": "と言われました。"
+        "sentence_with_furigana": "と言われました。",
+        "audio_begin": 312493,
+        "audio_end": 315600
     },
     {
         "id": "f000081",
         "sentence": "「いいえ。",
-        "sentence_with_furigana": "「いいえ。"
+        "sentence_with_furigana": "「いいえ。",
+        "audio_begin": 315600,
+        "audio_end": 316640
     },
     {
         "id": "f000082",
         "sentence": "お母さん。",
-        "sentence_with_furigana": "お母さん。"
+        "sentence_with_furigana": "お母さん。",
+        "audio_begin": 316640,
+        "audio_end": 318960
     },
     {
         "id": "f000083",
         "sentence": "あの虻は、",
-        "sentence_with_furigana": "あの虻は、"
+        "sentence_with_furigana": "あの虻は、",
+        "audio_begin": 318960,
+        "audio_end": 320000
     },
     {
         "id": "f000084",
         "sentence": "チエ子にありがとうってお礼を言って逃げて行きましたのよ。",
-        "sentence_with_furigana": "チエ子にありがとうってお礼を言って逃げて行きましたのよ。"
+        "sentence_with_furigana": "チエ子にありがとうってお礼を言って逃げて行きましたのよ。",
+        "audio_begin": 320000,
+        "audio_end": 325360
     },
     {
         "id": "f000085",
         "sentence": "ですからもうあたしは刺さないのよ」",
-        "sentence_with_furigana": "ですからもうあたしは刺さないのよ」"
+        "sentence_with_furigana": "ですからもうあたしは刺さないのよ」",
+        "audio_begin": 325360,
+        "audio_end": 328830
     },
     {
         "id": "f000086",
         "sentence": "とまじめになって言いました。",
-        "sentence_with_furigana": "とまじめになって言いました。"
+        "sentence_with_furigana": "とまじめになって言いました。",
+        "audio_begin": 328830,
+        "audio_end": 332680
     },
     {
         "id": "f000087",
         "sentence": "お母さんはこれをおききになって大そうお笑いになりました。",
-        "sentence_with_furigana": "お母さんはこれをおききになって大そうお笑いになりました。"
+        "sentence_with_furigana": "お母さんはこれをおききになって大そうお笑いになりました。",
+        "audio_begin": 332680,
+        "audio_end": 337000
     },
     {
         "id": "f000088",
         "sentence": "チエ子さんは虻とお話したことをいつまでも本当にしておりました。",
-        "sentence_with_furigana": "チエ子さんは虻とお話したことをいつまでも本当にしておりました。"
+        "sentence_with_furigana": "チエ子さんは虻とお話したことをいつまでも本当にしておりました。",
+        "audio_begin": 339000,
+        "audio_end": 345400
     },
     {
         "id": "f000089",
         "sentence": "それからいく日も経ってから、",
-        "sentence_with_furigana": "それからいく日も 経[た]ってから、"
+        "sentence_with_furigana": "それからいく日も 経[た]ってから、",
+        "audio_begin": 348600,
+        "audio_end": 350400
     },
     {
         "id": "f000090",
         "sentence": "チエ子さんがお座敷でうたたねをしていた間にお母さまはちょっとお買物に行かれました。",
-        "sentence_with_furigana": "チエ子さんがお座敷でうたたねをしていた間にお母さまはちょっとお買物に行かれました。"
+        "sentence_with_furigana": "チエ子さんがお座敷でうたたねをしていた間にお母さまはちょっとお買物に行かれました。",
+        "audio_begin": 350400,
+        "audio_end": 358904
     },
     {
         "id": "f000091",
         "sentence": "その留守の事でした。",
-        "sentence_with_furigana": "その留守の事でした。"
+        "sentence_with_furigana": "その留守の事でした。",
+        "audio_begin": 358904,
+        "audio_end": 364040
     },
     {
         "id": "f000092",
         "sentence": "お台所の方から一人の泥棒が入って来まして、",
-        "sentence_with_furigana": "お台所の方から一人の泥棒が入って来まして、"
+        "sentence_with_furigana": "お台所の方から一人の泥棒が入って来まして、",
+        "audio_begin": 364040,
+        "audio_end": 369174
     },
     {
         "id": "f000093",
         "sentence": "チエ子さんが寝ているのを見つけますと、",
-        "sentence_with_furigana": "チエ子さんが寝ているのを見つけますと、"
+        "sentence_with_furigana": "チエ子さんが寝ているのを見つけますと、",
+        "audio_begin": 369174,
+        "audio_end": 371760
     },
     {
         "id": "f000094",
         "sentence": "つかつかと近寄ってゆすぶり起しました。",
-        "sentence_with_furigana": "つかつかと近寄ってゆすぶり起しました。"
+        "sentence_with_furigana": "つかつかと近寄ってゆすぶり起しました。",
+        "audio_begin": 371760,
+        "audio_end": 376289
     },
     {
         "id": "f000095",
         "sentence": "チエ子さんはビックリして眼をさましますと、",
-        "sentence_with_furigana": "チエ子さんはビックリして眼をさましますと、"
+        "sentence_with_furigana": "チエ子さんはビックリして眼をさましますと、",
+        "audio_begin": 376289,
+        "audio_end": 379480
     },
     {
         "id": "f000096",
         "sentence": "眼の前に気味の悪い顔をした大きな男がニヤニヤ笑って立っております。",
-        "sentence_with_furigana": "眼の前に気味の悪い顔をした大きな男がニヤニヤ笑って立っております。"
+        "sentence_with_furigana": "眼の前に気味の悪い顔をした大きな男がニヤニヤ笑って立っております。",
+        "audio_begin": 379480,
+        "audio_end": 386320
     },
     {
         "id": "f000097",
         "sentence": "チエ子さんは眼をこすりながら、",
-        "sentence_with_furigana": "チエ子さんは眼をこすりながら、"
+        "sentence_with_furigana": "チエ子さんは眼をこすりながら、",
+        "audio_begin": 388320,
+        "audio_end": 391280
     },
     {
         "id": "f000098",
         "sentence": "「おじさんだあれ」",
-        "sentence_with_furigana": "「おじさんだあれ」"
+        "sentence_with_furigana": "「おじさんだあれ」",
+        "audio_begin": 391280,
+        "audio_end": 393997
     },
     {
         "id": "f000099",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 393997,
+        "audio_end": 397520
     },
     {
         "id": "f000100",
         "sentence": "泥棒はやっぱりニヤニヤ笑いながら、",
-        "sentence_with_furigana": "泥棒はやっぱりニヤニヤ笑いながら、"
+        "sentence_with_furigana": "泥棒はやっぱりニヤニヤ笑いながら、",
+        "audio_begin": 397520,
+        "audio_end": 399880
     },
     {
         "id": "f000101",
         "sentence": "「可愛いお嬢さんだね。",
-        "sentence_with_furigana": "「可愛いお嬢さんだね。"
+        "sentence_with_furigana": "「可愛いお嬢さんだね。",
+        "audio_begin": 401580,
+        "audio_end": 403280
     },
     {
         "id": "f000102",
         "sentence": "いい子だからお金はどこに仕舞ってあるか教えておくれ」",
-        "sentence_with_furigana": "いい子だからお金はどこに仕舞ってあるか教えておくれ」"
+        "sentence_with_furigana": "いい子だからお金はどこに仕舞ってあるか教えておくれ」",
+        "audio_begin": 403280,
+        "audio_end": 411472
     },
     {
         "id": "f000103",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 411472,
+        "audio_end": 413533
     },
     {
         "id": "f000104",
         "sentence": "チエ子さんは眼をパチパチさせて泣き出しそうな顔をしながら、",
-        "sentence_with_furigana": "チエ子さんは眼をパチパチさせて泣き出しそうな顔をしながら、"
+        "sentence_with_furigana": "チエ子さんは眼をパチパチさせて泣き出しそうな顔をしながら、",
+        "audio_begin": 413533,
+        "audio_end": 419560
     },
     {
         "id": "f000105",
         "sentence": "「あたし知らない。",
-        "sentence_with_furigana": "「あたし知らない。"
+        "sentence_with_furigana": "「あたし知らない。",
+        "audio_begin": 419560,
+        "audio_end": 422080
     },
     {
         "id": "f000106",
         "sentence": "おじさんはどこの人？」",
-        "sentence_with_furigana": "おじさんはどこの人？」"
+        "sentence_with_furigana": "おじさんはどこの人？」",
+        "audio_begin": 422080,
+        "audio_end": 424735
     },
     {
         "id": "f000107",
         "sentence": "と尋ねました。",
-        "sentence_with_furigana": "と尋ねました。"
+        "sentence_with_furigana": "と尋ねました。",
+        "audio_begin": 424735,
+        "audio_end": 426419
     },
     {
         "id": "f000108",
         "sentence": "泥棒はこわい顔になってふところからピカピカ光る庖丁を出して見せながら、",
-        "sentence_with_furigana": "泥棒はこわい顔になってふところからピカピカ光る庖丁を出して見せながら、"
+        "sentence_with_furigana": "泥棒はこわい顔になってふところからピカピカ光る庖丁を出して見せながら、",
+        "audio_begin": 427360,
+        "audio_end": 435200
     },
     {
         "id": "f000109",
         "sentence": "「泣いたらきかないぞ。",
-        "sentence_with_furigana": "「泣いたらきかないぞ。"
+        "sentence_with_furigana": "「泣いたらきかないぞ。",
+        "audio_begin": 435200,
+        "audio_end": 437880
     },
     {
         "id": "f000110",
         "sentence": "さ、",
-        "sentence_with_furigana": "さ、"
+        "sentence_with_furigana": "さ、",
+        "audio_begin": 437880,
+        "audio_end": 439120
     },
     {
         "id": "f000111",
         "sentence": "お前のお母さんはお金をどこに仕舞っているか。",
-        "sentence_with_furigana": "お前のお母さんはお金をどこに仕舞っているか。"
+        "sentence_with_furigana": "お前のお母さんはお金をどこに仕舞っているか。",
+        "audio_begin": 439120,
+        "audio_end": 444520
     },
     {
         "id": "f000112",
         "sentence": "言わないとこれで殺してしまうぞ」",
-        "sentence_with_furigana": "言わないとこれで殺してしまうぞ」"
+        "sentence_with_furigana": "言わないとこれで殺してしまうぞ」",
+        "audio_begin": 444520,
+        "audio_end": 448428
     },
     {
         "id": "f000113",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 448428,
+        "audio_end": 450436
     },
     {
         "id": "f000114",
         "sentence": "チエ子さんは、",
-        "sentence_with_furigana": "チエ子さんは、"
+        "sentence_with_furigana": "チエ子さんは、",
+        "audio_begin": 450436,
+        "audio_end": 452031
     },
     {
         "id": "f000115",
         "sentence": "「お母さん」",
-        "sentence_with_furigana": "「お母さん」"
+        "sentence_with_furigana": "「お母さん」",
+        "audio_begin": 452031,
+        "audio_end": 453823
     },
     {
         "id": "f000116",
         "sentence": "と泣きながら逃げ出しました。",
-        "sentence_with_furigana": "と泣きながら逃げ出しました。"
+        "sentence_with_furigana": "と泣きながら逃げ出しました。",
+        "audio_begin": 453823,
+        "audio_end": 456888
     },
     {
         "id": "f000117",
         "sentence": "「このやつ、",
-        "sentence_with_furigana": "「このやつ、"
+        "sentence_with_furigana": "「このやつ、",
+        "audio_begin": 456888,
+        "audio_end": 457960
     },
     {
         "id": "f000118",
         "sentence": "逃げたな」",
-        "sentence_with_furigana": "逃げたな」"
+        "sentence_with_furigana": "逃げたな」",
+        "audio_begin": 457960,
+        "audio_end": 459227
     },
     {
         "id": "f000119",
         "sentence": "と泥棒はいきなり追っかけてチエ子さんを捕まえようとしました。",
-        "sentence_with_furigana": "と泥棒はいきなり追っかけてチエ子さんを捕まえようとしました。"
+        "sentence_with_furigana": "と泥棒はいきなり追っかけてチエ子さんを捕まえようとしました。",
+        "audio_begin": 459227,
+        "audio_end": 464680
     },
     {
         "id": "f000120",
         "sentence": "その時ブーンと唸って一匹の虻が飛んで来て、",
-        "sentence_with_furigana": "その時ブーンと 唸[うな]って一匹の虻が飛んで来て、"
+        "sentence_with_furigana": "その時ブーンと 唸[うな]って一匹の虻が飛んで来て、",
+        "audio_begin": 464680,
+        "audio_end": 470276
     },
     {
         "id": "f000121",
         "sentence": "泥棒の眼の前でブルンブルンブルンとまわり始めました。",
-        "sentence_with_furigana": "泥棒の眼の前でブルンブルンブルンとまわり始めました。"
+        "sentence_with_furigana": "泥棒の眼の前でブルンブルンブルンとまわり始めました。",
+        "audio_begin": 470276,
+        "audio_end": 476480
     },
     {
         "id": "f000122",
         "sentence": "泥棒は邪魔になるので、",
-        "sentence_with_furigana": "泥棒は邪魔になるので、"
+        "sentence_with_furigana": "泥棒は邪魔になるので、",
+        "audio_begin": 476480,
+        "audio_end": 478240
     },
     {
         "id": "f000123",
         "sentence": "「こんちくしょう、",
-        "sentence_with_furigana": "「こんちくしょう、"
+        "sentence_with_furigana": "「こんちくしょう、",
+        "audio_begin": 478240,
+        "audio_end": 479640
     },
     {
         "id": "f000124",
         "sentence": "こんちくしょう」",
-        "sentence_with_furigana": "こんちくしょう」"
+        "sentence_with_furigana": "こんちくしょう」",
+        "audio_begin": 479640,
+        "audio_end": 480600
     },
     {
         "id": "f000125",
         "sentence": "と払い除けようとしましたが、",
-        "sentence_with_furigana": "と払い 除[の]けようとしましたが、"
+        "sentence_with_furigana": "と払い 除[の]けようとしましたが、",
+        "audio_begin": 480600,
+        "audio_end": 483400
     },
     {
         "id": "f000126",
         "sentence": "なかなか払い除けられません。",
-        "sentence_with_furigana": "なかなか払い除けられません。"
+        "sentence_with_furigana": "なかなか払い除けられません。",
+        "audio_begin": 483400,
+        "audio_end": 486440
     },
     {
         "id": "f000127",
         "sentence": "そのうちにチエ子さんは、",
-        "sentence_with_furigana": "そのうちにチエ子さんは、"
+        "sentence_with_furigana": "そのうちにチエ子さんは、",
+        "audio_begin": 486440,
+        "audio_end": 488280
     },
     {
         "id": "f000128",
         "sentence": "「お母さん、",
-        "sentence_with_furigana": "「お母さん、"
+        "sentence_with_furigana": "「お母さん、",
+        "audio_begin": 488280,
+        "audio_end": 489800
     },
     {
         "id": "f000129",
         "sentence": "お母さん」",
-        "sentence_with_furigana": "お母さん」"
+        "sentence_with_furigana": "お母さん」",
+        "audio_begin": 489800,
+        "audio_end": 491200
     },
     {
         "id": "f000130",
         "sentence": "と叫びながら障子を開けてお縁の方に逃げて行きます。",
-        "sentence_with_furigana": "と叫びながら障子を開けてお縁の方に逃げて行きます。"
+        "sentence_with_furigana": "と叫びながら障子を開けてお縁の方に逃げて行きます。",
+        "audio_begin": 491200,
+        "audio_end": 497000
     },
     {
         "id": "f000131",
         "sentence": "「逃がしてなるものか」",
-        "sentence_with_furigana": "「逃がしてなるものか」"
+        "sentence_with_furigana": "「逃がしてなるものか」",
+        "audio_begin": 497000,
+        "audio_end": 498792
     },
     {
         "id": "f000132",
         "sentence": "と泥棒は一所懸命となって、",
-        "sentence_with_furigana": "と泥棒は一所懸命となって、"
+        "sentence_with_furigana": "と泥棒は一所懸命となって、",
+        "audio_begin": 498792,
+        "audio_end": 501516
     },
     {
         "id": "f000133",
         "sentence": "とうとう虻をタタキ落として追っかけてゆきました。",
-        "sentence_with_furigana": "とうとう虻をタタキ落として追っかけてゆきました。"
+        "sentence_with_furigana": "とうとう虻をタタキ落として追っかけてゆきました。",
+        "audio_begin": 501516,
+        "audio_end": 505853
     },
     {
         "id": "f000134",
         "sentence": "そうすると虻はタタキ落とされてちょっと死んだようになりましたが、",
-        "sentence_with_furigana": "そうすると虻はタタキ落とされてちょっと死んだようになりましたが、"
+        "sentence_with_furigana": "そうすると虻はタタキ落とされてちょっと死んだようになりましたが、",
+        "audio_begin": 505853,
+        "audio_end": 511240
     },
     {
         "id": "f000135",
         "sentence": "又飛び上って泥棒の足へ飛びついて力一パイ喰いつきました。",
-        "sentence_with_furigana": "又飛び上って泥棒の足へ飛びついて力一パイ喰いつきました。"
+        "sentence_with_furigana": "又飛び上って泥棒の足へ飛びついて力一パイ喰いつきました。",
+        "audio_begin": 511240,
+        "audio_end": 517919
     },
     {
         "id": "f000136",
         "sentence": "「アイタッ」",
-        "sentence_with_furigana": "「アイタッ」"
+        "sentence_with_furigana": "「アイタッ」",
+        "audio_begin": 517919,
+        "audio_end": 519510
     },
     {
         "id": "f000137",
         "sentence": "と泥棒はうしろ向きに立ち止まる拍子にお縁から足を辷らして、",
-        "sentence_with_furigana": "と泥棒はうしろ向きに立ち止まる拍子にお縁から足を 辷[すべ]らして、"
+        "sentence_with_furigana": "と泥棒はうしろ向きに立ち止まる拍子にお縁から足を 辷[すべ]らして、",
+        "audio_begin": 519510,
+        "audio_end": 525080
     },
     {
         "id": "f000138",
         "sentence": "石の上に落っこちて頭をぶって眼をまわしてしまいました。",
-        "sentence_with_furigana": "石の上に落っこちて頭をぶって眼をまわしてしまいました。"
+        "sentence_with_furigana": "石の上に落っこちて頭をぶって眼をまわしてしまいました。",
+        "audio_begin": 525080,
+        "audio_end": 530700
     },
     {
         "id": "f000139",
         "sentence": "そのうちにチエ子さんは表へ出て、",
-        "sentence_with_furigana": "そのうちにチエ子さんは表へ出て、"
+        "sentence_with_furigana": "そのうちにチエ子さんは表へ出て、",
+        "audio_begin": 532800,
+        "audio_end": 535372
     },
     {
         "id": "f000140",
         "sentence": "通りがかりのお巡査さんにこの事を言いましたので、",
-        "sentence_with_furigana": "通りがかりのお 巡査[まわり]さんにこの事を言いましたので、"
+        "sentence_with_furigana": "通りがかりのお 巡査[まわり]さんにこの事を言いましたので、",
+        "audio_begin": 535372,
+        "audio_end": 538920
     },
     {
         "id": "f000141",
         "sentence": "泥棒はすぐに縛られてしまいました。",
-        "sentence_with_furigana": "泥棒はすぐに縛られてしまいました。"
+        "sentence_with_furigana": "泥棒はすぐに縛られてしまいました。",
+        "audio_begin": 538920,
+        "audio_end": 545040
     },
     {
         "id": "f000142",
         "sentence": "お母さんがお帰りになってこのお話をおききになると、",
-        "sentence_with_furigana": "お母さんがお帰りになってこのお話をおききになると、"
+        "sentence_with_furigana": "お母さんがお帰りになってこのお話をおききになると、",
+        "audio_begin": 545040,
+        "audio_end": 549880
     },
     {
         "id": "f000143",
         "sentence": "涙をこぼしてチエ子さんを抱きしめておよろこびになりました。",
-        "sentence_with_furigana": "涙をこぼしてチエ子さんを抱きしめておよろこびになりました。"
+        "sentence_with_furigana": "涙をこぼしてチエ子さんを抱きしめておよろこびになりました。",
+        "audio_begin": 549880,
+        "audio_end": 556019
     },
     {
         "id": "f000144",
         "sentence": "その時にチエ子さんはお縁側を見ると一匹の虻が死んで落ちておりました。",
-        "sentence_with_furigana": "その時にチエ子さんはお縁側を見ると一匹の虻が死んで落ちておりました。"
+        "sentence_with_furigana": "その時にチエ子さんはお縁側を見ると一匹の虻が死んで落ちておりました。",
+        "audio_begin": 556019,
+        "audio_end": 566289
     },
     {
         "id": "f000145",
         "sentence": "「お母さん、",
-        "sentence_with_furigana": "「お母さん、"
+        "sentence_with_furigana": "「お母さん、",
+        "audio_begin": 566289,
+        "audio_end": 567884
     },
     {
         "id": "f000146",
         "sentence": "御覧なさい。",
-        "sentence_with_furigana": "御覧なさい。"
+        "sentence_with_furigana": "御覧なさい。",
+        "audio_begin": 567884,
+        "audio_end": 570008
     },
     {
         "id": "f000147",
         "sentence": "この間の虻が泥棒を刺したのよ。",
-        "sentence_with_furigana": "この間の虻が泥棒を刺したのよ。"
+        "sentence_with_furigana": "この間の虻が泥棒を刺したのよ。",
+        "audio_begin": 570008,
+        "audio_end": 574360
     },
     {
         "id": "f000148",
         "sentence": "あたしが助けてやったお礼をしてくれたのよ」",
-        "sentence_with_furigana": "あたしが助けてやったお礼をしてくれたのよ」"
+        "sentence_with_furigana": "あたしが助けてやったお礼をしてくれたのよ」",
+        "audio_begin": 574360,
+        "audio_end": 579193
     },
     {
         "id": "f000149",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 579193,
+        "audio_end": 581559
     },
     {
         "id": "f000150",
         "sentence": "お母さんはおうなずきになりました。",
-        "sentence_with_furigana": "お母さんはおうなずきになりました。"
+        "sentence_with_furigana": "お母さんはおうなずきになりました。",
+        "audio_begin": 581559,
+        "audio_end": 584900
     },
     {
         "id": "f000151",
         "sentence": "そうして晩方お父さんがお帰りになってお母さんがこのお話をされますと、",
-        "sentence_with_furigana": "そうして晩方お父さんがお帰りになってお母さんがこのお話をされますと、"
+        "sentence_with_furigana": "そうして晩方お父さんがお帰りになってお母さんがこのお話をされますと、",
+        "audio_begin": 587000,
+        "audio_end": 594440
     },
     {
         "id": "f000152",
         "sentence": "お父さまはチエ子の頭を撫でながら、",
-        "sentence_with_furigana": "お父さまはチエ子の頭を撫でながら、"
+        "sentence_with_furigana": "お父さまはチエ子の頭を撫でながら、",
+        "audio_begin": 594440,
+        "audio_end": 599320
     },
     {
         "id": "f000153",
         "sentence": "「あぶとお話した子は世界中でチエ子一人だろう」",
-        "sentence_with_furigana": "「あぶとお話した子は世界中でチエ子一人だろう」"
+        "sentence_with_furigana": "「あぶとお話した子は世界中でチエ子一人だろう」",
+        "audio_begin": 599320,
+        "audio_end": 605235
     },
     {
         "id": "f000154",
         "sentence": "とお笑いになりました。",
-        "sentence_with_furigana": "とお笑いになりました。"
+        "sentence_with_furigana": "とお笑いになりました。",
+        "audio_begin": 605235,
+        "audio_end": 607520
     },
     {
         "id": "f000155",
         "sentence": "チエ子さんは虻のお墓を作ってやりました。",
-        "sentence_with_furigana": "チエ子さんは虻のお墓を作ってやりました。"
+        "sentence_with_furigana": "チエ子さんは虻のお墓を作ってやりました。",
+        "audio_begin": 610020,
+        "audio_end": 614880
     }
 ]

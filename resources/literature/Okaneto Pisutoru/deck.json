@@ -2,146 +2,204 @@
     {
         "id": "f000001",
         "sentence": "夢野久作　作",
-        "sentence_with_furigana": "夢野久作　作"
+        "sentence_with_furigana": "夢野久作　作",
+        "audio_begin": 2258,
+        "audio_end": 6571
     },
     {
         "id": "f000002",
         "sentence": "お金とピストル",
-        "sentence_with_furigana": "お金とピストル"
+        "sentence_with_furigana": "お金とピストル",
+        "audio_begin": 6571,
+        "audio_end": 12400
     },
     {
         "id": "f000003",
         "sentence": "泥棒がケチンボの家へ入ってピストルを見せて、",
-        "sentence_with_furigana": "泥棒がケチンボの家へ入ってピストルを見せて、"
+        "sentence_with_furigana": "泥棒がケチンボの家へ入ってピストルを見せて、",
+        "audio_begin": 12400,
+        "audio_end": 16720
     },
     {
         "id": "f000004",
         "sentence": "お金を出せと言いました。",
-        "sentence_with_furigana": "お金を出せと言いました。"
+        "sentence_with_furigana": "お金を出せと言いました。",
+        "audio_begin": 16720,
+        "audio_end": 20525
     },
     {
         "id": "f000005",
         "sentence": "ケチンボは、",
-        "sentence_with_furigana": "ケチンボは、"
+        "sentence_with_furigana": "ケチンボは、",
+        "audio_begin": 20525,
+        "audio_end": 22504
     },
     {
         "id": "f000006",
         "sentence": "「ただお金を出すのはいやだ。",
-        "sentence_with_furigana": "「ただお金を出すのはいやだ。"
+        "sentence_with_furigana": "「ただお金を出すのはいやだ。",
+        "audio_begin": 22504,
+        "audio_end": 26000
     },
     {
         "id": "f000007",
         "sentence": "その短銃を売ってくれるなら千円で買おう。",
-        "sentence_with_furigana": "その 短銃[ピストル]を売ってくれるなら千円で買おう。"
+        "sentence_with_furigana": "その 短銃[ピストル]を売ってくれるなら千円で買おう。",
+        "audio_begin": 26000,
+        "audio_end": 30720
     },
     {
         "id": "f000008",
         "sentence": "お前は私からお金さえ貰えばそんなピストルは要らないだろう」",
-        "sentence_with_furigana": "お前は私からお金さえ貰えばそんなピストルは要らないだろう」"
+        "sentence_with_furigana": "お前は私からお金さえ貰えばそんなピストルは要らないだろう」",
+        "audio_begin": 30720,
+        "audio_end": 37880
     },
     {
         "id": "f000009",
         "sentence": "泥棒は考えておりましたが、",
-        "sentence_with_furigana": "泥棒は考えておりましたが、"
+        "sentence_with_furigana": "泥棒は考えておりましたが、",
+        "audio_begin": 37880,
+        "audio_end": 39680
     },
     {
         "id": "f000010",
         "sentence": "とうとうそのピストルを千円でケチンボに売りました。",
-        "sentence_with_furigana": "とうとうそのピストルを千円でケチンボに売りました。"
+        "sentence_with_furigana": "とうとうそのピストルを千円でケチンボに売りました。",
+        "audio_begin": 39680,
+        "audio_end": 46150
     },
     {
         "id": "f000011",
         "sentence": "ケチンボは泥棒からピストルを受け取ると、",
-        "sentence_with_furigana": "ケチンボは泥棒からピストルを受け取ると、"
+        "sentence_with_furigana": "ケチンボは泥棒からピストルを受け取ると、",
+        "audio_begin": 46150,
+        "audio_end": 49440
     },
     {
         "id": "f000012",
         "sentence": "すぐにも泥棒を撃ちそうにしながら、",
-        "sentence_with_furigana": "すぐにも泥棒を撃ちそうにしながら、"
+        "sentence_with_furigana": "すぐにも泥棒を撃ちそうにしながら、",
+        "audio_begin": 49440,
+        "audio_end": 52880
     },
     {
         "id": "f000013",
         "sentence": "「さあ、",
-        "sentence_with_furigana": "「さあ、"
+        "sentence_with_furigana": "「さあ、",
+        "audio_begin": 52880,
+        "audio_end": 53760
     },
     {
         "id": "f000014",
         "sentence": "そのお金ばかりでない、",
-        "sentence_with_furigana": "そのお金ばかりでない、"
+        "sentence_with_furigana": "そのお金ばかりでない、",
+        "audio_begin": 53760,
+        "audio_end": 55920
     },
     {
         "id": "f000015",
         "sentence": "ほかで盗んだお金もみんな出せ。",
-        "sentence_with_furigana": "ほかで盗んだお金もみんな出せ。"
+        "sentence_with_furigana": "ほかで盗んだお金もみんな出せ。",
+        "audio_begin": 55920,
+        "audio_end": 59280
     },
     {
         "id": "f000016",
         "sentence": "出さないと殺してしまうぞ」",
-        "sentence_with_furigana": "出さないと殺してしまうぞ」"
+        "sentence_with_furigana": "出さないと殺してしまうぞ」",
+        "audio_begin": 59280,
+        "audio_end": 62108
     },
     {
         "id": "f000017",
         "sentence": "と怒鳴りました。",
-        "sentence_with_furigana": "と怒鳴りました。"
+        "sentence_with_furigana": "と怒鳴りました。",
+        "audio_begin": 62108,
+        "audio_end": 66040
     },
     {
         "id": "f000018",
         "sentence": "泥棒は腹を抱えて笑いました。",
-        "sentence_with_furigana": "泥棒は腹を抱えて笑いました。"
+        "sentence_with_furigana": "泥棒は腹を抱えて笑いました。",
+        "audio_begin": 66040,
+        "audio_end": 70455
     },
     {
         "id": "f000019",
         "sentence": "「アハハ。",
-        "sentence_with_furigana": "「アハハ。"
+        "sentence_with_furigana": "「アハハ。",
+        "audio_begin": 70455,
+        "audio_end": 72440
     },
     {
         "id": "f000020",
         "sentence": "そのピストルはオモチャのピストルで、",
-        "sentence_with_furigana": "そのピストルはオモチャのピストルで、"
+        "sentence_with_furigana": "そのピストルはオモチャのピストルで、",
+        "audio_begin": 72440,
+        "audio_end": 75320
     },
     {
         "id": "f000021",
         "sentence": "撃っても弾丸が出ないのだよ」",
-        "sentence_with_furigana": "撃っても 弾丸[たま]が出ないのだよ」"
+        "sentence_with_furigana": "撃っても 弾丸[たま]が出ないのだよ」",
+        "audio_begin": 75320,
+        "audio_end": 78396
     },
     {
         "id": "f000022",
         "sentence": "と言ううちに表へ逃げ出しました。",
-        "sentence_with_furigana": "と言ううちに表へ逃げ出しました。"
+        "sentence_with_furigana": "と言ううちに表へ逃げ出しました。",
+        "audio_begin": 78396,
+        "audio_end": 83495
     },
     {
         "id": "f000023",
         "sentence": "ケチンボはピストルを投げ出して泥棒を追っかけて、",
-        "sentence_with_furigana": "ケチンボはピストルを投げ出して泥棒を追っかけて、"
+        "sentence_with_furigana": "ケチンボはピストルを投げ出して泥棒を追っかけて、",
+        "audio_begin": 83495,
+        "audio_end": 87600
     },
     {
         "id": "f000024",
         "sentence": "往来で取っ組み合いを始めましたが、",
-        "sentence_with_furigana": "往来で取っ組み合いを始めましたが、"
+        "sentence_with_furigana": "往来で取っ組み合いを始めましたが、",
+        "audio_begin": 87600,
+        "audio_end": 89960
     },
     {
         "id": "f000025",
         "sentence": "やがて通りかかったおまわりさんが二人を押えて警察へ連れて行きました。",
-        "sentence_with_furigana": "やがて通りかかったおまわりさんが二人を押えて警察へ連れて行きました。"
+        "sentence_with_furigana": "やがて通りかかったおまわりさんが二人を押えて警察へ連れて行きました。",
+        "audio_begin": 89960,
+        "audio_end": 98566
     },
     {
         "id": "f000026",
         "sentence": "警察でいろいろ調べてみますと、",
-        "sentence_with_furigana": "警察でいろいろ調べてみますと、"
+        "sentence_with_furigana": "警察でいろいろ調べてみますと、",
+        "audio_begin": 98566,
+        "audio_end": 101407
     },
     {
         "id": "f000027",
         "sentence": "泥棒が貰った千円のお金はみんな贋物のお金で、",
-        "sentence_with_furigana": "泥棒が貰った千円のお金はみんな贋物のお金で、"
+        "sentence_with_furigana": "泥棒が貰った千円のお金はみんな贋物のお金で、",
+        "audio_begin": 101407,
+        "audio_end": 106735
     },
     {
         "id": "f000028",
         "sentence": "ピストルはやっぱり本物のピストルでした。",
-        "sentence_with_furigana": "ピストルはやっぱり本物のピストルでした。"
+        "sentence_with_furigana": "ピストルはやっぱり本物のピストルでした。",
+        "audio_begin": 106735,
+        "audio_end": 112840
     },
     {
         "id": "f000029",
         "sentence": "二人共牢屋へ入れられました。",
-        "sentence_with_furigana": "二人共牢屋へ入れられました。"
+        "sentence_with_furigana": "二人共牢屋へ入れられました。",
+        "audio_begin": 112840,
+        "audio_end": 118960
     }
 ]

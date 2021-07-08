@@ -2,296 +2,414 @@
     {
         "id": "f000001",
         "sentence": "岡本かの子　作",
-        "sentence_with_furigana": "岡本かの子　作"
+        "sentence_with_furigana": "岡本かの子　作",
+        "audio_begin": 2190,
+        "audio_end": 5456
     },
     {
         "id": "f000002",
         "sentence": "愛よ愛",
-        "sentence_with_furigana": "愛よ愛"
+        "sentence_with_furigana": "愛よ愛",
+        "audio_begin": 5456,
+        "audio_end": 9093
     },
     {
         "id": "f000003",
         "sentence": "この人のうえをおもうときにおもわず力が入る。",
-        "sentence_with_furigana": "この人のうえをおもうときにおもわず力が入る。"
+        "sentence_with_furigana": "この人のうえをおもうときにおもわず力が入る。",
+        "audio_begin": 9093,
+        "audio_end": 13955
     },
     {
         "id": "f000004",
         "sentence": "この人とのくらしに必要なわずらわしき日常生活もいやな交際も覚束なきままにやってのけようとおもう。",
-        "sentence_with_furigana": "この人とのくらしに必要なわずらわしき日常生活もいやな交際も 覚束[おぼつか]なきままにやってのけようとおもう。"
+        "sentence_with_furigana": "この人とのくらしに必要なわずらわしき日常生活もいやな交際も 覚束[おぼつか]なきままにやってのけようとおもう。",
+        "audio_begin": 13955,
+        "audio_end": 24645
     },
     {
         "id": "f000005",
         "sentence": "この人のためにはすこしの恥は涙を隠しても忍ぼうとおもう。",
-        "sentence_with_furigana": "この人のためにはすこしの恥は涙を隠しても忍ぼうとおもう。"
+        "sentence_with_furigana": "この人のためにはすこしの恥は涙を隠しても忍ぼうとおもう。",
+        "audio_begin": 24645,
+        "audio_end": 32720
     },
     {
         "id": "f000006",
         "sentence": "朝夕見なれしこの人、",
-        "sentence_with_furigana": "朝夕見なれしこの人、"
+        "sentence_with_furigana": "朝夕見なれしこの人、",
+        "audio_begin": 32720,
+        "audio_end": 35280
     },
     {
         "id": "f000007",
         "sentence": "朝夕なにかしら眼新らしきものをその上に見出すこの人。",
-        "sentence_with_furigana": "朝夕なにかしら 眼新[めあた]らしきものをその上に 見出[みいだ]すこの人。"
+        "sentence_with_furigana": "朝夕なにかしら 眼新[めあた]らしきものをその上に 見出[みいだ]すこの人。",
+        "audio_begin": 35280,
+        "audio_end": 41560
     },
     {
         "id": "f000008",
         "sentence": "世間ではこの人をおとなのなかのおとなのようにいう。",
-        "sentence_with_furigana": "世間ではこの人をおとなのなかのおとなのようにいう。"
+        "sentence_with_furigana": "世間ではこの人をおとなのなかのおとなのようにいう。",
+        "audio_begin": 41560,
+        "audio_end": 45874
     },
     {
         "id": "f000009",
         "sentence": "けれどもわたしにはこどもに見える。",
-        "sentence_with_furigana": "けれどもわたしにはこどもに見える。"
+        "sentence_with_furigana": "けれどもわたしにはこどもに見える。",
+        "audio_begin": 45874,
+        "audio_end": 49920
     },
     {
         "id": "f000010",
         "sentence": "というわたしをこの人はまだこどものように見てなにかと覚束ながる。",
-        "sentence_with_furigana": "というわたしをこの人はまだこどものように見てなにかと覚束ながる。"
+        "sentence_with_furigana": "というわたしをこの人はまだこどものように見てなにかと覚束ながる。",
+        "audio_begin": 49920,
+        "audio_end": 56712
     },
     {
         "id": "f000011",
         "sentence": "互に眼を瞠目って、",
-        "sentence_with_furigana": "互[たがい]に眼を 瞠目[みは]って、"
+        "sentence_with_furigana": "互[たがい]に眼を 瞠目[みは]って、",
+        "audio_begin": 56712,
+        "audio_end": 58720
     },
     {
         "id": "f000012",
         "sentence": "よくぞこのうき世の荒浪に堪うるよと思う。",
-        "sentence_with_furigana": "よくぞこのうき世の 荒浪[あらなみ]に 堪[た]うるよと思う。"
+        "sentence_with_furigana": "よくぞこのうき世の 荒浪[あらなみ]に 堪[た]うるよと思う。",
+        "audio_begin": 58720,
+        "audio_end": 64120
     },
     {
         "id": "f000013",
         "sentence": "おいおいたがいに無口になって、",
-        "sentence_with_furigana": "おいおいたがいに無口になって、"
+        "sentence_with_furigana": "おいおいたがいに無口になって、",
+        "audio_begin": 64120,
+        "audio_end": 66320
     },
     {
         "id": "f000014",
         "sentence": "ときには無口の一日が過される。",
-        "sentence_with_furigana": "ときには無口の一日が 過[すご]される。"
+        "sentence_with_furigana": "ときには無口の一日が 過[すご]される。",
+        "audio_begin": 66320,
+        "audio_end": 70742
     },
     {
         "id": "f000015",
         "sentence": "けれども心のつながりの無い一日では無い。",
-        "sentence_with_furigana": "けれども心のつながりの 無[な]い一日では無い。"
+        "sentence_with_furigana": "けれども心のつながりの 無[な]い一日では無い。",
+        "audio_begin": 70742,
+        "audio_end": 75047
     },
     {
         "id": "f000016",
         "sentence": "この人が眼で見よと知らする庭の初雪。",
-        "sentence_with_furigana": "この人が眼で見よと知らする庭の初雪。"
+        "sentence_with_furigana": "この人が眼で見よと知らする庭の初雪。",
+        "audio_begin": 75047,
+        "audio_end": 80020
     },
     {
         "id": "f000017",
         "sentence": "この人が耳かたむける軒の雀にこのわたしも——。",
-        "sentence_with_furigana": "この人が耳かたむける 軒[のき]の 雀[すずめ]にこのわたしも——。"
+        "sentence_with_furigana": "この人が耳かたむける 軒[のき]の 雀[すずめ]にこのわたしも——。",
+        "audio_begin": 80020,
+        "audio_end": 87648
     },
     {
         "id": "f000019",
         "sentence": "むかし、",
-        "sentence_with_furigana": "むかし、"
+        "sentence_with_furigana": "むかし、",
+        "audio_begin": 87648,
+        "audio_end": 88664
     },
     {
         "id": "f000020",
         "sentence": "いくたりの青年が、",
-        "sentence_with_furigana": "いくたりの青年が、"
+        "sentence_with_furigana": "いくたりの青年が、",
+        "audio_begin": 88664,
+        "audio_end": 90104
     },
     {
         "id": "f000021",
         "sentence": "この人に競い負けてわたしのまわりから姿を消したことであろう。",
-        "sentence_with_furigana": "この人に 競[きそ]い負けてわたしのまわりから姿を消したことであろう。"
+        "sentence_with_furigana": "この人に 競[きそ]い負けてわたしのまわりから姿を消したことであろう。",
+        "audio_begin": 90104,
+        "audio_end": 96824
     },
     {
         "id": "f000022",
         "sentence": "おもえば相当に、",
-        "sentence_with_furigana": "おもえば相当に、"
+        "sentence_with_furigana": "おもえば相当に、",
+        "audio_begin": 96824,
+        "audio_end": 98402
     },
     {
         "id": "f000023",
         "sentence": "罪を担うて居るこの人である。",
-        "sentence_with_furigana": "罪を 担[にの]うて 居[い]るこの人である。"
+        "sentence_with_furigana": "罪を 担[にの]うて 居[い]るこの人である。",
+        "audio_begin": 98402,
+        "audio_end": 102308
     },
     {
         "id": "f000024",
         "sentence": "けれどもこの人の、",
-        "sentence_with_furigana": "けれどもこの人の、"
+        "sentence_with_furigana": "けれどもこの人の、",
+        "audio_begin": 102308,
+        "audio_end": 104384
     },
     {
         "id": "f000025",
         "sentence": "いまの静けさに憎みを返す人があろうか。",
-        "sentence_with_furigana": "いまの静けさに 憎[にくし]みを返す人があろうか。"
+        "sentence_with_furigana": "いまの静けさに 憎[にくし]みを返す人があろうか。",
+        "audio_begin": 104384,
+        "audio_end": 109286
     },
     {
         "id": "f000026",
         "sentence": "この人のわたしを庇い通した永い年月を他所ながら眺めてその人達も恨をおさめて居るに相違あるまい。",
-        "sentence_with_furigana": "この人のわたしを 庇[かば]い通した永い年月を 他所[よそ]ながら眺めてその人達も 恨[うらみ]をおさめて居るに相違あるまい。"
+        "sentence_with_furigana": "この人のわたしを 庇[かば]い通した永い年月を 他所[よそ]ながら眺めてその人達も 恨[うらみ]をおさめて居るに相違あるまい。",
+        "audio_begin": 109286,
+        "audio_end": 120544
     },
     {
         "id": "f000027",
         "sentence": "もういくたりの児の父となって。",
-        "sentence_with_furigana": "もういくたりの 児[こ]の父となって。"
+        "sentence_with_furigana": "もういくたりの 児[こ]の父となって。",
+        "audio_begin": 120544,
+        "audio_end": 125064
     },
     {
         "id": "f000028",
         "sentence": "もし逢ってもその人達はこの人になつかしく差出す手を用意して居るに相違ない。",
-        "sentence_with_furigana": "もし 逢[あ]ってもその人達はこの人になつかしく 差出[さしだ]す手を用意して居るに相違ない。"
+        "sentence_with_furigana": "もし 逢[あ]ってもその人達はこの人になつかしく 差出[さしだ]す手を用意して居るに相違ない。",
+        "audio_begin": 125064,
+        "audio_end": 131464
     },
     {
         "id": "f000029",
         "sentence": "そういえばわたしとてよくもこの人を庇い通した——",
-        "sentence_with_furigana": "そういえばわたしとてよくもこの人を庇い通した——"
+        "sentence_with_furigana": "そういえばわたしとてよくもこの人を庇い通した——",
+        "audio_begin": 131464,
+        "audio_end": 138264
     },
     {
         "id": "f000030",
         "sentence": "おもえば氷を水に溶く幾年月。",
-        "sentence_with_furigana": "おもえば氷を水に 溶[と]く幾年月。"
+        "sentence_with_furigana": "おもえば氷を水に 溶[と]く幾年月。",
+        "audio_begin": 138264,
+        "audio_end": 142824
     },
     {
         "id": "f000031",
         "sentence": "その年月に涙がこぼれる。",
-        "sentence_with_furigana": "その年月に涙がこぼれる。"
+        "sentence_with_furigana": "その年月に涙がこぼれる。",
+        "audio_begin": 142824,
+        "audio_end": 148064
     },
     {
         "id": "f000032",
         "sentence": "和服を着せれば幾日でもおとなしく和服を着ている。",
-        "sentence_with_furigana": "和服を着せれば幾日でもおとなしく和服を着ている。"
+        "sentence_with_furigana": "和服を着せれば幾日でもおとなしく和服を着ている。",
+        "audio_begin": 148064,
+        "audio_end": 153504
     },
     {
         "id": "f000033",
         "sentence": "洋服を着せれば黙って洋服を着て居る。",
-        "sentence_with_furigana": "洋服を着せれば黙って洋服を着て居る。"
+        "sentence_with_furigana": "洋服を着せれば黙って洋服を着て居る。",
+        "audio_begin": 153504,
+        "audio_end": 157573
     },
     {
         "id": "f000034",
         "sentence": "この人はまるで阿呆のようだ。",
-        "sentence_with_furigana": "この人はまるで 阿呆[あほう]のようだ。"
+        "sentence_with_furigana": "この人はまるで 阿呆[あほう]のようだ。",
+        "audio_begin": 157573,
+        "audio_end": 161104
     },
     {
         "id": "f000035",
         "sentence": "そのくせわたしの着物にはいろいろと世話をやく。",
-        "sentence_with_furigana": "そのくせわたしの着物にはいろいろと世話をやく。"
+        "sentence_with_furigana": "そのくせわたしの着物にはいろいろと世話をやく。",
+        "audio_begin": 161104,
+        "audio_end": 165904
     },
     {
         "id": "f000036",
         "sentence": "あらい柄のものをわたしが着さえすれば悦んで居る。",
-        "sentence_with_furigana": "あらい 柄[がら]のものをわたしが着さえすれば 悦[よろ]んで居る。"
+        "sentence_with_furigana": "あらい 柄[がら]のものをわたしが着さえすれば 悦[よろ]んで居る。",
+        "audio_begin": 165904,
+        "audio_end": 170340
     },
     {
         "id": "f000037",
         "sentence": "ときには少女が着でもするような派手な着物を買ってさえ来る。",
-        "sentence_with_furigana": "ときには少女が着でもするような派手な着物を買ってさえ来る。"
+        "sentence_with_furigana": "ときには少女が着でもするような派手な着物を買ってさえ来る。",
+        "audio_begin": 170340,
+        "audio_end": 177224
     },
     {
         "id": "f000038",
         "sentence": "わたしは訊く「どうしてこんなものを」この人は答える「うちには娘が無いからお前に着せる。",
-        "sentence_with_furigana": "わたしは 訊[き]く「どうしてこんなものを」この人は答える「うちには娘が 無[な]いからお前に着せる。"
+        "sentence_with_furigana": "わたしは 訊[き]く「どうしてこんなものを」この人は答える「うちには娘が 無[な]いからお前に着せる。",
+        "audio_begin": 177224,
+        "audio_end": 189677
     },
     {
         "id": "f000039",
         "sentence": "でないと、",
-        "sentence_with_furigana": "でないと、"
+        "sentence_with_furigana": "でないと、",
+        "audio_begin": 189677,
+        "audio_end": 190664
     },
     {
         "id": "f000040",
         "sentence": "うちのなかに色彩がなくて淋しい」",
-        "sentence_with_furigana": "うちのなかに色彩がなくて 淋[さみ]しい」"
+        "sentence_with_furigana": "うちのなかに色彩がなくて 淋[さみ]しい」",
+        "audio_begin": 190664,
+        "audio_end": 196664
     },
     {
         "id": "f000041",
         "sentence": "いくら忠告してもこの人がたった一つよこさないものはフランス製の西洋寝巻だ。",
-        "sentence_with_furigana": "いくら忠告してもこの人がたった一つよこさないものはフランス製の西洋 寝巻[ねまき]だ。"
+        "sentence_with_furigana": "いくら忠告してもこの人がたった一つよこさないものはフランス製の西洋 寝巻[ねまき]だ。",
+        "audio_begin": 196664,
+        "audio_end": 204004
     },
     {
         "id": "f000042",
         "sentence": "洋行からわたし達がかえるとき巴里に置いて来たこどもが訣れしなに父のこの人に買って呉れた寝巻だ。",
-        "sentence_with_furigana": "洋行からわたし達がかえるとき 巴里[パリ]に置いて来たこどもが 訣[わか]れしなに父のこの人に買って 呉[く]れた寝巻だ。"
+        "sentence_with_furigana": "洋行からわたし達がかえるとき 巴里[パリ]に置いて来たこどもが 訣[わか]れしなに父のこの人に買って 呉[く]れた寝巻だ。",
+        "audio_begin": 204004,
+        "audio_end": 213744
     },
     {
         "id": "f000043",
         "sentence": "厚いラクダの毛。",
-        "sentence_with_furigana": "厚いラクダの毛。"
+        "sentence_with_furigana": "厚いラクダの毛。",
+        "audio_begin": 213744,
+        "audio_end": 215264
     },
     {
         "id": "f000044",
         "sentence": "これをこの人は夏冬なしに寝巻に着る。",
-        "sentence_with_furigana": "これをこの人は夏冬なしに寝巻に着る。"
+        "sentence_with_furigana": "これをこの人は夏冬なしに寝巻に着る。",
+        "audio_begin": 215264,
+        "audio_end": 220544
     },
     {
         "id": "f000045",
         "sentence": "夏は毒ですよ、",
-        "sentence_with_furigana": "夏は毒ですよ、"
+        "sentence_with_furigana": "夏は毒ですよ、",
+        "audio_begin": 220544,
+        "audio_end": 221784
     },
     {
         "id": "f000046",
         "sentence": "といってもききはしない。",
-        "sentence_with_furigana": "といってもききはしない。"
+        "sentence_with_furigana": "といってもききはしない。",
+        "audio_begin": 221784,
+        "audio_end": 224380
     },
     {
         "id": "f000047",
         "sentence": "そして枕につくとき云う「こどもはどうして居るかな」",
-        "sentence_with_furigana": "そして枕につくとき 云[い]う「こどもはどうして 居[い]るかな」"
+        "sentence_with_furigana": "そして枕につくとき 云[い]う「こどもはどうして 居[い]るかな」",
+        "audio_begin": 224380,
+        "audio_end": 231822
     },
     {
         "id": "f000048",
         "sentence": "子を思えばわたしとても寝られぬ夜々が数々ある。",
-        "sentence_with_furigana": "子を思えばわたしとても寝られぬ 夜々[よよ]が数々ある。"
+        "sentence_with_furigana": "子を思えばわたしとても寝られぬ 夜々[よよ]が数々ある。",
+        "audio_begin": 231822,
+        "audio_end": 237184
     },
     {
         "id": "f000049",
         "sentence": "わたしという覚束ない母が漸く育てた、",
-        "sentence_with_furigana": "わたしという 覚束[おぼつか]ない母が 漸[ようや]く育てた、"
+        "sentence_with_furigana": "わたしという 覚束[おぼつか]ない母が 漸[ようや]く育てた、",
+        "audio_begin": 237184,
+        "audio_end": 241424
     },
     {
         "id": "f000050",
         "sentence": "ひとりのこども。",
-        "sentence_with_furigana": "ひとりのこども。"
+        "sentence_with_furigana": "ひとりのこども。",
+        "audio_begin": 241424,
+        "audio_end": 243464
     },
     {
         "id": "f000051",
         "sentence": "わたしに許しを得て髪を分けたこども、",
-        "sentence_with_furigana": "わたしに許しを得て髪を分けたこども、"
+        "sentence_with_furigana": "わたしに許しを得て髪を分けたこども、",
+        "audio_begin": 243464,
+        "audio_end": 247584
     },
     {
         "id": "f000052",
         "sentence": "一しょに洋行したこども。",
-        "sentence_with_furigana": "一[いっ]しょに洋行したこども。"
+        "sentence_with_furigana": "一[いっ]しょに洋行したこども。",
+        "audio_begin": 247584,
+        "audio_end": 250704
     },
     {
         "id": "f000053",
         "sentence": "おとなびてコーヒーに入れる角砂糖の数を訊いて呉れるこども。",
-        "sentence_with_furigana": "おとなびてコーヒーに入れる角砂糖の数を 訊[き]いて呉れるこども。"
+        "sentence_with_furigana": "おとなびてコーヒーに入れる角砂糖の数を 訊[き]いて呉れるこども。",
+        "audio_begin": 250704,
+        "audio_end": 257064
     },
     {
         "id": "f000054",
         "sentence": "フランスからひとりで英国のわたし達に逢いに来たこども。",
-        "sentence_with_furigana": "フランスからひとりで英国のわたし達に 逢[あ]いに来たこども。"
+        "sentence_with_furigana": "フランスからひとりで英国のわたし達に 逢[あ]いに来たこども。",
+        "audio_begin": 257064,
+        "audio_end": 262479
     },
     {
         "id": "f000055",
         "sentence": "パリでは手を握り合ってシャリアピンに感心したこども。",
-        "sentence_with_furigana": "パリでは手を握り合ってシャリアピンに感心したこども。"
+        "sentence_with_furigana": "パリでは手を握り合ってシャリアピンに感心したこども。",
+        "audio_begin": 262479,
+        "audio_end": 268944
     },
     {
         "id": "f000056",
         "sentence": "置いて日本へかえってからは寄越す手紙ばかりを楽しみにして居るわたし達、",
-        "sentence_with_furigana": "置いて日本へかえってからは 寄越[よこ]す手紙ばかりを楽しみにして居るわたし達、"
+        "sentence_with_furigana": "置いて日本へかえってからは 寄越[よこ]す手紙ばかりを楽しみにして居るわたし達、",
+        "audio_begin": 268944,
+        "audio_end": 277224
     },
     {
         "id": "f000057",
         "sentence": "冬の灯ともす頃はことさら巴里の画室で故郷をおもうと書き寄越した手紙を読んだわたしは直ぐにもこの人を起こす。",
-        "sentence_with_furigana": "冬の 灯[あかり]ともす頃はことさら巴里の画室で故郷をおもうと書き寄越した手紙を読んだわたしは 直[す]ぐにもこの人を起こす。"
+        "sentence_with_furigana": "冬の 灯[あかり]ともす頃はことさら巴里の画室で故郷をおもうと書き寄越した手紙を読んだわたしは 直[す]ぐにもこの人を起こす。",
+        "audio_begin": 277224,
+        "audio_end": 288422
     },
     {
         "id": "f000058",
         "sentence": "いつも寝入ればなかなか起きないこの人がたやすく起きる。",
-        "sentence_with_furigana": "いつも寝入ればなかなか起きないこの人がたやすく起きる。"
+        "sentence_with_furigana": "いつも寝入ればなかなか起きないこの人がたやすく起きる。",
+        "audio_begin": 288422,
+        "audio_end": 294904
     },
     {
         "id": "f000059",
         "sentence": "そして涙ぐみつつふたり茶をのむ夜ふけ——",
-        "sentence_with_furigana": "そして涙ぐみつつふたり茶をのむ夜ふけ——"
+        "sentence_with_furigana": "そして涙ぐみつつふたり茶をのむ夜ふけ——",
+        "audio_begin": 294904,
+        "audio_end": 300726
     },
     {
         "id": "f000060",
         "sentence": "外にはかすかな木枯の風。",
-        "sentence_with_furigana": "外にはかすかな 木枯[こがらし]の風。"
+        "sentence_with_furigana": "外にはかすかな 木枯[こがらし]の風。",
+        "audio_begin": 300726,
+        "audio_end": 304252
     }
 ]

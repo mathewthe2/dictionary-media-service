@@ -1,0 +1,1381 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "ハンス・クリスチャン・アンデルセン　Hans Christian Andersen　作",
+        "sentence_with_furigana": "ハンス・クリスチャン・アンデルセン　Hans Christian Andersen　作",
+        "audio_begin": 1828,
+        "audio_end": 5120
+    },
+    {
+        "id": "f000002",
+        "sentence": "大久保ゆう訳",
+        "sentence_with_furigana": "大久保ゆう訳",
+        "audio_begin": 5120,
+        "audio_end": 9000
+    },
+    {
+        "id": "f000003",
+        "sentence": "マッチ売りの少女",
+        "sentence_with_furigana": "マッチ売りの少女",
+        "audio_begin": 9000,
+        "audio_end": 10940
+    },
+    {
+        "id": "f000004",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "audio_begin": 13040,
+        "audio_end": 14600
+    },
+    {
+        "id": "f000005",
+        "sentence": "ひどく寒いおおみそかの夜のことでした。",
+        "sentence_with_furigana": "ひどく寒いおおみそかの夜のことでした。",
+        "audio_begin": 14600,
+        "audio_end": 20200
+    },
+    {
+        "id": "f000006",
+        "sentence": "あたりはもうまっくらで、",
+        "sentence_with_furigana": "あたりはもうまっくらで、",
+        "audio_begin": 20200,
+        "audio_end": 23367
+    },
+    {
+        "id": "f000007",
+        "sentence": "こんこんと雪が降っていました。",
+        "sentence_with_furigana": "こんこんと雪が降っていました。",
+        "audio_begin": 23367,
+        "audio_end": 26380
+    },
+    {
+        "id": "f000008",
+        "sentence": "寒い夜の中、",
+        "sentence_with_furigana": "寒い夜の中、",
+        "audio_begin": 28480,
+        "audio_end": 31400
+    },
+    {
+        "id": "f000009",
+        "sentence": "みすぼらしい一人の少女が歩いていました。",
+        "sentence_with_furigana": "みすぼらしい一人の少女が歩いていました。",
+        "audio_begin": 31400,
+        "audio_end": 36600
+    },
+    {
+        "id": "f000010",
+        "sentence": "ぼうしもかぶらず、",
+        "sentence_with_furigana": "ぼうしもかぶらず、",
+        "audio_begin": 36600,
+        "audio_end": 38400
+    },
+    {
+        "id": "f000011",
+        "sentence": "はだしでしたが、",
+        "sentence_with_furigana": "はだしでしたが、",
+        "audio_begin": 38400,
+        "audio_end": 40273
+    },
+    {
+        "id": "f000012",
+        "sentence": "どこへ行くというわけでもありません。",
+        "sentence_with_furigana": "どこへ行くというわけでもありません。",
+        "audio_begin": 40273,
+        "audio_end": 44680
+    },
+    {
+        "id": "f000013",
+        "sentence": "行くあてがないのです。",
+        "sentence_with_furigana": "行くあてがないのです。",
+        "audio_begin": 44680,
+        "audio_end": 49520
+    },
+    {
+        "id": "f000014",
+        "sentence": "ほんとうは家を出るときに一足の木ぐつをはいていました。",
+        "sentence_with_furigana": "ほんとうは家を出るときに一足の木ぐつをはいていました。",
+        "audio_begin": 49520,
+        "audio_end": 56680
+    },
+    {
+        "id": "f000015",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、",
+        "audio_begin": 56680,
+        "audio_end": 57880
+    },
+    {
+        "id": "f000016",
+        "sentence": "サイズが大きくぶかぶかで、",
+        "sentence_with_furigana": "サイズが大きくぶかぶかで、",
+        "audio_begin": 57880,
+        "audio_end": 60800
+    },
+    {
+        "id": "f000017",
+        "sentence": "役に立ちませんでした。",
+        "sentence_with_furigana": "役に立ちませんでした。",
+        "audio_begin": 60800,
+        "audio_end": 64750
+    },
+    {
+        "id": "f000018",
+        "sentence": "実はお母さんのものだったので無理もありません。",
+        "sentence_with_furigana": "実はお母さんのものだったので無理もありません。",
+        "audio_begin": 64750,
+        "audio_end": 71160
+    },
+    {
+        "id": "f000019",
+        "sentence": "道路をわたるときに、",
+        "sentence_with_furigana": "道路をわたるときに、",
+        "audio_begin": 71160,
+        "audio_end": 73720
+    },
+    {
+        "id": "f000020",
+        "sentence": "二台の馬車がとんでもない速さで走ってきたのです。",
+        "sentence_with_furigana": "二台の馬車がとんでもない速さで走ってきたのです。",
+        "audio_begin": 73720,
+        "audio_end": 80000
+    },
+    {
+        "id": "f000021",
+        "sentence": "少女は馬車をよけようとして、",
+        "sentence_with_furigana": "少女は馬車をよけようとして、",
+        "audio_begin": 80000,
+        "audio_end": 82894
+    },
+    {
+        "id": "f000022",
+        "sentence": "木ぐつをなくしてしまいました。",
+        "sentence_with_furigana": "木ぐつをなくしてしまいました。",
+        "audio_begin": 82894,
+        "audio_end": 85200
+    },
+    {
+        "id": "f000023",
+        "sentence": "木ぐつの片方は見つかりませんでした。",
+        "sentence_with_furigana": "木ぐつの片方は見つかりませんでした。",
+        "audio_begin": 87500,
+        "audio_end": 92320
+    },
+    {
+        "id": "f000024",
+        "sentence": "もう片方は若者がすばやくひろって、",
+        "sentence_with_furigana": "もう片方は若者がすばやくひろって、",
+        "audio_begin": 92320,
+        "audio_end": 97504
+    },
+    {
+        "id": "f000025",
+        "sentence": "「子供ができたときに、",
+        "sentence_with_furigana": "「子供ができたときに、",
+        "audio_begin": 97504,
+        "audio_end": 99384
+    },
+    {
+        "id": "f000026",
+        "sentence": "ゆりかごの代わりになる。",
+        "sentence_with_furigana": "ゆりかごの代わりになる。",
+        "audio_begin": 99384,
+        "audio_end": 101744
+    },
+    {
+        "id": "f000027",
+        "sentence": "」と言って、",
+        "sentence_with_furigana": "」と言って、",
+        "audio_begin": 101744,
+        "audio_end": 102840
+    },
+    {
+        "id": "f000028",
+        "sentence": "持ちさってしまいました。",
+        "sentence_with_furigana": "持ちさってしまいました。",
+        "audio_begin": 102840,
+        "audio_end": 105945
+    },
+    {
+        "id": "f000029",
+        "sentence": "だから少女はその小さなあんよに何もはかないままでした。",
+        "sentence_with_furigana": "だから少女はその小さなあんよに何もはかないままでした。",
+        "audio_begin": 105945,
+        "audio_end": 113720
+    },
+    {
+        "id": "f000030",
+        "sentence": "あんよは寒さのために赤くはれて、",
+        "sentence_with_furigana": "あんよは寒さのために赤くはれて、",
+        "audio_begin": 113720,
+        "audio_end": 118040
+    },
+    {
+        "id": "f000031",
+        "sentence": "青じんでいます。",
+        "sentence_with_furigana": "青じんでいます。",
+        "audio_begin": 118040,
+        "audio_end": 119600
+    },
+    {
+        "id": "f000032",
+        "sentence": "少女の古びたエプロンの中にはたくさんのマッチが入っています。",
+        "sentence_with_furigana": "少女の古びたエプロンの中にはたくさんのマッチが入っています。",
+        "audio_begin": 122400,
+        "audio_end": 127800
+    },
+    {
+        "id": "f000033",
+        "sentence": "手の中にも一箱持っていました。",
+        "sentence_with_furigana": "手の中にも一箱持っていました。",
+        "audio_begin": 129600,
+        "audio_end": 134409
+    },
+    {
+        "id": "f000034",
+        "sentence": "一日中売り歩いても、",
+        "sentence_with_furigana": "一日中売り歩いても、",
+        "audio_begin": 134409,
+        "audio_end": 137652
+    },
+    {
+        "id": "f000035",
+        "sentence": "買ってくれる人も、",
+        "sentence_with_furigana": "買ってくれる人も、",
+        "audio_begin": 137652,
+        "audio_end": 140240
+    },
+    {
+        "id": "f000036",
+        "sentence": "一枚の銅貨すらくれる人もいませんでした。",
+        "sentence_with_furigana": "一枚の 銅貨[どうか]すらくれる人もいませんでした。",
+        "audio_begin": 140240,
+        "audio_end": 145880
+    },
+    {
+        "id": "f000037",
+        "sentence": "少女はおなかがへりました。",
+        "sentence_with_furigana": "少女はおなかがへりました。",
+        "audio_begin": 145880,
+        "audio_end": 149600
+    },
+    {
+        "id": "f000038",
+        "sentence": "寒さにぶるぶるふるえながらゆっくり歩いていました。",
+        "sentence_with_furigana": "寒さにぶるぶるふるえながらゆっくり歩いていました。",
+        "audio_begin": 149600,
+        "audio_end": 156792
+    },
+    {
+        "id": "f000039",
+        "sentence": "それはみすぼらしいと言うよりも、",
+        "sentence_with_furigana": "それはみすぼらしいと言うよりも、",
+        "audio_begin": 156792,
+        "audio_end": 161320
+    },
+    {
+        "id": "f000040",
+        "sentence": "あわれでした。",
+        "sentence_with_furigana": "あわれでした。",
+        "audio_begin": 161320,
+        "audio_end": 162540
+    },
+    {
+        "id": "f000041",
+        "sentence": "少女の肩でカールしている長い金色のかみの毛に、",
+        "sentence_with_furigana": "少女の肩でカールしている長い金色のかみの毛に、",
+        "audio_begin": 164640,
+        "audio_end": 170920
+    },
+    {
+        "id": "f000042",
+        "sentence": "雪のかけらがぴゅうぴゅうと降りかかっていました。",
+        "sentence_with_furigana": "雪のかけらがぴゅうぴゅうと降りかかっていました。",
+        "audio_begin": 170920,
+        "audio_end": 176200
+    },
+    {
+        "id": "f000043",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、",
+        "audio_begin": 176200,
+        "audio_end": 177480
+    },
+    {
+        "id": "f000044",
+        "sentence": "少女はそんなことに気付いていませんでした。",
+        "sentence_with_furigana": "少女はそんなことに気付いていませんでした。",
+        "audio_begin": 177480,
+        "audio_end": 184372
+    },
+    {
+        "id": "f000045",
+        "sentence": "どの家のまども明かりがあかあかとついていて、",
+        "sentence_with_furigana": "どの家のまども明かりがあかあかとついていて、",
+        "audio_begin": 184372,
+        "audio_end": 190240
+    },
+    {
+        "id": "f000046",
+        "sentence": "おなかがグゥとなりそうなガチョウの丸焼きのにおいがします。",
+        "sentence_with_furigana": "おなかがグゥとなりそうなガチョウの丸焼きのにおいがします。",
+        "audio_begin": 190240,
+        "audio_end": 196180
+    },
+    {
+        "id": "f000047",
+        "sentence": "そっか、",
+        "sentence_with_furigana": "そっか、",
+        "audio_begin": 198280,
+        "audio_end": 199917
+    },
+    {
+        "id": "f000048",
+        "sentence": "今日はおおみそかなんだ、",
+        "sentence_with_furigana": "今日はおおみそかなんだ、",
+        "audio_begin": 199917,
+        "audio_end": 202705
+    },
+    {
+        "id": "f000049",
+        "sentence": "と少女は思いました。",
+        "sentence_with_furigana": "と少女は思いました。",
+        "audio_begin": 202705,
+        "audio_end": 205556
+    },
+    {
+        "id": "f000050",
+        "sentence": "一つの家がとなりの家よりも通りに出ていて、",
+        "sentence_with_furigana": "一つの家がとなりの家よりも通りに出ていて、",
+        "audio_begin": 206680,
+        "audio_end": 211183
+    },
+    {
+        "id": "f000051",
+        "sentence": "影になっている場所がありました。",
+        "sentence_with_furigana": "影になっている場所がありました。",
+        "audio_begin": 211183,
+        "audio_end": 215120
+    },
+    {
+        "id": "f000052",
+        "sentence": "地べたに少女はぐったりと座りこんで、",
+        "sentence_with_furigana": "地べたに少女はぐったりと座りこんで、",
+        "audio_begin": 215120,
+        "audio_end": 219600
+    },
+    {
+        "id": "f000053",
+        "sentence": "身をちぢめて丸くなりました。",
+        "sentence_with_furigana": "身をちぢめて丸くなりました。",
+        "audio_begin": 219600,
+        "audio_end": 221680
+    },
+    {
+        "id": "f000054",
+        "sentence": "小さなあんよをぎゅっと引きよせましたが、",
+        "sentence_with_furigana": "小さなあんよをぎゅっと引きよせましたが、",
+        "audio_begin": 223580,
+        "audio_end": 227914
+    },
+    {
+        "id": "f000055",
+        "sentence": "寒さをしのぐことはできません。",
+        "sentence_with_furigana": "寒さをしのぐことはできません。",
+        "audio_begin": 227914,
+        "audio_end": 230420
+    },
+    {
+        "id": "f000056",
+        "sentence": "少女には、",
+        "sentence_with_furigana": "少女には、",
+        "audio_begin": 232520,
+        "audio_end": 233781
+    },
+    {
+        "id": "f000057",
+        "sentence": "家に帰る勇気はありませんでした。",
+        "sentence_with_furigana": "家に帰る勇気はありませんでした。",
+        "audio_begin": 233781,
+        "audio_end": 238000
+    },
+    {
+        "id": "f000058",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、",
+        "audio_begin": 238000,
+        "audio_end": 239480
+    },
+    {
+        "id": "f000059",
+        "sentence": "マッチが一箱も売れていないので、",
+        "sentence_with_furigana": "マッチが一箱も売れていないので、",
+        "audio_begin": 239480,
+        "audio_end": 242800
+    },
+    {
+        "id": "f000060",
+        "sentence": "一枚の銅貨さえ家に持ち帰ることができないのですから。",
+        "sentence_with_furigana": "一枚の銅貨さえ家に持ち帰ることができないのですから。",
+        "audio_begin": 242800,
+        "audio_end": 249200
+    },
+    {
+        "id": "f000061",
+        "sentence": "するとお父さんはぜったいほっぺをぶつにちがいありません。",
+        "sentence_with_furigana": "するとお父さんはぜったいほっぺをぶつにちがいありません。",
+        "audio_begin": 249200,
+        "audio_end": 255545
+    },
+    {
+        "id": "f000062",
+        "sentence": "ここも家も寒いのには変わりないのです、",
+        "sentence_with_furigana": "ここも家も寒いのには変わりないのです、",
+        "audio_begin": 255545,
+        "audio_end": 260880
+    },
+    {
+        "id": "f000063",
+        "sentence": "あそこは屋根があるだけ。",
+        "sentence_with_furigana": "あそこは屋根があるだけ。",
+        "audio_begin": 260880,
+        "audio_end": 264520
+    },
+    {
+        "id": "f000064",
+        "sentence": "その屋根だって、",
+        "sentence_with_furigana": "その屋根だって、",
+        "audio_begin": 264520,
+        "audio_end": 266480
+    },
+    {
+        "id": "f000065",
+        "sentence": "大きな穴があいていて、",
+        "sentence_with_furigana": "大きな穴があいていて、",
+        "audio_begin": 266480,
+        "audio_end": 269120
+    },
+    {
+        "id": "f000066",
+        "sentence": "すきま風をわらとぼろ布でふさいであるだけ。",
+        "sentence_with_furigana": "すきま風をわらとぼろ布でふさいであるだけ。",
+        "audio_begin": 269120,
+        "audio_end": 272840
+    },
+    {
+        "id": "f000067",
+        "sentence": "小さな少女の手は今にもこごえそうでした。",
+        "sentence_with_furigana": "小さな少女の手は今にもこごえそうでした。",
+        "audio_begin": 275140,
+        "audio_end": 279700
+    },
+    {
+        "id": "f000068",
+        "sentence": "そうです！",
+        "sentence_with_furigana": "そうです！",
+        "audio_begin": 281800,
+        "audio_end": 283320
+    },
+    {
+        "id": "f000069",
+        "sentence": "マッチの火が役に立つかもしれません。",
+        "sentence_with_furigana": "マッチの火が役に立つかもしれません。",
+        "audio_begin": 283320,
+        "audio_end": 287600
+    },
+    {
+        "id": "f000070",
+        "sentence": "マッチを箱から取り出して、",
+        "sentence_with_furigana": "マッチを箱から取り出して、",
+        "audio_begin": 287600,
+        "audio_end": 290355
+    },
+    {
+        "id": "f000071",
+        "sentence": "カベでこすれば手があたたまるかもしれません。",
+        "sentence_with_furigana": "カベでこすれば手があたたまるかもしれません。",
+        "audio_begin": 290355,
+        "audio_end": 295400
+    },
+    {
+        "id": "f000072",
+        "sentence": "少女は一本マッチを取り出して──「シュッ！",
+        "sentence_with_furigana": "少女は一本マッチを取り出して──「シュッ！",
+        "audio_begin": 295400,
+        "audio_end": 298880
+    },
+    {
+        "id": "f000073",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 298880,
+        "audio_end": 299440
+    },
+    {
+        "id": "f000074",
+        "sentence": "こすると、",
+        "sentence_with_furigana": "こすると、",
+        "audio_begin": 299440,
+        "audio_end": 301200
+    },
+    {
+        "id": "f000075",
+        "sentence": "マッチがメラメラもえだしました！",
+        "sentence_with_furigana": "マッチがメラメラもえだしました！",
+        "audio_begin": 301200,
+        "audio_end": 305240
+    },
+    {
+        "id": "f000076",
+        "sentence": "あたたかくて、",
+        "sentence_with_furigana": "あたたかくて、",
+        "audio_begin": 305240,
+        "audio_end": 306800
+    },
+    {
+        "id": "f000077",
+        "sentence": "明るくて、",
+        "sentence_with_furigana": "明るくて、",
+        "audio_begin": 306800,
+        "audio_end": 308618
+    },
+    {
+        "id": "f000078",
+        "sentence": "小さなロウソクみたいに少女の手の中でもえるのです。",
+        "sentence_with_furigana": "小さなロウソクみたいに少女の手の中でもえるのです。",
+        "audio_begin": 308618,
+        "audio_end": 314693
+    },
+    {
+        "id": "f000079",
+        "sentence": "本当にふしぎな火でした。",
+        "sentence_with_furigana": "本当にふしぎな火でした。",
+        "audio_begin": 314693,
+        "audio_end": 319160
+    },
+    {
+        "id": "f000080",
+        "sentence": "まるで、",
+        "sentence_with_furigana": "まるで、",
+        "audio_begin": 319160,
+        "audio_end": 320400
+    },
+    {
+        "id": "f000081",
+        "sentence": "大きな鉄のだるまストーブの前にいるみたいでした、",
+        "sentence_with_furigana": "大きな鉄のだるまストーブの前にいるみたいでした、",
+        "audio_begin": 320400,
+        "audio_end": 325240
+    },
+    {
+        "id": "f000082",
+        "sentence": "いえ、",
+        "sentence_with_furigana": "いえ、",
+        "audio_begin": 325240,
+        "audio_end": 326040
+    },
+    {
+        "id": "f000083",
+        "sentence": "本当にいたのです。",
+        "sentence_with_furigana": "本当にいたのです。",
+        "audio_begin": 326040,
+        "audio_end": 328812
+    },
+    {
+        "id": "f000084",
+        "sentence": "目の前にはぴかぴかの金属の足とふたのついた、",
+        "sentence_with_furigana": "目の前にはぴかぴかの 金属[きんぞく]の足とふたのついた、",
+        "audio_begin": 328812,
+        "audio_end": 333640
+    },
+    {
+        "id": "f000085",
+        "sentence": "だるまストーブがあるのです。",
+        "sentence_with_furigana": "だるまストーブがあるのです。",
+        "audio_begin": 333640,
+        "audio_end": 335320
+    },
+    {
+        "id": "f000086",
+        "sentence": "とてもあたたかい火がすぐ近くにあるのです。",
+        "sentence_with_furigana": "とてもあたたかい火がすぐ近くにあるのです。",
+        "audio_begin": 337020,
+        "audio_end": 341580
+    },
+    {
+        "id": "f000087",
+        "sentence": "少女はもっとあたたまろうと、",
+        "sentence_with_furigana": "少女はもっとあたたまろうと、",
+        "audio_begin": 342740,
+        "audio_end": 345680
+    },
+    {
+        "id": "f000088",
+        "sentence": "だるまストーブの方へ足をのばしました。",
+        "sentence_with_furigana": "だるまストーブの方へ足をのばしました。",
+        "audio_begin": 345680,
+        "audio_end": 349693
+    },
+    {
+        "id": "f000089",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 349693,
+        "audio_end": 350720
+    },
+    {
+        "id": "f000090",
+        "sentence": "そのとき！",
+        "sentence_with_furigana": "そのとき！",
+        "audio_begin": 350720,
+        "audio_end": 353040
+    },
+    {
+        "id": "f000091",
+        "sentence": "マッチの火は消えて、",
+        "sentence_with_furigana": "マッチの火は消えて、",
+        "audio_begin": 353040,
+        "audio_end": 355480
+    },
+    {
+        "id": "f000092",
+        "sentence": "だるまストーブもパッとなくなってしまい、",
+        "sentence_with_furigana": "だるまストーブもパッとなくなってしまい、",
+        "audio_begin": 355480,
+        "audio_end": 359660
+    },
+    {
+        "id": "f000093",
+        "sentence": "手の中に残ったのはマッチのもえかすだけでした。",
+        "sentence_with_furigana": "手の中に残ったのはマッチのもえかすだけでした。",
+        "audio_begin": 359660,
+        "audio_end": 364922
+    },
+    {
+        "id": "f000094",
+        "sentence": "少女はべつのマッチをかべでこすりました。",
+        "sentence_with_furigana": "少女はべつのマッチをかべでこすりました。",
+        "audio_begin": 366760,
+        "audio_end": 370640
+    },
+    {
+        "id": "f000095",
+        "sentence": "すると、",
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 370640,
+        "audio_end": 371960
+    },
+    {
+        "id": "f000096",
+        "sentence": "火はいきおいよくもえだしました。",
+        "sentence_with_furigana": "火はいきおいよくもえだしました。",
+        "audio_begin": 371960,
+        "audio_end": 375440
+    },
+    {
+        "id": "f000097",
+        "sentence": "光がとてもまぶしくて、",
+        "sentence_with_furigana": "光がとてもまぶしくて、",
+        "audio_begin": 375440,
+        "audio_end": 378271
+    },
+    {
+        "id": "f000098",
+        "sentence": "かべがヴェールのようにすき通ったかと思うと、",
+        "sentence_with_furigana": "かべがヴェールのようにすき通ったかと思うと、",
+        "audio_begin": 378271,
+        "audio_end": 382760
+    },
+    {
+        "id": "f000099",
+        "sentence": "いつのまにか部屋の中にいました。",
+        "sentence_with_furigana": "いつのまにか部屋の中にいました。",
+        "audio_begin": 382760,
+        "audio_end": 387973
+    },
+    {
+        "id": "f000100",
+        "sentence": "テーブルには雪のように白いテーブルクロスがかかっていて、",
+        "sentence_with_furigana": "テーブルには雪のように白いテーブルクロスがかかっていて、",
+        "audio_begin": 387973,
+        "audio_end": 394400
+    },
+    {
+        "id": "f000101",
+        "sentence": "上にごうかな銀食器、",
+        "sentence_with_furigana": "上にごうかな銀食器、",
+        "audio_begin": 394400,
+        "audio_end": 397280
+    },
+    {
+        "id": "f000102",
+        "sentence": "ガチョウの丸焼きがのっていました。",
+        "sentence_with_furigana": "ガチョウの丸焼きがのっていました。",
+        "audio_begin": 397280,
+        "audio_end": 400880
+    },
+    {
+        "id": "f000103",
+        "sentence": "ガチョウの丸焼きにはリンゴとかんそうモモのつめ物がしてあって、",
+        "sentence_with_furigana": "ガチョウの丸焼きにはリンゴとかんそうモモのつめ物がしてあって、",
+        "audio_begin": 400880,
+        "audio_end": 407280
+    },
+    {
+        "id": "f000104",
+        "sentence": "湯気が立っていてとてもおいしそうでした。",
+        "sentence_with_furigana": "湯気が立っていてとてもおいしそうでした。",
+        "audio_begin": 407280,
+        "audio_end": 411907
+    },
+    {
+        "id": "f000105",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 411907,
+        "audio_end": 413200
+    },
+    {
+        "id": "f000106",
+        "sentence": "ふしぎなことにそのガチョウが胸にナイフとフォークがささったまま、",
+        "sentence_with_furigana": "ふしぎなことにそのガチョウが 胸[むね]にナイフとフォークがささったまま、",
+        "audio_begin": 413200,
+        "audio_end": 420320
+    },
+    {
+        "id": "f000107",
+        "sentence": "お皿から飛びおりて、",
+        "sentence_with_furigana": "お皿から飛びおりて、",
+        "audio_begin": 420320,
+        "audio_end": 422329
+    },
+    {
+        "id": "f000108",
+        "sentence": "ゆかをよちよち歩き出し、",
+        "sentence_with_furigana": "ゆかをよちよち歩き出し、",
+        "audio_begin": 422329,
+        "audio_end": 424827
+    },
+    {
+        "id": "f000109",
+        "sentence": "少女の方へ向かってきました。",
+        "sentence_with_furigana": "少女の方へ向かってきました。",
+        "audio_begin": 424827,
+        "audio_end": 428360
+    },
+    {
+        "id": "f000110",
+        "sentence": "そのとき、",
+        "sentence_with_furigana": "そのとき、",
+        "audio_begin": 428360,
+        "audio_end": 430240
+    },
+    {
+        "id": "f000111",
+        "sentence": "またマッチが消えてしまいました。",
+        "sentence_with_furigana": "またマッチが消えてしまいました。",
+        "audio_begin": 430240,
+        "audio_end": 433760
+    },
+    {
+        "id": "f000112",
+        "sentence": "よく見ると少女の前には、",
+        "sentence_with_furigana": "よく見ると少女の前には、",
+        "audio_begin": 433760,
+        "audio_end": 436839
+    },
+    {
+        "id": "f000113",
+        "sentence": "冷たくしめったぶ厚いかべしかありませんでした。",
+        "sentence_with_furigana": "冷たくしめったぶ厚いかべしかありませんでした。",
+        "audio_begin": 436839,
+        "audio_end": 440800
+    },
+    {
+        "id": "f000114",
+        "sentence": "少女はもう一つマッチをすると、",
+        "sentence_with_furigana": "少女はもう一つマッチをすると、",
+        "audio_begin": 444400,
+        "audio_end": 447891
+    },
+    {
+        "id": "f000115",
+        "sentence": "今度はあっというまもありませんでした。",
+        "sentence_with_furigana": "今度はあっというまもありませんでした。",
+        "audio_begin": 447891,
+        "audio_end": 452320
+    },
+    {
+        "id": "f000116",
+        "sentence": "少女はきれいなクリスマスツリーの下に座っていたのです。",
+        "sentence_with_furigana": "少女はきれいなクリスマスツリーの下に座っていたのです。",
+        "audio_begin": 452320,
+        "audio_end": 456720
+    },
+    {
+        "id": "f000117",
+        "sentence": "ツリーはとても大きく、",
+        "sentence_with_furigana": "ツリーはとても大きく、",
+        "audio_begin": 458620,
+        "audio_end": 460920
+    },
+    {
+        "id": "f000118",
+        "sentence": "きれいにかざられていました。",
+        "sentence_with_furigana": "きれいにかざられていました。",
+        "audio_begin": 460920,
+        "audio_end": 464240
+    },
+    {
+        "id": "f000119",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "audio_begin": 464240,
+        "audio_end": 465400
+    },
+    {
+        "id": "f000120",
+        "sentence": "少女がガラス戸ごしに見てきた、",
+        "sentence_with_furigana": "少女がガラス戸ごしに見てきた、",
+        "audio_begin": 465400,
+        "audio_end": 468280
+    },
+    {
+        "id": "f000121",
+        "sentence": "どんなお金持ちの家のツリーよりもきれいでごうかでした。",
+        "sentence_with_furigana": "どんなお金持ちの家のツリーよりもきれいでごうかでした。",
+        "audio_begin": 468280,
+        "audio_end": 472600
+    },
+    {
+        "id": "f000122",
+        "sentence": "ショーウィンドウの中にあるあざやかな絵みたいに、",
+        "sentence_with_furigana": "ショーウィンドウの中にあるあざやかな絵みたいに、",
+        "audio_begin": 474600,
+        "audio_end": 479446
+    },
+    {
+        "id": "f000123",
+        "sentence": "ツリーのまわりの何千本もの細長いロウソクが、",
+        "sentence_with_furigana": "ツリーのまわりの何千本もの細長いロウソクが、",
+        "audio_begin": 479446,
+        "audio_end": 484280
+    },
+    {
+        "id": "f000124",
+        "sentence": "少女の頭の上できらきらしていました。",
+        "sentence_with_furigana": "少女の頭の上できらきらしていました。",
+        "audio_begin": 484280,
+        "audio_end": 489480
+    },
+    {
+        "id": "f000125",
+        "sentence": "少女が手をのばそうとすると、",
+        "sentence_with_furigana": "少女が手をのばそうとすると、",
+        "audio_begin": 489480,
+        "audio_end": 492520
+    },
+    {
+        "id": "f000126",
+        "sentence": "マッチはふっと消えてしまいました。",
+        "sentence_with_furigana": "マッチはふっと消えてしまいました。",
+        "audio_begin": 492520,
+        "audio_end": 495440
+    },
+    {
+        "id": "f000127",
+        "sentence": "たくさんあったクリスマスのロウソクはみんな、",
+        "sentence_with_furigana": "たくさんあったクリスマスのロウソクはみんな、",
+        "audio_begin": 498140,
+        "audio_end": 502320
+    },
+    {
+        "id": "f000128",
+        "sentence": "ぐんぐん空にのぼっていって、",
+        "sentence_with_furigana": "ぐんぐん空にのぼっていって、",
+        "audio_begin": 502320,
+        "audio_end": 505280
+    },
+    {
+        "id": "f000129",
+        "sentence": "夜空にちりばめた星たちと見分けがつかなくなってしまいました。",
+        "sentence_with_furigana": "夜空にちりばめた星たちと見分けがつかなくなってしまいました。",
+        "audio_begin": 505280,
+        "audio_end": 511885
+    },
+    {
+        "id": "f000130",
+        "sentence": "そのとき少女は一すじの流れ星を見つけました。",
+        "sentence_with_furigana": "そのとき少女は一すじの流れ星を見つけました。",
+        "audio_begin": 511885,
+        "audio_end": 517919
+    },
+    {
+        "id": "f000131",
+        "sentence": "すぅっと黄色い線をえがいています。",
+        "sentence_with_furigana": "すぅっと黄色い線をえがいています。",
+        "audio_begin": 517919,
+        "audio_end": 523520
+    },
+    {
+        "id": "f000132",
+        "sentence": "「だれかが死ぬんだ……」と、",
+        "sentence_with_furigana": "「だれかが死ぬんだ……」と、",
+        "audio_begin": 523520,
+        "audio_end": 526218
+    },
+    {
+        "id": "f000133",
+        "sentence": "少女は思いました。",
+        "sentence_with_furigana": "少女は思いました。",
+        "audio_begin": 526218,
+        "audio_end": 529320
+    },
+    {
+        "id": "f000134",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、",
+        "audio_begin": 529320,
+        "audio_end": 530800
+    },
+    {
+        "id": "f000135",
+        "sentence": "おばあさんが流れ星を見るといつもこう言ったからです。",
+        "sentence_with_furigana": "おばあさんが流れ星を見るといつもこう言ったからです。",
+        "audio_begin": 530800,
+        "audio_end": 538000
+    },
+    {
+        "id": "f000136",
+        "sentence": "人が死ぬと、",
+        "sentence_with_furigana": "人が死ぬと、",
+        "audio_begin": 538000,
+        "audio_end": 539880
+    },
+    {
+        "id": "f000137",
+        "sentence": "流れ星が落ちて命が神さまのところへ行く、",
+        "sentence_with_furigana": "流れ星が落ちて命が神さまのところへ行く、",
+        "audio_begin": 539880,
+        "audio_end": 544320
+    },
+    {
+        "id": "f000138",
+        "sentence": "と言っていました。",
+        "sentence_with_furigana": "と言っていました。",
+        "audio_begin": 544320,
+        "audio_end": 547480
+    },
+    {
+        "id": "f000139",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、",
+        "audio_begin": 547480,
+        "audio_end": 548640
+    },
+    {
+        "id": "f000140",
+        "sentence": "そのなつかしいおばあさんはもういません。",
+        "sentence_with_furigana": "そのなつかしいおばあさんはもういません。",
+        "audio_begin": 548640,
+        "audio_end": 553880
+    },
+    {
+        "id": "f000141",
+        "sentence": "少女を愛してくれたたった一人の人はもう死んでいないのです。",
+        "sentence_with_furigana": "少女を愛してくれたたった一人の人はもう死んでいないのです。",
+        "audio_begin": 553880,
+        "audio_end": 560920
+    },
+    {
+        "id": "f000142",
+        "sentence": "少女はもう一度マッチをすりました。",
+        "sentence_with_furigana": "少女はもう一度マッチをすりました。",
+        "audio_begin": 563720,
+        "audio_end": 567560
+    },
+    {
+        "id": "f000143",
+        "sentence": "少女のまわりを光がつつみこんでいきます。",
+        "sentence_with_furigana": "少女のまわりを光がつつみこんでいきます。",
+        "audio_begin": 567560,
+        "audio_end": 572240
+    },
+    {
+        "id": "f000144",
+        "sentence": "前を見ると、",
+        "sentence_with_furigana": "前を見ると、",
+        "audio_begin": 572240,
+        "audio_end": 573800
+    },
+    {
+        "id": "f000145",
+        "sentence": "光の中におばあさんが立っていました。",
+        "sentence_with_furigana": "光の中におばあさんが立っていました。",
+        "audio_begin": 573800,
+        "audio_end": 578320
+    },
+    {
+        "id": "f000146",
+        "sentence": "明るくて、",
+        "sentence_with_furigana": "明るくて、",
+        "audio_begin": 578320,
+        "audio_end": 579840
+    },
+    {
+        "id": "f000147",
+        "sentence": "本当にそこにいるみたいでした。",
+        "sentence_with_furigana": "本当にそこにいるみたいでした。",
+        "audio_begin": 579840,
+        "audio_end": 583720
+    },
+    {
+        "id": "f000148",
+        "sentence": "むかしと同じように、",
+        "sentence_with_furigana": "むかしと同じように、",
+        "audio_begin": 583720,
+        "audio_end": 586040
+    },
+    {
+        "id": "f000149",
+        "sentence": "おばあさんはおだやかにやさしく笑っていました。",
+        "sentence_with_furigana": "おばあさんはおだやかにやさしく笑っていました。",
+        "audio_begin": 586040,
+        "audio_end": 592280
+    },
+    {
+        "id": "f000150",
+        "sentence": "「おばあちゃん！",
+        "sentence_with_furigana": "「おばあちゃん！",
+        "audio_begin": 592280,
+        "audio_end": 594469
+    },
+    {
+        "id": "f000151",
+        "sentence": "」と、",
+        "sentence_with_furigana": "」と、",
+        "audio_begin": 594469,
+        "audio_end": 594640
+    },
+    {
+        "id": "f000152",
+        "sentence": "少女は大声を上げました。",
+        "sentence_with_furigana": "少女は大声を上げました。",
+        "audio_begin": 594640,
+        "audio_end": 598185
+    },
+    {
+        "id": "f000153",
+        "sentence": "「ねぇ、",
+        "sentence_with_furigana": "「ねぇ、",
+        "audio_begin": 598185,
+        "audio_end": 599360
+    },
+    {
+        "id": "f000154",
+        "sentence": "わたしをいっしょに連れてってくれるの？",
+        "sentence_with_furigana": "わたしをいっしょに連れてってくれるの？",
+        "audio_begin": 599360,
+        "audio_end": 602560
+    },
+    {
+        "id": "f000155",
+        "sentence": "でも……マッチがもえつきたら、",
+        "sentence_with_furigana": "でも……マッチがもえつきたら、",
+        "audio_begin": 602560,
+        "audio_end": 606040
+    },
+    {
+        "id": "f000156",
+        "sentence": "おばあちゃんもどこかへ行っちゃうんでしょ。",
+        "sentence_with_furigana": "おばあちゃんもどこかへ行っちゃうんでしょ。",
+        "audio_begin": 606040,
+        "audio_end": 609640
+    },
+    {
+        "id": "f000157",
+        "sentence": "あったかいストーブや、",
+        "sentence_with_furigana": "あったかいストーブや、",
+        "audio_begin": 609640,
+        "audio_end": 611584
+    },
+    {
+        "id": "f000158",
+        "sentence": "ガチョウの丸焼き、",
+        "sentence_with_furigana": "ガチョウの丸焼き、",
+        "audio_begin": 611584,
+        "audio_end": 614160
+    },
+    {
+        "id": "f000159",
+        "sentence": "大きくてきれいなクリスマスツリーみたいに、",
+        "sentence_with_furigana": "大きくてきれいなクリスマスツリーみたいに、",
+        "audio_begin": 614160,
+        "audio_end": 618044
+    },
+    {
+        "id": "f000160",
+        "sentence": "パッと消えちゃうんでしょ……」少女はマッチの束を全部だして、",
+        "sentence_with_furigana": "パッと消えちゃうんでしょ……」少女はマッチの 束[たば]を全部だして、",
+        "audio_begin": 618044,
+        "audio_end": 624840
+    },
+    {
+        "id": "f000161",
+        "sentence": "残らずマッチに火をつけました。",
+        "sentence_with_furigana": "残らずマッチに火をつけました。",
+        "audio_begin": 624840,
+        "audio_end": 628012
+    },
+    {
+        "id": "f000162",
+        "sentence": "そうしないとおばあさんが消えてしまうからです。",
+        "sentence_with_furigana": "そうしないとおばあさんが消えてしまうからです。",
+        "audio_begin": 628012,
+        "audio_end": 633600
+    },
+    {
+        "id": "f000163",
+        "sentence": "マッチの光は真昼の太陽よりも明るくなりました。",
+        "sentence_with_furigana": "マッチの光は真昼の太陽よりも明るくなりました。",
+        "audio_begin": 633600,
+        "audio_end": 639040
+    },
+    {
+        "id": "f000164",
+        "sentence": "赤々ともえました。",
+        "sentence_with_furigana": "赤々ともえました。",
+        "audio_begin": 639040,
+        "audio_end": 642200
+    },
+    {
+        "id": "f000165",
+        "sentence": "明るくなっても、",
+        "sentence_with_furigana": "明るくなっても、",
+        "audio_begin": 642200,
+        "audio_end": 644000
+    },
+    {
+        "id": "f000166",
+        "sentence": "おばあさんはいつもと同じでした。",
+        "sentence_with_furigana": "おばあさんはいつもと同じでした。",
+        "audio_begin": 644000,
+        "audio_end": 648280
+    },
+    {
+        "id": "f000167",
+        "sentence": "昔みたいに少女をうでの中に抱きしめました。",
+        "sentence_with_furigana": "昔みたいに少女をうでの中に抱きしめました。",
+        "audio_begin": 648280,
+        "audio_end": 654400
+    },
+    {
+        "id": "f000168",
+        "sentence": "そして二人はふわっとうかび上がって、",
+        "sentence_with_furigana": "そして二人はふわっとうかび上がって、",
+        "audio_begin": 654400,
+        "audio_end": 658600
+    },
+    {
+        "id": "f000169",
+        "sentence": "空の向こうの、",
+        "sentence_with_furigana": "空の向こうの、",
+        "audio_begin": 658600,
+        "audio_end": 660760
+    },
+    {
+        "id": "f000170",
+        "sentence": "ずっと遠いところにある光の中の方へ、",
+        "sentence_with_furigana": "ずっと遠いところにある光の中の方へ、",
+        "audio_begin": 660760,
+        "audio_end": 665207
+    },
+    {
+        "id": "f000171",
+        "sentence": "高く高くのぼっていきました。",
+        "sentence_with_furigana": "高く高くのぼっていきました。",
+        "audio_begin": 665207,
+        "audio_end": 669231
+    },
+    {
+        "id": "f000172",
+        "sentence": "そこには寒さもはらぺこも痛みもありません。",
+        "sentence_with_furigana": "そこには寒さもはらぺこも 痛[いた]みもありません。",
+        "audio_begin": 669231,
+        "audio_end": 675174
+    },
+    {
+        "id": "f000173",
+        "sentence": "なぜなら、",
+        "sentence_with_furigana": "なぜなら、",
+        "audio_begin": 675174,
+        "audio_end": 676524
+    },
+    {
+        "id": "f000174",
+        "sentence": "神さまがいるのですから。",
+        "sentence_with_furigana": "神さまがいるのですから。",
+        "audio_begin": 676524,
+        "audio_end": 682720
+    },
+    {
+        "id": "f000175",
+        "sentence": "朝になると、",
+        "sentence_with_furigana": "朝になると、",
+        "audio_begin": 682720,
+        "audio_end": 684760
+    },
+    {
+        "id": "f000176",
+        "sentence": "みすぼらしい服を着た少女がかべによりかかって、",
+        "sentence_with_furigana": "みすぼらしい服を着た少女がかべによりかかって、",
+        "audio_begin": 684760,
+        "audio_end": 689320
+    },
+    {
+        "id": "f000177",
+        "sentence": "動かなくなっていました。",
+        "sentence_with_furigana": "動かなくなっていました。",
+        "audio_begin": 689320,
+        "audio_end": 692548
+    },
+    {
+        "id": "f000178",
+        "sentence": "ほほは青ざめていましたが、",
+        "sentence_with_furigana": "ほほは青ざめていましたが、",
+        "audio_begin": 692548,
+        "audio_end": 695778
+    },
+    {
+        "id": "f000179",
+        "sentence": "口もとは笑っていました。",
+        "sentence_with_furigana": "口もとは笑っていました。",
+        "audio_begin": 695778,
+        "audio_end": 697700
+    },
+    {
+        "id": "f000180",
+        "sentence": "おおみそかの日に、",
+        "sentence_with_furigana": "おおみそかの日に、",
+        "audio_begin": 699800,
+        "audio_end": 702000
+    },
+    {
+        "id": "f000181",
+        "sentence": "少女は寒さのため死んでしまったのです。",
+        "sentence_with_furigana": "少女は寒さのため死んでしまったのです。",
+        "audio_begin": 702000,
+        "audio_end": 705400
+    },
+    {
+        "id": "f000182",
+        "sentence": "今日は一月一日、",
+        "sentence_with_furigana": "今日は一月一日、",
+        "audio_begin": 707500,
+        "audio_end": 710640
+    },
+    {
+        "id": "f000183",
+        "sentence": "一年の一番初めの太陽が、",
+        "sentence_with_furigana": "一年の一番初めの太陽が、",
+        "audio_begin": 710640,
+        "audio_end": 714960
+    },
+    {
+        "id": "f000184",
+        "sentence": "一体の小さななきがらを照らしていました。",
+        "sentence_with_furigana": "一体の小さななきがらを照らしていました。",
+        "audio_begin": 714960,
+        "audio_end": 718220
+    },
+    {
+        "id": "f000185",
+        "sentence": "少女は座ったまま、",
+        "sentence_with_furigana": "少女は座ったまま、",
+        "audio_begin": 720320,
+        "audio_end": 721920
+    },
+    {
+        "id": "f000186",
+        "sentence": "死んでかたくなっていて、",
+        "sentence_with_furigana": "死んでかたくなっていて、",
+        "audio_begin": 721920,
+        "audio_end": 726273
+    },
+    {
+        "id": "f000187",
+        "sentence": "その手の中に、",
+        "sentence_with_furigana": "その手の中に、",
+        "audio_begin": 726273,
+        "audio_end": 728720
+    },
+    {
+        "id": "f000188",
+        "sentence": "マッチのもえかすの束がにぎりしめられていました。",
+        "sentence_with_furigana": "マッチのもえかすの束がにぎりしめられていました。",
+        "audio_begin": 728720,
+        "audio_end": 734613
+    },
+    {
+        "id": "f000189",
+        "sentence": "「この子は自分をあたためようとしたんだ……」と、",
+        "sentence_with_furigana": "「この子は自分をあたためようとしたんだ……」と、",
+        "audio_begin": 734613,
+        "audio_end": 739231
+    },
+    {
+        "id": "f000190",
+        "sentence": "人々は言いました。",
+        "sentence_with_furigana": "人々は言いました。",
+        "audio_begin": 739231,
+        "audio_end": 742120
+    },
+    {
+        "id": "f000191",
+        "sentence": "でも、",
+        "sentence_with_furigana": "でも、",
+        "audio_begin": 742120,
+        "audio_end": 743360
+    },
+    {
+        "id": "f000192",
+        "sentence": "少女がマッチでふしぎできれいなものを見たことも、",
+        "sentence_with_furigana": "少女がマッチでふしぎできれいなものを見たことも、",
+        "audio_begin": 743360,
+        "audio_end": 748960
+    },
+    {
+        "id": "f000193",
+        "sentence": "おばあさんといっしょに新しい年をお祝いしに行ったことも、",
+        "sentence_with_furigana": "おばあさんといっしょに新しい年をお祝いしに行ったことも、",
+        "audio_begin": 748960,
+        "audio_end": 754800
+    },
+    {
+        "id": "f000194",
+        "sentence": "だれも知らないのです。",
+        "sentence_with_furigana": "だれも知らないのです。",
+        "audio_begin": 754800,
+        "audio_end": 757424
+    },
+    {
+        "id": "f000195",
+        "sentence": "だれも……",
+        "sentence_with_furigana": "だれも……",
+        "audio_begin": 757424,
+        "audio_end": 758420
+    },
+    {
+        "id": "f000196",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "audio_begin": 760520,
+        "audio_end": 761880
+    },
+    {
+        "id": "f000197",
+        "sentence": "新しい一年が始まりました。",
+        "sentence_with_furigana": "新しい一年が始まりました。",
+        "audio_begin": 761880,
+        "audio_end": 765120
+    }
+]

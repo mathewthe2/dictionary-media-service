@@ -2,451 +2,631 @@
     {
         "id": "f000001",
         "sentence": "夢野久作　作",
-        "sentence_with_furigana": "夢野久作　作"
+        "sentence_with_furigana": "夢野久作　作",
+        "audio_begin": 2320,
+        "audio_end": 5424
     },
     {
         "id": "f000002",
         "sentence": "犬と人形",
-        "sentence_with_furigana": "犬と人形"
+        "sentence_with_furigana": "犬と人形",
+        "audio_begin": 5424,
+        "audio_end": 9076
     },
     {
         "id": "f000003",
         "sentence": "東京では今度大地震と大火事がありましてたくさんのひとが死にました。",
-        "sentence_with_furigana": "東京では今度大地震と大火事がありましてたくさんのひとが死にました。"
+        "sentence_with_furigana": "東京では今度大地震と大火事がありましてたくさんのひとが死にました。",
+        "audio_begin": 9076,
+        "audio_end": 16688
     },
     {
         "id": "f000004",
         "sentence": "死ななかったひともおうちやきものやたべものがなくなって大変に困りました。",
-        "sentence_with_furigana": "死ななかったひともおうちやきものやたべものがなくなって大変に困りました。"
+        "sentence_with_furigana": "死ななかったひともおうちやきものやたべものがなくなって大変に困りました。",
+        "audio_begin": 16688,
+        "audio_end": 22800
     },
     {
         "id": "f000005",
         "sentence": "太郎さんと花子さんは、",
-        "sentence_with_furigana": "太郎さんと花子さんは、"
+        "sentence_with_furigana": "太郎さんと花子さんは、",
+        "audio_begin": 24700,
+        "audio_end": 27000
     },
     {
         "id": "f000006",
         "sentence": "お父様とお母様に手を引かれて東京の近所のばあやの処へ逃げて来ました。",
-        "sentence_with_furigana": "お父様とお母様に手を引かれて東京の近所のばあやの処へ逃げて来ました。"
+        "sentence_with_furigana": "お父様とお母様に手を引かれて東京の近所のばあやの処へ逃げて来ました。",
+        "audio_begin": 27000,
+        "audio_end": 35572
     },
     {
         "id": "f000007",
         "sentence": "二人は久し振りに親切なばあやのお話をきいてよろこんでおとなしくねむりました。",
-        "sentence_with_furigana": "二人は久し振りに親切なばあやのお話をきいてよろこんでおとなしくねむりました。"
+        "sentence_with_furigana": "二人は久し振りに親切なばあやのお話をきいてよろこんでおとなしくねむりました。",
+        "audio_begin": 35572,
+        "audio_end": 43560
     },
     {
         "id": "f000008",
         "sentence": "ところが夜中になると太郎さんはねむったまま大きな声を出して、",
-        "sentence_with_furigana": "ところが夜中になると太郎さんはねむったまま大きな声を出して、"
+        "sentence_with_furigana": "ところが夜中になると太郎さんはねむったまま大きな声を出して、",
+        "audio_begin": 45860,
+        "audio_end": 53358
     },
     {
         "id": "f000009",
         "sentence": "「ポチ、",
-        "sentence_with_furigana": "「ポチ、"
+        "sentence_with_furigana": "「ポチ、",
+        "audio_begin": 53358,
+        "audio_end": 54778
     },
     {
         "id": "f000010",
         "sentence": "ポチ」",
-        "sentence_with_furigana": "ポチ」"
+        "sentence_with_furigana": "ポチ」",
+        "audio_begin": 54778,
+        "audio_end": 56258
     },
     {
         "id": "f000011",
         "sentence": "とよびました。",
-        "sentence_with_furigana": "とよびました。"
+        "sentence_with_furigana": "とよびました。",
+        "audio_begin": 56256,
+        "audio_end": 59160
     },
     {
         "id": "f000012",
         "sentence": "すると花子さんもねむったままで、",
-        "sentence_with_furigana": "すると花子さんもねむったままで、"
+        "sentence_with_furigana": "すると花子さんもねむったままで、",
+        "audio_begin": 59160,
+        "audio_end": 63080
     },
     {
         "id": "f000013",
         "sentence": "「メリーさん、",
-        "sentence_with_furigana": "「メリーさん、"
+        "sentence_with_furigana": "「メリーさん、",
+        "audio_begin": 63080,
+        "audio_end": 64640
     },
     {
         "id": "f000014",
         "sentence": "メリーさん」",
-        "sentence_with_furigana": "メリーさん」"
+        "sentence_with_furigana": "メリーさん」",
+        "audio_begin": 64640,
+        "audio_end": 66525
     },
     {
         "id": "f000015",
         "sentence": "と呼びました。",
-        "sentence_with_furigana": "と呼びました。"
+        "sentence_with_furigana": "と呼びました。",
+        "audio_begin": 66525,
+        "audio_end": 69280
     },
     {
         "id": "f000016",
         "sentence": "そうしてまたスヤスヤとねむりました。",
-        "sentence_with_furigana": "そうしてまたスヤスヤとねむりました。"
+        "sentence_with_furigana": "そうしてまたスヤスヤとねむりました。",
+        "audio_begin": 69280,
+        "audio_end": 75600
     },
     {
         "id": "f000017",
         "sentence": "お父様とお母様とは顔を見合わせて、",
-        "sentence_with_furigana": "お父様とお母様とは顔を見合わせて、"
+        "sentence_with_furigana": "お父様とお母様とは顔を見合わせて、",
+        "audio_begin": 75600,
+        "audio_end": 80600
     },
     {
         "id": "f000018",
         "sentence": "「犬とお人形の夢を見ているのですよ」",
-        "sentence_with_furigana": "「犬とお人形の夢を見ているのですよ」"
+        "sentence_with_furigana": "「犬とお人形の夢を見ているのですよ」",
+        "audio_begin": 80600,
+        "audio_end": 85760
     },
     {
         "id": "f000019",
         "sentence": "「どちらも焼けてしまっただろう。",
-        "sentence_with_furigana": "「どちらも焼けてしまっただろう。"
+        "sentence_with_furigana": "「どちらも焼けてしまっただろう。",
+        "audio_begin": 85760,
+        "audio_end": 88213
     },
     {
         "id": "f000020",
         "sentence": "可哀そうに……」",
-        "sentence_with_furigana": "可哀そうに……」"
+        "sentence_with_furigana": "可哀そうに……」",
+        "audio_begin": 88213,
+        "audio_end": 90086
     },
     {
         "id": "f000021",
         "sentence": "と言われました。",
-        "sentence_with_furigana": "と言われました。"
+        "sentence_with_furigana": "と言われました。",
+        "audio_begin": 90086,
+        "audio_end": 91916
     },
     {
         "id": "f000022",
         "sentence": "あくる朝、",
-        "sentence_with_furigana": "あくる朝、"
+        "sentence_with_furigana": "あくる朝、",
+        "audio_begin": 94640,
+        "audio_end": 96630
     },
     {
         "id": "f000023",
         "sentence": "太郎さんと花子さんは二人揃ってお父様とお母様の前へ出て、",
-        "sentence_with_furigana": "太郎さんと花子さんは二人揃ってお父様とお母様の前へ出て、"
+        "sentence_with_furigana": "太郎さんと花子さんは二人揃ってお父様とお母様の前へ出て、",
+        "audio_begin": 96630,
+        "audio_end": 102520
     },
     {
         "id": "f000024",
         "sentence": "「どうぞも一ペン東京に連れて行って下さい。",
-        "sentence_with_furigana": "「どうぞも一ペン東京に連れて行って下さい。"
+        "sentence_with_furigana": "「どうぞも一ペン東京に連れて行って下さい。",
+        "audio_begin": 104420,
+        "audio_end": 109080
     },
     {
         "id": "f000025",
         "sentence": "あたしたちは昨夜二人共同じ夢をみました。",
-        "sentence_with_furigana": "あたしたちは 昨夜[ゆうべ]二人共同じ夢をみました。"
+        "sentence_with_furigana": "あたしたちは 昨夜[ゆうべ]二人共同じ夢をみました。",
+        "audio_begin": 109080,
+        "audio_end": 114474
     },
     {
         "id": "f000026",
         "sentence": "ポチもメリーちゃんも焼けずにいて、",
-        "sentence_with_furigana": "ポチもメリーちゃんも焼けずにいて、"
+        "sentence_with_furigana": "ポチもメリーちゃんも焼けずにいて、",
+        "audio_begin": 114474,
+        "audio_end": 116720
     },
     {
         "id": "f000027",
         "sentence": "早くお迎えに来て頂戴っておまねきをしていましたから」",
-        "sentence_with_furigana": "早くお迎えに来て頂戴っておまねきをしていましたから」"
+        "sentence_with_furigana": "早くお迎えに来て頂戴っておまねきをしていましたから」",
+        "audio_begin": 116720,
+        "audio_end": 121223
     },
     {
         "id": "f000028",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 121223,
+        "audio_end": 123565
     },
     {
         "id": "f000029",
         "sentence": "お父さんもお母さんも大層お笑いになって、",
-        "sentence_with_furigana": "お父さんもお母さんも大層お笑いになって、"
+        "sentence_with_furigana": "お父さんもお母さんも大層お笑いになって、",
+        "audio_begin": 123565,
+        "audio_end": 127386
     },
     {
         "id": "f000030",
         "sentence": "「そんな事はない。",
-        "sentence_with_furigana": "「そんな事はない。"
+        "sentence_with_furigana": "「そんな事はない。",
+        "audio_begin": 127386,
+        "audio_end": 129320
     },
     {
         "id": "f000031",
         "sentence": "犬は逃げたかも知れないが、",
-        "sentence_with_furigana": "犬は逃げたかも知れないが、"
+        "sentence_with_furigana": "犬は逃げたかも知れないが、",
+        "audio_begin": 129320,
+        "audio_end": 131520
     },
     {
         "id": "f000032",
         "sentence": "人形は押入れに仕舞ってあったのだから、",
-        "sentence_with_furigana": "人形は押入れに仕舞ってあったのだから、"
+        "sentence_with_furigana": "人形は押入れに仕舞ってあったのだから、",
+        "audio_begin": 131520,
+        "audio_end": 134240
     },
     {
         "id": "f000033",
         "sentence": "きっと焼けてしまったに違いない。",
-        "sentence_with_furigana": "きっと焼けてしまったに違いない。"
+        "sentence_with_furigana": "きっと焼けてしまったに違いない。",
+        "audio_begin": 134240,
+        "audio_end": 137840
     },
     {
         "id": "f000034",
         "sentence": "もうしかたがないから二人ともおとなしく遊ぶのですよ。",
-        "sentence_with_furigana": "もうしかたがないから二人ともおとなしく遊ぶのですよ。"
+        "sentence_with_furigana": "もうしかたがないから二人ともおとなしく遊ぶのですよ。",
+        "audio_begin": 137840,
+        "audio_end": 142920
     },
     {
         "id": "f000035",
         "sentence": "そうしたら今に又いい犬といいお人形を買って上げるから」",
-        "sentence_with_furigana": "そうしたら今に又いい犬といいお人形を買って上げるから」"
+        "sentence_with_furigana": "そうしたら今に又いい犬といいお人形を買って上げるから」",
+        "audio_begin": 142920,
+        "audio_end": 150120
     },
     {
         "id": "f000036",
         "sentence": "と言われました。",
-        "sentence_with_furigana": "と言われました。"
+        "sentence_with_furigana": "と言われました。",
+        "audio_begin": 150120,
+        "audio_end": 151408
     },
     {
         "id": "f000037",
         "sentence": "二人は悲しくなってシクシク泣き出しましたが、",
-        "sentence_with_furigana": "二人は悲しくなってシクシク泣き出しましたが、"
+        "sentence_with_furigana": "二人は悲しくなってシクシク泣き出しましたが、",
+        "audio_begin": 152872,
+        "audio_end": 157351
     },
     {
         "id": "f000038",
         "sentence": "やがて花子さんはばあやのお庭の隅に、",
-        "sentence_with_furigana": "やがて花子さんはばあやのお庭の隅に、"
+        "sentence_with_furigana": "やがて花子さんはばあやのお庭の隅に、",
+        "audio_begin": 157351,
+        "audio_end": 161960
     },
     {
         "id": "f000039",
         "sentence": "「メリーさんのお墓」と書いた木の札を立ててコスモスやケイトーの花を上げて拝みました。",
-        "sentence_with_furigana": "「メリーさんのお墓」と書いた木の札を立ててコスモスやケイトーの花を上げて拝みました。"
+        "sentence_with_furigana": "「メリーさんのお墓」と書いた木の札を立ててコスモスやケイトーの花を上げて拝みました。",
+        "audio_begin": 161960,
+        "audio_end": 170716
     },
     {
         "id": "f000040",
         "sentence": "太郎さんは、",
-        "sentence_with_furigana": "太郎さんは、"
+        "sentence_with_furigana": "太郎さんは、",
+        "audio_begin": 170716,
+        "audio_end": 171640
     },
     {
         "id": "f000041",
         "sentence": "「ポチが生きていればメリーチャンもきっと焼けないでいるよ。",
-        "sentence_with_furigana": "「ポチが生きていればメリーチャンもきっと焼けないでいるよ。"
+        "sentence_with_furigana": "「ポチが生きていればメリーチャンもきっと焼けないでいるよ。",
+        "audio_begin": 173240,
+        "audio_end": 177523
     },
     {
         "id": "f000042",
         "sentence": "まだよくわからないのだからお墓を建てるのおよしよ」",
-        "sentence_with_furigana": "まだよくわからないのだからお墓を建てるのおよしよ」"
+        "sentence_with_furigana": "まだよくわからないのだからお墓を建てるのおよしよ」",
+        "audio_begin": 177523,
+        "audio_end": 181959
     },
     {
         "id": "f000043",
         "sentence": "と止めましたが、",
-        "sentence_with_furigana": "と止めましたが、"
+        "sentence_with_furigana": "と止めましたが、",
+        "audio_begin": 181959,
+        "audio_end": 184240
     },
     {
         "id": "f000044",
         "sentence": "花子さんはただシクシク泣いて拝んでいました。",
-        "sentence_with_furigana": "花子さんはただシクシク泣いて拝んでいました。"
+        "sentence_with_furigana": "花子さんはただシクシク泣いて拝んでいました。",
+        "audio_begin": 184240,
+        "audio_end": 188810
     },
     {
         "id": "f000045",
         "sentence": "火事がすっかり済んでから、",
-        "sentence_with_furigana": "火事がすっかり済んでから、"
+        "sentence_with_furigana": "火事がすっかり済んでから、",
+        "audio_begin": 191320,
+        "audio_end": 194040
     },
     {
         "id": "f000046",
         "sentence": "お父様は一人でお家の焼けあとを見にいらっしゃいましたが、",
-        "sentence_with_furigana": "お父様は一人でお家の焼けあとを見にいらっしゃいましたが、"
+        "sentence_with_furigana": "お父様は一人でお家の焼けあとを見にいらっしゃいましたが、",
+        "audio_begin": 194040,
+        "audio_end": 198984
     },
     {
         "id": "f000047",
         "sentence": "夕方になると急いで帰って来て、",
-        "sentence_with_furigana": "夕方になると急いで帰って来て、"
+        "sentence_with_furigana": "夕方になると急いで帰って来て、",
+        "audio_begin": 198984,
+        "audio_end": 202560
     },
     {
         "id": "f000048",
         "sentence": "「うちはたった一軒焼け残っていた。",
-        "sentence_with_furigana": "「うちはたった一軒焼け残っていた。"
+        "sentence_with_furigana": "「うちはたった一軒焼け残っていた。",
+        "audio_begin": 202560,
+        "audio_end": 204751
     },
     {
         "id": "f000049",
         "sentence": "さあみんな来い」",
-        "sentence_with_furigana": "さあみんな来い」"
+        "sentence_with_furigana": "さあみんな来い」",
+        "audio_begin": 204751,
+        "audio_end": 205878
     },
     {
         "id": "f000050",
         "sentence": "と大喜びで、",
-        "sentence_with_furigana": "と大喜びで、"
+        "sentence_with_furigana": "と大喜びで、",
+        "audio_begin": 205878,
+        "audio_end": 208000
     },
     {
         "id": "f000051",
         "sentence": "ばあやも連れて東京のおうちへお帰りになりました。",
-        "sentence_with_furigana": "ばあやも連れて東京のおうちへお帰りになりました。"
+        "sentence_with_furigana": "ばあやも連れて東京のおうちへお帰りになりました。",
+        "audio_begin": 208000,
+        "audio_end": 212880
     },
     {
         "id": "f000052",
         "sentence": "おうちに来ると花子さんは何より先に押入れをあけて人形を見つけますと、",
-        "sentence_with_furigana": "おうちに来ると花子さんは何より先に押入れをあけて人形を見つけますと、"
+        "sentence_with_furigana": "おうちに来ると花子さんは何より先に押入れをあけて人形を見つけますと、",
+        "audio_begin": 212880,
+        "audio_end": 219419
     },
     {
         "id": "f000053",
         "sentence": "抱き締めて飛んでよろこびました。",
-        "sentence_with_furigana": "抱き締めて飛んでよろこびました。"
+        "sentence_with_furigana": "抱き締めて飛んでよろこびました。",
+        "audio_begin": 219419,
+        "audio_end": 222727
     },
     {
         "id": "f000054",
         "sentence": "それと一緒に太郎さんはおうちのまわりをクルクルまわって、",
-        "sentence_with_furigana": "それと一緒に太郎さんはおうちのまわりをクルクルまわって、"
+        "sentence_with_furigana": "それと一緒に太郎さんはおうちのまわりをクルクルまわって、",
+        "audio_begin": 222727,
+        "audio_end": 228276
     },
     {
         "id": "f000055",
         "sentence": "「ポチよ、",
-        "sentence_with_furigana": "「ポチよ、"
+        "sentence_with_furigana": "「ポチよ、",
+        "audio_begin": 228276,
+        "audio_end": 229652
     },
     {
         "id": "f000056",
         "sentence": "ポチよ」",
-        "sentence_with_furigana": "ポチよ」"
+        "sentence_with_furigana": "ポチよ」",
+        "audio_begin": 229652,
+        "audio_end": 231130
     },
     {
         "id": "f000057",
         "sentence": "と呼んでいましたが見つかりませんので、",
-        "sentence_with_furigana": "と呼んでいましたが見つかりませんので、"
+        "sentence_with_furigana": "と呼んでいましたが見つかりませんので、",
+        "audio_begin": 231130,
+        "audio_end": 234848
     },
     {
         "id": "f000058",
         "sentence": "ベソをかいて帰って来ました。",
-        "sentence_with_furigana": "ベソをかいて帰って来ました。"
+        "sentence_with_furigana": "ベソをかいて帰って来ました。",
+        "audio_begin": 234848,
+        "audio_end": 238040
     },
     {
         "id": "f000059",
         "sentence": "そうして今度はお庭の隅にポチのお墓をこしらえ始めました。",
-        "sentence_with_furigana": "そうして今度はお庭の隅にポチのお墓をこしらえ始めました。"
+        "sentence_with_furigana": "そうして今度はお庭の隅にポチのお墓をこしらえ始めました。",
+        "audio_begin": 238040,
+        "audio_end": 245640
     },
     {
         "id": "f000060",
         "sentence": "花子さんはそれを見て、",
-        "sentence_with_furigana": "花子さんはそれを見て、"
+        "sentence_with_furigana": "花子さんはそれを見て、",
+        "audio_begin": 245640,
+        "audio_end": 248320
     },
     {
         "id": "f000061",
         "sentence": "「お兄様、",
-        "sentence_with_furigana": "「お兄様、"
+        "sentence_with_furigana": "「お兄様、",
+        "audio_begin": 248320,
+        "audio_end": 249760
     },
     {
         "id": "f000062",
         "sentence": "お人形が焼けなかったからポチもきっと無事ですよ。",
-        "sentence_with_furigana": "お人形が焼けなかったからポチもきっと無事ですよ。"
+        "sentence_with_furigana": "お人形が焼けなかったからポチもきっと無事ですよ。",
+        "audio_begin": 249760,
+        "audio_end": 253920
     },
     {
         "id": "f000063",
         "sentence": "お墓を作るのはおよしなさい」",
-        "sentence_with_furigana": "お墓を作るのはおよしなさい」"
+        "sentence_with_furigana": "お墓を作るのはおよしなさい」",
+        "audio_begin": 253920,
+        "audio_end": 256514
     },
     {
         "id": "f000064",
         "sentence": "と慰めましたが、",
-        "sentence_with_furigana": "と慰めましたが、"
+        "sentence_with_furigana": "と慰めましたが、",
+        "audio_begin": 256514,
+        "audio_end": 258812
     },
     {
         "id": "f000065",
         "sentence": "太郎さんはきかずにお墓を作ってお水を上げて拝んでいました。",
-        "sentence_with_furigana": "太郎さんはきかずにお墓を作ってお水を上げて拝んでいました。"
+        "sentence_with_furigana": "太郎さんはきかずにお墓を作ってお水を上げて拝んでいました。",
+        "audio_begin": 258812,
+        "audio_end": 265720
     },
     {
         "id": "f000066",
         "sentence": "するとその晩おそくワンワンワンとはげしく犬が吠える声と一緒に、",
-        "sentence_with_furigana": "するとその晩おそくワンワンワンとはげしく犬が吠える声と一緒に、"
+        "sentence_with_furigana": "するとその晩おそくワンワンワンとはげしく犬が吠える声と一緒に、",
+        "audio_begin": 265720,
+        "audio_end": 274007
     },
     {
         "id": "f000067",
         "sentence": "「痛い痛い。",
-        "sentence_with_furigana": "「痛い痛い。"
+        "sentence_with_furigana": "「痛い痛い。",
+        "audio_begin": 274008,
+        "audio_end": 275397
     },
     {
         "id": "f000068",
         "sentence": "畜生。",
-        "sentence_with_furigana": "畜生。"
+        "sentence_with_furigana": "畜生。",
+        "audio_begin": 275397,
+        "audio_end": 276232
     },
     {
         "id": "f000069",
         "sentence": "ア痛た痛た。",
-        "sentence_with_furigana": "ア痛た痛た。"
+        "sentence_with_furigana": "ア痛た痛た。",
+        "audio_begin": 276229,
+        "audio_end": 277117
     },
     {
         "id": "f000070",
         "sentence": "助けてくれ」",
-        "sentence_with_furigana": "助けてくれ」"
+        "sentence_with_furigana": "助けてくれ」",
+        "audio_begin": 277117,
+        "audio_end": 278240
     },
     {
         "id": "f000071",
         "sentence": "と言ううちに、",
-        "sentence_with_furigana": "と言ううちに、"
+        "sentence_with_furigana": "と言ううちに、",
+        "audio_begin": 278240,
+        "audio_end": 279680
     },
     {
         "id": "f000072",
         "sentence": "バタバタと誰か逃げて行く音がしました。",
-        "sentence_with_furigana": "バタバタと誰か逃げて行く音がしました。"
+        "sentence_with_furigana": "バタバタと誰か逃げて行く音がしました。",
+        "audio_begin": 279680,
+        "audio_end": 283493
     },
     {
         "id": "f000073",
         "sentence": "太郎さんは一番に飛び起きて、",
-        "sentence_with_furigana": "太郎さんは一番に飛び起きて、"
+        "sentence_with_furigana": "太郎さんは一番に飛び起きて、",
+        "audio_begin": 283493,
+        "audio_end": 285791
     },
     {
         "id": "f000074",
         "sentence": "「ポチだ、",
-        "sentence_with_furigana": "「ポチだ、"
+        "sentence_with_furigana": "「ポチだ、",
+        "audio_begin": 285791,
+        "audio_end": 287174
     },
     {
         "id": "f000075",
         "sentence": "ポチだ」",
-        "sentence_with_furigana": "ポチだ」"
+        "sentence_with_furigana": "ポチだ」",
+        "audio_begin": 287174,
+        "audio_end": 288104
     },
     {
         "id": "f000076",
         "sentence": "と表へ飛び出しました。",
-        "sentence_with_furigana": "と表へ飛び出しました。"
+        "sentence_with_furigana": "と表へ飛び出しました。",
+        "audio_begin": 288104,
+        "audio_end": 291040
     },
     {
         "id": "f000077",
         "sentence": "お父様もお母様も花子さんも驚いてみんな表へ出ますと、",
-        "sentence_with_furigana": "お父様もお母様も花子さんも驚いてみんな表へ出ますと、"
+        "sentence_with_furigana": "お父様もお母様も花子さんも驚いてみんな表へ出ますと、",
+        "audio_begin": 291040,
+        "audio_end": 296600
     },
     {
         "id": "f000078",
         "sentence": "泥棒のようななりをした大男が犬に食いつかれて跛を引き引き向うへ逃げて行きます。",
-        "sentence_with_furigana": "泥棒のようななりをした大男が犬に食いつかれて 跛[びっこ]を引き引き向うへ逃げて行きます。"
+        "sentence_with_furigana": "泥棒のようななりをした大男が犬に食いつかれて 跛[びっこ]を引き引き向うへ逃げて行きます。",
+        "audio_begin": 296600,
+        "audio_end": 304528
     },
     {
         "id": "f000079",
         "sentence": "そのあとからポチが一所懸命吠えながら追っかけて行きますと、",
-        "sentence_with_furigana": "そのあとからポチが一所懸命吠えながら追っかけて行きますと、"
+        "sentence_with_furigana": "そのあとからポチが一所懸命吠えながら追っかけて行きますと、",
+        "audio_begin": 304528,
+        "audio_end": 311080
     },
     {
         "id": "f000080",
         "sentence": "やがて泥棒は通りかかったお巡査さんに捕まってしまいました。",
-        "sentence_with_furigana": "やがて泥棒は通りかかったお 巡査[まわり]さんに捕まってしまいました。"
+        "sentence_with_furigana": "やがて泥棒は通りかかったお 巡査[まわり]さんに捕まってしまいました。",
+        "audio_begin": 311080,
+        "audio_end": 317586
     },
     {
         "id": "f000081",
         "sentence": "帰って来たポチを見ると、",
-        "sentence_with_furigana": "帰って来たポチを見ると、"
+        "sentence_with_furigana": "帰って来たポチを見ると、",
+        "audio_begin": 317586,
+        "audio_end": 319958
     },
     {
         "id": "f000082",
         "sentence": "太郎さんは抱きついて嬉し泣きをしました。",
-        "sentence_with_furigana": "太郎さんは抱きついて嬉し泣きをしました。"
+        "sentence_with_furigana": "太郎さんは抱きついて嬉し泣きをしました。",
+        "audio_begin": 319958,
+        "audio_end": 324349
     },
     {
         "id": "f000083",
         "sentence": "「えらい、",
-        "sentence_with_furigana": "「えらい、"
+        "sentence_with_furigana": "「えらい、",
+        "audio_begin": 324349,
+        "audio_end": 324891
     },
     {
         "id": "f000084",
         "sentence": "えらい。",
-        "sentence_with_furigana": "えらい。"
+        "sentence_with_furigana": "えらい。",
+        "audio_begin": 324891,
+        "audio_end": 325403
     },
     {
         "id": "f000085",
         "sentence": "よく泥棒を追っ払った」",
-        "sentence_with_furigana": "よく泥棒を追っ払った」"
+        "sentence_with_furigana": "よく泥棒を追っ払った」",
+        "audio_begin": 325403,
+        "audio_end": 327687
     },
     {
         "id": "f000086",
         "sentence": "「さあ御ほうびにお握りを上げるよ」",
-        "sentence_with_furigana": "「さあ御ほうびにお握りを上げるよ」"
+        "sentence_with_furigana": "「さあ御ほうびにお握りを上げるよ」",
+        "audio_begin": 327687,
+        "audio_end": 331449
     },
     {
         "id": "f000087",
         "sentence": "とお父さんとお母さんが交わる交わるお賞めになりました。",
-        "sentence_with_furigana": "とお父さんとお母さんが交わる交わるお賞めになりました。"
+        "sentence_with_furigana": "とお父さんとお母さんが交わる交わるお賞めになりました。",
+        "audio_begin": 331449,
+        "audio_end": 336120
     },
     {
         "id": "f000088",
         "sentence": "「やっぱりあの夢はほんとだったわね」",
-        "sentence_with_furigana": "「やっぱりあの夢はほんとだったわね」"
+        "sentence_with_furigana": "「やっぱりあの夢はほんとだったわね」",
+        "audio_begin": 338220,
+        "audio_end": 341560
     },
     {
         "id": "f000089",
         "sentence": "と花子さんは人形を抱きながら太郎さんに言いました。",
-        "sentence_with_furigana": "と花子さんは人形を抱きながら太郎さんに言いました。"
+        "sentence_with_furigana": "と花子さんは人形を抱きながら太郎さんに言いました。",
+        "audio_begin": 343160,
+        "audio_end": 350362
     },
     {
         "id": "f000090",
         "sentence": "太郎さんは犬の背中を撫でながら嬉しそうにうなずきました。",
-        "sentence_with_furigana": "太郎さんは犬の背中を撫でながら嬉しそうにうなずきました。"
+        "sentence_with_furigana": "太郎さんは犬の背中を撫でながら嬉しそうにうなずきました。",
+        "audio_begin": 350362,
+        "audio_end": 358100
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "id": "Ichono Mi-f000002",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -17,11 +16,12 @@
             "の",
             "実"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 4960,
+        "sound_end": 6080
     },
     {
         "id": "Ichono Mi-f000003",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -67,11 +67,12 @@
             "です",
             "。"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 8880,
+        "sound_end": 16140
     },
     {
         "id": "Ichono Mi-f000004",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -93,11 +94,12 @@
             "です",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 16140,
+        "sound_end": 19440
     },
     {
         "id": "Ichono Mi-f000005",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -149,11 +151,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 21340,
+        "sound_end": 29211
     },
     {
         "id": "Ichono Mi-f000006",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -177,11 +180,12 @@
             "下",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 30780,
+        "sound_end": 32960
     },
     {
         "id": "Ichono Mi-f000007",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -255,11 +259,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 32960,
+        "sound_end": 44080
     },
     {
         "id": "Ichono Mi-f000008",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -319,11 +324,12 @@
             "です",
             "。"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 44080,
+        "sound_end": 52080
     },
     {
         "id": "Ichono Mi-f000009",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -361,11 +367,12 @@
             "た",
             "。"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 54880,
+        "sound_end": 58480
     },
     {
         "id": "Ichono Mi-f000010",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -391,11 +398,12 @@
             "です",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 58480,
+        "sound_end": 60912
     },
     {
         "id": "Ichono Mi-f000011",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -427,11 +435,12 @@
             "た",
             "。"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 60912,
+        "sound_end": 65440
     },
     {
         "id": "Ichono Mi-f000012",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -465,11 +474,12 @@
             "し",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 65440,
+        "sound_end": 67982
     },
     {
         "id": "Ichono Mi-f000013",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -513,11 +523,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 67982,
+        "sound_end": 74473
     },
     {
         "id": "Ichono Mi-f000014",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -553,11 +564,12 @@
             "か",
             "。"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 74473,
+        "sound_end": 78320
     },
     {
         "id": "Ichono Mi-f000015",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -587,11 +599,12 @@
             "た",
             "。"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 78320,
+        "sound_end": 80680
     },
     {
         "id": "Ichono Mi-f000016",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -623,11 +636,12 @@
             "さ",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 80680,
+        "sound_end": 83160
     },
     {
         "id": "Ichono Mi-f000017",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -655,11 +669,12 @@
             "た",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 83160,
+        "sound_end": 85680
     },
     {
         "id": "Ichono Mi-f000018",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -677,11 +692,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 85680,
+        "sound_end": 86800
     },
     {
         "id": "Ichono Mi-f000019",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -701,11 +717,12 @@
             "た",
             "。"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 86800,
+        "sound_end": 88000
     },
     {
         "id": "Ichono Mi-f000020",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -741,11 +758,12 @@
             "。",
             "」"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 88000,
+        "sound_end": 91080
     },
     {
         "id": "Ichono Mi-f000021",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -765,11 +783,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 91080,
+        "sound_end": 92080
     },
     {
         "id": "Ichono Mi-f000022",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -803,11 +822,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 92080,
+        "sound_end": 94280
     },
     {
         "id": "Ichono Mi-f000023",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -825,11 +845,12 @@
             "か",
             "。"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 94280,
+        "sound_end": 95760
     },
     {
         "id": "Ichono Mi-f000024",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -885,11 +906,12 @@
             "。",
             "」"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 95760,
+        "sound_end": 103462
     },
     {
         "id": "Ichono Mi-f000025",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -927,11 +949,12 @@
             "。",
             "」"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 103462,
+        "sound_end": 105800
     },
     {
         "id": "Ichono Mi-f000026",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -949,11 +972,12 @@
             "から",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 105800,
+        "sound_end": 107840
     },
     {
         "id": "Ichono Mi-f000027",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -971,11 +995,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 107840,
+        "sound_end": 109920
     },
     {
         "id": "Ichono Mi-f000028",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1009,11 +1034,12 @@
             "。",
             "」"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 109920,
+        "sound_end": 112620
     },
     {
         "id": "Ichono Mi-f000029",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1029,11 +1055,12 @@
             "です",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 114720,
+        "sound_end": 115839
     },
     {
         "id": "Ichono Mi-f000030",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1063,11 +1090,12 @@
             "た",
             "。"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 115839,
+        "sound_end": 118735
     },
     {
         "id": "Ichono Mi-f000031",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1107,11 +1135,12 @@
             "です",
             "。"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 118735,
+        "sound_end": 123200
     },
     {
         "id": "Ichono Mi-f000032",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1151,11 +1180,12 @@
             "です",
             "。"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 123200,
+        "sound_end": 127700
     },
     {
         "id": "Ichono Mi-f000033",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1213,11 +1243,12 @@
             "た",
             "。"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 129800,
+        "sound_end": 138160
     },
     {
         "id": "Ichono Mi-f000034",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1233,11 +1264,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 140960,
+        "sound_end": 142440
     },
     {
         "id": "Ichono Mi-f000035",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1263,11 +1295,12 @@
             "かしら",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 142440,
+        "sound_end": 145720
     },
     {
         "id": "Ichono Mi-f000036",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1315,11 +1348,12 @@
             "た",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 145720,
+        "sound_end": 151960
     },
     {
         "id": "Ichono Mi-f000037",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1345,11 +1379,12 @@
             "わ",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 151960,
+        "sound_end": 154960
     },
     {
         "id": "Ichono Mi-f000038",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1377,11 +1412,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 154960,
+        "sound_end": 158000
     },
     {
         "id": "Ichono Mi-f000039",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1407,11 +1443,12 @@
             "た",
             "。"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 158000,
+        "sound_end": 162240
     },
     {
         "id": "Ichono Mi-f000040",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1443,11 +1480,12 @@
             "から",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 162240,
+        "sound_end": 164440
     },
     {
         "id": "Ichono Mi-f000041",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1475,11 +1513,12 @@
             "。",
             "」"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 164440,
+        "sound_end": 166698
     },
     {
         "id": "Ichono Mi-f000042",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1507,11 +1546,12 @@
             "って",
             "。"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 166698,
+        "sound_end": 168654
     },
     {
         "id": "Ichono Mi-f000043",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1539,11 +1579,12 @@
             "。",
             "」"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 168654,
+        "sound_end": 172440
     },
     {
         "id": "Ichono Mi-f000044",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1567,11 +1608,12 @@
             "。",
             "」"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 172440,
+        "sound_end": 174920
     },
     {
         "id": "Ichono Mi-f000045",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1611,11 +1653,12 @@
             "。",
             "」"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 174920,
+        "sound_end": 179920
     },
     {
         "id": "Ichono Mi-f000046",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1631,11 +1674,12 @@
             "ええ",
             "、"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 179920,
+        "sound_end": 180760
     },
     {
         "id": "Ichono Mi-f000047",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1651,11 +1695,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 180760,
+        "sound_end": 182600
     },
     {
         "id": "Ichono Mi-f000048",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1683,11 +1728,12 @@
             "。",
             "」"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 182600,
+        "sound_end": 186000
     },
     {
         "id": "Ichono Mi-f000049",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1707,11 +1753,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 186000,
+        "sound_end": 188920
     },
     {
         "id": "Ichono Mi-f000050",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1747,11 +1794,12 @@
             "。",
             "」"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 188920,
+        "sound_end": 194200
     },
     {
         "id": "Ichono Mi-f000051",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1767,11 +1815,12 @@
             "あら",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 194200,
+        "sound_end": 195760
     },
     {
         "id": "Ichono Mi-f000052",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1787,11 +1836,12 @@
             "こそ",
             "。"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 195760,
+        "sound_end": 197280
     },
     {
         "id": "Ichono Mi-f000053",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1811,11 +1861,12 @@
             "わ",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 197280,
+        "sound_end": 199760
     },
     {
         "id": "Ichono Mi-f000054",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1835,11 +1886,12 @@
             "。",
             "」"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 199760,
+        "sound_end": 201640
     },
     {
         "id": "Ichono Mi-f000055",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1885,11 +1937,12 @@
             "なり",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 204440,
+        "sound_end": 210640
     },
     {
         "id": "Ichono Mi-f000056",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1919,11 +1972,12 @@
             "た",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 210640,
+        "sound_end": 215120
     },
     {
         "id": "Ichono Mi-f000057",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -1953,11 +2007,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 215120,
+        "sound_end": 217240
     },
     {
         "id": "Ichono Mi-f000058",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2005,11 +2060,12 @@
             "た",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 220040,
+        "sound_end": 225720
     },
     {
         "id": "Ichono Mi-f000059",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2025,11 +2081,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 225720,
+        "sound_end": 226560
     },
     {
         "id": "Ichono Mi-f000060",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2051,11 +2108,12 @@
             "ぞ",
             "。"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 226560,
+        "sound_end": 228280
     },
     {
         "id": "Ichono Mi-f000061",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2071,11 +2129,12 @@
             "なあ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 228280,
+        "sound_end": 229911
     },
     {
         "id": "Ichono Mi-f000062",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2117,11 +2176,12 @@
             "。",
             "」"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 229911,
+        "sound_end": 234520
     },
     {
         "id": "Ichono Mi-f000063",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2143,11 +2203,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 234520,
+        "sound_end": 236425
     },
     {
         "id": "Ichono Mi-f000064",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2193,11 +2254,12 @@
             "。",
             "」"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 236425,
+        "sound_end": 241040
     },
     {
         "id": "Ichono Mi-f000065",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2231,11 +2293,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 242840,
+        "sound_end": 245339
     },
     {
         "id": "Ichono Mi-f000066",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2263,11 +2326,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 245339,
+        "sound_end": 248480
     },
     {
         "id": "Ichono Mi-f000067",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2299,11 +2363,12 @@
             "。",
             "」"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 248480,
+        "sound_end": 252600
     },
     {
         "id": "Ichono Mi-f000068",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2321,11 +2386,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 252600,
+        "sound_end": 253080
     },
     {
         "id": "Ichono Mi-f000069",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2345,11 +2411,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 253080,
+        "sound_end": 254732
     },
     {
         "id": "Ichono Mi-f000070",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2375,11 +2442,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 254732,
+        "sound_end": 256720
     },
     {
         "id": "Ichono Mi-f000071",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2427,11 +2495,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 256720,
+        "sound_end": 262257
     },
     {
         "id": "Ichono Mi-f000072",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2447,11 +2516,12 @@
             "だら",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 262257,
+        "sound_end": 263960
     },
     {
         "id": "Ichono Mi-f000073",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2495,11 +2565,12 @@
             "。",
             "」"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 263960,
+        "sound_end": 269327
     },
     {
         "id": "Ichono Mi-f000074",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2521,11 +2592,12 @@
             "か",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 269327,
+        "sound_end": 271640
     },
     {
         "id": "Ichono Mi-f000075",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2549,11 +2621,12 @@
             "。",
             "」"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 271640,
+        "sound_end": 274760
     },
     {
         "id": "Ichono Mi-f000076",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2585,11 +2658,12 @@
             "た",
             "。"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 274760,
+        "sound_end": 277480
     },
     {
         "id": "Ichono Mi-f000077",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2633,11 +2707,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 279680,
+        "sound_end": 284221
     },
     {
         "id": "Ichono Mi-f000078",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2679,11 +2754,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 284221,
+        "sound_end": 288640
     },
     {
         "id": "Ichono Mi-f000079",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2715,11 +2791,12 @@
             "。",
             "」"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 288640,
+        "sound_end": 292640
     },
     {
         "id": "Ichono Mi-f000080",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2735,11 +2812,12 @@
             "うん",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 292640,
+        "sound_end": 293469
     },
     {
         "id": "Ichono Mi-f000081",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2755,11 +2833,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 293469,
+        "sound_end": 295440
     },
     {
         "id": "Ichono Mi-f000082",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2783,11 +2862,12 @@
             "か",
             "。"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 295440,
+        "sound_end": 298640
     },
     {
         "id": "Ichono Mi-f000083",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2811,11 +2891,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 298640,
+        "sound_end": 300560
     },
     {
         "id": "Ichono Mi-f000084",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2833,11 +2914,12 @@
             "なんか",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 300560,
+        "sound_end": 301640
     },
     {
         "id": "Ichono Mi-f000085",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2865,11 +2947,12 @@
             "。",
             "」"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 301640,
+        "sound_end": 304720
     },
     {
         "id": "Ichono Mi-f000086",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2887,11 +2970,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 304720,
+        "sound_end": 305840
     },
     {
         "id": "Ichono Mi-f000087",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2919,11 +3003,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 305840,
+        "sound_end": 307880
     },
     {
         "id": "Ichono Mi-f000088",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2943,11 +3028,12 @@
             "さ",
             "。"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 307880,
+        "sound_end": 309440
     },
     {
         "id": "Ichono Mi-f000089",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2963,11 +3049,12 @@
             "か",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 309440,
+        "sound_end": 310848
     },
     {
         "id": "Ichono Mi-f000090",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -2981,11 +3068,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 310848,
+        "sound_end": 313877
     },
     {
         "id": "Ichono Mi-f000091",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3001,11 +3089,12 @@
             "。",
             "」"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 313877,
+        "sound_end": 314611
     },
     {
         "id": "Ichono Mi-f000092",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3047,11 +3136,12 @@
             "。",
             "」"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 314611,
+        "sound_end": 318000
     },
     {
         "id": "Ichono Mi-f000093",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3071,11 +3161,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 318000,
+        "sound_end": 319320
     },
     {
         "id": "Ichono Mi-f000094",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3103,11 +3194,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 319320,
+        "sound_end": 321520
     },
     {
         "id": "Ichono Mi-f000095",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3151,11 +3243,12 @@
             "って",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 321520,
+        "sound_end": 326960
     },
     {
         "id": "Ichono Mi-f000096",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3171,11 +3264,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 326960,
+        "sound_end": 328016
     },
     {
         "id": "Ichono Mi-f000097",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3211,11 +3305,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 328016,
+        "sound_end": 332640
     },
     {
         "id": "Ichono Mi-f000098",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3229,11 +3324,12 @@
             "もしもし",
             "。"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 332640,
+        "sound_end": 333400
     },
     {
         "id": "Ichono Mi-f000099",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3247,11 +3343,12 @@
             "こんにちは",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 333400,
+        "sound_end": 334896
     },
     {
         "id": "Ichono Mi-f000100",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3279,11 +3376,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 334896,
+        "sound_end": 337886
     },
     {
         "id": "Ichono Mi-f000101",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3307,11 +3405,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 337886,
+        "sound_end": 339960
     },
     {
         "id": "Ichono Mi-f000102",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3337,11 +3436,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 339960,
+        "sound_end": 342960
     },
     {
         "id": "Ichono Mi-f000103",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3387,11 +3487,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 342960,
+        "sound_end": 347600
     },
     {
         "id": "Ichono Mi-f000104",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3413,11 +3514,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 347600,
+        "sound_end": 349840
     },
     {
         "id": "Ichono Mi-f000105",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3453,11 +3555,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 349840,
+        "sound_end": 354000
     },
     {
         "id": "Ichono Mi-f000106",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3471,11 +3574,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 354000,
+        "sound_end": 354720
     },
     {
         "id": "Ichono Mi-f000107",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3503,11 +3607,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 354720,
+        "sound_end": 357472
     },
     {
         "id": "Ichono Mi-f000108",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3563,11 +3668,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 357472,
+        "sound_end": 362985
     },
     {
         "id": "Ichono Mi-f000109",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3599,11 +3705,12 @@
             "。",
             "」"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 362985,
+        "sound_end": 366920
     },
     {
         "id": "Ichono Mi-f000110",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3625,11 +3732,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 366920,
+        "sound_end": 368920
     },
     {
         "id": "Ichono Mi-f000111",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3677,11 +3785,12 @@
             "。",
             "」"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 368920,
+        "sound_end": 374480
     },
     {
         "id": "Ichono Mi-f000112",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3701,11 +3810,12 @@
             "さ",
             "。"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 374480,
+        "sound_end": 376000
     },
     {
         "id": "Ichono Mi-f000113",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3719,11 +3829,12 @@
             "ぼく",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 376000,
+        "sound_end": 376480
     },
     {
         "id": "Ichono Mi-f000114",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3747,11 +3858,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 376480,
+        "sound_end": 379202
     },
     {
         "id": "Ichono Mi-f000115",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3795,11 +3907,12 @@
             "。",
             "」"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 379202,
+        "sound_end": 385720
     },
     {
         "id": "Ichono Mi-f000116",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3823,11 +3936,12 @@
             "た",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 385720,
+        "sound_end": 388320
     },
     {
         "id": "Ichono Mi-f000117",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3859,11 +3973,12 @@
             "です",
             "。"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 388320,
+        "sound_end": 391718
     },
     {
         "id": "Ichono Mi-f000118",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3891,11 +4006,12 @@
             "た",
             "。"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 391718,
+        "sound_end": 394320
     },
     {
         "id": "Ichono Mi-f000119",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3923,11 +4039,12 @@
             "です",
             "。"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 394320,
+        "sound_end": 396365
     },
     {
         "id": "Ichono Mi-f000120",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3943,11 +4060,12 @@
             "ぼく",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 398280,
+        "sound_end": 398560
     },
     {
         "id": "Ichono Mi-f000121",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3967,11 +4085,12 @@
             "や",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 398560,
+        "sound_end": 399840
     },
     {
         "id": "Ichono Mi-f000122",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -3987,11 +4106,12 @@
             "くさい",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 399840,
+        "sound_end": 400640
     },
     {
         "id": "Ichono Mi-f000123",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4011,11 +4131,12 @@
             "。",
             "」"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 400640,
+        "sound_end": 402160
     },
     {
         "id": "Ichono Mi-f000124",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4045,11 +4166,12 @@
             "よう",
             "。"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 402160,
+        "sound_end": 403901
     },
     {
         "id": "Ichono Mi-f000125",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4079,11 +4201,12 @@
             "。",
             "」"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 403901,
+        "sound_end": 406413
     },
     {
         "id": "Ichono Mi-f000126",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4099,11 +4222,12 @@
             "かえよう",
             "。"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 406413,
+        "sound_end": 407520
     },
     {
         "id": "Ichono Mi-f000127",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4117,11 +4241,12 @@
             "あ",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 407520,
+        "sound_end": 407895
     },
     {
         "id": "Ichono Mi-f000128",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4139,11 +4264,12 @@
             "ぜ",
             "。"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 407895,
+        "sound_end": 409040
     },
     {
         "id": "Ichono Mi-f000129",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4159,11 +4285,12 @@
             "。",
             "」"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 409040,
+        "sound_end": 409740
     },
     {
         "id": "Ichono Mi-f000130",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4187,11 +4314,12 @@
             "わ",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 411840,
+        "sound_end": 414205
     },
     {
         "id": "Ichono Mi-f000131",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4231,11 +4359,12 @@
             "。",
             "」"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 414205,
+        "sound_end": 418640
     },
     {
         "id": "Ichono Mi-f000132",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4259,11 +4388,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 418640,
+        "sound_end": 420930
     },
     {
         "id": "Ichono Mi-f000133",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4289,11 +4419,12 @@
             "。",
             "」"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 420930,
+        "sound_end": 423720
     },
     {
         "id": "Ichono Mi-f000134",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4319,11 +4450,12 @@
             "。",
             "」"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 423720,
+        "sound_end": 424840
     },
     {
         "id": "Ichono Mi-f000135",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4345,11 +4477,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 426540,
+        "sound_end": 428277
     },
     {
         "id": "Ichono Mi-f000136",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4375,11 +4508,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 428277,
+        "sound_end": 430760
     },
     {
         "id": "Ichono Mi-f000137",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4415,11 +4549,12 @@
             "。",
             "」"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 430760,
+        "sound_end": 434800
     },
     {
         "id": "Ichono Mi-f000138",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4435,11 +4570,12 @@
             "そら",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 434800,
+        "sound_end": 435600
     },
     {
         "id": "Ichono Mi-f000139",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4453,11 +4589,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 435600,
+        "sound_end": 436391
     },
     {
         "id": "Ichono Mi-f000140",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4475,11 +4612,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 436391,
+        "sound_end": 437581
     },
     {
         "id": "Ichono Mi-f000141",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4509,11 +4647,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 437581,
+        "sound_end": 440648
     },
     {
         "id": "Ichono Mi-f000142",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4537,11 +4676,12 @@
             "まえ",
             "。"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 440648,
+        "sound_end": 442840
     },
     {
         "id": "Ichono Mi-f000143",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4577,11 +4717,12 @@
             "。",
             "」"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 442840,
+        "sound_end": 446120
     },
     {
         "id": "Ichono Mi-f000144",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4597,11 +4738,12 @@
             "ありがとう",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 446120,
+        "sound_end": 446680
     },
     {
         "id": "Ichono Mi-f000145",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4619,11 +4761,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 446680,
+        "sound_end": 448400
     },
     {
         "id": "Ichono Mi-f000146",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4637,11 +4780,12 @@
             "ありがとう",
             "。"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 448400,
+        "sound_end": 449640
     },
     {
         "id": "Ichono Mi-f000147",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4663,11 +4807,12 @@
             "。",
             "」"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 449640,
+        "sound_end": 450480
     },
     {
         "id": "Ichono Mi-f000148",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4687,11 +4832,12 @@
             "わ",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 452280,
+        "sound_end": 453976
     },
     {
         "id": "Ichono Mi-f000149",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4705,11 +4851,12 @@
             "わたし",
             "、"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 453976,
+        "sound_end": 455440
     },
     {
         "id": "Ichono Mi-f000150",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4733,11 +4880,12 @@
             "わ",
             "。"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 455440,
+        "sound_end": 457240
     },
     {
         "id": "Ichono Mi-f000151",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4763,11 +4911,12 @@
             "。",
             "」"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 457240,
+        "sound_end": 460240
     },
     {
         "id": "Ichono Mi-f000152",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4795,11 +4944,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 460240,
+        "sound_end": 462680
     },
     {
         "id": "Ichono Mi-f000153",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4829,11 +4979,12 @@
             "わ",
             "。"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 462680,
+        "sound_end": 465747
     },
     {
         "id": "Ichono Mi-f000154",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4861,11 +5012,12 @@
             "。",
             "」"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 465747,
+        "sound_end": 469480
     },
     {
         "id": "Ichono Mi-f000155",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4889,11 +5041,12 @@
             "もえ",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 472280,
+        "sound_end": 474520
     },
     {
         "id": "Ichono Mi-f000156",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4919,11 +5072,12 @@
             "た",
             "。"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 474520,
+        "sound_end": 478000
     },
     {
         "id": "Ichono Mi-f000157",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -4969,11 +5123,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 478000,
+        "sound_end": 481560
     },
     {
         "id": "Ichono Mi-f000158",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5021,11 +5176,12 @@
             "た",
             "。"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 483660,
+        "sound_end": 488378
     },
     {
         "id": "Ichono Mi-f000159",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5057,11 +5213,12 @@
             "た",
             "。"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 488378,
+        "sound_end": 492380
     },
     {
         "id": "Ichono Mi-f000160",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5111,11 +5268,12 @@
             "た",
             "。"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 492380,
+        "sound_end": 498060
     },
     {
         "id": "Ichono Mi-f000161",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5131,11 +5289,12 @@
             "さよなら",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 500160,
+        "sound_end": 501160
     },
     {
         "id": "Ichono Mi-f000162",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5151,11 +5310,12 @@
             "かさん",
             "。"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 501160,
+        "sound_end": 502600
     },
     {
         "id": "Ichono Mi-f000163",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5173,11 +5333,12 @@
             "さよなら",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 502600,
+        "sound_end": 503973
     },
     {
         "id": "Ichono Mi-f000164",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5193,11 +5354,12 @@
             "かさん",
             "。"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 503973,
+        "sound_end": 506196
     },
     {
         "id": "Ichono Mi-f000165",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5245,11 +5407,12 @@
             "た",
             "。"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 506196,
+        "sound_end": 510109
     },
     {
         "id": "Ichono Mi-f000166",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5269,11 +5432,12 @@
             "て",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 512080,
+        "sound_end": 514244
     },
     {
         "id": "Ichono Mi-f000167",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5309,11 +5473,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 514244,
+        "sound_end": 519990
     },
     {
         "id": "Ichono Mi-f000168",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5361,11 +5526,12 @@
             "た",
             "。"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 519990,
+        "sound_end": 529694
     },
     {
         "id": "Ichono Mi-f000169",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5405,11 +5571,12 @@
             "かかり",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 529694,
+        "sound_end": 534418
     },
     {
         "id": "Ichono Mi-f000170",
-        "author": "Miyazawa Kenji",
         "author_japanese": "宮沢 賢治",
         "deck_name": "Ichono Mi",
         "deck_name_japanese": "いちょうの実",
@@ -5473,6 +5640,8 @@
             "た",
             "。"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 534418,
+        "sound_end": 544280
     }
 ]

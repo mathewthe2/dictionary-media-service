@@ -1,7 +1,6 @@
 [
     {
         "id": "Akai Sakanato Kodomo-f000002",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -19,11 +18,12 @@
             "と",
             "子供"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5760,
+        "sound_end": 12433
     },
     {
         "id": "Akai Sakanato Kodomo-f000003",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -43,11 +43,12 @@
             "に",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 12433,
+        "sound_end": 13904
     },
     {
         "id": "Akai Sakanato Kodomo-f000004",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -73,11 +74,12 @@
             "た",
             "。"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 13904,
+        "sound_end": 18120
     },
     {
         "id": "Akai Sakanato Kodomo-f000005",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -97,11 +99,12 @@
             "と",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 18120,
+        "sound_end": 19400
     },
     {
         "id": "Akai Sakanato Kodomo-f000006",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -135,11 +138,12 @@
             "た",
             "。"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 19400,
+        "sound_end": 23628
     },
     {
         "id": "Akai Sakanato Kodomo-f000007",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -155,11 +159,12 @@
             "が",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 23628,
+        "sound_end": 24760
     },
     {
         "id": "Akai Sakanato Kodomo-f000008",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -195,11 +200,12 @@
             "から",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 24760,
+        "sound_end": 27440
     },
     {
         "id": "Akai Sakanato Kodomo-f000009",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -219,11 +225,12 @@
             "た",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 27440,
+        "sound_end": 29000
     },
     {
         "id": "Akai Sakanato Kodomo-f000010",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -243,11 +250,12 @@
             "や",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 29000,
+        "sound_end": 29800
     },
     {
         "id": "Akai Sakanato Kodomo-f000011",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -269,11 +277,12 @@
             "は",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 29800,
+        "sound_end": 32560
     },
     {
         "id": "Akai Sakanato Kodomo-f000012",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -313,11 +322,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 32560,
+        "sound_end": 39120
     },
     {
         "id": "Akai Sakanato Kodomo-f000013",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -341,11 +351,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 39120,
+        "sound_end": 40560
     },
     {
         "id": "Akai Sakanato Kodomo-f000014",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -369,11 +380,12 @@
             "は",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 40560,
+        "sound_end": 42560
     },
     {
         "id": "Akai Sakanato Kodomo-f000015",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -397,11 +409,12 @@
             "て",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 42560,
+        "sound_end": 44360
     },
     {
         "id": "Akai Sakanato Kodomo-f000016",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -445,11 +458,12 @@
             "ましょう",
             "。"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 44360,
+        "sound_end": 50480
     },
     {
         "id": "Akai Sakanato Kodomo-f000017",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -477,11 +491,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 50480,
+        "sound_end": 53280
     },
     {
         "id": "Akai Sakanato Kodomo-f000018",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -525,11 +540,12 @@
             "だ",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 53280,
+        "sound_end": 58141
     },
     {
         "id": "Akai Sakanato Kodomo-f000019",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -551,11 +567,12 @@
             "は",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 58141,
+        "sound_end": 59600
     },
     {
         "id": "Akai Sakanato Kodomo-f000020",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -607,11 +624,12 @@
             "です",
             "。"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 59600,
+        "sound_end": 66131
     },
     {
         "id": "Akai Sakanato Kodomo-f000021",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -627,11 +645,12 @@
             "と",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 66131,
+        "sound_end": 66800
     },
     {
         "id": "Akai Sakanato Kodomo-f000022",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -661,11 +680,12 @@
             "た",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 66800,
+        "sound_end": 70840
     },
     {
         "id": "Akai Sakanato Kodomo-f000023",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -683,11 +703,12 @@
             "も",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 70840,
+        "sound_end": 71880
     },
     {
         "id": "Akai Sakanato Kodomo-f000024",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -715,11 +736,12 @@
             "て",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 71880,
+        "sound_end": 74160
     },
     {
         "id": "Akai Sakanato Kodomo-f000025",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -749,11 +771,12 @@
             "て",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 74160,
+        "sound_end": 76560
     },
     {
         "id": "Akai Sakanato Kodomo-f000026",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -779,11 +802,12 @@
             "です",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 76560,
+        "sound_end": 79520
     },
     {
         "id": "Akai Sakanato Kodomo-f000027",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -801,11 +825,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 79520,
+        "sound_end": 80600
     },
     {
         "id": "Akai Sakanato Kodomo-f000028",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -833,11 +858,12 @@
             "です",
             "。"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 80600,
+        "sound_end": 83116
     },
     {
         "id": "Akai Sakanato Kodomo-f000029",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -859,11 +885,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 83116,
+        "sound_end": 85834
     },
     {
         "id": "Akai Sakanato Kodomo-f000030",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -879,11 +906,12 @@
             "と",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 85834,
+        "sound_end": 86680
     },
     {
         "id": "Akai Sakanato Kodomo-f000031",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -903,11 +931,12 @@
             "は",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 86680,
+        "sound_end": 88200
     },
     {
         "id": "Akai Sakanato Kodomo-f000032",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -929,11 +958,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 88200,
+        "sound_end": 89520
     },
     {
         "id": "Akai Sakanato Kodomo-f000033",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -955,11 +985,12 @@
             "は",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 89520,
+        "sound_end": 92200
     },
     {
         "id": "Akai Sakanato Kodomo-f000034",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -977,11 +1008,12 @@
             "は",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 92200,
+        "sound_end": 92880
     },
     {
         "id": "Akai Sakanato Kodomo-f000035",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1009,11 +1041,12 @@
             "です",
             "。"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 92880,
+        "sound_end": 95890
     },
     {
         "id": "Akai Sakanato Kodomo-f000036",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1027,11 +1060,12 @@
             "けっして",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 95890,
+        "sound_end": 96840
     },
     {
         "id": "Akai Sakanato Kodomo-f000037",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1079,11 +1113,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 96840,
+        "sound_end": 102130
     },
     {
         "id": "Akai Sakanato Kodomo-f000038",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1105,11 +1140,12 @@
             "た",
             "。"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 102130,
+        "sound_end": 105173
     },
     {
         "id": "Akai Sakanato Kodomo-f000039",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1127,11 +1163,12 @@
             "は",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 105173,
+        "sound_end": 106360
     },
     {
         "id": "Akai Sakanato Kodomo-f000040",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1153,11 +1190,12 @@
             "が",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 106360,
+        "sound_end": 107920
     },
     {
         "id": "Akai Sakanato Kodomo-f000041",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1183,11 +1221,12 @@
             "た",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 107920,
+        "sound_end": 110720
     },
     {
         "id": "Akai Sakanato Kodomo-f000042",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1203,11 +1242,12 @@
             "なぜ",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 110720,
+        "sound_end": 111640
     },
     {
         "id": "Akai Sakanato Kodomo-f000043",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1223,11 +1263,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 111640,
+        "sound_end": 113240
     },
     {
         "id": "Akai Sakanato Kodomo-f000044",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1253,11 +1294,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 113240,
+        "sound_end": 115040
     },
     {
         "id": "Akai Sakanato Kodomo-f000045",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1287,11 +1329,12 @@
             "か",
             "。"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 115040,
+        "sound_end": 116840
     },
     {
         "id": "Akai Sakanato Kodomo-f000046",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1313,11 +1356,12 @@
             "た",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 116840,
+        "sound_end": 120960
     },
     {
         "id": "Akai Sakanato Kodomo-f000047",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1333,11 +1377,12 @@
             "は",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 120960,
+        "sound_end": 121760
     },
     {
         "id": "Akai Sakanato Kodomo-f000048",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1359,11 +1404,12 @@
             "て",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 121760,
+        "sound_end": 123120
     },
     {
         "id": "Akai Sakanato Kodomo-f000049",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1387,11 +1433,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 123120,
+        "sound_end": 127320
     },
     {
         "id": "Akai Sakanato Kodomo-f000050",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1409,11 +1456,12 @@
             "から",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 127320,
+        "sound_end": 128499
     },
     {
         "id": "Akai Sakanato Kodomo-f000051",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1449,11 +1497,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 128499,
+        "sound_end": 132354
     },
     {
         "id": "Akai Sakanato Kodomo-f000052",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1473,11 +1522,12 @@
             "と",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 132354,
+        "sound_end": 133640
     },
     {
         "id": "Akai Sakanato Kodomo-f000053",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1507,11 +1557,12 @@
             "です",
             "。"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 133640,
+        "sound_end": 136800
     },
     {
         "id": "Akai Sakanato Kodomo-f000054",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1535,11 +1586,12 @@
             "は",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 136800,
+        "sound_end": 139800
     },
     {
         "id": "Akai Sakanato Kodomo-f000055",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1571,11 +1623,12 @@
             "です",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 139800,
+        "sound_end": 143092
     },
     {
         "id": "Akai Sakanato Kodomo-f000056",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1597,11 +1650,12 @@
             "た",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 143092,
+        "sound_end": 146240
     },
     {
         "id": "Akai Sakanato Kodomo-f000057",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1627,11 +1681,12 @@
             "を",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 146240,
+        "sound_end": 148320
     },
     {
         "id": "Akai Sakanato Kodomo-f000058",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1657,11 +1712,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 148320,
+        "sound_end": 151105
     },
     {
         "id": "Akai Sakanato Kodomo-f000059",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1677,11 +1733,12 @@
             "と",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 151105,
+        "sound_end": 151840
     },
     {
         "id": "Akai Sakanato Kodomo-f000060",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1707,11 +1764,12 @@
             "は",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 151840,
+        "sound_end": 153760
     },
     {
         "id": "Akai Sakanato Kodomo-f000061",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1733,11 +1791,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 153760,
+        "sound_end": 158320
     },
     {
         "id": "Akai Sakanato Kodomo-f000062",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1757,11 +1816,12 @@
             "が",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 158320,
+        "sound_end": 159040
     },
     {
         "id": "Akai Sakanato Kodomo-f000063",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1783,11 +1843,12 @@
             "に",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 159040,
+        "sound_end": 160400
     },
     {
         "id": "Akai Sakanato Kodomo-f000064",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1809,11 +1870,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 160400,
+        "sound_end": 161851
     },
     {
         "id": "Akai Sakanato Kodomo-f000065",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1833,11 +1895,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 161851,
+        "sound_end": 164119
     },
     {
         "id": "Akai Sakanato Kodomo-f000066",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1853,11 +1916,12 @@
             "と",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 164119,
+        "sound_end": 164800
     },
     {
         "id": "Akai Sakanato Kodomo-f000067",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1893,11 +1957,12 @@
             "た",
             "。"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 164800,
+        "sound_end": 170040
     },
     {
         "id": "Akai Sakanato Kodomo-f000068",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1911,11 +1976,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 170040,
+        "sound_end": 170978
     },
     {
         "id": "Akai Sakanato Kodomo-f000069",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1933,11 +1999,12 @@
             "は",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 170978,
+        "sound_end": 172120
     },
     {
         "id": "Akai Sakanato Kodomo-f000070",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1951,11 +2018,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 172120,
+        "sound_end": 172720
     },
     {
         "id": "Akai Sakanato Kodomo-f000071",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -1981,11 +2049,12 @@
             "て",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 172720,
+        "sound_end": 174640
     },
     {
         "id": "Akai Sakanato Kodomo-f000072",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2025,11 +2094,12 @@
             "た",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 174640,
+        "sound_end": 179760
     },
     {
         "id": "Akai Sakanato Kodomo-f000073",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2043,11 +2113,12 @@
             "ひとり",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 179760,
+        "sound_end": 180840
     },
     {
         "id": "Akai Sakanato Kodomo-f000074",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2065,11 +2136,12 @@
             "は",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 180840,
+        "sound_end": 182436
     },
     {
         "id": "Akai Sakanato Kodomo-f000075",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2115,11 +2187,12 @@
             "た",
             "。"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 182436,
+        "sound_end": 188088
     },
     {
         "id": "Akai Sakanato Kodomo-f000076",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2137,11 +2210,12 @@
             "か",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 188088,
+        "sound_end": 189120
     },
     {
         "id": "Akai Sakanato Kodomo-f000077",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2183,11 +2257,12 @@
             "けれど",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 189120,
+        "sound_end": 194227
     },
     {
         "id": "Akai Sakanato Kodomo-f000078",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2203,11 +2278,12 @@
             "と",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 194227,
+        "sound_end": 194880
     },
     {
         "id": "Akai Sakanato Kodomo-f000079",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2233,11 +2309,12 @@
             "た",
             "。"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 194880,
+        "sound_end": 200180
     },
     {
         "id": "Akai Sakanato Kodomo-f000080",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2263,11 +2340,12 @@
             "は",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 200180,
+        "sound_end": 202400
     },
     {
         "id": "Akai Sakanato Kodomo-f000081",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2283,11 +2361,12 @@
             "から",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 202400,
+        "sound_end": 203120
     },
     {
         "id": "Akai Sakanato Kodomo-f000082",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2307,11 +2386,12 @@
             "まで",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 203120,
+        "sound_end": 204407
     },
     {
         "id": "Akai Sakanato Kodomo-f000083",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2327,11 +2407,12 @@
             "や",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 204407,
+        "sound_end": 205080
     },
     {
         "id": "Akai Sakanato Kodomo-f000084",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2363,11 +2444,12 @@
             "が",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 205080,
+        "sound_end": 207840
     },
     {
         "id": "Akai Sakanato Kodomo-f000085",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2391,11 +2473,12 @@
             "て",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 207840,
+        "sound_end": 209680
     },
     {
         "id": "Akai Sakanato Kodomo-f000086",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2423,11 +2506,12 @@
             "た",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 209680,
+        "sound_end": 213040
     },
     {
         "id": "Akai Sakanato Kodomo-f000087",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2441,11 +2525,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 213040,
+        "sound_end": 214440
     },
     {
         "id": "Akai Sakanato Kodomo-f000088",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2465,11 +2550,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 214440,
+        "sound_end": 216160
     },
     {
         "id": "Akai Sakanato Kodomo-f000089",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2495,11 +2581,12 @@
             "に",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 216160,
+        "sound_end": 218590
     },
     {
         "id": "Akai Sakanato Kodomo-f000090",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2543,11 +2630,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 218590,
+        "sound_end": 223932
     },
     {
         "id": "Akai Sakanato Kodomo-f000091",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2563,11 +2651,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 223932,
+        "sound_end": 225200
     },
     {
         "id": "Akai Sakanato Kodomo-f000092",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2591,11 +2680,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 225200,
+        "sound_end": 228020
     },
     {
         "id": "Akai Sakanato Kodomo-f000093",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2611,11 +2701,12 @@
             "と",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 228020,
+        "sound_end": 228240
     },
     {
         "id": "Akai Sakanato Kodomo-f000094",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2639,11 +2730,12 @@
             "は",
             "、"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 228240,
+        "sound_end": 230160
     },
     {
         "id": "Akai Sakanato Kodomo-f000095",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2667,11 +2759,12 @@
             "た",
             "。"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 230160,
+        "sound_end": 233600
     },
     {
         "id": "Akai Sakanato Kodomo-f000096",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2687,11 +2780,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 233600,
+        "sound_end": 233920
     },
     {
         "id": "Akai Sakanato Kodomo-f000097",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2715,11 +2809,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 233920,
+        "sound_end": 236240
     },
     {
         "id": "Akai Sakanato Kodomo-f000098",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2733,11 +2828,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 236240,
+        "sound_end": 236760
     },
     {
         "id": "Akai Sakanato Kodomo-f000099",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2755,11 +2851,12 @@
             "が",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 236760,
+        "sound_end": 237840
     },
     {
         "id": "Akai Sakanato Kodomo-f000100",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2789,11 +2886,12 @@
             "が",
             "。"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 237840,
+        "sound_end": 241313
     },
     {
         "id": "Akai Sakanato Kodomo-f000101",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2809,11 +2907,12 @@
             "と",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 241313,
+        "sound_end": 242000
     },
     {
         "id": "Akai Sakanato Kodomo-f000102",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2843,11 +2942,12 @@
             "た",
             "。"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 242000,
+        "sound_end": 246794
     },
     {
         "id": "Akai Sakanato Kodomo-f000103",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2863,11 +2963,12 @@
             "は",
             "、"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 246794,
+        "sound_end": 247920
     },
     {
         "id": "Akai Sakanato Kodomo-f000104",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2891,11 +2992,12 @@
             "で",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 247920,
+        "sound_end": 249680
     },
     {
         "id": "Akai Sakanato Kodomo-f000105",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2919,11 +3021,12 @@
             "た",
             "。"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 249680,
+        "sound_end": 253160
     },
     {
         "id": "Akai Sakanato Kodomo-f000106",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2937,11 +3040,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 253160,
+        "sound_end": 254200
     },
     {
         "id": "Akai Sakanato Kodomo-f000107",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2957,11 +3061,12 @@
             "から",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 254200,
+        "sound_end": 255040
     },
     {
         "id": "Akai Sakanato Kodomo-f000108",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -2977,11 +3082,12 @@
             "から",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 255040,
+        "sound_end": 256040
     },
     {
         "id": "Akai Sakanato Kodomo-f000109",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3011,11 +3117,12 @@
             "た",
             "。"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 256040,
+        "sound_end": 260040
     },
     {
         "id": "Akai Sakanato Kodomo-f000110",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3033,11 +3140,12 @@
             "に",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 260040,
+        "sound_end": 260839
     },
     {
         "id": "Akai Sakanato Kodomo-f000111",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3051,11 +3159,12 @@
             "おいしかろう",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 260839,
+        "sound_end": 262541
     },
     {
         "id": "Akai Sakanato Kodomo-f000112",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3075,11 +3184,12 @@
             "て",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 262541,
+        "sound_end": 263888
     },
     {
         "id": "Akai Sakanato Kodomo-f000113",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3105,11 +3215,12 @@
             "は",
             "、"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 263888,
+        "sound_end": 266210
     },
     {
         "id": "Akai Sakanato Kodomo-f000114",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3123,11 +3234,12 @@
             "ついに",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 266210,
+        "sound_end": 267280
     },
     {
         "id": "Akai Sakanato Kodomo-f000115",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3155,11 +3267,12 @@
             "た",
             "。"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 267280,
+        "sound_end": 273440
     },
     {
         "id": "Akai Sakanato Kodomo-f000116",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3183,11 +3296,12 @@
             "は",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 273440,
+        "sound_end": 275741
     },
     {
         "id": "Akai Sakanato Kodomo-f000117",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3203,11 +3317,12 @@
             "翌日",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 275741,
+        "sound_end": 277440
     },
     {
         "id": "Akai Sakanato Kodomo-f000118",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3233,11 +3348,12 @@
             "て",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 277440,
+        "sound_end": 279000
     },
     {
         "id": "Akai Sakanato Kodomo-f000119",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3261,11 +3377,12 @@
             "です",
             "。"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 279000,
+        "sound_end": 282400
     },
     {
         "id": "Akai Sakanato Kodomo-f000120",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3283,11 +3400,12 @@
             "ほど",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 282400,
+        "sound_end": 283520
     },
     {
         "id": "Akai Sakanato Kodomo-f000121",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3321,11 +3439,12 @@
             "に",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 283520,
+        "sound_end": 287098
     },
     {
         "id": "Akai Sakanato Kodomo-f000122",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3347,11 +3466,12 @@
             "た",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 287098,
+        "sound_end": 290435
     },
     {
         "id": "Akai Sakanato Kodomo-f000123",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3373,11 +3493,12 @@
             "は",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 290435,
+        "sound_end": 292556
     },
     {
         "id": "Akai Sakanato Kodomo-f000124",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3399,11 +3520,12 @@
             "か",
             "、"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 292556,
+        "sound_end": 294480
     },
     {
         "id": "Akai Sakanato Kodomo-f000125",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3421,11 +3543,12 @@
             "は",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 294480,
+        "sound_end": 295560
     },
     {
         "id": "Akai Sakanato Kodomo-f000126",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3443,11 +3566,12 @@
             "に",
             "、"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 295560,
+        "sound_end": 297480
     },
     {
         "id": "Akai Sakanato Kodomo-f000127",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3491,11 +3615,12 @@
             "です",
             "。"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 297480,
+        "sound_end": 304440
     },
     {
         "id": "Akai Sakanato Kodomo-f000128",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3519,11 +3644,12 @@
             "も",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 304440,
+        "sound_end": 305760
     },
     {
         "id": "Akai Sakanato Kodomo-f000129",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3549,11 +3675,12 @@
             "た",
             "。"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 305760,
+        "sound_end": 308009
     },
     {
         "id": "Akai Sakanato Kodomo-f000130",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3577,11 +3704,12 @@
             "が",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 308009,
+        "sound_end": 309720
     },
     {
         "id": "Akai Sakanato Kodomo-f000131",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3617,11 +3745,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 309720,
+        "sound_end": 315520
     },
     {
         "id": "Akai Sakanato Kodomo-f000132",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3635,11 +3764,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 315520,
+        "sound_end": 316280
     },
     {
         "id": "Akai Sakanato Kodomo-f000133",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3659,11 +3789,12 @@
             "は",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 316280,
+        "sound_end": 317240
     },
     {
         "id": "Akai Sakanato Kodomo-f000134",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3689,11 +3820,12 @@
             "から",
             "、"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 317240,
+        "sound_end": 319200
     },
     {
         "id": "Akai Sakanato Kodomo-f000135",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3717,11 +3849,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 319200,
+        "sound_end": 320560
     },
     {
         "id": "Akai Sakanato Kodomo-f000136",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3771,11 +3904,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 320560,
+        "sound_end": 327760
     },
     {
         "id": "Akai Sakanato Kodomo-f000137",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3793,11 +3927,12 @@
             "が",
             "、"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 327760,
+        "sound_end": 328800
     },
     {
         "id": "Akai Sakanato Kodomo-f000138",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3819,11 +3954,12 @@
             "たら",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 328800,
+        "sound_end": 330160
     },
     {
         "id": "Akai Sakanato Kodomo-f000139",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3841,11 +3977,12 @@
             "から",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 330160,
+        "sound_end": 331400
     },
     {
         "id": "Akai Sakanato Kodomo-f000140",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3879,11 +4016,12 @@
             "ぞ",
             "。"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 331400,
+        "sound_end": 335577
     },
     {
         "id": "Akai Sakanato Kodomo-f000141",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3899,11 +4037,12 @@
             "と",
             "、"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 335577,
+        "sound_end": 336320
     },
     {
         "id": "Akai Sakanato Kodomo-f000142",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3919,11 +4058,12 @@
             "は",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 336320,
+        "sound_end": 337240
     },
     {
         "id": "Akai Sakanato Kodomo-f000143",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3949,11 +4089,12 @@
             "た",
             "。"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 337240,
+        "sound_end": 343440
     },
     {
         "id": "Akai Sakanato Kodomo-f000144",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3971,11 +4112,12 @@
             "は",
             "、"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 343440,
+        "sound_end": 344883
     },
     {
         "id": "Akai Sakanato Kodomo-f000145",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -3991,11 +4133,12 @@
             "は",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 344883,
+        "sound_end": 345920
     },
     {
         "id": "Akai Sakanato Kodomo-f000146",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4037,11 +4180,12 @@
             "た",
             "。"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 345920,
+        "sound_end": 352080
     },
     {
         "id": "Akai Sakanato Kodomo-f000147",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4067,11 +4211,12 @@
             "で",
             "、"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 352080,
+        "sound_end": 354281
     },
     {
         "id": "Akai Sakanato Kodomo-f000148",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4089,11 +4234,12 @@
             "すむ",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 354281,
+        "sound_end": 355360
     },
     {
         "id": "Akai Sakanato Kodomo-f000149",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4123,11 +4269,12 @@
             "ます",
             "。"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 355360,
+        "sound_end": 359321
     },
     {
         "id": "Akai Sakanato Kodomo-f000150",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4151,11 +4298,12 @@
             "に",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 359321,
+        "sound_end": 360831
     },
     {
         "id": "Akai Sakanato Kodomo-f000151",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4175,11 +4323,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 360831,
+        "sound_end": 363208
     },
     {
         "id": "Akai Sakanato Kodomo-f000152",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4195,11 +4344,12 @@
             "と",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 363208,
+        "sound_end": 363800
     },
     {
         "id": "Akai Sakanato Kodomo-f000153",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4231,11 +4381,12 @@
             "た",
             "。"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 363800,
+        "sound_end": 367040
     },
     {
         "id": "Akai Sakanato Kodomo-f000154",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4253,11 +4404,12 @@
             "で",
             "、"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 367040,
+        "sound_end": 368046
     },
     {
         "id": "Akai Sakanato Kodomo-f000155",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4291,11 +4443,12 @@
             "か",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 368046,
+        "sound_end": 371430
     },
     {
         "id": "Akai Sakanato Kodomo-f000156",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4313,11 +4466,12 @@
             "だろう",
             "。"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 371430,
+        "sound_end": 373729
     },
     {
         "id": "Akai Sakanato Kodomo-f000157",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4333,11 +4487,12 @@
             "と",
             "、"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 373729,
+        "sound_end": 374360
     },
     {
         "id": "Akai Sakanato Kodomo-f000158",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4363,11 +4518,12 @@
             "た",
             "。"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 374360,
+        "sound_end": 377200
     },
     {
         "id": "Akai Sakanato Kodomo-f000159",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4385,11 +4541,12 @@
             "なんか",
             "、"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 377200,
+        "sound_end": 378040
     },
     {
         "id": "Akai Sakanato Kodomo-f000160",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4417,11 +4574,12 @@
             "か",
             "。"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 378040,
+        "sound_end": 381160
     },
     {
         "id": "Akai Sakanato Kodomo-f000161",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4443,11 +4601,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 381160,
+        "sound_end": 384366
     },
     {
         "id": "Akai Sakanato Kodomo-f000162",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4463,11 +4622,12 @@
             "と",
             "、"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 384366,
+        "sound_end": 384960
     },
     {
         "id": "Akai Sakanato Kodomo-f000163",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4493,11 +4653,12 @@
             "た",
             "。"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 384960,
+        "sound_end": 388044
     },
     {
         "id": "Akai Sakanato Kodomo-f000164",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4511,11 +4672,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 388044,
+        "sound_end": 388800
     },
     {
         "id": "Akai Sakanato Kodomo-f000165",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4533,11 +4695,12 @@
             "は",
             "、"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 388800,
+        "sound_end": 389640
     },
     {
         "id": "Akai Sakanato Kodomo-f000166",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4557,11 +4720,12 @@
             "て",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 389640,
+        "sound_end": 390520
     },
     {
         "id": "Akai Sakanato Kodomo-f000167",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4589,11 +4753,12 @@
             "に",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 390520,
+        "sound_end": 393200
     },
     {
         "id": "Akai Sakanato Kodomo-f000168",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4625,11 +4790,12 @@
             "た",
             "。"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 393200,
+        "sound_end": 398400
     },
     {
         "id": "Akai Sakanato Kodomo-f000169",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4647,11 +4813,12 @@
             "は",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 398400,
+        "sound_end": 399400
     },
     {
         "id": "Akai Sakanato Kodomo-f000170",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4681,11 +4848,12 @@
             "た",
             "。"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 399400,
+        "sound_end": 403560
     },
     {
         "id": "Akai Sakanato Kodomo-f000171",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4705,11 +4873,12 @@
             "て",
             "、"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 403560,
+        "sound_end": 404120
     },
     {
         "id": "Akai Sakanato Kodomo-f000172",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4739,11 +4908,12 @@
             "え",
             "。"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 404120,
+        "sound_end": 408157
     },
     {
         "id": "Akai Sakanato Kodomo-f000173",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4759,11 +4929,12 @@
             "と",
             "、"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 408157,
+        "sound_end": 408360
     },
     {
         "id": "Akai Sakanato Kodomo-f000174",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4787,11 +4958,12 @@
             "た",
             "。"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 408360,
+        "sound_end": 410541
     },
     {
         "id": "Akai Sakanato Kodomo-f000175",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4809,11 +4981,12 @@
             "って",
             "、"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 410541,
+        "sound_end": 411360
     },
     {
         "id": "Akai Sakanato Kodomo-f000176",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4839,11 +5012,12 @@
             "もの",
             "。"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 411360,
+        "sound_end": 413909
     },
     {
         "id": "Akai Sakanato Kodomo-f000177",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4859,11 +5033,12 @@
             "と",
             "、"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 413909,
+        "sound_end": 414360
     },
     {
         "id": "Akai Sakanato Kodomo-f000178",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4885,11 +5060,12 @@
             "た",
             "。"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 414360,
+        "sound_end": 416843
     },
     {
         "id": "Akai Sakanato Kodomo-f000179",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4905,11 +5081,12 @@
             "ああ",
             "、"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 416843,
+        "sound_end": 417960
     },
     {
         "id": "Akai Sakanato Kodomo-f000180",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4925,11 +5102,12 @@
             "から",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 417960,
+        "sound_end": 418960
     },
     {
         "id": "Akai Sakanato Kodomo-f000181",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4963,11 +5141,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 418960,
+        "sound_end": 422160
     },
     {
         "id": "Akai Sakanato Kodomo-f000182",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -4981,11 +5160,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 422160,
+        "sound_end": 422960
     },
     {
         "id": "Akai Sakanato Kodomo-f000183",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5021,11 +5201,12 @@
             "から",
             "、"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 422960,
+        "sound_end": 426200
     },
     {
         "id": "Akai Sakanato Kodomo-f000184",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5039,11 +5220,12 @@
             "けっして",
             "、"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 426200,
+        "sound_end": 426920
     },
     {
         "id": "Akai Sakanato Kodomo-f000185",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5073,11 +5255,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 426920,
+        "sound_end": 429648
     },
     {
         "id": "Akai Sakanato Kodomo-f000186",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5093,11 +5276,12 @@
             "と",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 429648,
+        "sound_end": 430240
     },
     {
         "id": "Akai Sakanato Kodomo-f000187",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5119,11 +5303,12 @@
             "た",
             "。"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 430240,
+        "sound_end": 433898
     },
     {
         "id": "Akai Sakanato Kodomo-f000188",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5141,11 +5326,12 @@
             "は",
             "、"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 433898,
+        "sound_end": 435320
     },
     {
         "id": "Akai Sakanato Kodomo-f000189",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5183,11 +5369,12 @@
             "た",
             "。"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 435320,
+        "sound_end": 439240
     },
     {
         "id": "Akai Sakanato Kodomo-f000190",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5207,11 +5394,12 @@
             "て",
             "、"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 439240,
+        "sound_end": 440360
     },
     {
         "id": "Akai Sakanato Kodomo-f000191",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5239,11 +5427,12 @@
             "と",
             "、"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 440360,
+        "sound_end": 442880
     },
     {
         "id": "Akai Sakanato Kodomo-f000192",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5257,11 +5446,12 @@
             "毎日",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 442880,
+        "sound_end": 443440
     },
     {
         "id": "Akai Sakanato Kodomo-f000193",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5297,11 +5487,12 @@
             "た",
             "。"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 443440,
+        "sound_end": 448440
     },
     {
         "id": "Akai Sakanato Kodomo-f000194",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5321,11 +5512,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 448440,
+        "sound_end": 449440
     },
     {
         "id": "Akai Sakanato Kodomo-f000195",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5343,11 +5535,12 @@
             "は",
             "、"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 449440,
+        "sound_end": 451080
     },
     {
         "id": "Akai Sakanato Kodomo-f000196",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5385,11 +5578,12 @@
             "た",
             "。"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 451080,
+        "sound_end": 457240
     },
     {
         "id": "Akai Sakanato Kodomo-f000197",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5403,11 +5597,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 457240,
+        "sound_end": 458080
     },
     {
         "id": "Akai Sakanato Kodomo-f000198",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5433,11 +5628,12 @@
             "た",
             "。"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 458080,
+        "sound_end": 460680
     },
     {
         "id": "Akai Sakanato Kodomo-f000199",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5455,11 +5651,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 460680,
+        "sound_end": 461920
     },
     {
         "id": "Akai Sakanato Kodomo-f000200",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5489,11 +5686,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 461920,
+        "sound_end": 464997
     },
     {
         "id": "Akai Sakanato Kodomo-f000201",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5509,11 +5707,12 @@
             "と",
             "、"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 464997,
+        "sound_end": 465120
     },
     {
         "id": "Akai Sakanato Kodomo-f000202",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5537,11 +5736,12 @@
             "た",
             "。"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 465120,
+        "sound_end": 467920
     },
     {
         "id": "Akai Sakanato Kodomo-f000203",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5559,11 +5759,12 @@
             "は",
             "、"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 467920,
+        "sound_end": 468640
     },
     {
         "id": "Akai Sakanato Kodomo-f000204",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5601,11 +5802,12 @@
             "た",
             "。"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 468640,
+        "sound_end": 473280
     },
     {
         "id": "Akai Sakanato Kodomo-f000205",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5621,11 +5823,12 @@
             "おお",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 473280,
+        "sound_end": 474589
     },
     {
         "id": "Akai Sakanato Kodomo-f000206",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5647,11 +5850,12 @@
             "ね",
             "！"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 474589,
+        "sound_end": 477120
     },
     {
         "id": "Akai Sakanato Kodomo-f000207",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5669,11 +5873,12 @@
             "か",
             "、"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 477120,
+        "sound_end": 479640
     },
     {
         "id": "Akai Sakanato Kodomo-f000208",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5695,11 +5900,12 @@
             "が",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 479640,
+        "sound_end": 481760
     },
     {
         "id": "Akai Sakanato Kodomo-f000209",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5721,11 +5927,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 481760,
+        "sound_end": 484894
     },
     {
         "id": "Akai Sakanato Kodomo-f000210",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5741,11 +5948,12 @@
             "と",
             "、"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 484894,
+        "sound_end": 485080
     },
     {
         "id": "Akai Sakanato Kodomo-f000211",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5769,11 +5977,12 @@
             "た",
             "。"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 485080,
+        "sound_end": 487640
     },
     {
         "id": "Akai Sakanato Kodomo-f000212",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5791,11 +6000,12 @@
             "母さん",
             "、"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 487640,
+        "sound_end": 488640
     },
     {
         "id": "Akai Sakanato Kodomo-f000213",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5829,11 +6039,12 @@
             "か",
             "？"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 488640,
+        "sound_end": 493201
     },
     {
         "id": "Akai Sakanato Kodomo-f000214",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5849,11 +6060,12 @@
             "と",
             "、"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 493201,
+        "sound_end": 493360
     },
     {
         "id": "Akai Sakanato Kodomo-f000215",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5877,11 +6089,12 @@
             "た",
             "。"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 493360,
+        "sound_end": 495920
     },
     {
         "id": "Akai Sakanato Kodomo-f000216",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5901,11 +6114,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 495920,
+        "sound_end": 497440
     },
     {
         "id": "Akai Sakanato Kodomo-f000217",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5919,11 +6133,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 497440,
+        "sound_end": 497960
     },
     {
         "id": "Akai Sakanato Kodomo-f000218",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5937,11 +6152,12 @@
             "いまごろ",
             "、"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 497960,
+        "sound_end": 498744
     },
     {
         "id": "Akai Sakanato Kodomo-f000219",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -5981,11 +6197,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000219.mp3"
+        "sound": "f000219.mp3",
+        "sound_begin": 498744,
+        "sound_end": 503474
     },
     {
         "id": "Akai Sakanato Kodomo-f000220",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6001,11 +6218,12 @@
             "と",
             "、"
         ],
-        "sound": "f000220.mp3"
+        "sound": "f000220.mp3",
+        "sound_begin": 503474,
+        "sound_end": 503640
     },
     {
         "id": "Akai Sakanato Kodomo-f000221",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6029,11 +6247,12 @@
             "た",
             "。"
         ],
-        "sound": "f000221.mp3"
+        "sound": "f000221.mp3",
+        "sound_begin": 503640,
+        "sound_end": 507376
     },
     {
         "id": "Akai Sakanato Kodomo-f000222",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6051,11 +6270,12 @@
             "は",
             "、"
         ],
-        "sound": "f000222.mp3"
+        "sound": "f000222.mp3",
+        "sound_begin": 507376,
+        "sound_end": 508560
     },
     {
         "id": "Akai Sakanato Kodomo-f000223",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6087,11 +6307,12 @@
             "た",
             "。"
         ],
-        "sound": "f000223.mp3"
+        "sound": "f000223.mp3",
+        "sound_begin": 508560,
+        "sound_end": 512803
     },
     {
         "id": "Akai Sakanato Kodomo-f000224",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6119,11 +6340,12 @@
             "か",
             "。"
         ],
-        "sound": "f000224.mp3"
+        "sound": "f000224.mp3",
+        "sound_begin": 512803,
+        "sound_end": 516380
     },
     {
         "id": "Akai Sakanato Kodomo-f000225",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6139,11 +6361,12 @@
             "と",
             "、"
         ],
-        "sound": "f000225.mp3"
+        "sound": "f000225.mp3",
+        "sound_begin": 516380,
+        "sound_end": 516631
     },
     {
         "id": "Akai Sakanato Kodomo-f000226",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6165,11 +6388,12 @@
             "た",
             "。"
         ],
-        "sound": "f000226.mp3"
+        "sound": "f000226.mp3",
+        "sound_begin": 516631,
+        "sound_end": 518470
     },
     {
         "id": "Akai Sakanato Kodomo-f000227",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6187,11 +6411,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000227.mp3"
+        "sound": "f000227.mp3",
+        "sound_begin": 518470,
+        "sound_end": 520159
     },
     {
         "id": "Akai Sakanato Kodomo-f000228",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6227,11 +6452,12 @@
             "やろう",
             "。"
         ],
-        "sound": "f000228.mp3"
+        "sound": "f000228.mp3",
+        "sound_begin": 520159,
+        "sound_end": 524973
     },
     {
         "id": "Akai Sakanato Kodomo-f000229",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6247,11 +6473,12 @@
             "と",
             "、"
         ],
-        "sound": "f000229.mp3"
+        "sound": "f000229.mp3",
+        "sound_begin": 524973,
+        "sound_end": 525120
     },
     {
         "id": "Akai Sakanato Kodomo-f000230",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6275,11 +6502,12 @@
             "た",
             "。"
         ],
-        "sound": "f000230.mp3"
+        "sound": "f000230.mp3",
+        "sound_begin": 525120,
+        "sound_end": 528682
     },
     {
         "id": "Akai Sakanato Kodomo-f000231",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6297,11 +6525,12 @@
             "は",
             "、"
         ],
-        "sound": "f000231.mp3"
+        "sound": "f000231.mp3",
+        "sound_begin": 528682,
+        "sound_end": 529920
     },
     {
         "id": "Akai Sakanato Kodomo-f000232",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6347,11 +6576,12 @@
             "た",
             "、"
         ],
-        "sound": "f000232.mp3"
+        "sound": "f000232.mp3",
+        "sound_begin": 529920,
+        "sound_end": 537200
     },
     {
         "id": "Akai Sakanato Kodomo-f000233",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6375,11 +6605,12 @@
             "は",
             "、"
         ],
-        "sound": "f000233.mp3"
+        "sound": "f000233.mp3",
+        "sound_begin": 537200,
+        "sound_end": 539680
     },
     {
         "id": "Akai Sakanato Kodomo-f000234",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6407,11 +6638,12 @@
             "た",
             "。"
         ],
-        "sound": "f000234.mp3"
+        "sound": "f000234.mp3",
+        "sound_begin": 539680,
+        "sound_end": 543440
     },
     {
         "id": "Akai Sakanato Kodomo-f000235",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6439,11 +6671,12 @@
             "は",
             "、"
         ],
-        "sound": "f000235.mp3"
+        "sound": "f000235.mp3",
+        "sound_begin": 543440,
+        "sound_end": 545520
     },
     {
         "id": "Akai Sakanato Kodomo-f000236",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6457,11 +6690,12 @@
             "はたして",
             "、"
         ],
-        "sound": "f000236.mp3"
+        "sound": "f000236.mp3",
+        "sound_begin": 545520,
+        "sound_end": 546520
     },
     {
         "id": "Akai Sakanato Kodomo-f000237",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6493,11 +6727,12 @@
             "？",
             "」"
         ],
-        "sound": "f000237.mp3"
+        "sound": "f000237.mp3",
+        "sound_begin": 546520,
+        "sound_end": 552160
     },
     {
         "id": "Akai Sakanato Kodomo-f000238",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6511,11 +6746,12 @@
             "しかし",
             "、"
         ],
-        "sound": "f000238.mp3"
+        "sound": "f000238.mp3",
+        "sound_begin": 552160,
+        "sound_end": 553240
     },
     {
         "id": "Akai Sakanato Kodomo-f000239",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6547,11 +6783,12 @@
             "です",
             "。"
         ],
-        "sound": "f000239.mp3"
+        "sound": "f000239.mp3",
+        "sound_begin": 553240,
+        "sound_end": 557440
     },
     {
         "id": "Akai Sakanato Kodomo-f000240",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6573,11 +6810,12 @@
             "後",
             "、"
         ],
-        "sound": "f000240.mp3"
+        "sound": "f000240.mp3",
+        "sound_begin": 557440,
+        "sound_end": 559160
     },
     {
         "id": "Akai Sakanato Kodomo-f000241",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6599,11 +6837,12 @@
             "で",
             "、"
         ],
-        "sound": "f000241.mp3"
+        "sound": "f000241.mp3",
+        "sound_begin": 559160,
+        "sound_end": 560880
     },
     {
         "id": "Akai Sakanato Kodomo-f000242",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6651,11 +6890,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000242.mp3"
+        "sound": "f000242.mp3",
+        "sound_begin": 560880,
+        "sound_end": 565889
     },
     {
         "id": "Akai Sakanato Kodomo-f000243",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6691,11 +6931,12 @@
             "た",
             "。"
         ],
-        "sound": "f000243.mp3"
+        "sound": "f000243.mp3",
+        "sound_begin": 565889,
+        "sound_end": 573240
     },
     {
         "id": "Akai Sakanato Kodomo-f000244",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6715,11 +6956,12 @@
             "方",
             "、"
         ],
-        "sound": "f000244.mp3"
+        "sound": "f000244.mp3",
+        "sound_begin": 573240,
+        "sound_end": 575200
     },
     {
         "id": "Akai Sakanato Kodomo-f000245",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6739,11 +6981,12 @@
             "の",
             "、"
         ],
-        "sound": "f000245.mp3"
+        "sound": "f000245.mp3",
+        "sound_begin": 575200,
+        "sound_end": 576160
     },
     {
         "id": "Akai Sakanato Kodomo-f000246",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6773,11 +7016,12 @@
             "に",
             "、"
         ],
-        "sound": "f000246.mp3"
+        "sound": "f000246.mp3",
+        "sound_begin": 576160,
+        "sound_end": 579560
     },
     {
         "id": "Akai Sakanato Kodomo-f000247",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6805,11 +7049,12 @@
             "が",
             "、"
         ],
-        "sound": "f000247.mp3"
+        "sound": "f000247.mp3",
+        "sound_begin": 579560,
+        "sound_end": 581560
     },
     {
         "id": "Akai Sakanato Kodomo-f000248",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6835,11 +7080,12 @@
             "た",
             "。"
         ],
-        "sound": "f000248.mp3"
+        "sound": "f000248.mp3",
+        "sound_begin": 581560,
+        "sound_end": 585522
     },
     {
         "id": "Akai Sakanato Kodomo-f000249",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6857,11 +7103,12 @@
             "は",
             "、"
         ],
-        "sound": "f000249.mp3"
+        "sound": "f000249.mp3",
+        "sound_begin": 585522,
+        "sound_end": 586760
     },
     {
         "id": "Akai Sakanato Kodomo-f000250",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6881,11 +7128,12 @@
             "と",
             "、"
         ],
-        "sound": "f000250.mp3"
+        "sound": "f000250.mp3",
+        "sound_begin": 586760,
+        "sound_end": 588440
     },
     {
         "id": "Akai Sakanato Kodomo-f000251",
-        "author": "Mimei Ogawa",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Sakanato Kodomo",
         "deck_name_japanese": "赤い魚と子供",
@@ -6913,6 +7161,8 @@
             "です",
             "。"
         ],
-        "sound": "f000251.mp3"
+        "sound": "f000251.mp3",
+        "sound_begin": 588440,
+        "sound_end": 594080
     }
 ]

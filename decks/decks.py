@@ -26,6 +26,13 @@ class Decks:
     def get_sentence_translation_map(self):
         return self.sentence_translation_map
 
+    def get_deck_by_name(self, deck_name):
+        sentences = []
+        file = Path(self.path, deck_name, 'data.json')
+        with open(file, encoding='utf-8') as f:
+            sentences = json.load(f)
+        return [self.parse_sentence(sentence) for sentence in sentences]
+
     def load_decks(self):
         deck_folders = glob(str(self.path) + '/*/')
         for deck_folder in deck_folders:
@@ -49,9 +56,17 @@ class Decks:
                 self.sentence_map = self.map_sentence(sentence['word_base_list'], sentence['id'], self.sentence_map)
             if 'translation_word_base_list' in sentence:
                 self.sentence_translation_map = self.map_sentence(sentence['translation_word_base_list'], sentence['id'], self.sentence_translation_map)
-            self.sentences[sentence["id"]] = sentence
+            self.sentences[sentence["id"]] = self.filter_fields(sentence, [])
+
+    def filter_fields(self, sentence, excluded_fields):
+        filtered_sentence = {}
+        for key in sentence:
+            if key not in excluded_fields:
+                filtered_sentence[key] = sentence[key]
+        return filtered_sentence
 
     def parse_sentence(self, sentence):
+        # TODO: remove image and sound url from in memory storage
         if (self.has_image):
             image_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['image'])
             sentence['image_url'] = image_path.replace(" ", "%20")

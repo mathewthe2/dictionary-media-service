@@ -2,906 +2,1268 @@
     {
         "id": "f000001",
         "sentence": "村山籌子　作",
-        "sentence_with_furigana": "村山籌子　作"
+        "sentence_with_furigana": "村山籌子　作",
+        "audio_begin": 2128,
+        "audio_end": 4520
     },
     {
         "id": "f000002",
         "sentence": "お鍋　と　おやかん　と　フライパン　の　けんくわ",
-        "sentence_with_furigana": "お鍋　と　おやかん　と　フライパン　の　けんくわ"
+        "sentence_with_furigana": "お鍋　と　おやかん　と　フライパン　の　けんくわ",
+        "audio_begin": 4520,
+        "audio_end": 7920
     },
     {
         "id": "f000003",
         "sentence": "よう子ちやんはお台所が大好きでした。",
-        "sentence_with_furigana": "よう子ちやんはお台所が大好きでした。"
+        "sentence_with_furigana": "よう子ちやんはお台所が大好きでした。",
+        "audio_begin": 10220,
+        "audio_end": 14560
     },
     {
         "id": "f000004",
         "sentence": "なぜといつて、",
-        "sentence_with_furigana": "なぜといつて、"
+        "sentence_with_furigana": "なぜといつて、",
+        "audio_begin": 14560,
+        "audio_end": 15840
     },
     {
         "id": "f000005",
         "sentence": "お料理のにほひはほんとにおいしさうなんですもの。",
-        "sentence_with_furigana": "お料理のにほひはほんとにおいしさうなんですもの。"
+        "sentence_with_furigana": "お料理のにほひはほんとにおいしさうなんですもの。",
+        "audio_begin": 15840,
+        "audio_end": 20680
     },
     {
         "id": "f000006",
         "sentence": "それに、",
-        "sentence_with_furigana": "それに、"
+        "sentence_with_furigana": "それに、",
+        "audio_begin": 20680,
+        "audio_end": 21600
     },
     {
         "id": "f000007",
         "sentence": "おさじや　フオークや　お茶碗や　お皿などがカチン、",
-        "sentence_with_furigana": "おさじや　フオークや　お茶碗や　お皿などがカチン、"
+        "sentence_with_furigana": "おさじや　フオークや　お茶碗や　お皿などがカチン、",
+        "audio_begin": 21600,
+        "audio_end": 26800
     },
     {
         "id": "f000008",
         "sentence": "カチン、",
-        "sentence_with_furigana": "カチン、"
+        "sentence_with_furigana": "カチン、",
+        "audio_begin": 26800,
+        "audio_end": 27400
     },
     {
         "id": "f000009",
         "sentence": "チヤラ、",
-        "sentence_with_furigana": "チヤラ、"
+        "sentence_with_furigana": "チヤラ、",
+        "audio_begin": 27400,
+        "audio_end": 28120
     },
     {
         "id": "f000010",
         "sentence": "チヤラと可愛いい音をたててゐます。",
-        "sentence_with_furigana": "チヤラと可愛いい音をたててゐます。"
+        "sentence_with_furigana": "チヤラと可愛いい音をたててゐます。",
+        "audio_begin": 28120,
+        "audio_end": 31600
     },
     {
         "id": "f000011",
         "sentence": "それからもつと、",
-        "sentence_with_furigana": "それからもつと、"
+        "sentence_with_furigana": "それからもつと、",
+        "audio_begin": 33200,
+        "audio_end": 34680
     },
     {
         "id": "f000012",
         "sentence": "色んな音がします。",
-        "sentence_with_furigana": "色んな音がします。"
+        "sentence_with_furigana": "色んな音がします。",
+        "audio_begin": 34680,
+        "audio_end": 36799
     },
     {
         "id": "f000013",
         "sentence": "お鍋の中ではクツタ、",
-        "sentence_with_furigana": "お鍋の中ではクツタ、"
+        "sentence_with_furigana": "お鍋の中ではクツタ、",
+        "audio_begin": 36799,
+        "audio_end": 39126
     },
     {
         "id": "f000014",
         "sentence": "クツタ、",
-        "sentence_with_furigana": "クツタ、"
+        "sentence_with_furigana": "クツタ、",
+        "audio_begin": 39126,
+        "audio_end": 39902
     },
     {
         "id": "f000015",
         "sentence": "クツタとお湯のにたつ音がしますし、",
-        "sentence_with_furigana": "クツタとお湯のにたつ音がしますし、"
+        "sentence_with_furigana": "クツタとお湯のにたつ音がしますし、",
+        "audio_begin": 39902,
+        "audio_end": 43280
     },
     {
         "id": "f000016",
         "sentence": "ジヤ、",
-        "sentence_with_furigana": "ジヤ、"
+        "sentence_with_furigana": "ジヤ、",
+        "audio_begin": 43280,
+        "audio_end": 44560
     },
     {
         "id": "f000017",
         "sentence": "ジヤ、",
-        "sentence_with_furigana": "ジヤ、"
+        "sentence_with_furigana": "ジヤ、",
+        "audio_begin": 44560,
+        "audio_end": 45240
     },
     {
         "id": "f000018",
         "sentence": "ジヤ、",
-        "sentence_with_furigana": "ジヤ、"
+        "sentence_with_furigana": "ジヤ、",
+        "audio_begin": 45240,
+        "audio_end": 46560
     },
     {
         "id": "f000019",
         "sentence": "ジヤと水道がいきほひよくながれるし、",
-        "sentence_with_furigana": "ジヤと水道がいきほひよくながれるし、"
+        "sentence_with_furigana": "ジヤと水道がいきほひよくながれるし、",
+        "audio_begin": 46560,
+        "audio_end": 50680
     },
     {
         "id": "f000020",
         "sentence": "バツタン、",
-        "sentence_with_furigana": "バツタン、"
+        "sentence_with_furigana": "バツタン、",
+        "audio_begin": 50680,
+        "audio_end": 52480
     },
     {
         "id": "f000021",
         "sentence": "バツタンと戸棚をあける音もきこえます。",
-        "sentence_with_furigana": "バツタンと戸棚をあける音もきこえます。"
+        "sentence_with_furigana": "バツタンと戸棚をあける音もきこえます。",
+        "audio_begin": 52480,
+        "audio_end": 56600
     },
     {
         "id": "f000022",
         "sentence": "よう子ちやんは色んな音をきくのも大好きです。",
-        "sentence_with_furigana": "よう子ちやんは色んな音をきくのも大好きです。"
+        "sentence_with_furigana": "よう子ちやんは色んな音をきくのも大好きです。",
+        "audio_begin": 56600,
+        "audio_end": 61320
     },
     {
         "id": "f000023",
         "sentence": "或る日のことお台所ではお料理づくりにお母さんがいそがしく働いてゐました。",
-        "sentence_with_furigana": "或る日のことお台所ではお料理づくりにお母さんがいそがしく働いてゐました。"
+        "sentence_with_furigana": "或る日のことお台所ではお料理づくりにお母さんがいそがしく働いてゐました。",
+        "audio_begin": 64120,
+        "audio_end": 72060
     },
     {
         "id": "f000024",
         "sentence": "そのうちにお母さんはお鍋と、",
-        "sentence_with_furigana": "そのうちにお母さんはお鍋と、"
+        "sentence_with_furigana": "そのうちにお母さんはお鍋と、",
+        "audio_begin": 72060,
+        "audio_end": 75160
     },
     {
         "id": "f000025",
         "sentence": "おやかんと、",
-        "sentence_with_furigana": "おやかんと、"
+        "sentence_with_furigana": "おやかんと、",
+        "audio_begin": 75160,
+        "audio_end": 76200
     },
     {
         "id": "f000026",
         "sentence": "フライパンを火にかけて、",
-        "sentence_with_furigana": "フライパンを火にかけて、"
+        "sentence_with_furigana": "フライパンを火にかけて、",
+        "audio_begin": 76200,
+        "audio_end": 78278
     },
     {
         "id": "f000027",
         "sentence": "お庭へ出てゆきました。",
-        "sentence_with_furigana": "お庭へ出てゆきました。"
+        "sentence_with_furigana": "お庭へ出てゆきました。",
+        "audio_begin": 78278,
+        "audio_end": 79880
     },
     {
         "id": "f000028",
         "sentence": "よう子ちやんはそのすきにソーツとお台所にはいりこみました。",
-        "sentence_with_furigana": "よう子ちやんはそのすきにソーツとお台所にはいりこみました。"
+        "sentence_with_furigana": "よう子ちやんはそのすきにソーツとお台所にはいりこみました。",
+        "audio_begin": 81480,
+        "audio_end": 89000
     },
     {
         "id": "f000029",
         "sentence": "ガスの火はボウ、",
-        "sentence_with_furigana": "ガスの火はボウ、"
+        "sentence_with_furigana": "ガスの火はボウ、",
+        "audio_begin": 89000,
+        "audio_end": 89720
     },
     {
         "id": "f000030",
         "sentence": "ボウ、",
-        "sentence_with_furigana": "ボウ、"
+        "sentence_with_furigana": "ボウ、",
+        "audio_begin": 89720,
+        "audio_end": 90520
     },
     {
         "id": "f000031",
         "sentence": "ボウと妙な声を出して、",
-        "sentence_with_furigana": "ボウと妙な声を出して、"
+        "sentence_with_furigana": "ボウと妙な声を出して、",
+        "audio_begin": 90520,
+        "audio_end": 93293
     },
     {
         "id": "f000032",
         "sentence": "もえて、",
-        "sentence_with_furigana": "もえて、"
+        "sentence_with_furigana": "もえて、",
+        "audio_begin": 93293,
+        "audio_end": 93840
     },
     {
         "id": "f000033",
         "sentence": "その上にお鍋とおやかんがならんでゐます。",
-        "sentence_with_furigana": "その上にお鍋とおやかんがならんでゐます。"
+        "sentence_with_furigana": "その上にお鍋とおやかんがならんでゐます。",
+        "audio_begin": 93840,
+        "audio_end": 100440
     },
     {
         "id": "f000034",
         "sentence": "「よう子ちやん、",
-        "sentence_with_furigana": "「よう子ちやん、"
+        "sentence_with_furigana": "「よう子ちやん、",
+        "audio_begin": 100440,
+        "audio_end": 101440
     },
     {
         "id": "f000035",
         "sentence": "もつとこつちへいらつしやいな。",
-        "sentence_with_furigana": "もつとこつちへいらつしやいな。"
+        "sentence_with_furigana": "もつとこつちへいらつしやいな。",
+        "audio_begin": 101440,
+        "audio_end": 103800
     },
     {
         "id": "f000036",
         "sentence": "おもしろい歌をきかせてあげませう。",
-        "sentence_with_furigana": "おもしろい歌をきかせてあげませう。"
+        "sentence_with_furigana": "おもしろい歌をきかせてあげませう。",
+        "audio_begin": 103800,
+        "audio_end": 106040
     },
     {
         "id": "f000037",
         "sentence": "」どこからかこんな声がしましたので、",
-        "sentence_with_furigana": "」どこからかこんな声がしましたので、"
+        "sentence_with_furigana": "」どこからかこんな声がしましたので、",
+        "audio_begin": 108240,
+        "audio_end": 111360
     },
     {
         "id": "f000038",
         "sentence": "よう子ちやんはびつくりしてしまひました。",
-        "sentence_with_furigana": "よう子ちやんはびつくりしてしまひました。"
+        "sentence_with_furigana": "よう子ちやんはびつくりしてしまひました。",
+        "audio_begin": 111360,
+        "audio_end": 115640
     },
     {
         "id": "f000039",
         "sentence": "すると、",
-        "sentence_with_furigana": "すると、"
+        "sentence_with_furigana": "すると、",
+        "audio_begin": 115640,
+        "audio_end": 116720
     },
     {
         "id": "f000040",
         "sentence": "おやかんが、",
-        "sentence_with_furigana": "おやかんが、"
+        "sentence_with_furigana": "おやかんが、",
+        "audio_begin": 116720,
+        "audio_end": 117480
     },
     {
         "id": "f000041",
         "sentence": "こんな歌をうたひ初めました。",
-        "sentence_with_furigana": "こんな歌をうたひ初めました。"
+        "sentence_with_furigana": "こんな歌をうたひ初めました。",
+        "audio_begin": 117480,
+        "audio_end": 121680
     },
     {
         "id": "f000042",
         "sentence": "「ブクツ、",
-        "sentence_with_furigana": "「ブクツ、"
+        "sentence_with_furigana": "「ブクツ、",
+        "audio_begin": 121680,
+        "audio_end": 122280
     },
     {
         "id": "f000043",
         "sentence": "ブクツ、",
-        "sentence_with_furigana": "ブクツ、"
+        "sentence_with_furigana": "ブクツ、",
+        "audio_begin": 122280,
+        "audio_end": 122600
     },
     {
         "id": "f000044",
         "sentence": "ブクツ、",
-        "sentence_with_furigana": "ブクツ、"
+        "sentence_with_furigana": "ブクツ、",
+        "audio_begin": 122600,
+        "audio_end": 123480
     },
     {
         "id": "f000045",
         "sentence": "ブクツ。",
-        "sentence_with_furigana": "ブクツ。"
+        "sentence_with_furigana": "ブクツ。",
+        "audio_begin": 123480,
+        "audio_end": 123940
     },
     {
         "id": "f000046",
         "sentence": "」それからその歌は段々大きくなつて、",
-        "sentence_with_furigana": "」それからその歌は段々大きくなつて、"
+        "sentence_with_furigana": "」それからその歌は段々大きくなつて、",
+        "audio_begin": 126040,
+        "audio_end": 129223
     },
     {
         "id": "f000047",
         "sentence": "「プー、",
-        "sentence_with_furigana": "「プー、"
+        "sentence_with_furigana": "「プー、",
+        "audio_begin": 129223,
+        "audio_end": 130453
     },
     {
         "id": "f000048",
         "sentence": "プー、",
-        "sentence_with_furigana": "プー、"
+        "sentence_with_furigana": "プー、",
+        "audio_begin": 130453,
+        "audio_end": 131120
     },
     {
         "id": "f000049",
         "sentence": "シユツ、",
-        "sentence_with_furigana": "シユツ、"
+        "sentence_with_furigana": "シユツ、",
+        "audio_begin": 131119,
+        "audio_end": 131558
     },
     {
         "id": "f000050",
         "sentence": "シユツ、",
-        "sentence_with_furigana": "シユツ、"
+        "sentence_with_furigana": "シユツ、",
+        "audio_begin": 131558,
+        "audio_end": 132616
     },
     {
         "id": "f000051",
         "sentence": "プー、",
-        "sentence_with_furigana": "プー、"
+        "sentence_with_furigana": "プー、",
+        "audio_begin": 132616,
+        "audio_end": 133240
     },
     {
         "id": "f000052",
         "sentence": "プー、",
-        "sentence_with_furigana": "プー、"
+        "sentence_with_furigana": "プー、",
+        "audio_begin": 133240,
+        "audio_end": 133760
     },
     {
         "id": "f000053",
         "sentence": "シユツ、",
-        "sentence_with_furigana": "シユツ、"
+        "sentence_with_furigana": "シユツ、",
+        "audio_begin": 133760,
+        "audio_end": 134266
     },
     {
         "id": "f000054",
         "sentence": "シユツ、",
-        "sentence_with_furigana": "シユツ、"
+        "sentence_with_furigana": "シユツ、",
+        "audio_begin": 134266,
+        "audio_end": 134759
     },
     {
         "id": "f000055",
         "sentence": "シユツ」",
-        "sentence_with_furigana": "シユツ」"
+        "sentence_with_furigana": "シユツ」",
+        "audio_begin": 134759,
+        "audio_end": 136231
     },
     {
         "id": "f000056",
         "sentence": "それから、",
-        "sentence_with_furigana": "それから、"
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 136231,
+        "audio_end": 137160
     },
     {
         "id": "f000057",
         "sentence": "もつと、",
-        "sentence_with_furigana": "もつと、"
+        "sentence_with_furigana": "もつと、",
+        "audio_begin": 137160,
+        "audio_end": 137840
     },
     {
         "id": "f000058",
         "sentence": "もつと大きく、",
-        "sentence_with_furigana": "もつと大きく、"
+        "sentence_with_furigana": "もつと大きく、",
+        "audio_begin": 137840,
+        "audio_end": 139640
     },
     {
         "id": "f000059",
         "sentence": "「ブク、",
-        "sentence_with_furigana": "「ブク、"
+        "sentence_with_furigana": "「ブク、",
+        "audio_begin": 139640,
+        "audio_end": 140240
     },
     {
         "id": "f000060",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 140240,
+        "audio_end": 140760
     },
     {
         "id": "f000061",
         "sentence": "シユ、",
-        "sentence_with_furigana": "シユ、"
+        "sentence_with_furigana": "シユ、",
+        "audio_begin": 140760,
+        "audio_end": 141400
     },
     {
         "id": "f000062",
         "sentence": "シユ、",
-        "sentence_with_furigana": "シユ、"
+        "sentence_with_furigana": "シユ、",
+        "audio_begin": 141400,
+        "audio_end": 142040
     },
     {
         "id": "f000063",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 142040,
+        "audio_end": 142360
     },
     {
         "id": "f000064",
         "sentence": "シユ、",
-        "sentence_with_furigana": "シユ、"
+        "sentence_with_furigana": "シユ、",
+        "audio_begin": 142360,
+        "audio_end": 142880
     },
     {
         "id": "f000065",
         "sentence": "シユ。",
-        "sentence_with_furigana": "シユ。"
+        "sentence_with_furigana": "シユ。",
+        "audio_begin": 142880,
+        "audio_end": 145724
     },
     {
         "id": "f000066",
         "sentence": "」あまり大きな声を出して歌つたので、",
-        "sentence_with_furigana": "」あまり大きな声を出して歌つたので、"
+        "sentence_with_furigana": "」あまり大きな声を出して歌つたので、",
+        "audio_begin": 145724,
+        "audio_end": 149400
     },
     {
         "id": "f000067",
         "sentence": "おやかんの上に乗つかつてゐた　ふた　までが、",
-        "sentence_with_furigana": "おやかんの上に乗つかつてゐた　ふた　までが、"
+        "sentence_with_furigana": "おやかんの上に乗つかつてゐた　ふた　までが、",
+        "audio_begin": 149400,
+        "audio_end": 153112
     },
     {
         "id": "f000068",
         "sentence": "「パクン、",
-        "sentence_with_furigana": "「パクン、"
+        "sentence_with_furigana": "「パクン、",
+        "audio_begin": 153112,
+        "audio_end": 153680
     },
     {
         "id": "f000069",
         "sentence": "パクン、",
-        "sentence_with_furigana": "パクン、"
+        "sentence_with_furigana": "パクン、",
+        "audio_begin": 153680,
+        "audio_end": 154240
     },
     {
         "id": "f000070",
         "sentence": "パクン、",
-        "sentence_with_furigana": "パクン、"
+        "sentence_with_furigana": "パクン、",
+        "audio_begin": 154240,
+        "audio_end": 154848
     },
     {
         "id": "f000071",
         "sentence": "パクン」ととんだり、",
-        "sentence_with_furigana": "パクン」ととんだり、"
+        "sentence_with_furigana": "パクン」ととんだり、",
+        "audio_begin": 154848,
+        "audio_end": 157609
     },
     {
         "id": "f000072",
         "sentence": "はねたりの大さわぎです。",
-        "sentence_with_furigana": "はねたりの大さわぎです。"
+        "sentence_with_furigana": "はねたりの大さわぎです。",
+        "audio_begin": 157609,
+        "audio_end": 162360
     },
     {
         "id": "f000073",
         "sentence": "「おやかんが、",
-        "sentence_with_furigana": "「おやかんが、"
+        "sentence_with_furigana": "「おやかんが、",
+        "audio_begin": 162360,
+        "audio_end": 163080
     },
     {
         "id": "f000074",
         "sentence": "私に歌をきかせてゐるんだわ。",
-        "sentence_with_furigana": "私に歌をきかせてゐるんだわ。"
+        "sentence_with_furigana": "私に歌をきかせてゐるんだわ。",
+        "audio_begin": 163080,
+        "audio_end": 164880
     },
     {
         "id": "f000075",
         "sentence": "だけどお湯がにたちすぎやしないかしらん、",
-        "sentence_with_furigana": "だけどお湯がにたちすぎやしないかしらん、"
+        "sentence_with_furigana": "だけどお湯がにたちすぎやしないかしらん、",
+        "audio_begin": 164880,
+        "audio_end": 168680
     },
     {
         "id": "f000076",
         "sentence": "私、",
-        "sentence_with_furigana": "私、"
+        "sentence_with_furigana": "私、",
+        "audio_begin": 168680,
+        "audio_end": 169400
     },
     {
         "id": "f000077",
         "sentence": "心配だわ、",
-        "sentence_with_furigana": "心配だわ、"
+        "sentence_with_furigana": "心配だわ、",
+        "audio_begin": 169400,
+        "audio_end": 170280
     },
     {
         "id": "f000078",
         "sentence": "どうしませう。",
-        "sentence_with_furigana": "どうしませう。"
+        "sentence_with_furigana": "どうしませう。",
+        "audio_begin": 170280,
+        "audio_end": 173000
     },
     {
         "id": "f000079",
         "sentence": "」よう子ちやんは心配になりました。",
-        "sentence_with_furigana": "」よう子ちやんは心配になりました。"
+        "sentence_with_furigana": "」よう子ちやんは心配になりました。",
+        "audio_begin": 173000,
+        "audio_end": 176725
     },
     {
         "id": "f000080",
         "sentence": "「グツ、",
-        "sentence_with_furigana": "「グツ、"
+        "sentence_with_furigana": "「グツ、",
+        "audio_begin": 176725,
+        "audio_end": 177461
     },
     {
         "id": "f000081",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 177461,
+        "audio_end": 178040
     },
     {
         "id": "f000082",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 178040,
+        "audio_end": 178579
     },
     {
         "id": "f000083",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 178579,
+        "audio_end": 179157
     },
     {
         "id": "f000084",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 179157,
+        "audio_end": 179736
     },
     {
         "id": "f000085",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 179736,
+        "audio_end": 180196
     },
     {
         "id": "f000086",
         "sentence": "グツ」今度はお鍋もおやかんの歌に合せて歌ひ初めました。",
-        "sentence_with_furigana": "グツ」今度はお鍋もおやかんの歌に合せて歌ひ初めました。"
+        "sentence_with_furigana": "グツ」今度はお鍋もおやかんの歌に合せて歌ひ初めました。",
+        "audio_begin": 180196,
+        "audio_end": 188160
     },
     {
         "id": "f000087",
         "sentence": "「グツタ、",
-        "sentence_with_furigana": "「グツタ、"
+        "sentence_with_furigana": "「グツタ、",
+        "audio_begin": 188160,
+        "audio_end": 188720
     },
     {
         "id": "f000088",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 188720,
+        "audio_end": 189274
     },
     {
         "id": "f000089",
         "sentence": "グツタ、",
-        "sentence_with_furigana": "グツタ、"
+        "sentence_with_furigana": "グツタ、",
+        "audio_begin": 189274,
+        "audio_end": 189840
     },
     {
         "id": "f000090",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 189840,
+        "audio_end": 190440
     },
     {
         "id": "f000091",
         "sentence": "グツタ、",
-        "sentence_with_furigana": "グツタ、"
+        "sentence_with_furigana": "グツタ、",
+        "audio_begin": 190440,
+        "audio_end": 190960
     },
     {
         "id": "f000092",
         "sentence": "グツタ、",
-        "sentence_with_furigana": "グツタ、"
+        "sentence_with_furigana": "グツタ、",
+        "audio_begin": 190960,
+        "audio_end": 191480
     },
     {
         "id": "f000093",
         "sentence": "グツタ。",
-        "sentence_with_furigana": "グツタ。"
+        "sentence_with_furigana": "グツタ。",
+        "audio_begin": 191480,
+        "audio_end": 193461
     },
     {
         "id": "f000094",
         "sentence": "」段々大きな声を出しました。",
-        "sentence_with_furigana": "」段々大きな声を出しました。"
+        "sentence_with_furigana": "」段々大きな声を出しました。",
+        "audio_begin": 193461,
+        "audio_end": 197340
     },
     {
         "id": "f000095",
         "sentence": "「お鍋が私に歌をきかしてくれてゐるのね。",
-        "sentence_with_furigana": "「お鍋が私に歌をきかしてくれてゐるのね。"
+        "sentence_with_furigana": "「お鍋が私に歌をきかしてくれてゐるのね。",
+        "audio_begin": 197340,
+        "audio_end": 200640
     },
     {
         "id": "f000096",
         "sentence": "だけどあんな声を出して、",
-        "sentence_with_furigana": "だけどあんな声を出して、"
+        "sentence_with_furigana": "だけどあんな声を出して、",
+        "audio_begin": 200640,
+        "audio_end": 202800
     },
     {
         "id": "f000097",
         "sentence": "にたちすぎると困るわ。」",
-        "sentence_with_furigana": "にたちすぎると困るわ。」"
+        "sentence_with_furigana": "にたちすぎると困るわ。」",
+        "audio_begin": 202800,
+        "audio_end": 204597
     },
     {
         "id": "f000098",
         "sentence": "「ピチ、",
-        "sentence_with_furigana": "「ピチ、"
+        "sentence_with_furigana": "「ピチ、",
+        "audio_begin": 204597,
+        "audio_end": 206240
     },
     {
         "id": "f000099",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 206240,
+        "audio_end": 206920
     },
     {
         "id": "f000100",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 206920,
+        "audio_end": 207600
     },
     {
         "id": "f000101",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 207600,
+        "audio_end": 208280
     },
     {
         "id": "f000102",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 208280,
+        "audio_end": 208960
     },
     {
         "id": "f000103",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 208960,
+        "audio_end": 209560
     },
     {
         "id": "f000104",
         "sentence": "ピチ。",
-        "sentence_with_furigana": "ピチ。"
+        "sentence_with_furigana": "ピチ。",
+        "audio_begin": 209560,
+        "audio_end": 210200
     },
     {
         "id": "f000105",
         "sentence": "」出ない声をはり上げて、",
-        "sentence_with_furigana": "」出ない声をはり上げて、"
+        "sentence_with_furigana": "」出ない声をはり上げて、",
+        "audio_begin": 212000,
+        "audio_end": 213840
     },
     {
         "id": "f000106",
         "sentence": "フライパンまでが歌ひ出しました。",
-        "sentence_with_furigana": "フライパンまでが歌ひ出しました。"
+        "sentence_with_furigana": "フライパンまでが歌ひ出しました。",
+        "audio_begin": 213840,
+        "audio_end": 216240
     },
     {
         "id": "f000107",
         "sentence": "「チリ、",
-        "sentence_with_furigana": "「チリ、"
+        "sentence_with_furigana": "「チリ、",
+        "audio_begin": 218440,
+        "audio_end": 219062
     },
     {
         "id": "f000108",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 219062,
+        "audio_end": 219621
     },
     {
         "id": "f000109",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 219621,
+        "audio_end": 220229
     },
     {
         "id": "f000110",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 220229,
+        "audio_end": 220680
     },
     {
         "id": "f000111",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 220680,
+        "audio_end": 221200
     },
     {
         "id": "f000112",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 221200,
+        "audio_end": 221960
     },
     {
         "id": "f000113",
         "sentence": "チリ。",
-        "sentence_with_furigana": "チリ。"
+        "sentence_with_furigana": "チリ。",
+        "audio_begin": 221960,
+        "audio_end": 223560
     },
     {
         "id": "f000114",
         "sentence": "私だつて歌はうと思ひや、",
-        "sentence_with_furigana": "私だつて歌はうと思ひや、"
+        "sentence_with_furigana": "私だつて歌はうと思ひや、",
+        "audio_begin": 223560,
+        "audio_end": 225120
     },
     {
         "id": "f000115",
         "sentence": "歌へるのよ。",
-        "sentence_with_furigana": "歌へるのよ。"
+        "sentence_with_furigana": "歌へるのよ。",
+        "audio_begin": 225120,
+        "audio_end": 225960
     },
     {
         "id": "f000116",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 225960,
+        "audio_end": 226440
     },
     {
         "id": "f000117",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 226440,
+        "audio_end": 227080
     },
     {
         "id": "f000118",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 227080,
+        "audio_end": 227760
     },
     {
         "id": "f000119",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 227760,
+        "audio_end": 228400
     },
     {
         "id": "f000120",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 228400,
+        "audio_end": 228880
     },
     {
         "id": "f000121",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 228880,
+        "audio_end": 229520
     },
     {
         "id": "f000122",
         "sentence": "チリ。",
-        "sentence_with_furigana": "チリ。"
+        "sentence_with_furigana": "チリ。",
+        "audio_begin": 229520,
+        "audio_end": 230240
     },
     {
         "id": "f000123",
         "sentence": "私の声はとてもいい声でせう？」",
-        "sentence_with_furigana": "私の声はとてもいい声でせう？」"
+        "sentence_with_furigana": "私の声はとてもいい声でせう？」",
+        "audio_begin": 230240,
+        "audio_end": 233320
     },
     {
         "id": "f000124",
         "sentence": "「ブク、",
-        "sentence_with_furigana": "「ブク、"
+        "sentence_with_furigana": "「ブク、",
+        "audio_begin": 233320,
+        "audio_end": 233680
     },
     {
         "id": "f000125",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 233680,
+        "audio_end": 234400
     },
     {
         "id": "f000126",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 234400,
+        "audio_end": 234800
     },
     {
         "id": "f000127",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 234800,
+        "audio_end": 235480
     },
     {
         "id": "f000128",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 235480,
+        "audio_end": 236080
     },
     {
         "id": "f000129",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 236080,
+        "audio_end": 236520
     },
     {
         "id": "f000130",
         "sentence": "ブク。",
-        "sentence_with_furigana": "ブク。"
+        "sentence_with_furigana": "ブク。",
+        "audio_begin": 236520,
+        "audio_end": 238120
     },
     {
         "id": "f000131",
         "sentence": "私たちはこんなに大きな声が出せるのよ。",
-        "sentence_with_furigana": "私たちはこんなに大きな声が出せるのよ。"
+        "sentence_with_furigana": "私たちはこんなに大きな声が出せるのよ。",
+        "audio_begin": 238120,
+        "audio_end": 241040
     },
     {
         "id": "f000132",
         "sentence": "大きな声をね。",
-        "sentence_with_furigana": "大きな声をね。"
+        "sentence_with_furigana": "大きな声をね。",
+        "audio_begin": 241040,
+        "audio_end": 242400
     },
     {
         "id": "f000133",
         "sentence": "」とお鍋とおやかんは又、",
-        "sentence_with_furigana": "」とお鍋とおやかんは又、"
+        "sentence_with_furigana": "」とお鍋とおやかんは又、",
+        "audio_begin": 242400,
+        "audio_end": 245720
     },
     {
         "id": "f000134",
         "sentence": "負けずにがなり立てました。",
-        "sentence_with_furigana": "負けずにがなり立てました。"
+        "sentence_with_furigana": "負けずにがなり立てました。",
+        "audio_begin": 245720,
+        "audio_end": 248960
     },
     {
         "id": "f000135",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 248960,
+        "audio_end": 249422
     },
     {
         "id": "f000136",
         "sentence": "ブク、",
-        "sentence_with_furigana": "ブク、"
+        "sentence_with_furigana": "ブク、",
+        "audio_begin": 249422,
+        "audio_end": 249922
     },
     {
         "id": "f000137",
         "sentence": "シユツ、",
-        "sentence_with_furigana": "シユツ、"
+        "sentence_with_furigana": "シユツ、",
+        "audio_begin": 249922,
+        "audio_end": 250415
     },
     {
         "id": "f000138",
         "sentence": "シユツ",
-        "sentence_with_furigana": "シユツ"
+        "sentence_with_furigana": "シユツ",
+        "audio_begin": 250415,
+        "audio_end": 250951
     },
     {
         "id": "f000139",
         "sentence": "パク、",
-        "sentence_with_furigana": "パク、"
+        "sentence_with_furigana": "パク、",
+        "audio_begin": 250951,
+        "audio_end": 251440
     },
     {
         "id": "f000140",
         "sentence": "パク、",
-        "sentence_with_furigana": "パク、"
+        "sentence_with_furigana": "パク、",
+        "audio_begin": 251440,
+        "audio_end": 252000
     },
     {
         "id": "f000141",
         "sentence": "パク",
-        "sentence_with_furigana": "パク"
+        "sentence_with_furigana": "パク",
+        "audio_begin": 252000,
+        "audio_end": 252400
     },
     {
         "id": "f000142",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 252400,
+        "audio_end": 253520
     },
     {
         "id": "f000143",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 253520,
+        "audio_end": 253960
     },
     {
         "id": "f000144",
         "sentence": "グタ、",
-        "sentence_with_furigana": "グタ、"
+        "sentence_with_furigana": "グタ、",
+        "audio_begin": 253960,
+        "audio_end": 254468
     },
     {
         "id": "f000145",
         "sentence": "グタ",
-        "sentence_with_furigana": "グタ"
+        "sentence_with_furigana": "グタ",
+        "audio_begin": 254468,
+        "audio_end": 255161
     },
     {
         "id": "f000146",
         "sentence": "チリ、",
-        "sentence_with_furigana": "チリ、"
+        "sentence_with_furigana": "チリ、",
+        "audio_begin": 255161,
+        "audio_end": 255664
     },
     {
         "id": "f000147",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 255664,
+        "audio_end": 256206
     },
     {
         "id": "f000148",
         "sentence": "チリ",
-        "sentence_with_furigana": "チリ"
+        "sentence_with_furigana": "チリ",
+        "audio_begin": 256206,
+        "audio_end": 258720
     },
     {
         "id": "f000149",
         "sentence": "お鍋とおやかんとフライパンはめいめい夢中になつて歌つてゐるうちに、",
-        "sentence_with_furigana": "お鍋とおやかんとフライパンはめいめい夢中になつて歌つてゐるうちに、"
+        "sentence_with_furigana": "お鍋とおやかんとフライパンはめいめい夢中になつて歌つてゐるうちに、",
+        "audio_begin": 258720,
+        "audio_end": 264880
     },
     {
         "id": "f000150",
         "sentence": "さあ、",
-        "sentence_with_furigana": "さあ、"
+        "sentence_with_furigana": "さあ、",
+        "audio_begin": 264880,
+        "audio_end": 265320
     },
     {
         "id": "f000151",
         "sentence": "大変、",
-        "sentence_with_furigana": "大変、"
+        "sentence_with_furigana": "大変、",
+        "audio_begin": 265320,
+        "audio_end": 266280
     },
     {
         "id": "f000152",
         "sentence": "みんなガバンガバンと煮えくりかへつてしまひました。",
-        "sentence_with_furigana": "みんなガバンガバンと煮えくりかへつてしまひました。"
+        "sentence_with_furigana": "みんなガバンガバンと煮えくりかへつてしまひました。",
+        "audio_begin": 266280,
+        "audio_end": 269280
     },
     {
         "id": "f000153",
         "sentence": "プク、",
-        "sentence_with_furigana": "プク、"
+        "sentence_with_furigana": "プク、",
+        "audio_begin": 269280,
+        "audio_end": 270760
     },
     {
         "id": "f000154",
         "sentence": "パク、",
-        "sentence_with_furigana": "パク、"
+        "sentence_with_furigana": "パク、",
+        "audio_begin": 270760,
+        "audio_end": 271160
     },
     {
         "id": "f000155",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 271160,
+        "audio_end": 271480
     },
     {
         "id": "f000156",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 271480,
+        "audio_end": 271840
     },
     {
         "id": "f000157",
         "sentence": "プク、",
-        "sentence_with_furigana": "プク、"
+        "sentence_with_furigana": "プク、",
+        "audio_begin": 271840,
+        "audio_end": 272120
     },
     {
         "id": "f000158",
         "sentence": "パク、",
-        "sentence_with_furigana": "パク、"
+        "sentence_with_furigana": "パク、",
+        "audio_begin": 272120,
+        "audio_end": 272400
     },
     {
         "id": "f000159",
         "sentence": "グツ。",
-        "sentence_with_furigana": "グツ。"
+        "sentence_with_furigana": "グツ。",
+        "audio_begin": 272400,
+        "audio_end": 272880
     },
     {
         "id": "f000160",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 272880,
+        "audio_end": 273240
     },
     {
         "id": "f000161",
         "sentence": "プク、",
-        "sentence_with_furigana": "プク、"
+        "sentence_with_furigana": "プク、",
+        "audio_begin": 273240,
+        "audio_end": 273480
     },
     {
         "id": "f000162",
         "sentence": "パク、",
-        "sentence_with_furigana": "パク、"
+        "sentence_with_furigana": "パク、",
+        "audio_begin": 273480,
+        "audio_end": 273699
     },
     {
         "id": "f000163",
         "sentence": "グツ、",
-        "sentence_with_furigana": "グツ、"
+        "sentence_with_furigana": "グツ、",
+        "audio_begin": 273699,
+        "audio_end": 273960
     },
     {
         "id": "f000164",
         "sentence": "ピチ、",
-        "sentence_with_furigana": "ピチ、"
+        "sentence_with_furigana": "ピチ、",
+        "audio_begin": 273960,
+        "audio_end": 274200
     },
     {
         "id": "f000165",
         "sentence": "プク、",
-        "sentence_with_furigana": "プク、"
+        "sentence_with_furigana": "プク、",
+        "audio_begin": 274200,
+        "audio_end": 274440
     },
     {
         "id": "f000166",
         "sentence": "パク。",
-        "sentence_with_furigana": "パク。"
+        "sentence_with_furigana": "パク。",
+        "audio_begin": 274440,
+        "audio_end": 275855
     },
     {
         "id": "f000167",
         "sentence": "その音をききつけて、",
-        "sentence_with_furigana": "その音をききつけて、"
+        "sentence_with_furigana": "その音をききつけて、",
+        "audio_begin": 275855,
+        "audio_end": 277560
     },
     {
         "id": "f000168",
         "sentence": "お母さんは大あわてにあわてて、",
-        "sentence_with_furigana": "お母さんは大あわてにあわてて、"
+        "sentence_with_furigana": "お母さんは大あわてにあわてて、",
+        "audio_begin": 277560,
+        "audio_end": 279800
     },
     {
         "id": "f000169",
         "sentence": "台所へかけこんで、",
-        "sentence_with_furigana": "台所へかけこんで、"
+        "sentence_with_furigana": "台所へかけこんで、",
+        "audio_begin": 279800,
+        "audio_end": 281200
     },
     {
         "id": "f000170",
         "sentence": "お鍋とおやかんとフライパンを火から引きずり下しました。",
-        "sentence_with_furigana": "お鍋とおやかんとフライパンを火から引きずり下しました。"
+        "sentence_with_furigana": "お鍋とおやかんとフライパンを火から引きずり下しました。",
+        "audio_begin": 281200,
+        "audio_end": 286990
     },
     {
         "id": "f000171",
         "sentence": "お鍋とおやかんとフライパンのけんかはこれでおしまひになりました。",
-        "sentence_with_furigana": "お鍋とおやかんとフライパンのけんかはこれでおしまひになりました。"
+        "sentence_with_furigana": "お鍋とおやかんとフライパンのけんかはこれでおしまひになりました。",
+        "audio_begin": 286990,
+        "audio_end": 294353
     },
     {
         "id": "f000172",
         "sentence": "お母さんはおつしやいました。",
-        "sentence_with_furigana": "お母さんはおつしやいました。"
+        "sentence_with_furigana": "お母さんはおつしやいました。",
+        "audio_begin": 294353,
+        "audio_end": 296627
     },
     {
         "id": "f000173",
         "sentence": "「よう子ちやん、",
-        "sentence_with_furigana": "「よう子ちやん、"
+        "sentence_with_furigana": "「よう子ちやん、",
+        "audio_begin": 296627,
+        "audio_end": 297600
     },
     {
         "id": "f000174",
         "sentence": "こんどから、",
-        "sentence_with_furigana": "こんどから、"
+        "sentence_with_furigana": "こんどから、",
+        "audio_begin": 297600,
+        "audio_end": 298600
     },
     {
         "id": "f000175",
         "sentence": "お鍋や、",
-        "sentence_with_furigana": "お鍋や、"
+        "sentence_with_furigana": "お鍋や、",
+        "audio_begin": 298600,
+        "audio_end": 299280
     },
     {
         "id": "f000176",
         "sentence": "おやかんやフライパンがブツブツ言ひ出したらお母さんにすぐ知らさなくちやいけませんよ。」",
-        "sentence_with_furigana": "おやかんやフライパンがブツブツ言ひ出したらお母さんにすぐ知らさなくちやいけませんよ。」"
+        "sentence_with_furigana": "おやかんやフライパンがブツブツ言ひ出したらお母さんにすぐ知らさなくちやいけませんよ。」",
+        "audio_begin": 299280,
+        "audio_end": 306680
     },
     {
         "id": "f000177",
         "sentence": "「私が悪いんぢやないのよ。",
-        "sentence_with_furigana": "「私が悪いんぢやないのよ。"
+        "sentence_with_furigana": "「私が悪いんぢやないのよ。",
+        "audio_begin": 306680,
+        "audio_end": 308440
     },
     {
         "id": "f000178",
         "sentence": "お鍋とおやかんにけんかをしかけたフライパンが悪いのよ。",
-        "sentence_with_furigana": "お鍋とおやかんにけんかをしかけたフライパンが悪いのよ。"
+        "sentence_with_furigana": "お鍋とおやかんにけんかをしかけたフライパンが悪いのよ。",
+        "audio_begin": 308440,
+        "audio_end": 311944
     },
     {
         "id": "f000179",
         "sentence": "さうでせう！",
-        "sentence_with_furigana": "さうでせう！"
+        "sentence_with_furigana": "さうでせう！",
+        "audio_begin": 311944,
+        "audio_end": 312680
     },
     {
         "id": "f000180",
         "sentence": "お母さん？",
-        "sentence_with_furigana": "お母さん？"
+        "sentence_with_furigana": "お母さん？",
+        "audio_begin": 312680,
+        "audio_end": 315217
     },
     {
         "id": "f000181",
         "sentence": "」お母さんは何にも御存じないのでおかしさうにお笑ひになりました。",
-        "sentence_with_furigana": "」お母さんは何にも御存じないのでおかしさうにお笑ひになりました。"
+        "sentence_with_furigana": "」お母さんは何にも御存じないのでおかしさうにお笑ひになりました。",
+        "audio_begin": 315217,
+        "audio_end": 321420
     }
 ]

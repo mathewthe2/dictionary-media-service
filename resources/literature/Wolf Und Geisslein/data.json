@@ -1,7 +1,6 @@
 [
     {
         "id": "Wolf Und Geisslein-f000002",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -19,11 +18,12 @@
             "　",
             "訳"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5371,
+        "sound_end": 8000
     },
     {
         "id": "Wolf Und Geisslein-f000003",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -47,11 +47,12 @@
             "こども",
             "やぎ"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 8000,
+        "sound_end": 10960
     },
     {
         "id": "Wolf Und Geisslein-f000004",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -63,11 +64,12 @@
         "word_list": [
             "一"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 10960,
+        "sound_end": 12800
     },
     {
         "id": "Wolf Und Geisslein-f000005",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -81,11 +83,12 @@
             "むかし",
             "、"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 12800,
+        "sound_end": 13200
     },
     {
         "id": "Wolf Und Geisslein-f000006",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -103,11 +106,12 @@
             "に",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 13200,
+        "sound_end": 14200
     },
     {
         "id": "Wolf Und Geisslein-f000007",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -135,11 +139,12 @@
             "た",
             "。"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 14200,
+        "sound_end": 17065
     },
     {
         "id": "Wolf Und Geisslein-f000008",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -163,11 +168,12 @@
             "は",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 17065,
+        "sound_end": 18531
     },
     {
         "id": "Wolf Und Geisslein-f000009",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -195,11 +201,12 @@
             "て",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 18531,
+        "sound_end": 21400
     },
     {
         "id": "Wolf Und Geisslein-f000010",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -223,11 +230,12 @@
             "は",
             "、"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 21400,
+        "sound_end": 23160
     },
     {
         "id": "Wolf Und Geisslein-f000011",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -249,11 +257,12 @@
             "が",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 23160,
+        "sound_end": 24520
     },
     {
         "id": "Wolf Und Geisslein-f000012",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -279,11 +288,12 @@
             "と",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 24520,
+        "sound_end": 26840
     },
     {
         "id": "Wolf Und Geisslein-f000013",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -317,11 +327,12 @@
             "た",
             "。"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 26840,
+        "sound_end": 30840
     },
     {
         "id": "Wolf Und Geisslein-f000014",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -337,11 +348,12 @@
             "日",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 30840,
+        "sound_end": 31440
     },
     {
         "id": "Wolf Und Geisslein-f000015",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -361,11 +373,12 @@
             "は",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 31440,
+        "sound_end": 32360
     },
     {
         "id": "Wolf Und Geisslein-f000016",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -407,11 +420,12 @@
             "で",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 32360,
+        "sound_end": 36660
     },
     {
         "id": "Wolf Und Geisslein-f000017",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -439,11 +453,12 @@
             "で",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 36660,
+        "sound_end": 38651
     },
     {
         "id": "Wolf Und Geisslein-f000018",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -465,11 +480,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 38651,
+        "sound_end": 42320
     },
     {
         "id": "Wolf Und Geisslein-f000019",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -499,11 +515,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 42320,
+        "sound_end": 44750
     },
     {
         "id": "Wolf Und Geisslein-f000020",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -531,11 +548,12 @@
             "あいだ",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 44750,
+        "sound_end": 47279
     },
     {
         "id": "Wolf Und Geisslein-f000021",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -569,11 +587,12 @@
             "ね",
             "、"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 47279,
+        "sound_end": 50457
     },
     {
         "id": "Wolf Und Geisslein-f000022",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -607,11 +626,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 50457,
+        "sound_end": 54340
     },
     {
         "id": "Wolf Und Geisslein-f000023",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -627,11 +647,12 @@
             "は",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 54340,
+        "sound_end": 55280
     },
     {
         "id": "Wolf Und Geisslein-f000024",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -653,11 +674,12 @@
             "ず",
             "、"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 55280,
+        "sound_end": 57040
     },
     {
         "id": "Wolf Und Geisslein-f000025",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -675,11 +697,12 @@
             "まんま",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 57040,
+        "sound_end": 58440
     },
     {
         "id": "Wolf Und Geisslein-f000026",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -719,11 +742,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 58440,
+        "sound_end": 63680
     },
     {
         "id": "Wolf Und Geisslein-f000027",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -741,11 +765,12 @@
             "は",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 63680,
+        "sound_end": 64920
     },
     {
         "id": "Wolf Und Geisslein-f000028",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -769,11 +794,12 @@
             "て",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 64920,
+        "sound_end": 65920
     },
     {
         "id": "Wolf Und Geisslein-f000029",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -787,11 +813,12 @@
             "ときどき",
             "、"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 65920,
+        "sound_end": 66320
     },
     {
         "id": "Wolf Und Geisslein-f000030",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -819,11 +846,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 66320,
+        "sound_end": 69320
     },
     {
         "id": "Wolf Und Geisslein-f000031",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -837,11 +865,12 @@
             "なあに",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 69320,
+        "sound_end": 70376
     },
     {
         "id": "Wolf Und Geisslein-f000032",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -861,11 +890,12 @@
             "て",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 70376,
+        "sound_end": 71480
     },
     {
         "id": "Wolf Und Geisslein-f000033",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -885,11 +915,12 @@
             "し",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 71480,
+        "sound_end": 73120
     },
     {
         "id": "Wolf Und Geisslein-f000034",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -911,11 +942,12 @@
             "し",
             "、"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 73120,
+        "sound_end": 75160
     },
     {
         "id": "Wolf Und Geisslein-f000035",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -949,11 +981,12 @@
             "。",
             "」"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 75160,
+        "sound_end": 79080
     },
     {
         "id": "Wolf Und Geisslein-f000036",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -969,11 +1002,12 @@
             "と",
             "、"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 79080,
+        "sound_end": 79680
     },
     {
         "id": "Wolf Und Geisslein-f000037",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -991,11 +1025,12 @@
             "は",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 79680,
+        "sound_end": 80480
     },
     {
         "id": "Wolf Und Geisslein-f000038",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1015,11 +1050,12 @@
             "て",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 80480,
+        "sound_end": 82372
     },
     {
         "id": "Wolf Und Geisslein-f000039",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1035,11 +1071,12 @@
             "かあさん",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 82372,
+        "sound_end": 82920
     },
     {
         "id": "Wolf Und Geisslein-f000040",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1053,11 +1090,12 @@
             "だいじょうぶ",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 82920,
+        "sound_end": 84080
     },
     {
         "id": "Wolf Und Geisslein-f000041",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1073,11 +1111,12 @@
             "たち",
             "、"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 84080,
+        "sound_end": 84840
     },
     {
         "id": "Wolf Und Geisslein-f000042",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1099,11 +1138,12 @@
             "て",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 84840,
+        "sound_end": 85360
     },
     {
         "id": "Wolf Und Geisslein-f000043",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1127,11 +1167,12 @@
             "から",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 85360,
+        "sound_end": 86880
     },
     {
         "id": "Wolf Und Geisslein-f000044",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1161,11 +1202,12 @@
             "なさい",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 86880,
+        "sound_end": 89948
     },
     {
         "id": "Wolf Und Geisslein-f000045",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1181,11 +1223,12 @@
             "と",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 89948,
+        "sound_end": 90096
     },
     {
         "id": "Wolf Und Geisslein-f000046",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1203,11 +1246,12 @@
             "た",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 90096,
+        "sound_end": 92200
     },
     {
         "id": "Wolf Und Geisslein-f000047",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1223,11 +1267,12 @@
             "で",
             "、"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 92200,
+        "sound_end": 92680
     },
     {
         "id": "Wolf Und Geisslein-f000048",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1247,11 +1292,12 @@
             "は",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 92680,
+        "sound_end": 94440
     },
     {
         "id": "Wolf Und Geisslein-f000049",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1265,11 +1311,12 @@
             "メエ",
             "、"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 94440,
+        "sound_end": 96800
     },
     {
         "id": "Wolf Und Geisslein-f000050",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1289,11 +1336,12 @@
             "て",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 96800,
+        "sound_end": 98440
     },
     {
         "id": "Wolf Und Geisslein-f000051",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1323,11 +1371,12 @@
             "た",
             "。"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 98440,
+        "sound_end": 102440
     },
     {
         "id": "Wolf Und Geisslein-f000052",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1339,11 +1388,12 @@
         "word_list": [
             "二"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 102440,
+        "sound_end": 104480
     },
     {
         "id": "Wolf Und Geisslein-f000053",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1357,11 +1407,12 @@
             "やがて",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 104480,
+        "sound_end": 104880
     },
     {
         "id": "Wolf Und Geisslein-f000054",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1379,11 +1430,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 104880,
+        "sound_end": 106017
     },
     {
         "id": "Wolf Und Geisslein-f000055",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1399,11 +1451,12 @@
             "か",
             "、"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 106017,
+        "sound_end": 106560
     },
     {
         "id": "Wolf Und Geisslein-f000056",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1437,11 +1490,12 @@
             "た",
             "。"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 106560,
+        "sound_end": 110760
     },
     {
         "id": "Wolf Und Geisslein-f000057",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1459,11 +1513,12 @@
             "て",
             "、"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 110760,
+        "sound_end": 112600
     },
     {
         "id": "Wolf Und Geisslein-f000058",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1479,11 +1534,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 112600,
+        "sound_end": 113040
     },
     {
         "id": "Wolf Und Geisslein-f000059",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1499,11 +1555,12 @@
             "たち",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 113040,
+        "sound_end": 114440
     },
     {
         "id": "Wolf Und Geisslein-f000060",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1521,11 +1578,12 @@
             "おくれ",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 114440,
+        "sound_end": 115920
     },
     {
         "id": "Wolf Und Geisslein-f000061",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1545,11 +1603,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 115920,
+        "sound_end": 118240
     },
     {
         "id": "Wolf Und Geisslein-f000062",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1565,11 +1624,12 @@
             "に",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 118240,
+        "sound_end": 119440
     },
     {
         "id": "Wolf Und Geisslein-f000063",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1603,11 +1663,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 119440,
+        "sound_end": 122836
     },
     {
         "id": "Wolf Und Geisslein-f000064",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1623,11 +1684,12 @@
             "と",
             "、"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 122836,
+        "sound_end": 122947
     },
     {
         "id": "Wolf Und Geisslein-f000065",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1645,11 +1707,12 @@
             "た",
             "。"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 122947,
+        "sound_end": 125320
     },
     {
         "id": "Wolf Und Geisslein-f000066",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1665,11 +1728,12 @@
             "も",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 125320,
+        "sound_end": 125905
     },
     {
         "id": "Wolf Und Geisslein-f000067",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1687,11 +1751,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 125905,
+        "sound_end": 126760
     },
     {
         "id": "Wolf Und Geisslein-f000068",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1711,11 +1776,12 @@
             "た",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 126760,
+        "sound_end": 127680
     },
     {
         "id": "Wolf Und Geisslein-f000069",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1737,11 +1803,12 @@
             "で",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 127680,
+        "sound_end": 129360
     },
     {
         "id": "Wolf Und Geisslein-f000070",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1773,11 +1840,12 @@
             "た",
             "。"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 129360,
+        "sound_end": 132880
     },
     {
         "id": "Wolf Und Geisslein-f000071",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1793,11 +1861,12 @@
             "で",
             "、"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 132880,
+        "sound_end": 134160
     },
     {
         "id": "Wolf Und Geisslein-f000072",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1819,11 +1888,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 134160,
+        "sound_end": 135480
     },
     {
         "id": "Wolf Und Geisslein-f000073",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1845,11 +1915,12 @@
             "から",
             "。"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 135480,
+        "sound_end": 137760
     },
     {
         "id": "Wolf Und Geisslein-f000074",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1867,11 +1938,12 @@
             "は",
             "、"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 137760,
+        "sound_end": 138440
     },
     {
         "id": "Wolf Und Geisslein-f000075",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1887,11 +1959,12 @@
             "な",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 138440,
+        "sound_end": 139080
     },
     {
         "id": "Wolf Und Geisslein-f000076",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1913,11 +1986,12 @@
             "けれど",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 139080,
+        "sound_end": 140840
     },
     {
         "id": "Wolf Und Geisslein-f000077",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1949,11 +2023,12 @@
             "もの",
             "。"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 140840,
+        "sound_end": 144120
     },
     {
         "id": "Wolf Und Geisslein-f000078",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1975,11 +2050,12 @@
             "い",
             "。"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 144120,
+        "sound_end": 146476
     },
     {
         "id": "Wolf Und Geisslein-f000079",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -1995,11 +2071,12 @@
             "と",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 146476,
+        "sound_end": 146600
     },
     {
         "id": "Wolf Und Geisslein-f000080",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2017,11 +2094,12 @@
             "た",
             "。"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 146600,
+        "sound_end": 149040
     },
     {
         "id": "Wolf Und Geisslein-f000081",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2037,11 +2115,12 @@
             "で",
             "、"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 149040,
+        "sound_end": 149560
     },
     {
         "id": "Wolf Und Geisslein-f000082",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2057,11 +2136,12 @@
             "は",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 149560,
+        "sound_end": 150560
     },
     {
         "id": "Wolf Und Geisslein-f000083",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2089,11 +2169,12 @@
             "て",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 150560,
+        "sound_end": 152821
     },
     {
         "id": "Wolf Und Geisslein-f000084",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2125,11 +2206,12 @@
             "て",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 152821,
+        "sound_end": 155840
     },
     {
         "id": "Wolf Und Geisslein-f000085",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2149,11 +2231,12 @@
             "て",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 155840,
+        "sound_end": 156950
     },
     {
         "id": "Wolf Und Geisslein-f000086",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2177,11 +2260,12 @@
             "た",
             "。"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 156950,
+        "sound_end": 160040
     },
     {
         "id": "Wolf Und Geisslein-f000087",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2207,11 +2291,12 @@
             "て",
             "、"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 160040,
+        "sound_end": 161902
     },
     {
         "id": "Wolf Und Geisslein-f000088",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2231,11 +2316,12 @@
             "て",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 161902,
+        "sound_end": 162720
     },
     {
         "id": "Wolf Und Geisslein-f000089",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2253,11 +2339,12 @@
             "で",
             "、"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 162720,
+        "sound_end": 164560
     },
     {
         "id": "Wolf Und Geisslein-f000090",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2273,11 +2360,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 164560,
+        "sound_end": 164880
     },
     {
         "id": "Wolf Und Geisslein-f000091",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2293,11 +2381,12 @@
             "たち",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 164880,
+        "sound_end": 166240
     },
     {
         "id": "Wolf Und Geisslein-f000092",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2317,11 +2406,12 @@
             "くれ",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 166240,
+        "sound_end": 168000
     },
     {
         "id": "Wolf Und Geisslein-f000093",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2341,11 +2431,12 @@
             "よ",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 168000,
+        "sound_end": 169800
     },
     {
         "id": "Wolf Und Geisslein-f000094",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2381,11 +2472,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 169800,
+        "sound_end": 173408
     },
     {
         "id": "Wolf Und Geisslein-f000095",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2401,11 +2493,12 @@
             "と",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 173408,
+        "sound_end": 173520
     },
     {
         "id": "Wolf Und Geisslein-f000096",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2423,11 +2516,12 @@
             "た",
             "。"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 173520,
+        "sound_end": 175880
     },
     {
         "id": "Wolf Und Geisslein-f000097",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2443,11 +2537,12 @@
             "も",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 175880,
+        "sound_end": 176320
     },
     {
         "id": "Wolf Und Geisslein-f000098",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2471,11 +2566,12 @@
             "を",
             "、"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 176320,
+        "sound_end": 178320
     },
     {
         "id": "Wolf Und Geisslein-f000099",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2507,11 +2603,12 @@
             "で",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 178320,
+        "sound_end": 180495
     },
     {
         "id": "Wolf Und Geisslein-f000100",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2539,11 +2636,12 @@
             "て",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 180495,
+        "sound_end": 183320
     },
     {
         "id": "Wolf Und Geisslein-f000101",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2565,11 +2663,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 183320,
+        "sound_end": 185360
     },
     {
         "id": "Wolf Und Geisslein-f000102",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2591,11 +2690,12 @@
             "は",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 185360,
+        "sound_end": 186560
     },
     {
         "id": "Wolf Und Geisslein-f000103",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2631,11 +2731,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 186560,
+        "sound_end": 189840
     },
     {
         "id": "Wolf Und Geisslein-f000104",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2657,11 +2758,12 @@
             "い",
             "。"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 189840,
+        "sound_end": 192088
     },
     {
         "id": "Wolf Und Geisslein-f000105",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2677,11 +2779,12 @@
             "と",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 192088,
+        "sound_end": 192240
     },
     {
         "id": "Wolf Und Geisslein-f000106",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2699,11 +2802,12 @@
             "た",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 192240,
+        "sound_end": 193000
     },
     {
         "id": "Wolf Und Geisslein-f000107",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2719,11 +2823,12 @@
             "で",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 195000,
+        "sound_end": 195280
     },
     {
         "id": "Wolf Und Geisslein-f000108",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2739,11 +2844,12 @@
             "は",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 195280,
+        "sound_end": 196251
     },
     {
         "id": "Wolf Und Geisslein-f000109",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2771,11 +2877,12 @@
             "て",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 196251,
+        "sound_end": 198517
     },
     {
         "id": "Wolf Und Geisslein-f000110",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2805,11 +2912,12 @@
             "から",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 198517,
+        "sound_end": 201400
     },
     {
         "id": "Wolf Und Geisslein-f000111",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2833,11 +2941,12 @@
             "くれ",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 201400,
+        "sound_end": 204162
     },
     {
         "id": "Wolf Und Geisslein-f000112",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2853,11 +2962,12 @@
             "と",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 204162,
+        "sound_end": 204299
     },
     {
         "id": "Wolf Und Geisslein-f000113",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2875,11 +2985,12 @@
             "た",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 204299,
+        "sound_end": 206146
     },
     {
         "id": "Wolf Und Geisslein-f000114",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2893,11 +3004,12 @@
             "で",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 206146,
+        "sound_end": 207114
     },
     {
         "id": "Wolf Und Geisslein-f000115",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2915,11 +3027,12 @@
             "が",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 207114,
+        "sound_end": 207680
     },
     {
         "id": "Wolf Und Geisslein-f000116",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2957,11 +3070,12 @@
             "と",
             "、"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 207680,
+        "sound_end": 211469
     },
     {
         "id": "Wolf Und Geisslein-f000117",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -2977,11 +3091,12 @@
             "は",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 211469,
+        "sound_end": 212080
     },
     {
         "id": "Wolf Und Geisslein-f000118",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3007,11 +3122,12 @@
             "て",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 212080,
+        "sound_end": 214960
     },
     {
         "id": "Wolf Und Geisslein-f000119",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3027,11 +3143,12 @@
             "おい",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 214960,
+        "sound_end": 216063
     },
     {
         "id": "Wolf Und Geisslein-f000120",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3061,11 +3178,12 @@
             "くれ",
             "。"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 216063,
+        "sound_end": 219610
     },
     {
         "id": "Wolf Und Geisslein-f000121",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3081,11 +3199,12 @@
             "と",
             "、"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 219610,
+        "sound_end": 219748
     },
     {
         "id": "Wolf Und Geisslein-f000122",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3103,11 +3222,12 @@
             "た",
             "。"
         ],
-        "sound": "f000122.mp3"
+        "sound": "f000122.mp3",
+        "sound_begin": 219748,
+        "sound_end": 222240
     },
     {
         "id": "Wolf Und Geisslein-f000123",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3127,11 +3247,12 @@
             "やつ",
             "、"
         ],
-        "sound": "f000123.mp3"
+        "sound": "f000123.mp3",
+        "sound_begin": 222240,
+        "sound_end": 223640
     },
     {
         "id": "Wolf Und Geisslein-f000124",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3159,11 +3280,12 @@
             "。",
             "」"
         ],
-        "sound": "f000124.mp3"
+        "sound": "f000124.mp3",
+        "sound_begin": 223640,
+        "sound_end": 227120
     },
     {
         "id": "Wolf Und Geisslein-f000125",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3185,11 +3307,12 @@
             "て",
             "、"
         ],
-        "sound": "f000125.mp3"
+        "sound": "f000125.mp3",
+        "sound_begin": 227120,
+        "sound_end": 228640
     },
     {
         "id": "Wolf Und Geisslein-f000126",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3213,11 +3336,12 @@
             "た",
             "。"
         ],
-        "sound": "f000126.mp3"
+        "sound": "f000126.mp3",
+        "sound_begin": 228640,
+        "sound_end": 231153
     },
     {
         "id": "Wolf Und Geisslein-f000127",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3237,11 +3361,12 @@
             "は",
             "、"
         ],
-        "sound": "f000127.mp3"
+        "sound": "f000127.mp3",
+        "sound_begin": 231153,
+        "sound_end": 233570
     },
     {
         "id": "Wolf Und Geisslein-f000128",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3263,11 +3388,12 @@
             "と",
             "、"
         ],
-        "sound": "f000128.mp3"
+        "sound": "f000128.mp3",
+        "sound_begin": 233570,
+        "sound_end": 235467
     },
     {
         "id": "Wolf Und Geisslein-f000129",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3285,11 +3411,12 @@
             "ぞ",
             "。"
         ],
-        "sound": "f000129.mp3"
+        "sound": "f000129.mp3",
+        "sound_begin": 235467,
+        "sound_end": 237800
     },
     {
         "id": "Wolf Und Geisslein-f000130",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3305,11 +3432,12 @@
             "と",
             "、"
         ],
-        "sound": "f000130.mp3"
+        "sound": "f000130.mp3",
+        "sound_begin": 237800,
+        "sound_end": 237920
     },
     {
         "id": "Wolf Und Geisslein-f000131",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3327,11 +3455,12 @@
             "た",
             "。"
         ],
-        "sound": "f000131.mp3"
+        "sound": "f000131.mp3",
+        "sound_begin": 237920,
+        "sound_end": 238660
     },
     {
         "id": "Wolf Und Geisslein-f000132",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3347,11 +3476,12 @@
             "で",
             "、"
         ],
-        "sound": "f000132.mp3"
+        "sound": "f000132.mp3",
+        "sound_begin": 240760,
+        "sound_end": 241120
     },
     {
         "id": "Wolf Und Geisslein-f000133",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3373,11 +3503,12 @@
             "て",
             "、"
         ],
-        "sound": "f000133.mp3"
+        "sound": "f000133.mp3",
+        "sound_begin": 241120,
+        "sound_end": 243000
     },
     {
         "id": "Wolf Und Geisslein-f000134",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3409,11 +3540,12 @@
             "た",
             "。"
         ],
-        "sound": "f000134.mp3"
+        "sound": "f000134.mp3",
+        "sound_begin": 243000,
+        "sound_end": 247040
     },
     {
         "id": "Wolf Und Geisslein-f000135",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3427,11 +3559,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000135.mp3"
+        "sound": "f000135.mp3",
+        "sound_begin": 247040,
+        "sound_end": 248012
     },
     {
         "id": "Wolf Und Geisslein-f000136",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3451,11 +3584,12 @@
             "が",
             "、"
         ],
-        "sound": "f000136.mp3"
+        "sound": "f000136.mp3",
+        "sound_begin": 248012,
+        "sound_end": 249880
     },
     {
         "id": "Wolf Und Geisslein-f000137",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3481,11 +3615,12 @@
             "ね",
             "。"
         ],
-        "sound": "f000137.mp3"
+        "sound": "f000137.mp3",
+        "sound_begin": 249880,
+        "sound_end": 252140
     },
     {
         "id": "Wolf Und Geisslein-f000138",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3499,11 +3634,12 @@
             "さて",
             "、"
         ],
-        "sound": "f000138.mp3"
+        "sound": "f000138.mp3",
+        "sound_begin": 254200,
+        "sound_end": 255120
     },
     {
         "id": "Wolf Und Geisslein-f000139",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3519,11 +3655,12 @@
             "は",
             "、"
         ],
-        "sound": "f000139.mp3"
+        "sound": "f000139.mp3",
+        "sound_begin": 255120,
+        "sound_end": 255800
     },
     {
         "id": "Wolf Und Geisslein-f000140",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3543,11 +3680,12 @@
             "に",
             "、"
         ],
-        "sound": "f000140.mp3"
+        "sound": "f000140.mp3",
+        "sound_begin": 255800,
+        "sound_end": 256969
     },
     {
         "id": "Wolf Und Geisslein-f000141",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3577,11 +3715,12 @@
             "て",
             "、"
         ],
-        "sound": "f000141.mp3"
+        "sound": "f000141.mp3",
+        "sound_begin": 256969,
+        "sound_end": 259716
     },
     {
         "id": "Wolf Und Geisslein-f000142",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3595,11 +3734,12 @@
             "とんとん",
             "、"
         ],
-        "sound": "f000142.mp3"
+        "sound": "f000142.mp3",
+        "sound_begin": 259716,
+        "sound_end": 260760
     },
     {
         "id": "Wolf Und Geisslein-f000143",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3619,11 +3759,12 @@
             "て",
             "、"
         ],
-        "sound": "f000143.mp3"
+        "sound": "f000143.mp3",
+        "sound_begin": 260760,
+        "sound_end": 262469
     },
     {
         "id": "Wolf Und Geisslein-f000144",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3643,11 +3784,12 @@
             "た",
             "。"
         ],
-        "sound": "f000144.mp3"
+        "sound": "f000144.mp3",
+        "sound_begin": 262469,
+        "sound_end": 264760
     },
     {
         "id": "Wolf Und Geisslein-f000145",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3669,11 +3811,12 @@
             "や",
             "、"
         ],
-        "sound": "f000145.mp3"
+        "sound": "f000145.mp3",
+        "sound_begin": 264760,
+        "sound_end": 266582
     },
     {
         "id": "Wolf Und Geisslein-f000146",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3691,11 +3834,12 @@
             "おくれ",
             "、"
         ],
-        "sound": "f000146.mp3"
+        "sound": "f000146.mp3",
+        "sound_begin": 266582,
+        "sound_end": 268280
     },
     {
         "id": "Wolf Und Geisslein-f000147",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3725,11 +3869,12 @@
             "よ",
             "、"
         ],
-        "sound": "f000147.mp3"
+        "sound": "f000147.mp3",
+        "sound_begin": 268280,
+        "sound_end": 271640
     },
     {
         "id": "Wolf Und Geisslein-f000148",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3749,11 +3894,12 @@
             "に",
             "、"
         ],
-        "sound": "f000148.mp3"
+        "sound": "f000148.mp3",
+        "sound_begin": 271640,
+        "sound_end": 273720
     },
     {
         "id": "Wolf Und Geisslein-f000149",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3791,11 +3937,12 @@
             "。",
             "」"
         ],
-        "sound": "f000149.mp3"
+        "sound": "f000149.mp3",
+        "sound_begin": 273720,
+        "sound_end": 275800
     },
     {
         "id": "Wolf Und Geisslein-f000150",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3815,11 +3962,12 @@
             "は",
             "、"
         ],
-        "sound": "f000150.mp3"
+        "sound": "f000150.mp3",
+        "sound_begin": 277800,
+        "sound_end": 278600
     },
     {
         "id": "Wolf Und Geisslein-f000151",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3839,11 +3987,12 @@
             "て",
             "、"
         ],
-        "sound": "f000151.mp3"
+        "sound": "f000151.mp3",
+        "sound_begin": 278600,
+        "sound_end": 280547
     },
     {
         "id": "Wolf Und Geisslein-f000152",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3869,11 +4018,12 @@
             "みせ",
             "、"
         ],
-        "sound": "f000152.mp3"
+        "sound": "f000152.mp3",
+        "sound_begin": 280547,
+        "sound_end": 283040
     },
     {
         "id": "Wolf Und Geisslein-f000153",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3903,11 +4053,12 @@
             "か",
             "、"
         ],
-        "sound": "f000153.mp3"
+        "sound": "f000153.mp3",
+        "sound_begin": 283040,
+        "sound_end": 284880
     },
     {
         "id": "Wolf Und Geisslein-f000154",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3929,11 +4080,12 @@
             "。",
             "」"
         ],
-        "sound": "f000154.mp3"
+        "sound": "f000154.mp3",
+        "sound_begin": 284880,
+        "sound_end": 287240
     },
     {
         "id": "Wolf Und Geisslein-f000155",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3953,11 +4105,12 @@
             "て",
             "、"
         ],
-        "sound": "f000155.mp3"
+        "sound": "f000155.mp3",
+        "sound_begin": 287240,
+        "sound_end": 288400
     },
     {
         "id": "Wolf Und Geisslein-f000156",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -3973,11 +4126,12 @@
             "は",
             "、"
         ],
-        "sound": "f000156.mp3"
+        "sound": "f000156.mp3",
+        "sound_begin": 288400,
+        "sound_end": 288920
     },
     {
         "id": "Wolf Und Geisslein-f000157",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4003,11 +4157,12 @@
             "た",
             "。"
         ],
-        "sound": "f000157.mp3"
+        "sound": "f000157.mp3",
+        "sound_begin": 288920,
+        "sound_end": 290520
     },
     {
         "id": "Wolf Und Geisslein-f000158",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4035,11 +4190,12 @@
             "と",
             "、"
         ],
-        "sound": "f000158.mp3"
+        "sound": "f000158.mp3",
+        "sound_begin": 292120,
+        "sound_end": 293920
     },
     {
         "id": "Wolf Und Geisslein-f000159",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4059,11 +4215,12 @@
             "で",
             "、"
         ],
-        "sound": "f000159.mp3"
+        "sound": "f000159.mp3",
+        "sound_begin": 293920,
+        "sound_end": 295400
     },
     {
         "id": "Wolf Und Geisslein-f000160",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4085,11 +4242,12 @@
             "を",
             "、"
         ],
-        "sound": "f000160.mp3"
+        "sound": "f000160.mp3",
+        "sound_begin": 295400,
+        "sound_end": 296200
     },
     {
         "id": "Wolf Und Geisslein-f000161",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4111,11 +4269,12 @@
             "て",
             "、"
         ],
-        "sound": "f000161.mp3"
+        "sound": "f000161.mp3",
+        "sound_begin": 296200,
+        "sound_end": 298016
     },
     {
         "id": "Wolf Und Geisslein-f000162",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4137,11 +4296,12 @@
             "た",
             "。"
         ],
-        "sound": "f000162.mp3"
+        "sound": "f000162.mp3",
+        "sound_begin": 298016,
+        "sound_end": 300170
     },
     {
         "id": "Wolf Und Geisslein-f000163",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4157,11 +4317,12 @@
             "で",
             "、"
         ],
-        "sound": "f000163.mp3"
+        "sound": "f000163.mp3",
+        "sound_begin": 300170,
+        "sound_end": 301222
     },
     {
         "id": "Wolf Und Geisslein-f000164",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4191,11 +4352,12 @@
             "たろう",
             "、"
         ],
-        "sound": "f000164.mp3"
+        "sound": "f000164.mp3",
+        "sound_begin": 301222,
+        "sound_end": 303800
     },
     {
         "id": "Wolf Und Geisslein-f000165",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4225,11 +4387,12 @@
             "か",
             "。"
         ],
-        "sound": "f000165.mp3"
+        "sound": "f000165.mp3",
+        "sound_begin": 303800,
+        "sound_end": 306720
     },
     {
         "id": "Wolf Und Geisslein-f000166",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4243,11 +4406,12 @@
             "みんな",
             "、"
         ],
-        "sound": "f000166.mp3"
+        "sound": "f000166.mp3",
+        "sound_begin": 306720,
+        "sound_end": 307480
     },
     {
         "id": "Wolf Und Geisslein-f000167",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4267,11 +4431,12 @@
             "て",
             "、"
         ],
-        "sound": "f000167.mp3"
+        "sound": "f000167.mp3",
+        "sound_begin": 307480,
+        "sound_end": 308600
     },
     {
         "id": "Wolf Und Geisslein-f000168",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4289,11 +4454,12 @@
             "て",
             "、"
         ],
-        "sound": "f000168.mp3"
+        "sound": "f000168.mp3",
+        "sound_begin": 308600,
+        "sound_end": 309480
     },
     {
         "id": "Wolf Und Geisslein-f000169",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4319,11 +4485,12 @@
             "て",
             "、"
         ],
-        "sound": "f000169.mp3"
+        "sound": "f000169.mp3",
+        "sound_begin": 309480,
+        "sound_end": 311800
     },
     {
         "id": "Wolf Und Geisslein-f000170",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4345,11 +4512,12 @@
             "た",
             "。"
         ],
-        "sound": "f000170.mp3"
+        "sound": "f000170.mp3",
+        "sound_begin": 311800,
+        "sound_end": 314720
     },
     {
         "id": "Wolf Und Geisslein-f000171",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4365,11 +4533,12 @@
             "は",
             "、"
         ],
-        "sound": "f000171.mp3"
+        "sound": "f000171.mp3",
+        "sound_begin": 314720,
+        "sound_end": 315280
     },
     {
         "id": "Wolf Und Geisslein-f000172",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4397,11 +4566,12 @@
             "た",
             "。"
         ],
-        "sound": "f000172.mp3"
+        "sound": "f000172.mp3",
+        "sound_begin": 315280,
+        "sound_end": 318499
     },
     {
         "id": "Wolf Und Geisslein-f000173",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4429,11 +4599,12 @@
             "た",
             "。"
         ],
-        "sound": "f000173.mp3"
+        "sound": "f000173.mp3",
+        "sound_begin": 318499,
+        "sound_end": 320920
     },
     {
         "id": "Wolf Und Geisslein-f000174",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4453,11 +4624,12 @@
             "は",
             "、"
         ],
-        "sound": "f000174.mp3"
+        "sound": "f000174.mp3",
+        "sound_begin": 322520,
+        "sound_end": 323680
     },
     {
         "id": "Wolf Und Geisslein-f000175",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4483,11 +4655,12 @@
             "た",
             "。"
         ],
-        "sound": "f000175.mp3"
+        "sound": "f000175.mp3",
+        "sound_begin": 323680,
+        "sound_end": 326495
     },
     {
         "id": "Wolf Und Geisslein-f000176",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4507,11 +4680,12 @@
             "は",
             "、"
         ],
-        "sound": "f000176.mp3"
+        "sound": "f000176.mp3",
+        "sound_begin": 326495,
+        "sound_end": 327709
     },
     {
         "id": "Wolf Und Geisslein-f000177",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4533,11 +4707,12 @@
             "た",
             "。"
         ],
-        "sound": "f000177.mp3"
+        "sound": "f000177.mp3",
+        "sound_begin": 327709,
+        "sound_end": 331080
     },
     {
         "id": "Wolf Und Geisslein-f000178",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4557,11 +4732,12 @@
             "は",
             "、"
         ],
-        "sound": "f000178.mp3"
+        "sound": "f000178.mp3",
+        "sound_begin": 331080,
+        "sound_end": 332096
     },
     {
         "id": "Wolf Und Geisslein-f000179",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4583,11 +4759,12 @@
             "た",
             "。"
         ],
-        "sound": "f000179.mp3"
+        "sound": "f000179.mp3",
+        "sound_begin": 332096,
+        "sound_end": 334760
     },
     {
         "id": "Wolf Und Geisslein-f000180",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4607,11 +4784,12 @@
             "は",
             "、"
         ],
-        "sound": "f000180.mp3"
+        "sound": "f000180.mp3",
+        "sound_begin": 334760,
+        "sound_end": 335960
     },
     {
         "id": "Wolf Und Geisslein-f000181",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4639,11 +4817,12 @@
             "た",
             "。"
         ],
-        "sound": "f000181.mp3"
+        "sound": "f000181.mp3",
+        "sound_begin": 335960,
+        "sound_end": 339720
     },
     {
         "id": "Wolf Und Geisslein-f000182",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4663,11 +4842,12 @@
             "は",
             "、"
         ],
-        "sound": "f000182.mp3"
+        "sound": "f000182.mp3",
+        "sound_begin": 339720,
+        "sound_end": 341171
     },
     {
         "id": "Wolf Und Geisslein-f000183",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4699,11 +4879,12 @@
             "た",
             "。"
         ],
-        "sound": "f000183.mp3"
+        "sound": "f000183.mp3",
+        "sound_begin": 341171,
+        "sound_end": 343640
     },
     {
         "id": "Wolf Und Geisslein-f000184",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4719,11 +4900,12 @@
             "が",
             "、"
         ],
-        "sound": "f000184.mp3"
+        "sound": "f000184.mp3",
+        "sound_begin": 345840,
+        "sound_end": 346520
     },
     {
         "id": "Wolf Und Geisslein-f000185",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4739,11 +4921,12 @@
             "は",
             "、"
         ],
-        "sound": "f000185.mp3"
+        "sound": "f000185.mp3",
+        "sound_begin": 346520,
+        "sound_end": 347566
     },
     {
         "id": "Wolf Und Geisslein-f000186",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4765,11 +4948,12 @@
             "て",
             "、"
         ],
-        "sound": "f000186.mp3"
+        "sound": "f000186.mp3",
+        "sound_begin": 347566,
+        "sound_end": 349262
     },
     {
         "id": "Wolf Und Geisslein-f000187",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4785,11 +4969,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000187.mp3"
+        "sound": "f000187.mp3",
+        "sound_begin": 349262,
+        "sound_end": 350120
     },
     {
         "id": "Wolf Und Geisslein-f000188",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4803,11 +4988,12 @@
             "ひとりひとり",
             "、"
         ],
-        "sound": "f000188.mp3"
+        "sound": "f000188.mp3",
+        "sound_begin": 350120,
+        "sound_end": 351321
     },
     {
         "id": "Wolf Und Geisslein-f000189",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4831,11 +5017,12 @@
             "て",
             "、"
         ],
-        "sound": "f000189.mp3"
+        "sound": "f000189.mp3",
+        "sound_begin": 351321,
+        "sound_end": 353341
     },
     {
         "id": "Wolf Und Geisslein-f000190",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4853,11 +5040,12 @@
             "に",
             "、"
         ],
-        "sound": "f000190.mp3"
+        "sound": "f000190.mp3",
+        "sound_begin": 353341,
+        "sound_end": 354440
     },
     {
         "id": "Wolf Und Geisslein-f000191",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4881,11 +5069,12 @@
             "た",
             "。"
         ],
-        "sound": "f000191.mp3"
+        "sound": "f000191.mp3",
+        "sound_begin": 354440,
+        "sound_end": 356040
     },
     {
         "id": "Wolf Und Geisslein-f000192",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4899,11 +5088,12 @@
             "ただ",
             "、"
         ],
-        "sound": "f000192.mp3"
+        "sound": "f000192.mp3",
+        "sound_begin": 357740,
+        "sound_end": 358611
     },
     {
         "id": "Wolf Und Geisslein-f000193",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4933,11 +5123,12 @@
             "た",
             "、"
         ],
-        "sound": "f000193.mp3"
+        "sound": "f000193.mp3",
+        "sound_begin": 358611,
+        "sound_end": 361040
     },
     {
         "id": "Wolf Und Geisslein-f000194",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4959,11 +5150,12 @@
             "は",
             "、"
         ],
-        "sound": "f000194.mp3"
+        "sound": "f000194.mp3",
+        "sound_begin": 361040,
+        "sound_end": 363200
     },
     {
         "id": "Wolf Und Geisslein-f000195",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -4987,11 +5179,12 @@
             "た",
             "。"
         ],
-        "sound": "f000195.mp3"
+        "sound": "f000195.mp3",
+        "sound_begin": 363200,
+        "sound_end": 364640
     },
     {
         "id": "Wolf Und Geisslein-f000196",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5005,11 +5198,12 @@
             "さて",
             "、"
         ],
-        "sound": "f000196.mp3"
+        "sound": "f000196.mp3",
+        "sound_begin": 366840,
+        "sound_end": 367821
     },
     {
         "id": "Wolf Und Geisslein-f000197",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5033,11 +5227,12 @@
             "て",
             "、"
         ],
-        "sound": "f000197.mp3"
+        "sound": "f000197.mp3",
+        "sound_begin": 367821,
+        "sound_end": 370120
     },
     {
         "id": "Wolf Und Geisslein-f000198",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5059,11 +5254,12 @@
             "と",
             "、"
         ],
-        "sound": "f000198.mp3"
+        "sound": "f000198.mp3",
+        "sound_begin": 370120,
+        "sound_end": 372560
     },
     {
         "id": "Wolf Und Geisslein-f000199",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5089,11 +5285,12 @@
             "て",
             "、"
         ],
-        "sound": "f000199.mp3"
+        "sound": "f000199.mp3",
+        "sound_begin": 372560,
+        "sound_end": 374860
     },
     {
         "id": "Wolf Und Geisslein-f000200",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5117,11 +5314,12 @@
             "て",
             "、"
         ],
-        "sound": "f000200.mp3"
+        "sound": "f000200.mp3",
+        "sound_begin": 374860,
+        "sound_end": 376680
     },
     {
         "id": "Wolf Und Geisslein-f000201",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5151,11 +5349,12 @@
             "に",
             "、"
         ],
-        "sound": "f000201.mp3"
+        "sound": "f000201.mp3",
+        "sound_begin": 376680,
+        "sound_end": 379320
     },
     {
         "id": "Wolf Und Geisslein-f000202",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5177,11 +5376,12 @@
             "て",
             "、"
         ],
-        "sound": "f000202.mp3"
+        "sound": "f000202.mp3",
+        "sound_begin": 379320,
+        "sound_end": 381484
     },
     {
         "id": "Wolf Und Geisslein-f000203",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5207,11 +5407,12 @@
             "た",
             "。"
         ],
-        "sound": "f000203.mp3"
+        "sound": "f000203.mp3",
+        "sound_begin": 381484,
+        "sound_end": 384220
     },
     {
         "id": "Wolf Und Geisslein-f000204",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5223,11 +5424,12 @@
         "word_list": [
             "三"
         ],
-        "sound": "f000204.mp3"
+        "sound": "f000204.mp3",
+        "sound_begin": 386320,
+        "sound_end": 388640
     },
     {
         "id": "Wolf Und Geisslein-f000205",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5249,11 +5451,12 @@
             "なく",
             "、"
         ],
-        "sound": "f000205.mp3"
+        "sound": "f000205.mp3",
+        "sound_begin": 388640,
+        "sound_end": 390240
     },
     {
         "id": "Wolf Und Geisslein-f000206",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5273,11 +5476,12 @@
             "は",
             "、"
         ],
-        "sound": "f000206.mp3"
+        "sound": "f000206.mp3",
+        "sound_begin": 390240,
+        "sound_end": 391200
     },
     {
         "id": "Wolf Und Geisslein-f000207",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5301,11 +5505,12 @@
             "た",
             "。"
         ],
-        "sound": "f000207.mp3"
+        "sound": "f000207.mp3",
+        "sound_begin": 391200,
+        "sound_end": 392440
     },
     {
         "id": "Wolf Und Geisslein-f000208",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5321,11 +5526,12 @@
             "で",
             "、"
         ],
-        "sound": "f000208.mp3"
+        "sound": "f000208.mp3",
+        "sound_begin": 394342,
+        "sound_end": 395480
     },
     {
         "id": "Wolf Und Geisslein-f000209",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5339,11 +5545,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000209.mp3"
+        "sound": "f000209.mp3",
+        "sound_begin": 395480,
+        "sound_end": 396200
     },
     {
         "id": "Wolf Und Geisslein-f000210",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5363,11 +5570,12 @@
             "は",
             "、"
         ],
-        "sound": "f000210.mp3"
+        "sound": "f000210.mp3",
+        "sound_begin": 396200,
+        "sound_end": 397320
     },
     {
         "id": "Wolf Und Geisslein-f000211",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5393,11 +5601,12 @@
             "でしょう",
             "。"
         ],
-        "sound": "f000211.mp3"
+        "sound": "f000211.mp3",
+        "sound_begin": 397320,
+        "sound_end": 400312
     },
     {
         "id": "Wolf Und Geisslein-f000212",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5417,11 +5626,12 @@
             "は",
             "、"
         ],
-        "sound": "f000212.mp3"
+        "sound": "f000212.mp3",
+        "sound_begin": 400312,
+        "sound_end": 401235
     },
     {
         "id": "Wolf Und Geisslein-f000213",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5449,11 +5659,12 @@
             "た",
             "。"
         ],
-        "sound": "f000213.mp3"
+        "sound": "f000213.mp3",
+        "sound_begin": 401235,
+        "sound_end": 404615
     },
     {
         "id": "Wolf Und Geisslein-f000214",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5469,11 +5680,12 @@
             "も",
             "、"
         ],
-        "sound": "f000214.mp3"
+        "sound": "f000214.mp3",
+        "sound_begin": 404615,
+        "sound_end": 405360
     },
     {
         "id": "Wolf Und Geisslein-f000215",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5489,11 +5701,12 @@
             "も",
             "、"
         ],
-        "sound": "f000215.mp3"
+        "sound": "f000215.mp3",
+        "sound_begin": 405360,
+        "sound_end": 405720
     },
     {
         "id": "Wolf Und Geisslein-f000216",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5509,11 +5722,12 @@
             "も",
             "、"
         ],
-        "sound": "f000216.mp3"
+        "sound": "f000216.mp3",
+        "sound_begin": 405720,
+        "sound_end": 407000
     },
     {
         "id": "Wolf Und Geisslein-f000217",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5539,11 +5753,12 @@
             "た",
             "。"
         ],
-        "sound": "f000217.mp3"
+        "sound": "f000217.mp3",
+        "sound_begin": 407000,
+        "sound_end": 408200
     },
     {
         "id": "Wolf Und Geisslein-f000218",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5561,11 +5776,12 @@
             "は",
             "、"
         ],
-        "sound": "f000218.mp3"
+        "sound": "f000218.mp3",
+        "sound_begin": 410500,
+        "sound_end": 411849
     },
     {
         "id": "Wolf Und Geisslein-f000219",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5591,11 +5807,12 @@
             "た",
             "。"
         ],
-        "sound": "f000219.mp3"
+        "sound": "f000219.mp3",
+        "sound_begin": 411849,
+        "sound_end": 414960
     },
     {
         "id": "Wolf Und Geisslein-f000220",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5615,11 +5832,12 @@
             "も",
             "、"
         ],
-        "sound": "f000220.mp3"
+        "sound": "f000220.mp3",
+        "sound_begin": 414960,
+        "sound_end": 416240
     },
     {
         "id": "Wolf Und Geisslein-f000221",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5647,11 +5865,12 @@
             "た",
             "。"
         ],
-        "sound": "f000221.mp3"
+        "sound": "f000221.mp3",
+        "sound_begin": 416240,
+        "sound_end": 420276
     },
     {
         "id": "Wolf Und Geisslein-f000222",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5671,11 +5890,12 @@
             "は",
             "、"
         ],
-        "sound": "f000222.mp3"
+        "sound": "f000222.mp3",
+        "sound_begin": 420276,
+        "sound_end": 421518
     },
     {
         "id": "Wolf Und Geisslein-f000223",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5701,11 +5921,12 @@
             "が",
             "、"
         ],
-        "sound": "f000223.mp3"
+        "sound": "f000223.mp3",
+        "sound_begin": 421518,
+        "sound_end": 423840
     },
     {
         "id": "Wolf Und Geisslein-f000224",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5727,11 +5948,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000224.mp3"
+        "sound": "f000224.mp3",
+        "sound_begin": 423840,
+        "sound_end": 427079
     },
     {
         "id": "Wolf Und Geisslein-f000225",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5745,11 +5967,12 @@
             "ひとりひとり",
             "、"
         ],
-        "sound": "f000225.mp3"
+        "sound": "f000225.mp3",
+        "sound_begin": 427079,
+        "sound_end": 427800
     },
     {
         "id": "Wolf Und Geisslein-f000226",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5771,11 +5994,12 @@
             "も",
             "、"
         ],
-        "sound": "f000226.mp3"
+        "sound": "f000226.mp3",
+        "sound_begin": 427800,
+        "sound_end": 429183
     },
     {
         "id": "Wolf Und Geisslein-f000227",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5807,11 +6031,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000227.mp3"
+        "sound": "f000227.mp3",
+        "sound_begin": 429183,
+        "sound_end": 433000
     },
     {
         "id": "Wolf Und Geisslein-f000228",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5827,11 +6052,12 @@
             "に",
             "、"
         ],
-        "sound": "f000228.mp3"
+        "sound": "f000228.mp3",
+        "sound_begin": 433000,
+        "sound_end": 433920
     },
     {
         "id": "Wolf Und Geisslein-f000229",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5861,11 +6087,12 @@
             "て",
             "、"
         ],
-        "sound": "f000229.mp3"
+        "sound": "f000229.mp3",
+        "sound_begin": 433920,
+        "sound_end": 436520
     },
     {
         "id": "Wolf Und Geisslein-f000230",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5879,11 +6106,12 @@
             "はじめて",
             "、"
         ],
-        "sound": "f000230.mp3"
+        "sound": "f000230.mp3",
+        "sound_begin": 436520,
+        "sound_end": 436960
     },
     {
         "id": "Wolf Und Geisslein-f000231",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5901,11 +6129,12 @@
             "で",
             "、"
         ],
-        "sound": "f000231.mp3"
+        "sound": "f000231.mp3",
+        "sound_begin": 436960,
+        "sound_end": 438963
     },
     {
         "id": "Wolf Und Geisslein-f000232",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5921,11 +6150,12 @@
             "かあさん",
             "、"
         ],
-        "sound": "f000232.mp3"
+        "sound": "f000232.mp3",
+        "sound_begin": 438963,
+        "sound_end": 440240
     },
     {
         "id": "Wolf Und Geisslein-f000233",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5939,11 +6169,12 @@
             "あたい",
             "、"
         ],
-        "sound": "f000233.mp3"
+        "sound": "f000233.mp3",
+        "sound_begin": 440240,
+        "sound_end": 440520
     },
     {
         "id": "Wolf Und Geisslein-f000234",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5973,11 +6204,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000234.mp3"
+        "sound": "f000234.mp3",
+        "sound_begin": 440520,
+        "sound_end": 443512
     },
     {
         "id": "Wolf Und Geisslein-f000235",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -5999,11 +6231,12 @@
             "が",
             "、"
         ],
-        "sound": "f000235.mp3"
+        "sound": "f000235.mp3",
+        "sound_begin": 443512,
+        "sound_end": 444178
     },
     {
         "id": "Wolf Und Geisslein-f000236",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6021,11 +6254,12 @@
             "た",
             "。"
         ],
-        "sound": "f000236.mp3"
+        "sound": "f000236.mp3",
+        "sound_begin": 444178,
+        "sound_end": 446640
     },
     {
         "id": "Wolf Und Geisslein-f000237",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6045,11 +6279,12 @@
             "は",
             "、"
         ],
-        "sound": "f000237.mp3"
+        "sound": "f000237.mp3",
+        "sound_begin": 446640,
+        "sound_end": 447560
     },
     {
         "id": "Wolf Und Geisslein-f000238",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6081,11 +6316,12 @@
             "た",
             "。"
         ],
-        "sound": "f000238.mp3"
+        "sound": "f000238.mp3",
+        "sound_begin": 447560,
+        "sound_end": 450720
     },
     {
         "id": "Wolf Und Geisslein-f000239",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6101,11 +6337,12 @@
             "で",
             "、"
         ],
-        "sound": "f000239.mp3"
+        "sound": "f000239.mp3",
+        "sound_begin": 450720,
+        "sound_end": 451620
     },
     {
         "id": "Wolf Und Geisslein-f000240",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6127,11 +6364,12 @@
             "から",
             "、"
         ],
-        "sound": "f000240.mp3"
+        "sound": "f000240.mp3",
+        "sound_begin": 451620,
+        "sound_end": 453160
     },
     {
         "id": "Wolf Und Geisslein-f000241",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6153,11 +6391,12 @@
             "て",
             "、"
         ],
-        "sound": "f000241.mp3"
+        "sound": "f000241.mp3",
+        "sound_begin": 453160,
+        "sound_end": 455280
     },
     {
         "id": "Wolf Und Geisslein-f000242",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6191,11 +6430,12 @@
             "が",
             "、"
         ],
-        "sound": "f000242.mp3"
+        "sound": "f000242.mp3",
+        "sound_begin": 455280,
+        "sound_end": 457800
     },
     {
         "id": "Wolf Und Geisslein-f000243",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6213,11 +6453,12 @@
             "た",
             "。"
         ],
-        "sound": "f000243.mp3"
+        "sound": "f000243.mp3",
+        "sound_begin": 457800,
+        "sound_end": 458820
     },
     {
         "id": "Wolf Und Geisslein-f000244",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6233,11 +6474,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000244.mp3"
+        "sound": "f000244.mp3",
+        "sound_begin": 460920,
+        "sound_end": 461880
     },
     {
         "id": "Wolf Und Geisslein-f000245",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6257,11 +6499,12 @@
             "は",
             "、"
         ],
-        "sound": "f000245.mp3"
+        "sound": "f000245.mp3",
+        "sound_begin": 461880,
+        "sound_end": 463179
     },
     {
         "id": "Wolf Und Geisslein-f000246",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6289,11 +6532,12 @@
             "を",
             "、"
         ],
-        "sound": "f000246.mp3"
+        "sound": "f000246.mp3",
+        "sound_begin": 463179,
+        "sound_end": 465306
     },
     {
         "id": "Wolf Und Geisslein-f000247",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6319,11 +6563,12 @@
             "か",
             "、"
         ],
-        "sound": "f000247.mp3"
+        "sound": "f000247.mp3",
+        "sound_begin": 465306,
+        "sound_end": 467560
     },
     {
         "id": "Wolf Und Geisslein-f000248",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6339,11 +6584,12 @@
             "さん",
             "、"
         ],
-        "sound": "f000248.mp3"
+        "sound": "f000248.mp3",
+        "sound_begin": 467560,
+        "sound_end": 467960
     },
     {
         "id": "Wolf Und Geisslein-f000249",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6367,11 +6613,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000249.mp3"
+        "sound": "f000249.mp3",
+        "sound_begin": 467960,
+        "sound_end": 469340
     },
     {
         "id": "Wolf Und Geisslein-f000250",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6391,11 +6638,12 @@
             "で",
             "、"
         ],
-        "sound": "f000250.mp3"
+        "sound": "f000250.mp3",
+        "sound_begin": 471440,
+        "sound_end": 472560
     },
     {
         "id": "Wolf Und Geisslein-f000251",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6415,11 +6663,12 @@
             "は",
             "、"
         ],
-        "sound": "f000251.mp3"
+        "sound": "f000251.mp3",
+        "sound_begin": 472560,
+        "sound_end": 473360
     },
     {
         "id": "Wolf Und Geisslein-f000252",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6441,11 +6690,12 @@
             "て",
             "、"
         ],
-        "sound": "f000252.mp3"
+        "sound": "f000252.mp3",
+        "sound_begin": 473360,
+        "sound_end": 474920
     },
     {
         "id": "Wolf Und Geisslein-f000253",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6467,11 +6717,12 @@
             "に",
             "、"
         ],
-        "sound": "f000253.mp3"
+        "sound": "f000253.mp3",
+        "sound_begin": 474920,
+        "sound_end": 476200
     },
     {
         "id": "Wolf Und Geisslein-f000254",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6493,11 +6744,12 @@
             "た",
             "。"
         ],
-        "sound": "f000254.mp3"
+        "sound": "f000254.mp3",
+        "sound_begin": 476200,
+        "sound_end": 478800
     },
     {
         "id": "Wolf Und Geisslein-f000255",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6517,11 +6769,12 @@
             "と",
             "、"
         ],
-        "sound": "f000255.mp3"
+        "sound": "f000255.mp3",
+        "sound_begin": 478800,
+        "sound_end": 480360
     },
     {
         "id": "Wolf Und Geisslein-f000256",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6537,11 +6790,12 @@
             "は",
             "、"
         ],
-        "sound": "f000256.mp3"
+        "sound": "f000256.mp3",
+        "sound_begin": 480360,
+        "sound_end": 480960
     },
     {
         "id": "Wolf Und Geisslein-f000257",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6573,11 +6827,12 @@
             "て",
             "、"
         ],
-        "sound": "f000257.mp3"
+        "sound": "f000257.mp3",
+        "sound_begin": 480960,
+        "sound_end": 484520
     },
     {
         "id": "Wolf Und Geisslein-f000258",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6605,11 +6860,12 @@
             "も",
             "、"
         ],
-        "sound": "f000258.mp3"
+        "sound": "f000258.mp3",
+        "sound_begin": 484520,
+        "sound_end": 486760
     },
     {
         "id": "Wolf Und Geisslein-f000259",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6645,11 +6901,12 @@
             "た",
             "。"
         ],
-        "sound": "f000259.mp3"
+        "sound": "f000259.mp3",
+        "sound_begin": 486760,
+        "sound_end": 490420
     },
     {
         "id": "Wolf Und Geisslein-f000260",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6665,11 +6922,12 @@
             "で",
             "、"
         ],
-        "sound": "f000260.mp3"
+        "sound": "f000260.mp3",
+        "sound_begin": 492520,
+        "sound_end": 493560
     },
     {
         "id": "Wolf Und Geisslein-f000261",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6689,11 +6947,12 @@
             "が",
             "、"
         ],
-        "sound": "f000261.mp3"
+        "sound": "f000261.mp3",
+        "sound_begin": 493560,
+        "sound_end": 494600
     },
     {
         "id": "Wolf Und Geisslein-f000262",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6725,11 +6984,12 @@
             "と",
             "、"
         ],
-        "sound": "f000262.mp3"
+        "sound": "f000262.mp3",
+        "sound_begin": 494600,
+        "sound_end": 498560
     },
     {
         "id": "Wolf Und Geisslein-f000263",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6757,11 +7017,12 @@
             "で",
             "、"
         ],
-        "sound": "f000263.mp3"
+        "sound": "f000263.mp3",
+        "sound_begin": 498560,
+        "sound_end": 501080
     },
     {
         "id": "Wolf Und Geisslein-f000264",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6795,11 +7056,12 @@
             "た",
             "。"
         ],
-        "sound": "f000264.mp3"
+        "sound": "f000264.mp3",
+        "sound_begin": 501080,
+        "sound_end": 503800
     },
     {
         "id": "Wolf Und Geisslein-f000265",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6815,11 +7077,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000265.mp3"
+        "sound": "f000265.mp3",
+        "sound_begin": 506000,
+        "sound_end": 506377
     },
     {
         "id": "Wolf Und Geisslein-f000266",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6833,11 +7096,12 @@
             "ありがたい",
             "、"
         ],
-        "sound": "f000266.mp3"
+        "sound": "f000266.mp3",
+        "sound_begin": 506377,
+        "sound_end": 507734
     },
     {
         "id": "Wolf Und Geisslein-f000267",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6855,11 +7119,12 @@
             "やつ",
             "、"
         ],
-        "sound": "f000267.mp3"
+        "sound": "f000267.mp3",
+        "sound_begin": 507734,
+        "sound_end": 509000
     },
     {
         "id": "Wolf Und Geisslein-f000268",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6881,11 +7146,12 @@
             "を",
             "、"
         ],
-        "sound": "f000268.mp3"
+        "sound": "f000268.mp3",
+        "sound_begin": 509000,
+        "sound_end": 510120
     },
     {
         "id": "Wolf Und Geisslein-f000269",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6907,11 +7173,12 @@
             "て",
             "、"
         ],
-        "sound": "f000269.mp3"
+        "sound": "f000269.mp3",
+        "sound_begin": 510120,
+        "sound_end": 511480
     },
     {
         "id": "Wolf Und Geisslein-f000270",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6939,11 +7206,12 @@
             "から",
             "、"
         ],
-        "sound": "f000270.mp3"
+        "sound": "f000270.mp3",
+        "sound_begin": 511480,
+        "sound_end": 514120
     },
     {
         "id": "Wolf Und Geisslein-f000271",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6975,11 +7243,12 @@
             "。",
             "」"
         ],
-        "sound": "f000271.mp3"
+        "sound": "f000271.mp3",
+        "sound_begin": 514120,
+        "sound_end": 516000
     },
     {
         "id": "Wolf Und Geisslein-f000272",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -6997,11 +7266,12 @@
             "て",
             "、"
         ],
-        "sound": "f000272.mp3"
+        "sound": "f000272.mp3",
+        "sound_begin": 517600,
+        "sound_end": 518559
     },
     {
         "id": "Wolf Und Geisslein-f000273",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7021,11 +7291,12 @@
             "は",
             "、"
         ],
-        "sound": "f000273.mp3"
+        "sound": "f000273.mp3",
+        "sound_begin": 518559,
+        "sound_end": 519600
     },
     {
         "id": "Wolf Und Geisslein-f000274",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7039,11 +7310,12 @@
             "さっそく",
             "、"
         ],
-        "sound": "f000274.mp3"
+        "sound": "f000274.mp3",
+        "sound_begin": 519600,
+        "sound_end": 520200
     },
     {
         "id": "Wolf Und Geisslein-f000275",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7069,11 +7341,12 @@
             "て",
             "、"
         ],
-        "sound": "f000275.mp3"
+        "sound": "f000275.mp3",
+        "sound_begin": 520200,
+        "sound_end": 522080
     },
     {
         "id": "Wolf Und Geisslein-f000276",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7107,11 +7380,12 @@
             "た",
             "。"
         ],
-        "sound": "f000276.mp3"
+        "sound": "f000276.mp3",
+        "sound_begin": 522080,
+        "sound_end": 526280
     },
     {
         "id": "Wolf Und Geisslein-f000277",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7127,11 +7401,12 @@
             "から",
             "、"
         ],
-        "sound": "f000277.mp3"
+        "sound": "f000277.mp3",
+        "sound_begin": 526280,
+        "sound_end": 526960
     },
     {
         "id": "Wolf Und Geisslein-f000278",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7151,11 +7426,12 @@
             "は",
             "、"
         ],
-        "sound": "f000278.mp3"
+        "sound": "f000278.mp3",
+        "sound_begin": 526960,
+        "sound_end": 528290
     },
     {
         "id": "Wolf Und Geisslein-f000279",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7179,11 +7455,12 @@
             "を",
             "、"
         ],
-        "sound": "f000279.mp3"
+        "sound": "f000279.mp3",
+        "sound_begin": 528290,
+        "sound_end": 530528
     },
     {
         "id": "Wolf Und Geisslein-f000280",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7203,11 +7480,12 @@
             "で",
             "、"
         ],
-        "sound": "f000280.mp3"
+        "sound": "f000280.mp3",
+        "sound_begin": 530528,
+        "sound_end": 531680
     },
     {
         "id": "Wolf Und Geisslein-f000281",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7229,11 +7507,12 @@
             "た",
             "。"
         ],
-        "sound": "f000281.mp3"
+        "sound": "f000281.mp3",
+        "sound_begin": 531680,
+        "sound_end": 534600
     },
     {
         "id": "Wolf Und Geisslein-f000282",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7255,11 +7534,12 @@
             "に",
             "、"
         ],
-        "sound": "f000282.mp3"
+        "sound": "f000282.mp3",
+        "sound_begin": 534600,
+        "sound_end": 536120
     },
     {
         "id": "Wolf Und Geisslein-f000283",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7283,11 +7563,12 @@
             "が",
             "、"
         ],
-        "sound": "f000283.mp3"
+        "sound": "f000283.mp3",
+        "sound_begin": 536120,
+        "sound_end": 537590
     },
     {
         "id": "Wolf Und Geisslein-f000284",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7313,11 +7594,12 @@
             "た",
             "。"
         ],
-        "sound": "f000284.mp3"
+        "sound": "f000284.mp3",
+        "sound_begin": 537590,
+        "sound_end": 540577
     },
     {
         "id": "Wolf Und Geisslein-f000285",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7339,11 +7621,12 @@
             "で",
             "、"
         ],
-        "sound": "f000285.mp3"
+        "sound": "f000285.mp3",
+        "sound_begin": 540577,
+        "sound_end": 542400
     },
     {
         "id": "Wolf Und Geisslein-f000286",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7369,11 +7652,12 @@
             "と",
             "、"
         ],
-        "sound": "f000286.mp3"
+        "sound": "f000286.mp3",
+        "sound_begin": 542400,
+        "sound_end": 545200
     },
     {
         "id": "Wolf Und Geisslein-f000287",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7389,11 +7673,12 @@
             "出",
             "、"
         ],
-        "sound": "f000287.mp3"
+        "sound": "f000287.mp3",
+        "sound_begin": 545200,
+        "sound_end": 545800
     },
     {
         "id": "Wolf Und Geisslein-f000288",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7411,11 +7696,12 @@
             "て",
             "、"
         ],
-        "sound": "f000288.mp3"
+        "sound": "f000288.mp3",
+        "sound_begin": 545800,
+        "sound_end": 547185
     },
     {
         "id": "Wolf Und Geisslein-f000289",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7447,11 +7733,12 @@
             "が",
             "、"
         ],
-        "sound": "f000289.mp3"
+        "sound": "f000289.mp3",
+        "sound_begin": 547185,
+        "sound_end": 549440
     },
     {
         "id": "Wolf Und Geisslein-f000290",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7471,11 +7758,12 @@
             "た",
             "。"
         ],
-        "sound": "f000290.mp3"
+        "sound": "f000290.mp3",
+        "sound_begin": 549440,
+        "sound_end": 552240
     },
     {
         "id": "Wolf Und Geisslein-f000291",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7493,11 +7781,12 @@
             "で",
             "、"
         ],
-        "sound": "f000291.mp3"
+        "sound": "f000291.mp3",
+        "sound_begin": 552240,
+        "sound_end": 553040
     },
     {
         "id": "Wolf Und Geisslein-f000292",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7513,11 +7802,12 @@
             "ひとり",
             "、"
         ],
-        "sound": "f000292.mp3"
+        "sound": "f000292.mp3",
+        "sound_begin": 553040,
+        "sound_end": 554000
     },
     {
         "id": "Wolf Und Geisslein-f000293",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7549,11 +7839,12 @@
             "ん",
             "。"
         ],
-        "sound": "f000293.mp3"
+        "sound": "f000293.mp3",
+        "sound_begin": 554000,
+        "sound_end": 557320
     },
     {
         "id": "Wolf Und Geisslein-f000294",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7567,11 +7858,12 @@
             "なにしろ",
             "、"
         ],
-        "sound": "f000294.mp3"
+        "sound": "f000294.mp3",
+        "sound_begin": 557320,
+        "sound_end": 557840
     },
     {
         "id": "Wolf Und Geisslein-f000295",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7591,11 +7883,12 @@
             "は",
             "、"
         ],
-        "sound": "f000295.mp3"
+        "sound": "f000295.mp3",
+        "sound_begin": 557840,
+        "sound_end": 559310
     },
     {
         "id": "Wolf Und Geisslein-f000296",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7621,11 +7914,12 @@
             "て",
             "、"
         ],
-        "sound": "f000296.mp3"
+        "sound": "f000296.mp3",
+        "sound_begin": 559310,
+        "sound_end": 561615
     },
     {
         "id": "Wolf Und Geisslein-f000297",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7641,11 +7935,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000297.mp3"
+        "sound": "f000297.mp3",
+        "sound_begin": 561615,
+        "sound_end": 562440
     },
     {
         "id": "Wolf Und Geisslein-f000298",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7661,11 +7956,12 @@
             "く",
             "、"
         ],
-        "sound": "f000298.mp3"
+        "sound": "f000298.mp3",
+        "sound_begin": 562440,
+        "sound_end": 562924
     },
     {
         "id": "Wolf Und Geisslein-f000299",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7681,11 +7977,12 @@
             "く",
             "、"
         ],
-        "sound": "f000299.mp3"
+        "sound": "f000299.mp3",
+        "sound_begin": 562924,
+        "sound_end": 564000
     },
     {
         "id": "Wolf Und Geisslein-f000300",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7701,11 +7998,12 @@
             "まま",
             "、"
         ],
-        "sound": "f000300.mp3"
+        "sound": "f000300.mp3",
+        "sound_begin": 564000,
+        "sound_end": 564680
     },
     {
         "id": "Wolf Und Geisslein-f000301",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7743,11 +8041,12 @@
             "です",
             "。"
         ],
-        "sound": "f000301.mp3"
+        "sound": "f000301.mp3",
+        "sound_begin": 564680,
+        "sound_end": 567100
     },
     {
         "id": "Wolf Und Geisslein-f000302",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7765,11 +8064,12 @@
             "こと",
             "。"
         ],
-        "sound": "f000302.mp3"
+        "sound": "f000302.mp3",
+        "sound_begin": 569200,
+        "sound_end": 570842
     },
     {
         "id": "Wolf Und Geisslein-f000303",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7787,11 +8087,12 @@
             "は",
             "、"
         ],
-        "sound": "f000303.mp3"
+        "sound": "f000303.mp3",
+        "sound_begin": 570842,
+        "sound_end": 571920
     },
     {
         "id": "Wolf Und Geisslein-f000304",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7821,11 +8122,12 @@
             "た",
             "。"
         ],
-        "sound": "f000304.mp3"
+        "sound": "f000304.mp3",
+        "sound_begin": 571920,
+        "sound_end": 575640
     },
     {
         "id": "Wolf Und Geisslein-f000305",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7841,11 +8143,12 @@
             "から",
             "、"
         ],
-        "sound": "f000305.mp3"
+        "sound": "f000305.mp3",
+        "sound_begin": 575640,
+        "sound_end": 576440
     },
     {
         "id": "Wolf Und Geisslein-f000306",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7875,11 +8178,12 @@
             "の",
             "、"
         ],
-        "sound": "f000306.mp3"
+        "sound": "f000306.mp3",
+        "sound_begin": 576440,
+        "sound_end": 578360
     },
     {
         "id": "Wolf Und Geisslein-f000307",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7899,11 +8203,12 @@
             "に",
             "、"
         ],
-        "sound": "f000307.mp3"
+        "sound": "f000307.mp3",
+        "sound_begin": 578360,
+        "sound_end": 579553
     },
     {
         "id": "Wolf Und Geisslein-f000308",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7925,11 +8230,12 @@
             "た",
             "。"
         ],
-        "sound": "f000308.mp3"
+        "sound": "f000308.mp3",
+        "sound_begin": 579553,
+        "sound_end": 581140
     },
     {
         "id": "Wolf Und Geisslein-f000309",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7945,11 +8251,12 @@
             "も",
             "、"
         ],
-        "sound": "f000309.mp3"
+        "sound": "f000309.mp3",
+        "sound_begin": 583240,
+        "sound_end": 583960
     },
     {
         "id": "Wolf Und Geisslein-f000310",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7969,11 +8276,12 @@
             "は",
             "、"
         ],
-        "sound": "f000310.mp3"
+        "sound": "f000310.mp3",
+        "sound_begin": 583960,
+        "sound_end": 584760
     },
     {
         "id": "Wolf Und Geisslein-f000311",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -7995,11 +8303,12 @@
             "て",
             "、"
         ],
-        "sound": "f000311.mp3"
+        "sound": "f000311.mp3",
+        "sound_begin": 584760,
+        "sound_end": 587280
     },
     {
         "id": "Wolf Und Geisslein-f000312",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8015,11 +8324,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000312.mp3"
+        "sound": "f000312.mp3",
+        "sound_begin": 587280,
+        "sound_end": 587640
     },
     {
         "id": "Wolf Und Geisslein-f000313",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8037,11 +8347,12 @@
             "で",
             "、"
         ],
-        "sound": "f000313.mp3"
+        "sound": "f000313.mp3",
+        "sound_begin": 587640,
+        "sound_end": 588280
     },
     {
         "id": "Wolf Und Geisslein-f000314",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8059,11 +8370,12 @@
             "て",
             "、"
         ],
-        "sound": "f000314.mp3"
+        "sound": "f000314.mp3",
+        "sound_begin": 588280,
+        "sound_end": 589640
     },
     {
         "id": "Wolf Und Geisslein-f000315",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8087,11 +8399,12 @@
             "いで",
             "、"
         ],
-        "sound": "f000315.mp3"
+        "sound": "f000315.mp3",
+        "sound_begin": 589640,
+        "sound_end": 592545
     },
     {
         "id": "Wolf Und Geisslein-f000316",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8123,11 +8436,12 @@
             "に",
             "、"
         ],
-        "sound": "f000316.mp3"
+        "sound": "f000316.mp3",
+        "sound_begin": 592545,
+        "sound_end": 595560
     },
     {
         "id": "Wolf Und Geisslein-f000317",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8155,11 +8469,12 @@
             "から",
             "。"
         ],
-        "sound": "f000317.mp3"
+        "sound": "f000317.mp3",
+        "sound_begin": 595560,
+        "sound_end": 597782
     },
     {
         "id": "Wolf Und Geisslein-f000318",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8181,11 +8496,12 @@
             "た",
             "。"
         ],
-        "sound": "f000318.mp3"
+        "sound": "f000318.mp3",
+        "sound_begin": 597782,
+        "sound_end": 598700
     },
     {
         "id": "Wolf Und Geisslein-f000319",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8201,11 +8517,12 @@
             "で",
             "、"
         ],
-        "sound": "f000319.mp3"
+        "sound": "f000319.mp3",
+        "sound_begin": 600800,
+        "sound_end": 601160
     },
     {
         "id": "Wolf Und Geisslein-f000320",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8223,11 +8540,12 @@
             "は",
             "、"
         ],
-        "sound": "f000320.mp3"
+        "sound": "f000320.mp3",
+        "sound_begin": 601160,
+        "sound_end": 602520
     },
     {
         "id": "Wolf Und Geisslein-f000321",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8253,11 +8571,12 @@
             "て",
             "、"
         ],
-        "sound": "f000321.mp3"
+        "sound": "f000321.mp3",
+        "sound_begin": 602520,
+        "sound_end": 604880
     },
     {
         "id": "Wolf Und Geisslein-f000322",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8273,11 +8592,12 @@
             "やら",
             "、"
         ],
-        "sound": "f000322.mp3"
+        "sound": "f000322.mp3",
+        "sound_begin": 604880,
+        "sound_end": 605760
     },
     {
         "id": "Wolf Und Geisslein-f000323",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8293,11 +8613,12 @@
             "やら",
             "、"
         ],
-        "sound": "f000323.mp3"
+        "sound": "f000323.mp3",
+        "sound_begin": 605760,
+        "sound_end": 607120
     },
     {
         "id": "Wolf Und Geisslein-f000324",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8317,11 +8638,12 @@
             "て",
             "、"
         ],
-        "sound": "f000324.mp3"
+        "sound": "f000324.mp3",
+        "sound_begin": 607120,
+        "sound_end": 608360
     },
     {
         "id": "Wolf Und Geisslein-f000325",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8345,11 +8667,12 @@
             "た",
             "。"
         ],
-        "sound": "f000325.mp3"
+        "sound": "f000325.mp3",
+        "sound_begin": 608360,
+        "sound_end": 611040
     },
     {
         "id": "Wolf Und Geisslein-f000326",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8367,11 +8690,12 @@
             "て",
             "、"
         ],
-        "sound": "f000326.mp3"
+        "sound": "f000326.mp3",
+        "sound_begin": 611040,
+        "sound_end": 611480
     },
     {
         "id": "Wolf Und Geisslein-f000327",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8387,11 +8711,12 @@
             "を",
             "、"
         ],
-        "sound": "f000327.mp3"
+        "sound": "f000327.mp3",
+        "sound_begin": 611480,
+        "sound_end": 612200
     },
     {
         "id": "Wolf Und Geisslein-f000328",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8411,11 +8736,12 @@
             "に",
             "、"
         ],
-        "sound": "f000328.mp3"
+        "sound": "f000328.mp3",
+        "sound_begin": 612200,
+        "sound_end": 613640
     },
     {
         "id": "Wolf Und Geisslein-f000329",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8439,11 +8765,12 @@
             "た",
             "。"
         ],
-        "sound": "f000329.mp3"
+        "sound": "f000329.mp3",
+        "sound_begin": 613640,
+        "sound_end": 616720
     },
     {
         "id": "Wolf Und Geisslein-f000330",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8459,11 +8786,12 @@
             "と",
             "、"
         ],
-        "sound": "f000330.mp3"
+        "sound": "f000330.mp3",
+        "sound_begin": 616720,
+        "sound_end": 617520
     },
     {
         "id": "Wolf Und Geisslein-f000331",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8483,11 +8811,12 @@
             "が",
             "、"
         ],
-        "sound": "f000331.mp3"
+        "sound": "f000331.mp3",
+        "sound_begin": 617520,
+        "sound_end": 618800
     },
     {
         "id": "Wolf Und Geisslein-f000332",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8503,11 +8832,12 @@
             "から",
             "、"
         ],
-        "sound": "f000332.mp3"
+        "sound": "f000332.mp3",
+        "sound_begin": 618800,
+        "sound_end": 619531
     },
     {
         "id": "Wolf Und Geisslein-f000333",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8523,11 +8853,12 @@
             "と",
             "、"
         ],
-        "sound": "f000333.mp3"
+        "sound": "f000333.mp3",
+        "sound_begin": 619531,
+        "sound_end": 620812
     },
     {
         "id": "Wolf Und Geisslein-f000334",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8541,11 +8872,12 @@
             "手ばしこく",
             "、"
         ],
-        "sound": "f000334.mp3"
+        "sound": "f000334.mp3",
+        "sound_begin": 620812,
+        "sound_end": 622080
     },
     {
         "id": "Wolf Und Geisslein-f000335",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8577,11 +8909,12 @@
             "た",
             "。"
         ],
-        "sound": "f000335.mp3"
+        "sound": "f000335.mp3",
+        "sound_begin": 622080,
+        "sound_end": 624240
     },
     {
         "id": "Wolf Und Geisslein-f000336",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8609,11 +8942,12 @@
             "で",
             "、"
         ],
-        "sound": "f000336.mp3"
+        "sound": "f000336.mp3",
+        "sound_begin": 626140,
+        "sound_end": 628440
     },
     {
         "id": "Wolf Und Geisslein-f000337",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8641,11 +8975,12 @@
             "し",
             "、"
         ],
-        "sound": "f000337.mp3"
+        "sound": "f000337.mp3",
+        "sound_begin": 628440,
+        "sound_end": 630840
     },
     {
         "id": "Wolf Und Geisslein-f000338",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8681,11 +9016,12 @@
             "た",
             "。"
         ],
-        "sound": "f000338.mp3"
+        "sound": "f000338.mp3",
+        "sound_begin": 630840,
+        "sound_end": 635560
     },
     {
         "id": "Wolf Und Geisslein-f000339",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8701,11 +9037,12 @@
             "は",
             "、"
         ],
-        "sound": "f000339.mp3"
+        "sound": "f000339.mp3",
+        "sound_begin": 635560,
+        "sound_end": 636320
     },
     {
         "id": "Wolf Und Geisslein-f000340",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8723,11 +9060,12 @@
             "こと",
             "、"
         ],
-        "sound": "f000340.mp3"
+        "sound": "f000340.mp3",
+        "sound_begin": 636320,
+        "sound_end": 637080
     },
     {
         "id": "Wolf Und Geisslein-f000341",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8749,11 +9087,12 @@
             "て",
             "、"
         ],
-        "sound": "f000341.mp3"
+        "sound": "f000341.mp3",
+        "sound_begin": 637080,
+        "sound_end": 638308
     },
     {
         "id": "Wolf Und Geisslein-f000342",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8773,11 +9112,12 @@
             "た",
             "。"
         ],
-        "sound": "f000342.mp3"
+        "sound": "f000342.mp3",
+        "sound_begin": 638308,
+        "sound_end": 640640
     },
     {
         "id": "Wolf Und Geisslein-f000343",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8791,11 +9131,12 @@
             "なにしろ",
             "、"
         ],
-        "sound": "f000343.mp3"
+        "sound": "f000343.mp3",
+        "sound_begin": 640640,
+        "sound_end": 641320
     },
     {
         "id": "Wolf Und Geisslein-f000344",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8823,11 +9164,12 @@
             "で",
             "、"
         ],
-        "sound": "f000344.mp3"
+        "sound": "f000344.mp3",
+        "sound_begin": 641320,
+        "sound_end": 643920
     },
     {
         "id": "Wolf Und Geisslein-f000345",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8859,11 +9201,12 @@
             "で",
             "、"
         ],
-        "sound": "f000345.mp3"
+        "sound": "f000345.mp3",
+        "sound_begin": 643920,
+        "sound_end": 647000
     },
     {
         "id": "Wolf Und Geisslein-f000346",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8889,11 +9232,12 @@
             "て",
             "、"
         ],
-        "sound": "f000346.mp3"
+        "sound": "f000346.mp3",
+        "sound_begin": 647000,
+        "sound_end": 648560
     },
     {
         "id": "Wolf Und Geisslein-f000347",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8921,11 +9265,12 @@
             "た",
             "。"
         ],
-        "sound": "f000347.mp3"
+        "sound": "f000347.mp3",
+        "sound_begin": 648560,
+        "sound_end": 651306
     },
     {
         "id": "Wolf Und Geisslein-f000348",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8941,11 +9286,12 @@
             "が",
             "、"
         ],
-        "sound": "f000348.mp3"
+        "sound": "f000348.mp3",
+        "sound_begin": 651306,
+        "sound_end": 652285
     },
     {
         "id": "Wolf Und Geisslein-f000349",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8969,11 +9315,12 @@
             "と",
             "、"
         ],
-        "sound": "f000349.mp3"
+        "sound": "f000349.mp3",
+        "sound_begin": 652285,
+        "sound_end": 654520
     },
     {
         "id": "Wolf Und Geisslein-f000350",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -8993,11 +9340,12 @@
             "で",
             "、"
         ],
-        "sound": "f000350.mp3"
+        "sound": "f000350.mp3",
+        "sound_begin": 654520,
+        "sound_end": 655440
     },
     {
         "id": "Wolf Und Geisslein-f000351",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9019,11 +9367,12 @@
             "て",
             "、"
         ],
-        "sound": "f000351.mp3"
+        "sound": "f000351.mp3",
+        "sound_begin": 655440,
+        "sound_end": 657760
     },
     {
         "id": "Wolf Und Geisslein-f000352",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9037,11 +9386,12 @@
             "がらがら",
             "、"
         ],
-        "sound": "f000352.mp3"
+        "sound": "f000352.mp3",
+        "sound_begin": 657760,
+        "sound_end": 658400
     },
     {
         "id": "Wolf Und Geisslein-f000353",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9055,11 +9405,12 @@
             "ごろごろ",
             "、"
         ],
-        "sound": "f000353.mp3"
+        "sound": "f000353.mp3",
+        "sound_begin": 658400,
+        "sound_end": 659280
     },
     {
         "id": "Wolf Und Geisslein-f000354",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9077,11 +9428,12 @@
             "た",
             "。"
         ],
-        "sound": "f000354.mp3"
+        "sound": "f000354.mp3",
+        "sound_begin": 659280,
+        "sound_end": 661880
     },
     {
         "id": "Wolf Und Geisslein-f000355",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9095,11 +9447,12 @@
             "がらがら",
             "、"
         ],
-        "sound": "f000355.mp3"
+        "sound": "f000355.mp3",
+        "sound_begin": 661880,
+        "sound_end": 662920
     },
     {
         "id": "Wolf Und Geisslein-f000356",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9113,11 +9466,12 @@
             "ごろごろ",
             "、"
         ],
-        "sound": "f000356.mp3"
+        "sound": "f000356.mp3",
+        "sound_begin": 662920,
+        "sound_end": 664040
     },
     {
         "id": "Wolf Und Geisslein-f000357",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9133,11 +9487,12 @@
             "が",
             "なる"
         ],
-        "sound": "f000357.mp3"
+        "sound": "f000357.mp3",
+        "sound_begin": 664040,
+        "sound_end": 665920
     },
     {
         "id": "Wolf Und Geisslein-f000358",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9157,11 +9512,12 @@
             "なる",
             "、"
         ],
-        "sound": "f000358.mp3"
+        "sound": "f000358.mp3",
+        "sound_begin": 665920,
+        "sound_end": 667720
     },
     {
         "id": "Wolf Und Geisslein-f000359",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9179,11 +9535,12 @@
             "なる",
             "。"
         ],
-        "sound": "f000359.mp3"
+        "sound": "f000359.mp3",
+        "sound_begin": 667720,
+        "sound_end": 669680
     },
     {
         "id": "Wolf Und Geisslein-f000360",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9211,11 +9568,12 @@
             "か",
             "、"
         ],
-        "sound": "f000360.mp3"
+        "sound": "f000360.mp3",
+        "sound_begin": 669680,
+        "sound_end": 672495
     },
     {
         "id": "Wolf Und Geisslein-f000361",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9229,11 +9587,12 @@
             "こりゃ",
             "、"
         ],
-        "sound": "f000361.mp3"
+        "sound": "f000361.mp3",
+        "sound_begin": 672495,
+        "sound_end": 672920
     },
     {
         "id": "Wolf Und Geisslein-f000362",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9251,11 +9610,12 @@
             "ない",
             "、"
         ],
-        "sound": "f000362.mp3"
+        "sound": "f000362.mp3",
+        "sound_begin": 672920,
+        "sound_end": 674447
     },
     {
         "id": "Wolf Und Geisslein-f000363",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9269,11 +9629,12 @@
             "ごろた石",
             "、"
         ],
-        "sound": "f000363.mp3"
+        "sound": "f000363.mp3",
+        "sound_begin": 674447,
+        "sound_end": 677120
     },
     {
         "id": "Wolf Und Geisslein-f000364",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9289,11 +9650,12 @@
             "は",
             "、"
         ],
-        "sound": "f000364.mp3"
+        "sound": "f000364.mp3",
+        "sound_begin": 677120,
+        "sound_end": 677680
     },
     {
         "id": "Wolf Und Geisslein-f000365",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9313,11 +9675,12 @@
             "た",
             "。"
         ],
-        "sound": "f000365.mp3"
+        "sound": "f000365.mp3",
+        "sound_begin": 677680,
+        "sound_end": 680600
     },
     {
         "id": "Wolf Und Geisslein-f000366",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9331,11 +9694,12 @@
             "さて",
             "、"
         ],
-        "sound": "f000366.mp3"
+        "sound": "f000366.mp3",
+        "sound_begin": 680600,
+        "sound_end": 681366
     },
     {
         "id": "Wolf Und Geisslein-f000367",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9353,11 +9717,12 @@
             "とこ",
             "、"
         ],
-        "sound": "f000367.mp3"
+        "sound": "f000367.mp3",
+        "sound_begin": 681366,
+        "sound_end": 682600
     },
     {
         "id": "Wolf Und Geisslein-f000368",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9383,11 +9748,12 @@
             "て",
             "、"
         ],
-        "sound": "f000368.mp3"
+        "sound": "f000368.mp3",
+        "sound_begin": 682600,
+        "sound_end": 684480
     },
     {
         "id": "Wolf Und Geisslein-f000369",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9419,11 +9785,12 @@
             "と",
             "、"
         ],
-        "sound": "f000369.mp3"
+        "sound": "f000369.mp3",
+        "sound_begin": 684480,
+        "sound_end": 686840
     },
     {
         "id": "Wolf Und Geisslein-f000370",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9455,11 +9822,12 @@
             "て",
             "、"
         ],
-        "sound": "f000370.mp3"
+        "sound": "f000370.mp3",
+        "sound_begin": 686840,
+        "sound_end": 689080
     },
     {
         "id": "Wolf Und Geisslein-f000371",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9475,11 +9843,12 @@
             "は",
             "、"
         ],
-        "sound": "f000371.mp3"
+        "sound": "f000371.mp3",
+        "sound_begin": 689080,
+        "sound_end": 689760
     },
     {
         "id": "Wolf Und Geisslein-f000372",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9497,11 +9866,12 @@
             "た",
             "。"
         ],
-        "sound": "f000372.mp3"
+        "sound": "f000372.mp3",
+        "sound_begin": 689760,
+        "sound_end": 692040
     },
     {
         "id": "Wolf Und Geisslein-f000373",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9519,11 +9889,12 @@
             "て",
             "、"
         ],
-        "sound": "f000373.mp3"
+        "sound": "f000373.mp3",
+        "sound_begin": 692040,
+        "sound_end": 692920
     },
     {
         "id": "Wolf Und Geisslein-f000374",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9541,11 +9912,12 @@
             "に",
             "、"
         ],
-        "sound": "f000374.mp3"
+        "sound": "f000374.mp3",
+        "sound_begin": 692920,
+        "sound_end": 694200
     },
     {
         "id": "Wolf Und Geisslein-f000375",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9563,11 +9935,12 @@
             "は",
             "、"
         ],
-        "sound": "f000375.mp3"
+        "sound": "f000375.mp3",
+        "sound_begin": 694200,
+        "sound_end": 695920
     },
     {
         "id": "Wolf Und Geisslein-f000376",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9595,11 +9968,12 @@
             "た",
             "。"
         ],
-        "sound": "f000376.mp3"
+        "sound": "f000376.mp3",
+        "sound_begin": 695920,
+        "sound_end": 697600
     },
     {
         "id": "Wolf Und Geisslein-f000377",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9635,11 +10009,12 @@
             "は",
             "、"
         ],
-        "sound": "f000377.mp3"
+        "sound": "f000377.mp3",
+        "sound_begin": 699700,
+        "sound_end": 702400
     },
     {
         "id": "Wolf Und Geisslein-f000378",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9663,11 +10038,12 @@
             "て",
             "、"
         ],
-        "sound": "f000378.mp3"
+        "sound": "f000378.mp3",
+        "sound_begin": 702400,
+        "sound_end": 704480
     },
     {
         "id": "Wolf Und Geisslein-f000379",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9689,11 +10065,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000379.mp3"
+        "sound": "f000379.mp3",
+        "sound_begin": 704480,
+        "sound_end": 706200
     },
     {
         "id": "Wolf Und Geisslein-f000380",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9713,11 +10090,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000380.mp3"
+        "sound": "f000380.mp3",
+        "sound_begin": 706200,
+        "sound_end": 708259
     },
     {
         "id": "Wolf Und Geisslein-f000381",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9737,11 +10115,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000381.mp3"
+        "sound": "f000381.mp3",
+        "sound_begin": 708259,
+        "sound_end": 709840
     },
     {
         "id": "Wolf Und Geisslein-f000382",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9769,11 +10148,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000382.mp3"
+        "sound": "f000382.mp3",
+        "sound_begin": 709840,
+        "sound_end": 712280
     },
     {
         "id": "Wolf Und Geisslein-f000383",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9789,11 +10169,12 @@
             "で",
             "、"
         ],
-        "sound": "f000383.mp3"
+        "sound": "f000383.mp3",
+        "sound_begin": 712280,
+        "sound_end": 713800
     },
     {
         "id": "Wolf Und Geisslein-f000384",
-        "author": "Brothers Grimm",
         "author_japanese": "グリム兄弟／楠山 正雄 訳",
         "deck_name": "Wolf Und Geisslein",
         "deck_name_japanese": "おおかみと七ひきのこどもやぎ",
@@ -9821,6 +10202,8 @@
             "た",
             "。"
         ],
-        "sound": "f000384.mp3"
+        "sound": "f000384.mp3",
+        "sound_begin": 713800,
+        "sound_end": 716940
     }
 ]

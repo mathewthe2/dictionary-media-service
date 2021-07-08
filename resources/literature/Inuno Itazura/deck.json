@@ -2,456 +2,638 @@
     {
         "id": "f000001",
         "sentence": "夢野久作　作",
-        "sentence_with_furigana": "夢野久作　作"
+        "sentence_with_furigana": "夢野久作　作",
+        "audio_begin": 0,
+        "audio_end": 7080
     },
     {
         "id": "f000002",
         "sentence": "犬のいたずら",
-        "sentence_with_furigana": "犬のいたずら"
+        "sentence_with_furigana": "犬のいたずら",
+        "audio_begin": 7080,
+        "audio_end": 8960
     },
     {
         "id": "f000003",
         "sentence": "去年の十二月の三十一日の真夜中の事でした。",
-        "sentence_with_furigana": "去年の十二月の三十一日の真夜中の事でした。"
+        "sentence_with_furigana": "去年の十二月の三十一日の真夜中の事でした。",
+        "audio_begin": 14112,
+        "audio_end": 22560
     },
     {
         "id": "f000004",
         "sentence": "一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。",
-        "sentence_with_furigana": "一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。"
+        "sentence_with_furigana": "一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。",
+        "audio_begin": 22560,
+        "audio_end": 36480
     },
     {
         "id": "f000005",
         "sentence": "「ヤア犬さん、",
-        "sentence_with_furigana": "「ヤア犬さん、"
+        "sentence_with_furigana": "「ヤア犬さん、",
+        "audio_begin": 36480,
+        "audio_end": 38040
     },
     {
         "id": "f000006",
         "sentence": "もう帰るのかね」",
-        "sentence_with_furigana": "もう帰るのかね」"
+        "sentence_with_furigana": "もう帰るのかね」",
+        "audio_begin": 38040,
+        "audio_end": 40520
     },
     {
         "id": "f000007",
         "sentence": "「ヤア猪さん、",
-        "sentence_with_furigana": "「ヤア猪さん、"
+        "sentence_with_furigana": "「ヤア猪さん、",
+        "audio_begin": 40520,
+        "audio_end": 42440
     },
     {
         "id": "f000008",
         "sentence": "もう来たのかね」",
-        "sentence_with_furigana": "もう来たのかね」"
+        "sentence_with_furigana": "もう来たのかね」",
+        "audio_begin": 42440,
+        "audio_end": 44857
     },
     {
         "id": "f000009",
         "sentence": "と二人は握手しました。",
-        "sentence_with_furigana": "と二人は握手しました。"
+        "sentence_with_furigana": "と二人は握手しました。",
+        "audio_begin": 44857,
+        "audio_end": 50480
     },
     {
         "id": "f000010",
         "sentence": "「もうじき来年になるのだが、",
-        "sentence_with_furigana": "「もうじき来年になるのだが、"
+        "sentence_with_furigana": "「もうじき来年になるのだが、",
+        "audio_begin": 50480,
+        "audio_end": 53080
     },
     {
         "id": "f000011",
         "sentence": "それまでにはまだ時間があるから、",
-        "sentence_with_furigana": "それまでにはまだ時間があるから、"
+        "sentence_with_furigana": "それまでにはまだ時間があるから、",
+        "audio_begin": 53080,
+        "audio_end": 56400
     },
     {
         "id": "f000012",
         "sentence": "そこらでお別れに御馳走を食べようじゃないか」",
-        "sentence_with_furigana": "そこらでお別れに御馳走を食べようじゃないか」"
+        "sentence_with_furigana": "そこらでお別れに御馳走を食べようじゃないか」",
+        "audio_begin": 56400,
+        "audio_end": 60560
     },
     {
         "id": "f000013",
         "sentence": "「それはいいね」",
-        "sentence_with_furigana": "「それはいいね」"
+        "sentence_with_furigana": "「それはいいね」",
+        "audio_begin": 60560,
+        "audio_end": 63960
     },
     {
         "id": "f000014",
         "sentence": "二人はそこらの御飯屋へ行って、",
-        "sentence_with_furigana": "二人はそこらの御飯屋へ行って、"
+        "sentence_with_furigana": "二人はそこらの御飯屋へ行って、",
+        "audio_begin": 63960,
+        "audio_end": 67200
     },
     {
         "id": "f000015",
         "sentence": "御飯を食べ始めました。",
-        "sentence_with_furigana": "御飯を食べ始めました。"
+        "sentence_with_furigana": "御飯を食べ始めました。",
+        "audio_begin": 67200,
+        "audio_end": 69320
     },
     {
         "id": "f000016",
         "sentence": "「時に犬さん、",
-        "sentence_with_furigana": "「時に犬さん、"
+        "sentence_with_furigana": "「時に犬さん、",
+        "audio_begin": 71020,
+        "audio_end": 73320
     },
     {
         "id": "f000017",
         "sentence": "お前の持っているその大きな荷物は何だね」",
-        "sentence_with_furigana": "お前の持っているその大きな荷物は何だね」"
+        "sentence_with_furigana": "お前の持っているその大きな荷物は何だね」",
+        "audio_begin": 73320,
+        "audio_end": 77983
     },
     {
         "id": "f000018",
         "sentence": "と猪は小さな眼をキョロキョロさせて尋ねました。",
-        "sentence_with_furigana": "と猪は小さな眼をキョロキョロさせて尋ねました。"
+        "sentence_with_furigana": "と猪は小さな眼をキョロキョロさせて尋ねました。",
+        "audio_begin": 77983,
+        "audio_end": 85407
     },
     {
         "id": "f000019",
         "sentence": "「これは犬の年の子供がした、",
-        "sentence_with_furigana": "「これは犬の年の子供がした、"
+        "sentence_with_furigana": "「これは犬の年の子供がした、",
+        "audio_begin": 85407,
+        "audio_end": 89520
     },
     {
         "id": "f000020",
         "sentence": "いい事と悪い事を集めたものさ」",
-        "sentence_with_furigana": "いい事と悪い事を集めたものさ」"
+        "sentence_with_furigana": "いい事と悪い事を集めたものさ」",
+        "audio_begin": 89520,
+        "audio_end": 94480
     },
     {
         "id": "f000021",
         "sentence": "「ヘー。",
-        "sentence_with_furigana": "「ヘー。"
+        "sentence_with_furigana": "「ヘー。",
+        "audio_begin": 94480,
+        "audio_end": 95880
     },
     {
         "id": "f000022",
         "sentence": "善い事悪い事ってどんな事だね」",
-        "sentence_with_furigana": "善[い]い事悪い事ってどんな事だね」"
+        "sentence_with_furigana": "善[い]い事悪い事ってどんな事だね」",
+        "audio_begin": 95880,
+        "audio_end": 100000
     },
     {
         "id": "f000023",
         "sentence": "「それはいろいろあるよ。",
-        "sentence_with_furigana": "「それはいろいろあるよ。"
+        "sentence_with_furigana": "「それはいろいろあるよ。",
+        "audio_begin": 100000,
+        "audio_end": 102693
     },
     {
         "id": "f000024",
         "sentence": "他人の草履を隠したり、",
-        "sentence_with_furigana": "他人の草履を隠したり、"
+        "sentence_with_furigana": "他人の草履を隠したり、",
+        "audio_begin": 102693,
+        "audio_end": 105440
     },
     {
         "id": "f000025",
         "sentence": "拾い食いをしたり、",
-        "sentence_with_furigana": "拾い食いをしたり、"
+        "sentence_with_furigana": "拾い食いをしたり、",
+        "audio_begin": 105440,
+        "audio_end": 107200
     },
     {
         "id": "f000026",
         "sentence": "盗み食いをしたり、",
-        "sentence_with_furigana": "盗み食いをしたり、"
+        "sentence_with_furigana": "盗み食いをしたり、",
+        "audio_begin": 107200,
+        "audio_end": 109160
     },
     {
         "id": "f000027",
         "sentence": "垣根を破って出入りしたり、",
-        "sentence_with_furigana": "垣根を破って出入りしたり、"
+        "sentence_with_furigana": "垣根を破って出入りしたり、",
+        "audio_begin": 109160,
+        "audio_end": 112000
     },
     {
         "id": "f000028",
         "sentence": "猫をいじめたり、",
-        "sentence_with_furigana": "猫をいじめたり、"
+        "sentence_with_furigana": "猫をいじめたり、",
+        "audio_begin": 112000,
+        "audio_end": 114560
     },
     {
         "id": "f000029",
         "sentence": "お母さんや姉さんに食いついたり」",
-        "sentence_with_furigana": "お母さんや姉さんに食いついたり」"
+        "sentence_with_furigana": "お母さんや姉さんに食いついたり」",
+        "audio_begin": 114560,
+        "audio_end": 117120
     },
     {
         "id": "f000030",
         "sentence": "「ヘエ、",
-        "sentence_with_furigana": "「ヘエ、"
+        "sentence_with_furigana": "「ヘエ、",
+        "audio_begin": 117120,
+        "audio_end": 118040
     },
     {
         "id": "f000031",
         "sentence": "そんな事をするかね」",
-        "sentence_with_furigana": "そんな事をするかね」"
+        "sentence_with_furigana": "そんな事をするかね」",
+        "audio_begin": 118040,
+        "audio_end": 120261
     },
     {
         "id": "f000032",
         "sentence": "「するとも。",
-        "sentence_with_furigana": "「するとも。"
+        "sentence_with_furigana": "「するとも。",
+        "audio_begin": 120261,
+        "audio_end": 123120
     },
     {
         "id": "f000033",
         "sentence": "それから良い方では、",
-        "sentence_with_furigana": "それから良い方では、"
+        "sentence_with_furigana": "それから良い方では、",
+        "audio_begin": 123120,
+        "audio_end": 126000
     },
     {
         "id": "f000034",
         "sentence": "人のものを探してやったり、",
-        "sentence_with_furigana": "人のものを探してやったり、"
+        "sentence_with_furigana": "人のものを探してやったり、",
+        "audio_begin": 126000,
+        "audio_end": 129280
     },
     {
         "id": "f000035",
         "sentence": "落ちたものをひろってやったり、",
-        "sentence_with_furigana": "落ちたものをひろってやったり、"
+        "sentence_with_furigana": "落ちたものをひろってやったり、",
+        "audio_begin": 129280,
+        "audio_end": 131936
     },
     {
         "id": "f000036",
         "sentence": "小さい子をお守してやったり、",
-        "sentence_with_furigana": "小さい子をお守してやったり、"
+        "sentence_with_furigana": "小さい子をお守してやったり、",
+        "audio_begin": 131936,
+        "audio_end": 134840
     },
     {
         "id": "f000037",
         "sentence": "人の命を助けたり」",
-        "sentence_with_furigana": "人の命を助けたり」"
+        "sentence_with_furigana": "人の命を助けたり」",
+        "audio_begin": 134840,
+        "audio_end": 138840
     },
     {
         "id": "f000038",
         "sentence": "「ヘエー、",
-        "sentence_with_furigana": "「ヘエー、"
+        "sentence_with_furigana": "「ヘエー、",
+        "audio_begin": 138840,
+        "audio_end": 140240
     },
     {
         "id": "f000039",
         "sentence": "それはえらいね。",
-        "sentence_with_furigana": "それはえらいね。"
+        "sentence_with_furigana": "それはえらいね。",
+        "audio_begin": 140240,
+        "audio_end": 142577
     },
     {
         "id": "f000040",
         "sentence": "しかしそんなものを集めて持って行ってどうするのかね」",
-        "sentence_with_furigana": "しかしそんなものを集めて持って行ってどうするのかね」"
+        "sentence_with_furigana": "しかしそんなものを集めて持って行ってどうするのかね」",
+        "audio_begin": 142577,
+        "audio_end": 149400
     },
     {
         "id": "f000041",
         "sentence": "「今に十二年目になると僕が帰って来る。",
-        "sentence_with_furigana": "「今に十二年目になると僕が帰って来る。"
+        "sentence_with_furigana": "「今に十二年目になると僕が帰って来る。",
+        "audio_begin": 149400,
+        "audio_end": 154560
     },
     {
         "id": "f000042",
         "sentence": "その時には犬の年の子供は最早二十五になっている。",
-        "sentence_with_furigana": "その時には犬の年の子供は最早二十五になっている。"
+        "sentence_with_furigana": "その時には犬の年の子供は最早二十五になっている。",
+        "audio_begin": 154560,
+        "audio_end": 161920
     },
     {
         "id": "f000043",
         "sentence": "男の児は最早兵隊に行って帰って来ているし、",
-        "sentence_with_furigana": "男の児は最早兵隊に行って帰って来ているし、"
+        "sentence_with_furigana": "男の児は最早兵隊に行って帰って来ているし、",
+        "audio_begin": 161920,
+        "audio_end": 166880
     },
     {
         "id": "f000044",
         "sentence": "女の児ならばお嫁さんに行く年頃だから、",
-        "sentence_with_furigana": "女の児ならばお嫁さんに行く年頃だから、"
+        "sentence_with_furigana": "女の児ならばお嫁さんに行く年頃だから、",
+        "audio_begin": 166880,
+        "audio_end": 171579
     },
     {
         "id": "f000045",
         "sentence": "その時に良い事をした児には良い事をしてやり、",
-        "sentence_with_furigana": "その時に良い事をした児には良い事をしてやり、"
+        "sentence_with_furigana": "その時に良い事をした児には良い事をしてやり、",
+        "audio_begin": 171579,
+        "audio_end": 176000
     },
     {
         "id": "f000046",
         "sentence": "悪い事をした子には何か非道い罰を当ててやろうと思うんだ」",
-        "sentence_with_furigana": "悪い事をした子には何か非道い罰を当ててやろうと思うんだ」"
+        "sentence_with_furigana": "悪い事をした子には何か非道い罰を当ててやろうと思うんだ」",
+        "audio_begin": 176000,
+        "audio_end": 182800
     },
     {
         "id": "f000047",
         "sentence": "「フーン」",
-        "sentence_with_furigana": "「フーン」"
+        "sentence_with_furigana": "「フーン」",
+        "audio_begin": 182800,
+        "audio_end": 184360
     },
     {
         "id": "f000048",
         "sentence": "と猪は犬の言葉を聞いて腕を組んで考えました。",
-        "sentence_with_furigana": "と猪は犬の言葉を聞いて腕を組んで考えました。"
+        "sentence_with_furigana": "と猪は犬の言葉を聞いて腕を組んで考えました。",
+        "audio_begin": 184360,
+        "audio_end": 193600
     },
     {
         "id": "f000049",
         "sentence": "「オヤ猪君、",
-        "sentence_with_furigana": "「オヤ猪君、"
+        "sentence_with_furigana": "「オヤ猪君、",
+        "audio_begin": 193600,
+        "audio_end": 195520
     },
     {
         "id": "f000050",
         "sentence": "何を考えているのだい」",
-        "sentence_with_furigana": "何を考えているのだい」"
+        "sentence_with_furigana": "何を考えているのだい」",
+        "audio_begin": 195520,
+        "audio_end": 198760
     },
     {
         "id": "f000051",
         "sentence": "「ウン。",
-        "sentence_with_furigana": "「ウン。"
+        "sentence_with_furigana": "「ウン。",
+        "audio_begin": 198760,
+        "audio_end": 200240
     },
     {
         "id": "f000052",
         "sentence": "犬さんがそう言うと、",
-        "sentence_with_furigana": "犬さんがそう言うと、"
+        "sentence_with_furigana": "犬さんがそう言うと、",
+        "audio_begin": 200240,
+        "audio_end": 202360
     },
     {
         "id": "f000053",
         "sentence": "成る程一々尤もだが、",
-        "sentence_with_furigana": "成る程一々尤もだが、"
+        "sentence_with_furigana": "成る程一々尤もだが、",
+        "audio_begin": 202360,
+        "audio_end": 205371
     },
     {
         "id": "f000054",
         "sentence": "それはあまり感心しないぜ」",
-        "sentence_with_furigana": "それはあまり感心しないぜ」"
+        "sentence_with_furigana": "それはあまり感心しないぜ」",
+        "audio_begin": 205371,
+        "audio_end": 209160
     },
     {
         "id": "f000055",
         "sentence": "「何故、",
-        "sentence_with_furigana": "「何故、"
+        "sentence_with_furigana": "「何故、",
+        "audio_begin": 209160,
+        "audio_end": 210200
     },
     {
         "id": "f000056",
         "sentence": "何故」",
-        "sentence_with_furigana": "何故」"
+        "sentence_with_furigana": "何故」",
+        "audio_begin": 210200,
+        "audio_end": 211761
     },
     {
         "id": "f000057",
         "sentence": "と犬は眼を瞠って申しました。",
-        "sentence_with_furigana": "と犬は眼を 瞠[みは]って申しました。"
+        "sentence_with_furigana": "と犬は眼を 瞠[みは]って申しました。",
+        "audio_begin": 211761,
+        "audio_end": 217840
     },
     {
         "id": "f000058",
         "sentence": "「それは、",
-        "sentence_with_furigana": "「それは、"
+        "sentence_with_furigana": "「それは、",
+        "audio_begin": 217840,
+        "audio_end": 218960
     },
     {
         "id": "f000059",
         "sentence": "今年はまだ小僧だからまだいたずらをするだろう。",
-        "sentence_with_furigana": "今年はまだ小僧だからまだいたずらをするだろう。"
+        "sentence_with_furigana": "今年はまだ小僧だからまだいたずらをするだろう。",
+        "audio_begin": 218960,
+        "audio_end": 223120
     },
     {
         "id": "f000060",
         "sentence": "しかし二十四にも五にもなったら、",
-        "sentence_with_furigana": "しかし二十四にも五にもなったら、"
+        "sentence_with_furigana": "しかし二十四にも五にもなったら、",
+        "audio_begin": 223120,
+        "audio_end": 227360
     },
     {
         "id": "f000061",
         "sentence": "だんだんわけがわかって来て、",
-        "sentence_with_furigana": "だんだんわけがわかって来て、"
+        "sentence_with_furigana": "だんだんわけがわかって来て、",
+        "audio_begin": 227360,
+        "audio_end": 229880
     },
     {
         "id": "f000062",
         "sentence": "そんないたずらをしなくなるだろう。",
-        "sentence_with_furigana": "そんないたずらをしなくなるだろう。"
+        "sentence_with_furigana": "そんないたずらをしなくなるだろう。",
+        "audio_begin": 229880,
+        "audio_end": 233480
     },
     {
         "id": "f000063",
         "sentence": "そんなにいい人になった時に罰を喰わせるのは可哀そうではないか」",
-        "sentence_with_furigana": "そんなにいい人になった時に罰を 喰[く]わせるのは可哀そうではないか」"
+        "sentence_with_furigana": "そんなにいい人になった時に罰を 喰[く]わせるのは可哀そうではないか」",
+        "audio_begin": 233480,
+        "audio_end": 238840
     },
     {
         "id": "f000064",
         "sentence": "このように言われると犬も考えました。",
-        "sentence_with_furigana": "このように言われると犬も考えました。"
+        "sentence_with_furigana": "このように言われると犬も考えました。",
+        "audio_begin": 240840,
+        "audio_end": 246105
     },
     {
         "id": "f000065",
         "sentence": "「成る程。",
-        "sentence_with_furigana": "「成る程。"
+        "sentence_with_furigana": "「成る程。",
+        "audio_begin": 246105,
+        "audio_end": 247536
     },
     {
         "id": "f000066",
         "sentence": "君は猪と言う位で無暗にあばれるばかりと思ったら、",
-        "sentence_with_furigana": "君は猪と言う位で 無暗[むやみ]にあばれるばかりと思ったら、"
+        "sentence_with_furigana": "君は猪と言う位で 無暗[むやみ]にあばれるばかりと思ったら、",
+        "audio_begin": 247536,
+        "audio_end": 252800
     },
     {
         "id": "f000067",
         "sentence": "中々ちえが深い。",
-        "sentence_with_furigana": "中々ちえが深い。"
+        "sentence_with_furigana": "中々ちえが深い。",
+        "audio_begin": 252800,
+        "audio_end": 255600
     },
     {
         "id": "f000068",
         "sentence": "そんならこうしようではないか。",
-        "sentence_with_furigana": "そんならこうしようではないか。"
+        "sentence_with_furigana": "そんならこうしようではないか。",
+        "audio_begin": 255600,
+        "audio_end": 258077
     },
     {
         "id": "f000069",
         "sentence": "このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、",
-        "sentence_with_furigana": "このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、"
+        "sentence_with_furigana": "このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、",
+        "audio_begin": 258077,
+        "audio_end": 264080
     },
     {
         "id": "f000070",
         "sentence": "罰を喰わせる事にしよう。",
-        "sentence_with_furigana": "罰を喰わせる事にしよう。"
+        "sentence_with_furigana": "罰を喰わせる事にしよう。",
+        "audio_begin": 264080,
+        "audio_end": 267160
     },
     {
         "id": "f000071",
         "sentence": "又良い児が悪くなっていたら、",
-        "sentence_with_furigana": "又良い児が悪くなっていたら、"
+        "sentence_with_furigana": "又良い児が悪くなっていたら、",
+        "audio_begin": 267160,
+        "audio_end": 270080
     },
     {
         "id": "f000072",
         "sentence": "御褒美をやらない事にしよう」",
-        "sentence_with_furigana": "御褒美をやらない事にしよう」"
+        "sentence_with_furigana": "御褒美をやらない事にしよう」",
+        "audio_begin": 270080,
+        "audio_end": 273560
     },
     {
         "id": "f000073",
         "sentence": "「うん、",
-        "sentence_with_furigana": "「うん、"
+        "sentence_with_furigana": "「うん、",
+        "audio_begin": 273560,
+        "audio_end": 274200
     },
     {
         "id": "f000074",
         "sentence": "それがいい。",
-        "sentence_with_furigana": "それがいい。"
+        "sentence_with_furigana": "それがいい。",
+        "audio_begin": 274200,
+        "audio_end": 275873
     },
     {
         "id": "f000075",
         "sentence": "僕もそれじゃ来年は勉強をして、",
-        "sentence_with_furigana": "僕もそれじゃ来年は勉強をして、"
+        "sentence_with_furigana": "僕もそれじゃ来年は勉強をして、",
+        "audio_begin": 275873,
+        "audio_end": 279720
     },
     {
         "id": "f000076",
         "sentence": "猪のようにあばれて悪い事をする児と、",
-        "sentence_with_furigana": "猪のようにあばれて悪い事をする児と、"
+        "sentence_with_furigana": "猪のようにあばれて悪い事をする児と、",
+        "audio_begin": 279720,
+        "audio_end": 283600
     },
     {
         "id": "f000077",
         "sentence": "猪のように一所懸命に好い事をする児の名前を集めよう。",
-        "sentence_with_furigana": "猪のように一所懸命に好い事をする児の名前を集めよう。"
+        "sentence_with_furigana": "猪のように一所懸命に好い事をする児の名前を集めよう。",
+        "audio_begin": 283600,
+        "audio_end": 288360
     },
     {
         "id": "f000078",
         "sentence": "そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」",
-        "sentence_with_furigana": "そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」"
+        "sentence_with_furigana": "そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」",
+        "audio_begin": 288360,
+        "audio_end": 297240
     },
     {
         "id": "f000079",
         "sentence": "二人は手を打って、",
-        "sentence_with_furigana": "二人は手を打って、"
+        "sentence_with_furigana": "二人は手を打って、",
+        "audio_begin": 297240,
+        "audio_end": 299840
     },
     {
         "id": "f000080",
         "sentence": "「それがいい、",
-        "sentence_with_furigana": "「それがいい、"
+        "sentence_with_furigana": "「それがいい、",
+        "audio_begin": 299840,
+        "audio_end": 301240
     },
     {
         "id": "f000081",
         "sentence": "それがいい」",
-        "sentence_with_furigana": "それがいい」"
+        "sentence_with_furigana": "それがいい」",
+        "audio_begin": 301240,
+        "audio_end": 302765
     },
     {
         "id": "f000082",
         "sentence": "と言いました。",
-        "sentence_with_furigana": "と言いました。"
+        "sentence_with_furigana": "と言いました。",
+        "audio_begin": 302765,
+        "audio_end": 306406
     },
     {
         "id": "f000083",
         "sentence": "そのうちに十二時の鐘が鳴りました。",
-        "sentence_with_furigana": "そのうちに十二時の鐘が鳴りました。"
+        "sentence_with_furigana": "そのうちに十二時の鐘が鳴りました。",
+        "audio_begin": 306406,
+        "audio_end": 311847
     },
     {
         "id": "f000084",
         "sentence": "「やあ鐘が鳴った。",
-        "sentence_with_furigana": "「やあ鐘が鳴った。"
+        "sentence_with_furigana": "「やあ鐘が鳴った。",
+        "audio_begin": 311847,
+        "audio_end": 315403
     },
     {
         "id": "f000085",
         "sentence": "君も僕の大好きの処まで降って来たようだ。",
-        "sentence_with_furigana": "君も僕の大好きの処まで降って来たようだ。"
+        "sentence_with_furigana": "君も僕の大好きの処まで降って来たようだ。",
+        "audio_begin": 315403,
+        "audio_end": 320480
     },
     {
         "id": "f000086",
         "sentence": "では出かけようではないか」",
-        "sentence_with_furigana": "では出かけようではないか」"
+        "sentence_with_furigana": "では出かけようではないか」",
+        "audio_begin": 320480,
+        "audio_end": 324825
     },
     {
         "id": "f000087",
         "sentence": "二人は表に出て右と左に別れました。",
-        "sentence_with_furigana": "二人は表に出て右と左に別れました。"
+        "sentence_with_furigana": "二人は表に出て右と左に別れました。",
+        "audio_begin": 324825,
+        "audio_end": 331280
     },
     {
         "id": "f000088",
         "sentence": "その時二人は帽子をふって、",
-        "sentence_with_furigana": "その時二人は帽子をふって、"
+        "sentence_with_furigana": "その時二人は帽子をふって、",
+        "audio_begin": 331280,
+        "audio_end": 336720
     },
     {
         "id": "f000089",
         "sentence": "「犬の年の児万歳」",
-        "sentence_with_furigana": "「犬の年の児万歳」"
+        "sentence_with_furigana": "「犬の年の児万歳」",
+        "audio_begin": 336720,
+        "audio_end": 340200
     },
     {
         "id": "f000090",
         "sentence": "「猪の年の児万歳」",
-        "sentence_with_furigana": "「猪の年の児万歳」"
+        "sentence_with_furigana": "「猪の年の児万歳」",
+        "audio_begin": 340200,
+        "audio_end": 343386
     },
     {
         "id": "f000091",
         "sentence": "と叫びました。",
-        "sentence_with_furigana": "と叫びました。"
+        "sentence_with_furigana": "と叫びました。",
+        "audio_begin": 343386,
+        "audio_end": 348640
     }
 ]

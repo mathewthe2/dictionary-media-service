@@ -1,7 +1,6 @@
 [
     {
         "id": "Akai Funeto Tsubame-f000002",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -19,11 +18,12 @@
             "と",
             "つばめ"
         ],
-        "sound": "f000002.mp3"
+        "sound": "f000002.mp3",
+        "sound_begin": 5815,
+        "sound_end": 11840
     },
     {
         "id": "Akai Funeto Tsubame-f000003",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -43,11 +43,12 @@
             "晩方",
             "、"
         ],
-        "sound": "f000003.mp3"
+        "sound": "f000003.mp3",
+        "sound_begin": 11840,
+        "sound_end": 13960
     },
     {
         "id": "Akai Funeto Tsubame-f000004",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -65,11 +66,12 @@
             "が",
             "、"
         ],
-        "sound": "f000004.mp3"
+        "sound": "f000004.mp3",
+        "sound_begin": 13960,
+        "sound_end": 15120
     },
     {
         "id": "Akai Funeto Tsubame-f000005",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -91,11 +93,12 @@
             "た",
             "。"
         ],
-        "sound": "f000005.mp3"
+        "sound": "f000005.mp3",
+        "sound_begin": 15120,
+        "sound_end": 17960
     },
     {
         "id": "Akai Funeto Tsubame-f000006",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -113,11 +116,12 @@
             "は",
             "、"
         ],
-        "sound": "f000006.mp3"
+        "sound": "f000006.mp3",
+        "sound_begin": 17960,
+        "sound_end": 18920
     },
     {
         "id": "Akai Funeto Tsubame-f000007",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -145,11 +149,12 @@
             "で",
             "、"
         ],
-        "sound": "f000007.mp3"
+        "sound": "f000007.mp3",
+        "sound_begin": 18920,
+        "sound_end": 21188
     },
     {
         "id": "Akai Funeto Tsubame-f000008",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -169,11 +174,12 @@
             "に",
             "、"
         ],
-        "sound": "f000008.mp3"
+        "sound": "f000008.mp3",
+        "sound_begin": 21188,
+        "sound_end": 22400
     },
     {
         "id": "Akai Funeto Tsubame-f000009",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -191,11 +197,12 @@
             "が",
             "、"
         ],
-        "sound": "f000009.mp3"
+        "sound": "f000009.mp3",
+        "sound_begin": 22400,
+        "sound_end": 23040
     },
     {
         "id": "Akai Funeto Tsubame-f000010",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -217,11 +224,12 @@
             "です",
             "。"
         ],
-        "sound": "f000010.mp3"
+        "sound": "f000010.mp3",
+        "sound_begin": 23040,
+        "sound_end": 26840
     },
     {
         "id": "Akai Funeto Tsubame-f000011",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -237,11 +245,12 @@
             "間",
             "、"
         ],
-        "sound": "f000011.mp3"
+        "sound": "f000011.mp3",
+        "sound_begin": 26840,
+        "sound_end": 27800
     },
     {
         "id": "Akai Funeto Tsubame-f000012",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -271,11 +280,12 @@
             "だり",
             "、"
         ],
-        "sound": "f000012.mp3"
+        "sound": "f000012.mp3",
+        "sound_begin": 27800,
+        "sound_end": 30320
     },
     {
         "id": "Akai Funeto Tsubame-f000013",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -301,11 +311,12 @@
             "て",
             "、"
         ],
-        "sound": "f000013.mp3"
+        "sound": "f000013.mp3",
+        "sound_begin": 30320,
+        "sound_end": 32600
     },
     {
         "id": "Akai Funeto Tsubame-f000014",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -333,11 +344,12 @@
             "は",
             "、"
         ],
-        "sound": "f000014.mp3"
+        "sound": "f000014.mp3",
+        "sound_begin": 32600,
+        "sound_end": 35520
     },
     {
         "id": "Akai Funeto Tsubame-f000015",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -361,11 +373,12 @@
             "て",
             "、"
         ],
-        "sound": "f000015.mp3"
+        "sound": "f000015.mp3",
+        "sound_begin": 35520,
+        "sound_end": 37760
     },
     {
         "id": "Akai Funeto Tsubame-f000016",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -391,11 +404,12 @@
             "と",
             "、"
         ],
-        "sound": "f000016.mp3"
+        "sound": "f000016.mp3",
+        "sound_begin": 37760,
+        "sound_end": 40640
     },
     {
         "id": "Akai Funeto Tsubame-f000017",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -409,11 +423,12 @@
             "もはや",
             "、"
         ],
-        "sound": "f000017.mp3"
+        "sound": "f000017.mp3",
+        "sound_begin": 40640,
+        "sound_end": 41280
     },
     {
         "id": "Akai Funeto Tsubame-f000018",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -455,11 +470,12 @@
             "た",
             "。"
         ],
-        "sound": "f000018.mp3"
+        "sound": "f000018.mp3",
+        "sound_begin": 41280,
+        "sound_end": 46160
     },
     {
         "id": "Akai Funeto Tsubame-f000019",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -479,11 +495,12 @@
             "弱い",
             "、"
         ],
-        "sound": "f000019.mp3"
+        "sound": "f000019.mp3",
+        "sound_begin": 46160,
+        "sound_end": 47160
     },
     {
         "id": "Akai Funeto Tsubame-f000020",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -501,11 +518,12 @@
             "は",
             "、"
         ],
-        "sound": "f000020.mp3"
+        "sound": "f000020.mp3",
+        "sound_begin": 47160,
+        "sound_end": 48440
     },
     {
         "id": "Akai Funeto Tsubame-f000021",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -541,11 +559,12 @@
             "です",
             "。"
         ],
-        "sound": "f000021.mp3"
+        "sound": "f000021.mp3",
+        "sound_begin": 48440,
+        "sound_end": 55080
     },
     {
         "id": "Akai Funeto Tsubame-f000022",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -563,11 +582,12 @@
             "は",
             "、"
         ],
-        "sound": "f000022.mp3"
+        "sound": "f000022.mp3",
+        "sound_begin": 55080,
+        "sound_end": 56120
     },
     {
         "id": "Akai Funeto Tsubame-f000023",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -599,11 +619,12 @@
             "と",
             "、"
         ],
-        "sound": "f000023.mp3"
+        "sound": "f000023.mp3",
+        "sound_begin": 56120,
+        "sound_end": 59320
     },
     {
         "id": "Akai Funeto Tsubame-f000024",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -633,11 +654,12 @@
             "た",
             "。"
         ],
-        "sound": "f000024.mp3"
+        "sound": "f000024.mp3",
+        "sound_begin": 59320,
+        "sound_end": 63429
     },
     {
         "id": "Akai Funeto Tsubame-f000025",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -655,11 +677,12 @@
             "も",
             "、"
         ],
-        "sound": "f000025.mp3"
+        "sound": "f000025.mp3",
+        "sound_begin": 63429,
+        "sound_end": 64720
     },
     {
         "id": "Akai Funeto Tsubame-f000026",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -693,11 +716,12 @@
             "て",
             "、"
         ],
-        "sound": "f000026.mp3"
+        "sound": "f000026.mp3",
+        "sound_begin": 64720,
+        "sound_end": 67280
     },
     {
         "id": "Akai Funeto Tsubame-f000027",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -717,11 +741,12 @@
             "は",
             "、"
         ],
-        "sound": "f000027.mp3"
+        "sound": "f000027.mp3",
+        "sound_begin": 67280,
+        "sound_end": 68320
     },
     {
         "id": "Akai Funeto Tsubame-f000028",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -745,11 +770,12 @@
             "て",
             "、"
         ],
-        "sound": "f000028.mp3"
+        "sound": "f000028.mp3",
+        "sound_begin": 68320,
+        "sound_end": 70080
     },
     {
         "id": "Akai Funeto Tsubame-f000029",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -775,11 +801,12 @@
             "た",
             "。"
         ],
-        "sound": "f000029.mp3"
+        "sound": "f000029.mp3",
+        "sound_begin": 70080,
+        "sound_end": 73000
     },
     {
         "id": "Akai Funeto Tsubame-f000030",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -793,11 +820,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000030.mp3"
+        "sound": "f000030.mp3",
+        "sound_begin": 73000,
+        "sound_end": 73800
     },
     {
         "id": "Akai Funeto Tsubame-f000031",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -813,11 +841,12 @@
             "に",
             "、"
         ],
-        "sound": "f000031.mp3"
+        "sound": "f000031.mp3",
+        "sound_begin": 73800,
+        "sound_end": 74840
     },
     {
         "id": "Akai Funeto Tsubame-f000032",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -839,11 +868,12 @@
             "と",
             "、"
         ],
-        "sound": "f000032.mp3"
+        "sound": "f000032.mp3",
+        "sound_begin": 74840,
+        "sound_end": 77023
     },
     {
         "id": "Akai Funeto Tsubame-f000033",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -859,11 +889,12 @@
             "キイ",
             "、"
         ],
-        "sound": "f000033.mp3"
+        "sound": "f000033.mp3",
+        "sound_begin": 77023,
+        "sound_end": 77595
     },
     {
         "id": "Akai Funeto Tsubame-f000034",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -889,11 +920,12 @@
             "",
             "。"
         ],
-        "sound": "f000034.mp3"
+        "sound": "f000034.mp3",
+        "sound_begin": 77595,
+        "sound_end": 78597
     },
     {
         "id": "Akai Funeto Tsubame-f000035",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -913,11 +945,12 @@
             "て",
             "、"
         ],
-        "sound": "f000035.mp3"
+        "sound": "f000035.mp3",
+        "sound_begin": 78597,
+        "sound_end": 79760
     },
     {
         "id": "Akai Funeto Tsubame-f000036",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -941,11 +974,12 @@
             "です",
             "。"
         ],
-        "sound": "f000036.mp3"
+        "sound": "f000036.mp3",
+        "sound_begin": 79760,
+        "sound_end": 83360
     },
     {
         "id": "Akai Funeto Tsubame-f000037",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -967,11 +1001,12 @@
             "は",
             "、"
         ],
-        "sound": "f000037.mp3"
+        "sound": "f000037.mp3",
+        "sound_begin": 83360,
+        "sound_end": 85240
     },
     {
         "id": "Akai Funeto Tsubame-f000038",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1003,11 +1038,12 @@
             "に",
             "、"
         ],
-        "sound": "f000038.mp3"
+        "sound": "f000038.mp3",
+        "sound_begin": 85240,
+        "sound_end": 88080
     },
     {
         "id": "Akai Funeto Tsubame-f000039",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1029,11 +1065,12 @@
             "て",
             "、"
         ],
-        "sound": "f000039.mp3"
+        "sound": "f000039.mp3",
+        "sound_begin": 88080,
+        "sound_end": 90231
     },
     {
         "id": "Akai Funeto Tsubame-f000040",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1061,11 +1098,12 @@
             "ながら",
             "、"
         ],
-        "sound": "f000040.mp3"
+        "sound": "f000040.mp3",
+        "sound_begin": 90231,
+        "sound_end": 95040
     },
     {
         "id": "Akai Funeto Tsubame-f000041",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1093,11 +1131,12 @@
             "よ",
             "。"
         ],
-        "sound": "f000041.mp3"
+        "sound": "f000041.mp3",
+        "sound_begin": 95040,
+        "sound_end": 97080
     },
     {
         "id": "Akai Funeto Tsubame-f000042",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1111,11 +1150,12 @@
             "さあ",
             "、"
         ],
-        "sound": "f000042.mp3"
+        "sound": "f000042.mp3",
+        "sound_begin": 97080,
+        "sound_end": 97840
     },
     {
         "id": "Akai Funeto Tsubame-f000043",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1135,11 +1175,12 @@
             "は",
             "、"
         ],
-        "sound": "f000043.mp3"
+        "sound": "f000043.mp3",
+        "sound_begin": 97840,
+        "sound_end": 98800
     },
     {
         "id": "Akai Funeto Tsubame-f000044",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1157,11 +1198,12 @@
             "です",
             "。"
         ],
-        "sound": "f000044.mp3"
+        "sound": "f000044.mp3",
+        "sound_begin": 98800,
+        "sound_end": 100640
     },
     {
         "id": "Akai Funeto Tsubame-f000045",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1177,11 +1219,12 @@
             "か",
             "、"
         ],
-        "sound": "f000045.mp3"
+        "sound": "f000045.mp3",
+        "sound_begin": 100640,
+        "sound_end": 101400
     },
     {
         "id": "Akai Funeto Tsubame-f000046",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1213,11 +1256,12 @@
             "ください",
             "。"
         ],
-        "sound": "f000046.mp3"
+        "sound": "f000046.mp3",
+        "sound_begin": 101400,
+        "sound_end": 104485
     },
     {
         "id": "Akai Funeto Tsubame-f000047",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1239,11 +1283,12 @@
             "た",
             "。"
         ],
-        "sound": "f000047.mp3"
+        "sound": "f000047.mp3",
+        "sound_begin": 104485,
+        "sound_end": 107200
     },
     {
         "id": "Akai Funeto Tsubame-f000048",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1271,11 +1316,12 @@
             "て",
             "、"
         ],
-        "sound": "f000048.mp3"
+        "sound": "f000048.mp3",
+        "sound_begin": 107200,
+        "sound_end": 109600
     },
     {
         "id": "Akai Funeto Tsubame-f000049",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1307,11 +1353,12 @@
             "た",
             "。"
         ],
-        "sound": "f000049.mp3"
+        "sound": "f000049.mp3",
+        "sound_begin": 109600,
+        "sound_end": 113758
     },
     {
         "id": "Akai Funeto Tsubame-f000050",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1331,11 +1378,12 @@
             "は",
             "、"
         ],
-        "sound": "f000050.mp3"
+        "sound": "f000050.mp3",
+        "sound_begin": 113758,
+        "sound_end": 115280
     },
     {
         "id": "Akai Funeto Tsubame-f000051",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1367,11 +1415,12 @@
             "て",
             "、"
         ],
-        "sound": "f000051.mp3"
+        "sound": "f000051.mp3",
+        "sound_begin": 115280,
+        "sound_end": 119920
     },
     {
         "id": "Akai Funeto Tsubame-f000052",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1387,11 +1436,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000052.mp3"
+        "sound": "f000052.mp3",
+        "sound_begin": 119920,
+        "sound_end": 120280
     },
     {
         "id": "Akai Funeto Tsubame-f000053",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1405,11 +1455,12 @@
             "まあ",
             "、"
         ],
-        "sound": "f000053.mp3"
+        "sound": "f000053.mp3",
+        "sound_begin": 120280,
+        "sound_end": 121080
     },
     {
         "id": "Akai Funeto Tsubame-f000054",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1429,11 +1480,12 @@
             "で",
             "、"
         ],
-        "sound": "f000054.mp3"
+        "sound": "f000054.mp3",
+        "sound_begin": 121080,
+        "sound_end": 122200
     },
     {
         "id": "Akai Funeto Tsubame-f000055",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1457,11 +1509,12 @@
             "ない",
             "。"
         ],
-        "sound": "f000055.mp3"
+        "sound": "f000055.mp3",
+        "sound_begin": 122200,
+        "sound_end": 124486
     },
     {
         "id": "Akai Funeto Tsubame-f000056",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1483,11 +1536,12 @@
             "て",
             "、"
         ],
-        "sound": "f000056.mp3"
+        "sound": "f000056.mp3",
+        "sound_begin": 124486,
+        "sound_end": 125856
     },
     {
         "id": "Akai Funeto Tsubame-f000057",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1525,11 +1579,12 @@
             "た",
             "。"
         ],
-        "sound": "f000057.mp3"
+        "sound": "f000057.mp3",
+        "sound_begin": 125856,
+        "sound_end": 132640
     },
     {
         "id": "Akai Funeto Tsubame-f000058",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1547,11 +1602,12 @@
             "は",
             "、"
         ],
-        "sound": "f000058.mp3"
+        "sound": "f000058.mp3",
+        "sound_begin": 132640,
+        "sound_end": 133880
     },
     {
         "id": "Akai Funeto Tsubame-f000059",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1571,11 +1627,12 @@
             "日",
             "、"
         ],
-        "sound": "f000059.mp3"
+        "sound": "f000059.mp3",
+        "sound_begin": 133880,
+        "sound_end": 136120
     },
     {
         "id": "Akai Funeto Tsubame-f000060",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1591,11 +1648,12 @@
             "日",
             "、"
         ],
-        "sound": "f000060.mp3"
+        "sound": "f000060.mp3",
+        "sound_begin": 136120,
+        "sound_end": 136720
     },
     {
         "id": "Akai Funeto Tsubame-f000061",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1617,11 +1675,12 @@
             "た",
             "。"
         ],
-        "sound": "f000061.mp3"
+        "sound": "f000061.mp3",
+        "sound_begin": 136720,
+        "sound_end": 139700
     },
     {
         "id": "Akai Funeto Tsubame-f000062",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1635,11 +1694,12 @@
             "そして",
             "、"
         ],
-        "sound": "f000062.mp3"
+        "sound": "f000062.mp3",
+        "sound_begin": 139700,
+        "sound_end": 140640
     },
     {
         "id": "Akai Funeto Tsubame-f000063",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1655,11 +1715,12 @@
             "から",
             "、"
         ],
-        "sound": "f000063.mp3"
+        "sound": "f000063.mp3",
+        "sound_begin": 140640,
+        "sound_end": 141400
     },
     {
         "id": "Akai Funeto Tsubame-f000064",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1699,11 +1760,12 @@
             "た",
             "。"
         ],
-        "sound": "f000064.mp3"
+        "sound": "f000064.mp3",
+        "sound_begin": 141400,
+        "sound_end": 146600
     },
     {
         "id": "Akai Funeto Tsubame-f000065",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1717,11 +1779,12 @@
             "もう",
             "、"
         ],
-        "sound": "f000065.mp3"
+        "sound": "f000065.mp3",
+        "sound_begin": 146600,
+        "sound_end": 147253
     },
     {
         "id": "Akai Funeto Tsubame-f000066",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1747,11 +1810,12 @@
             "て",
             "、"
         ],
-        "sound": "f000066.mp3"
+        "sound": "f000066.mp3",
+        "sound_begin": 147253,
+        "sound_end": 150001
     },
     {
         "id": "Akai Funeto Tsubame-f000067",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1769,11 +1833,12 @@
             "は",
             "、"
         ],
-        "sound": "f000067.mp3"
+        "sound": "f000067.mp3",
+        "sound_begin": 150001,
+        "sound_end": 151040
     },
     {
         "id": "Akai Funeto Tsubame-f000068",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1797,11 +1862,12 @@
             "て",
             "、"
         ],
-        "sound": "f000068.mp3"
+        "sound": "f000068.mp3",
+        "sound_begin": 151040,
+        "sound_end": 152720
     },
     {
         "id": "Akai Funeto Tsubame-f000069",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1815,11 +1881,12 @@
             "まったく",
             "、"
         ],
-        "sound": "f000069.mp3"
+        "sound": "f000069.mp3",
+        "sound_begin": 152720,
+        "sound_end": 153440
     },
     {
         "id": "Akai Funeto Tsubame-f000070",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1843,11 +1910,12 @@
             "時分",
             "、"
         ],
-        "sound": "f000070.mp3"
+        "sound": "f000070.mp3",
+        "sound_begin": 153440,
+        "sound_end": 156360
     },
     {
         "id": "Akai Funeto Tsubame-f000071",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1875,11 +1943,12 @@
             "です",
             "。"
         ],
-        "sound": "f000071.mp3"
+        "sound": "f000071.mp3",
+        "sound_begin": 156360,
+        "sound_end": 161364
     },
     {
         "id": "Akai Funeto Tsubame-f000072",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1895,11 +1964,12 @@
             "は",
             "、"
         ],
-        "sound": "f000072.mp3"
+        "sound": "f000072.mp3",
+        "sound_begin": 161364,
+        "sound_end": 162480
     },
     {
         "id": "Akai Funeto Tsubame-f000073",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1927,11 +1997,12 @@
             "て",
             "、"
         ],
-        "sound": "f000073.mp3"
+        "sound": "f000073.mp3",
+        "sound_begin": 162480,
+        "sound_end": 164640
     },
     {
         "id": "Akai Funeto Tsubame-f000074",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1951,11 +2022,12 @@
             "た",
             "。"
         ],
-        "sound": "f000074.mp3"
+        "sound": "f000074.mp3",
+        "sound_begin": 164640,
+        "sound_end": 167480
     },
     {
         "id": "Akai Funeto Tsubame-f000075",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -1971,11 +2043,12 @@
             "なら",
             "、"
         ],
-        "sound": "f000075.mp3"
+        "sound": "f000075.mp3",
+        "sound_begin": 167480,
+        "sound_end": 168520
     },
     {
         "id": "Akai Funeto Tsubame-f000076",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2003,11 +2076,12 @@
             "は",
             "、"
         ],
-        "sound": "f000076.mp3"
+        "sound": "f000076.mp3",
+        "sound_begin": 168520,
+        "sound_end": 170560
     },
     {
         "id": "Akai Funeto Tsubame-f000077",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2029,11 +2103,12 @@
             "ば",
             "、"
         ],
-        "sound": "f000077.mp3"
+        "sound": "f000077.mp3",
+        "sound_begin": 170560,
+        "sound_end": 172120
     },
     {
         "id": "Akai Funeto Tsubame-f000078",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2053,11 +2128,12 @@
             "し",
             "、"
         ],
-        "sound": "f000078.mp3"
+        "sound": "f000078.mp3",
+        "sound_begin": 172120,
+        "sound_end": 174280
     },
     {
         "id": "Akai Funeto Tsubame-f000079",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2075,11 +2151,12 @@
             "から",
             "、"
         ],
-        "sound": "f000079.mp3"
+        "sound": "f000079.mp3",
+        "sound_begin": 174280,
+        "sound_end": 175720
     },
     {
         "id": "Akai Funeto Tsubame-f000080",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2099,11 +2176,12 @@
             "て",
             "、"
         ],
-        "sound": "f000080.mp3"
+        "sound": "f000080.mp3",
+        "sound_begin": 175720,
+        "sound_end": 176960
     },
     {
         "id": "Akai Funeto Tsubame-f000081",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2145,11 +2223,12 @@
             "です",
             "。"
         ],
-        "sound": "f000081.mp3"
+        "sound": "f000081.mp3",
+        "sound_begin": 176960,
+        "sound_end": 184840
     },
     {
         "id": "Akai Funeto Tsubame-f000082",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2165,11 +2244,12 @@
             "とき",
             "、"
         ],
-        "sound": "f000082.mp3"
+        "sound": "f000082.mp3",
+        "sound_begin": 184840,
+        "sound_end": 186000
     },
     {
         "id": "Akai Funeto Tsubame-f000083",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2191,11 +2271,12 @@
             "は",
             "、"
         ],
-        "sound": "f000083.mp3"
+        "sound": "f000083.mp3",
+        "sound_begin": 186000,
+        "sound_end": 187560
     },
     {
         "id": "Akai Funeto Tsubame-f000084",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2219,11 +2300,12 @@
             "て",
             "、"
         ],
-        "sound": "f000084.mp3"
+        "sound": "f000084.mp3",
+        "sound_begin": 187560,
+        "sound_end": 188880
     },
     {
         "id": "Akai Funeto Tsubame-f000085",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2241,11 +2323,12 @@
             "から",
             "、"
         ],
-        "sound": "f000085.mp3"
+        "sound": "f000085.mp3",
+        "sound_begin": 188880,
+        "sound_end": 189800
     },
     {
         "id": "Akai Funeto Tsubame-f000086",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2273,11 +2356,12 @@
             "が",
             "、"
         ],
-        "sound": "f000086.mp3"
+        "sound": "f000086.mp3",
+        "sound_begin": 189800,
+        "sound_end": 191840
     },
     {
         "id": "Akai Funeto Tsubame-f000087",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2309,11 +2393,12 @@
             "た",
             "。"
         ],
-        "sound": "f000087.mp3"
+        "sound": "f000087.mp3",
+        "sound_begin": 191840,
+        "sound_end": 196437
     },
     {
         "id": "Akai Funeto Tsubame-f000088",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2331,11 +2416,12 @@
             "は",
             "、"
         ],
-        "sound": "f000088.mp3"
+        "sound": "f000088.mp3",
+        "sound_begin": 196437,
+        "sound_end": 197960
     },
     {
         "id": "Akai Funeto Tsubame-f000089",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2359,11 +2445,12 @@
             "た",
             "。"
         ],
-        "sound": "f000089.mp3"
+        "sound": "f000089.mp3",
+        "sound_begin": 197960,
+        "sound_end": 201480
     },
     {
         "id": "Akai Funeto Tsubame-f000090",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2377,11 +2464,12 @@
             "しかたなく",
             "、"
         ],
-        "sound": "f000090.mp3"
+        "sound": "f000090.mp3",
+        "sound_begin": 201480,
+        "sound_end": 202640
     },
     {
         "id": "Akai Funeto Tsubame-f000091",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2405,11 +2493,12 @@
             "て",
             "、"
         ],
-        "sound": "f000091.mp3"
+        "sound": "f000091.mp3",
+        "sound_begin": 202640,
+        "sound_end": 204792
     },
     {
         "id": "Akai Funeto Tsubame-f000092",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2441,11 +2530,12 @@
             "た",
             "。"
         ],
-        "sound": "f000092.mp3"
+        "sound": "f000092.mp3",
+        "sound_begin": 204792,
+        "sound_end": 208840
     },
     {
         "id": "Akai Funeto Tsubame-f000093",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2469,11 +2559,12 @@
             "へ",
             "、"
         ],
-        "sound": "f000093.mp3"
+        "sound": "f000093.mp3",
+        "sound_begin": 208840,
+        "sound_end": 210440
     },
     {
         "id": "Akai Funeto Tsubame-f000094",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2499,11 +2590,12 @@
             "です",
             "。"
         ],
-        "sound": "f000094.mp3"
+        "sound": "f000094.mp3",
+        "sound_begin": 210440,
+        "sound_end": 215320
     },
     {
         "id": "Akai Funeto Tsubame-f000095",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2519,11 +2611,12 @@
             "は",
             "、"
         ],
-        "sound": "f000095.mp3"
+        "sound": "f000095.mp3",
+        "sound_begin": 215320,
+        "sound_end": 216200
     },
     {
         "id": "Akai Funeto Tsubame-f000096",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2547,11 +2640,12 @@
             "で",
             "、"
         ],
-        "sound": "f000096.mp3"
+        "sound": "f000096.mp3",
+        "sound_begin": 216200,
+        "sound_end": 218761
     },
     {
         "id": "Akai Funeto Tsubame-f000097",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2583,11 +2677,12 @@
             "て",
             "、"
         ],
-        "sound": "f000097.mp3"
+        "sound": "f000097.mp3",
+        "sound_begin": 218761,
+        "sound_end": 221520
     },
     {
         "id": "Akai Funeto Tsubame-f000098",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2611,11 +2706,12 @@
             "た",
             "。"
         ],
-        "sound": "f000098.mp3"
+        "sound": "f000098.mp3",
+        "sound_begin": 221520,
+        "sound_end": 225120
     },
     {
         "id": "Akai Funeto Tsubame-f000099",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2633,11 +2729,12 @@
             "は",
             "、"
         ],
-        "sound": "f000099.mp3"
+        "sound": "f000099.mp3",
+        "sound_begin": 225120,
+        "sound_end": 226200
     },
     {
         "id": "Akai Funeto Tsubame-f000100",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2655,11 +2752,12 @@
             "て",
             "、"
         ],
-        "sound": "f000100.mp3"
+        "sound": "f000100.mp3",
+        "sound_begin": 226200,
+        "sound_end": 226920
     },
     {
         "id": "Akai Funeto Tsubame-f000101",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2685,11 +2783,12 @@
             "に",
             "、"
         ],
-        "sound": "f000101.mp3"
+        "sound": "f000101.mp3",
+        "sound_begin": 226920,
+        "sound_end": 228640
     },
     {
         "id": "Akai Funeto Tsubame-f000102",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2703,11 +2802,12 @@
             "一夜",
             "、"
         ],
-        "sound": "f000102.mp3"
+        "sound": "f000102.mp3",
+        "sound_begin": 228640,
+        "sound_end": 229560
     },
     {
         "id": "Akai Funeto Tsubame-f000103",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2735,11 +2835,12 @@
             "た",
             "。"
         ],
-        "sound": "f000103.mp3"
+        "sound": "f000103.mp3",
+        "sound_begin": 229560,
+        "sound_end": 233800
     },
     {
         "id": "Akai Funeto Tsubame-f000104",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2755,11 +2856,12 @@
             "て",
             "、"
         ],
-        "sound": "f000104.mp3"
+        "sound": "f000104.mp3",
+        "sound_begin": 233800,
+        "sound_end": 234640
     },
     {
         "id": "Akai Funeto Tsubame-f000105",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2793,11 +2895,12 @@
             "上がり",
             "、"
         ],
-        "sound": "f000105.mp3"
+        "sound": "f000105.mp3",
+        "sound_begin": 234640,
+        "sound_end": 238240
     },
     {
         "id": "Akai Funeto Tsubame-f000106",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2839,11 +2942,12 @@
             "た",
             "。"
         ],
-        "sound": "f000106.mp3"
+        "sound": "f000106.mp3",
+        "sound_begin": 238240,
+        "sound_end": 245520
     },
     {
         "id": "Akai Funeto Tsubame-f000107",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2863,11 +2967,12 @@
             "と",
             "、"
         ],
-        "sound": "f000107.mp3"
+        "sound": "f000107.mp3",
+        "sound_begin": 245520,
+        "sound_end": 246920
     },
     {
         "id": "Akai Funeto Tsubame-f000108",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2893,11 +2998,12 @@
             "に",
             "、"
         ],
-        "sound": "f000108.mp3"
+        "sound": "f000108.mp3",
+        "sound_begin": 246920,
+        "sound_end": 249280
     },
     {
         "id": "Akai Funeto Tsubame-f000109",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2915,11 +3021,12 @@
             "が",
             "、"
         ],
-        "sound": "f000109.mp3"
+        "sound": "f000109.mp3",
+        "sound_begin": 249280,
+        "sound_end": 250320
     },
     {
         "id": "Akai Funeto Tsubame-f000110",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2939,11 +3046,12 @@
             "に",
             "、"
         ],
-        "sound": "f000110.mp3"
+        "sound": "f000110.mp3",
+        "sound_begin": 250320,
+        "sound_end": 251840
     },
     {
         "id": "Akai Funeto Tsubame-f000111",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2971,11 +3079,12 @@
             "た",
             "。"
         ],
-        "sound": "f000111.mp3"
+        "sound": "f000111.mp3",
+        "sound_begin": 251840,
+        "sound_end": 255338
     },
     {
         "id": "Akai Funeto Tsubame-f000112",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -2991,11 +3100,12 @@
             "は",
             "、"
         ],
-        "sound": "f000112.mp3"
+        "sound": "f000112.mp3",
+        "sound_begin": 255338,
+        "sound_end": 256399
     },
     {
         "id": "Akai Funeto Tsubame-f000113",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3031,11 +3141,12 @@
             "です",
             "。"
         ],
-        "sound": "f000113.mp3"
+        "sound": "f000113.mp3",
+        "sound_begin": 256399,
+        "sound_end": 261922
     },
     {
         "id": "Akai Funeto Tsubame-f000114",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3051,11 +3162,12 @@
             "は",
             "、"
         ],
-        "sound": "f000114.mp3"
+        "sound": "f000114.mp3",
+        "sound_begin": 261922,
+        "sound_end": 262920
     },
     {
         "id": "Akai Funeto Tsubame-f000115",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3075,11 +3187,12 @@
             "て",
             "、"
         ],
-        "sound": "f000115.mp3"
+        "sound": "f000115.mp3",
+        "sound_begin": 262920,
+        "sound_end": 263640
     },
     {
         "id": "Akai Funeto Tsubame-f000116",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3111,11 +3224,12 @@
             "た",
             "。"
         ],
-        "sound": "f000116.mp3"
+        "sound": "f000116.mp3",
+        "sound_begin": 263640,
+        "sound_end": 268840
     },
     {
         "id": "Akai Funeto Tsubame-f000117",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3137,11 +3251,12 @@
             "は",
             "、"
         ],
-        "sound": "f000117.mp3"
+        "sound": "f000117.mp3",
+        "sound_begin": 268840,
+        "sound_end": 270126
     },
     {
         "id": "Akai Funeto Tsubame-f000118",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3159,11 +3274,12 @@
             "はじめて",
             "、"
         ],
-        "sound": "f000118.mp3"
+        "sound": "f000118.mp3",
+        "sound_begin": 270126,
+        "sound_end": 272000
     },
     {
         "id": "Akai Funeto Tsubame-f000119",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3203,11 +3319,12 @@
             "れ",
             "、"
         ],
-        "sound": "f000119.mp3"
+        "sound": "f000119.mp3",
+        "sound_begin": 272000,
+        "sound_end": 277960
     },
     {
         "id": "Akai Funeto Tsubame-f000120",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3225,11 +3342,12 @@
             "から",
             "、"
         ],
-        "sound": "f000120.mp3"
+        "sound": "f000120.mp3",
+        "sound_begin": 277960,
+        "sound_end": 279360
     },
     {
         "id": "Akai Funeto Tsubame-f000121",
-        "author": "Ogawa Mimei",
         "author_japanese": "小川 未明",
         "deck_name": "Akai Funeto Tsubame",
         "deck_name_japanese": "赤い船とつばめ",
@@ -3269,6 +3387,8 @@
             "ます",
             "。"
         ],
-        "sound": "f000121.mp3"
+        "sound": "f000121.mp3",
+        "sound_begin": 279360,
+        "sound_end": 283243
     }
 ]
