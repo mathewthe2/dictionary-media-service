@@ -25,7 +25,7 @@ def parse_literature_deck(filename, skip_author=True):
     with open(file, encoding='utf-8') as f:
         data = json.load(f)
         for index, entry in enumerate(data):
-            if (skip_author and index == 0):
+            if (skip_author and index == 0) or (skip_author and index == 1 and '訳' in entry['sentence']):
                 continue
             text = entry["sentence"]
             word_base_list = [m.normalized_form() for m in tokenizer_obj.tokenize(text, mode)]

@@ -1,28 +1,5 @@
 [
     {
-        "id": "Kuroneko-f000002",
-        "author_japanese": "エドガー・アラン・ポー／佐々木 直次郎 訳",
-        "deck_name": "Kuroneko",
-        "deck_name_japanese": "黒猫",
-        "sentence": "佐々木直次郎 訳",
-        "sentence_with_furigana": "佐々木直次郎 訳",
-        "word_base_list": [
-            "佐々木",
-            "直次郎",
-            " ",
-            "訳"
-        ],
-        "word_list": [
-            "佐々木",
-            "直次郎",
-            " ",
-            "訳"
-        ],
-        "sound": "f000002.mp3",
-        "sound_begin": 4941,
-        "sound_end": 7890
-    },
-    {
         "id": "Kuroneko-f000003",
         "author_japanese": "エドガー・アラン・ポー／佐々木 直次郎 訳",
         "deck_name": "Kuroneko",

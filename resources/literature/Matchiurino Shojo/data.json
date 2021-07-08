@@ -1,26 +1,5 @@
 [
     {
-        "id": "Matchiurino Shojo-f000002",
-        "author_japanese": "ハンス・クリスチャン・アンデルセン／大久保 ゆう 訳",
-        "deck_name": "Matchiurino Shojo",
-        "deck_name_japanese": "マッチ売りの少女",
-        "sentence": "大久保ゆう訳",
-        "sentence_with_furigana": "大久保ゆう訳",
-        "word_base_list": [
-            "大久保",
-            "ゆう",
-            "訳"
-        ],
-        "word_list": [
-            "大久保",
-            "ゆう",
-            "訳"
-        ],
-        "sound": "f000002.mp3",
-        "sound_begin": 5120,
-        "sound_end": 9000
-    },
-    {
         "id": "Matchiurino Shojo-f000003",
         "author_japanese": "ハンス・クリスチャン・アンデルセン／大久保 ゆう 訳",
         "deck_name": "Matchiurino Shojo",
