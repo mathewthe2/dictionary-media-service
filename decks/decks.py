@@ -6,19 +6,12 @@ from pathlib import Path
 
 class Decks:
     def __init__(self, category="anime", path=EXAMPLE_PATH, has_image=True, has_sound=True):
-        self.sentences = {}
         self.sentence_map = {}
         self.sentence_translation_map = {}
         self.category = category
         self.path = path
         self.has_image = has_image
         self.has_sound = has_sound
-
-    def get_sentence(self, sentence_id):
-        if sentence_id in self.sentences:
-            return self.sentences[sentence_id]
-        else:
-            return None
 
     def get_sentence_map(self):
         return self.sentence_map
@@ -56,7 +49,16 @@ class Decks:
                 self.sentence_map = self.map_sentence(sentence['word_base_list'], sentence['id'], self.sentence_map)
             if 'translation_word_base_list' in sentence:
                 self.sentence_translation_map = self.map_sentence(sentence['translation_word_base_list'], sentence['id'], self.sentence_translation_map)
-            self.sentences[sentence["id"]] = self.filter_fields(sentence, [])
+           
+            # ADDING SENTENCES TO REDIS
+            # filtered_sentence = self.filter_fields(sentence, [])
+            # with r.pipeline() as pipe:
+            #     for key in filtered_sentence:
+            #         value = filtered_sentence[key]
+            #         if type(value) == list:
+            #             value = json.dumps(value, ensure_ascii=False)
+            #         pipe.hset(self.category + '-' + sentence["id"], key, value)
+            #     pipe.execute()
 
     def filter_fields(self, sentence, excluded_fields):
         filtered_sentence = {}

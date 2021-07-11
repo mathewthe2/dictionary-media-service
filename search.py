@@ -44,16 +44,16 @@ def get_sentences_with_combinatory_ids(combinatory_sentence_ids):
 
 def get_sentence_with_context(sentence_id, category=DEFAULT_CATEGORY):
     sentence = get_sentence_by_id(sentence_id, category)
-    if sentence is None:
+    if not sentence:
         return None
-    sentence["pretext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["pretext"]]
-    sentence["posttext_sentences"] = [get_sentence_by_id(sentence_id) for sentence_id in sentence["posttext"]]
+    sentence["pretext_sentences"] = decks.get_sentences(sentence["pretext"])
+    sentence["posttext_sentences"] = decks.get_sentences(sentence["posttext"])
     return sentence
 
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
-        examples = [decks.get_sentence(example_id) for example_id in set.intersection(*results)]
+        examples = decks.get_sentences(set.intersection(*results))
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
         if is_exact_match:
