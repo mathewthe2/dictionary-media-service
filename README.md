@@ -2,6 +2,20 @@
 
 Provides full-text search for Japanese and English text in Anki decks.
 
+## Prerequisities
+
+### [Echant](https://abiword.github.io/enchant/)
+
+#### Mac
+```bash
+brew install enchant
+```
+
+#### Ubuntu
+```
+apt-get install enchant
+```
+
 ## Develop
 
 ```bash
