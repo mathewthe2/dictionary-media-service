@@ -1,0 +1,1230 @@
+[
+    {
+        "id": "Saruto Samurai-f000002",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "サルト　サムライ",
+        "sentence_with_furigana": "サルト　サムライ",
+        "word_base_list": [
+            "サルト",
+            " ",
+            "侍"
+        ],
+        "word_list": [
+            "サルト",
+            "　",
+            "サムライ"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 5751,
+        "sound_end": 10240
+    },
+    {
+        "id": "Saruto Samurai-f000003",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "五ニンノ　サムライガ　タビヲ　シテ　アル　ヒ　ヤマミチヲ　トホリカヽルト、",
+        "sentence_with_furigana": "五ニンノ　サムライガ　タビヲ　シテ　アル　ヒ　ヤマミチヲ　トホリカヽルト、",
+        "word_base_list": [
+            "5",
+            "ニンノ",
+            " ",
+            "サムライガ",
+            " ",
+            "タビヲ",
+            " ",
+            "仕手",
+            " ",
+            "アル",
+            " ",
+            "ヒ",
+            " ",
+            "ヤマミチヲ",
+            " ",
+            "トホリカヽルト",
+            "、"
+        ],
+        "word_list": [
+            "五",
+            "ニンノ",
+            "　",
+            "サムライガ",
+            "　",
+            "タビヲ",
+            "　",
+            "シテ",
+            "　",
+            "アル",
+            "　",
+            "ヒ",
+            "　",
+            "ヤマミチヲ",
+            "　",
+            "トホリカヽルト",
+            "、"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 10240,
+        "sound_end": 18450
+    },
+    {
+        "id": "Saruto Samurai-f000004",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "木ノ　下ニ　一ピキノ　サルガ　ヰマシタ。",
+        "sentence_with_furigana": "木ノ　下ニ　一ピキノ　サルガ　ヰマシタ。",
+        "word_base_list": [
+            "木",
+            "の",
+            " ",
+            "下",
+            "に",
+            " ",
+            "1",
+            "ピキノ",
+            " ",
+            "サルガ",
+            " ",
+            "ヰマシタ",
+            "。"
+        ],
+        "word_list": [
+            "木",
+            "ノ",
+            "　",
+            "下",
+            "ニ",
+            "　",
+            "一",
+            "ピキノ",
+            "　",
+            "サルガ",
+            "　",
+            "ヰマシタ",
+            "。"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 18450,
+        "sound_end": 22893
+    },
+    {
+        "id": "Saruto Samurai-f000005",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「アノ　サルヲ　キラウ。」",
+        "sentence_with_furigana": "「アノ　サルヲ　キラウ。」",
+        "word_base_list": [
+            "「",
+            "彼の",
+            " ",
+            "サルヲ",
+            " ",
+            "キラウ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "「",
+            "アノ",
+            "　",
+            "サルヲ",
+            "　",
+            "キラウ",
+            "。",
+            "」"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 25560,
+        "sound_end": 27560
+    },
+    {
+        "id": "Saruto Samurai-f000006",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「サウダ、",
+        "sentence_with_furigana": "「サウダ、",
+        "word_base_list": [
+            "「",
+            "サウダ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "サウダ",
+            "、"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 29160,
+        "sound_end": 30520
+    },
+    {
+        "id": "Saruto Samurai-f000007",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワタシガ　キル。",
+        "sentence_with_furigana": "ワタシガ　キル。",
+        "word_base_list": [
+            "ワタシガ",
+            " ",
+            "キル",
+            "。"
+        ],
+        "word_list": [
+            "ワタシガ",
+            "　",
+            "キル",
+            "。"
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 30520,
+        "sound_end": 32840
+    },
+    {
+        "id": "Saruto Samurai-f000008",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワタシハ　モウ　一ツキアマリ　カタナヲ　ヌカナイノデ、",
+        "sentence_with_furigana": "ワタシハ　モウ　一ツキアマリ　カタナヲ　ヌカナイノデ、",
+        "word_base_list": [
+            "ワタシハ",
+            " ",
+            "もう",
+            " ",
+            "1",
+            "ツキアマリ",
+            " ",
+            "カタナヲ",
+            " ",
+            "ヌカナイノデ",
+            "、"
+        ],
+        "word_list": [
+            "ワタシハ",
+            "　",
+            "モウ",
+            "　",
+            "一",
+            "ツキアマリ",
+            "　",
+            "カタナヲ",
+            "　",
+            "ヌカナイノデ",
+            "、"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 32840,
+        "sound_end": 37960
+    },
+    {
+        "id": "Saruto Samurai-f000009",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ウデガ　ムヅムヅスル。」",
+        "sentence_with_furigana": "ウデガ　ムヅムヅスル。」",
+        "word_base_list": [
+            "ウデガ",
+            " ",
+            "ムヅムヅスル",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ウデガ",
+            "　",
+            "ムヅムヅスル",
+            "。",
+            "」"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 37960,
+        "sound_end": 42320
+    },
+    {
+        "id": "Saruto Samurai-f000010",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「イヤ、",
+        "sentence_with_furigana": "「イヤ、",
+        "word_base_list": [
+            "「",
+            "いや",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "イヤ",
+            "、"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 42320,
+        "sound_end": 43320
+    },
+    {
+        "id": "Saruto Samurai-f000011",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワタシガ　キル。",
+        "sentence_with_furigana": "ワタシガ　キル。",
+        "word_base_list": [
+            "ワタシガ",
+            " ",
+            "キル",
+            "。"
+        ],
+        "word_list": [
+            "ワタシガ",
+            "　",
+            "キル",
+            "。"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 43320,
+        "sound_end": 45720
+    },
+    {
+        "id": "Saruto Samurai-f000012",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワタシノ　カタナハ　ヨク　キレル。」",
+        "sentence_with_furigana": "ワタシノ　カタナハ　ヨク　キレル。」",
+        "word_base_list": [
+            "ワタシノ",
+            " ",
+            "カタナハ",
+            " ",
+            "ヨク",
+            " ",
+            "キレル",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ワタシノ",
+            "　",
+            "カタナハ",
+            "　",
+            "ヨク",
+            "　",
+            "キレル",
+            "。",
+            "」"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 45720,
+        "sound_end": 50280
+    },
+    {
+        "id": "Saruto Samurai-f000013",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「ダメダ　ダメダ、",
+        "sentence_with_furigana": "「ダメダ　ダメダ、",
+        "word_base_list": [
+            "「",
+            "ダメダ",
+            " ",
+            "ダメダ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ダメダ",
+            "　",
+            "ダメダ",
+            "、"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 50280,
+        "sound_end": 52120
+    },
+    {
+        "id": "Saruto Samurai-f000014",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "キミラノ　ウデデハ　サルヲ　トリニガシテ　シマフ。",
+        "sentence_with_furigana": "キミラノ　ウデデハ　サルヲ　トリニガシテ　シマフ。",
+        "word_base_list": [
+            "キミラノ",
+            " ",
+            "ウデデハ",
+            " ",
+            "サルヲ",
+            " ",
+            "トリニガシテ",
+            " ",
+            "シマフ",
+            "。"
+        ],
+        "word_list": [
+            "キミラノ",
+            "　",
+            "ウデデハ",
+            "　",
+            "サルヲ",
+            "　",
+            "トリニガシテ",
+            "　",
+            "シマフ",
+            "。"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 52120,
+        "sound_end": 56480
+    },
+    {
+        "id": "Saruto Samurai-f000015",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワシガ　キル。」",
+        "sentence_with_furigana": "ワシガ　キル。」",
+        "word_base_list": [
+            "ワシガ",
+            " ",
+            "キル",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ワシガ",
+            "　",
+            "キル",
+            "。",
+            "」"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 56490,
+        "sound_end": 59676
+    },
+    {
+        "id": "Saruto Samurai-f000016",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「オネガヒダ、",
+        "sentence_with_furigana": "「オネガヒダ、",
+        "word_base_list": [
+            "「",
+            "オネガヒダ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "オネガヒダ",
+            "、"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 59676,
+        "sound_end": 61320
+    },
+    {
+        "id": "Saruto Samurai-f000017",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ワタシニ　キラセテ　クレ。」",
+        "sentence_with_furigana": "ワタシニ　キラセテ　クレ。」",
+        "word_base_list": [
+            "ワタシニ",
+            " ",
+            "キラセテ",
+            " ",
+            "クレ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ワタシニ",
+            "　",
+            "キラセテ",
+            "　",
+            "クレ",
+            "。",
+            "」"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 61320,
+        "sound_end": 63440
+    },
+    {
+        "id": "Saruto Samurai-f000018",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ケレド、",
+        "sentence_with_furigana": "ケレド、",
+        "word_base_list": [
+            "けれど",
+            "、"
+        ],
+        "word_list": [
+            "ケレド",
+            "、"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 66140,
+        "sound_end": 67200
+    },
+    {
+        "id": "Saruto Samurai-f000019",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ヨク　ミルト、",
+        "sentence_with_furigana": "ヨク　ミルト、",
+        "word_base_list": [
+            "ヨク",
+            " ",
+            "ミルト",
+            "、"
+        ],
+        "word_list": [
+            "ヨク",
+            "　",
+            "ミルト",
+            "、"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 67200,
+        "sound_end": 69240
+    },
+    {
+        "id": "Saruto Samurai-f000020",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ソノ　サルハ　ビヨウキニ　カヽツテ　ウゴケナク　ナツテ　ヰマシタ。",
+        "sentence_with_furigana": "ソノ　サルハ　ビヨウキニ　カヽツテ　ウゴケナク　ナツテ　ヰマシタ。",
+        "word_base_list": [
+            "其の",
+            " ",
+            "サルハ",
+            " ",
+            "ビヨウキニ",
+            " ",
+            "カヽツテ",
+            " ",
+            "ウゴケナク",
+            " ",
+            "ナツテ",
+            " ",
+            "ヰマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ソノ",
+            "　",
+            "サルハ",
+            "　",
+            "ビヨウキニ",
+            "　",
+            "カヽツテ",
+            "　",
+            "ウゴケナク",
+            "　",
+            "ナツテ",
+            "　",
+            "ヰマシタ",
+            "。"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 69240,
+        "sound_end": 76390
+    },
+    {
+        "id": "Saruto Samurai-f000021",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ビヨウキノ　サルヲ　キツテモ　シカタナイト　イフノデ、",
+        "sentence_with_furigana": "ビヨウキノ　サルヲ　キツテモ　シカタナイト　イフノデ、",
+        "word_base_list": [
+            "ビヨウキノ",
+            " ",
+            "サルヲ",
+            " ",
+            "キツテモ",
+            " ",
+            "シカタナイト",
+            " ",
+            "イフノデ",
+            "、"
+        ],
+        "word_list": [
+            "ビヨウキノ",
+            "　",
+            "サルヲ",
+            "　",
+            "キツテモ",
+            "　",
+            "シカタナイト",
+            "　",
+            "イフノデ",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 76390,
+        "sound_end": 81480
+    },
+    {
+        "id": "Saruto Samurai-f000022",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "五人ノ　サムライハ、",
+        "sentence_with_furigana": "五人ノ　サムライハ、",
+        "word_base_list": [
+            "5",
+            "人",
+            "の",
+            " ",
+            "サムライハ",
+            "、"
+        ],
+        "word_list": [
+            "五",
+            "人",
+            "ノ",
+            "　",
+            "サムライハ",
+            "、"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 81480,
+        "sound_end": 83400
+    },
+    {
+        "id": "Saruto Samurai-f000023",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ソノ　サルヲ　ツレテ　ユキマシタ。",
+        "sentence_with_furigana": "ソノ　サルヲ　ツレテ　ユキマシタ。",
+        "word_base_list": [
+            "其の",
+            " ",
+            "サルヲ",
+            " ",
+            "ツレテ",
+            " ",
+            "ユキマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ソノ",
+            "　",
+            "サルヲ",
+            "　",
+            "ツレテ",
+            "　",
+            "ユキマシタ",
+            "。"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 83400,
+        "sound_end": 90840
+    },
+    {
+        "id": "Saruto Samurai-f000024",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ヤガテ　サルハ、",
+        "sentence_with_furigana": "ヤガテ　サルハ、",
+        "word_base_list": [
+            "ヤガテ",
+            " ",
+            "サルハ",
+            "、"
+        ],
+        "word_list": [
+            "ヤガテ",
+            "　",
+            "サルハ",
+            "、"
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 90840,
+        "sound_end": 92353
+    },
+    {
+        "id": "Saruto Samurai-f000025",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ビヨウキモ　ナホツテ　五人ノ　サムライニ　ヨク　ナレマシタ。",
+        "sentence_with_furigana": "ビヨウキモ　ナホツテ　五人ノ　サムライニ　ヨク　ナレマシタ。",
+        "word_base_list": [
+            "ビヨウキモ",
+            " ",
+            "ナホツテ",
+            " ",
+            "5",
+            "人",
+            "の",
+            " ",
+            "サムライニ",
+            " ",
+            "ヨク",
+            " ",
+            "ナレマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ビヨウキモ",
+            "　",
+            "ナホツテ",
+            "　",
+            "五",
+            "人",
+            "ノ",
+            "　",
+            "サムライニ",
+            "　",
+            "ヨク",
+            "　",
+            "ナレマシタ",
+            "。"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 92353,
+        "sound_end": 102638
+    },
+    {
+        "id": "Saruto Samurai-f000026",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "トコロガ、",
+        "sentence_with_furigana": "トコロガ、",
+        "word_base_list": [
+            "トコロガ",
+            "、"
+        ],
+        "word_list": [
+            "トコロガ",
+            "、"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 102638,
+        "sound_end": 104160
+    },
+    {
+        "id": "Saruto Samurai-f000027",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "マイニチ　イツテモ　イツテモ　ヒロイ　ノハラデ　タベモノガ　ナイノデ　サルヲ　コロシテ　タベナクテハ　ナラナク　ナリマシタ。",
+        "sentence_with_furigana": "マイニチ　イツテモ　イツテモ　ヒロイ　ノハラデ　タベモノガ　ナイノデ　サルヲ　コロシテ　タベナクテハ　ナラナク　ナリマシタ。",
+        "word_base_list": [
+            "毎日",
+            " ",
+            "イツテモ",
+            " ",
+            "イツテモ",
+            " ",
+            "ヒロイ",
+            " ",
+            "ノハラデ",
+            " ",
+            "タベモノガ",
+            " ",
+            "ナイノデ",
+            " ",
+            "サルヲ",
+            " ",
+            "コロシテ",
+            " ",
+            "タベナクテハ",
+            " ",
+            "ナラナク",
+            " ",
+            "ナリマシタ",
+            "。"
+        ],
+        "word_list": [
+            "マイニチ",
+            "　",
+            "イツテモ",
+            "　",
+            "イツテモ",
+            "　",
+            "ヒロイ",
+            "　",
+            "ノハラデ",
+            "　",
+            "タベモノガ",
+            "　",
+            "ナイノデ",
+            "　",
+            "サルヲ",
+            "　",
+            "コロシテ",
+            "　",
+            "タベナクテハ",
+            "　",
+            "ナラナク",
+            "　",
+            "ナリマシタ",
+            "。"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 104160,
+        "sound_end": 115920
+    },
+    {
+        "id": "Saruto Samurai-f000028",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「オマヘ　キレ。",
+        "sentence_with_furigana": "「オマヘ　キレ。",
+        "word_base_list": [
+            "「",
+            "オマヘ",
+            " ",
+            "キレ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "オマヘ",
+            "　",
+            "キレ",
+            "。"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 118557,
+        "sound_end": 121382
+    },
+    {
+        "id": "Saruto Samurai-f000029",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "キリタイノダラウ。」",
+        "sentence_with_furigana": "キリタイノダラウ。」",
+        "word_base_list": [
+            "キリタイノダラウ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "キリタイノダラウ",
+            "。",
+            "」"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 121382,
+        "sound_end": 124680
+    },
+    {
+        "id": "Saruto Samurai-f000030",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「イヤ、",
+        "sentence_with_furigana": "「イヤ、",
+        "word_base_list": [
+            "「",
+            "いや",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "イヤ",
+            "、"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 124680,
+        "sound_end": 125880
+    },
+    {
+        "id": "Saruto Samurai-f000031",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "オマヘ　キレ。",
+        "sentence_with_furigana": "オマヘ　キレ。",
+        "word_base_list": [
+            "オマヘ",
+            " ",
+            "キレ",
+            "。"
+        ],
+        "word_list": [
+            "オマヘ",
+            "　",
+            "キレ",
+            "。"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 125880,
+        "sound_end": 128039
+    },
+    {
+        "id": "Saruto Samurai-f000032",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "オレノ　カタナハ　ハガ　コボレテ　ヰル。」",
+        "sentence_with_furigana": "オレノ　カタナハ　ハガ　コボレテ　ヰル。」",
+        "word_base_list": [
+            "オレノ",
+            " ",
+            "カタナハ",
+            " ",
+            "ハガ",
+            " ",
+            "コボレテ",
+            " ",
+            "ヰル",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "オレノ",
+            "　",
+            "カタナハ",
+            "　",
+            "ハガ",
+            "　",
+            "コボレテ",
+            "　",
+            "ヰル",
+            "。",
+            "」"
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 128039,
+        "sound_end": 133535
+    },
+    {
+        "id": "Saruto Samurai-f000033",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「オマヘハ　ドウダ、",
+        "sentence_with_furigana": "「オマヘハ　ドウダ、",
+        "word_base_list": [
+            "「",
+            "オマヘハ",
+            " ",
+            "ドウダ",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "オマヘハ",
+            "　",
+            "ドウダ",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 133535,
+        "sound_end": 135536
+    },
+    {
+        "id": "Saruto Samurai-f000034",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ウデガ　ムヅムヅシテルンダラウ。」",
+        "sentence_with_furigana": "ウデガ　ムヅムヅシテルンダラウ。」",
+        "word_base_list": [
+            "ウデガ",
+            " ",
+            "ムヅムヅシテルンダラウ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "ウデガ",
+            "　",
+            "ムヅムヅシテルンダラウ",
+            "。",
+            "」"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 135536,
+        "sound_end": 140068
+    },
+    {
+        "id": "Saruto Samurai-f000035",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「ウーン、",
+        "sentence_with_furigana": "「ウーン、",
+        "word_base_list": [
+            "「",
+            "ううん",
+            "、"
+        ],
+        "word_list": [
+            "「",
+            "ウーン",
+            "、"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 140068,
+        "sound_end": 141451
+    },
+    {
+        "id": "Saruto Samurai-f000036",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ダメダ、",
+        "sentence_with_furigana": "ダメダ、",
+        "word_base_list": [
+            "ダメダ",
+            "、"
+        ],
+        "word_list": [
+            "ダメダ",
+            "、"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 141451,
+        "sound_end": 143084
+    },
+    {
+        "id": "Saruto Samurai-f000037",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "オナカヾ　イタイカラ。」",
+        "sentence_with_furigana": "オナカヾ　イタイカラ。」",
+        "word_base_list": [
+            "オナカヾ",
+            " ",
+            "イタイカラ",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "オナカヾ",
+            "　",
+            "イタイカラ",
+            "。",
+            "」"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 143084,
+        "sound_end": 147807
+    },
+    {
+        "id": "Saruto Samurai-f000038",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "ソノ　ウチニ　ノハラノ　ムカフニ　ムラガ　ミエテ　キマシタ。",
+        "sentence_with_furigana": "ソノ　ウチニ　ノハラノ　ムカフニ　ムラガ　ミエテ　キマシタ。",
+        "word_base_list": [
+            "其の",
+            " ",
+            "ウチニ",
+            " ",
+            "ノハラノ",
+            " ",
+            "ムカフニ",
+            " ",
+            "ムラガ",
+            " ",
+            "ミエテ",
+            " ",
+            "キマシタ",
+            "。"
+        ],
+        "word_list": [
+            "ソノ",
+            "　",
+            "ウチニ",
+            "　",
+            "ノハラノ",
+            "　",
+            "ムカフニ",
+            "　",
+            "ムラガ",
+            "　",
+            "ミエテ",
+            "　",
+            "キマシタ",
+            "。"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 147807,
+        "sound_end": 155222
+    },
+    {
+        "id": "Saruto Samurai-f000039",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "「アツ　ムラダ。",
+        "sentence_with_furigana": "「アツ　ムラダ。",
+        "word_base_list": [
+            "「",
+            "アツ",
+            " ",
+            "ムラダ",
+            "。"
+        ],
+        "word_list": [
+            "「",
+            "アツ",
+            "　",
+            "ムラダ",
+            "。"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 155222,
+        "sound_end": 158240
+    },
+    {
+        "id": "Saruto Samurai-f000040",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "アソコヘ　ユケバ　タベモノハ　アル。",
+        "sentence_with_furigana": "アソコヘ　ユケバ　タベモノハ　アル。",
+        "word_base_list": [
+            "アソコヘ",
+            " ",
+            "ユケバ",
+            " ",
+            "タベモノハ",
+            " ",
+            "アル",
+            "。"
+        ],
+        "word_list": [
+            "アソコヘ",
+            "　",
+            "ユケバ",
+            "　",
+            "タベモノハ",
+            "　",
+            "アル",
+            "。"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 158240,
+        "sound_end": 162400
+    },
+    {
+        "id": "Saruto Samurai-f000041",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "サルハ　コロサナクテ　ヨイ。」",
+        "sentence_with_furigana": "サルハ　コロサナクテ　ヨイ。」",
+        "word_base_list": [
+            "サルハ",
+            " ",
+            "コロサナクテ",
+            " ",
+            "良い",
+            "。",
+            "」"
+        ],
+        "word_list": [
+            "サルハ",
+            "　",
+            "コロサナクテ",
+            "　",
+            "ヨイ",
+            "。",
+            "」"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 162400,
+        "sound_end": 165760
+    },
+    {
+        "id": "Saruto Samurai-f000042",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "五ニンノ　サムライハ　サルヲ　キラナクテ　ヨカツタ　コトヲ、",
+        "sentence_with_furigana": "五ニンノ　サムライハ　サルヲ　キラナクテ　ヨカツタ　コトヲ、",
+        "word_base_list": [
+            "5",
+            "ニンノ",
+            " ",
+            "サムライハ",
+            " ",
+            "サルヲ",
+            " ",
+            "キラナクテ",
+            " ",
+            "ヨカツタ",
+            " ",
+            "コトヲ",
+            "、"
+        ],
+        "word_list": [
+            "五",
+            "ニンノ",
+            "　",
+            "サムライハ",
+            "　",
+            "サルヲ",
+            "　",
+            "キラナクテ",
+            "　",
+            "ヨカツタ",
+            "　",
+            "コトヲ",
+            "、"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 168478,
+        "sound_end": 174010
+    },
+    {
+        "id": "Saruto Samurai-f000043",
+        "author_japanese": "新美 南吉",
+        "deck_name": "Saruto Samurai",
+        "deck_name_japanese": "サルト サムライ",
+        "sentence": "メニ　ナミダヲ　タメテ　ヨロコビマシタ。",
+        "sentence_with_furigana": "メニ　ナミダヲ　タメテ　ヨロコビマシタ。",
+        "word_base_list": [
+            "メニ",
+            " ",
+            "ナミダヲ",
+            " ",
+            "タメテ",
+            " ",
+            "ヨロコビマシタ",
+            "。"
+        ],
+        "word_list": [
+            "メニ",
+            "　",
+            "ナミダヲ",
+            "　",
+            "タメテ",
+            "　",
+            "ヨロコビマシタ",
+            "。"
+        ],
+        "sound": "f000043.mp3",
+        "sound_begin": 174010,
+        "sound_end": 178240
+    }
+]

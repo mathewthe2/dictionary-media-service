@@ -1,0 +1,989 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "巖谷小波　作",
+        "sentence_with_furigana": "巖谷小波　作",
+        "audio_begin": 3028,
+        "audio_end": 6200
+    },
+    {
+        "id": "f000002",
+        "sentence": "三角と四角",
+        "sentence_with_furigana": "三角と四角",
+        "audio_begin": 6200,
+        "audio_end": 10600
+    },
+    {
+        "id": "f000003",
+        "sentence": "数学の中に幾何というものがある。",
+        "sentence_with_furigana": "数学の 中[うち]に幾何というものがある。",
+        "audio_begin": 10600,
+        "audio_end": 13600
+    },
+    {
+        "id": "f000004",
+        "sentence": "幾何を学ぶにわ、",
+        "sentence_with_furigana": "幾何を学ぶにわ、",
+        "audio_begin": 13600,
+        "audio_end": 16239
+    },
+    {
+        "id": "f000005",
+        "sentence": "是非とも定木が入る。",
+        "sentence_with_furigana": "是非とも 定木[じょうぎ]が入る。",
+        "audio_begin": 16239,
+        "audio_end": 19040
+    },
+    {
+        "id": "f000006",
+        "sentence": "その定木の中に、",
+        "sentence_with_furigana": "その定木の中に、",
+        "audio_begin": 19040,
+        "audio_end": 20600
+    },
+    {
+        "id": "f000007",
+        "sentence": "三角定木というのがある。",
+        "sentence_with_furigana": "三角定木というのがある。",
+        "audio_begin": 20600,
+        "audio_end": 22360
+    },
+    {
+        "id": "f000008",
+        "sentence": "──これわ大方諸君も御存じでしょう。",
+        "sentence_with_furigana": "──これわ大方 諸君[みなさん]も御存じでしょう。",
+        "audio_begin": 22360,
+        "audio_end": 27967
+    },
+    {
+        "id": "f000009",
+        "sentence": "ところがこの三角定木、",
+        "sentence_with_furigana": "ところがこの三角定木、",
+        "audio_begin": 27967,
+        "audio_end": 30560
+    },
+    {
+        "id": "f000010",
+        "sentence": "自分の体にわ、",
+        "sentence_with_furigana": "自分の体にわ、",
+        "audio_begin": 30560,
+        "audio_end": 32159
+    },
+    {
+        "id": "f000011",
+        "sentence": "三方に尖った角のあるのを、",
+        "sentence_with_furigana": "三方に 尖[とが]った角のあるのを、",
+        "audio_begin": 32159,
+        "audio_end": 34480
+    },
+    {
+        "id": "f000012",
+        "sentence": "大層自慢に致し、",
+        "sentence_with_furigana": "大層自慢に致し、",
+        "audio_begin": 34480,
+        "audio_end": 37280
+    },
+    {
+        "id": "f000013",
+        "sentence": "世間に品も多いが、",
+        "sentence_with_furigana": "世間に品も多いが、",
+        "audio_begin": 37280,
+        "audio_end": 39320
+    },
+    {
+        "id": "f000014",
+        "sentence": "乃公ほど角のあるものわあるまい、",
+        "sentence_with_furigana": "乃公[おれ]ほど角のあるものわあるまい、",
+        "audio_begin": 39320,
+        "audio_end": 41950
+    },
+    {
+        "id": "f000015",
+        "sentence": "角にかけてわ乃公が一番だと、",
+        "sentence_with_furigana": "角にかけてわ乃公が一番だと、",
+        "audio_begin": 41950,
+        "audio_end": 45008
+    },
+    {
+        "id": "f000016",
+        "sentence": "たった三つよりない角を、",
+        "sentence_with_furigana": "たった三つよりない角を、",
+        "audio_begin": 45008,
+        "audio_end": 47520
+    },
+    {
+        "id": "f000017",
+        "sentence": "酷く鼻にかけておりました。",
+        "sentence_with_furigana": "酷[ひど]く鼻にかけておりました。",
+        "audio_begin": 47520,
+        "audio_end": 50730
+    },
+    {
+        "id": "f000018",
+        "sentence": "すると或る日、",
+        "sentence_with_furigana": "すると 或[あ]る日、",
+        "audio_begin": 50730,
+        "audio_end": 52974
+    },
+    {
+        "id": "f000019",
+        "sentence": "同じ机の上にあった鉛筆が来ていうにわ、",
+        "sentence_with_furigana": "同じ机の上にあった鉛筆が来ていうにわ、",
+        "audio_begin": 52974,
+        "audio_end": 57440
+    },
+    {
+        "id": "f000020",
+        "sentence": "（筆）三角さん三角さん、",
+        "sentence_with_furigana": "（筆）三角さん三角さん、",
+        "audio_begin": 57440,
+        "audio_end": 59640
+    },
+    {
+        "id": "f000021",
+        "sentence": "お前わ平常から大層その角を自慢しているし、",
+        "sentence_with_furigana": "お前わ 平常[ふだん]から大層その角を自慢しているし、",
+        "audio_begin": 59640,
+        "audio_end": 63360
+    },
+    {
+        "id": "f000022",
+        "sentence": "私らもまたお前ほど角の多いものわないと思っていたが、",
+        "sentence_with_furigana": "私[わし]らもまたお前ほど角の多いものわないと思っていたが、",
+        "audio_begin": 63360,
+        "audio_end": 67525
+    },
+    {
+        "id": "f000023",
+        "sentence": "この間来た画板を見たかイ。",
+        "sentence_with_furigana": "この間来た 画板[がばん]を見たかイ。",
+        "audio_begin": 67525,
+        "audio_end": 70400
+    },
+    {
+        "id": "f000024",
+        "sentence": "あれわお前よりまた角が多いぜ。",
+        "sentence_with_furigana": "あれわお前よりまた角が多いぜ。",
+        "audio_begin": 70400,
+        "audio_end": 72960
+    },
+    {
+        "id": "f000025",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 72960,
+        "audio_end": 74320
+    },
+    {
+        "id": "f000026",
+        "sentence": "いいますから、",
+        "sentence_with_furigana": "いいますから、",
+        "audio_begin": 74320,
+        "audio_end": 75600
+    },
+    {
+        "id": "f000027",
+        "sentence": "三角わ少し不平の顔色で、",
+        "sentence_with_furigana": "三角わ少し不平の顔色で、",
+        "audio_begin": 75600,
+        "audio_end": 79040
+    },
+    {
+        "id": "f000028",
+        "sentence": "（三）ナニ僕より角の多い奴がおる。",
+        "sentence_with_furigana": "（三）ナニ僕より角の多い 奴[やつ]がおる。",
+        "audio_begin": 79040,
+        "audio_end": 83280
+    },
+    {
+        "id": "f000029",
+        "sentence": "馬鹿いい給うな。",
+        "sentence_with_furigana": "馬鹿いい 給[たも]うな。",
+        "audio_begin": 83280,
+        "audio_end": 85560
+    },
+    {
+        "id": "f000030",
+        "sentence": "凡そ世界わ広しといえども、",
+        "sentence_with_furigana": "凡[およ]そ世界わ広しといえども、",
+        "audio_begin": 85560,
+        "audio_end": 87720
+    },
+    {
+        "id": "f000031",
+        "sentence": "僕より余計に角を持た奴わないはずだ。",
+        "sentence_with_furigana": "僕より余計に角を 持[もっ]た奴わないはずだ。",
+        "audio_begin": 87720,
+        "audio_end": 91880
+    },
+    {
+        "id": "f000032",
+        "sentence": "（筆）ところがあるから仕方がない。",
+        "sentence_with_furigana": "（筆）ところがあるから仕方がない。",
+        "audio_begin": 91880,
+        "audio_end": 95171
+    },
+    {
+        "id": "f000033",
+        "sentence": "（三）ナニそれわ君達の眼が如何かしてるのだ。",
+        "sentence_with_furigana": "（三）ナニそれわ君 達[ら]の眼が 如何[どう]かしてるのだ。",
+        "audio_begin": 95171,
+        "audio_end": 99413
+    },
+    {
+        "id": "f000034",
+        "sentence": "（筆）ナニ如何も仕てるものか、",
+        "sentence_with_furigana": "（筆）ナニ 如何[どう]も仕てるものか、",
+        "audio_begin": 99413,
+        "audio_end": 102320
+    },
+    {
+        "id": "f000035",
+        "sentence": "嘘だと思うなら行て見給え！",
+        "sentence_with_furigana": "嘘[うそ]だと思うなら 行[いっ]て見給え！",
+        "audio_begin": 102320,
+        "audio_end": 105320
+    },
+    {
+        "id": "f000036",
+        "sentence": "（三）そんなら行て見よう。",
+        "sentence_with_furigana": "（三）そんなら 行[いっ]て見よう。",
+        "audio_begin": 105320,
+        "audio_end": 107480
+    },
+    {
+        "id": "f000037",
+        "sentence": "嘘だったら承知しないよ。",
+        "sentence_with_furigana": "嘘だったら承知しないよ。",
+        "audio_begin": 107480,
+        "audio_end": 109960
+    },
+    {
+        "id": "f000038",
+        "sentence": "（筆）いいとも嘘なら首でもやるワ。",
+        "sentence_with_furigana": "（筆）いいとも嘘なら首でもやるワ。",
+        "audio_begin": 109960,
+        "audio_end": 112800
+    },
+    {
+        "id": "f000039",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 114600,
+        "audio_end": 115505
+    },
+    {
+        "id": "f000040",
+        "sentence": "これから連れ立って行て見ますと、",
+        "sentence_with_furigana": "これから連れ立って行て見ますと、",
+        "audio_begin": 115505,
+        "audio_end": 119680
+    },
+    {
+        "id": "f000041",
+        "sentence": "なるほど画板わ真ッ四角で、",
+        "sentence_with_furigana": "なるほど画板わ真ッ四角で、",
+        "audio_begin": 119680,
+        "audio_end": 121360
+    },
+    {
+        "id": "f000042",
+        "sentence": "自分よりわ一角多く、",
+        "sentence_with_furigana": "自分よりわ一角多く、",
+        "audio_begin": 121360,
+        "audio_end": 123680
+    },
+    {
+        "id": "f000043",
+        "sentence": "しかも今まで自分を褒めていた連中が、",
+        "sentence_with_furigana": "しかも今まで自分を 褒[ほ]めていた連中が、",
+        "audio_begin": 123680,
+        "audio_end": 127200
+    },
+    {
+        "id": "f000044",
+        "sentence": "今でわみんな画板の方ばかり向いて、",
+        "sentence_with_furigana": "今でわみんな画板の方ばかり向いて、",
+        "audio_begin": 127200,
+        "audio_end": 130199
+    },
+    {
+        "id": "f000045",
+        "sentence": "頻りにその角を褒めている様子です。",
+        "sentence_with_furigana": "頻[しき]りにその角を褒めている様子です。",
+        "audio_begin": 130199,
+        "audio_end": 134433
+    },
+    {
+        "id": "f000046",
+        "sentence": "（筆）どうだイ嘘じゃあるまい。",
+        "sentence_with_furigana": "（筆）どうだイ嘘じゃあるまい。",
+        "audio_begin": 134433,
+        "audio_end": 137442
+    },
+    {
+        "id": "f000047",
+        "sentence": "（三）なるほど此奴わ恐れ入た。",
+        "sentence_with_furigana": "（三）なるほど 此奴[こいつ]わ恐れ 入[いっ]た。",
+        "audio_begin": 137442,
+        "audio_end": 141561
+    },
+    {
+        "id": "f000048",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 141561,
+        "audio_end": 142480
+    },
+    {
+        "id": "f000049",
+        "sentence": "さすがの三角定木も、",
+        "sentence_with_furigana": "さすがの三角定木も、",
+        "audio_begin": 142480,
+        "audio_end": 144200
+    },
+    {
+        "id": "f000050",
+        "sentence": "こうなると頭を掻くより他わありません。",
+        "sentence_with_furigana": "こうなると頭を 掻[か]くより 他[ほか]わありません。",
+        "audio_begin": 144200,
+        "audio_end": 148160
+    },
+    {
+        "id": "f000051",
+        "sentence": "大いに面目を失いましたが、",
+        "sentence_with_furigana": "大いに面目を失いましたが、",
+        "audio_begin": 148160,
+        "audio_end": 150760
+    },
+    {
+        "id": "f000052",
+        "sentence": "しかし心の中でわ、",
+        "sentence_with_furigana": "しかし心の 中[うち]でわ、",
+        "audio_begin": 150760,
+        "audio_end": 152680
+    },
+    {
+        "id": "f000053",
+        "sentence": "まだ負惜しみという奴があって、",
+        "sentence_with_furigana": "まだ負惜しみという奴があって、",
+        "audio_begin": 152680,
+        "audio_end": 155800
+    },
+    {
+        "id": "f000054",
+        "sentence": "おのれ生意気な画板め、",
+        "sentence_with_furigana": "おのれ生意気な画板め、",
+        "audio_begin": 155800,
+        "audio_end": 157760
+    },
+    {
+        "id": "f000055",
+        "sentence": "余計な角を持て来やがって、",
+        "sentence_with_furigana": "余計な角を 持[もっ]て来やがって、",
+        "audio_begin": 157760,
+        "audio_end": 160560
+    },
+    {
+        "id": "f000056",
+        "sentence": "よくも乃公に赤恥をかかせやがったな。",
+        "sentence_with_furigana": "よくも 乃公[おれ]に赤恥をかかせやがったな。",
+        "audio_begin": 160560,
+        "audio_end": 163855
+    },
+    {
+        "id": "f000057",
+        "sentence": "どうするか覚えていろと、",
+        "sentence_with_furigana": "どうするか覚えていろと、",
+        "audio_begin": 163855,
+        "audio_end": 167400
+    },
+    {
+        "id": "f000058",
+        "sentence": "果わ悔しまぎれに良くない了簡を起しました。",
+        "sentence_with_furigana": "果[はて]わ 悔[くや]しまぎれに良くない 了簡[りょうけん]を起しました。",
+        "audio_begin": 167400,
+        "audio_end": 172120
+    },
+    {
+        "id": "f000059",
+        "sentence": "で、",
+        "sentence_with_furigana": "で、",
+        "audio_begin": 172120,
+        "audio_end": 172840
+    },
+    {
+        "id": "f000060",
+        "sentence": "そのまま帰ると、",
+        "sentence_with_furigana": "そのまま帰ると、",
+        "audio_begin": 172840,
+        "audio_end": 174240
+    },
+    {
+        "id": "f000061",
+        "sentence": "直ぐに近所の鋏の処え参り、",
+        "sentence_with_furigana": "直ぐに近所の 鋏[はさみ]の 処[ところ]え参り、",
+        "audio_begin": 174240,
+        "audio_end": 177962
+    },
+    {
+        "id": "f000062",
+        "sentence": "（三）鋏君、",
+        "sentence_with_furigana": "（三）鋏君、",
+        "audio_begin": 177962,
+        "audio_end": 180040
+    },
+    {
+        "id": "f000063",
+        "sentence": "申兼たが今夜一ト晩、",
+        "sentence_with_furigana": "申兼[もうしかね]たが今夜一ト晩、",
+        "audio_begin": 180040,
+        "audio_end": 182320
+    },
+    {
+        "id": "f000064",
+        "sentence": "君の体を貸してくれまいか。",
+        "sentence_with_furigana": "君の体を貸してくれまいか。",
+        "audio_begin": 182320,
+        "audio_end": 185386
+    },
+    {
+        "id": "f000065",
+        "sentence": "鋏わこれを聞いて、",
+        "sentence_with_furigana": "鋏わこれを聞いて、",
+        "audio_begin": 185386,
+        "audio_end": 187852
+    },
+    {
+        "id": "f000066",
+        "sentence": "（鋏）なるほど、",
+        "sentence_with_furigana": "（鋏）なるほど、",
+        "audio_begin": 187852,
+        "audio_end": 189840
+    },
+    {
+        "id": "f000067",
+        "sentence": "次第によってわ貸すまいものでもないが、",
+        "sentence_with_furigana": "次第によってわ貸すまいものでもないが、",
+        "audio_begin": 189840,
+        "audio_end": 193600
+    },
+    {
+        "id": "f000068",
+        "sentence": "一体何を切るのだ。",
+        "sentence_with_furigana": "一体何を切るのだ。",
+        "audio_begin": 193600,
+        "audio_end": 196440
+    },
+    {
+        "id": "f000069",
+        "sentence": "（三）ちっと硬いものを切りたいのだが、",
+        "sentence_with_furigana": "（三）ちっと 硬[かた]いものを切りたいのだが、",
+        "audio_begin": 196440,
+        "audio_end": 199680
+    },
+    {
+        "id": "f000070",
+        "sentence": "よく切れるかイ。",
+        "sentence_with_furigana": "よく切れるかイ。",
+        "audio_begin": 199680,
+        "audio_end": 200720
+    },
+    {
+        "id": "f000071",
+        "sentence": "（鋏）大抵なものなら切て見せるが、",
+        "sentence_with_furigana": "（鋏）大抵なものなら 切[きっ]て見せるが、",
+        "audio_begin": 202420,
+        "audio_end": 205240
+    },
+    {
+        "id": "f000072",
+        "sentence": "それでも六かしいと思うならまア一遍磨いで行くさ。",
+        "sentence_with_furigana": "それでも 六[むず]かしいと思うならまア一遍 磨[と]いで行くさ。",
+        "audio_begin": 205240,
+        "audio_end": 211231
+    },
+    {
+        "id": "f000073",
+        "sentence": "（三）そうか、",
+        "sentence_with_furigana": "（三）そうか、",
+        "audio_begin": 211231,
+        "audio_end": 212360
+    },
+    {
+        "id": "f000074",
+        "sentence": "そんなら磨がしてくれたまえ。",
+        "sentence_with_furigana": "そんなら磨がしてくれたまえ。",
+        "audio_begin": 212360,
+        "audio_end": 214400
+    },
+    {
+        "id": "f000075",
+        "sentence": "痛かろうけども頼まれたが因果だ、",
+        "sentence_with_furigana": "痛かろうけども頼まれたが因果だ、",
+        "audio_begin": 214400,
+        "audio_end": 217760
+    },
+    {
+        "id": "f000076",
+        "sentence": "ちっとの間辛抱頼む。",
+        "sentence_with_furigana": "ちっとの間辛抱頼む。",
+        "audio_begin": 217760,
+        "audio_end": 220850
+    },
+    {
+        "id": "f000077",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 220850,
+        "audio_end": 221852
+    },
+    {
+        "id": "f000078",
+        "sentence": "これから三角定木わ、",
+        "sentence_with_furigana": "これから三角定木わ、",
+        "audio_begin": 221852,
+        "audio_end": 223476
+    },
+    {
+        "id": "f000079",
+        "sentence": "件んの鋏をば磨ぎ立てまして、",
+        "sentence_with_furigana": "件[くだ]んの鋏をば磨ぎ立てまして、",
+        "audio_begin": 223476,
+        "audio_end": 226160
+    },
+    {
+        "id": "f000080",
+        "sentence": "もうこれならば大丈夫と、",
+        "sentence_with_furigana": "もうこれならば大丈夫と、",
+        "audio_begin": 226160,
+        "audio_end": 228520
+    },
+    {
+        "id": "f000081",
+        "sentence": "その日の暮れるのを、",
+        "sentence_with_furigana": "その日の暮れるのを、",
+        "audio_begin": 228520,
+        "audio_end": 230400
+    },
+    {
+        "id": "f000082",
+        "sentence": "今か今かと待ちかまえておりました。",
+        "sentence_with_furigana": "今か今かと待ちかまえておりました。",
+        "audio_begin": 230400,
+        "audio_end": 236177
+    },
+    {
+        "id": "f000083",
+        "sentence": "その中に日も暮れて、",
+        "sentence_with_furigana": "その 中[うち]に日も暮れて、",
+        "audio_begin": 236177,
+        "audio_end": 238717
+    },
+    {
+        "id": "f000084",
+        "sentence": "夜も更けて、",
+        "sentence_with_furigana": "夜も 更[ふ]けて、",
+        "audio_begin": 238717,
+        "audio_end": 240520
+    },
+    {
+        "id": "f000085",
+        "sentence": "四隣も寝静まったと思う頃、",
+        "sentence_with_furigana": "四隣[あたり]も寝静まったと思う頃、",
+        "audio_begin": 240520,
+        "audio_end": 243560
+    },
+    {
+        "id": "f000086",
+        "sentence": "三角定木わムクムクと床を出て例の鋏をば小脇にかかえ、",
+        "sentence_with_furigana": "三角定木わムクムクと床を出て例の鋏をば 小脇[こわき]にかかえ、",
+        "audio_begin": 243560,
+        "audio_end": 249800
+    },
+    {
+        "id": "f000087",
+        "sentence": "さし足ぬき足で、",
+        "sentence_with_furigana": "さし足ぬき足で、",
+        "audio_begin": 249800,
+        "audio_end": 251640
+    },
+    {
+        "id": "f000088",
+        "sentence": "彼の画板の寝ている処え、",
+        "sentence_with_furigana": "彼[か]の画板の寝ている処え、",
+        "audio_begin": 251640,
+        "audio_end": 254160
+    },
+    {
+        "id": "f000089",
+        "sentence": "そっと忍んで参りました。",
+        "sentence_with_furigana": "そっと忍んで参りました。",
+        "audio_begin": 254160,
+        "audio_end": 257920
+    },
+    {
+        "id": "f000090",
+        "sentence": "見ると画板わ、",
+        "sentence_with_furigana": "見ると画板わ、",
+        "audio_begin": 257920,
+        "audio_end": 260040
+    },
+    {
+        "id": "f000091",
+        "sentence": "前後も知らぬ高鼾で、",
+        "sentence_with_furigana": "前後も知らぬ 高鼾[たかいびき]で、",
+        "audio_begin": 260040,
+        "audio_end": 262800
+    },
+    {
+        "id": "f000092",
+        "sentence": "さも心持快さそうに寝ておりますから、",
+        "sentence_with_furigana": "さも心持 快[よ]さそうに寝ておりますから、",
+        "audio_begin": 262800,
+        "audio_end": 266536
+    },
+    {
+        "id": "f000093",
+        "sentence": "〆めた！",
+        "sentence_with_furigana": "〆[し]めた！",
+        "audio_begin": 266536,
+        "audio_end": 268400
+    },
+    {
+        "id": "f000094",
+        "sentence": "おのれ画板め、",
+        "sentence_with_furigana": "おのれ画板め、",
+        "audio_begin": 268400,
+        "audio_end": 270480
+    },
+    {
+        "id": "f000095",
+        "sentence": "今乃公が貴様の角を、",
+        "sentence_with_furigana": "今 乃公[おれ]が貴様の角を、",
+        "audio_begin": 270480,
+        "audio_end": 272600
+    },
+    {
+        "id": "f000096",
+        "sentence": "残らず取り払ってやるからにわ、",
+        "sentence_with_furigana": "残らず取り払ってやるからにわ、",
+        "audio_begin": 272600,
+        "audio_end": 275840
+    },
+    {
+        "id": "f000097",
+        "sentence": "もう明日からわ角なしだ、",
+        "sentence_with_furigana": "もう 明日[あした]からわ角なしだ、",
+        "audio_begin": 275840,
+        "audio_end": 278572
+    },
+    {
+        "id": "f000098",
+        "sentence": "いくら威張っても追い付かんぞと、",
+        "sentence_with_furigana": "いくら威張っても追い付かんぞと、",
+        "audio_begin": 278572,
+        "audio_end": 282080
+    },
+    {
+        "id": "f000099",
+        "sentence": "腹の中で散々悪態を吐きながら、",
+        "sentence_with_furigana": "腹の中で散々悪態を 吐[つ]きながら、",
+        "audio_begin": 282080,
+        "audio_end": 285160
+    },
+    {
+        "id": "f000100",
+        "sentence": "突然チョキリ！",
+        "sentence_with_furigana": "突然チョキリ！",
+        "audio_begin": 285160,
+        "audio_end": 287760
+    },
+    {
+        "id": "f000101",
+        "sentence": "一角切て落しましたが、",
+        "sentence_with_furigana": "一角 切[きっ]て落しましたが、",
+        "audio_begin": 287760,
+        "audio_end": 289920
+    },
+    {
+        "id": "f000102",
+        "sentence": "まだ気が付かない様子ですから、",
+        "sentence_with_furigana": "まだ気が付かない様子ですから、",
+        "audio_begin": 289920,
+        "audio_end": 292200
+    },
+    {
+        "id": "f000103",
+        "sentence": "また一角をチョキリ！",
+        "sentence_with_furigana": "また一角をチョキリ！",
+        "audio_begin": 292200,
+        "audio_end": 295560
+    },
+    {
+        "id": "f000104",
+        "sentence": "それでも眼が醒めないから、",
+        "sentence_with_furigana": "それでも 眼[め]が 醒[さ]めないから、",
+        "audio_begin": 295560,
+        "audio_end": 298116
+    },
+    {
+        "id": "f000105",
+        "sentence": "こりゃよくよく寝坊だわイ、",
+        "sentence_with_furigana": "こりゃよくよく寝坊だわイ、",
+        "audio_begin": 298116,
+        "audio_end": 301150
+    },
+    {
+        "id": "f000106",
+        "sentence": "といいながら、",
+        "sentence_with_furigana": "といいながら、",
+        "audio_begin": 301150,
+        "audio_end": 303073
+    },
+    {
+        "id": "f000107",
+        "sentence": "チョキリ！",
+        "sentence_with_furigana": "チョキリ！",
+        "audio_begin": 303073,
+        "audio_end": 303998
+    },
+    {
+        "id": "f000108",
+        "sentence": "チョキリ！",
+        "sentence_with_furigana": "チョキリ！",
+        "audio_begin": 303998,
+        "audio_end": 305299
+    },
+    {
+        "id": "f000109",
+        "sentence": "とうとう四角とも切り落し、",
+        "sentence_with_furigana": "とうとう四角とも切り落し、",
+        "audio_begin": 305299,
+        "audio_end": 308370
+    },
+    {
+        "id": "f000110",
+        "sentence": "まずこれで溜飲が下がった。",
+        "sentence_with_furigana": "まずこれで 溜飲[りゅういん]が下がった。",
+        "audio_begin": 308370,
+        "audio_end": 311835
+    },
+    {
+        "id": "f000111",
+        "sentence": "どりゃ帰って寝よう、",
+        "sentence_with_furigana": "どりゃ帰って寝よう、",
+        "audio_begin": 311835,
+        "audio_end": 314621
+    },
+    {
+        "id": "f000112",
+        "sentence": "鋏さん大きに御苦労だったと、",
+        "sentence_with_furigana": "鋏さん大きに御苦労だったと、",
+        "audio_begin": 314621,
+        "audio_end": 319880
+    },
+    {
+        "id": "f000113",
+        "sentence": "急いでわが家え帰って、",
+        "sentence_with_furigana": "急いでわが 家[や]え帰って、",
+        "audio_begin": 319880,
+        "audio_end": 321880
+    },
+    {
+        "id": "f000114",
+        "sentence": "そのまま寝てしまいました。",
+        "sentence_with_furigana": "そのまま寝てしまいました。",
+        "audio_begin": 321880,
+        "audio_end": 323480
+    },
+    {
+        "id": "f000115",
+        "sentence": "さてその翌朝、",
+        "sentence_with_furigana": "さてその翌朝、",
+        "audio_begin": 326480,
+        "audio_end": 329440
+    },
+    {
+        "id": "f000116",
+        "sentence": "何喰わぬ顔で床を出て見ますと、",
+        "sentence_with_furigana": "何 喰[く]わぬ顔で床を出て見ますと、",
+        "audio_begin": 329440,
+        "audio_end": 332080
+    },
+    {
+        "id": "f000117",
+        "sentence": "世間でわ大評判で、",
+        "sentence_with_furigana": "世間でわ大評判で、",
+        "audio_begin": 332080,
+        "audio_end": 334120
+    },
+    {
+        "id": "f000118",
+        "sentence": "逢う者ごとに、",
+        "sentence_with_furigana": "逢[あ]う者ごとに、",
+        "audio_begin": 334120,
+        "audio_end": 335424
+    },
+    {
+        "id": "f000119",
+        "sentence": "「画板わえらいえらい。」",
+        "sentence_with_furigana": "「画板わえらいえらい。」",
+        "audio_begin": 335424,
+        "audio_end": 337841
+    },
+    {
+        "id": "f000120",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 337841,
+        "audio_end": 338480
+    },
+    {
+        "id": "f000121",
+        "sentence": "頻りに画板を褒め立てますから、",
+        "sentence_with_furigana": "頻[しき]りに画板を褒め立てますから、",
+        "audio_begin": 338480,
+        "audio_end": 340720
+    },
+    {
+        "id": "f000122",
+        "sentence": "如何した事かと行て見ますと、",
+        "sentence_with_furigana": "如何[どう]した事かと 行[いっ]て見ますと、",
+        "audio_begin": 340720,
+        "audio_end": 343125
+    },
+    {
+        "id": "f000123",
+        "sentence": "こわいかに、",
+        "sentence_with_furigana": "こわいかに、",
+        "audio_begin": 343125,
+        "audio_end": 345036
+    },
+    {
+        "id": "f000124",
+        "sentence": "昨日まで四角であった画板わ、",
+        "sentence_with_furigana": "昨日まで四角であった画板わ、",
+        "audio_begin": 345036,
+        "audio_end": 347560
+    },
+    {
+        "id": "f000125",
+        "sentence": "今朝わ八角に成って、",
+        "sentence_with_furigana": "今朝[けさ]わ八角に成って、",
+        "audio_begin": 347560,
+        "audio_end": 349640
+    },
+    {
+        "id": "f000126",
+        "sentence": "意気揚々と歩行いております。",
+        "sentence_with_furigana": "意気揚々と 歩行[ある]いております。",
+        "audio_begin": 349640,
+        "audio_end": 352410
+    },
+    {
+        "id": "f000127",
+        "sentence": "四角の角々を切り落せば、",
+        "sentence_with_furigana": "四角の角々を切り落せば、",
+        "audio_begin": 352410,
+        "audio_end": 355400
+    },
+    {
+        "id": "f000128",
+        "sentence": "角の数が倍になって、",
+        "sentence_with_furigana": "角の数が倍になって、",
+        "audio_begin": 355400,
+        "audio_end": 357440
+    },
+    {
+        "id": "f000129",
+        "sentence": "八角に成るのわ当然、",
+        "sentence_with_furigana": "八角に成るのわ 当然[あたりまえ]、",
+        "audio_begin": 357440,
+        "audio_end": 359784
+    },
+    {
+        "id": "f000130",
+        "sentence": "しかもそれわ自分の所業であるのに、",
+        "sentence_with_furigana": "しかもそれわ自分の 所業[しわざ]であるのに、",
+        "audio_begin": 359784,
+        "audio_end": 363320
+    },
+    {
+        "id": "f000131",
+        "sentence": "そうとわ心付かぬ三角定木、",
+        "sentence_with_furigana": "そうとわ心付かぬ三角定木、",
+        "audio_begin": 363320,
+        "audio_end": 366040
+    },
+    {
+        "id": "f000132",
+        "sentence": "驚いたの驚かないの！",
+        "sentence_with_furigana": "驚いたの驚かないの！",
+        "audio_begin": 366040,
+        "audio_end": 368200
+    },
+    {
+        "id": "f000133",
+        "sentence": "（三）ヒヤーこりゃ如何じゃ。",
+        "sentence_with_furigana": "（三）ヒヤーこりゃ 如何[どう]じゃ。",
+        "audio_begin": 368200,
+        "audio_end": 371400
+    },
+    {
+        "id": "f000134",
+        "sentence": "アノ四角奴、",
+        "sentence_with_furigana": "アノ四角 奴[め]、",
+        "audio_begin": 371400,
+        "audio_end": 372600
+    },
+    {
+        "id": "f000135",
+        "sentence": "一夜の中に八角に成りよった。",
+        "sentence_with_furigana": "一夜の 中[うち]に八角に成りよった。",
+        "audio_begin": 372600,
+        "audio_end": 375240
+    },
+    {
+        "id": "f000136",
+        "sentence": "この分でわまた明日わ、",
+        "sentence_with_furigana": "この分でわまた明日わ、",
+        "audio_begin": 375240,
+        "audio_end": 377320
+    },
+    {
+        "id": "f000137",
+        "sentence": "十角や二十角にも成るだろう、",
+        "sentence_with_furigana": "十角や二十角にも成るだろう、",
+        "audio_begin": 377320,
+        "audio_end": 379800
+    },
+    {
+        "id": "f000138",
+        "sentence": "こりゃ所詮叶わぬわイ。",
+        "sentence_with_furigana": "こりゃ 所詮[しょせん] 叶[かな]わぬわイ。",
+        "audio_begin": 379800,
+        "audio_end": 383164
+    },
+    {
+        "id": "f000139",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "audio_begin": 383164,
+        "audio_end": 384237
+    },
+    {
+        "id": "f000140",
+        "sentence": "とうとう兜を脱いで降参しましたとわ、",
+        "sentence_with_furigana": "とうとう 兜[かぶと]を脱いで降参しましたとわ、",
+        "audio_begin": 384237,
+        "audio_end": 389317
+    },
+    {
+        "id": "f000141",
+        "sentence": "身のほど知らぬ大白痴。",
+        "sentence_with_furigana": "身のほど知らぬ 大白痴[おおたわけ]。",
+        "audio_begin": 389317,
+        "audio_end": 394060
+    }
+]

@@ -1,0 +1,3726 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "宮沢賢治　作",
+        "sentence_with_furigana": "宮沢賢治　作",
+        "audio_begin": 0,
+        "audio_end": 6237
+    },
+    {
+        "id": "f000002",
+        "sentence": "セロ弾きのゴーシュ",
+        "sentence_with_furigana": "セロ弾きのゴーシュ",
+        "audio_begin": 6237,
+        "audio_end": 11912
+    },
+    {
+        "id": "f000003",
+        "sentence": "ゴーシュは町の活動写真館でセロを弾く係りでした。",
+        "sentence_with_furigana": "ゴーシュは町の活動写真館でセロを弾く係りでした。",
+        "audio_begin": 11912,
+        "audio_end": 17938
+    },
+    {
+        "id": "f000004",
+        "sentence": "けれどもあんまり上手でないという評判でした。",
+        "sentence_with_furigana": "けれどもあんまり上手でないという評判でした。",
+        "audio_begin": 17938,
+        "audio_end": 24240
+    },
+    {
+        "id": "f000005",
+        "sentence": "上手でないどころではなく実は仲間の楽手のなかではいちばん下手でしたから、",
+        "sentence_with_furigana": "上手でないどころではなく実は仲間の楽手のなかではいちばん下手でしたから、",
+        "audio_begin": 24240,
+        "audio_end": 30480
+    },
+    {
+        "id": "f000006",
+        "sentence": "いつでも楽長にいじめられるのでした。",
+        "sentence_with_furigana": "いつでも楽長にいじめられるのでした。",
+        "audio_begin": 30480,
+        "audio_end": 36920
+    },
+    {
+        "id": "f000007",
+        "sentence": "ひるすぎみんなは楽屋に円くならんで今度の町の音楽会へ出す第六交響曲の練習をしていました。",
+        "sentence_with_furigana": "ひるすぎみんなは楽屋に円くならんで今度の町の音楽会へ出す第六 交響曲[こうきょうきょく]の練習をしていました。",
+        "audio_begin": 36920,
+        "audio_end": 48065
+    },
+    {
+        "id": "f000008",
+        "sentence": "トランペットは一生けん命歌っています。",
+        "sentence_with_furigana": "トランペットは一生けん命歌っています。",
+        "audio_begin": 48065,
+        "audio_end": 51943
+    },
+    {
+        "id": "f000009",
+        "sentence": "ヴァイオリンも二いろ風のように鳴っています。",
+        "sentence_with_furigana": "ヴァイオリンも二いろ風のように鳴っています。",
+        "audio_begin": 51943,
+        "audio_end": 57261
+    },
+    {
+        "id": "f000010",
+        "sentence": "クラリネットもボーボーとそれに手伝っています。",
+        "sentence_with_furigana": "クラリネットもボーボーとそれに手伝っています。",
+        "audio_begin": 57261,
+        "audio_end": 62760
+    },
+    {
+        "id": "f000011",
+        "sentence": "ゴーシュも口をりんと結んで眼を皿のようにして楽譜を見つめながらもう一心に弾いています。",
+        "sentence_with_furigana": "ゴーシュも口をりんと結んで 眼[め]を 皿[さら]のようにして 楽譜[がくふ]を見つめながらもう一心に弾いています。",
+        "audio_begin": 62760,
+        "audio_end": 73720
+    },
+    {
+        "id": "f000012",
+        "sentence": "にわかにぱたっと楽長が両手を鳴らしました。",
+        "sentence_with_furigana": "にわかにぱたっと楽長が両手を鳴らしました。",
+        "audio_begin": 73720,
+        "audio_end": 78800
+    },
+    {
+        "id": "f000013",
+        "sentence": "みんなぴたりと曲をやめてしんとしました。",
+        "sentence_with_furigana": "みんなぴたりと曲をやめてしんとしました。",
+        "audio_begin": 78800,
+        "audio_end": 84240
+    },
+    {
+        "id": "f000014",
+        "sentence": "楽長がどなりました。",
+        "sentence_with_furigana": "楽長がどなりました。",
+        "audio_begin": 84240,
+        "audio_end": 86800
+    },
+    {
+        "id": "f000015",
+        "sentence": "「セロがおくれた。",
+        "sentence_with_furigana": "「セロがおくれた。",
+        "audio_begin": 86800,
+        "audio_end": 89084
+    },
+    {
+        "id": "f000016",
+        "sentence": "トォテテ　テテテイ、",
+        "sentence_with_furigana": "トォテテ　テテテイ、",
+        "audio_begin": 89084,
+        "audio_end": 91564
+    },
+    {
+        "id": "f000017",
+        "sentence": "ここからやり直し。",
+        "sentence_with_furigana": "ここからやり直し。",
+        "audio_begin": 91564,
+        "audio_end": 93720
+    },
+    {
+        "id": "f000018",
+        "sentence": "はいっ。」",
+        "sentence_with_furigana": "はいっ。」",
+        "audio_begin": 93720,
+        "audio_end": 95840
+    },
+    {
+        "id": "f000019",
+        "sentence": "みんなは今の所の少し前の所からやり直しました。",
+        "sentence_with_furigana": "みんなは今の所の少し前の所からやり直しました。",
+        "audio_begin": 95840,
+        "audio_end": 101193
+    },
+    {
+        "id": "f000020",
+        "sentence": "ゴーシュは顔をまっ赤にして額に汗を出しながらやっといま云われたところを通りました。",
+        "sentence_with_furigana": "ゴーシュは顔をまっ赤にして額に 汗[あせ]を出しながらやっといま 云[い]われたところを通りました。",
+        "audio_begin": 101193,
+        "audio_end": 109680
+    },
+    {
+        "id": "f000021",
+        "sentence": "ほっと安心しながら、",
+        "sentence_with_furigana": "ほっと安心しながら、",
+        "audio_begin": 109680,
+        "audio_end": 111160
+    },
+    {
+        "id": "f000022",
+        "sentence": "つづけて弾いていますと楽長がまた手をぱっと拍ちました。",
+        "sentence_with_furigana": "つづけて弾いていますと楽長がまた手をぱっと 拍[う]ちました。",
+        "audio_begin": 111160,
+        "audio_end": 116622
+    },
+    {
+        "id": "f000023",
+        "sentence": "「セロっ。",
+        "sentence_with_furigana": "「セロっ。",
+        "audio_begin": 116622,
+        "audio_end": 118000
+    },
+    {
+        "id": "f000024",
+        "sentence": "糸が合わない。",
+        "sentence_with_furigana": "糸が合わない。",
+        "audio_begin": 118000,
+        "audio_end": 119769
+    },
+    {
+        "id": "f000025",
+        "sentence": "困るなあ。",
+        "sentence_with_furigana": "困るなあ。",
+        "audio_begin": 119769,
+        "audio_end": 121200
+    },
+    {
+        "id": "f000026",
+        "sentence": "ぼくはきみにドレミファを教えてまでいるひまはないんだがなあ。」",
+        "sentence_with_furigana": "ぼくはきみにドレミファを教えてまでいるひまはないんだがなあ。」",
+        "audio_begin": 121200,
+        "audio_end": 127760
+    },
+    {
+        "id": "f000027",
+        "sentence": "みんなは気の毒そうにしてわざとじぶんの譜をのぞき込んだりじぶんの楽器をはじいて見たりしています。",
+        "sentence_with_furigana": "みんなは気の毒そうにしてわざとじぶんの譜をのぞき 込[こ]んだりじぶんの楽器をはじいて見たりしています。",
+        "audio_begin": 127760,
+        "audio_end": 136858
+    },
+    {
+        "id": "f000028",
+        "sentence": "ゴーシュはあわてて糸を直しました。",
+        "sentence_with_furigana": "ゴーシュはあわてて糸を直しました。",
+        "audio_begin": 136858,
+        "audio_end": 141235
+    },
+    {
+        "id": "f000029",
+        "sentence": "これはじつはゴーシュも悪いのですがセロもずいぶん悪いのでした。",
+        "sentence_with_furigana": "これはじつはゴーシュも悪いのですがセロもずいぶん悪いのでした。",
+        "audio_begin": 141235,
+        "audio_end": 148376
+    },
+    {
+        "id": "f000030",
+        "sentence": "「今の前の小節から。",
+        "sentence_with_furigana": "「今の前の小節から。",
+        "audio_begin": 148376,
+        "audio_end": 151480
+    },
+    {
+        "id": "f000031",
+        "sentence": "はいっ。」",
+        "sentence_with_furigana": "はいっ。」",
+        "audio_begin": 151480,
+        "audio_end": 153200
+    },
+    {
+        "id": "f000032",
+        "sentence": "みんなはまたはじめました。",
+        "sentence_with_furigana": "みんなはまたはじめました。",
+        "audio_begin": 153200,
+        "audio_end": 156259
+    },
+    {
+        "id": "f000033",
+        "sentence": "ゴーシュも口をまげて一生けん命です。",
+        "sentence_with_furigana": "ゴーシュも口をまげて一生けん命です。",
+        "audio_begin": 156259,
+        "audio_end": 159840
+    },
+    {
+        "id": "f000034",
+        "sentence": "そしてこんどはかなり進みました。",
+        "sentence_with_furigana": "そしてこんどはかなり進みました。",
+        "audio_begin": 159840,
+        "audio_end": 163040
+    },
+    {
+        "id": "f000035",
+        "sentence": "いいあんばいだと思っていると楽長がおどすような形をしてまたぱたっと手を拍ちました。",
+        "sentence_with_furigana": "いいあんばいだと思っていると楽長がおどすような形をしてまたぱたっと手を拍ちました。",
+        "audio_begin": 163040,
+        "audio_end": 171640
+    },
+    {
+        "id": "f000036",
+        "sentence": "またかとゴーシュはどきっとしましたがありがたいことにはこんどは別の人でした。",
+        "sentence_with_furigana": "またかとゴーシュはどきっとしましたがありがたいことにはこんどは別の人でした。",
+        "audio_begin": 171640,
+        "audio_end": 180001
+    },
+    {
+        "id": "f000037",
+        "sentence": "ゴーシュはそこでさっきじぶんのときみんながしたようにわざとじぶんの譜へ眼を近づけて何か考えるふりをしていました。",
+        "sentence_with_furigana": "ゴーシュはそこでさっきじぶんのときみんながしたようにわざとじぶんの譜へ眼を近づけて何か考えるふりをしていました。",
+        "audio_begin": 180001,
+        "audio_end": 192157
+    },
+    {
+        "id": "f000038",
+        "sentence": "「ではすぐ今の次。",
+        "sentence_with_furigana": "「ではすぐ今の次。",
+        "audio_begin": 192157,
+        "audio_end": 196200
+    },
+    {
+        "id": "f000039",
+        "sentence": "はいっ。」",
+        "sentence_with_furigana": "はいっ。」",
+        "audio_begin": 196200,
+        "audio_end": 197640
+    },
+    {
+        "id": "f000040",
+        "sentence": "そらと思って弾き出したかと思うといきなり楽長が足をどんと踏んでどなり出しました。",
+        "sentence_with_furigana": "そらと思って弾き出したかと思うといきなり楽長が足をどんと 踏[ふ]んでどなり出しました。",
+        "audio_begin": 197640,
+        "audio_end": 203680
+    },
+    {
+        "id": "f000041",
+        "sentence": "「だめだ。",
+        "sentence_with_furigana": "「だめだ。",
+        "audio_begin": 203680,
+        "audio_end": 204960
+    },
+    {
+        "id": "f000042",
+        "sentence": "まるでなっていない。",
+        "sentence_with_furigana": "まるでなっていない。",
+        "audio_begin": 204960,
+        "audio_end": 207157
+    },
+    {
+        "id": "f000043",
+        "sentence": "このへんは曲の心臓なんだ。",
+        "sentence_with_furigana": "このへんは曲の心臓なんだ。",
+        "audio_begin": 207157,
+        "audio_end": 210920
+    },
+    {
+        "id": "f000044",
+        "sentence": "それがこんながさがさしたことで。",
+        "sentence_with_furigana": "それがこんながさがさしたことで。",
+        "audio_begin": 210920,
+        "audio_end": 212880
+    },
+    {
+        "id": "f000045",
+        "sentence": "諸君。",
+        "sentence_with_furigana": "諸君。",
+        "audio_begin": 212880,
+        "audio_end": 214200
+    },
+    {
+        "id": "f000046",
+        "sentence": "演奏までもうあと十日しかないんだよ。",
+        "sentence_with_furigana": "演奏までもうあと十日しかないんだよ。",
+        "audio_begin": 214200,
+        "audio_end": 218760
+    },
+    {
+        "id": "f000047",
+        "sentence": "音楽を専門にやっているぼくらがあの金沓鍛冶だの砂糖屋の丁稚なんかの寄り集りに負けてしまったらいったいわれわれの面目はどうなるんだ。",
+        "sentence_with_furigana": "音楽を専門にやっているぼくらがあの 金沓鍛冶[かなぐつかじ]だの砂糖屋の 丁稚[でっち]なんかの寄り集りに負けてしまったらいったいわれわれの 面目[めんもく]はどうなるんだ。",
+        "audio_begin": 218760,
+        "audio_end": 232280
+    },
+    {
+        "id": "f000048",
+        "sentence": "おいゴーシュ君。",
+        "sentence_with_furigana": "おいゴーシュ君。",
+        "audio_begin": 232280,
+        "audio_end": 234127
+    },
+    {
+        "id": "f000049",
+        "sentence": "君には困るんだがなあ。",
+        "sentence_with_furigana": "君には困るんだがなあ。",
+        "audio_begin": 234127,
+        "audio_end": 236880
+    },
+    {
+        "id": "f000050",
+        "sentence": "表情ということがまるでできてない。",
+        "sentence_with_furigana": "表情ということがまるでできてない。",
+        "audio_begin": 236880,
+        "audio_end": 240920
+    },
+    {
+        "id": "f000051",
+        "sentence": "怒るも喜ぶも感情というものがさっぱり出ないんだ。",
+        "sentence_with_furigana": "怒[おこ]るも喜ぶも感情というものがさっぱり出ないんだ。",
+        "audio_begin": 240920,
+        "audio_end": 246840
+    },
+    {
+        "id": "f000052",
+        "sentence": "それにどうしてもぴたっと外の楽器と合わないもなあ。",
+        "sentence_with_furigana": "それにどうしてもぴたっと外の楽器と合わないもなあ。",
+        "audio_begin": 246840,
+        "audio_end": 250440
+    },
+    {
+        "id": "f000053",
+        "sentence": "いつでもきみだけとけた靴のひもを引きずってみんなのあとをついてあるくようなんだ、",
+        "sentence_with_furigana": "いつでもきみだけとけた 靴[くつ]のひもを引きずってみんなのあとをついてあるくようなんだ、",
+        "audio_begin": 250440,
+        "audio_end": 257788
+    },
+    {
+        "id": "f000054",
+        "sentence": "困るよ、",
+        "sentence_with_furigana": "困るよ、",
+        "audio_begin": 257788,
+        "audio_end": 258902
+    },
+    {
+        "id": "f000055",
+        "sentence": "しっかりしてくれないとねえ。",
+        "sentence_with_furigana": "しっかりしてくれないとねえ。",
+        "audio_begin": 258902,
+        "audio_end": 261283
+    },
+    {
+        "id": "f000056",
+        "sentence": "光輝あるわが金星音楽団がきみ一人のために悪評をとるようなことでは、",
+        "sentence_with_furigana": "光輝[こうき]あるわが金星音楽団がきみ一人のために悪評をとるようなことでは、",
+        "audio_begin": 261283,
+        "audio_end": 267726
+    },
+    {
+        "id": "f000057",
+        "sentence": "みんなへもまったく気の毒だからな。",
+        "sentence_with_furigana": "みんなへもまったく気の毒だからな。",
+        "audio_begin": 267726,
+        "audio_end": 273659
+    },
+    {
+        "id": "f000058",
+        "sentence": "では今日は練習はここまで、",
+        "sentence_with_furigana": "では今日は練習はここまで、",
+        "audio_begin": 273659,
+        "audio_end": 277293
+    },
+    {
+        "id": "f000059",
+        "sentence": "休んで六時にはかっきりボックスへ入ってくれ給え。」",
+        "sentence_with_furigana": "休んで六時にはかっきりボックスへ入ってくれ 給[たま]え。」",
+        "audio_begin": 277293,
+        "audio_end": 284640
+    },
+    {
+        "id": "f000060",
+        "sentence": "みんなはおじぎをして、",
+        "sentence_with_furigana": "みんなはおじぎをして、",
+        "audio_begin": 284640,
+        "audio_end": 286720
+    },
+    {
+        "id": "f000061",
+        "sentence": "それからたばこをくわえてマッチをすったりどこかへ出て行ったりしました。",
+        "sentence_with_furigana": "それからたばこをくわえてマッチをすったりどこかへ出て行ったりしました。",
+        "audio_begin": 286720,
+        "audio_end": 294708
+    },
+    {
+        "id": "f000062",
+        "sentence": "ゴーシュはその粗末な箱みたいなセロをかかえて壁の方へ向いて口をまげてぼろぼろ泪をこぼしましたが、",
+        "sentence_with_furigana": "ゴーシュはその 粗末[そまつ]な 箱[はこ]みたいなセロをかかえて 壁[かべ]の方へ向いて口をまげてぼろぼろ 泪[なみだ]をこぼしましたが、",
+        "audio_begin": 294708,
+        "audio_end": 304414
+    },
+    {
+        "id": "f000063",
+        "sentence": "気をとり直してじぶんだけたったひとりいまやったところをはじめからしずかにもいちど弾きはじめました。",
+        "sentence_with_furigana": "気をとり直してじぶんだけたったひとりいまやったところをはじめからしずかにもいちど弾きはじめました。",
+        "audio_begin": 304414,
+        "audio_end": 318240
+    },
+    {
+        "id": "f000064",
+        "sentence": "その晩遅くゴーシュは何か巨きな黒いものをしょってじぶんの家へ帰ってきました。",
+        "sentence_with_furigana": "その晩 遅[おそ]くゴーシュは何か 巨[おお]きな黒いものをしょってじぶんの家へ帰ってきました。",
+        "audio_begin": 318240,
+        "audio_end": 326840
+    },
+    {
+        "id": "f000065",
+        "sentence": "家といってもそれは町はずれの川ばたにあるこわれた水車小屋で、",
+        "sentence_with_furigana": "家といってもそれは町はずれの川ばたにあるこわれた水車小屋で、",
+        "audio_begin": 326840,
+        "audio_end": 332560
+    },
+    {
+        "id": "f000066",
+        "sentence": "ゴーシュはそこにたった一人ですんでいて午前は小屋のまわりの小さな畑でトマトの枝をきったり甘藍の虫をひろったりしてひるすぎになるといつも出て行っていたのです。",
+        "sentence_with_furigana": "ゴーシュはそこにたった一人ですんでいて午前は小屋のまわりの小さな畑でトマトの 枝[えだ]をきったり 甘藍[キャベジ]の虫をひろったりしてひるすぎになるといつも出て行っていたのです。",
+        "audio_begin": 332560,
+        "audio_end": 349240
+    },
+    {
+        "id": "f000067",
+        "sentence": "ゴーシュがうちへ入ってあかりをつけるとさっきの黒い包みをあけました。",
+        "sentence_with_furigana": "ゴーシュがうちへ入ってあかりをつけるとさっきの黒い包みをあけました。",
+        "audio_begin": 349240,
+        "audio_end": 355280
+    },
+    {
+        "id": "f000068",
+        "sentence": "それは何でもない。",
+        "sentence_with_furigana": "それは何でもない。",
+        "audio_begin": 355280,
+        "audio_end": 356760
+    },
+    {
+        "id": "f000069",
+        "sentence": "あの夕方のごつごつしたセロでした。",
+        "sentence_with_furigana": "あの夕方のごつごつしたセロでした。",
+        "audio_begin": 356760,
+        "audio_end": 361000
+    },
+    {
+        "id": "f000070",
+        "sentence": "ゴーシュはそれを床の上にそっと置くと、",
+        "sentence_with_furigana": "ゴーシュはそれを 床[ゆか]の上にそっと置くと、",
+        "audio_begin": 361000,
+        "audio_end": 364120
+    },
+    {
+        "id": "f000071",
+        "sentence": "いきなり棚からコップをとってバケツの水をごくごくのみました。",
+        "sentence_with_furigana": "いきなり 棚[たな]からコップをとってバケツの水をごくごくのみました。",
+        "audio_begin": 364120,
+        "audio_end": 370960
+    },
+    {
+        "id": "f000072",
+        "sentence": "それから頭を一つふって椅子へかけるとまるで虎みたいな勢でひるの譜を弾きはじめました。",
+        "sentence_with_furigana": "それから頭を一つふって 椅子[いす]へかけるとまるで 虎[とら]みたいな 勢[いきおい]でひるの譜を弾きはじめました。",
+        "audio_begin": 370960,
+        "audio_end": 381600
+    },
+    {
+        "id": "f000073",
+        "sentence": "譜をめくりながら弾いては考え考えては弾き一生けん命しまいまで行くとまたはじめからなんべんもなんべんもごうごうごうごう弾きつづけました。",
+        "sentence_with_furigana": "譜をめくりながら弾いては考え考えては弾き一生けん命しまいまで行くとまたはじめからなんべんもなんべんもごうごうごうごう弾きつづけました。",
+        "audio_begin": 381600,
+        "audio_end": 399047
+    },
+    {
+        "id": "f000074",
+        "sentence": "夜中もとうにすぎてしまいはもうじぶんが弾いているのかもわからないようになって顔もまっ赤になり眼もまるで血走ってとても物凄い顔つきになりいまにも倒れるかと思うように見えました。",
+        "sentence_with_furigana": "夜中もとうにすぎてしまいはもうじぶんが弾いているのかもわからないようになって顔もまっ赤になり眼もまるで血走ってとても 物凄[ものすご]い顔つきになりいまにも 倒[たお]れるかと思うように見えました。",
+        "audio_begin": 399047,
+        "audio_end": 417880
+    },
+    {
+        "id": "f000075",
+        "sentence": "そのとき誰かうしろの扉をとんとんと叩くものがありました。",
+        "sentence_with_furigana": "そのとき 誰[たれ]かうしろの 扉[と]をとんとんと 叩[たた]くものがありました。",
+        "audio_begin": 417880,
+        "audio_end": 424800
+    },
+    {
+        "id": "f000076",
+        "sentence": "「ホーシュ君か。",
+        "sentence_with_furigana": "「ホーシュ君か。",
+        "audio_begin": 424800,
+        "audio_end": 426880
+    },
+    {
+        "id": "f000077",
+        "sentence": "」ゴーシュはねぼけたように叫びました。",
+        "sentence_with_furigana": "」ゴーシュはねぼけたように 叫[さけ]びました。",
+        "audio_begin": 426880,
+        "audio_end": 429880
+    },
+    {
+        "id": "f000078",
+        "sentence": "ところがすうと扉を押してはいって来たのはいままで五六ぺん見たことのある大きな三毛猫でした。",
+        "sentence_with_furigana": "ところがすうと扉を 押[お]してはいって来たのはいままで五六ぺん見たことのある大きな 三毛猫[みけねこ]でした。",
+        "audio_begin": 429880,
+        "audio_end": 440840
+    },
+    {
+        "id": "f000079",
+        "sentence": "ゴーシュの畑からとった半分熟したトマトをさも重そうに持って来てゴーシュの前におろして云いました。",
+        "sentence_with_furigana": "ゴーシュの畑からとった半分熟したトマトをさも重そうに持って来てゴーシュの前におろして云いました。",
+        "audio_begin": 440840,
+        "audio_end": 448800
+    },
+    {
+        "id": "f000080",
+        "sentence": "「ああくたびれた。",
+        "sentence_with_furigana": "「ああくたびれた。",
+        "audio_begin": 448800,
+        "audio_end": 450720
+    },
+    {
+        "id": "f000081",
+        "sentence": "なかなか運搬はひどいやな。」",
+        "sentence_with_furigana": "なかなか 運搬[うんぱん]はひどいやな。」",
+        "audio_begin": 450720,
+        "audio_end": 453880
+    },
+    {
+        "id": "f000082",
+        "sentence": "「何だと」ゴーシュがききました。",
+        "sentence_with_furigana": "「何だと」ゴーシュがききました。",
+        "audio_begin": 453880,
+        "audio_end": 457120
+    },
+    {
+        "id": "f000083",
+        "sentence": "「これおみやです。",
+        "sentence_with_furigana": "「これおみやです。",
+        "audio_begin": 457120,
+        "audio_end": 458954
+    },
+    {
+        "id": "f000084",
+        "sentence": "たべてください。",
+        "sentence_with_furigana": "たべてください。",
+        "audio_begin": 458954,
+        "audio_end": 461040
+    },
+    {
+        "id": "f000085",
+        "sentence": "」三毛猫が云いました。",
+        "sentence_with_furigana": "」三毛猫が云いました。",
+        "audio_begin": 461040,
+        "audio_end": 463000
+    },
+    {
+        "id": "f000086",
+        "sentence": "ゴーシュはひるからのむしゃくしゃを一ぺんにどなりつけました。",
+        "sentence_with_furigana": "ゴーシュはひるからのむしゃくしゃを一ぺんにどなりつけました。",
+        "audio_begin": 463000,
+        "audio_end": 468200
+    },
+    {
+        "id": "f000087",
+        "sentence": "「誰がきさまにトマトなど持ってこいと云った。",
+        "sentence_with_furigana": "「誰がきさまにトマトなど持ってこいと云った。",
+        "audio_begin": 468200,
+        "audio_end": 470960
+    },
+    {
+        "id": "f000088",
+        "sentence": "第一おれがきさまらのもってきたものなど食うか。",
+        "sentence_with_furigana": "第一おれがきさまらのもってきたものなど食うか。",
+        "audio_begin": 470960,
+        "audio_end": 474240
+    },
+    {
+        "id": "f000089",
+        "sentence": "それからそのトマトだっておれの畑のやつだ。",
+        "sentence_with_furigana": "それからそのトマトだっておれの畑のやつだ。",
+        "audio_begin": 474240,
+        "audio_end": 477320
+    },
+    {
+        "id": "f000090",
+        "sentence": "何だ。",
+        "sentence_with_furigana": "何だ。",
+        "audio_begin": 477320,
+        "audio_end": 478040
+    },
+    {
+        "id": "f000091",
+        "sentence": "赤くもならないやつをむしって。",
+        "sentence_with_furigana": "赤くもならないやつをむしって。",
+        "audio_begin": 478040,
+        "audio_end": 480360
+    },
+    {
+        "id": "f000092",
+        "sentence": "いままでもトマトの茎をかじったりけちらしたりしたのはおまえだろう。",
+        "sentence_with_furigana": "いままでもトマトの 茎[くき]をかじったりけちらしたりしたのはおまえだろう。",
+        "audio_begin": 480360,
+        "audio_end": 485080
+    },
+    {
+        "id": "f000093",
+        "sentence": "行ってしまえ。",
+        "sentence_with_furigana": "行ってしまえ。",
+        "audio_begin": 485080,
+        "audio_end": 485640
+    },
+    {
+        "id": "f000094",
+        "sentence": "ねこめ。」",
+        "sentence_with_furigana": "ねこめ。」",
+        "audio_begin": 485640,
+        "audio_end": 487600
+    },
+    {
+        "id": "f000095",
+        "sentence": "すると猫は肩をまるくして眼をすぼめてはいましたが口のあたりでにやにやわらって云いました。",
+        "sentence_with_furigana": "すると猫は 肩[かた]をまるくして眼をすぼめてはいましたが口のあたりでにやにやわらって云いました。",
+        "audio_begin": 487600,
+        "audio_end": 496240
+    },
+    {
+        "id": "f000096",
+        "sentence": "「先生、",
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 496240,
+        "audio_end": 496800
+    },
+    {
+        "id": "f000097",
+        "sentence": "そうお怒りになっちゃ、",
+        "sentence_with_furigana": "そうお怒りになっちゃ、",
+        "audio_begin": 496800,
+        "audio_end": 498400
+    },
+    {
+        "id": "f000098",
+        "sentence": "おからだにさわります。",
+        "sentence_with_furigana": "おからだにさわります。",
+        "audio_begin": 498400,
+        "audio_end": 499880
+    },
+    {
+        "id": "f000099",
+        "sentence": "それよりシューマンのトロメライをひいてごらんなさい。",
+        "sentence_with_furigana": "それよりシューマンのトロメライをひいてごらんなさい。",
+        "audio_begin": 499880,
+        "audio_end": 503501
+    },
+    {
+        "id": "f000100",
+        "sentence": "きいてあげますから。」",
+        "sentence_with_furigana": "きいてあげますから。」",
+        "audio_begin": 503501,
+        "audio_end": 505480
+    },
+    {
+        "id": "f000101",
+        "sentence": "「生意気なことを云うな。",
+        "sentence_with_furigana": "「生意気なことを云うな。",
+        "audio_begin": 505480,
+        "audio_end": 506720
+    },
+    {
+        "id": "f000102",
+        "sentence": "ねこのくせに。」",
+        "sentence_with_furigana": "ねこのくせに。」",
+        "audio_begin": 506720,
+        "audio_end": 508800
+    },
+    {
+        "id": "f000103",
+        "sentence": "セロ弾きはしゃくにさわってこのねこのやつどうしてくれようとしばらく考えました。",
+        "sentence_with_furigana": "セロ弾きはしゃくにさわってこのねこのやつどうしてくれようとしばらく考えました。",
+        "audio_begin": 508800,
+        "audio_end": 516960
+    },
+    {
+        "id": "f000104",
+        "sentence": "「いやご遠慮はありません。",
+        "sentence_with_furigana": "「いやご 遠慮[えんりょ]はありません。",
+        "audio_begin": 516960,
+        "audio_end": 518760
+    },
+    {
+        "id": "f000105",
+        "sentence": "どうぞ。",
+        "sentence_with_furigana": "どうぞ。",
+        "audio_begin": 518760,
+        "audio_end": 519799
+    },
+    {
+        "id": "f000106",
+        "sentence": "わたしはどうも先生の音楽をきかないとねむられないんです。」",
+        "sentence_with_furigana": "わたしはどうも先生の音楽をきかないとねむられないんです。」",
+        "audio_begin": 519799,
+        "audio_end": 524159
+    },
+    {
+        "id": "f000107",
+        "sentence": "「生意気だ。",
+        "sentence_with_furigana": "「生意気だ。",
+        "audio_begin": 524159,
+        "audio_end": 524800
+    },
+    {
+        "id": "f000108",
+        "sentence": "生意気だ。",
+        "sentence_with_furigana": "生意気だ。",
+        "audio_begin": 524800,
+        "audio_end": 525400
+    },
+    {
+        "id": "f000109",
+        "sentence": "生意気だ。」",
+        "sentence_with_furigana": "生意気だ。」",
+        "audio_begin": 525400,
+        "audio_end": 526880
+    },
+    {
+        "id": "f000110",
+        "sentence": "ゴーシュはすっかりまっ赤になってひるま楽長のしたように足ぶみしてどなりましたがにわかに気を変えて云いました。",
+        "sentence_with_furigana": "ゴーシュはすっかりまっ赤になってひるま楽長のしたように足ぶみしてどなりましたがにわかに気を変えて云いました。",
+        "audio_begin": 526880,
+        "audio_end": 537519
+    },
+    {
+        "id": "f000111",
+        "sentence": "「では弾くよ。」",
+        "sentence_with_furigana": "「では弾くよ。」",
+        "audio_begin": 537519,
+        "audio_end": 542480
+    },
+    {
+        "id": "f000112",
+        "sentence": "ゴーシュは何と思ったか扉にかぎをかって窓もみんなしめてしまい、",
+        "sentence_with_furigana": "ゴーシュは何と思ったか 扉[と]にかぎをかって窓もみんなしめてしまい、",
+        "audio_begin": 542480,
+        "audio_end": 548760
+    },
+    {
+        "id": "f000113",
+        "sentence": "それからセロをとりだしてあかしを消しました。",
+        "sentence_with_furigana": "それからセロをとりだしてあかしを消しました。",
+        "audio_begin": 548760,
+        "audio_end": 553436
+    },
+    {
+        "id": "f000114",
+        "sentence": "すると外から二十日過ぎの月のひかりが室のなかへ半分ほどはいってきました。",
+        "sentence_with_furigana": "すると外から二十日過ぎの月のひかりが 室[へや]のなかへ半分ほどはいってきました。",
+        "audio_begin": 553436,
+        "audio_end": 560760
+    },
+    {
+        "id": "f000115",
+        "sentence": "「何をひけと。」",
+        "sentence_with_furigana": "「何をひけと。」",
+        "audio_begin": 560760,
+        "audio_end": 562968
+    },
+    {
+        "id": "f000116",
+        "sentence": "「トロメライ、",
+        "sentence_with_furigana": "「トロメライ、",
+        "audio_begin": 562968,
+        "audio_end": 563680
+    },
+    {
+        "id": "f000117",
+        "sentence": "ロマチックシューマン作曲。",
+        "sentence_with_furigana": "ロマチックシューマン作曲。",
+        "audio_begin": 563680,
+        "audio_end": 566200
+    },
+    {
+        "id": "f000118",
+        "sentence": "」猫は口を拭いて済まして云いました。",
+        "sentence_with_furigana": "」猫は口を 拭[ふ]いて済まして云いました。",
+        "audio_begin": 566200,
+        "audio_end": 568784
+    },
+    {
+        "id": "f000119",
+        "sentence": "「そうか。",
+        "sentence_with_furigana": "「そうか。",
+        "audio_begin": 568784,
+        "audio_end": 569771
+    },
+    {
+        "id": "f000120",
+        "sentence": "トロメライというのはこういうのか。」",
+        "sentence_with_furigana": "トロメライというのはこういうのか。」",
+        "audio_begin": 569771,
+        "audio_end": 573452
+    },
+    {
+        "id": "f000121",
+        "sentence": "セロ弾きは何と思ったかまずはんけちを引きさいてじぶんの耳の穴へぎっしりつめました。",
+        "sentence_with_furigana": "セロ弾きは何と思ったかまずはんけちを引きさいてじぶんの耳の穴へぎっしりつめました。",
+        "audio_begin": 573452,
+        "audio_end": 582577
+    },
+    {
+        "id": "f000122",
+        "sentence": "それからまるで嵐のような勢で「印度の虎狩」という譜を弾きはじめました。",
+        "sentence_with_furigana": "それからまるで 嵐[あらし]のような 勢[いきおい]で「 印度[インド]の 虎狩[とらがり]」という譜を弾きはじめました。",
+        "audio_begin": 582577,
+        "audio_end": 591600
+    },
+    {
+        "id": "f000123",
+        "sentence": "すると猫はしばらく首をまげて聞いていましたがいきなりパチパチパチッと眼をしたかと思うとぱっと扉の方へ飛びのきました。",
+        "sentence_with_furigana": "すると猫はしばらく首をまげて聞いていましたがいきなりパチパチパチッと眼をしたかと思うとぱっと扉の方へ飛びのきました。",
+        "audio_begin": 591600,
+        "audio_end": 600886
+    },
+    {
+        "id": "f000124",
+        "sentence": "そしていきなりどんと扉へからだをぶっつけましたが扉はあきませんでした。",
+        "sentence_with_furigana": "そしていきなりどんと扉へからだをぶっつけましたが扉はあきませんでした。",
+        "audio_begin": 600886,
+        "audio_end": 607515
+    },
+    {
+        "id": "f000125",
+        "sentence": "猫はさあこれはもう一生一代の失敗をしたという風にあわてだして眼や額からぱちぱち火花を出しました。",
+        "sentence_with_furigana": "猫はさあこれはもう一生一代の失敗をしたという風にあわてだして眼や額からぱちぱち火花を出しました。",
+        "audio_begin": 607515,
+        "audio_end": 618640
+    },
+    {
+        "id": "f000126",
+        "sentence": "するとこんどは口のひげからも鼻からも出ましたから猫はくすぐったがってしばらくくしゃみをするような顔をしてそれからまたさあこうしてはいられないぞというようにはせあるきだしました。",
+        "sentence_with_furigana": "するとこんどは口のひげからも鼻からも出ましたから猫はくすぐったがってしばらくくしゃみをするような顔をしてそれからまたさあこうしてはいられないぞというようにはせあるきだしました。",
+        "audio_begin": 618640,
+        "audio_end": 635368
+    },
+    {
+        "id": "f000127",
+        "sentence": "ゴーシュはすっかり面白くなってますます勢よくやり出しました。",
+        "sentence_with_furigana": "ゴーシュはすっかり 面白[おもしろ]くなってますます勢よくやり出しました。",
+        "audio_begin": 635368,
+        "audio_end": 642680
+    },
+    {
+        "id": "f000128",
+        "sentence": "「先生もうたくさんです。",
+        "sentence_with_furigana": "「先生もうたくさんです。",
+        "audio_begin": 642680,
+        "audio_end": 644760
+    },
+    {
+        "id": "f000129",
+        "sentence": "たくさんですよ。",
+        "sentence_with_furigana": "たくさんですよ。",
+        "audio_begin": 644760,
+        "audio_end": 645909
+    },
+    {
+        "id": "f000130",
+        "sentence": "ご生ですからやめてください。",
+        "sentence_with_furigana": "ご生ですからやめてください。",
+        "audio_begin": 645909,
+        "audio_end": 647941
+    },
+    {
+        "id": "f000131",
+        "sentence": "これからもう先生のタクトなんかとりませんから。」",
+        "sentence_with_furigana": "これからもう先生のタクトなんかとりませんから。」",
+        "audio_begin": 647941,
+        "audio_end": 652000
+    },
+    {
+        "id": "f000132",
+        "sentence": "「だまれ。",
+        "sentence_with_furigana": "「だまれ。",
+        "audio_begin": 652000,
+        "audio_end": 652887
+    },
+    {
+        "id": "f000133",
+        "sentence": "これから虎をつかまえる所だ。」",
+        "sentence_with_furigana": "これから虎をつかまえる所だ。」",
+        "audio_begin": 652887,
+        "audio_end": 657400
+    },
+    {
+        "id": "f000134",
+        "sentence": "猫はくるしがってはねあがってまわったり壁にからだをくっつけたりしましたが壁についたあとはしばらく青くひかるのでした。",
+        "sentence_with_furigana": "猫はくるしがってはねあがってまわったり壁にからだをくっつけたりしましたが壁についたあとはしばらく青くひかるのでした。",
+        "audio_begin": 657400,
+        "audio_end": 669440
+    },
+    {
+        "id": "f000135",
+        "sentence": "しまいは猫はまるで風車のようにぐるぐるぐるぐるゴーシュをまわりました。",
+        "sentence_with_furigana": "しまいは猫はまるで風車のようにぐるぐるぐるぐるゴーシュをまわりました。",
+        "audio_begin": 669440,
+        "audio_end": 675840
+    },
+    {
+        "id": "f000136",
+        "sentence": "ゴーシュもすこしぐるぐるして来ましたので、",
+        "sentence_with_furigana": "ゴーシュもすこしぐるぐるして来ましたので、",
+        "audio_begin": 675840,
+        "audio_end": 679200
+    },
+    {
+        "id": "f000137",
+        "sentence": "「さあこれで許してやるぞ」と云いながらようようやめました。",
+        "sentence_with_furigana": "「さあこれで許してやるぞ」と云いながらようようやめました。",
+        "audio_begin": 679200,
+        "audio_end": 684480
+    },
+    {
+        "id": "f000138",
+        "sentence": "すると猫もけろりとして",
+        "sentence_with_furigana": "すると猫もけろりとして",
+        "audio_begin": 684480,
+        "audio_end": 686520
+    },
+    {
+        "id": "f000139",
+        "sentence": "「先生、",
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 686520,
+        "audio_end": 687120
+    },
+    {
+        "id": "f000140",
+        "sentence": "こんやの演奏はどうかしてますね。",
+        "sentence_with_furigana": "こんやの演奏はどうかしてますね。",
+        "audio_begin": 687120,
+        "audio_end": 689560
+    },
+    {
+        "id": "f000141",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 689560,
+        "audio_end": 691600
+    },
+    {
+        "id": "f000142",
+        "sentence": "セロ弾きはまたぐっとしゃくにさわりましたが何気ない風で巻たばこを一本だして口にくわえそれからマッチを一本とって",
+        "sentence_with_furigana": "セロ弾きはまたぐっとしゃくにさわりましたが何気ない風で巻たばこを一本だして口にくわえそれからマッチを一本とって",
+        "audio_begin": 691600,
+        "audio_end": 701600
+    },
+    {
+        "id": "f000143",
+        "sentence": "「どうだい。",
+        "sentence_with_furigana": "「どうだい。",
+        "audio_begin": 701600,
+        "audio_end": 702480
+    },
+    {
+        "id": "f000144",
+        "sentence": "工合をわるくしないかい。",
+        "sentence_with_furigana": "工合[ぐあい]をわるくしないかい。",
+        "audio_begin": 702480,
+        "audio_end": 704720
+    },
+    {
+        "id": "f000145",
+        "sentence": "舌を出してごらん。」",
+        "sentence_with_furigana": "舌を出してごらん。」",
+        "audio_begin": 704720,
+        "audio_end": 707400
+    },
+    {
+        "id": "f000146",
+        "sentence": "猫はばかにしたように尖った長い舌をベロリと出しました。",
+        "sentence_with_furigana": "猫はばかにしたように 尖[とが]った長い舌をベロリと出しました。",
+        "audio_begin": 707400,
+        "audio_end": 711134
+    },
+    {
+        "id": "f000147",
+        "sentence": "「ははあ、",
+        "sentence_with_furigana": "「ははあ、",
+        "audio_begin": 711134,
+        "audio_end": 712000
+    },
+    {
+        "id": "f000148",
+        "sentence": "少し荒れたね。",
+        "sentence_with_furigana": "少し 荒[あ]れたね。",
+        "audio_begin": 712000,
+        "audio_end": 714200
+    },
+    {
+        "id": "f000149",
+        "sentence": "」セロ弾きは云いながらいきなりマッチを舌でシュッとすってじぶんのたばこへつけました。",
+        "sentence_with_furigana": "」セロ弾きは云いながらいきなりマッチを舌でシュッとすってじぶんのたばこへつけました。",
+        "audio_begin": 714200,
+        "audio_end": 721520
+    },
+    {
+        "id": "f000150",
+        "sentence": "さあ猫は愕いたの何の舌を風車のようにふりまわしながら入り口の扉へ行って頭でどんとぶっつかってはよろよろとしてまた戻って来てどんとぶっつかってはよろよろまた戻って来てまたぶっつかってはよろよろにげみちをこさえようとしました。",
+        "sentence_with_furigana": "さあ猫は 愕[おどろ]いたの何の舌を風車のようにふりまわしながら入り口の 扉[と]へ行って頭でどんとぶっつかってはよろよろとしてまた 戻[もど]って来てどんとぶっつかってはよろよろまた戻って来てまたぶっつかってはよろよろにげみちをこさえようとしました。",
+        "audio_begin": 721520,
+        "audio_end": 739600
+    },
+    {
+        "id": "f000151",
+        "sentence": "ゴーシュはしばらく面白そうに見ていましたが",
+        "sentence_with_furigana": "ゴーシュはしばらく面白そうに見ていましたが",
+        "audio_begin": 739600,
+        "audio_end": 743282
+    },
+    {
+        "id": "f000152",
+        "sentence": "「出してやるよ。",
+        "sentence_with_furigana": "「出してやるよ。",
+        "audio_begin": 743282,
+        "audio_end": 744600
+    },
+    {
+        "id": "f000153",
+        "sentence": "もう来るなよ。",
+        "sentence_with_furigana": "もう来るなよ。",
+        "audio_begin": 744600,
+        "audio_end": 745880
+    },
+    {
+        "id": "f000154",
+        "sentence": "ばか。」",
+        "sentence_with_furigana": "ばか。」",
+        "audio_begin": 745880,
+        "audio_end": 747520
+    },
+    {
+        "id": "f000155",
+        "sentence": "セロ弾きは扉をあけて猫が風のように萱のなかを走って行くのを見てちょっとわらいました。",
+        "sentence_with_furigana": "セロ弾きは扉をあけて猫が風のように 萱[かや]のなかを走って行くのを見てちょっとわらいました。",
+        "audio_begin": 747520,
+        "audio_end": 753987
+    },
+    {
+        "id": "f000156",
+        "sentence": "それから、",
+        "sentence_with_furigana": "それから、",
+        "audio_begin": 753987,
+        "audio_end": 755080
+    },
+    {
+        "id": "f000157",
+        "sentence": "やっとせいせいしたというようにぐっすりねむりました。",
+        "sentence_with_furigana": "やっとせいせいしたというようにぐっすりねむりました。",
+        "audio_begin": 755080,
+        "audio_end": 763577
+    },
+    {
+        "id": "f000158",
+        "sentence": "次の晩もゴーシュがまた黒いセロの包みをかついで帰ってきました。",
+        "sentence_with_furigana": "次の晩もゴーシュがまた黒いセロの包みをかついで帰ってきました。",
+        "audio_begin": 763577,
+        "audio_end": 770160
+    },
+    {
+        "id": "f000159",
+        "sentence": "そして水をごくごくのむとそっくりゆうべのとおりぐんぐんセロを弾きはじめました。",
+        "sentence_with_furigana": "そして水をごくごくのむとそっくりゆうべのとおりぐんぐんセロを弾きはじめました。",
+        "audio_begin": 770160,
+        "audio_end": 778680
+    },
+    {
+        "id": "f000160",
+        "sentence": "十二時は間もなく過ぎ一時もすぎ二時もすぎてもゴーシュはまだやめませんでした。",
+        "sentence_with_furigana": "十二時は間もなく過ぎ一時もすぎ二時もすぎてもゴーシュはまだやめませんでした。",
+        "audio_begin": 778680,
+        "audio_end": 785972
+    },
+    {
+        "id": "f000161",
+        "sentence": "それからもう何時だかもわからず弾いているかもわからずごうごうやっていますと誰か屋根裏をこっこっと叩くものがあります。",
+        "sentence_with_furigana": "それからもう何時だかもわからず弾いているかもわからずごうごうやっていますと 誰[たれ]か屋根裏をこっこっと叩くものがあります。",
+        "audio_begin": 785972,
+        "audio_end": 798400
+    },
+    {
+        "id": "f000162",
+        "sentence": "「猫、",
+        "sentence_with_furigana": "「猫、",
+        "audio_begin": 798400,
+        "audio_end": 799360
+    },
+    {
+        "id": "f000163",
+        "sentence": "まだこりないのか。」",
+        "sentence_with_furigana": "まだこりないのか。」",
+        "audio_begin": 799360,
+        "audio_end": 801669
+    },
+    {
+        "id": "f000164",
+        "sentence": "ゴーシュが叫びますといきなり天井の穴からぽろんと音がして一疋の灰いろの鳥が降りて来ました。",
+        "sentence_with_furigana": "ゴーシュが叫びますといきなり 天井[てんじょう]の穴からぽろんと音がして一 疋[ぴき]の灰いろの鳥が降りて来ました。",
+        "audio_begin": 801669,
+        "audio_end": 812800
+    },
+    {
+        "id": "f000165",
+        "sentence": "床へとまったのを見るとそれはかっこうでした。",
+        "sentence_with_furigana": "床へとまったのを見るとそれはかっこうでした。",
+        "audio_begin": 812800,
+        "audio_end": 817191
+    },
+    {
+        "id": "f000166",
+        "sentence": "「鳥まで来るなんて。",
+        "sentence_with_furigana": "「鳥まで来るなんて。",
+        "audio_begin": 817191,
+        "audio_end": 818880
+    },
+    {
+        "id": "f000167",
+        "sentence": "何の用だ。",
+        "sentence_with_furigana": "何の用だ。",
+        "audio_begin": 818880,
+        "audio_end": 820698
+    },
+    {
+        "id": "f000168",
+        "sentence": "」ゴーシュが云いました。",
+        "sentence_with_furigana": "」ゴーシュが云いました。",
+        "audio_begin": 820698,
+        "audio_end": 822880
+    },
+    {
+        "id": "f000169",
+        "sentence": "「音楽を教わりたいのです。」",
+        "sentence_with_furigana": "「音楽を教わりたいのです。」",
+        "audio_begin": 822880,
+        "audio_end": 824842
+    },
+    {
+        "id": "f000170",
+        "sentence": "かっこう鳥はすまして云いました。",
+        "sentence_with_furigana": "かっこう鳥はすまして云いました。",
+        "audio_begin": 824842,
+        "audio_end": 827211
+    },
+    {
+        "id": "f000171",
+        "sentence": "ゴーシュは笑って",
+        "sentence_with_furigana": "ゴーシュは笑って",
+        "audio_begin": 827211,
+        "audio_end": 828840
+    },
+    {
+        "id": "f000172",
+        "sentence": "「音楽だと。",
+        "sentence_with_furigana": "「音楽だと。",
+        "audio_begin": 828840,
+        "audio_end": 830560
+    },
+    {
+        "id": "f000173",
+        "sentence": "おまえの歌は、",
+        "sentence_with_furigana": "おまえの歌は、",
+        "audio_begin": 830560,
+        "audio_end": 831720
+    },
+    {
+        "id": "f000174",
+        "sentence": "かっこう、",
+        "sentence_with_furigana": "かっこう、",
+        "audio_begin": 831720,
+        "audio_end": 832520
+    },
+    {
+        "id": "f000175",
+        "sentence": "かっこうというだけじゃあないか。」",
+        "sentence_with_furigana": "かっこうというだけじゃあないか。」",
+        "audio_begin": 832520,
+        "audio_end": 835640
+    },
+    {
+        "id": "f000176",
+        "sentence": "するとかっこうが大へんまじめに",
+        "sentence_with_furigana": "するとかっこうが大へんまじめに",
+        "audio_begin": 835640,
+        "audio_end": 839120
+    },
+    {
+        "id": "f000177",
+        "sentence": "「ええ、",
+        "sentence_with_furigana": "「ええ、",
+        "audio_begin": 839120,
+        "audio_end": 839560
+    },
+    {
+        "id": "f000178",
+        "sentence": "それなんです。",
+        "sentence_with_furigana": "それなんです。",
+        "audio_begin": 839560,
+        "audio_end": 840400
+    },
+    {
+        "id": "f000179",
+        "sentence": "けれどもむずかしいですからねえ。",
+        "sentence_with_furigana": "けれどもむずかしいですからねえ。",
+        "audio_begin": 840400,
+        "audio_end": 842480
+    },
+    {
+        "id": "f000180",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 842480,
+        "audio_end": 844092
+    },
+    {
+        "id": "f000181",
+        "sentence": "「むずかしいもんか。",
+        "sentence_with_furigana": "「むずかしいもんか。",
+        "audio_begin": 844092,
+        "audio_end": 845840
+    },
+    {
+        "id": "f000182",
+        "sentence": "おまえたちのはたくさん啼くのがひどいだけで、",
+        "sentence_with_furigana": "おまえたちのはたくさん 啼[な]くのがひどいだけで、",
+        "audio_begin": 845840,
+        "audio_end": 848640
+    },
+    {
+        "id": "f000183",
+        "sentence": "なきようは何でもないじゃないか。」",
+        "sentence_with_furigana": "なきようは何でもないじゃないか。」",
+        "audio_begin": 848640,
+        "audio_end": 851244
+    },
+    {
+        "id": "f000184",
+        "sentence": "「ところがそれがひどいんです。",
+        "sentence_with_furigana": "「ところがそれがひどいんです。",
+        "audio_begin": 851244,
+        "audio_end": 853000
+    },
+    {
+        "id": "f000185",
+        "sentence": "たとえばかっこうとこうなくのとかっこうとこうなくのとでは聞いていてもよほどちがうでしょう。」",
+        "sentence_with_furigana": "たとえばかっこうとこうなくのとかっこうとこうなくのとでは聞いていてもよほどちがうでしょう。」",
+        "audio_begin": 853000,
+        "audio_end": 860903
+    },
+    {
+        "id": "f000186",
+        "sentence": "「ちがわないね。」",
+        "sentence_with_furigana": "「ちがわないね。」",
+        "audio_begin": 860903,
+        "audio_end": 862598
+    },
+    {
+        "id": "f000187",
+        "sentence": "「ではあなたにはわからないんです。",
+        "sentence_with_furigana": "「ではあなたにはわからないんです。",
+        "audio_begin": 862598,
+        "audio_end": 864960
+    },
+    {
+        "id": "f000188",
+        "sentence": "わたしらのなかまならかっこうと一万云えば一万みんなちがうんです。」",
+        "sentence_with_furigana": "わたしらのなかまならかっこうと一万云えば一万みんなちがうんです。」",
+        "audio_begin": 864960,
+        "audio_end": 870005
+    },
+    {
+        "id": "f000189",
+        "sentence": "「勝手だよ。",
+        "sentence_with_furigana": "「勝手だよ。",
+        "audio_begin": 870005,
+        "audio_end": 871360
+    },
+    {
+        "id": "f000190",
+        "sentence": "そんなにわかってるなら何もおれの処へ来なくてもいいではないか。」",
+        "sentence_with_furigana": "そんなにわかってるなら何もおれの 処[ところ]へ来なくてもいいではないか。」",
+        "audio_begin": 871360,
+        "audio_end": 875648
+    },
+    {
+        "id": "f000191",
+        "sentence": "「ところが私はドレミファを正確にやりたいんです。」",
+        "sentence_with_furigana": "「ところが私はドレミファを正確にやりたいんです。」",
+        "audio_begin": 875648,
+        "audio_end": 879816
+    },
+    {
+        "id": "f000192",
+        "sentence": "「ドレミファもくそもあるか。」",
+        "sentence_with_furigana": "「ドレミファもくそもあるか。」",
+        "audio_begin": 879816,
+        "audio_end": 882720
+    },
+    {
+        "id": "f000193",
+        "sentence": "「ええ、",
+        "sentence_with_furigana": "「ええ、",
+        "audio_begin": 882720,
+        "audio_end": 883320
+    },
+    {
+        "id": "f000194",
+        "sentence": "外国へ行く前にぜひ一度いるんです。」",
+        "sentence_with_furigana": "外国へ行く前にぜひ一度いるんです。」",
+        "audio_begin": 883320,
+        "audio_end": 886213
+    },
+    {
+        "id": "f000195",
+        "sentence": "「外国もくそもあるか。」",
+        "sentence_with_furigana": "「外国もくそもあるか。」",
+        "audio_begin": 886213,
+        "audio_end": 888384
+    },
+    {
+        "id": "f000196",
+        "sentence": "「先生どうかドレミファを教えてください。",
+        "sentence_with_furigana": "「先生どうかドレミファを教えてください。",
+        "audio_begin": 888384,
+        "audio_end": 891760
+    },
+    {
+        "id": "f000197",
+        "sentence": "わたしはついてうたいますから。」",
+        "sentence_with_furigana": "わたしはついてうたいますから。」",
+        "audio_begin": 891760,
+        "audio_end": 894520
+    },
+    {
+        "id": "f000198",
+        "sentence": "「うるさいなあ。",
+        "sentence_with_furigana": "「うるさいなあ。",
+        "audio_begin": 894520,
+        "audio_end": 896600
+    },
+    {
+        "id": "f000199",
+        "sentence": "そら三べんだけ弾いてやるからすんだらさっさと帰るんだぞ。」",
+        "sentence_with_furigana": "そら三べんだけ 弾[ひ]いてやるからすんだらさっさと帰るんだぞ。」",
+        "audio_begin": 896600,
+        "audio_end": 903520
+    },
+    {
+        "id": "f000200",
+        "sentence": "ゴーシュはセロを取り上げてボロンボロンと糸を合わせてドレミファソラシドとひきました。",
+        "sentence_with_furigana": "ゴーシュはセロを取り上げてボロンボロンと糸を合わせてドレミファソラシドとひきました。",
+        "audio_begin": 903520,
+        "audio_end": 911960
+    },
+    {
+        "id": "f000201",
+        "sentence": "するとかっこうはあわてて羽をばたばたしました。",
+        "sentence_with_furigana": "するとかっこうはあわてて羽をばたばたしました。",
+        "audio_begin": 911960,
+        "audio_end": 916040
+    },
+    {
+        "id": "f000202",
+        "sentence": "「ちがいます、",
+        "sentence_with_furigana": "「ちがいます、",
+        "audio_begin": 916040,
+        "audio_end": 916880
+    },
+    {
+        "id": "f000203",
+        "sentence": "ちがいます。",
+        "sentence_with_furigana": "ちがいます。",
+        "audio_begin": 916880,
+        "audio_end": 917600
+    },
+    {
+        "id": "f000204",
+        "sentence": "そんなんでないんです。」",
+        "sentence_with_furigana": "そんなんでないんです。」",
+        "audio_begin": 917600,
+        "audio_end": 919400
+    },
+    {
+        "id": "f000205",
+        "sentence": "「うるさいなあ。",
+        "sentence_with_furigana": "「うるさいなあ。",
+        "audio_begin": 919400,
+        "audio_end": 921040
+    },
+    {
+        "id": "f000206",
+        "sentence": "ではおまえやってごらん。」",
+        "sentence_with_furigana": "ではおまえやってごらん。」",
+        "audio_begin": 921040,
+        "audio_end": 922337
+    },
+    {
+        "id": "f000207",
+        "sentence": "「こうですよ。",
+        "sentence_with_furigana": "「こうですよ。",
+        "audio_begin": 922337,
+        "audio_end": 923520
+    },
+    {
+        "id": "f000208",
+        "sentence": "」かっこうはからだをまえに曲げてしばらく構えてから",
+        "sentence_with_furigana": "」かっこうはからだをまえに曲げてしばらく構えてから",
+        "audio_begin": 923520,
+        "audio_end": 927359
+    },
+    {
+        "id": "f000209",
+        "sentence": "「かっこう」と一つなきました。",
+        "sentence_with_furigana": "「かっこう」と一つなきました。",
+        "audio_begin": 927359,
+        "audio_end": 930200
+    },
+    {
+        "id": "f000210",
+        "sentence": "「何だい。",
+        "sentence_with_furigana": "「何だい。",
+        "audio_begin": 930200,
+        "audio_end": 931160
+    },
+    {
+        "id": "f000211",
+        "sentence": "それがドレミファかい。",
+        "sentence_with_furigana": "それがドレミファかい。",
+        "audio_begin": 931160,
+        "audio_end": 933720
+    },
+    {
+        "id": "f000212",
+        "sentence": "おまえたちには、",
+        "sentence_with_furigana": "おまえたちには、",
+        "audio_begin": 933720,
+        "audio_end": 934760
+    },
+    {
+        "id": "f000213",
+        "sentence": "それではドレミファも第六交響楽も同じなんだな。」",
+        "sentence_with_furigana": "それではドレミファも第六 交響楽[こうきょうがく]も同じなんだな。」",
+        "audio_begin": 934760,
+        "audio_end": 939360
+    },
+    {
+        "id": "f000214",
+        "sentence": "「それはちがいます。」",
+        "sentence_with_furigana": "「それはちがいます。」",
+        "audio_begin": 939360,
+        "audio_end": 940520
+    },
+    {
+        "id": "f000215",
+        "sentence": "「どうちがうんだ。」",
+        "sentence_with_furigana": "「どうちがうんだ。」",
+        "audio_begin": 940520,
+        "audio_end": 941960
+    },
+    {
+        "id": "f000216",
+        "sentence": "「むずかしいのはこれをたくさん続けたのがあるんです。」",
+        "sentence_with_furigana": "「むずかしいのはこれをたくさん続けたのがあるんです。」",
+        "audio_begin": 941960,
+        "audio_end": 945180
+    },
+    {
+        "id": "f000217",
+        "sentence": "「つまりこうだろう。",
+        "sentence_with_furigana": "「つまりこうだろう。",
+        "audio_begin": 945180,
+        "audio_end": 946840
+    },
+    {
+        "id": "f000218",
+        "sentence": "」セロ弾きはまたセロをとって、",
+        "sentence_with_furigana": "」セロ弾きはまたセロをとって、",
+        "audio_begin": 946840,
+        "audio_end": 949545
+    },
+    {
+        "id": "f000219",
+        "sentence": "かっこうかっこうかっこうかっこうかっこうとつづけてひきました。",
+        "sentence_with_furigana": "かっこうかっこうかっこうかっこうかっこうとつづけてひきました。",
+        "audio_begin": 949545,
+        "audio_end": 955931
+    },
+    {
+        "id": "f000220",
+        "sentence": "するとかっこうはたいへんよろこんで途中からかっこうかっこうかっこうかっこうとついて叫びました。",
+        "sentence_with_furigana": "するとかっこうはたいへんよろこんで 途中[とちゅう]からかっこうかっこうかっこうかっこうとついて 叫[さけ]びました。",
+        "audio_begin": 955931,
+        "audio_end": 966920
+    },
+    {
+        "id": "f000221",
+        "sentence": "それももう一生けん命からだをまげていつまでも叫ぶのです。",
+        "sentence_with_furigana": "それももう一生けん命からだをまげていつまでも叫ぶのです。",
+        "audio_begin": 966920,
+        "audio_end": 973280
+    },
+    {
+        "id": "f000222",
+        "sentence": "ゴーシュはとうとう手が痛くなって",
+        "sentence_with_furigana": "ゴーシュはとうとう手が痛くなって",
+        "audio_begin": 973280,
+        "audio_end": 976000
+    },
+    {
+        "id": "f000223",
+        "sentence": "「こら、",
+        "sentence_with_furigana": "「こら、",
+        "audio_begin": 976000,
+        "audio_end": 976600
+    },
+    {
+        "id": "f000224",
+        "sentence": "いいかげんにしないか。",
+        "sentence_with_furigana": "いいかげんにしないか。",
+        "audio_begin": 976600,
+        "audio_end": 977520
+    },
+    {
+        "id": "f000225",
+        "sentence": "」と云いながらやめました。",
+        "sentence_with_furigana": "」と云いながらやめました。",
+        "audio_begin": 977520,
+        "audio_end": 980219
+    },
+    {
+        "id": "f000226",
+        "sentence": "するとかっこうは残念そうに眼をつりあげてまだしばらくないていましたがやっと",
+        "sentence_with_furigana": "するとかっこうは残念そうに 眼[め]をつりあげてまだしばらくないていましたがやっと",
+        "audio_begin": 980219,
+        "audio_end": 987870
+    },
+    {
+        "id": "f000227",
+        "sentence": "「……かっこうかくうかっかっかっかっか」と云ってやめました。",
+        "sentence_with_furigana": "「……かっこうかくうかっかっかっかっか」と云ってやめました。",
+        "audio_begin": 987870,
+        "audio_end": 994789
+    },
+    {
+        "id": "f000228",
+        "sentence": "ゴーシュがすっかりおこってしまって、",
+        "sentence_with_furigana": "ゴーシュがすっかりおこってしまって、",
+        "audio_begin": 994789,
+        "audio_end": 997773
+    },
+    {
+        "id": "f000229",
+        "sentence": "「こらとり、",
+        "sentence_with_furigana": "「こらとり、",
+        "audio_begin": 997773,
+        "audio_end": 999200
+    },
+    {
+        "id": "f000230",
+        "sentence": "もう用が済んだらかえれ」と云いました。",
+        "sentence_with_furigana": "もう用が済んだらかえれ」と云いました。",
+        "audio_begin": 999200,
+        "audio_end": 1002394
+    },
+    {
+        "id": "f000231",
+        "sentence": "「どうかもういっぺん弾いてください。",
+        "sentence_with_furigana": "「どうかもういっぺん弾いてください。",
+        "audio_begin": 1002394,
+        "audio_end": 1005331
+    },
+    {
+        "id": "f000232",
+        "sentence": "あなたのはいいようだけれどもすこしちがうんです。」",
+        "sentence_with_furigana": "あなたのはいいようだけれどもすこしちがうんです。」",
+        "audio_begin": 1005331,
+        "audio_end": 1009116
+    },
+    {
+        "id": "f000233",
+        "sentence": "「何だと、",
+        "sentence_with_furigana": "「何だと、",
+        "audio_begin": 1009116,
+        "audio_end": 1010800
+    },
+    {
+        "id": "f000234",
+        "sentence": "おれがきさまに教わってるんではないんだぞ。",
+        "sentence_with_furigana": "おれがきさまに教わってるんではないんだぞ。",
+        "audio_begin": 1010800,
+        "audio_end": 1012901
+    },
+    {
+        "id": "f000235",
+        "sentence": "帰らんか。」",
+        "sentence_with_furigana": "帰らんか。」",
+        "audio_begin": 1012901,
+        "audio_end": 1014364
+    },
+    {
+        "id": "f000236",
+        "sentence": "「どうかたったもう一ぺんおねがいです。",
+        "sentence_with_furigana": "「どうかたったもう一ぺんおねがいです。",
+        "audio_begin": 1014364,
+        "audio_end": 1017382
+    },
+    {
+        "id": "f000237",
+        "sentence": "どうか。",
+        "sentence_with_furigana": "どうか。",
+        "audio_begin": 1017382,
+        "audio_end": 1019402
+    },
+    {
+        "id": "f000238",
+        "sentence": "」かっこうは頭を何べんもこんこん下げました。",
+        "sentence_with_furigana": "」かっこうは頭を何べんもこんこん下げました。",
+        "audio_begin": 1019402,
+        "audio_end": 1023315
+    },
+    {
+        "id": "f000239",
+        "sentence": "「ではこれっきりだよ。」",
+        "sentence_with_furigana": "「ではこれっきりだよ。」",
+        "audio_begin": 1023315,
+        "audio_end": 1025672
+    },
+    {
+        "id": "f000240",
+        "sentence": "ゴーシュは弓をかまえました。",
+        "sentence_with_furigana": "ゴーシュは弓をかまえました。",
+        "audio_begin": 1025672,
+        "audio_end": 1028492
+    },
+    {
+        "id": "f000241",
+        "sentence": "かっこうは「くっ」とひとつ息をして",
+        "sentence_with_furigana": "かっこうは「くっ」とひとつ息をして",
+        "audio_begin": 1028492,
+        "audio_end": 1032200
+    },
+    {
+        "id": "f000242",
+        "sentence": "「ではなるべく永くおねがいいたします。",
+        "sentence_with_furigana": "「ではなるべく永くおねがいいたします。",
+        "audio_begin": 1032200,
+        "audio_end": 1034880
+    },
+    {
+        "id": "f000243",
+        "sentence": "」といってまた一つおじぎをしました。",
+        "sentence_with_furigana": "」といってまた一つおじぎをしました。",
+        "audio_begin": 1034880,
+        "audio_end": 1038119
+    },
+    {
+        "id": "f000244",
+        "sentence": "「いやになっちまうなあ。",
+        "sentence_with_furigana": "「いやになっちまうなあ。",
+        "audio_begin": 1038119,
+        "audio_end": 1040599
+    },
+    {
+        "id": "f000245",
+        "sentence": "」ゴーシュはにが笑いしながら弾きはじめました。",
+        "sentence_with_furigana": "」ゴーシュはにが笑いしながら弾きはじめました。",
+        "audio_begin": 1040599,
+        "audio_end": 1044079
+    },
+    {
+        "id": "f000246",
+        "sentence": "するとかっこうはまたまるで本気になって「かっこうかっこうかっこう」とからだをまげてじつに一生けん命叫びました。",
+        "sentence_with_furigana": "するとかっこうはまたまるで本気になって「かっこうかっこうかっこう」とからだをまげてじつに一生けん命叫びました。",
+        "audio_begin": 1044079,
+        "audio_end": 1055498
+    },
+    {
+        "id": "f000247",
+        "sentence": "ゴーシュははじめはむしゃくしゃしていましたがいつまでもつづけて弾いているうちにふっと何だかこれは鳥の方がほんとうのドレミファにはまっているかなという気がしてきました。",
+        "sentence_with_furigana": "ゴーシュははじめはむしゃくしゃしていましたがいつまでもつづけて弾いているうちにふっと何だかこれは鳥の方がほんとうのドレミファにはまっているかなという気がしてきました。",
+        "audio_begin": 1055498,
+        "audio_end": 1069929
+    },
+    {
+        "id": "f000248",
+        "sentence": "どうも弾けば弾くほどかっこうの方がいいような気がするのでした。",
+        "sentence_with_furigana": "どうも弾けば弾くほどかっこうの方がいいような気がするのでした。",
+        "audio_begin": 1069929,
+        "audio_end": 1076040
+    },
+    {
+        "id": "f000249",
+        "sentence": "「えいこんなばかなことしていたらおれは鳥になってしまうんじゃないか。",
+        "sentence_with_furigana": "「えいこんなばかなことしていたらおれは鳥になってしまうんじゃないか。",
+        "audio_begin": 1076040,
+        "audio_end": 1081516
+    },
+    {
+        "id": "f000250",
+        "sentence": "」とゴーシュはいきなりぴたりとセロをやめました。",
+        "sentence_with_furigana": "」とゴーシュはいきなりぴたりとセロをやめました。",
+        "audio_begin": 1081516,
+        "audio_end": 1085840
+    },
+    {
+        "id": "f000251",
+        "sentence": "するとかっこうはどしんと頭を叩かれたようにふらふらっとしてそれからまたさっきのように",
+        "sentence_with_furigana": "するとかっこうはどしんと頭を 叩[たた]かれたようにふらふらっとしてそれからまたさっきのように",
+        "audio_begin": 1085840,
+        "audio_end": 1093219
+    },
+    {
+        "id": "f000252",
+        "sentence": "「かっこうかっこうかっこうかっかっかっかっかっ」と云ってやめました。",
+        "sentence_with_furigana": "「かっこうかっこうかっこうかっかっかっかっかっ」と 云[い]ってやめました。",
+        "audio_begin": 1093219,
+        "audio_end": 1100400
+    },
+    {
+        "id": "f000253",
+        "sentence": "それから恨めしそうにゴーシュを見て",
+        "sentence_with_furigana": "それから 恨[うら]めしそうにゴーシュを見て",
+        "audio_begin": 1100400,
+        "audio_end": 1102720
+    },
+    {
+        "id": "f000254",
+        "sentence": "「なぜやめたんですか。",
+        "sentence_with_furigana": "「なぜやめたんですか。",
+        "audio_begin": 1102720,
+        "audio_end": 1104600
+    },
+    {
+        "id": "f000255",
+        "sentence": "ぼくらならどんな意気地ないやつでものどから血が出るまでは叫ぶんですよ。",
+        "sentence_with_furigana": "ぼくらならどんな意気地ないやつでものどから血が出るまでは叫ぶんですよ。",
+        "audio_begin": 1104600,
+        "audio_end": 1109612
+    },
+    {
+        "id": "f000256",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1109612,
+        "audio_end": 1111160
+    },
+    {
+        "id": "f000257",
+        "sentence": "「何を生意気な。",
+        "sentence_with_furigana": "「何を生意気な。",
+        "audio_begin": 1111160,
+        "audio_end": 1112979
+    },
+    {
+        "id": "f000258",
+        "sentence": "こんなばかなまねをいつまでしていられるか。",
+        "sentence_with_furigana": "こんなばかなまねをいつまでしていられるか。",
+        "audio_begin": 1112979,
+        "audio_end": 1116555
+    },
+    {
+        "id": "f000259",
+        "sentence": "もう出て行け。",
+        "sentence_with_furigana": "もう出て行け。",
+        "audio_begin": 1116555,
+        "audio_end": 1117920
+    },
+    {
+        "id": "f000260",
+        "sentence": "見ろ。",
+        "sentence_with_furigana": "見ろ。",
+        "audio_begin": 1117920,
+        "audio_end": 1118560
+    },
+    {
+        "id": "f000261",
+        "sentence": "夜があけるんじゃないか。",
+        "sentence_with_furigana": "夜があけるんじゃないか。",
+        "audio_begin": 1118560,
+        "audio_end": 1120920
+    },
+    {
+        "id": "f000262",
+        "sentence": "」ゴーシュは窓を指さしました。",
+        "sentence_with_furigana": "」ゴーシュは窓を指さしました。",
+        "audio_begin": 1120920,
+        "audio_end": 1124040
+    },
+    {
+        "id": "f000263",
+        "sentence": "東のそらがぼうっと銀いろになってそこをまっ黒な雲が北の方へどんどん走っています。",
+        "sentence_with_furigana": "東のそらがぼうっと銀いろになってそこをまっ黒な雲が北の方へどんどん走っています。",
+        "audio_begin": 1124040,
+        "audio_end": 1131787
+    },
+    {
+        "id": "f000264",
+        "sentence": "「ではお日さまの出るまでどうぞ。",
+        "sentence_with_furigana": "「ではお日さまの出るまでどうぞ。",
+        "audio_begin": 1131787,
+        "audio_end": 1134840
+    },
+    {
+        "id": "f000265",
+        "sentence": "もう一ぺん。",
+        "sentence_with_furigana": "もう一ぺん。",
+        "audio_begin": 1134840,
+        "audio_end": 1135600
+    },
+    {
+        "id": "f000266",
+        "sentence": "ちょっとですから。」",
+        "sentence_with_furigana": "ちょっとですから。」",
+        "audio_begin": 1135600,
+        "audio_end": 1137534
+    },
+    {
+        "id": "f000267",
+        "sentence": "かっこうはまた頭を下げました。",
+        "sentence_with_furigana": "かっこうはまた頭を下げました。",
+        "audio_begin": 1137534,
+        "audio_end": 1140400
+    },
+    {
+        "id": "f000268",
+        "sentence": "「黙れっ。",
+        "sentence_with_furigana": "「 黙[だま]れっ。",
+        "audio_begin": 1140400,
+        "audio_end": 1140840
+    },
+    {
+        "id": "f000269",
+        "sentence": "いい気になって。",
+        "sentence_with_furigana": "いい気になって。",
+        "audio_begin": 1140840,
+        "audio_end": 1141600
+    },
+    {
+        "id": "f000270",
+        "sentence": "このばか鳥め。",
+        "sentence_with_furigana": "このばか鳥め。",
+        "audio_begin": 1141600,
+        "audio_end": 1142760
+    },
+    {
+        "id": "f000271",
+        "sentence": "出て行かんとむしって朝飯に食ってしまうぞ。",
+        "sentence_with_furigana": "出て行かんとむしって朝飯に食ってしまうぞ。",
+        "audio_begin": 1142760,
+        "audio_end": 1146241
+    },
+    {
+        "id": "f000272",
+        "sentence": "」ゴーシュはどんと床をふみました。",
+        "sentence_with_furigana": "」ゴーシュはどんと床をふみました。",
+        "audio_begin": 1146241,
+        "audio_end": 1150293
+    },
+    {
+        "id": "f000273",
+        "sentence": "するとかっこうはにわかにびっくりしたようにいきなり窓をめがけて飛び立ちました。",
+        "sentence_with_furigana": "するとかっこうはにわかにびっくりしたようにいきなり窓をめがけて飛び立ちました。",
+        "audio_begin": 1150293,
+        "audio_end": 1156080
+    },
+    {
+        "id": "f000274",
+        "sentence": "そして硝子にはげしく頭をぶっつけてばたっと下へ落ちました。",
+        "sentence_with_furigana": "そして 硝子[ガラス]にはげしく頭をぶっつけてばたっと下へ落ちました。",
+        "audio_begin": 1156080,
+        "audio_end": 1162000
+    },
+    {
+        "id": "f000275",
+        "sentence": "「何だ、",
+        "sentence_with_furigana": "「何だ、",
+        "audio_begin": 1162000,
+        "audio_end": 1162760
+    },
+    {
+        "id": "f000276",
+        "sentence": "硝子へばかだなあ。",
+        "sentence_with_furigana": "硝子へばかだなあ。",
+        "audio_begin": 1162760,
+        "audio_end": 1164920
+    },
+    {
+        "id": "f000277",
+        "sentence": "」ゴーシュはあわてて立って窓をあけようとしましたが元来この窓はそんなにいつでもするする開く窓ではありませんでした。",
+        "sentence_with_furigana": "」ゴーシュはあわてて立って窓をあけようとしましたが元来この窓はそんなにいつでもするする開く窓ではありませんでした。",
+        "audio_begin": 1164920,
+        "audio_end": 1175742
+    },
+    {
+        "id": "f000278",
+        "sentence": "ゴーシュが窓のわくをしきりにがたがたしているうちにまたかっこうがばっとぶっつかって下へ落ちました。",
+        "sentence_with_furigana": "ゴーシュが窓のわくをしきりにがたがたしているうちにまたかっこうがばっとぶっつかって下へ落ちました。",
+        "audio_begin": 1175742,
+        "audio_end": 1184560
+    },
+    {
+        "id": "f000279",
+        "sentence": "見ると嘴のつけねからすこし血が出ています。",
+        "sentence_with_furigana": "見ると 嘴[くちばし]のつけねからすこし血が出ています。",
+        "audio_begin": 1184560,
+        "audio_end": 1189480
+    },
+    {
+        "id": "f000280",
+        "sentence": "「いまあけてやるから待っていろったら。",
+        "sentence_with_furigana": "「いまあけてやるから待っていろったら。",
+        "audio_begin": 1189480,
+        "audio_end": 1192867
+    },
+    {
+        "id": "f000281",
+        "sentence": "」ゴーシュがやっと二寸ばかり窓をあけたとき、",
+        "sentence_with_furigana": "」ゴーシュがやっと二寸ばかり窓をあけたとき、",
+        "audio_begin": 1192867,
+        "audio_end": 1195880
+    },
+    {
+        "id": "f000282",
+        "sentence": "かっこうは起きあがって何が何でもこんどこそというようにじっと窓の向うの東のそらをみつめて、",
+        "sentence_with_furigana": "かっこうは起きあがって何が何でもこんどこそというようにじっと窓の向うの東のそらをみつめて、",
+        "audio_begin": 1195880,
+        "audio_end": 1204280
+    },
+    {
+        "id": "f000283",
+        "sentence": "あらん限りの力をこめた風でぱっと飛びたちました。",
+        "sentence_with_furigana": "あらん限りの力をこめた風でぱっと飛びたちました。",
+        "audio_begin": 1204280,
+        "audio_end": 1209920
+    },
+    {
+        "id": "f000284",
+        "sentence": "もちろんこんどは前よりひどく硝子につきあたってかっこうは下へ落ちたまましばらく身動きもしませんでした。",
+        "sentence_with_furigana": "もちろんこんどは前よりひどく硝子につきあたってかっこうは下へ落ちたまましばらく身動きもしませんでした。",
+        "audio_begin": 1209920,
+        "audio_end": 1218421
+    },
+    {
+        "id": "f000285",
+        "sentence": "つかまえてドアから飛ばしてやろうとゴーシュが手を出しましたらいきなりかっこうは眼をひらいて飛びのきました。",
+        "sentence_with_furigana": "つかまえてドアから飛ばしてやろうとゴーシュが手を出しましたらいきなりかっこうは眼をひらいて飛びのきました。",
+        "audio_begin": 1218421,
+        "audio_end": 1227047
+    },
+    {
+        "id": "f000286",
+        "sentence": "そしてまたガラスへ飛びつきそうにするのです。",
+        "sentence_with_furigana": "そしてまたガラスへ飛びつきそうにするのです。",
+        "audio_begin": 1227047,
+        "audio_end": 1231080
+    },
+    {
+        "id": "f000287",
+        "sentence": "ゴーシュは思わず足を上げて窓をばっとけりました。",
+        "sentence_with_furigana": "ゴーシュは思わず足を上げて窓をばっとけりました。",
+        "audio_begin": 1231080,
+        "audio_end": 1236960
+    },
+    {
+        "id": "f000288",
+        "sentence": "ガラスは二三枚物すごい音して砕け窓はわくのまま外へ落ちました。",
+        "sentence_with_furigana": "ガラスは二三枚物すごい音して 砕[くだ]け窓はわくのまま外へ落ちました。",
+        "audio_begin": 1236960,
+        "audio_end": 1243754
+    },
+    {
+        "id": "f000289",
+        "sentence": "そのがらんとなった窓のあとをかっこうが矢のように外へ飛びだしました。",
+        "sentence_with_furigana": "そのがらんとなった窓のあとをかっこうが矢のように外へ飛びだしました。",
+        "audio_begin": 1243754,
+        "audio_end": 1250640
+    },
+    {
+        "id": "f000290",
+        "sentence": "そしてもうどこまでもどこまでもまっすぐに飛んで行ってとうとう見えなくなってしまいました。",
+        "sentence_with_furigana": "そしてもうどこまでもどこまでもまっすぐに飛んで行ってとうとう見えなくなってしまいました。",
+        "audio_begin": 1250640,
+        "audio_end": 1261598
+    },
+    {
+        "id": "f000291",
+        "sentence": "ゴーシュはしばらく呆れたように外を見ていましたが、",
+        "sentence_with_furigana": "ゴーシュはしばらく 呆[あき]れたように外を見ていましたが、",
+        "audio_begin": 1261598,
+        "audio_end": 1265640
+    },
+    {
+        "id": "f000292",
+        "sentence": "そのまま倒れるように室のすみへころがって睡ってしまいました。",
+        "sentence_with_furigana": "そのまま 倒[たお]れるように 室[へや]のすみへころがって 睡[ねむ]ってしまいました。",
+        "audio_begin": 1265640,
+        "audio_end": 1271640
+    },
+    {
+        "id": "f000293",
+        "sentence": "次の晩もゴーシュは夜中すぎまでセロを弾いてつかれて水を一杯のんでいますと、",
+        "sentence_with_furigana": "次の晩もゴーシュは夜中すぎまでセロを弾いてつかれて水を 一杯[いっぱい]のんでいますと、",
+        "audio_begin": 1271640,
+        "audio_end": 1283471
+    },
+    {
+        "id": "f000294",
+        "sentence": "また扉をこつこつ叩くものがあります。",
+        "sentence_with_furigana": "また 扉[と]をこつこつ 叩[たた]くものがあります。",
+        "audio_begin": 1283471,
+        "audio_end": 1287930
+    },
+    {
+        "id": "f000295",
+        "sentence": "今夜は何が来てもゆうべのかっこうのようにはじめからおどかして追い払ってやろうと思ってコップをもったまま待ち構えて居りますと、",
+        "sentence_with_furigana": "今夜は何が来てもゆうべのかっこうのようにはじめからおどかして追い 払[はら]ってやろうと思ってコップをもったまま待ち構えて 居[お]りますと、",
+        "audio_begin": 1287930,
+        "audio_end": 1298320
+    },
+    {
+        "id": "f000296",
+        "sentence": "扉がすこしあいて一疋の狸の子がはいってきました。",
+        "sentence_with_furigana": "扉がすこしあいて一疋の 狸[たぬき]の子がはいってきました。",
+        "audio_begin": 1298320,
+        "audio_end": 1304280
+    },
+    {
+        "id": "f000297",
+        "sentence": "ゴーシュはそこでその扉をもう少し広くひらいて置いてどんと足をふんで、",
+        "sentence_with_furigana": "ゴーシュはそこでその扉をもう少し広くひらいて置いてどんと足をふんで、",
+        "audio_begin": 1304280,
+        "audio_end": 1309760
+    },
+    {
+        "id": "f000298",
+        "sentence": "「こら、",
+        "sentence_with_furigana": "「こら、",
+        "audio_begin": 1309760,
+        "audio_end": 1310880
+    },
+    {
+        "id": "f000299",
+        "sentence": "狸、",
+        "sentence_with_furigana": "狸、",
+        "audio_begin": 1310880,
+        "audio_end": 1311960
+    },
+    {
+        "id": "f000300",
+        "sentence": "おまえは狸汁ということを知っているかっ。",
+        "sentence_with_furigana": "おまえは 狸汁[たぬきじる]ということを知っているかっ。",
+        "audio_begin": 1311960,
+        "audio_end": 1314200
+    },
+    {
+        "id": "f000301",
+        "sentence": "」とどなりました。",
+        "sentence_with_furigana": "」とどなりました。",
+        "audio_begin": 1314200,
+        "audio_end": 1316293
+    },
+    {
+        "id": "f000302",
+        "sentence": "すると狸の子はぼんやりした顔をしてきちんと床へ座ったままどうもわからないというように首をまげて考えていましたが、",
+        "sentence_with_furigana": "すると狸の子はぼんやりした顔をしてきちんと床へ 座[すわ]ったままどうもわからないというように首をまげて考えていましたが、",
+        "audio_begin": 1316293,
+        "audio_end": 1326560
+    },
+    {
+        "id": "f000303",
+        "sentence": "しばらくたって",
+        "sentence_with_furigana": "しばらくたって",
+        "audio_begin": 1326560,
+        "audio_end": 1328309
+    },
+    {
+        "id": "f000304",
+        "sentence": "「狸汁ってぼく知らない。",
+        "sentence_with_furigana": "「狸汁ってぼく知らない。",
+        "audio_begin": 1328309,
+        "audio_end": 1330155
+    },
+    {
+        "id": "f000305",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1330155,
+        "audio_end": 1332400
+    },
+    {
+        "id": "f000306",
+        "sentence": "ゴーシュはその顔を見て思わず吹き出そうとしましたが、",
+        "sentence_with_furigana": "ゴーシュはその顔を見て思わず 吹[ふ]き出そうとしましたが、",
+        "audio_begin": 1332400,
+        "audio_end": 1336633
+    },
+    {
+        "id": "f000307",
+        "sentence": "まだ無理に恐い顔をして、",
+        "sentence_with_furigana": "まだ無理に 恐[こわ]い顔をして、",
+        "audio_begin": 1336633,
+        "audio_end": 1339680
+    },
+    {
+        "id": "f000308",
+        "sentence": "「では教えてやろう。",
+        "sentence_with_furigana": "「では教えてやろう。",
+        "audio_begin": 1339680,
+        "audio_end": 1341835
+    },
+    {
+        "id": "f000309",
+        "sentence": "狸汁というのはな。",
+        "sentence_with_furigana": "狸汁というのはな。",
+        "audio_begin": 1341835,
+        "audio_end": 1344040
+    },
+    {
+        "id": "f000310",
+        "sentence": "おまえのような狸をな、",
+        "sentence_with_furigana": "おまえのような狸をな、",
+        "audio_begin": 1344040,
+        "audio_end": 1345875
+    },
+    {
+        "id": "f000311",
+        "sentence": "キャベジや塩とまぜてくたくたと煮ておれさまの食うようにしたものだ。",
+        "sentence_with_furigana": "キャベジや塩とまぜてくたくたと 煮[に]ておれさまの食うようにしたものだ。",
+        "audio_begin": 1345875,
+        "audio_end": 1350972
+    },
+    {
+        "id": "f000312",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1350972,
+        "audio_end": 1352360
+    },
+    {
+        "id": "f000313",
+        "sentence": "すると狸の子はまたふしぎそうに",
+        "sentence_with_furigana": "すると狸の子はまたふしぎそうに",
+        "audio_begin": 1352360,
+        "audio_end": 1354920
+    },
+    {
+        "id": "f000314",
+        "sentence": "「だってぼくのお父さんがね、",
+        "sentence_with_furigana": "「だってぼくのお父さんがね、",
+        "audio_begin": 1354920,
+        "audio_end": 1357160
+    },
+    {
+        "id": "f000315",
+        "sentence": "ゴーシュさんはとてもいい人でこわくないから行って習えと云ったよ。",
+        "sentence_with_furigana": "ゴーシュさんはとてもいい人でこわくないから行って習えと云ったよ。",
+        "audio_begin": 1357160,
+        "audio_end": 1362200
+    },
+    {
+        "id": "f000316",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1362200,
+        "audio_end": 1364920
+    },
+    {
+        "id": "f000317",
+        "sentence": "そこでゴーシュもとうとう笑い出してしまいました。",
+        "sentence_with_furigana": "そこでゴーシュもとうとう笑い出してしまいました。",
+        "audio_begin": 1364920,
+        "audio_end": 1369040
+    },
+    {
+        "id": "f000318",
+        "sentence": "「何を習えと云ったんだ。",
+        "sentence_with_furigana": "「何を習えと云ったんだ。",
+        "audio_begin": 1369040,
+        "audio_end": 1371000
+    },
+    {
+        "id": "f000319",
+        "sentence": "おれはいそがしいんじゃないか。",
+        "sentence_with_furigana": "おれはいそがしいんじゃないか。",
+        "audio_begin": 1371000,
+        "audio_end": 1372960
+    },
+    {
+        "id": "f000320",
+        "sentence": "それに睡いんだよ。」",
+        "sentence_with_furigana": "それに睡いんだよ。」",
+        "audio_begin": 1372960,
+        "audio_end": 1375933
+    },
+    {
+        "id": "f000321",
+        "sentence": "狸の子は俄に勢がついたように一足前へ出ました。",
+        "sentence_with_furigana": "狸の子は 俄[にわか]に 勢[いきおい]がついたように一足前へ出ました。",
+        "audio_begin": 1375933,
+        "audio_end": 1380480
+    },
+    {
+        "id": "f000322",
+        "sentence": "「ぼくは小太鼓の係りでねえ。",
+        "sentence_with_furigana": "「ぼくは 小太鼓[こだいこ]の係りでねえ。",
+        "audio_begin": 1380480,
+        "audio_end": 1382680
+    },
+    {
+        "id": "f000323",
+        "sentence": "セロへ合わせてもらって来いと云われたんだ。」",
+        "sentence_with_furigana": "セロへ合わせてもらって来いと云われたんだ。」",
+        "audio_begin": 1382680,
+        "audio_end": 1385999
+    },
+    {
+        "id": "f000324",
+        "sentence": "「どこにも小太鼓がないじゃないか。」",
+        "sentence_with_furigana": "「どこにも小太鼓がないじゃないか。」",
+        "audio_begin": 1385999,
+        "audio_end": 1388518
+    },
+    {
+        "id": "f000325",
+        "sentence": "「そら、",
+        "sentence_with_furigana": "「そら、",
+        "audio_begin": 1388518,
+        "audio_end": 1388840
+    },
+    {
+        "id": "f000326",
+        "sentence": "これ」狸の子はせなかから棒きれを二本出しました。",
+        "sentence_with_furigana": "これ」狸の子はせなかから棒きれを二本出しました。",
+        "audio_begin": 1388840,
+        "audio_end": 1393560
+    },
+    {
+        "id": "f000327",
+        "sentence": "「それでどうするんだ。」",
+        "sentence_with_furigana": "「それでどうするんだ。」",
+        "audio_begin": 1393560,
+        "audio_end": 1395612
+    },
+    {
+        "id": "f000328",
+        "sentence": "「ではね、",
+        "sentence_with_furigana": "「ではね、",
+        "audio_begin": 1395612,
+        "audio_end": 1396160
+    },
+    {
+        "id": "f000329",
+        "sentence": "『愉快な馬車屋』を弾いてください。」",
+        "sentence_with_furigana": "『 愉快[ゆかい]な馬車屋』を弾いてください。」",
+        "audio_begin": 1396160,
+        "audio_end": 1399720
+    },
+    {
+        "id": "f000330",
+        "sentence": "「なんだ愉快な馬車屋ってジャズか。」",
+        "sentence_with_furigana": "「なんだ愉快な馬車屋ってジャズか。」",
+        "audio_begin": 1399720,
+        "audio_end": 1403844
+    },
+    {
+        "id": "f000331",
+        "sentence": "「ああこの譜だよ。",
+        "sentence_with_furigana": "「ああこの 譜[ふ]だよ。",
+        "audio_begin": 1403844,
+        "audio_end": 1405945
+    },
+    {
+        "id": "f000332",
+        "sentence": "」狸の子はせなかからまた一枚の譜をとり出しました。",
+        "sentence_with_furigana": "」狸の子はせなかからまた一枚の譜をとり出しました。",
+        "audio_begin": 1405945,
+        "audio_end": 1410640
+    },
+    {
+        "id": "f000333",
+        "sentence": "ゴーシュは手にとってわらい出しました。",
+        "sentence_with_furigana": "ゴーシュは手にとってわらい出しました。",
+        "audio_begin": 1410640,
+        "audio_end": 1413027
+    },
+    {
+        "id": "f000334",
+        "sentence": "「ふう、",
+        "sentence_with_furigana": "「ふう、",
+        "audio_begin": 1413027,
+        "audio_end": 1413720
+    },
+    {
+        "id": "f000335",
+        "sentence": "変な曲だなあ。",
+        "sentence_with_furigana": "変な曲だなあ。",
+        "audio_begin": 1413720,
+        "audio_end": 1415129
+    },
+    {
+        "id": "f000336",
+        "sentence": "よし、",
+        "sentence_with_furigana": "よし、",
+        "audio_begin": 1415129,
+        "audio_end": 1416000
+    },
+    {
+        "id": "f000337",
+        "sentence": "さあ弾くぞ。",
+        "sentence_with_furigana": "さあ弾くぞ。",
+        "audio_begin": 1416000,
+        "audio_end": 1417218
+    },
+    {
+        "id": "f000338",
+        "sentence": "おまえは小太鼓を叩くのか。",
+        "sentence_with_furigana": "おまえは小太鼓を叩くのか。",
+        "audio_begin": 1417218,
+        "audio_end": 1420365
+    },
+    {
+        "id": "f000339",
+        "sentence": "」ゴーシュは狸の子がどうするのかと思ってちらちらそっちを見ながら弾きはじめました。",
+        "sentence_with_furigana": "」ゴーシュは狸の子がどうするのかと思ってちらちらそっちを見ながら弾きはじめました。",
+        "audio_begin": 1420365,
+        "audio_end": 1426360
+    },
+    {
+        "id": "f000340",
+        "sentence": "すると狸の子は棒をもってセロの駒の下のところを拍子をとってぽんぽん叩きはじめました。",
+        "sentence_with_furigana": "すると狸の子は棒をもってセロの 駒[こま]の下のところを 拍子[ひょうし]をとってぽんぽん叩きはじめました。",
+        "audio_begin": 1426360,
+        "audio_end": 1435280
+    },
+    {
+        "id": "f000341",
+        "sentence": "それがなかなかうまいので弾いているうちにゴーシュはこれは面白いぞと思いました。",
+        "sentence_with_furigana": "それがなかなかうまいので弾いているうちにゴーシュはこれは 面白[おもしろ]いぞと思いました。",
+        "audio_begin": 1435280,
+        "audio_end": 1443080
+    },
+    {
+        "id": "f000342",
+        "sentence": "おしまいまでひいてしまうと狸の子はしばらく首をまげて考えました。",
+        "sentence_with_furigana": "おしまいまでひいてしまうと狸の子はしばらく首をまげて考えました。",
+        "audio_begin": 1443080,
+        "audio_end": 1448400
+    },
+    {
+        "id": "f000343",
+        "sentence": "それからやっと考えついたというように云いました。",
+        "sentence_with_furigana": "それからやっと考えついたというように云いました。",
+        "audio_begin": 1448400,
+        "audio_end": 1454320
+    },
+    {
+        "id": "f000344",
+        "sentence": "「ゴーシュさんはこの二番目の糸をひくときはきたいに遅れるねえ。",
+        "sentence_with_furigana": "「ゴーシュさんはこの二番目の糸をひくときはきたいに 遅[おく]れるねえ。",
+        "audio_begin": 1454320,
+        "audio_end": 1459040
+    },
+    {
+        "id": "f000345",
+        "sentence": "なんだかぼくがつまずくようになるよ。」",
+        "sentence_with_furigana": "なんだかぼくがつまずくようになるよ。」",
+        "audio_begin": 1459040,
+        "audio_end": 1463000
+    },
+    {
+        "id": "f000346",
+        "sentence": "ゴーシュははっとしました。",
+        "sentence_with_furigana": "ゴーシュははっとしました。",
+        "audio_begin": 1463000,
+        "audio_end": 1465887
+    },
+    {
+        "id": "f000347",
+        "sentence": "たしかにその糸はどんなに手早く弾いてもすこしたってからでないと音が出ないような気がゆうべからしていたのでした。",
+        "sentence_with_furigana": "たしかにその糸はどんなに手早く弾いてもすこしたってからでないと音が出ないような気がゆうべからしていたのでした。",
+        "audio_begin": 1465887,
+        "audio_end": 1477320
+    },
+    {
+        "id": "f000348",
+        "sentence": "「いや、",
+        "sentence_with_furigana": "「いや、",
+        "audio_begin": 1477320,
+        "audio_end": 1478040
+    },
+    {
+        "id": "f000349",
+        "sentence": "そうかもしれない。",
+        "sentence_with_furigana": "そうかもしれない。",
+        "audio_begin": 1478040,
+        "audio_end": 1479866
+    },
+    {
+        "id": "f000350",
+        "sentence": "このセロは悪いんだよ。",
+        "sentence_with_furigana": "このセロは悪いんだよ。",
+        "audio_begin": 1479866,
+        "audio_end": 1482048
+    },
+    {
+        "id": "f000351",
+        "sentence": "」とゴーシュはかなしそうに云いました。",
+        "sentence_with_furigana": "」とゴーシュはかなしそうに云いました。",
+        "audio_begin": 1482048,
+        "audio_end": 1484400
+    },
+    {
+        "id": "f000352",
+        "sentence": "すると狸は気の毒そうにしてまたしばらく考えていましたが",
+        "sentence_with_furigana": "すると狸は気の毒そうにしてまたしばらく考えていましたが",
+        "audio_begin": 1484400,
+        "audio_end": 1488759
+    },
+    {
+        "id": "f000353",
+        "sentence": "「どこが悪いんだろうなあ。",
+        "sentence_with_furigana": "「どこが悪いんだろうなあ。",
+        "audio_begin": 1488759,
+        "audio_end": 1490651
+    },
+    {
+        "id": "f000354",
+        "sentence": "ではもう一ぺん弾いてくれますか。」",
+        "sentence_with_furigana": "ではもう一ぺん弾いてくれますか。」",
+        "audio_begin": 1490651,
+        "audio_end": 1494297
+    },
+    {
+        "id": "f000355",
+        "sentence": "「いいとも弾くよ。",
+        "sentence_with_furigana": "「いいとも弾くよ。",
+        "audio_begin": 1494297,
+        "audio_end": 1496200
+    },
+    {
+        "id": "f000356",
+        "sentence": "」ゴーシュははじめました。",
+        "sentence_with_furigana": "」ゴーシュははじめました。",
+        "audio_begin": 1496200,
+        "audio_end": 1498813
+    },
+    {
+        "id": "f000357",
+        "sentence": "狸の子はさっきのようにとんとん叩きながら時々頭をまげてセロに耳をつけるようにしました。",
+        "sentence_with_furigana": "狸の子はさっきのようにとんとん叩きながら時々頭をまげてセロに耳をつけるようにしました。",
+        "audio_begin": 1498813,
+        "audio_end": 1506320
+    },
+    {
+        "id": "f000358",
+        "sentence": "そしておしまいまで来たときは今夜もまた東がぼうと明るくなっていました。",
+        "sentence_with_furigana": "そしておしまいまで来たときは今夜もまた東がぼうと明るくなっていました。",
+        "audio_begin": 1506320,
+        "audio_end": 1514440
+    },
+    {
+        "id": "f000359",
+        "sentence": "「ああ夜が明けたぞ。",
+        "sentence_with_furigana": "「ああ夜が明けたぞ。",
+        "audio_begin": 1514440,
+        "audio_end": 1516160
+    },
+    {
+        "id": "f000360",
+        "sentence": "どうもありがとう。",
+        "sentence_with_furigana": "どうもありがとう。",
+        "audio_begin": 1516160,
+        "audio_end": 1517640
+    },
+    {
+        "id": "f000361",
+        "sentence": "」狸の子は大へんあわてて譜や棒きれをせなかへしょってゴムテープでぱちんととめておじぎを二つ三つすると急いで外へ出て行ってしまいました。",
+        "sentence_with_furigana": "」狸の子は大へんあわてて譜や棒きれをせなかへしょってゴムテープでぱちんととめておじぎを二つ三つすると急いで外へ出て行ってしまいました。",
+        "audio_begin": 1517640,
+        "audio_end": 1531124
+    },
+    {
+        "id": "f000362",
+        "sentence": "ゴーシュはぼんやりしてしばらくゆうべのこわれたガラスからはいってくる風を吸っていましたが、",
+        "sentence_with_furigana": "ゴーシュはぼんやりしてしばらくゆうべのこわれたガラスからはいってくる風を吸っていましたが、",
+        "audio_begin": 1531124,
+        "audio_end": 1538960
+    },
+    {
+        "id": "f000363",
+        "sentence": "町へ出て行くまで睡って元気をとり戻そうと急いでねどこへもぐり込みました。",
+        "sentence_with_furigana": "町へ出て行くまで睡って元気をとり 戻[もど]そうと急いでねどこへもぐり 込[こ]みました。",
+        "audio_begin": 1538960,
+        "audio_end": 1549282
+    },
+    {
+        "id": "f000364",
+        "sentence": "次の晩もゴーシュは夜通しセロを弾いて明方近く思わずつかれて楽譜をもったままうとうとしていますとまた誰か扉をこつこつと叩くものがあります。",
+        "sentence_with_furigana": "次の晩もゴーシュは夜通しセロを弾いて明方近く思わずつかれて楽譜をもったままうとうとしていますとまた 誰[たれ]か 扉[と]をこつこつと叩くものがあります。",
+        "audio_begin": 1549282,
+        "audio_end": 1562040
+    },
+    {
+        "id": "f000365",
+        "sentence": "それもまるで聞えるか聞えないかの位でしたが毎晩のことなのでゴーシュはすぐ聞きつけて「おはいり。",
+        "sentence_with_furigana": "それもまるで聞えるか聞えないかの位でしたが毎晩のことなのでゴーシュはすぐ聞きつけて「おはいり。",
+        "audio_begin": 1562040,
+        "audio_end": 1571000
+    },
+    {
+        "id": "f000366",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1571000,
+        "audio_end": 1572600
+    },
+    {
+        "id": "f000367",
+        "sentence": "すると戸のすきまからはいって来たのは一ぴきの野ねずみでした。",
+        "sentence_with_furigana": "すると戸のすきまからはいって来たのは一ぴきの野ねずみでした。",
+        "audio_begin": 1572600,
+        "audio_end": 1579200
+    },
+    {
+        "id": "f000368",
+        "sentence": "そして大へんちいさなこどもをつれてちょろちょろとゴーシュの前へ歩いてきました。",
+        "sentence_with_furigana": "そして大へんちいさなこどもをつれてちょろちょろとゴーシュの前へ歩いてきました。",
+        "audio_begin": 1579200,
+        "audio_end": 1586341
+    },
+    {
+        "id": "f000369",
+        "sentence": "そのまた野ねずみのこどもときたらまるでけしごむのくらいしかないのでゴーシュはおもわずわらいました。",
+        "sentence_with_furigana": "そのまた野ねずみのこどもときたらまるでけしごむのくらいしかないのでゴーシュはおもわずわらいました。",
+        "audio_begin": 1586341,
+        "audio_end": 1594909
+    },
+    {
+        "id": "f000370",
+        "sentence": "すると野ねずみは何をわらわれたろうというようにきょろきょろしながらゴーシュの前に来て、",
+        "sentence_with_furigana": "すると野ねずみは何をわらわれたろうというようにきょろきょろしながらゴーシュの前に来て、",
+        "audio_begin": 1594909,
+        "audio_end": 1602000
+    },
+    {
+        "id": "f000371",
+        "sentence": "青い栗の実を一つぶ前においてちゃんとおじぎをして云いました。",
+        "sentence_with_furigana": "青い 栗[くり]の実を一つぶ前においてちゃんとおじぎをして云いました。",
+        "audio_begin": 1602000,
+        "audio_end": 1607560
+    },
+    {
+        "id": "f000372",
+        "sentence": "「先生、",
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 1607560,
+        "audio_end": 1608000
+    },
+    {
+        "id": "f000373",
+        "sentence": "この児があんばいがわるくて死にそうでございますが先生お慈悲になおしてやってくださいまし。」",
+        "sentence_with_furigana": "この 児[こ]があんばいがわるくて死にそうでございますが先生お 慈悲[じひ]になおしてやってくださいまし。」",
+        "audio_begin": 1608000,
+        "audio_end": 1615000
+    },
+    {
+        "id": "f000374",
+        "sentence": "「おれが医者などやれるもんか。",
+        "sentence_with_furigana": "「おれが医者などやれるもんか。",
+        "audio_begin": 1615000,
+        "audio_end": 1617880
+    },
+    {
+        "id": "f000375",
+        "sentence": "」ゴーシュはすこしむっとして云いました。",
+        "sentence_with_furigana": "」ゴーシュはすこしむっとして云いました。",
+        "audio_begin": 1617880,
+        "audio_end": 1620480
+    },
+    {
+        "id": "f000376",
+        "sentence": "すると野ねずみのお母さんは下を向いてしばらくだまっていましたがまた思い切ったように云いました。",
+        "sentence_with_furigana": "すると野ねずみのお母さんは下を向いてしばらくだまっていましたがまた思い切ったように云いました。",
+        "audio_begin": 1620480,
+        "audio_end": 1629240
+    },
+    {
+        "id": "f000377",
+        "sentence": "「先生、",
+        "sentence_with_furigana": "「先生、",
+        "audio_begin": 1629240,
+        "audio_end": 1629920
+    },
+    {
+        "id": "f000378",
+        "sentence": "それはうそでございます、",
+        "sentence_with_furigana": "それはうそでございます、",
+        "audio_begin": 1629920,
+        "audio_end": 1631760
+    },
+    {
+        "id": "f000379",
+        "sentence": "先生は毎日あんなに上手にみんなの病気をなおしておいでになるではありませんか。」",
+        "sentence_with_furigana": "先生は毎日あんなに上手にみんなの病気をなおしておいでになるではありませんか。」",
+        "audio_begin": 1631760,
+        "audio_end": 1638240
+    },
+    {
+        "id": "f000380",
+        "sentence": "「何のことだかわからんね。」",
+        "sentence_with_furigana": "「何のことだかわからんね。」",
+        "audio_begin": 1638240,
+        "audio_end": 1640920
+    },
+    {
+        "id": "f000381",
+        "sentence": "「だって先生先生のおかげで、",
+        "sentence_with_furigana": "「だって先生先生のおかげで、",
+        "audio_begin": 1640920,
+        "audio_end": 1643160
+    },
+    {
+        "id": "f000382",
+        "sentence": "兎さんのおばあさんもなおりましたし狸さんのお父さんもなおりましたしあんな意地悪のみみずくまでなおしていただいたのにこの子ばかりお助けをいただけないとはあんまり情ないことでございます。」",
+        "sentence_with_furigana": "兎[うさぎ]さんのおばあさんもなおりましたし狸さんのお父さんもなおりましたしあんな意地悪のみみずくまでなおしていただいたのにこの子ばかりお助けをいただけないとはあんまり情ないことでございます。」",
+        "audio_begin": 1643160,
+        "audio_end": 1657080
+    },
+    {
+        "id": "f000383",
+        "sentence": "「おいおい、",
+        "sentence_with_furigana": "「おいおい、",
+        "audio_begin": 1657080,
+        "audio_end": 1657800
+    },
+    {
+        "id": "f000384",
+        "sentence": "それは何かの間ちがいだよ。",
+        "sentence_with_furigana": "それは何かの間ちがいだよ。",
+        "audio_begin": 1657800,
+        "audio_end": 1660520
+    },
+    {
+        "id": "f000385",
+        "sentence": "おれはみみずくの病気なんどなおしてやったことはないからな。",
+        "sentence_with_furigana": "おれはみみずくの病気なんどなおしてやったことはないからな。",
+        "audio_begin": 1660520,
+        "audio_end": 1664615
+    },
+    {
+        "id": "f000386",
+        "sentence": "もっとも狸の子はゆうべ来て楽隊のまねをして行ったがね。",
+        "sentence_with_furigana": "もっとも狸の子はゆうべ来て楽隊のまねをして行ったがね。",
+        "audio_begin": 1664615,
+        "audio_end": 1669400
+    },
+    {
+        "id": "f000387",
+        "sentence": "ははん。",
+        "sentence_with_furigana": "ははん。",
+        "audio_begin": 1669400,
+        "audio_end": 1670507
+    },
+    {
+        "id": "f000388",
+        "sentence": "」ゴーシュは呆れてその子ねずみを見おろしてわらいました。",
+        "sentence_with_furigana": "」ゴーシュは 呆[あき]れてその子ねずみを見おろしてわらいました。",
+        "audio_begin": 1670507,
+        "audio_end": 1675160
+    },
+    {
+        "id": "f000389",
+        "sentence": "すると野鼠のお母さんは泣きだしてしまいました。",
+        "sentence_with_furigana": "すると 野鼠[のねずみ]のお母さんは泣きだしてしまいました。",
+        "audio_begin": 1675160,
+        "audio_end": 1680200
+    },
+    {
+        "id": "f000390",
+        "sentence": "「ああこの児はどうせ病気になるならもっと早くなればよかった。",
+        "sentence_with_furigana": "「ああこの 児[こ]はどうせ病気になるならもっと早くなればよかった。",
+        "audio_begin": 1680200,
+        "audio_end": 1685320
+    },
+    {
+        "id": "f000391",
+        "sentence": "さっきまであれ位ごうごうと鳴らしておいでになったのに、",
+        "sentence_with_furigana": "さっきまであれ位ごうごうと鳴らしておいでになったのに、",
+        "audio_begin": 1685320,
+        "audio_end": 1689240
+    },
+    {
+        "id": "f000392",
+        "sentence": "病気になるといっしょにぴたっと音がとまってもうあとはいくらおねがいしても鳴らしてくださらないなんて。",
+        "sentence_with_furigana": "病気になるといっしょにぴたっと音がとまってもうあとはいくらおねがいしても鳴らしてくださらないなんて。",
+        "audio_begin": 1689240,
+        "audio_end": 1696120
+    },
+    {
+        "id": "f000393",
+        "sentence": "何てふしあわせな子どもだろう。」",
+        "sentence_with_furigana": "何てふしあわせな子どもだろう。」",
+        "audio_begin": 1696120,
+        "audio_end": 1700240
+    },
+    {
+        "id": "f000394",
+        "sentence": "ゴーシュはびっくりして叫びました。",
+        "sentence_with_furigana": "ゴーシュはびっくりして 叫[さけ]びました。",
+        "audio_begin": 1700240,
+        "audio_end": 1703600
+    },
+    {
+        "id": "f000395",
+        "sentence": "「何だと、",
+        "sentence_with_furigana": "「何だと、",
+        "audio_begin": 1703600,
+        "audio_end": 1704760
+    },
+    {
+        "id": "f000396",
+        "sentence": "ぼくがセロを弾けばみみずくや兎の病気がなおると。",
+        "sentence_with_furigana": "ぼくがセロを弾けばみみずくや兎の病気がなおると。",
+        "audio_begin": 1704760,
+        "audio_end": 1709000
+    },
+    {
+        "id": "f000397",
+        "sentence": "どういうわけだ。",
+        "sentence_with_furigana": "どういうわけだ。",
+        "audio_begin": 1709000,
+        "audio_end": 1709760
+    },
+    {
+        "id": "f000398",
+        "sentence": "それは。」",
+        "sentence_with_furigana": "それは。」",
+        "audio_begin": 1709760,
+        "audio_end": 1711160
+    },
+    {
+        "id": "f000399",
+        "sentence": "野ねずみは眼を片手でこすりこすり云いました。",
+        "sentence_with_furigana": "野ねずみは 眼[め]を片手でこすりこすり云いました。",
+        "audio_begin": 1711160,
+        "audio_end": 1715000
+    },
+    {
+        "id": "f000400",
+        "sentence": "「はい、",
+        "sentence_with_furigana": "「はい、",
+        "audio_begin": 1715000,
+        "audio_end": 1716019
+    },
+    {
+        "id": "f000401",
+        "sentence": "ここらのものは病気になるとみんな先生のおうちの床下にはいって療すのでございます。」",
+        "sentence_with_furigana": "ここらのものは病気になるとみんな先生のおうちの床下にはいって 療[なお]すのでございます。」",
+        "audio_begin": 1716013,
+        "audio_end": 1722253
+    },
+    {
+        "id": "f000402",
+        "sentence": "「すると療るのか。」",
+        "sentence_with_furigana": "「すると療るのか。」",
+        "audio_begin": 1722253,
+        "audio_end": 1723826
+    },
+    {
+        "id": "f000403",
+        "sentence": "「はい。",
+        "sentence_with_furigana": "「はい。",
+        "audio_begin": 1723826,
+        "audio_end": 1724511
+    },
+    {
+        "id": "f000404",
+        "sentence": "からだ中とても血のまわりがよくなって大へんいい気持ちですぐ療る方もあればうちへ帰ってから療る方もあります。」",
+        "sentence_with_furigana": "からだ中とても血のまわりがよくなって大へんいい気持ちですぐ療る方もあればうちへ帰ってから療る方もあります。」",
+        "audio_begin": 1724511,
+        "audio_end": 1733550
+    },
+    {
+        "id": "f000405",
+        "sentence": "「ああそうか。",
+        "sentence_with_furigana": "「ああそうか。",
+        "audio_begin": 1733550,
+        "audio_end": 1735800
+    },
+    {
+        "id": "f000406",
+        "sentence": "おれのセロの音がごうごうひびくと、",
+        "sentence_with_furigana": "おれのセロの音がごうごうひびくと、",
+        "audio_begin": 1735800,
+        "audio_end": 1739040
+    },
+    {
+        "id": "f000407",
+        "sentence": "それがあんまの代りになっておまえたちの病気がなおるというのか。",
+        "sentence_with_furigana": "それがあんまの代りになっておまえたちの病気がなおるというのか。",
+        "audio_begin": 1739040,
+        "audio_end": 1744880
+    },
+    {
+        "id": "f000408",
+        "sentence": "よし。",
+        "sentence_with_furigana": "よし。",
+        "audio_begin": 1744880,
+        "audio_end": 1746240
+    },
+    {
+        "id": "f000409",
+        "sentence": "わかったよ。",
+        "sentence_with_furigana": "わかったよ。",
+        "audio_begin": 1746240,
+        "audio_end": 1748021
+    },
+    {
+        "id": "f000410",
+        "sentence": "やってやろう。",
+        "sentence_with_furigana": "やってやろう。",
+        "audio_begin": 1748021,
+        "audio_end": 1750480
+    },
+    {
+        "id": "f000411",
+        "sentence": "」ゴーシュはちょっとギウギウと糸を合せてそれからいきなりのねずみのこどもをつまんでセロの孔から中へ入れてしまいました。",
+        "sentence_with_furigana": "」ゴーシュはちょっとギウギウと糸を合せてそれからいきなりのねずみのこどもをつまんでセロの 孔[あな]から中へ入れてしまいました。",
+        "audio_begin": 1750480,
+        "audio_end": 1761680
+    },
+    {
+        "id": "f000412",
+        "sentence": "「わたしもいっしょについて行きます。",
+        "sentence_with_furigana": "「わたしもいっしょについて行きます。",
+        "audio_begin": 1761680,
+        "audio_end": 1763360
+    },
+    {
+        "id": "f000413",
+        "sentence": "どこの病院でもそうですから。",
+        "sentence_with_furigana": "どこの病院でもそうですから。",
+        "audio_begin": 1763360,
+        "audio_end": 1766040
+    },
+    {
+        "id": "f000414",
+        "sentence": "」おっかさんの野ねずみはきちがいのようになってセロに飛びつきました。",
+        "sentence_with_furigana": "」おっかさんの野ねずみはきちがいのようになってセロに飛びつきました。",
+        "audio_begin": 1766040,
+        "audio_end": 1770880
+    },
+    {
+        "id": "f000415",
+        "sentence": "「おまえさんもはいるかね。",
+        "sentence_with_furigana": "「おまえさんもはいるかね。",
+        "audio_begin": 1770880,
+        "audio_end": 1772680
+    },
+    {
+        "id": "f000416",
+        "sentence": "」セロ弾きはおっかさんの野ねずみをセロの孔からくぐしてやろうとしましたが顔が半分しかはいりませんでした。",
+        "sentence_with_furigana": "」セロ弾きはおっかさんの野ねずみをセロの孔からくぐしてやろうとしましたが顔が半分しかはいりませんでした。",
+        "audio_begin": 1772680,
+        "audio_end": 1781720
+    },
+    {
+        "id": "f000417",
+        "sentence": "野ねずみはばたばたしながら中のこどもに叫びました。",
+        "sentence_with_furigana": "野ねずみはばたばたしながら中のこどもに叫びました。",
+        "audio_begin": 1781720,
+        "audio_end": 1786720
+    },
+    {
+        "id": "f000418",
+        "sentence": "「おまえそこはいいかい。",
+        "sentence_with_furigana": "「おまえそこはいいかい。",
+        "audio_begin": 1786720,
+        "audio_end": 1788720
+    },
+    {
+        "id": "f000419",
+        "sentence": "落ちるときいつも教えるように足をそろえてうまく落ちたかい。」",
+        "sentence_with_furigana": "落ちるときいつも教えるように足をそろえてうまく落ちたかい。」",
+        "audio_begin": 1788720,
+        "audio_end": 1793240
+    },
+    {
+        "id": "f000420",
+        "sentence": "「いい。",
+        "sentence_with_furigana": "「いい。",
+        "audio_begin": 1793240,
+        "audio_end": 1793640
+    },
+    {
+        "id": "f000421",
+        "sentence": "うまく落ちた。",
+        "sentence_with_furigana": "うまく落ちた。",
+        "audio_begin": 1793640,
+        "audio_end": 1795480
+    },
+    {
+        "id": "f000422",
+        "sentence": "」こどものねずみはまるで蚊のような小さな声でセロの底で返事しました。",
+        "sentence_with_furigana": "」こどものねずみはまるで 蚊[か]のような小さな声でセロの底で返事しました。",
+        "audio_begin": 1795480,
+        "audio_end": 1801764
+    },
+    {
+        "id": "f000423",
+        "sentence": "「大丈夫さ。",
+        "sentence_with_furigana": "「 大丈夫[だいじょうぶ]さ。",
+        "audio_begin": 1801764,
+        "audio_end": 1802800
+    },
+    {
+        "id": "f000424",
+        "sentence": "だから泣き声出すなというんだ。",
+        "sentence_with_furigana": "だから泣き声出すなというんだ。",
+        "audio_begin": 1802800,
+        "audio_end": 1806000
+    },
+    {
+        "id": "f000425",
+        "sentence": "」ゴーシュはおっかさんのねずみを下におろしてそれから弓をとって何とかラプソディとかいうものをごうごうがあがあ弾きました。",
+        "sentence_with_furigana": "」ゴーシュはおっかさんのねずみを下におろしてそれから弓をとって何とかラプソディとかいうものをごうごうがあがあ弾きました。",
+        "audio_begin": 1806000,
+        "audio_end": 1817720
+    },
+    {
+        "id": "f000426",
+        "sentence": "するとおっかさんのねずみはいかにも心配そうにその音の工合をきいていましたがとうとうこらえ切れなくなったふうで",
+        "sentence_with_furigana": "するとおっかさんのねずみはいかにも心配そうにその音の 工合[ぐあい]をきいていましたがとうとうこらえ切れなくなったふうで",
+        "audio_begin": 1817720,
+        "audio_end": 1827080
+    },
+    {
+        "id": "f000427",
+        "sentence": "「もう沢山です。",
+        "sentence_with_furigana": "「もう 沢山[たくさん]です。",
+        "audio_begin": 1827080,
+        "audio_end": 1828120
+    },
+    {
+        "id": "f000428",
+        "sentence": "どうか出してやってください。",
+        "sentence_with_furigana": "どうか出してやってください。",
+        "audio_begin": 1828120,
+        "audio_end": 1829880
+    },
+    {
+        "id": "f000429",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1829880,
+        "audio_end": 1831200
+    },
+    {
+        "id": "f000430",
+        "sentence": "「なあんだ、",
+        "sentence_with_furigana": "「なあんだ、",
+        "audio_begin": 1831200,
+        "audio_end": 1831840
+    },
+    {
+        "id": "f000431",
+        "sentence": "これでいいのか。",
+        "sentence_with_furigana": "これでいいのか。",
+        "audio_begin": 1831840,
+        "audio_end": 1834667
+    },
+    {
+        "id": "f000432",
+        "sentence": "」ゴーシュはセロをまげて孔のところに手をあてて待っていましたら間もなくこどものねずみが出てきました。",
+        "sentence_with_furigana": "」ゴーシュはセロをまげて孔のところに手をあてて待っていましたら間もなくこどものねずみが出てきました。",
+        "audio_begin": 1834667,
+        "audio_end": 1843304
+    },
+    {
+        "id": "f000433",
+        "sentence": "ゴーシュは、",
+        "sentence_with_furigana": "ゴーシュは、",
+        "audio_begin": 1843304,
+        "audio_end": 1844320
+    },
+    {
+        "id": "f000434",
+        "sentence": "だまってそれをおろしてやりました。",
+        "sentence_with_furigana": "だまってそれをおろしてやりました。",
+        "audio_begin": 1844320,
+        "audio_end": 1847720
+    },
+    {
+        "id": "f000435",
+        "sentence": "見るとすっかり目をつぶってぶるぶるぶるぶるふるえていました。",
+        "sentence_with_furigana": "見るとすっかり目をつぶってぶるぶるぶるぶるふるえていました。",
+        "audio_begin": 1847720,
+        "audio_end": 1854480
+    },
+    {
+        "id": "f000436",
+        "sentence": "「どうだったの。",
+        "sentence_with_furigana": "「どうだったの。",
+        "audio_begin": 1854480,
+        "audio_end": 1855560
+    },
+    {
+        "id": "f000437",
+        "sentence": "いいかい。",
+        "sentence_with_furigana": "いいかい。",
+        "audio_begin": 1855560,
+        "audio_end": 1856255
+    },
+    {
+        "id": "f000438",
+        "sentence": "気分は。」",
+        "sentence_with_furigana": "気分は。」",
+        "audio_begin": 1856255,
+        "audio_end": 1857654
+    },
+    {
+        "id": "f000439",
+        "sentence": "こどものねずみはすこしもへんじもしないでまだしばらく眼をつぶったままぶるぶるぶるぶるふるえていましたがにわかに起きあがって走りだした。",
+        "sentence_with_furigana": "こどものねずみはすこしもへんじもしないでまだしばらく眼をつぶったままぶるぶるぶるぶるふるえていましたがにわかに起きあがって走りだした。",
+        "audio_begin": 1857654,
+        "audio_end": 1868254
+    },
+    {
+        "id": "f000440",
+        "sentence": "「ああよくなったんだ。",
+        "sentence_with_furigana": "「ああよくなったんだ。",
+        "audio_begin": 1868254,
+        "audio_end": 1869800
+    },
+    {
+        "id": "f000441",
+        "sentence": "ありがとうございます。",
+        "sentence_with_furigana": "ありがとうございます。",
+        "audio_begin": 1869800,
+        "audio_end": 1871000
+    },
+    {
+        "id": "f000442",
+        "sentence": "ありがとうございます。",
+        "sentence_with_furigana": "ありがとうございます。",
+        "audio_begin": 1871000,
+        "audio_end": 1873000
+    },
+    {
+        "id": "f000443",
+        "sentence": "」おっかさんのねずみもいっしょに走っていましたが、",
+        "sentence_with_furigana": "」おっかさんのねずみもいっしょに走っていましたが、",
+        "audio_begin": 1873000,
+        "audio_end": 1876160
+    },
+    {
+        "id": "f000444",
+        "sentence": "まもなくゴーシュの前に来てしきりにおじぎをしながら",
+        "sentence_with_furigana": "まもなくゴーシュの前に来てしきりにおじぎをしながら",
+        "audio_begin": 1876160,
+        "audio_end": 1879840
+    },
+    {
+        "id": "f000445",
+        "sentence": "「ありがとうございますありがとうございます」と十ばかり云いました。",
+        "sentence_with_furigana": "「ありがとうございますありがとうございます」と十ばかり云いました。",
+        "audio_begin": 1879840,
+        "audio_end": 1886720
+    },
+    {
+        "id": "f000446",
+        "sentence": "ゴーシュは何がなかあいそうになって",
+        "sentence_with_furigana": "ゴーシュは何がなかあいそうになって",
+        "audio_begin": 1886720,
+        "audio_end": 1890640
+    },
+    {
+        "id": "f000447",
+        "sentence": "「おい、",
+        "sentence_with_furigana": "「おい、",
+        "audio_begin": 1890640,
+        "audio_end": 1891520
+    },
+    {
+        "id": "f000448",
+        "sentence": "おまえたちはパンはたべるのか。",
+        "sentence_with_furigana": "おまえたちはパンはたべるのか。",
+        "audio_begin": 1891520,
+        "audio_end": 1893193
+    },
+    {
+        "id": "f000449",
+        "sentence": "」とききました。",
+        "sentence_with_furigana": "」とききました。",
+        "audio_begin": 1893193,
+        "audio_end": 1895520
+    },
+    {
+        "id": "f000450",
+        "sentence": "すると野鼠はびっくりしたようにきょろきょろあたりを見まわしてから",
+        "sentence_with_furigana": "すると野鼠はびっくりしたようにきょろきょろあたりを見まわしてから",
+        "audio_begin": 1895520,
+        "audio_end": 1900080
+    },
+    {
+        "id": "f000451",
+        "sentence": "「いえ、",
+        "sentence_with_furigana": "「いえ、",
+        "audio_begin": 1900080,
+        "audio_end": 1900440
+    },
+    {
+        "id": "f000452",
+        "sentence": "もうおパンというものは小麦の粉をこねたりむしたりしてこしらえたものでふくふく膨らんでいておいしいものなそうでございますが、",
+        "sentence_with_furigana": "もうおパンというものは小麦の粉をこねたりむしたりしてこしらえたものでふくふく 膨[ふく]らんでいておいしいものなそうでございますが、",
+        "audio_begin": 1900440,
+        "audio_end": 1908880
+    },
+    {
+        "id": "f000453",
+        "sentence": "そうでなくても私どもはおうちの戸棚へなど参ったこともございませんし、",
+        "sentence_with_furigana": "そうでなくても私どもはおうちの 戸棚[とだな]へなど参ったこともございませんし、",
+        "audio_begin": 1908880,
+        "audio_end": 1913960
+    },
+    {
+        "id": "f000454",
+        "sentence": "ましてこれ位お世話になりながらどうしてそれを運びになんど参れましょう。",
+        "sentence_with_furigana": "ましてこれ位お世話になりながらどうしてそれを運びになんど参れましょう。",
+        "audio_begin": 1913960,
+        "audio_end": 1919930
+    },
+    {
+        "id": "f000455",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 1919930,
+        "audio_end": 1922440
+    },
+    {
+        "id": "f000456",
+        "sentence": "「いや、",
+        "sentence_with_furigana": "「いや、",
+        "audio_begin": 1922440,
+        "audio_end": 1922760
+    },
+    {
+        "id": "f000457",
+        "sentence": "そのことではないんだ。",
+        "sentence_with_furigana": "そのことではないんだ。",
+        "audio_begin": 1922760,
+        "audio_end": 1924853
+    },
+    {
+        "id": "f000458",
+        "sentence": "ただたべるのかときいたんだ。",
+        "sentence_with_furigana": "ただたべるのかときいたんだ。",
+        "audio_begin": 1924853,
+        "audio_end": 1928520
+    },
+    {
+        "id": "f000459",
+        "sentence": "ではたべるんだな。",
+        "sentence_with_furigana": "ではたべるんだな。",
+        "audio_begin": 1928520,
+        "audio_end": 1930490
+    },
+    {
+        "id": "f000460",
+        "sentence": "ちょっと待てよ。",
+        "sentence_with_furigana": "ちょっと待てよ。",
+        "audio_begin": 1930490,
+        "audio_end": 1931720
+    },
+    {
+        "id": "f000461",
+        "sentence": "その腹の悪いこどもへやるからな。」",
+        "sentence_with_furigana": "その腹の悪いこどもへやるからな。」",
+        "audio_begin": 1931720,
+        "audio_end": 1936080
+    },
+    {
+        "id": "f000462",
+        "sentence": "ゴーシュはセロを床へ置いて戸棚からパンを一つまみむしって野ねずみの前へ置きました。",
+        "sentence_with_furigana": "ゴーシュはセロを床へ置いて戸棚からパンを一つまみむしって野ねずみの前へ置きました。",
+        "audio_begin": 1936080,
+        "audio_end": 1943920
+    },
+    {
+        "id": "f000463",
+        "sentence": "野ねずみはもうまるでばかのようになって泣いたり笑ったりおじぎをしたりしてから大じそうにそれをくわえてこどもをさきに立てて外へ出て行きました。",
+        "sentence_with_furigana": "野ねずみはもうまるでばかのようになって泣いたり笑ったりおじぎをしたりしてから大じそうにそれをくわえてこどもをさきに立てて外へ出て行きました。",
+        "audio_begin": 1943920,
+        "audio_end": 1956200
+    },
+    {
+        "id": "f000464",
+        "sentence": "「あああ。",
+        "sentence_with_furigana": "「あああ。",
+        "audio_begin": 1956200,
+        "audio_end": 1957560
+    },
+    {
+        "id": "f000465",
+        "sentence": "鼠と話するのもなかなかつかれるぞ。",
+        "sentence_with_furigana": "鼠と話するのもなかなかつかれるぞ。",
+        "audio_begin": 1957560,
+        "audio_end": 1962720
+    },
+    {
+        "id": "f000466",
+        "sentence": "」ゴーシュはねどこへどっかり倒れてすぐぐうぐうねむってしまいました。",
+        "sentence_with_furigana": "」ゴーシュはねどこへどっかり 倒[たお]れてすぐぐうぐうねむってしまいました。",
+        "audio_begin": 1962720,
+        "audio_end": 1974560
+    },
+    {
+        "id": "f000467",
+        "sentence": "それから六日目の晩でした。",
+        "sentence_with_furigana": "それから六日目の晩でした。",
+        "audio_begin": 1974560,
+        "audio_end": 1978584
+    },
+    {
+        "id": "f000468",
+        "sentence": "金星音楽団の人たちは町の公会堂のホールの裏にある控室へみんなぱっと顔をほてらしてめいめい楽器をもって、",
+        "sentence_with_furigana": "金星音楽団の人たちは町の公会堂のホールの裏にある 控室[ひかえしつ]へみんなぱっと顔をほてらしてめいめい楽器をもって、",
+        "audio_begin": 1978584,
+        "audio_end": 1988280
+    },
+    {
+        "id": "f000469",
+        "sentence": "ぞろぞろホールの舞台から引きあげて来ました。",
+        "sentence_with_furigana": "ぞろぞろホールの 舞台[ぶたい]から引きあげて来ました。",
+        "audio_begin": 1988280,
+        "audio_end": 1993120
+    },
+    {
+        "id": "f000470",
+        "sentence": "首尾よく第六交響曲を仕上げたのです。",
+        "sentence_with_furigana": "首尾よく第六交響曲を仕上げたのです。",
+        "audio_begin": 1993120,
+        "audio_end": 1998920
+    },
+    {
+        "id": "f000471",
+        "sentence": "ホールでは拍手の音がまだ嵐のように鳴って居ります。",
+        "sentence_with_furigana": "ホールでは 拍手[はくしゅ]の音がまだ 嵐[あらし]のように鳴って 居[お]ります。",
+        "audio_begin": 1998920,
+        "audio_end": 2004520
+    },
+    {
+        "id": "f000472",
+        "sentence": "楽長はポケットへ手をつっ込んで拍手なんかどうでもいいというようにのそのそみんなの間を歩きまわっていましたが、",
+        "sentence_with_furigana": "楽長はポケットへ手をつっ込んで拍手なんかどうでもいいというようにのそのそみんなの間を歩きまわっていましたが、",
+        "audio_begin": 2004520,
+        "audio_end": 2014720
+    },
+    {
+        "id": "f000473",
+        "sentence": "じつはどうして嬉しさでいっぱいなのでした。",
+        "sentence_with_furigana": "じつはどうして 嬉[うれ]しさでいっぱいなのでした。",
+        "audio_begin": 2014720,
+        "audio_end": 2019440
+    },
+    {
+        "id": "f000474",
+        "sentence": "みんなはたばこをくわえてマッチをすったり楽器をケースへ入れたりしました。",
+        "sentence_with_furigana": "みんなはたばこをくわえてマッチをすったり楽器をケースへ入れたりしました。",
+        "audio_begin": 2019440,
+        "audio_end": 2026400
+    },
+    {
+        "id": "f000475",
+        "sentence": "ホールはまだぱちぱち手が鳴っています。",
+        "sentence_with_furigana": "ホールはまだぱちぱち手が鳴っています。",
+        "audio_begin": 2026400,
+        "audio_end": 2029575
+    },
+    {
+        "id": "f000476",
+        "sentence": "それどころではなくいよいよそれが高くなって何だかこわいような手がつけられないような音になりました。",
+        "sentence_with_furigana": "それどころではなくいよいよそれが高くなって何だかこわいような手がつけられないような音になりました。",
+        "audio_begin": 2029575,
+        "audio_end": 2037319
+    },
+    {
+        "id": "f000477",
+        "sentence": "大きな白いリボンを胸につけた司会者がはいって来ました。",
+        "sentence_with_furigana": "大きな白いリボンを胸につけた司会者がはいって来ました。",
+        "audio_begin": 2037319,
+        "audio_end": 2042462
+    },
+    {
+        "id": "f000478",
+        "sentence": "「アンコールをやっていますが、",
+        "sentence_with_furigana": "「アンコールをやっていますが、",
+        "audio_begin": 2042462,
+        "audio_end": 2044720
+    },
+    {
+        "id": "f000479",
+        "sentence": "何かみじかいものでもきかせてやってくださいませんか。」",
+        "sentence_with_furigana": "何かみじかいものでもきかせてやってくださいませんか。」",
+        "audio_begin": 2044720,
+        "audio_end": 2049480
+    },
+    {
+        "id": "f000480",
+        "sentence": "すると楽長がきっとなって答えました。",
+        "sentence_with_furigana": "すると楽長がきっとなって答えました。",
+        "audio_begin": 2049480,
+        "audio_end": 2052679
+    },
+    {
+        "id": "f000481",
+        "sentence": "「いけませんな。",
+        "sentence_with_furigana": "「いけませんな。",
+        "audio_begin": 2052679,
+        "audio_end": 2053880
+    },
+    {
+        "id": "f000482",
+        "sentence": "こういう大物のあとへ何を出したってこっちの気の済むようには行くもんでないんです。」",
+        "sentence_with_furigana": "こういう大物のあとへ何を出したってこっちの気の済むようには行くもんでないんです。」",
+        "audio_begin": 2053880,
+        "audio_end": 2060574
+    },
+    {
+        "id": "f000483",
+        "sentence": "「では楽長さん出て一寸挨拶してください。」",
+        "sentence_with_furigana": "「では楽長さん出て 一寸[ちょっと] 挨拶[あいさつ]してください。」",
+        "audio_begin": 2060574,
+        "audio_end": 2064730
+    },
+    {
+        "id": "f000484",
+        "sentence": "「だめだ。",
+        "sentence_with_furigana": "「だめだ。",
+        "audio_begin": 2064730,
+        "audio_end": 2067040
+    },
+    {
+        "id": "f000485",
+        "sentence": "おい、",
+        "sentence_with_furigana": "おい、",
+        "audio_begin": 2067040,
+        "audio_end": 2067400
+    },
+    {
+        "id": "f000486",
+        "sentence": "ゴーシュ君、",
+        "sentence_with_furigana": "ゴーシュ君、",
+        "audio_begin": 2067400,
+        "audio_end": 2068920
+    },
+    {
+        "id": "f000487",
+        "sentence": "何か出て弾いてやってくれ。」",
+        "sentence_with_furigana": "何か出て弾いてやってくれ。」",
+        "audio_begin": 2068920,
+        "audio_end": 2071639
+    },
+    {
+        "id": "f000488",
+        "sentence": "「わたしがですか。",
+        "sentence_with_furigana": "「わたしがですか。",
+        "audio_begin": 2071639,
+        "audio_end": 2073159
+    },
+    {
+        "id": "f000489",
+        "sentence": "」ゴーシュは呆気にとられました。",
+        "sentence_with_furigana": "」ゴーシュは 呆気[あっけ]にとられました。",
+        "audio_begin": 2073159,
+        "audio_end": 2075320
+    },
+    {
+        "id": "f000490",
+        "sentence": "「君だ、",
+        "sentence_with_furigana": "「君だ、",
+        "audio_begin": 2075320,
+        "audio_end": 2075639
+    },
+    {
+        "id": "f000491",
+        "sentence": "君だ。",
+        "sentence_with_furigana": "君だ。",
+        "audio_begin": 2075639,
+        "audio_end": 2076800
+    },
+    {
+        "id": "f000492",
+        "sentence": "」ヴァイオリンの一番の人がいきなり顔をあげて云いました。",
+        "sentence_with_furigana": "」ヴァイオリンの一番の人がいきなり顔をあげて云いました。",
+        "audio_begin": 2076800,
+        "audio_end": 2080543
+    },
+    {
+        "id": "f000493",
+        "sentence": "「さあ出て行きたまえ。",
+        "sentence_with_furigana": "「さあ出て行きたまえ。",
+        "audio_begin": 2080543,
+        "audio_end": 2082719
+    },
+    {
+        "id": "f000494",
+        "sentence": "」楽長が云いました。",
+        "sentence_with_furigana": "」楽長が云いました。",
+        "audio_begin": 2082719,
+        "audio_end": 2084600
+    },
+    {
+        "id": "f000495",
+        "sentence": "みんなもセロをむりにゴーシュに持たせて扉をあけるといきなり舞台へゴーシュを押し出してしまいました。",
+        "sentence_with_furigana": "みんなもセロをむりにゴーシュに持たせて 扉[と]をあけるといきなり舞台へゴーシュを 押[お]し出してしまいました。",
+        "audio_begin": 2084600,
+        "audio_end": 2093697
+    },
+    {
+        "id": "f000496",
+        "sentence": "ゴーシュがその孔のあいたセロをもってじつに困ってしまって舞台へ出るとみんなはそら見ろというように一そうひどく手を叩きました。",
+        "sentence_with_furigana": "ゴーシュがその孔のあいたセロをもってじつに困ってしまって舞台へ出るとみんなはそら見ろというように一そうひどく手を 叩[たた]きました。",
+        "audio_begin": 2093697,
+        "audio_end": 2105342
+    },
+    {
+        "id": "f000497",
+        "sentence": "わあと叫んだものもあるようでした。",
+        "sentence_with_furigana": "わあと叫んだものもあるようでした。",
+        "audio_begin": 2105342,
+        "audio_end": 2109486
+    },
+    {
+        "id": "f000498",
+        "sentence": "「どこまでひとをばかにするんだ。",
+        "sentence_with_furigana": "「どこまでひとをばかにするんだ。",
+        "audio_begin": 2109486,
+        "audio_end": 2111774
+    },
+    {
+        "id": "f000499",
+        "sentence": "よし見ていろ。",
+        "sentence_with_furigana": "よし見ていろ。",
+        "audio_begin": 2111774,
+        "audio_end": 2113400
+    },
+    {
+        "id": "f000500",
+        "sentence": "印度の虎狩をひいてやるから。",
+        "sentence_with_furigana": "印度[インド]の 虎狩[とらがり]をひいてやるから。",
+        "audio_begin": 2113400,
+        "audio_end": 2116371
+    },
+    {
+        "id": "f000501",
+        "sentence": "」ゴーシュはすっかり落ちついて舞台のまん中へ出ました。",
+        "sentence_with_furigana": "」ゴーシュはすっかり落ちついて舞台のまん中へ出ました。",
+        "audio_begin": 2116371,
+        "audio_end": 2123120
+    },
+    {
+        "id": "f000502",
+        "sentence": "それからあの猫の来たときのようにまるで怒った象のような勢で虎狩りを弾きました。",
+        "sentence_with_furigana": "それからあの 猫[ねこ]の来たときのようにまるで 怒[おこ]った象のような 勢[いきおい]で虎狩りを弾きました。",
+        "audio_begin": 2123120,
+        "audio_end": 2130559
+    },
+    {
+        "id": "f000503",
+        "sentence": "ところが聴衆はしいんとなって一生けん命聞いています。",
+        "sentence_with_furigana": "ところが 聴衆[ちょうしゅう]はしいんとなって一生けん命聞いています。",
+        "audio_begin": 2130559,
+        "audio_end": 2136828
+    },
+    {
+        "id": "f000504",
+        "sentence": "ゴーシュはどんどん弾きました。",
+        "sentence_with_furigana": "ゴーシュはどんどん弾きました。",
+        "audio_begin": 2136828,
+        "audio_end": 2141320
+    },
+    {
+        "id": "f000505",
+        "sentence": "猫が切ながってぱちぱち火花を出したところも過ぎました。",
+        "sentence_with_furigana": "猫が切ながってぱちぱち火花を出したところも過ぎました。",
+        "audio_begin": 2141320,
+        "audio_end": 2145245
+    },
+    {
+        "id": "f000506",
+        "sentence": "扉へからだを何べんもぶっつけた所も過ぎました。",
+        "sentence_with_furigana": "扉へからだを何べんもぶっつけた所も過ぎました。",
+        "audio_begin": 2145245,
+        "audio_end": 2151793
+    },
+    {
+        "id": "f000507",
+        "sentence": "曲が終るとゴーシュはもうみんなの方などは見もせずちょうどその猫のようにすばやくセロをもって楽屋へ遁げ込みました。",
+        "sentence_with_furigana": "曲が終るとゴーシュはもうみんなの方などは見もせずちょうどその猫のようにすばやくセロをもって楽屋へ 遁[に]げ込みました。",
+        "audio_begin": 2151793,
+        "audio_end": 2162280
+    },
+    {
+        "id": "f000508",
+        "sentence": "すると楽屋では楽長はじめ仲間がみんな火事にでもあったあとのように眼をじっとしてひっそりとすわり込んでいます。",
+        "sentence_with_furigana": "すると楽屋では楽長はじめ仲間がみんな火事にでもあったあとのように眼をじっとしてひっそりとすわり込んでいます。",
+        "audio_begin": 2162280,
+        "audio_end": 2173160
+    },
+    {
+        "id": "f000509",
+        "sentence": "ゴーシュはやぶれかぶれだと思ってみんなの間をさっさとあるいて行って向うの長椅子へどっかりとからだをおろして足を組んですわりました。",
+        "sentence_with_furigana": "ゴーシュはやぶれかぶれだと思ってみんなの間をさっさとあるいて行って向うの 長椅子[ながいす]へどっかりとからだをおろして足を組んですわりました。",
+        "audio_begin": 2173160,
+        "audio_end": 2184600
+    },
+    {
+        "id": "f000510",
+        "sentence": "するとみんなが一ぺんに顔をこっちへ向けてゴーシュを見ましたがやはりまじめでべつにわらっているようでもありませんでした。",
+        "sentence_with_furigana": "するとみんなが一ぺんに顔をこっちへ向けてゴーシュを見ましたがやはりまじめでべつにわらっているようでもありませんでした。",
+        "audio_begin": 2184600,
+        "audio_end": 2195841
+    },
+    {
+        "id": "f000511",
+        "sentence": "「こんやは変な晩だなあ。」",
+        "sentence_with_furigana": "「こんやは変な晩だなあ。」",
+        "audio_begin": 2195841,
+        "audio_end": 2198600
+    },
+    {
+        "id": "f000512",
+        "sentence": "ゴーシュは思いました。",
+        "sentence_with_furigana": "ゴーシュは思いました。",
+        "audio_begin": 2198600,
+        "audio_end": 2199520
+    },
+    {
+        "id": "f000513",
+        "sentence": "ところが楽長は立って云いました。",
+        "sentence_with_furigana": "ところが楽長は立って云いました。",
+        "audio_begin": 2199520,
+        "audio_end": 2203000
+    },
+    {
+        "id": "f000514",
+        "sentence": "「ゴーシュ君、",
+        "sentence_with_furigana": "「ゴーシュ君、",
+        "audio_begin": 2203000,
+        "audio_end": 2203840
+    },
+    {
+        "id": "f000515",
+        "sentence": "よかったぞお。",
+        "sentence_with_furigana": "よかったぞお。",
+        "audio_begin": 2203840,
+        "audio_end": 2206160
+    },
+    {
+        "id": "f000516",
+        "sentence": "あんな曲だけれどもここではみんなかなり本気になって聞いてたぞ。",
+        "sentence_with_furigana": "あんな曲だけれどもここではみんなかなり本気になって聞いてたぞ。",
+        "audio_begin": 2206160,
+        "audio_end": 2212800
+    },
+    {
+        "id": "f000517",
+        "sentence": "一週間か十日の間にずいぶん仕上げたなあ。",
+        "sentence_with_furigana": "一週間か十日の間にずいぶん仕上げたなあ。",
+        "audio_begin": 2212800,
+        "audio_end": 2217240
+    },
+    {
+        "id": "f000518",
+        "sentence": "十日前とくらべたらまるで赤ん坊と兵隊だ。",
+        "sentence_with_furigana": "十日前とくらべたらまるで赤ん坊と兵隊だ。",
+        "audio_begin": 2217240,
+        "audio_end": 2222880
+    },
+    {
+        "id": "f000519",
+        "sentence": "やろうと思えばいつでもやれたんじゃないか、",
+        "sentence_with_furigana": "やろうと思えばいつでもやれたんじゃないか、",
+        "audio_begin": 2222880,
+        "audio_end": 2225440
+    },
+    {
+        "id": "f000520",
+        "sentence": "君。」",
+        "sentence_with_furigana": "君。」",
+        "audio_begin": 2225440,
+        "audio_end": 2227444
+    },
+    {
+        "id": "f000521",
+        "sentence": "仲間もみんな立って来て「よかったぜ」とゴーシュに云いました。",
+        "sentence_with_furigana": "仲間もみんな立って来て「よかったぜ」とゴーシュに云いました。",
+        "audio_begin": 2227444,
+        "audio_end": 2233920
+    },
+    {
+        "id": "f000522",
+        "sentence": "「いや、",
+        "sentence_with_furigana": "「いや、",
+        "audio_begin": 2233920,
+        "audio_end": 2234240
+    },
+    {
+        "id": "f000523",
+        "sentence": "からだが丈夫だからこんなこともできるよ。",
+        "sentence_with_furigana": "からだが丈夫だからこんなこともできるよ。",
+        "audio_begin": 2234240,
+        "audio_end": 2238120
+    },
+    {
+        "id": "f000524",
+        "sentence": "普通の人なら死んでしまうからな。",
+        "sentence_with_furigana": "普通[ふつう]の人なら死んでしまうからな。",
+        "audio_begin": 2238120,
+        "audio_end": 2241520
+    },
+    {
+        "id": "f000525",
+        "sentence": "」楽長が向うで云っていました。",
+        "sentence_with_furigana": "」楽長が向うで云っていました。",
+        "audio_begin": 2241520,
+        "audio_end": 2246960
+    },
+    {
+        "id": "f000526",
+        "sentence": "その晩遅くゴーシュは自分のうちへ帰って来ました。",
+        "sentence_with_furigana": "その晩 遅[おそ]くゴーシュは自分のうちへ帰って来ました。",
+        "audio_begin": 2246960,
+        "audio_end": 2253000
+    },
+    {
+        "id": "f000527",
+        "sentence": "そしてまた水をがぶがぶ呑みました。",
+        "sentence_with_furigana": "そしてまた水をがぶがぶ 呑[の]みました。",
+        "audio_begin": 2253000,
+        "audio_end": 2257003
+    },
+    {
+        "id": "f000528",
+        "sentence": "それから窓をあけていつかかっこうの飛んで行ったと思った遠くのそらをながめながら",
+        "sentence_with_furigana": "それから窓をあけていつかかっこうの飛んで行ったと思った遠くのそらをながめながら",
+        "audio_begin": 2257003,
+        "audio_end": 2265240
+    },
+    {
+        "id": "f000529",
+        "sentence": "「ああかっこう。",
+        "sentence_with_furigana": "「ああかっこう。",
+        "audio_begin": 2265240,
+        "audio_end": 2267080
+    },
+    {
+        "id": "f000530",
+        "sentence": "あのときはすまなかったなあ。",
+        "sentence_with_furigana": "あのときはすまなかったなあ。",
+        "audio_begin": 2267080,
+        "audio_end": 2269520
+    },
+    {
+        "id": "f000531",
+        "sentence": "おれは怒ったんじゃなかったんだ。",
+        "sentence_with_furigana": "おれは怒ったんじゃなかったんだ。",
+        "audio_begin": 2269520,
+        "audio_end": 2272723
+    },
+    {
+        "id": "f000532",
+        "sentence": "」と云いました。",
+        "sentence_with_furigana": "」と云いました。",
+        "audio_begin": 2272723,
+        "audio_end": 2277120
+    }
+]

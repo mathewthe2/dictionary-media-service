@@ -1,0 +1,366 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "岡本かの子　作",
+        "sentence_with_furigana": "岡本かの子　作",
+        "audio_begin": 2130,
+        "audio_end": 4769
+    },
+    {
+        "id": "f000002",
+        "sentence": "新茶",
+        "sentence_with_furigana": "新茶",
+        "audio_begin": 4769,
+        "audio_end": 8274
+    },
+    {
+        "id": "f000003",
+        "sentence": "それほど茶好きでなくとも、",
+        "sentence_with_furigana": "それほど茶好きでなくとも、",
+        "audio_begin": 8274,
+        "audio_end": 10803
+    },
+    {
+        "id": "f000004",
+        "sentence": "新茶には心ひかれる。",
+        "sentence_with_furigana": "新茶には心ひかれる。",
+        "audio_begin": 10803,
+        "audio_end": 14563
+    },
+    {
+        "id": "f000005",
+        "sentence": "あの年寄りじみた、",
+        "sentence_with_furigana": "あの年寄りじみた、",
+        "audio_begin": 14563,
+        "audio_end": 16138
+    },
+    {
+        "id": "f000006",
+        "sentence": "きつい苦みがないし、",
+        "sentence_with_furigana": "きつい苦みがないし、",
+        "audio_begin": 16138,
+        "audio_end": 18645
+    },
+    {
+        "id": "f000007",
+        "sentence": "晴々しい匂ひがするし、",
+        "sentence_with_furigana": "晴々しい匂ひがするし、",
+        "audio_begin": 18645,
+        "audio_end": 21418
+    },
+    {
+        "id": "f000008",
+        "sentence": "茶といふよりも、",
+        "sentence_with_furigana": "茶といふよりも、",
+        "audio_begin": 21418,
+        "audio_end": 23320
+    },
+    {
+        "id": "f000009",
+        "sentence": "若葉の雫を啜るといふ感じである。",
+        "sentence_with_furigana": "若葉の雫を啜るといふ感じである。",
+        "audio_begin": 23320,
+        "audio_end": 28320
+    },
+    {
+        "id": "f000010",
+        "sentence": "色がいゝ。",
+        "sentence_with_furigana": "色がいゝ。",
+        "audio_begin": 28320,
+        "audio_end": 31200
+    },
+    {
+        "id": "f000011",
+        "sentence": "白磁の茶椀の半を満してゆらめく青湖の水。",
+        "sentence_with_furigana": "白磁の茶椀の半を満してゆらめく青湖の水。",
+        "audio_begin": 31200,
+        "audio_end": 37280
+    },
+    {
+        "id": "f000012",
+        "sentence": "さなりき、",
+        "sentence_with_furigana": "さなりき、",
+        "audio_begin": 37280,
+        "audio_end": 38600
+    },
+    {
+        "id": "f000013",
+        "sentence": "誘ふニンフも",
+        "sentence_with_furigana": "誘ふニンフも",
+        "audio_begin": 38600,
+        "audio_end": 40280
+    },
+    {
+        "id": "f000014",
+        "sentence": "誘はるゝ男妖精も共に髪ぞ青かりし",
+        "sentence_with_furigana": "誘はるゝ男妖精も共に髪ぞ青かりし",
+        "audio_begin": 40280,
+        "audio_end": 46880
+    },
+    {
+        "id": "f000015",
+        "sentence": "揺曳とした湯気の隙間から、",
+        "sentence_with_furigana": "揺曳とした湯気の隙間から、",
+        "audio_begin": 46880,
+        "audio_end": 49613
+    },
+    {
+        "id": "f000016",
+        "sentence": "茶椀の岸にさういふ美麗が見えるやうな気がする。",
+        "sentence_with_furigana": "茶椀の岸にさういふ美麗が見えるやうな気がする。",
+        "audio_begin": 49613,
+        "audio_end": 56601
+    },
+    {
+        "id": "f000017",
+        "sentence": "その茶椀を掌に享けて一口、",
+        "sentence_with_furigana": "その茶椀を掌に享けて一口、",
+        "audio_begin": 56601,
+        "audio_end": 60173
+    },
+    {
+        "id": "f000018",
+        "sentence": "二口、",
+        "sentence_with_furigana": "二口、",
+        "audio_begin": 60173,
+        "audio_end": 61881
+    },
+    {
+        "id": "f000019",
+        "sentence": "唇に触れては庭を眺める。",
+        "sentence_with_furigana": "唇に触れては庭を眺める。",
+        "audio_begin": 61881,
+        "audio_end": 66840
+    },
+    {
+        "id": "f000020",
+        "sentence": "実を付けた若楓の枝の下に池が在つて、",
+        "sentence_with_furigana": "実を付けた若楓の枝の下に池が在つて、",
+        "audio_begin": 66840,
+        "audio_end": 71400
+    },
+    {
+        "id": "f000021",
+        "sentence": "底に透く陽光の水の宙に篦鮒が、",
+        "sentence_with_furigana": "底に透く陽光の水の宙に篦鮒が、",
+        "audio_begin": 71400,
+        "audio_end": 75480
+    },
+    {
+        "id": "f000022",
+        "sentence": "昨年孵つた一寸ばかりの子鮒を四つほど従へて鰭を休めてゐる。",
+        "sentence_with_furigana": "昨年孵つた一寸ばかりの子鮒を四つほど従へて鰭を休めてゐる。",
+        "audio_begin": 75480,
+        "audio_end": 83399
+    },
+    {
+        "id": "f000023",
+        "sentence": "このとき、",
+        "sentence_with_furigana": "このとき、",
+        "audio_begin": 83399,
+        "audio_end": 84840
+    },
+    {
+        "id": "f000024",
+        "sentence": "身に合つた袷の上に、",
+        "sentence_with_furigana": "身に合つた袷の上に、",
+        "audio_begin": 84840,
+        "audio_end": 87440
+    },
+    {
+        "id": "f000025",
+        "sentence": "やゝ幅狭の博多帯が硬からず緩からず胸に締つてゐて呉れれば、",
+        "sentence_with_furigana": "やゝ幅狭の博多帯が硬からず緩からず胸に締つてゐて呉れれば、",
+        "audio_begin": 87440,
+        "audio_end": 94200
+    },
+    {
+        "id": "f000026",
+        "sentence": "他に何を望まう。",
+        "sentence_with_furigana": "他に何を望まう。",
+        "audio_begin": 94200,
+        "audio_end": 98880
+    },
+    {
+        "id": "f000027",
+        "sentence": "しみ／″＼日本の土に生れて日本の女であることが自分で味はれる。",
+        "sentence_with_furigana": "しみ／″＼日本の土に生れて日本の女であることが自分で味はれる。",
+        "audio_begin": 98880,
+        "audio_end": 109640
+    },
+    {
+        "id": "f000028",
+        "sentence": "西洋人の中で好んで日本の緑茶を飲むのはアメリカ人だが、",
+        "sentence_with_furigana": "西洋人の中で好んで日本の緑茶を飲むのはアメリカ人だが、",
+        "audio_begin": 109640,
+        "audio_end": 114720
+    },
+    {
+        "id": "f000029",
+        "sentence": "必ず砂糖を入れて飲む。",
+        "sentence_with_furigana": "必ず砂糖を入れて飲む。",
+        "audio_begin": 114720,
+        "audio_end": 118680
+    },
+    {
+        "id": "f000030",
+        "sentence": "お話にならない。",
+        "sentence_with_furigana": "お話にならない。",
+        "audio_begin": 118680,
+        "audio_end": 121520
+    },
+    {
+        "id": "f000031",
+        "sentence": "まして新茶の風味などは思ひもよらない。",
+        "sentence_with_furigana": "まして新茶の風味などは思ひもよらない。",
+        "audio_begin": 121520,
+        "audio_end": 128440
+    },
+    {
+        "id": "f000032",
+        "sentence": "およそ嗜好飲料は香料の悦びの外に、",
+        "sentence_with_furigana": "およそ嗜好飲料は香料の悦びの外に、",
+        "audio_begin": 128440,
+        "audio_end": 133160
+    },
+    {
+        "id": "f000033",
+        "sentence": "一種の客観性の心境を作らせる作用がある。",
+        "sentence_with_furigana": "一種の客観性の心境を作らせる作用がある。",
+        "audio_begin": 133160,
+        "audio_end": 138336
+    },
+    {
+        "id": "f000034",
+        "sentence": "世相が、",
+        "sentence_with_furigana": "世相が、",
+        "audio_begin": 138336,
+        "audio_end": 139880
+    },
+    {
+        "id": "f000035",
+        "sentence": "まま、",
+        "sentence_with_furigana": "まま、",
+        "audio_begin": 139880,
+        "audio_end": 140320
+    },
+    {
+        "id": "f000036",
+        "sentence": "熱騰でなければ消沈に傾き易いときに、",
+        "sentence_with_furigana": "熱騰でなければ消沈に傾き易いときに、",
+        "audio_begin": 140320,
+        "audio_end": 144692
+    },
+    {
+        "id": "f000037",
+        "sentence": "それに釣り込まれないやう、",
+        "sentence_with_furigana": "それに釣り込まれないやう、",
+        "audio_begin": 144692,
+        "audio_end": 146800
+    },
+    {
+        "id": "f000038",
+        "sentence": "客観性を平衡に保つことは私たちに必要なことである。",
+        "sentence_with_furigana": "客観性を平衡に保つことは私たちに必要なことである。",
+        "audio_begin": 146800,
+        "audio_end": 153960
+    },
+    {
+        "id": "f000039",
+        "sentence": "さればといつて、",
+        "sentence_with_furigana": "さればといつて、",
+        "audio_begin": 153960,
+        "audio_end": 155600
+    },
+    {
+        "id": "f000040",
+        "sentence": "不経済、",
+        "sentence_with_furigana": "不経済、",
+        "audio_begin": 155600,
+        "audio_end": 156800
+    },
+    {
+        "id": "f000041",
+        "sentence": "不健康ほどに嗜好飲料を摂るのも行き過ぎである。",
+        "sentence_with_furigana": "不健康ほどに嗜好飲料を摂るのも行き過ぎである。",
+        "audio_begin": 156800,
+        "audio_end": 163360
+    },
+    {
+        "id": "f000042",
+        "sentence": "今や、",
+        "sentence_with_furigana": "今や、",
+        "audio_begin": 163360,
+        "audio_end": 164080
+    },
+    {
+        "id": "f000043",
+        "sentence": "天地爽麗の季に乗じて、",
+        "sentence_with_furigana": "天地爽麗の季に乗じて、",
+        "audio_begin": 164080,
+        "audio_end": 166720
+    },
+    {
+        "id": "f000044",
+        "sentence": "新茶一椀の服涼は、",
+        "sentence_with_furigana": "新茶一椀の服涼は、",
+        "audio_begin": 166720,
+        "audio_end": 170040
+    },
+    {
+        "id": "f000045",
+        "sentence": "忙中僅に許さるべき自然の贈りものではあるまいか。",
+        "sentence_with_furigana": "忙中僅に許さるべき自然の贈りものではあるまいか。",
+        "audio_begin": 170040,
+        "audio_end": 179176
+    },
+    {
+        "id": "f000046",
+        "sentence": "煎茶道の中興の祖、",
+        "sentence_with_furigana": "煎茶道の中興の祖、",
+        "audio_begin": 179176,
+        "audio_end": 182160
+    },
+    {
+        "id": "f000047",
+        "sentence": "上田秋成が書いてゐる「もう何も出来ぬ故、",
+        "sentence_with_furigana": "上田秋成が書いてゐる「もう何も出来ぬ故、",
+        "audio_begin": 182160,
+        "audio_end": 187640
+    },
+    {
+        "id": "f000048",
+        "sentence": "煎茶を飲んで死をきはめてゐるばかりだ」と。",
+        "sentence_with_furigana": "煎茶を飲んで死をきはめてゐるばかりだ」と。",
+        "audio_begin": 187640,
+        "audio_end": 193906
+    },
+    {
+        "id": "f000049",
+        "sentence": "而も、",
+        "sentence_with_furigana": "而も、",
+        "audio_begin": 193906,
+        "audio_end": 195080
+    },
+    {
+        "id": "f000050",
+        "sentence": "それが何もかも、",
+        "sentence_with_furigana": "それが何もかも、",
+        "audio_begin": 195080,
+        "audio_end": 196400
+    },
+    {
+        "id": "f000051",
+        "sentence": "し尽した年齢七十五のときの秋成の言だから、",
+        "sentence_with_furigana": "し尽した年齢七十五のときの秋成の言だから、",
+        "audio_begin": 196400,
+        "audio_end": 201240
+    },
+    {
+        "id": "f000052",
+        "sentence": "茶には何処か余悠のあることが判る。",
+        "sentence_with_furigana": "茶には何処か余悠のあることが判る。",
+        "audio_begin": 201240,
+        "audio_end": 206085
+    }
+]

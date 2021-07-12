@@ -1,0 +1,170 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "田中貢太郎　作",
+        "sentence_with_furigana": "田中貢太郎　作",
+        "audio_begin": 2552,
+        "audio_end": 6877
+    },
+    {
+        "id": "f000002",
+        "sentence": "葬式の行列",
+        "sentence_with_furigana": "葬式の行列",
+        "audio_begin": 6877,
+        "audio_end": 12679
+    },
+    {
+        "id": "f000003",
+        "sentence": "鶴岡の城下に大場宇兵衛という武士があった。",
+        "sentence_with_furigana": "鶴岡[つるおか]の城下に 大場宇兵衛[おおばうへえ]という武士があった。",
+        "audio_begin": 12679,
+        "audio_end": 19502
+    },
+    {
+        "id": "f000004",
+        "sentence": "其の大場は同儕の寄合があったので、",
+        "sentence_with_furigana": "其の大場は 同儕[なかま]の寄合があったので、",
+        "audio_begin": 19502,
+        "audio_end": 23320
+    },
+    {
+        "id": "f000005",
+        "sentence": "それに往っていて夜半比に帰って来た。",
+        "sentence_with_furigana": "それに往っていて 夜半比[よなかごろ]に帰って来た。",
+        "audio_begin": 23320,
+        "audio_end": 29737
+    },
+    {
+        "id": "f000006",
+        "sentence": "北国でなくても淋しい屋敷町。",
+        "sentence_with_furigana": "北国でなくても淋しい屋敷町。",
+        "audio_begin": 29737,
+        "audio_end": 35680
+    },
+    {
+        "id": "f000007",
+        "sentence": "其の淋しい屋敷町を通っていると、",
+        "sentence_with_furigana": "其の淋しい屋敷町を通っていると、",
+        "audio_begin": 35680,
+        "audio_end": 38521
+    },
+    {
+        "id": "f000008",
+        "sentence": "前方から葬式の行列が来た。",
+        "sentence_with_furigana": "前方から葬式の行列が来た。",
+        "audio_begin": 38521,
+        "audio_end": 45000
+    },
+    {
+        "id": "f000009",
+        "sentence": "夕方なら唯もかく深夜の葬式はあまり例のない事であった。",
+        "sentence_with_furigana": "夕方なら 唯[と]もかく深夜の葬式はあまり例のない事であった。",
+        "audio_begin": 45000,
+        "audio_end": 53000
+    },
+    {
+        "id": "f000010",
+        "sentence": "大場は行列の先頭が自分の前へ来ると聞いてみた。",
+        "sentence_with_furigana": "大場は行列の先頭が自分の前へ来ると聞いてみた。",
+        "audio_begin": 53000,
+        "audio_end": 61840
+    },
+    {
+        "id": "f000011",
+        "sentence": "「何方のお葬式でござる」",
+        "sentence_with_furigana": "「 何方[どなた]のお葬式でござる」",
+        "audio_begin": 61840,
+        "audio_end": 66640
+    },
+    {
+        "id": "f000012",
+        "sentence": "対手は躊躇せずに云った。",
+        "sentence_with_furigana": "対手[あいて]は 躊躇[ちゅうちょ]せずに云った。",
+        "audio_begin": 66640,
+        "audio_end": 71939
+    },
+    {
+        "id": "f000013",
+        "sentence": "「これは大場宇兵衛殿の葬式でござる」",
+        "sentence_with_furigana": "「これは大場宇兵衛殿の葬式でござる」",
+        "audio_begin": 71939,
+        "audio_end": 78000
+    },
+    {
+        "id": "f000014",
+        "sentence": "「なに、",
+        "sentence_with_furigana": "「なに、",
+        "audio_begin": 78000,
+        "audio_end": 79080
+    },
+    {
+        "id": "f000015",
+        "sentence": "おおばうへえ」",
+        "sentence_with_furigana": "おおばうへえ」",
+        "audio_begin": 79080,
+        "audio_end": 82560
+    },
+    {
+        "id": "f000016",
+        "sentence": "「そうでござる」",
+        "sentence_with_furigana": "「そうでござる」",
+        "audio_begin": 82560,
+        "audio_end": 87920
+    },
+    {
+        "id": "f000017",
+        "sentence": "行列は通りすぎた。",
+        "sentence_with_furigana": "行列は通りすぎた。",
+        "audio_begin": 87920,
+        "audio_end": 93920
+    },
+    {
+        "id": "f000018",
+        "sentence": "宇兵衛は気が転倒した。",
+        "sentence_with_furigana": "宇兵衛は気が転倒した。",
+        "audio_begin": 93920,
+        "audio_end": 96518
+    },
+    {
+        "id": "f000019",
+        "sentence": "そして、",
+        "sentence_with_furigana": "そして、",
+        "audio_begin": 96518,
+        "audio_end": 97520
+    },
+    {
+        "id": "f000020",
+        "sentence": "家へ帰ってみると、",
+        "sentence_with_furigana": "家へ帰ってみると、",
+        "audio_begin": 97520,
+        "audio_end": 99120
+    },
+    {
+        "id": "f000021",
+        "sentence": "玄関前に焚火をしたばかりの痕があった。",
+        "sentence_with_furigana": "玄関前に 焚火[たきび]をしたばかりの 痕[あと]があった。",
+        "audio_begin": 99120,
+        "audio_end": 105330
+    },
+    {
+        "id": "f000022",
+        "sentence": "それは葬式の送火であった。",
+        "sentence_with_furigana": "それは葬式の送火であった。",
+        "audio_begin": 105330,
+        "audio_end": 114570
+    },
+    {
+        "id": "f000023",
+        "sentence": "大場は其の晩からぶらぶら病になって、",
+        "sentence_with_furigana": "大場は其の晩からぶらぶら病になって、",
+        "audio_begin": 114570,
+        "audio_end": 120600
+    },
+    {
+        "id": "f000024",
+        "sentence": "間もなく送火を焚かれる人となった。",
+        "sentence_with_furigana": "間もなく送火を 焚[た]かれる人となった。",
+        "audio_begin": 120600,
+        "audio_end": 126040
+    }
+]

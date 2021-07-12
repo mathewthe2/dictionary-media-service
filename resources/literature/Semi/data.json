@@ -1,0 +1,1171 @@
+[
+    {
+        "id": "Semi-f000002",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉",
+        "sentence_with_furigana": "蝉",
+        "word_base_list": [
+            "蝉"
+        ],
+        "word_list": [
+            "蝉"
+        ],
+        "sound": "f000002.mp3",
+        "sound_begin": 6090,
+        "sound_end": 11266
+    },
+    {
+        "id": "Semi-f000003",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる、",
+        "sentence_with_furigana": "蝉が鳴いてゐる、",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "、"
+        ],
+        "sound": "f000003.mp3",
+        "sound_begin": 11266,
+        "sound_end": 14149
+    },
+    {
+        "id": "Semi-f000004",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる",
+        "sentence_with_furigana": "蝉が鳴いてゐる",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる"
+        ],
+        "sound": "f000004.mp3",
+        "sound_begin": 14149,
+        "sound_end": 17642
+    },
+    {
+        "id": "Semi-f000005",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐるほかになんにもない！",
+        "sentence_with_furigana": "蝉が鳴いてゐるほかになんにもない！",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "他",
+            "に",
+            "何",
+            "も",
+            "無い",
+            "！"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "ほか",
+            "に",
+            "なんに",
+            "も",
+            "ない",
+            "！"
+        ],
+        "sound": "f000005.mp3",
+        "sound_begin": 17642,
+        "sound_end": 24752
+    },
+    {
+        "id": "Semi-f000006",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "うつらうつらと僕はする",
+        "sentence_with_furigana": "うつらうつらと僕はする",
+        "word_base_list": [
+            "うつらうつら",
+            "と",
+            "僕",
+            "は",
+            "為る"
+        ],
+        "word_list": [
+            "うつらうつら",
+            "と",
+            "僕",
+            "は",
+            "する"
+        ],
+        "sound": "f000006.mp3",
+        "sound_begin": 24752,
+        "sound_end": 28997
+    },
+    {
+        "id": "Semi-f000007",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "……風もある……",
+        "sentence_with_furigana": "……風もある……",
+        "word_base_list": [
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "風",
+            "も",
+            "有る",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "."
+        ],
+        "word_list": [
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            "",
+            "風",
+            "も",
+            "ある",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            ""
+        ],
+        "sound": "f000007.mp3",
+        "sound_begin": 28997,
+        "sound_end": 33040
+    },
+    {
+        "id": "Semi-f000008",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "松林を透いて空が見える",
+        "sentence_with_furigana": "松林を透いて空が見える",
+        "word_base_list": [
+            "松林",
+            "を",
+            "透く",
+            "て",
+            "空",
+            "が",
+            "見える"
+        ],
+        "word_list": [
+            "松林",
+            "を",
+            "透い",
+            "て",
+            "空",
+            "が",
+            "見える"
+        ],
+        "sound": "f000008.mp3",
+        "sound_begin": 33040,
+        "sound_end": 37080
+    },
+    {
+        "id": "Semi-f000009",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "うつらうつらと僕はする。",
+        "sentence_with_furigana": "うつらうつらと僕はする。",
+        "word_base_list": [
+            "うつらうつら",
+            "と",
+            "僕",
+            "は",
+            "為る",
+            "。"
+        ],
+        "word_list": [
+            "うつらうつら",
+            "と",
+            "僕",
+            "は",
+            "する",
+            "。"
+        ],
+        "sound": "f000009.mp3",
+        "sound_begin": 37080,
+        "sound_end": 43520
+    },
+    {
+        "id": "Semi-f000010",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "『いいや、",
+        "sentence_with_furigana": "『いいや、",
+        "word_base_list": [
+            "『",
+            "否",
+            "、"
+        ],
+        "word_list": [
+            "『",
+            "いいや",
+            "、"
+        ],
+        "sound": "f000010.mp3",
+        "sound_begin": 43520,
+        "sound_end": 44440
+    },
+    {
+        "id": "Semi-f000011",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "さうぢやない、",
+        "sentence_with_furigana": "さうぢやない、",
+        "word_base_list": [
+            "そう",
+            "で",
+            "無い",
+            "、"
+        ],
+        "word_list": [
+            "さう",
+            "ぢや",
+            "ない",
+            "、"
+        ],
+        "sound": "f000011.mp3",
+        "sound_begin": 44440,
+        "sound_end": 45985
+    },
+    {
+        "id": "Semi-f000012",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "さうぢやない！",
+        "sentence_with_furigana": "さうぢやない！",
+        "word_base_list": [
+            "そう",
+            "で",
+            "無い",
+            "！"
+        ],
+        "word_list": [
+            "さう",
+            "ぢや",
+            "ない",
+            "！"
+        ],
+        "sound": "f000012.mp3",
+        "sound_begin": 45985,
+        "sound_end": 47875
+    },
+    {
+        "id": "Semi-f000013",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "』と彼が云ふ",
+        "sentence_with_furigana": "』と彼が云ふ",
+        "word_base_list": [
+            "』",
+            "と",
+            "彼",
+            "が",
+            "言う"
+        ],
+        "word_list": [
+            "』",
+            "と",
+            "彼",
+            "が",
+            "云ふ"
+        ],
+        "sound": "f000013.mp3",
+        "sound_begin": 47875,
+        "sound_end": 50579
+    },
+    {
+        "id": "Semi-f000014",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "『ちがつてゐるよ』と僕がいふ",
+        "sentence_with_furigana": "『ちがつてゐるよ』と僕がいふ",
+        "word_base_list": [
+            "『",
+            "ちっ",
+            "がつ",
+            "って",
+            "居る",
+            "よ",
+            "』",
+            "と",
+            "僕",
+            "が",
+            "言う"
+        ],
+        "word_list": [
+            "『",
+            "ち",
+            "がつ",
+            "て",
+            "ゐる",
+            "よ",
+            "』",
+            "と",
+            "僕",
+            "が",
+            "いふ"
+        ],
+        "sound": "f000014.mp3",
+        "sound_begin": 50579,
+        "sound_end": 56000
+    },
+    {
+        "id": "Semi-f000015",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "『いいや、",
+        "sentence_with_furigana": "『いいや、",
+        "word_base_list": [
+            "『",
+            "否",
+            "、"
+        ],
+        "word_list": [
+            "『",
+            "いいや",
+            "、"
+        ],
+        "sound": "f000015.mp3",
+        "sound_begin": 56000,
+        "sound_end": 57360
+    },
+    {
+        "id": "Semi-f000016",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "いいや！",
+        "sentence_with_furigana": "いいや！",
+        "word_base_list": [
+            "良い",
+            "や",
+            "！"
+        ],
+        "word_list": [
+            "いい",
+            "や",
+            "！"
+        ],
+        "sound": "f000016.mp3",
+        "sound_begin": 57360,
+        "sound_end": 58912
+    },
+    {
+        "id": "Semi-f000017",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "』と彼が云ふ",
+        "sentence_with_furigana": "』と彼が云ふ",
+        "word_base_list": [
+            "』",
+            "と",
+            "彼",
+            "が",
+            "言う"
+        ],
+        "word_list": [
+            "』",
+            "と",
+            "彼",
+            "が",
+            "云ふ"
+        ],
+        "sound": "f000017.mp3",
+        "sound_begin": 58912,
+        "sound_end": 61702
+    },
+    {
+        "id": "Semi-f000018",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "『ちがつてゐるよ』と僕が云ふ",
+        "sentence_with_furigana": "『ちがつてゐるよ』と僕が云ふ",
+        "word_base_list": [
+            "『",
+            "ちっ",
+            "がつ",
+            "って",
+            "居る",
+            "よ",
+            "』",
+            "と",
+            "僕",
+            "が",
+            "言う"
+        ],
+        "word_list": [
+            "『",
+            "ち",
+            "がつ",
+            "て",
+            "ゐる",
+            "よ",
+            "』",
+            "と",
+            "僕",
+            "が",
+            "云ふ"
+        ],
+        "sound": "f000018.mp3",
+        "sound_begin": 61702,
+        "sound_end": 67737
+    },
+    {
+        "id": "Semi-f000019",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000019.mp3",
+        "sound_begin": 67737,
+        "sound_end": 69000
+    },
+    {
+        "id": "Semi-f000020",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "目が覚める、",
+        "sentence_with_furigana": "目が覚める、",
+        "word_base_list": [
+            "目",
+            "が",
+            "覚める",
+            "、"
+        ],
+        "word_list": [
+            "目",
+            "が",
+            "覚める",
+            "、"
+        ],
+        "sound": "f000020.mp3",
+        "sound_begin": 69000,
+        "sound_end": 71499
+    },
+    {
+        "id": "Semi-f000021",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "と、",
+        "sentence_with_furigana": "と、",
+        "word_base_list": [
+            "と",
+            "、"
+        ],
+        "word_list": [
+            "と",
+            "、"
+        ],
+        "sound": "f000021.mp3",
+        "sound_begin": 71499,
+        "sound_end": 72757
+    },
+    {
+        "id": "Semi-f000022",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "彼はもうとつくに死んだ奴なんだ",
+        "sentence_with_furigana": "彼はもうとつくに死んだ 奴[やつ]なんだ",
+        "word_base_list": [
+            "彼",
+            "は",
+            "もう",
+            "と",
+            "つく",
+            "に",
+            "死ぬ",
+            "た",
+            "奴",
+            "だ",
+            "の",
+            "だ"
+        ],
+        "word_list": [
+            "彼",
+            "は",
+            "もう",
+            "と",
+            "つく",
+            "に",
+            "死ん",
+            "だ",
+            "奴",
+            "な",
+            "ん",
+            "だ"
+        ],
+        "sound": "f000022.mp3",
+        "sound_begin": 72757,
+        "sound_end": 79680
+    },
+    {
+        "id": "Semi-f000023",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "それから彼の永眠してゐる、",
+        "sentence_with_furigana": "それから彼の永眠してゐる、",
+        "word_base_list": [
+            "其れ",
+            "から",
+            "彼",
+            "の",
+            "永眠",
+            "為る",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "から",
+            "彼",
+            "の",
+            "永眠",
+            "し",
+            "て",
+            "ゐる",
+            "、"
+        ],
+        "sound": "f000023.mp3",
+        "sound_begin": 79680,
+        "sound_end": 82400
+    },
+    {
+        "id": "Semi-f000024",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "墓場のことなぞ目に浮ぶ……",
+        "sentence_with_furigana": "墓場のことなぞ目に浮ぶ……",
+        "word_base_list": [
+            "墓場",
+            "の",
+            "こと",
+            "など",
+            "目",
+            "に",
+            "浮かぶ",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "."
+        ],
+        "word_list": [
+            "墓場",
+            "の",
+            "こと",
+            "なぞ",
+            "目",
+            "に",
+            "浮ぶ",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            ""
+        ],
+        "sound": "f000024.mp3",
+        "sound_begin": 82400,
+        "sound_end": 89280
+    },
+    {
+        "id": "Semi-f000025",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "それは中国のとある田舎の、",
+        "sentence_with_furigana": "それは中国のとある 田舎[ゐなか]の、",
+        "word_base_list": [
+            "其れ",
+            "は",
+            "中国",
+            "の",
+            "とある",
+            "田舎",
+            "の",
+            "、"
+        ],
+        "word_list": [
+            "それ",
+            "は",
+            "中国",
+            "の",
+            "とある",
+            "田舎",
+            "の",
+            "、"
+        ],
+        "sound": "f000025.mp3",
+        "sound_begin": 89280,
+        "sound_end": 92000
+    },
+    {
+        "id": "Semi-f000026",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "水無河原といふ",
+        "sentence_with_furigana": "水無河原[みづなしがはら]といふ",
+        "word_base_list": [
+            "水無",
+            "川原",
+            "と",
+            "言う"
+        ],
+        "word_list": [
+            "水無",
+            "河原",
+            "と",
+            "いふ"
+        ],
+        "sound": "f000026.mp3",
+        "sound_begin": 92000,
+        "sound_end": 95520
+    },
+    {
+        "id": "Semi-f000027",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "雨の日のほか水のない",
+        "sentence_with_furigana": "雨の日のほか水のない",
+        "word_base_list": [
+            "雨",
+            "の",
+            "日",
+            "の",
+            "他",
+            "水",
+            "の",
+            "無い"
+        ],
+        "word_list": [
+            "雨",
+            "の",
+            "日",
+            "の",
+            "ほか",
+            "水",
+            "の",
+            "ない"
+        ],
+        "sound": "f000027.mp3",
+        "sound_begin": 95520,
+        "sound_end": 99439
+    },
+    {
+        "id": "Semi-f000028",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "伝説付の川のほとり、",
+        "sentence_with_furigana": "伝説付の川のほとり、",
+        "word_base_list": [
+            "伝説",
+            "付け",
+            "の",
+            "川",
+            "の",
+            "辺",
+            "、"
+        ],
+        "word_list": [
+            "伝説",
+            "付",
+            "の",
+            "川",
+            "の",
+            "ほとり",
+            "、"
+        ],
+        "sound": "f000028.mp3",
+        "sound_begin": 99439,
+        "sound_end": 104579
+    },
+    {
+        "id": "Semi-f000029",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "藪蔭の砂土帯の小さな墓場、",
+        "sentence_with_furigana": "藪蔭の砂土帯の小さな墓場、",
+        "word_base_list": [
+            "藪",
+            "陰",
+            "の",
+            "砂土",
+            "帯",
+            "の",
+            "小さな",
+            "墓場",
+            "、"
+        ],
+        "word_list": [
+            "藪",
+            "蔭",
+            "の",
+            "砂土",
+            "帯",
+            "の",
+            "小さな",
+            "墓場",
+            "、"
+        ],
+        "sound": "f000029.mp3",
+        "sound_begin": 104579,
+        "sound_end": 107964
+    },
+    {
+        "id": "Semi-f000030",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "——",
+        "sentence_with_furigana": "——",
+        "word_base_list": [
+            "—",
+            "—"
+        ],
+        "word_list": [
+            "—",
+            "—"
+        ],
+        "sound": "f000030.mp3",
+        "sound_begin": 107964,
+        "sound_end": 109791
+    },
+    {
+        "id": "Semi-f000031",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "そこにも蝉は鳴いてゐるだろ",
+        "sentence_with_furigana": "そこにも蝉は鳴いてゐるだろ",
+        "word_base_list": [
+            "其処",
+            "に",
+            "も",
+            "蝉",
+            "は",
+            "鳴く",
+            "て",
+            "居る",
+            "だ"
+        ],
+        "word_list": [
+            "そこ",
+            "に",
+            "も",
+            "蝉",
+            "は",
+            "鳴い",
+            "て",
+            "ゐる",
+            "だろ"
+        ],
+        "sound": "f000031.mp3",
+        "sound_begin": 109791,
+        "sound_end": 115021
+    },
+    {
+        "id": "Semi-f000032",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "チラチラ夕陽も射してゐるだろ……",
+        "sentence_with_furigana": "チラチラ夕陽も射してゐるだろ……",
+        "word_base_list": [
+            "ちらちら",
+            "夕日",
+            "も",
+            "差す",
+            "て",
+            "居る",
+            "だ",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "."
+        ],
+        "word_list": [
+            "チラチラ",
+            "夕陽",
+            "も",
+            "射し",
+            "て",
+            "ゐる",
+            "だろ",
+            "…",
+            "",
+            "",
+            "…",
+            "",
+            ""
+        ],
+        "sound": "f000032.mp3",
+        "sound_begin": 115021,
+        "sound_end": 122200
+    },
+    {
+        "id": "Semi-f000033",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる、",
+        "sentence_with_furigana": "蝉が鳴いてゐる、",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "、"
+        ],
+        "sound": "f000033.mp3",
+        "sound_begin": 122200,
+        "sound_end": 125080
+    },
+    {
+        "id": "Semi-f000034",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる",
+        "sentence_with_furigana": "蝉が鳴いてゐる",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる"
+        ],
+        "sound": "f000034.mp3",
+        "sound_begin": 125080,
+        "sound_end": 128372
+    },
+    {
+        "id": "Semi-f000035",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐるほかなんにもない！",
+        "sentence_with_furigana": "蝉が鳴いてゐるほかなんにもない！",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "他",
+            "何",
+            "も",
+            "無い",
+            "！"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "ほか",
+            "なんに",
+            "も",
+            "ない",
+            "！"
+        ],
+        "sound": "f000035.mp3",
+        "sound_begin": 128372,
+        "sound_end": 134600
+    },
+    {
+        "id": "Semi-f000036",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "僕の怠惰？",
+        "sentence_with_furigana": "僕の怠惰？",
+        "word_base_list": [
+            "僕",
+            "の",
+            "怠惰",
+            "？"
+        ],
+        "word_list": [
+            "僕",
+            "の",
+            "怠惰",
+            "？"
+        ],
+        "sound": "f000036.mp3",
+        "sound_begin": 134600,
+        "sound_end": 137880
+    },
+    {
+        "id": "Semi-f000037",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "僕は『怠惰』か？",
+        "sentence_with_furigana": "僕は『怠惰』か？",
+        "word_base_list": [
+            "僕",
+            "は",
+            "『",
+            "怠惰",
+            "』",
+            "か",
+            "？"
+        ],
+        "word_list": [
+            "僕",
+            "は",
+            "『",
+            "怠惰",
+            "』",
+            "か",
+            "？"
+        ],
+        "sound": "f000037.mp3",
+        "sound_begin": 137880,
+        "sound_end": 140880
+    },
+    {
+        "id": "Semi-f000038",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "僕は僕を何とも思はぬ！",
+        "sentence_with_furigana": "僕は僕を何とも思はぬ！",
+        "word_base_list": [
+            "僕",
+            "は",
+            "僕",
+            "を",
+            "何",
+            "と",
+            "も",
+            "思う",
+            "ず",
+            "！"
+        ],
+        "word_list": [
+            "僕",
+            "は",
+            "僕",
+            "を",
+            "何",
+            "と",
+            "も",
+            "思は",
+            "ぬ",
+            "！"
+        ],
+        "sound": "f000038.mp3",
+        "sound_begin": 140880,
+        "sound_end": 147600
+    },
+    {
+        "id": "Semi-f000039",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる、",
+        "sentence_with_furigana": "蝉が鳴いてゐる、",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "、"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "、"
+        ],
+        "sound": "f000039.mp3",
+        "sound_begin": 147600,
+        "sound_end": 150800
+    },
+    {
+        "id": "Semi-f000040",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐる",
+        "sentence_with_furigana": "蝉が鳴いてゐる",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる"
+        ],
+        "sound": "f000040.mp3",
+        "sound_begin": 150800,
+        "sound_end": 154120
+    },
+    {
+        "id": "Semi-f000041",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "蝉が鳴いてゐるほかなんにもない！",
+        "sentence_with_furigana": "蝉が鳴いてゐるほかなんにもない！",
+        "word_base_list": [
+            "蝉",
+            "が",
+            "鳴く",
+            "て",
+            "居る",
+            "他",
+            "何",
+            "も",
+            "無い",
+            "！"
+        ],
+        "word_list": [
+            "蝉",
+            "が",
+            "鳴い",
+            "て",
+            "ゐる",
+            "ほか",
+            "なんに",
+            "も",
+            "ない",
+            "！"
+        ],
+        "sound": "f000041.mp3",
+        "sound_begin": 154120,
+        "sound_end": 161160
+    },
+    {
+        "id": "Semi-f000042",
+        "author_japanese": "中原 中也",
+        "deck_name": "Semi",
+        "deck_name_japanese": "蝉",
+        "sentence": "（一九三三・八・一四）",
+        "sentence_with_furigana": "（一九三三・八・一四）",
+        "word_base_list": [
+            "（",
+            "1933",
+            "・",
+            "8",
+            "・",
+            "14",
+            "）"
+        ],
+        "word_list": [
+            "（",
+            "一九三三",
+            "・",
+            "八",
+            "・",
+            "一四",
+            "）"
+        ],
+        "sound": "f000042.mp3",
+        "sound_begin": 161160,
+        "sound_end": 168000
+    }
+]

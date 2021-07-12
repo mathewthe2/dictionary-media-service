@@ -1,0 +1,821 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "梶井基次郎　作",
+        "sentence_with_furigana": "梶井基次郎　作",
+        "audio_begin": 1628,
+        "audio_end": 3780
+    },
+    {
+        "id": "f000002",
+        "sentence": "桜の樹の下には",
+        "sentence_with_furigana": "桜の樹の下には",
+        "audio_begin": 5880,
+        "audio_end": 8240
+    },
+    {
+        "id": "f000003",
+        "sentence": "桜の樹の下には屍体が埋まっている！",
+        "sentence_with_furigana": "桜の樹の下には 屍体[したい]が埋まっている！",
+        "audio_begin": 11840,
+        "audio_end": 17051
+    },
+    {
+        "id": "f000004",
+        "sentence": "これは信じていいことなんだよ。",
+        "sentence_with_furigana": "これは信じていいことなんだよ。",
+        "audio_begin": 17051,
+        "audio_end": 21800
+    },
+    {
+        "id": "f000005",
+        "sentence": "何故って、",
+        "sentence_with_furigana": "何故[なぜ]って、",
+        "audio_begin": 21800,
+        "audio_end": 23480
+    },
+    {
+        "id": "f000006",
+        "sentence": "桜の花があんなにも見事に咲くなんて信じられないことじゃないか。",
+        "sentence_with_furigana": "桜の花があんなにも見事に咲くなんて信じられないことじゃないか。",
+        "audio_begin": 23480,
+        "audio_end": 30600
+    },
+    {
+        "id": "f000007",
+        "sentence": "俺はあの美しさが信じられないので、",
+        "sentence_with_furigana": "俺はあの美しさが信じられないので、",
+        "audio_begin": 30600,
+        "audio_end": 33600
+    },
+    {
+        "id": "f000008",
+        "sentence": "この二三日不安だった。",
+        "sentence_with_furigana": "この二三日不安だった。",
+        "audio_begin": 33600,
+        "audio_end": 36856
+    },
+    {
+        "id": "f000009",
+        "sentence": "しかしいま、",
+        "sentence_with_furigana": "しかしいま、",
+        "audio_begin": 36856,
+        "audio_end": 38454
+    },
+    {
+        "id": "f000010",
+        "sentence": "やっとわかるときが来た。",
+        "sentence_with_furigana": "やっとわかるときが来た。",
+        "audio_begin": 38454,
+        "audio_end": 40200
+    },
+    {
+        "id": "f000011",
+        "sentence": "桜の樹の下には屍体が埋まっている。",
+        "sentence_with_furigana": "桜の樹の下には屍体が埋まっている。",
+        "audio_begin": 42300,
+        "audio_end": 46500
+    },
+    {
+        "id": "f000012",
+        "sentence": "これは信じていいことだ。",
+        "sentence_with_furigana": "これは信じていいことだ。",
+        "audio_begin": 46500,
+        "audio_end": 51080
+    },
+    {
+        "id": "f000013",
+        "sentence": "どうして俺が毎晩家へ帰って来る道で、",
+        "sentence_with_furigana": "どうして俺が毎晩家へ帰って来る道で、",
+        "audio_begin": 51080,
+        "audio_end": 54840
+    },
+    {
+        "id": "f000014",
+        "sentence": "俺の部屋の数ある道具のうちの、",
+        "sentence_with_furigana": "俺の部屋の数ある道具のうちの、",
+        "audio_begin": 54840,
+        "audio_end": 57424
+    },
+    {
+        "id": "f000015",
+        "sentence": "選りに選ってちっぽけな薄っぺらいもの、",
+        "sentence_with_furigana": "選[よ]りに選ってちっぽけな薄っぺらいもの、",
+        "audio_begin": 57424,
+        "audio_end": 61200
+    },
+    {
+        "id": "f000016",
+        "sentence": "安全剃刀の刃なんぞが、",
+        "sentence_with_furigana": "安全剃刀の刃なんぞが、",
+        "audio_begin": 61200,
+        "audio_end": 63480
+    },
+    {
+        "id": "f000017",
+        "sentence": "千里眼のように思い浮かんで来るのか──おまえはそれがわからないと言ったが──そして俺にもやはりそれがわからないのだが──それもこれもやっぱり同じようなことにちがいない。",
+        "sentence_with_furigana": "千里眼のように思い浮かんで来るのか──おまえはそれがわからないと言ったが──そして俺にもやはりそれがわからないのだが──それもこれもやっぱり同じようなことにちがいない。",
+        "audio_begin": 63480,
+        "audio_end": 79920
+    },
+    {
+        "id": "f000018",
+        "sentence": "いったいどんな樹の花でも、",
+        "sentence_with_furigana": "いったいどんな樹の花でも、",
+        "audio_begin": 82720,
+        "audio_end": 84800
+    },
+    {
+        "id": "f000019",
+        "sentence": "いわゆる真っ盛りという状態に達すると、",
+        "sentence_with_furigana": "いわゆる真っ盛りという状態に達すると、",
+        "audio_begin": 84800,
+        "audio_end": 88240
+    },
+    {
+        "id": "f000020",
+        "sentence": "あたりの空気のなかへ一種神秘な雰囲気を撒き散らすものだ。",
+        "sentence_with_furigana": "あたりの空気のなかへ一種神秘な雰囲気を撒き散らすものだ。",
+        "audio_begin": 88240,
+        "audio_end": 95160
+    },
+    {
+        "id": "f000021",
+        "sentence": "それは、",
+        "sentence_with_furigana": "それは、",
+        "audio_begin": 95160,
+        "audio_end": 95920
+    },
+    {
+        "id": "f000022",
+        "sentence": "よく廻った独楽が完全な静止に澄むように、",
+        "sentence_with_furigana": "よく廻った 独楽[こま]が完全な静止に澄むように、",
+        "audio_begin": 95920,
+        "audio_end": 100840
+    },
+    {
+        "id": "f000023",
+        "sentence": "また、",
+        "sentence_with_furigana": "また、",
+        "audio_begin": 100840,
+        "audio_end": 101560
+    },
+    {
+        "id": "f000024",
+        "sentence": "音楽の上手な演奏がきまってなにかの幻覚を伴うように、",
+        "sentence_with_furigana": "音楽の上手な演奏がきまってなにかの幻覚を伴うように、",
+        "audio_begin": 101560,
+        "audio_end": 106961
+    },
+    {
+        "id": "f000025",
+        "sentence": "灼熱した生殖の幻覚させる後光のようなものだ。",
+        "sentence_with_furigana": "灼熱[しゃくねつ]した生殖の幻覚させる後光のようなものだ。",
+        "audio_begin": 106961,
+        "audio_end": 113000
+    },
+    {
+        "id": "f000026",
+        "sentence": "それは人の心を撲たずにはおかない、",
+        "sentence_with_furigana": "それは人の心を 撲[う]たずにはおかない、",
+        "audio_begin": 113000,
+        "audio_end": 116520
+    },
+    {
+        "id": "f000027",
+        "sentence": "不思議な、",
+        "sentence_with_furigana": "不思議な、",
+        "audio_begin": 116520,
+        "audio_end": 117520
+    },
+    {
+        "id": "f000028",
+        "sentence": "生き生きとした、",
+        "sentence_with_furigana": "生き生きとした、",
+        "audio_begin": 117520,
+        "audio_end": 118680
+    },
+    {
+        "id": "f000029",
+        "sentence": "美しさだ。",
+        "sentence_with_furigana": "美しさだ。",
+        "audio_begin": 118680,
+        "audio_end": 121360
+    },
+    {
+        "id": "f000030",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 121360,
+        "audio_end": 121960
+    },
+    {
+        "id": "f000031",
+        "sentence": "昨日、",
+        "sentence_with_furigana": "昨日、",
+        "audio_begin": 121960,
+        "audio_end": 122920
+    },
+    {
+        "id": "f000032",
+        "sentence": "一昨日、",
+        "sentence_with_furigana": "一昨日、",
+        "audio_begin": 122920,
+        "audio_end": 123920
+    },
+    {
+        "id": "f000033",
+        "sentence": "俺の心をひどく陰気にしたものもそれなのだ。",
+        "sentence_with_furigana": "俺の心をひどく陰気にしたものもそれなのだ。",
+        "audio_begin": 123920,
+        "audio_end": 129080
+    },
+    {
+        "id": "f000034",
+        "sentence": "俺にはその美しさがなにか信じられないもののような気がした。",
+        "sentence_with_furigana": "俺にはその美しさがなにか信じられないもののような気がした。",
+        "audio_begin": 129080,
+        "audio_end": 135080
+    },
+    {
+        "id": "f000035",
+        "sentence": "俺は反対に不安になり、",
+        "sentence_with_furigana": "俺は反対に不安になり、",
+        "audio_begin": 135080,
+        "audio_end": 137458
+    },
+    {
+        "id": "f000036",
+        "sentence": "憂鬱になり、",
+        "sentence_with_furigana": "憂鬱[ゆううつ]になり、",
+        "audio_begin": 137458,
+        "audio_end": 138968
+    },
+    {
+        "id": "f000037",
+        "sentence": "空虚な気持になった。",
+        "sentence_with_furigana": "空虚な気持になった。",
+        "audio_begin": 138968,
+        "audio_end": 142440
+    },
+    {
+        "id": "f000038",
+        "sentence": "しかし、",
+        "sentence_with_furigana": "しかし、",
+        "audio_begin": 142440,
+        "audio_end": 143360
+    },
+    {
+        "id": "f000039",
+        "sentence": "俺はいまやっとわかった。",
+        "sentence_with_furigana": "俺はいまやっとわかった。",
+        "audio_begin": 143360,
+        "audio_end": 145340
+    },
+    {
+        "id": "f000040",
+        "sentence": "おまえ、",
+        "sentence_with_furigana": "おまえ、",
+        "audio_begin": 147440,
+        "audio_end": 147960
+    },
+    {
+        "id": "f000041",
+        "sentence": "この爛漫と咲き乱れている桜の樹の下へ、",
+        "sentence_with_furigana": "この 爛漫[らんまん]と咲き乱れている桜の樹の下へ、",
+        "audio_begin": 147960,
+        "audio_end": 152360
+    },
+    {
+        "id": "f000042",
+        "sentence": "一つ一つ屍体が埋まっていると想像してみるがいい。",
+        "sentence_with_furigana": "一つ一つ屍体が埋まっていると想像してみるがいい。",
+        "audio_begin": 152360,
+        "audio_end": 157680
+    },
+    {
+        "id": "f000043",
+        "sentence": "何が俺をそんなに不安にしていたかがおまえには納得がいくだろう。",
+        "sentence_with_furigana": "何が俺をそんなに不安にしていたかがおまえには納得がいくだろう。",
+        "audio_begin": 157680,
+        "audio_end": 164600
+    },
+    {
+        "id": "f000044",
+        "sentence": "馬のような屍体、",
+        "sentence_with_furigana": "馬のような屍体、",
+        "audio_begin": 164600,
+        "audio_end": 166400
+    },
+    {
+        "id": "f000045",
+        "sentence": "犬猫のような屍体、",
+        "sentence_with_furigana": "犬猫のような屍体、",
+        "audio_begin": 166400,
+        "audio_end": 168640
+    },
+    {
+        "id": "f000046",
+        "sentence": "そして人間のような屍体、",
+        "sentence_with_furigana": "そして人間のような屍体、",
+        "audio_begin": 168640,
+        "audio_end": 172560
+    },
+    {
+        "id": "f000047",
+        "sentence": "屍体はみな腐爛して蛆が湧き、",
+        "sentence_with_furigana": "屍体はみな 腐爛[ふらん]して 蛆[うじ]が湧き、",
+        "audio_begin": 172560,
+        "audio_end": 175160
+    },
+    {
+        "id": "f000048",
+        "sentence": "堪らなく臭い。",
+        "sentence_with_furigana": "堪[たま]らなく臭い。",
+        "audio_begin": 175160,
+        "audio_end": 177440
+    },
+    {
+        "id": "f000049",
+        "sentence": "それでいて水晶のような液をたらたらとたらしている。",
+        "sentence_with_furigana": "それでいて水晶のような液をたらたらとたらしている。",
+        "audio_begin": 177440,
+        "audio_end": 183280
+    },
+    {
+        "id": "f000050",
+        "sentence": "桜の根は貪婪な蛸のように、",
+        "sentence_with_furigana": "桜の根は 貪婪[どんらん]な 蛸[たこ]のように、",
+        "audio_begin": 183280,
+        "audio_end": 186360
+    },
+    {
+        "id": "f000051",
+        "sentence": "それを抱きかかえ、",
+        "sentence_with_furigana": "それを抱きかかえ、",
+        "audio_begin": 186360,
+        "audio_end": 188120
+    },
+    {
+        "id": "f000052",
+        "sentence": "いそぎんちゃくの食糸のような毛根を聚めて、",
+        "sentence_with_furigana": "いそぎんちゃくの食糸のような毛根を 聚[あつ]めて、",
+        "audio_begin": 188120,
+        "audio_end": 191440
+    },
+    {
+        "id": "f000053",
+        "sentence": "その液体を吸っている。",
+        "sentence_with_furigana": "その液体を吸っている。",
+        "audio_begin": 191440,
+        "audio_end": 193300
+    },
+    {
+        "id": "f000054",
+        "sentence": "何があんな花弁を作り、",
+        "sentence_with_furigana": "何があんな花弁を作り、",
+        "audio_begin": 195400,
+        "audio_end": 197520
+    },
+    {
+        "id": "f000055",
+        "sentence": "何があんな蕊を作っているのか、",
+        "sentence_with_furigana": "何があんな 蕊[しべ]を作っているのか、",
+        "audio_begin": 197520,
+        "audio_end": 200494
+    },
+    {
+        "id": "f000056",
+        "sentence": "俺は毛根の吸いあげる水晶のような液が、",
+        "sentence_with_furigana": "俺は毛根の吸いあげる水晶のような液が、",
+        "audio_begin": 200494,
+        "audio_end": 203880
+    },
+    {
+        "id": "f000057",
+        "sentence": "静かな行列を作って、",
+        "sentence_with_furigana": "静かな行列を作って、",
+        "audio_begin": 203880,
+        "audio_end": 206160
+    },
+    {
+        "id": "f000058",
+        "sentence": "維管束のなかを夢のようにあがってゆくのが見えるようだ。",
+        "sentence_with_furigana": "維管束のなかを夢のようにあがってゆくのが見えるようだ。",
+        "audio_begin": 206160,
+        "audio_end": 210640
+    },
+    {
+        "id": "f000059",
+        "sentence": "──おまえは何をそう苦しそうな顔をしているのだ。",
+        "sentence_with_furigana": "──おまえは何をそう苦しそうな顔をしているのだ。",
+        "audio_begin": 213940,
+        "audio_end": 218440
+    },
+    {
+        "id": "f000060",
+        "sentence": "美しい透視術じゃないか。",
+        "sentence_with_furigana": "美しい透視術じゃないか。",
+        "audio_begin": 218440,
+        "audio_end": 221960
+    },
+    {
+        "id": "f000061",
+        "sentence": "俺はいまようやく瞳を据えて桜の花が見られるようになったのだ。",
+        "sentence_with_furigana": "俺はいまようやく 瞳[ひとみ]を据えて桜の花が見られるようになったのだ。",
+        "audio_begin": 221960,
+        "audio_end": 229002
+    },
+    {
+        "id": "f000062",
+        "sentence": "昨日、",
+        "sentence_with_furigana": "昨日、",
+        "audio_begin": 229002,
+        "audio_end": 229680
+    },
+    {
+        "id": "f000063",
+        "sentence": "一昨日、",
+        "sentence_with_furigana": "一昨日、",
+        "audio_begin": 229680,
+        "audio_end": 230400
+    },
+    {
+        "id": "f000064",
+        "sentence": "俺を不安がらせた神秘から自由になったのだ。",
+        "sentence_with_furigana": "俺を不安がらせた神秘から自由になったのだ。",
+        "audio_begin": 230400,
+        "audio_end": 237520
+    },
+    {
+        "id": "f000065",
+        "sentence": "二三日前、",
+        "sentence_with_furigana": "二三日前、",
+        "audio_begin": 237520,
+        "audio_end": 239160
+    },
+    {
+        "id": "f000066",
+        "sentence": "俺は、",
+        "sentence_with_furigana": "俺は、",
+        "audio_begin": 239160,
+        "audio_end": 239600
+    },
+    {
+        "id": "f000067",
+        "sentence": "ここの溪へ下りて、",
+        "sentence_with_furigana": "ここの 溪[たに]へ下りて、",
+        "audio_begin": 239600,
+        "audio_end": 241720
+    },
+    {
+        "id": "f000068",
+        "sentence": "石の上を伝い歩きしていた。",
+        "sentence_with_furigana": "石の上を伝い歩きしていた。",
+        "audio_begin": 241720,
+        "audio_end": 245440
+    },
+    {
+        "id": "f000069",
+        "sentence": "水のしぶきのなかからは、",
+        "sentence_with_furigana": "水のしぶきのなかからは、",
+        "audio_begin": 245440,
+        "audio_end": 247560
+    },
+    {
+        "id": "f000070",
+        "sentence": "あちらからもこちらからも、",
+        "sentence_with_furigana": "あちらからもこちらからも、",
+        "audio_begin": 247560,
+        "audio_end": 249720
+    },
+    {
+        "id": "f000071",
+        "sentence": "薄羽かげろうがアフロディットのように生まれて来て、",
+        "sentence_with_furigana": "薄羽かげろうがアフロディットのように生まれて来て、",
+        "audio_begin": 249720,
+        "audio_end": 253680
+    },
+    {
+        "id": "f000072",
+        "sentence": "溪の空をめがけて舞い上がってゆくのが見えた。",
+        "sentence_with_furigana": "溪の空をめがけて舞い上がってゆくのが見えた。",
+        "audio_begin": 253680,
+        "audio_end": 259000
+    },
+    {
+        "id": "f000073",
+        "sentence": "おまえも知っているとおり、",
+        "sentence_with_furigana": "おまえも知っているとおり、",
+        "audio_begin": 259000,
+        "audio_end": 260560
+    },
+    {
+        "id": "f000074",
+        "sentence": "彼らはそこで美しい結婚をするのだ。",
+        "sentence_with_furigana": "彼らはそこで美しい結婚をするのだ。",
+        "audio_begin": 260560,
+        "audio_end": 267360
+    },
+    {
+        "id": "f000075",
+        "sentence": "しばらく歩いていると、",
+        "sentence_with_furigana": "しばらく歩いていると、",
+        "audio_begin": 267360,
+        "audio_end": 269320
+    },
+    {
+        "id": "f000076",
+        "sentence": "俺は変なものに出喰わした。",
+        "sentence_with_furigana": "俺は変なものに 出喰[でく]わした。",
+        "audio_begin": 269320,
+        "audio_end": 272120
+    },
+    {
+        "id": "f000077",
+        "sentence": "それは溪の水が乾いた磧へ、",
+        "sentence_with_furigana": "それは溪の水が乾いた 磧[かわら]へ、",
+        "audio_begin": 272120,
+        "audio_end": 275360
+    },
+    {
+        "id": "f000078",
+        "sentence": "小さい水溜を残している、",
+        "sentence_with_furigana": "小さい水溜を残している、",
+        "audio_begin": 275360,
+        "audio_end": 278120
+    },
+    {
+        "id": "f000079",
+        "sentence": "その水のなかだった。",
+        "sentence_with_furigana": "その水のなかだった。",
+        "audio_begin": 278120,
+        "audio_end": 280960
+    },
+    {
+        "id": "f000080",
+        "sentence": "思いがけない石油を流したような光彩が、",
+        "sentence_with_furigana": "思いがけない石油を流したような光彩が、",
+        "audio_begin": 280960,
+        "audio_end": 284880
+    },
+    {
+        "id": "f000081",
+        "sentence": "一面に浮いているのだ。",
+        "sentence_with_furigana": "一面に浮いているのだ。",
+        "audio_begin": 284880,
+        "audio_end": 288320
+    },
+    {
+        "id": "f000082",
+        "sentence": "おまえはそれを何だったと思う。",
+        "sentence_with_furigana": "おまえはそれを何だったと思う。",
+        "audio_begin": 288320,
+        "audio_end": 292440
+    },
+    {
+        "id": "f000083",
+        "sentence": "それは何万匹とも数の知れない、",
+        "sentence_with_furigana": "それは何万匹とも数の知れない、",
+        "audio_begin": 292440,
+        "audio_end": 296280
+    },
+    {
+        "id": "f000084",
+        "sentence": "薄羽かげろうの屍体だったのだ。",
+        "sentence_with_furigana": "薄羽かげろうの屍体だったのだ。",
+        "audio_begin": 296280,
+        "audio_end": 299840
+    },
+    {
+        "id": "f000085",
+        "sentence": "隙間なく水の面を被っている、",
+        "sentence_with_furigana": "隙間なく水の面を被っている、",
+        "audio_begin": 299840,
+        "audio_end": 302400
+    },
+    {
+        "id": "f000086",
+        "sentence": "彼らのかさなりあった翅が、",
+        "sentence_with_furigana": "彼らのかさなりあった 翅[はね]が、",
+        "audio_begin": 302400,
+        "audio_end": 305160
+    },
+    {
+        "id": "f000087",
+        "sentence": "光にちぢれて油のような光彩を流しているのだ。",
+        "sentence_with_furigana": "光にちぢれて油のような光彩を流しているのだ。",
+        "audio_begin": 305160,
+        "audio_end": 310640
+    },
+    {
+        "id": "f000088",
+        "sentence": "そこが、",
+        "sentence_with_furigana": "そこが、",
+        "audio_begin": 310640,
+        "audio_end": 311680
+    },
+    {
+        "id": "f000089",
+        "sentence": "産卵を終わった彼らの墓場だったのだ。",
+        "sentence_with_furigana": "産卵を終わった彼らの墓場だったのだ。",
+        "audio_begin": 311680,
+        "audio_end": 317920
+    },
+    {
+        "id": "f000090",
+        "sentence": "俺はそれを見たとき、",
+        "sentence_with_furigana": "俺はそれを見たとき、",
+        "audio_begin": 317920,
+        "audio_end": 319880
+    },
+    {
+        "id": "f000091",
+        "sentence": "胸が衝かれるような気がした。",
+        "sentence_with_furigana": "胸が 衝[つ]かれるような気がした。",
+        "audio_begin": 319880,
+        "audio_end": 324120
+    },
+    {
+        "id": "f000092",
+        "sentence": "墓場を発いて屍体を嗜む変質者のような残忍なよろこびを俺は味わった。",
+        "sentence_with_furigana": "墓場を 発[あば]いて屍体を 嗜[この]む変質者のような残忍なよろこびを俺は味わった。",
+        "audio_begin": 324120,
+        "audio_end": 333308
+    },
+    {
+        "id": "f000093",
+        "sentence": "この溪間ではなにも俺をよろこばすものはない。",
+        "sentence_with_furigana": "この溪間ではなにも俺をよろこばすものはない。",
+        "audio_begin": 333308,
+        "audio_end": 337964
+    },
+    {
+        "id": "f000094",
+        "sentence": "鶯や四十雀も、",
+        "sentence_with_furigana": "鶯[うぐいす]や 四十雀[しじゅうから]も、",
+        "audio_begin": 337961,
+        "audio_end": 339920
+    },
+    {
+        "id": "f000095",
+        "sentence": "白い日光をさ青に煙らせている木の若芽も、",
+        "sentence_with_furigana": "白い日光をさ青に煙らせている木の若芽も、",
+        "audio_begin": 339920,
+        "audio_end": 344613
+    },
+    {
+        "id": "f000096",
+        "sentence": "ただそれだけでは、",
+        "sentence_with_furigana": "ただそれだけでは、",
+        "audio_begin": 344613,
+        "audio_end": 346360
+    },
+    {
+        "id": "f000097",
+        "sentence": "もうろうとした心象に過ぎない。",
+        "sentence_with_furigana": "もうろうとした心象に過ぎない。",
+        "audio_begin": 346360,
+        "audio_end": 350040
+    },
+    {
+        "id": "f000098",
+        "sentence": "俺には惨劇が必要なんだ。",
+        "sentence_with_furigana": "俺には惨劇が必要なんだ。",
+        "audio_begin": 350040,
+        "audio_end": 353360
+    },
+    {
+        "id": "f000099",
+        "sentence": "その平衡があって、",
+        "sentence_with_furigana": "その平衡があって、",
+        "audio_begin": 353360,
+        "audio_end": 355160
+    },
+    {
+        "id": "f000100",
+        "sentence": "はじめて俺の心象は明確になって来る。",
+        "sentence_with_furigana": "はじめて俺の心象は明確になって来る。",
+        "audio_begin": 355160,
+        "audio_end": 359880
+    },
+    {
+        "id": "f000101",
+        "sentence": "俺の心は悪鬼のように憂鬱に渇いている。",
+        "sentence_with_furigana": "俺の心は悪鬼のように憂鬱に渇いている。",
+        "audio_begin": 359880,
+        "audio_end": 364840
+    },
+    {
+        "id": "f000102",
+        "sentence": "俺の心に憂鬱が完成するときにばかり、",
+        "sentence_with_furigana": "俺の心に憂鬱が完成するときにばかり、",
+        "audio_begin": 364840,
+        "audio_end": 368960
+    },
+    {
+        "id": "f000103",
+        "sentence": "俺の心は和んでくる。",
+        "sentence_with_furigana": "俺の心は 和[なご]んでくる。",
+        "audio_begin": 368960,
+        "audio_end": 370880
+    },
+    {
+        "id": "f000104",
+        "sentence": "──おまえは腋の下を拭いているね。",
+        "sentence_with_furigana": "──おまえは 腋[わき]の下を 拭[ふ]いているね。",
+        "audio_begin": 374680,
+        "audio_end": 378640
+    },
+    {
+        "id": "f000105",
+        "sentence": "冷汗が出るのか。",
+        "sentence_with_furigana": "冷汗が出るのか。",
+        "audio_begin": 378640,
+        "audio_end": 381080
+    },
+    {
+        "id": "f000106",
+        "sentence": "それは俺も同じことだ。",
+        "sentence_with_furigana": "それは俺も同じことだ。",
+        "audio_begin": 381080,
+        "audio_end": 384800
+    },
+    {
+        "id": "f000107",
+        "sentence": "何もそれを不愉快がることはない。",
+        "sentence_with_furigana": "何もそれを不愉快がることはない。",
+        "audio_begin": 384800,
+        "audio_end": 387360
+    },
+    {
+        "id": "f000108",
+        "sentence": "べたべたとまるで精液のようだと思ってごらん。",
+        "sentence_with_furigana": "べたべたとまるで精液のようだと思ってごらん。",
+        "audio_begin": 389060,
+        "audio_end": 394080
+    },
+    {
+        "id": "f000109",
+        "sentence": "それで俺達の憂鬱は完成するのだ。",
+        "sentence_with_furigana": "それで俺達の憂鬱は完成するのだ。",
+        "audio_begin": 394080,
+        "audio_end": 400880
+    },
+    {
+        "id": "f000110",
+        "sentence": "ああ、",
+        "sentence_with_furigana": "ああ、",
+        "audio_begin": 400880,
+        "audio_end": 402000
+    },
+    {
+        "id": "f000111",
+        "sentence": "桜の樹の下には屍体が埋まっている！",
+        "sentence_with_furigana": "桜の樹の下には屍体が埋まっている！",
+        "audio_begin": 402000,
+        "audio_end": 405580
+    },
+    {
+        "id": "f000112",
+        "sentence": "いったいどこから浮かんで来た空想かさっぱり見当のつかない屍体が、",
+        "sentence_with_furigana": "いったいどこから浮かんで来た空想かさっぱり見当のつかない屍体が、",
+        "audio_begin": 407680,
+        "audio_end": 413880
+    },
+    {
+        "id": "f000113",
+        "sentence": "いまはまるで桜の樹と一つになって、",
+        "sentence_with_furigana": "いまはまるで桜の樹と一つになって、",
+        "audio_begin": 413880,
+        "audio_end": 417200
+    },
+    {
+        "id": "f000114",
+        "sentence": "どんなに頭を振っても離れてゆこうとはしない。",
+        "sentence_with_furigana": "どんなに頭を振っても離れてゆこうとはしない。",
+        "audio_begin": 417200,
+        "audio_end": 422200
+    },
+    {
+        "id": "f000115",
+        "sentence": "今こそ俺は、",
+        "sentence_with_furigana": "今こそ俺は、",
+        "audio_begin": 422200,
+        "audio_end": 424480
+    },
+    {
+        "id": "f000116",
+        "sentence": "あの桜の樹の下で酒宴をひらいている村人たちと同じ権利で、",
+        "sentence_with_furigana": "あの桜の樹の下で酒宴をひらいている村人たちと同じ権利で、",
+        "audio_begin": 424480,
+        "audio_end": 430473
+    },
+    {
+        "id": "f000117",
+        "sentence": "花見の酒が呑めそうな気がする。",
+        "sentence_with_furigana": "花見の酒が 呑[の]めそうな気がする。",
+        "audio_begin": 430473,
+        "audio_end": 434280
+    }
+]

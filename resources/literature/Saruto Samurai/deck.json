@@ -1,0 +1,303 @@
+[
+    {
+        "id": "f000001",
+        "sentence": "新美南吉　作",
+        "sentence_with_furigana": "新美南吉　作",
+        "audio_begin": 2913,
+        "audio_end": 5767
+    },
+    {
+        "id": "f000002",
+        "sentence": "サルト　サムライ",
+        "sentence_with_furigana": "サルト　サムライ",
+        "audio_begin": 5751,
+        "audio_end": 10240
+    },
+    {
+        "id": "f000003",
+        "sentence": "五ニンノ　サムライガ　タビヲ　シテ　アル　ヒ　ヤマミチヲ　トホリカヽルト、",
+        "sentence_with_furigana": "五ニンノ　サムライガ　タビヲ　シテ　アル　ヒ　ヤマミチヲ　トホリカヽルト、",
+        "audio_begin": 10240,
+        "audio_end": 18450
+    },
+    {
+        "id": "f000004",
+        "sentence": "木ノ　下ニ　一ピキノ　サルガ　ヰマシタ。",
+        "sentence_with_furigana": "木ノ　下ニ　一ピキノ　サルガ　ヰマシタ。",
+        "audio_begin": 18450,
+        "audio_end": 22893
+    },
+    {
+        "id": "f000005",
+        "sentence": "「アノ　サルヲ　キラウ。」",
+        "sentence_with_furigana": "「アノ　サルヲ　キラウ。」",
+        "audio_begin": 25560,
+        "audio_end": 27560
+    },
+    {
+        "id": "f000006",
+        "sentence": "「サウダ、",
+        "sentence_with_furigana": "「サウダ、",
+        "audio_begin": 29160,
+        "audio_end": 30520
+    },
+    {
+        "id": "f000007",
+        "sentence": "ワタシガ　キル。",
+        "sentence_with_furigana": "ワタシガ　キル。",
+        "audio_begin": 30520,
+        "audio_end": 32840
+    },
+    {
+        "id": "f000008",
+        "sentence": "ワタシハ　モウ　一ツキアマリ　カタナヲ　ヌカナイノデ、",
+        "sentence_with_furigana": "ワタシハ　モウ　一ツキアマリ　カタナヲ　ヌカナイノデ、",
+        "audio_begin": 32840,
+        "audio_end": 37960
+    },
+    {
+        "id": "f000009",
+        "sentence": "ウデガ　ムヅムヅスル。」",
+        "sentence_with_furigana": "ウデガ　ムヅムヅスル。」",
+        "audio_begin": 37960,
+        "audio_end": 42320
+    },
+    {
+        "id": "f000010",
+        "sentence": "「イヤ、",
+        "sentence_with_furigana": "「イヤ、",
+        "audio_begin": 42320,
+        "audio_end": 43320
+    },
+    {
+        "id": "f000011",
+        "sentence": "ワタシガ　キル。",
+        "sentence_with_furigana": "ワタシガ　キル。",
+        "audio_begin": 43320,
+        "audio_end": 45720
+    },
+    {
+        "id": "f000012",
+        "sentence": "ワタシノ　カタナハ　ヨク　キレル。」",
+        "sentence_with_furigana": "ワタシノ　カタナハ　ヨク　キレル。」",
+        "audio_begin": 45720,
+        "audio_end": 50280
+    },
+    {
+        "id": "f000013",
+        "sentence": "「ダメダ　ダメダ、",
+        "sentence_with_furigana": "「ダメダ　ダメダ、",
+        "audio_begin": 50280,
+        "audio_end": 52120
+    },
+    {
+        "id": "f000014",
+        "sentence": "キミラノ　ウデデハ　サルヲ　トリニガシテ　シマフ。",
+        "sentence_with_furigana": "キミラノ　ウデデハ　サルヲ　トリニガシテ　シマフ。",
+        "audio_begin": 52120,
+        "audio_end": 56480
+    },
+    {
+        "id": "f000015",
+        "sentence": "ワシガ　キル。」",
+        "sentence_with_furigana": "ワシガ　キル。」",
+        "audio_begin": 56490,
+        "audio_end": 59676
+    },
+    {
+        "id": "f000016",
+        "sentence": "「オネガヒダ、",
+        "sentence_with_furigana": "「オネガヒダ、",
+        "audio_begin": 59676,
+        "audio_end": 61320
+    },
+    {
+        "id": "f000017",
+        "sentence": "ワタシニ　キラセテ　クレ。」",
+        "sentence_with_furigana": "ワタシニ　キラセテ　クレ。」",
+        "audio_begin": 61320,
+        "audio_end": 63440
+    },
+    {
+        "id": "f000018",
+        "sentence": "ケレド、",
+        "sentence_with_furigana": "ケレド、",
+        "audio_begin": 66140,
+        "audio_end": 67200
+    },
+    {
+        "id": "f000019",
+        "sentence": "ヨク　ミルト、",
+        "sentence_with_furigana": "ヨク　ミルト、",
+        "audio_begin": 67200,
+        "audio_end": 69240
+    },
+    {
+        "id": "f000020",
+        "sentence": "ソノ　サルハ　ビヨウキニ　カヽツテ　ウゴケナク　ナツテ　ヰマシタ。",
+        "sentence_with_furigana": "ソノ　サルハ　ビヨウキニ　カヽツテ　ウゴケナク　ナツテ　ヰマシタ。",
+        "audio_begin": 69240,
+        "audio_end": 76390
+    },
+    {
+        "id": "f000021",
+        "sentence": "ビヨウキノ　サルヲ　キツテモ　シカタナイト　イフノデ、",
+        "sentence_with_furigana": "ビヨウキノ　サルヲ　キツテモ　シカタナイト　イフノデ、",
+        "audio_begin": 76390,
+        "audio_end": 81480
+    },
+    {
+        "id": "f000022",
+        "sentence": "五人ノ　サムライハ、",
+        "sentence_with_furigana": "五人ノ　サムライハ、",
+        "audio_begin": 81480,
+        "audio_end": 83400
+    },
+    {
+        "id": "f000023",
+        "sentence": "ソノ　サルヲ　ツレテ　ユキマシタ。",
+        "sentence_with_furigana": "ソノ　サルヲ　ツレテ　ユキマシタ。",
+        "audio_begin": 83400,
+        "audio_end": 90840
+    },
+    {
+        "id": "f000024",
+        "sentence": "ヤガテ　サルハ、",
+        "sentence_with_furigana": "ヤガテ　サルハ、",
+        "audio_begin": 90840,
+        "audio_end": 92353
+    },
+    {
+        "id": "f000025",
+        "sentence": "ビヨウキモ　ナホツテ　五人ノ　サムライニ　ヨク　ナレマシタ。",
+        "sentence_with_furigana": "ビヨウキモ　ナホツテ　五人ノ　サムライニ　ヨク　ナレマシタ。",
+        "audio_begin": 92353,
+        "audio_end": 102638
+    },
+    {
+        "id": "f000026",
+        "sentence": "トコロガ、",
+        "sentence_with_furigana": "トコロガ、",
+        "audio_begin": 102638,
+        "audio_end": 104160
+    },
+    {
+        "id": "f000027",
+        "sentence": "マイニチ　イツテモ　イツテモ　ヒロイ　ノハラデ　タベモノガ　ナイノデ　サルヲ　コロシテ　タベナクテハ　ナラナク　ナリマシタ。",
+        "sentence_with_furigana": "マイニチ　イツテモ　イツテモ　ヒロイ　ノハラデ　タベモノガ　ナイノデ　サルヲ　コロシテ　タベナクテハ　ナラナク　ナリマシタ。",
+        "audio_begin": 104160,
+        "audio_end": 115920
+    },
+    {
+        "id": "f000028",
+        "sentence": "「オマヘ　キレ。",
+        "sentence_with_furigana": "「オマヘ　キレ。",
+        "audio_begin": 118557,
+        "audio_end": 121382
+    },
+    {
+        "id": "f000029",
+        "sentence": "キリタイノダラウ。」",
+        "sentence_with_furigana": "キリタイノダラウ。」",
+        "audio_begin": 121382,
+        "audio_end": 124680
+    },
+    {
+        "id": "f000030",
+        "sentence": "「イヤ、",
+        "sentence_with_furigana": "「イヤ、",
+        "audio_begin": 124680,
+        "audio_end": 125880
+    },
+    {
+        "id": "f000031",
+        "sentence": "オマヘ　キレ。",
+        "sentence_with_furigana": "オマヘ　キレ。",
+        "audio_begin": 125880,
+        "audio_end": 128039
+    },
+    {
+        "id": "f000032",
+        "sentence": "オレノ　カタナハ　ハガ　コボレテ　ヰル。」",
+        "sentence_with_furigana": "オレノ　カタナハ　ハガ　コボレテ　ヰル。」",
+        "audio_begin": 128039,
+        "audio_end": 133535
+    },
+    {
+        "id": "f000033",
+        "sentence": "「オマヘハ　ドウダ、",
+        "sentence_with_furigana": "「オマヘハ　ドウダ、",
+        "audio_begin": 133535,
+        "audio_end": 135536
+    },
+    {
+        "id": "f000034",
+        "sentence": "ウデガ　ムヅムヅシテルンダラウ。」",
+        "sentence_with_furigana": "ウデガ　ムヅムヅシテルンダラウ。」",
+        "audio_begin": 135536,
+        "audio_end": 140068
+    },
+    {
+        "id": "f000035",
+        "sentence": "「ウーン、",
+        "sentence_with_furigana": "「ウーン、",
+        "audio_begin": 140068,
+        "audio_end": 141451
+    },
+    {
+        "id": "f000036",
+        "sentence": "ダメダ、",
+        "sentence_with_furigana": "ダメダ、",
+        "audio_begin": 141451,
+        "audio_end": 143084
+    },
+    {
+        "id": "f000037",
+        "sentence": "オナカヾ　イタイカラ。」",
+        "sentence_with_furigana": "オナカヾ　イタイカラ。」",
+        "audio_begin": 143084,
+        "audio_end": 147807
+    },
+    {
+        "id": "f000038",
+        "sentence": "ソノ　ウチニ　ノハラノ　ムカフニ　ムラガ　ミエテ　キマシタ。",
+        "sentence_with_furigana": "ソノ　ウチニ　ノハラノ　ムカフニ　ムラガ　ミエテ　キマシタ。",
+        "audio_begin": 147807,
+        "audio_end": 155222
+    },
+    {
+        "id": "f000039",
+        "sentence": "「アツ　ムラダ。",
+        "sentence_with_furigana": "「アツ　ムラダ。",
+        "audio_begin": 155222,
+        "audio_end": 158240
+    },
+    {
+        "id": "f000040",
+        "sentence": "アソコヘ　ユケバ　タベモノハ　アル。",
+        "sentence_with_furigana": "アソコヘ　ユケバ　タベモノハ　アル。",
+        "audio_begin": 158240,
+        "audio_end": 162400
+    },
+    {
+        "id": "f000041",
+        "sentence": "サルハ　コロサナクテ　ヨイ。」",
+        "sentence_with_furigana": "サルハ　コロサナクテ　ヨイ。」",
+        "audio_begin": 162400,
+        "audio_end": 165760
+    },
+    {
+        "id": "f000042",
+        "sentence": "五ニンノ　サムライハ　サルヲ　キラナクテ　ヨカツタ　コトヲ、",
+        "sentence_with_furigana": "五ニンノ　サムライハ　サルヲ　キラナクテ　ヨカツタ　コトヲ、",
+        "audio_begin": 168478,
+        "audio_end": 174010
+    },
+    {
+        "id": "f000043",
+        "sentence": "メニ　ナミダヲ　タメテ　ヨロコビマシタ。",
+        "sentence_with_furigana": "メニ　ナミダヲ　タメテ　ヨロコビマシタ。",
+        "audio_begin": 174010,
+        "audio_end": 178240
+    }
+]
