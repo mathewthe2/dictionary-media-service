@@ -53,7 +53,7 @@ def get_sentence_with_context(sentence_id, category=DEFAULT_CATEGORY):
 def get_examples(text_is_japanese, words_map, text, word_bases, tags=[], user_levels={}, is_exact_match=False):
     results = [words_map.get(token, set()) for token in word_bases]
     if results:
-        examples = decks.get_sentences(set.intersection(*results))
+        examples = decks.get_sentences(list(set.intersection(*results)))
         examples = filter_examples_by_tags(examples, tags)
         examples = filter_examples_by_level(user_levels, examples)
         if is_exact_match:

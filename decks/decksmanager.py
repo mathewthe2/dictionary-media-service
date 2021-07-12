@@ -1,6 +1,6 @@
 
 from decks.decks import Decks 
-from config import DECK_CATEGORIES, DEFAULT_CATEGORY, REDIS_URL
+from config import DECK_CATEGORIES, DEFAULT_CATEGORY, REDIS_URL, MEDIA_FILE_HOST
 import json
 import redis
 r = redis.StrictRedis.from_url(REDIS_URL, db=0)
@@ -25,19 +25,20 @@ class DecksManager:
             self.decks[deck_category].load_decks()
 
     def get_deck_by_name(self, deck_name):
-        return self.decks[self.category].get_deck_by_name(deck_name)
+        return [self.parse_sentence(sentence) for sentence in self.decks[self.category].get_deck_by_name(deck_name)]
 
     def get_sentences(self, sentence_ids):
         sentences = []
         with r.pipeline() as pipe:
             for sentence_id in sentence_ids:
                 pipe.hgetall(self.category + '-' + sentence_id)
-            for b64data in pipe.execute():
+            for index, b64data in enumerate(pipe.execute()):
                 data = { key.decode(): val.decode() for key, val in b64data.items() }
                 sentence = {}
                 for key, val in data.items():
                     sentence[key] = json.loads(val) if key in SENTENCE_KEYS_FOR_LISTS else val
-                sentences.append(sentence)
+                sentence["id"] = sentence_ids[index]
+                sentences.append(self.parse_sentence(sentence))
         return sentences
         
     def get_sentence(self, sentence_id):
@@ -46,6 +47,17 @@ class DecksManager:
             return sentences[0]
         else:
             return None
+
+    def parse_sentence(self, sentence):
+        if sentence:
+            if (self.decks[self.category].has_image):
+                image_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['image'])
+                sentence['image_url'] = image_path.replace(" ", "%20")
+            
+            if (self.decks[self.category].has_sound):
+                sound_path = '{}/{}/{}/media/{}'.format(MEDIA_FILE_HOST, self.category, sentence['deck_name'], sentence['sound'])
+                sentence['sound_url'] = sound_path.replace(" ", "%20")
+        return sentence
 
     def get_sentence_map(self):
         return self.decks[self.category].get_sentence_map()

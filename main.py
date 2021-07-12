@@ -40,11 +40,11 @@ def look_up_dictionary():
 def sentence_with_context():
     sentence_id = request.query.get('id')
     has_category = request.query.get('category') is not None and request.query.get('category') != ''
+    response.set_header('Access-Control-Allow-Origin', '*')
+    response.add_header('Access-Control-Allow-Methods', 'GET')
     if sentence_id is None:
         return 'No sentence id specified.'
     else: 
-        response.set_header('Access-Control-Allow-Origin', '*')
-        response.add_header('Access-Control-Allow-Methods', 'GET')
         return get_sentence_with_context(request.query.id, category=DEFAULT_CATEGORY if not has_category else request.query.category)
 
 @route('/deck')
