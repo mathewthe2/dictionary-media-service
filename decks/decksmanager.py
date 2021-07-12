@@ -5,7 +5,7 @@ import json
 import redis
 r = redis.StrictRedis.from_url(REDIS_URL, db=0)
 
-SENTENCE_KEYS_FOR_LISTS = ['pretext', 'posttext', 'word_list', 'word_base_list', 'translation_word_list', 'translation_word_list']
+SENTENCE_KEYS_FOR_LISTS = ['pretext', 'posttext', 'word_list', 'word_base_list', 'translation_word_list', 'translation_word_base_list']
 
 class DecksManager:
     def __init__(self, category=DEFAULT_CATEGORY):
