@@ -80,9 +80,9 @@ def parse_examples(examples, text_is_japanese, word_bases):
         example['word_index'] = []
         example['translation_word_index'] = []
         if text_is_japanese:
-            example['word_index'] = [example['word_base_list'].index(word) for word in word_bases]
+            example['word_index'] = [index for index, word in enumerate(example['word_base_list']) if word in word_bases]
         else:
-            example['translation_word_index'] = [example['translation_word_base_list'].index(word) for word in word_bases]
+            example['translation_word_index'] = [index for index, word in enumerate(example['translation_word_base_list']) if word in word_bases]
     return examples
 
 def look_up(text, sorting, category=DEFAULT_CATEGORY, tags=[], user_levels={}):
