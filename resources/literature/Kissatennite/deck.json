@@ -43,8 +43,8 @@
     },
     {
         "id": "f000007",
-        "sentence": "珍らしい土産話と思つたからである。",
-        "sentence_with_furigana": "珍らしい土産話と思つたからである。",
+        "sentence": "珍らしい土産話と思ったからである。",
+        "sentence_with_furigana": "珍らしい土産話と思ったからである。",
         "audio_begin": 21680,
         "audio_end": 27960
     },
@@ -57,8 +57,8 @@
     },
     {
         "id": "f000009",
-        "sentence": "次のやうな感想を述べた。",
-        "sentence_with_furigana": "次のやうな感想を述べた。",
+        "sentence": "次のような感想を述べた。",
+        "sentence_with_furigana": "次のような感想を述べた。",
         "audio_begin": 29920,
         "audio_end": 35440
     },
@@ -78,15 +78,15 @@
     },
     {
         "id": "f000012",
-        "sentence": "半時間もぼんやり坐つてる人が沢山居る。",
-        "sentence_with_furigana": "半時間もぼんやり坐つてる人が沢山居る。",
+        "sentence": "半時間もぼんやり坐ってる人が沢山居る。",
+        "sentence_with_furigana": "半時間もぼんやり坐ってる人が沢山居る。",
         "audio_begin": 40680,
         "audio_end": 45600
     },
     {
         "id": "f000013",
-        "sentence": "一体彼等は何を考へてゐるのだらうと。",
-        "sentence_with_furigana": "一体彼等は何を考へてゐるのだらうと。",
+        "sentence": "一体彼等は何を考へているのだらうと。",
+        "sentence_with_furigana": "一体彼等は何を考へているのだらうと。",
         "audio_begin": 45600,
         "audio_end": 53520
     },
@@ -99,43 +99,43 @@
     },
     {
         "id": "f000015",
-        "sentence": "タイムイズマネーで忙がしく市中を馳け廻つてる大阪人が、",
-        "sentence_with_furigana": "タイムイズマネーで忙がしく市中を馳け廻つてる大阪人が、",
+        "sentence": "タイムイズマネーで忙がしく市中を馳け廻ってる大阪人が、",
+        "sentence_with_furigana": "タイムイズマネーで忙がしく市中を馳け廻ってる大阪人が、",
         "audio_begin": 55920,
         "audio_end": 60080
     },
     {
         "id": "f000016",
-        "sentence": "かうした東京の喫茶店風景を見て、",
-        "sentence_with_furigana": "かうした東京の喫茶店風景を見て、",
+        "sentence": "こうした東京の喫茶店風景を見て、",
+        "sentence_with_furigana": "こうした東京の喫茶店風景を見て、",
         "audio_begin": 60080,
         "audio_end": 64040
     },
     {
         "id": "f000017",
-        "sentence": "いかにも閑人の寄り集りのやうに思ひ、",
-        "sentence_with_furigana": "いかにも閑人の寄り集りのやうに思ひ、",
+        "sentence": "いかにも閑人の寄り集りのように思い、",
+        "sentence_with_furigana": "いかにも閑人の寄り集りのように思い、",
         "audio_begin": 64040,
         "audio_end": 67720
     },
     {
         "id": "f000018",
-        "sentence": "むしろ不可思議に思ふのは当然である。",
-        "sentence_with_furigana": "むしろ不可思議に思ふのは当然である。",
+        "sentence": "むしろ不可思議に思いのは当然である。",
+        "sentence_with_furigana": "むしろ不可思議に思いのは当然である。",
         "audio_begin": 67720,
         "audio_end": 74250
     },
     {
         "id": "f000019",
-        "sentence": "私もさう言はれて、",
-        "sentence_with_furigana": "私もさう言はれて、",
+        "sentence": "私もそう言われて、",
+        "sentence_with_furigana": "私もそう言われて、",
         "audio_begin": 74250,
         "audio_end": 75719
     },
     {
         "id": "f000020",
-        "sentence": "初めて喫茶店の客が「何を考へて居るのだらう」と考へて見た。",
-        "sentence_with_furigana": "初めて喫茶店の客が「何を考へて居るのだらう」と考へて見た。",
+        "sentence": "初めて喫茶店の客が「何を考えて居るのだらう」と考えて見た。",
+        "sentence_with_furigana": "初めて喫茶店の客が「何を考えて居るのだらう」と考えて見た。",
         "audio_begin": 75719,
         "audio_end": 84928
     },
@@ -148,22 +148,22 @@
     },
     {
         "id": "f000022",
-        "sentence": "何も考へては居ないのだらう。",
-        "sentence_with_furigana": "何も考へては居ないのだらう。",
+        "sentence": "何も考えては居ないのだらう。",
+        "sentence_with_furigana": "何も考えては居ないのだらう。",
         "audio_begin": 86520,
         "audio_end": 90542
     },
     {
         "id": "f000023",
-        "sentence": "と言つて疲労を休める為に、",
-        "sentence_with_furigana": "と言つて疲労を休める為に、",
+        "sentence": "と言って疲労を休める為に、",
+        "sentence_with_furigana": "と言って疲労を休める為に、",
         "audio_begin": 90542,
         "audio_end": 93480
     },
     {
         "id": "f000024",
-        "sentence": "休息してゐるといふわけでもない。",
-        "sentence_with_furigana": "休息してゐるといふわけでもない。",
+        "sentence": "休息しているというわけでもない。",
+        "sentence_with_furigana": "休息しているというわけでもない。",
         "audio_begin": 93480,
         "audio_end": 98859
     },
@@ -190,8 +190,8 @@
     },
     {
         "id": "f000028",
-        "sentence": "これが即ち文化の余裕といふものであり、",
-        "sentence_with_furigana": "これが即ち文化の余裕といふものであり、",
+        "sentence": "これが即ち文化の余裕というものであり、",
+        "sentence_with_furigana": "これが即ち文化の余裕というものであり、",
         "audio_begin": 111689,
         "audio_end": 116920
     },
@@ -218,15 +218,15 @@
     },
     {
         "id": "f000032",
-        "sentence": "文化が長い伝統によつて、",
-        "sentence_with_furigana": "文化が長い伝統によつて、",
+        "sentence": "文化が長い伝統によって、",
+        "sentence_with_furigana": "文化が長い伝統によって、",
         "audio_begin": 126920,
         "audio_end": 129333
     },
     {
         "id": "f000033",
-        "sentence": "余裕性を多分にもつてる証左である。",
-        "sentence_with_furigana": "余裕性を多分にもつてる証左である。",
+        "sentence": "余裕性を多分にもってる証左である。",
+        "sentence_with_furigana": "余裕性を多分にもってる証左である。",
         "audio_begin": 129333,
         "audio_end": 136155
     },
@@ -274,8 +274,8 @@
     },
     {
         "id": "f000040",
-        "sentence": "絶えず働くと言ふことは、",
-        "sentence_with_furigana": "絶えず働くと言ふことは、",
+        "sentence": "絶えず働くと言うことは、",
+        "sentence_with_furigana": "絶えず働くと言うことは、",
         "audio_begin": 156960,
         "audio_end": 159322
     },
@@ -295,8 +295,8 @@
     },
     {
         "id": "f000043",
-        "sentence": "今の日本のやうな新開国では、",
-        "sentence_with_furigana": "今の日本のやうな新開国では、",
+        "sentence": "今の日本のような新開国では、",
+        "sentence_with_furigana": "今の日本のような新開国では、",
         "audio_begin": 166240,
         "audio_end": 169108
     },
@@ -330,8 +330,8 @@
     },
     {
         "id": "f000048",
-        "sentence": "一杯の葡萄酒で半日も暮してゐるなんてことは、",
-        "sentence_with_furigana": "一杯の葡萄酒で半日も暮してゐるなんてことは、",
+        "sentence": "一杯の葡萄酒で半日も暮しているなんてことは、",
+        "sentence_with_furigana": "一杯の葡萄酒で半日も暮しているなんてことは、",
         "audio_begin": 184037,
         "audio_end": 188523
     },
@@ -386,8 +386,8 @@
     },
     {
         "id": "f000056",
-        "sentence": "それが即ち「太平の世」といふものである。",
-        "sentence_with_furigana": "それが即ち「太平の世」といふものである。",
+        "sentence": "それが即ち「太平の世」というものである。",
+        "sentence_with_furigana": "それが即ち「太平の世」というものである。",
         "audio_begin": 218301,
         "audio_end": 225880
     },

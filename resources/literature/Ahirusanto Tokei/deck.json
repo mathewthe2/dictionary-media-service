@@ -29,15 +29,15 @@
     },
     {
         "id": "f000005",
-        "sentence": "大きなあひるさんたちが時計を持つてゐるのを見て欲しくて堪りません。",
-        "sentence_with_furigana": "大きなあひるさんたちが時計を持つてゐるのを見て欲しくて 堪[たま]りません。",
+        "sentence": "大きなあひるさんたちが時計を持っているのを見て欲しくて堪りません。",
+        "sentence_with_furigana": "大きなあひるさんたちが時計を持っているのを見て欲しくて 堪[たま]りません。",
         "audio_begin": 19640,
         "audio_end": 26800
     },
     {
         "id": "f000006",
-        "sentence": "お父さんにお願ひしました。",
-        "sentence_with_furigana": "お父さんにお願ひしました。",
+        "sentence": "お父さんにお願いしました。",
+        "sentence_with_furigana": "お父さんにお願いしました。",
         "audio_begin": 26800,
         "audio_end": 29800
     },
@@ -50,22 +50,22 @@
     },
     {
         "id": "f000008",
-        "sentence": "時計を買つて下さい。」",
-        "sentence_with_furigana": "時計を買つて下さい。」",
+        "sentence": "時計を買って下さい。」",
+        "sentence_with_furigana": "時計を買って下さい。」",
         "audio_begin": 30560,
         "audio_end": 33760
     },
     {
         "id": "f000009",
-        "sentence": "お父さんは言ひました。",
-        "sentence_with_furigana": "お父さんは言ひました。",
+        "sentence": "お父さんは言いました。",
+        "sentence_with_furigana": "お父さんは言いました。",
         "audio_begin": 33760,
         "audio_end": 36080
     },
     {
         "id": "f000010",
-        "sentence": "「もつと大きくなつたらにしよう。」",
-        "sentence_with_furigana": "「もつと大きくなつたらにしよう。」",
+        "sentence": "「もっと大きくなったらにしよう。」",
+        "sentence_with_furigana": "「もっと大きくなったらにしよう。」",
         "audio_begin": 36080,
         "audio_end": 40040
     },
@@ -92,22 +92,22 @@
     },
     {
         "id": "f000014",
-        "sentence": "僕に時計を買つて下さい。」",
-        "sentence_with_furigana": "僕[ぼく]に時計を買つて下さい。」",
+        "sentence": "僕に時計を買って下さい。」",
+        "sentence_with_furigana": "僕[ぼく]に時計を買って下さい。」",
         "audio_begin": 46520,
         "audio_end": 50400
     },
     {
         "id": "f000015",
-        "sentence": "おばあさんはあひるさんをよく見て言ひました。",
-        "sentence_with_furigana": "おばあさんはあひるさんをよく見て言ひました。",
+        "sentence": "おばあさんはあひるさんをよく見って言いました。",
+        "sentence_with_furigana": "おばあさんはあひるさんをよく見て言いました。",
         "audio_begin": 50400,
         "audio_end": 54560
     },
     {
         "id": "f000016",
-        "sentence": "「お前はまだ小さいから大きくなつたらにしませう。」",
-        "sentence_with_furigana": "「お前はまだ小さいから大きくなつたらにしませう。」",
+        "sentence": "「お前はまだ小さいから大きくなったらにしませう。」",
+        "sentence_with_furigana": "「お前はまだ小さいから大きくなったらにしませう。」",
         "audio_begin": 54560,
         "audio_end": 60720
     },
@@ -120,8 +120,8 @@
     },
     {
         "id": "f000018",
-        "sentence": "じだんだをふまうと思ひましたが、",
-        "sentence_with_furigana": "じだんだをふまうと思ひましたが、",
+        "sentence": "じだんだをふまうと思いましたが、",
+        "sentence_with_furigana": "じだんだをふまうと思いましたが、",
         "audio_begin": 63040,
         "audio_end": 66720
     },
@@ -134,8 +134,8 @@
     },
     {
         "id": "f000020",
-        "sentence": "大きな虫目鏡をおばあさんにわたして言ひました。",
-        "sentence_with_furigana": "大きな 虫目鏡[むしめがね]をおばあさんにわたして言ひました。",
+        "sentence": "大きな虫目鏡をおばあさんにわたして言いました。",
+        "sentence_with_furigana": "大きな 虫目鏡[むしめがね]をおばあさんにわたして言いました。",
         "audio_begin": 67720,
         "audio_end": 72720
     },
@@ -176,15 +176,15 @@
     },
     {
         "id": "f000026",
-        "sentence": "おばあさんは成程と思つて財布からお金を出してあひるさんにやりました。",
-        "sentence_with_furigana": "おばあさんは 成程[なるほど]と思つて財布からお金を出してあひるさんにやりました。",
+        "sentence": "おばあさんは成程と思って財布からお金を出してあひるさんにやりました。",
+        "sentence_with_furigana": "おばあさんは 成程[なるほど]と思って財布からお金を出してあひるさんにやりました。",
         "audio_begin": 91600,
         "audio_end": 99920
     },
     {
         "id": "f000027",
-        "sentence": "あひるさんはそれを持つて時計屋さんに行きました。",
-        "sentence_with_furigana": "あひるさんはそれを持つて時計屋さんに行きました。",
+        "sentence": "あひるさんはそれを持って時計屋さんに行きました。",
+        "sentence_with_furigana": "あひるさんはそれを持って時計屋さんに行きました。",
         "audio_begin": 99920,
         "audio_end": 102880
     },
@@ -204,22 +204,22 @@
     },
     {
         "id": "f000030",
-        "sentence": "人間が使ひ古した時計ばかり売つてゐて、",
-        "sentence_with_furigana": "人間が使ひ古した時計ばかり売つてゐて、",
+        "sentence": "人間が使い古した時計ばかり売っていて、",
+        "sentence_with_furigana": "人間が使い古した時計ばかり売っていて、",
         "audio_begin": 107880,
         "audio_end": 111200
     },
     {
         "id": "f000031",
-        "sentence": "新しい時計などは一つだつてないのです。",
-        "sentence_with_furigana": "新しい時計などは一つだつてないのです。",
+        "sentence": "新しい時計などは一つだってないのです。",
+        "sentence_with_furigana": "新しい時計などは一つだってないのです。",
         "audio_begin": 111200,
         "audio_end": 116076
     },
     {
         "id": "f000032",
-        "sentence": "何故つて、",
-        "sentence_with_furigana": "何故[なぜ]つて、",
+        "sentence": "何故って、",
+        "sentence_with_furigana": "何故[なぜ]って、",
         "audio_begin": 116076,
         "audio_end": 117810
     },
@@ -232,8 +232,8 @@
     },
     {
         "id": "f000034",
-        "sentence": "時計のあのややこしいぜんまいや機械がこさへられると思ひますか？",
-        "sentence_with_furigana": "時計のあのややこしいぜんまいや機械がこさへられると思ひますか？",
+        "sentence": "時計のあのややこしいぜんまいや機械がこさへられると思いますか？",
+        "sentence_with_furigana": "時計のあのややこしいぜんまいや機械がこさへられると思いますか？",
         "audio_begin": 119920,
         "audio_end": 126404
     },
@@ -246,8 +246,8 @@
     },
     {
         "id": "f000036",
-        "sentence": "よりによつてよく光つたのを買ひました。",
-        "sentence_with_furigana": "よりによつてよく光つたのを買ひました。",
+        "sentence": "よりによってよく光ったのを買いました。",
+        "sentence_with_furigana": "よりによってよく光ったのを買いました。",
         "audio_begin": 129720,
         "audio_end": 134000
     },
@@ -260,8 +260,8 @@
     },
     {
         "id": "f000038",
-        "sentence": "値段と言へば人間世界なら二円五十銭の品物で、",
-        "sentence_with_furigana": "値段と言へば人間世界なら二円五十銭の品物で、",
+        "sentence": "値段と言えば人間世界なら二円五十銭の品物で、",
+        "sentence_with_furigana": "値段と言えば人間世界なら二円五十銭の品物で、",
         "audio_begin": 135360,
         "audio_end": 140483
     },
@@ -288,8 +288,8 @@
     },
     {
         "id": "f000042",
-        "sentence": "ポケツトから時々取り出して眺めて喜んでゐました。",
-        "sentence_with_furigana": "ポケツトから時々取り出して眺めて喜んでゐました。",
+        "sentence": "ポケツトから時々取り出して眺めて喜んでいました。",
+        "sentence_with_furigana": "ポケツトから時々取り出して眺めて喜んでいました。",
         "audio_begin": 149880,
         "audio_end": 155220
     },
@@ -309,15 +309,15 @@
     },
     {
         "id": "f000045",
-        "sentence": "「お天気がよいから旅行に行きませう。",
-        "sentence_with_furigana": "「お天気がよいから旅行に行きませう。",
+        "sentence": "「お天気がよいから旅行に行きましょう。",
+        "sentence_with_furigana": "「お天気がよいから旅行に行きましょう。",
         "audio_begin": 162967,
         "audio_end": 166880
     },
     {
         "id": "f000046",
-        "sentence": "僕達は小さくても方々旅行して色々なことを勉強しなくつちやならない。",
-        "sentence_with_furigana": "僕達[ぼくたち]は小さくても方々旅行して色々なことを勉強しなくつちやならない。",
+        "sentence": "僕達は小さくても方々旅行して色々なことを勉強しなくちゃならない。",
+        "sentence_with_furigana": "僕達[ぼくたち]は小さくても方々旅行して色々なことを勉強しなくちゃならない。",
         "audio_begin": 166880,
         "audio_end": 173520
     },
@@ -330,8 +330,8 @@
     },
     {
         "id": "f000048",
-        "sentence": "きつと来給へね。",
-        "sentence_with_furigana": "きつと来 給[たま]へね。",
+        "sentence": "きっと来給えね。",
+        "sentence_with_furigana": "きっと来 給[たま]えね。",
         "audio_begin": 174280,
         "audio_end": 175920
     },
@@ -351,8 +351,8 @@
     },
     {
         "id": "f000051",
-        "sentence": "きつかり七時に鳥山駅を出発だ。」",
-        "sentence_with_furigana": "きつかり七時に 鳥山[とりやま]駅を出発だ。」",
+        "sentence": "きっかり七時に鳥山駅を出発だ。」",
+        "sentence_with_furigana": "きっかり七時に 鳥山[とりやま]駅を出発だ。」",
         "audio_begin": 181400,
         "audio_end": 187280
     },
@@ -379,14 +379,14 @@
     },
     {
         "id": "f000055",
-        "sentence": "三時頃から起きて時計とにらめつくらをしてゐました。",
-        "sentence_with_furigana": "三時頃から起きて時計とにらめつくらをしてゐました。",
+        "sentence": "三時頃から起きて時計とにらめっくらをしていました。",
+        "sentence_with_furigana": "三時頃から起きて時計とにらめっくらをしていました。",
         "audio_begin": 195480,
         "audio_end": 200999
     },
     {
         "id": "f000056",
-        "sentence": "七時前になりましたから飛ぶやうに駅へかけつけました。",
+        "sentence": "七時前になりましたから飛ぶように駅へかけつけました。",
         "sentence_with_furigana": "七時前になりましたから飛ぶやうに駅へかけつけました。",
         "audio_begin": 200999,
         "audio_end": 205485
@@ -414,22 +414,22 @@
     },
     {
         "id": "f000060",
-        "sentence": "汽車はとつくに出て行つて残つてゐるのは煙ばかり。",
-        "sentence_with_furigana": "汽車はとつくに出て行つて残つてゐるのは煙ばかり。",
+        "sentence": "汽車はとっくに出て行って残っているのは煙ばかり。",
+        "sentence_with_furigana": "汽車はとっくに出て行って残っているのは煙ばかり。",
         "audio_begin": 208623,
         "audio_end": 214280
     },
     {
         "id": "f000061",
-        "sentence": "あひるさんは自分の時計を出して駅のと較べて見ましたら三十分おくれてゐましたとさ。",
-        "sentence_with_furigana": "あひるさんは自分の時計を出して駅のと 較[くら]べて見ましたら三十分おくれてゐましたとさ。",
+        "sentence": "あひるさんは自分の時計を出して駅のと較べて見ましたら三十分おくれていましたとさ。",
+        "sentence_with_furigana": "あひるさんは自分の時計を出して駅のと 較[くら]べて見ましたら三十分おくれていましたとさ。",
         "audio_begin": 214280,
         "audio_end": 222280
     },
     {
         "id": "f000062",
-        "sentence": "「何といふ時計だ!!」とあひるさんは泣きましたが、",
-        "sentence_with_furigana": "「何といふ時計だ!!」とあひるさんは泣きましたが、",
+        "sentence": "「何という時計だ!!」とあひるさんは泣きましたが、",
+        "sentence_with_furigana": "「何という時計だ!!」とあひるさんは泣きましたが、",
         "audio_begin": 222280,
         "audio_end": 226920
     },
