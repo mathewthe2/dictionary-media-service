@@ -92,15 +92,15 @@
     },
     {
         "id": "f000014",
-        "sentence": "日本には「誠」という倫理はあつても、",
-        "sentence_with_furigana": "日本には「誠」という倫理はあつても、",
+        "sentence": "日本には「誠」という倫理はあっても、",
+        "sentence_with_furigana": "日本には「誠」という倫理はあっても、",
         "audio_begin": 61480,
         "audio_end": 65120
     },
     {
         "id": "f000015",
-        "sentence": "「純真」なんて概念は無かつた。",
-        "sentence_with_furigana": "「純真」なんて概念は無かつた。",
+        "sentence": "「純真」なんて概念は無かった。",
+        "sentence_with_furigana": "「純真」なんて概念は無かった。",
         "audio_begin": 65120,
         "audio_end": 69640
     },
@@ -176,8 +176,8 @@
     },
     {
         "id": "f000026",
-        "sentence": "子供から冷い母だと言はれているその母を見ると、",
-        "sentence_with_furigana": "子供から冷い母だと言はれているその母を見ると、",
+        "sentence": "子供から冷い母だと言われているその母を見ると、",
+        "sentence_with_furigana": "子供から冷い母だと言われているその母を見ると、",
         "audio_begin": 107871,
         "audio_end": 112200
     },
