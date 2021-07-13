@@ -48,7 +48,7 @@ class Decks:
                 self.sentence_map = self.map_sentence(sentence['word_base_list'], sentence['id'], self.sentence_map)
             if 'translation_word_base_list' in sentence:
                 self.sentence_translation_map = self.map_sentence(sentence['translation_word_base_list'], sentence['id'], self.sentence_translation_map)
-            
+    
     def update_deck_on_redis(self, path):
         sentences = []
         file = Path(path, 'data.json')

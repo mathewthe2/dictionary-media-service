@@ -22,36 +22,36 @@
     },
     {
         "id": "f000004",
-        "sentence": "ひよつとしたら、",
-        "sentence_with_furigana": "ひよつとしたら、",
+        "sentence": "ひょっとしたら、",
+        "sentence_with_furigana": "ひょっとしたら、",
         "audio_begin": 12680,
         "audio_end": 13680
     },
     {
         "id": "f000005",
-        "sentence": "アメリカ生活あたりにそのお手本があつたのかも知れない。",
-        "sentence_with_furigana": "アメリカ生活あたりにそのお手本があつたのかも知れない。",
+        "sentence": "アメリカ生活あたりにそのお手本があったのかも知れない。",
+        "sentence_with_furigana": "アメリカ生活あたりにそのお手本があったのかも知れない。",
         "audio_begin": 13680,
         "audio_end": 20400
     },
     {
         "id": "f000006",
-        "sentence": "たとへば、",
-        "sentence_with_furigana": "たとへば、",
+        "sentence": "たとえば、",
+        "sentence_with_furigana": "たとえば、",
         "audio_begin": 20400,
         "audio_end": 21400
     },
     {
         "id": "f000007",
-        "sentence": "何々学院の何々女史とでもいつたやうな者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言つて歎息して、",
-        "sentence_with_furigana": "何々学院の何々女史とでもいつたやうな者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言つて歎息して、",
+        "sentence": "何々学院の何々女史とでもいったやうな者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言って歎息して、",
+        "sentence_with_furigana": "何々学院の何々女史とでもいったやうな者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言って歎息して、",
         "audio_begin": 21400,
         "audio_end": 33560
     },
     {
         "id": "f000008",
-        "sentence": "それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴へる。",
-        "sentence_with_furigana": "それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴へる。",
+        "sentence": "それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴える。",
+        "sentence_with_furigana": "それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴える。",
         "audio_begin": 33560,
         "audio_end": 41194
     },
@@ -64,8 +64,8 @@
     },
     {
         "id": "f000010",
-        "sentence": "いいとしをして口髭なんかを生やしてゐながら「うむ、",
-        "sentence_with_furigana": "いいとしをして口髭なんかを生やしてゐながら「うむ、",
+        "sentence": "いいとしをして口髭なんかを生やしていながら「うむ、",
+        "sentence_with_furigana": "いいとしをして口髭なんかを生やしていながら「うむ、",
         "audio_begin": 42840,
         "audio_end": 47514
     },
@@ -78,8 +78,8 @@
     },
     {
         "id": "f000012",
-        "sentence": "親馬鹿といふものに酷似してゐる。",
-        "sentence_with_furigana": "親馬鹿といふものに酷似してゐる。",
+        "sentence": "親馬鹿というものに酷似している。",
+        "sentence_with_furigana": "親馬鹿というものに酷似している。",
         "audio_begin": 53520,
         "audio_end": 56880
     },
@@ -92,8 +92,8 @@
     },
     {
         "id": "f000014",
-        "sentence": "日本には「誠」といふ倫理はあつても、",
-        "sentence_with_furigana": "日本には「誠」といふ倫理はあつても、",
+        "sentence": "日本には「誠」という倫理はあつても、",
+        "sentence_with_furigana": "日本には「誠」という倫理はあつても、",
         "audio_begin": 61480,
         "audio_end": 65120
     },
@@ -106,8 +106,8 @@
     },
     {
         "id": "f000016",
-        "sentence": "人が「純真」と銘打つてゐるものの姿を見ると、",
-        "sentence_with_furigana": "人が「純真」と銘打つてゐるものの姿を見ると、",
+        "sentence": "人が「純真」と銘打っているものの姿を見ると、",
+        "sentence_with_furigana": "人が「純真」と銘打っているものの姿を見ると、",
         "audio_begin": 69640,
         "audio_end": 72800
     },
@@ -141,8 +141,8 @@
     },
     {
         "id": "f000021",
-        "sentence": "ことしの八月に生れた赤子の頭をコツンと殴つたりしてゐる。",
-        "sentence_with_furigana": "ことしの八月に生れた赤子の頭をコツンと殴つたりしてゐる。",
+        "sentence": "ことしの八月に生れた赤子の頭をコツンと殴ったりしている。",
+        "sentence_with_furigana": "ことしの八月に生れた赤子の頭をコツンと殴ったりしている。",
         "audio_begin": 84000,
         "audio_end": 90941
     },
@@ -162,8 +162,8 @@
     },
     {
         "id": "f000024",
-        "sentence": "悪鬼に似てゐる。",
-        "sentence_with_furigana": "悪鬼に似てゐる。",
+        "sentence": "悪鬼に似ている。",
+        "sentence_with_furigana": "悪鬼に似ている。",
         "audio_begin": 97640,
         "audio_end": 100942
     },
@@ -176,8 +176,8 @@
     },
     {
         "id": "f000026",
-        "sentence": "子供から冷い母だと言はれてゐるその母を見ると、",
-        "sentence_with_furigana": "子供から冷い母だと言はれてゐるその母を見ると、",
+        "sentence": "子供から冷い母だと言はれているその母を見ると、",
+        "sentence_with_furigana": "子供から冷い母だと言はれているその母を見ると、",
         "audio_begin": 107871,
         "audio_end": 112200
     },
@@ -197,8 +197,8 @@
     },
     {
         "id": "f000029",
-        "sentence": "それがその人のために悪い結果になつたといふ例は聞かない。",
-        "sentence_with_furigana": "それがその人のために悪い結果になつたといふ例は聞かない。",
+        "sentence": "それがその人のために悪い結果になったという例は聞かない。",
+        "sentence_with_furigana": "それがその人のために悪い結果になったという例は聞かない。",
         "audio_begin": 119640,
         "audio_end": 126480
     },
@@ -218,8 +218,8 @@
     },
     {
         "id": "f000032",
-        "sentence": "どうしたつて悲しい思ひをしなければならぬものだ。",
-        "sentence_with_furigana": "どうしたつて悲しい思ひをしなければならぬものだ。",
+        "sentence": "どうしたって悲しい思いをしなければならぬものだ。",
+        "sentence_with_furigana": "どうしたって悲しい思いをしなければならぬものだ。",
         "audio_begin": 128639,
         "audio_end": 133671
     }

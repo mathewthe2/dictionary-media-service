@@ -23,6 +23,11 @@ class DecksManager:
                 has_image=DECK_CATEGORIES[deck_category]["has_image"],
                 has_sound=DECK_CATEGORIES[deck_category]["has_sound"])
             self.decks[deck_category].load_decks()
+    
+    def update_deck_on_redis(self, deck):
+        from pathlib import Path
+        path = Path(DECK_CATEGORIES[self.category]["path"], deck)
+        return self.decks[self.category].update_deck_on_redis(path)
 
     def get_deck_by_name(self, deck_name):
         return [self.parse_sentence(sentence) for sentence in self.decks[self.category].get_deck_by_name(deck_name)]

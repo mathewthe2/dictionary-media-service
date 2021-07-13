@@ -628,18 +628,5 @@
         "sound": "f000021.mp3",
         "sound_begin": 74631,
         "sound_end": 78630
-    },
-    {
-        "id": "Sorano Bi-f000022",
-        "author_japanese": "宮本 百合子",
-        "deck_name": "Sorano Bi",
-        "deck_name_japanese": "空の美",
-        "sentence": "",
-        "sentence_with_furigana": "",
-        "word_base_list": [],
-        "word_list": [],
-        "sound": "f000022.mp3",
-        "sound_begin": 78630,
-        "sound_end": 80560
     }
 ]
