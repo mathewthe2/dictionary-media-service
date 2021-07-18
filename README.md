@@ -14,7 +14,12 @@ brew install enchant
 #### Ubuntu
 ```
 apt-get install enchant
+
 ```
+
+## Connect to Redis 
+
+Add **REDIS_URL=[Your Redis Connection URL]** to `config.py`
 
 ## Develop
 
@@ -24,8 +29,8 @@ source .env/bin/activate
 pip install -u pip setuptools wheel
 pip install -r requirements.txt
 python -m spacy download en
+python main.py
 ```
-
 ## Features
 
 - Parse JSON Anki decks exported from CrowdAnki
