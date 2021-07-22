@@ -4,16 +4,54 @@ from glob import glob
 from tokenizer.englishtokenizer import analyze_english
 from sudachipy import tokenizer
 from sudachipy import dictionary
-from config import EXAMPLE_PATH, LITERATURE_EXAMPLE_PATH
+from config import EXAMPLE_PATH, LITERATURE_EXAMPLE_PATH, GAMEGENGO_PATH
 
 tokenizer_obj = dictionary.Dictionary().create()
 mode = tokenizer.Tokenizer.SplitMode.A
 
-def get_deck_structure(filename):
-    file = Path(EXAMPLE_PATH, filename, 'deck-structure.json')
+def get_deck_structure(path, filename):
+    file = Path(path, filename, 'deck-structure.json')
     with open(file, encoding='utf-8') as f:
         data = json.load(f)
         return data
+    
+def remove_class_from_string(s):
+    if '>' in s:
+        return s.split('>')[1].split('<')[0]
+    else:
+        return s
+
+def parse_grammar_deck(filename):
+    deck_structure = get_deck_structure(GAMEGENGO_PATH, filename)
+    file = Path(GAMEGENGO_PATH, filename, 'deck.json')
+    examples = []
+    with open(file, encoding='utf-8') as f:
+        data = json.load(f)
+        notes = data['notes']
+        deck_name = data['name']
+        for note in notes:
+            # segmentation
+            text = note['fields'][deck_structure['text-column']]
+            translation = note['fields'][deck_structure['translation-column']]
+            print(note['fields'][deck_structure['grammar-column']])
+            grammar = remove_class_from_string(note['fields'][deck_structure['grammar-column']])
+            print('parsing note', note['fields'][deck_structure['id-column']])
+            example = {
+                'id': note['fields'][deck_structure['id-column']],
+                'deck_name': deck_name,
+                'sentence': text,
+                'grammar': grammar,
+                'grammar_meaning': note['fields'][deck_structure['grammar-meaning-column']],
+                'sentence_with_furigana': note['fields'][deck_structure['text-with-furigana-column']],
+                'translation': translation,
+                'timestamp': note['fields'][deck_structure['timestamp-column']],
+                'image': note['fields'][deck_structure['image-column']].split('src="')[1].split('">')[0],
+                'sound': note['fields'][deck_structure['sound-column']].split('sound:')[1].split(']')[0]
+            }
+            examples.append(example)
+
+    with open(Path(GAMEGENGO_PATH, filename, 'data.json'), 'w+', encoding='utf8') as outfile:
+        json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
 def parse_literature_deck(filename, skip_author=True):
     meta_data_file = Path(LITERATURE_EXAMPLE_PATH, filename, 'metadata.json')
@@ -52,7 +90,7 @@ def parse_literature_deck(filename, skip_author=True):
         json.dump(examples, outfile, indent=4, ensure_ascii=False)
 
 def parse_deck(filename):
-    deck_structure = get_deck_structure(filename)
+    deck_structure = get_deck_structure(EXAMPLE_PATH, filename)
     file = Path(EXAMPLE_PATH, filename, 'deck.json')
     examples = []
     with open(file, encoding='utf-8') as f:
@@ -107,4 +145,22 @@ def print_deck_statistics():
             print('{}: {}'.format(Path(deck_folder).name, len(data)))
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
-    
+
+def add_column_to_gamegengo(filename, column):
+    file = Path(GAMEGENGO_PATH, filename, 'data.json')
+    newdata = []
+    with open(file, encoding='utf-8') as f:
+        data = json.load(f)
+        file_to_write = Path(GAMEGENGO_PATH, filename, 'grammar.json')
+        with open(file_to_write, encoding='utf-8') as f2:
+            old_data = json.load(f2)
+            for index, item in enumerate(old_data):
+                d = item
+                d[column] = data[index][column]
+                newdata.append(d)
+
+    with open(Path(GAMEGENGO_PATH, filename, 'new.json'), 'w+', encoding='utf8') as outfile:
+        json.dump(newdata, outfile, indent=4, ensure_ascii=False)
+
+# parse_grammar_deck('Game Gengo Grammar N4')
+# add_column_to_gamegengo('Game Gengo Grammar N4', 'timestamp')

@@ -1,0 +1,3058 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "18901f1e-e704-11eb-ac46-acde48001122",
+    "deck_config_uuid": "38d699d0-cba0-11eb-9c00-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "38d699d0-cba0-11eb-9c00-acde48001122",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "GameGengo_Grammar_N5_AUDIO_001.mp3",
+        "GameGengo_Grammar_N5_AUDIO_002.mp3",
+        "GameGengo_Grammar_N5_AUDIO_003.mp3",
+        "GameGengo_Grammar_N5_AUDIO_004.mp3",
+        "GameGengo_Grammar_N5_AUDIO_005.mp3",
+        "GameGengo_Grammar_N5_AUDIO_006.mp3",
+        "GameGengo_Grammar_N5_AUDIO_007.mp3",
+        "GameGengo_Grammar_N5_AUDIO_008.mp3",
+        "GameGengo_Grammar_N5_AUDIO_009.mp3",
+        "GameGengo_Grammar_N5_AUDIO_010.mp3",
+        "GameGengo_Grammar_N5_AUDIO_011.mp3",
+        "GameGengo_Grammar_N5_AUDIO_012.mp3",
+        "GameGengo_Grammar_N5_AUDIO_013.mp3",
+        "GameGengo_Grammar_N5_AUDIO_014.mp3",
+        "GameGengo_Grammar_N5_AUDIO_015.mp3",
+        "GameGengo_Grammar_N5_AUDIO_016.mp3",
+        "GameGengo_Grammar_N5_AUDIO_017.mp3",
+        "GameGengo_Grammar_N5_AUDIO_018.mp3",
+        "GameGengo_Grammar_N5_AUDIO_019.mp3",
+        "GameGengo_Grammar_N5_AUDIO_020.mp3",
+        "GameGengo_Grammar_N5_AUDIO_021.mp3",
+        "GameGengo_Grammar_N5_AUDIO_022.mp3",
+        "GameGengo_Grammar_N5_AUDIO_023.mp3",
+        "GameGengo_Grammar_N5_AUDIO_024.mp3",
+        "GameGengo_Grammar_N5_AUDIO_025.mp3",
+        "GameGengo_Grammar_N5_AUDIO_026.mp3",
+        "GameGengo_Grammar_N5_AUDIO_027.mp3",
+        "GameGengo_Grammar_N5_AUDIO_028.mp3",
+        "GameGengo_Grammar_N5_AUDIO_029.mp3",
+        "GameGengo_Grammar_N5_AUDIO_030.mp3",
+        "GameGengo_Grammar_N5_AUDIO_031.mp3",
+        "GameGengo_Grammar_N5_AUDIO_032.mp3",
+        "GameGengo_Grammar_N5_AUDIO_033.mp3",
+        "GameGengo_Grammar_N5_AUDIO_034.mp3",
+        "GameGengo_Grammar_N5_AUDIO_035.mp3",
+        "GameGengo_Grammar_N5_AUDIO_036.mp3",
+        "GameGengo_Grammar_N5_AUDIO_037.mp3",
+        "GameGengo_Grammar_N5_AUDIO_038.mp3",
+        "GameGengo_Grammar_N5_AUDIO_039.mp3",
+        "GameGengo_Grammar_N5_AUDIO_040.mp3",
+        "GameGengo_Grammar_N5_AUDIO_041.mp3",
+        "GameGengo_Grammar_N5_AUDIO_042.mp3",
+        "GameGengo_Grammar_N5_AUDIO_043.mp3",
+        "GameGengo_Grammar_N5_AUDIO_044.mp3",
+        "GameGengo_Grammar_N5_AUDIO_045.mp3",
+        "GameGengo_Grammar_N5_AUDIO_046.mp3",
+        "GameGengo_Grammar_N5_AUDIO_047.mp3",
+        "GameGengo_Grammar_N5_AUDIO_048.mp3",
+        "GameGengo_Grammar_N5_AUDIO_049.mp3",
+        "GameGengo_Grammar_N5_AUDIO_050.mp3",
+        "GameGengo_Grammar_N5_AUDIO_051.mp3",
+        "GameGengo_Grammar_N5_AUDIO_052.mp3",
+        "GameGengo_Grammar_N5_AUDIO_053.mp3",
+        "GameGengo_Grammar_N5_AUDIO_054.mp3",
+        "GameGengo_Grammar_N5_AUDIO_055.mp3",
+        "GameGengo_Grammar_N5_AUDIO_056.mp3",
+        "GameGengo_Grammar_N5_AUDIO_057.mp3",
+        "GameGengo_Grammar_N5_AUDIO_058.mp3",
+        "GameGengo_Grammar_N5_AUDIO_059.mp3",
+        "GameGengo_Grammar_N5_AUDIO_060.mp3",
+        "GameGengo_Grammar_N5_AUDIO_061.mp3",
+        "GameGengo_Grammar_N5_AUDIO_062.mp3",
+        "GameGengo_Grammar_N5_AUDIO_063.mp3",
+        "GameGengo_Grammar_N5_AUDIO_064.mp3",
+        "GameGengo_Grammar_N5_AUDIO_065.mp3",
+        "GameGengo_Grammar_N5_AUDIO_066.mp3",
+        "GameGengo_Grammar_N5_AUDIO_067.mp3",
+        "GameGengo_Grammar_N5_AUDIO_068.mp3",
+        "GameGengo_Grammar_N5_AUDIO_069.mp3",
+        "GameGengo_Grammar_N5_AUDIO_070.mp3",
+        "GameGengo_Grammar_N5_AUDIO_071.mp3",
+        "GameGengo_Grammar_N5_AUDIO_072.mp3",
+        "GameGengo_Grammar_N5_AUDIO_073.mp3",
+        "GameGengo_Grammar_N5_AUDIO_074.mp3",
+        "GameGengo_Grammar_N5_AUDIO_075.mp3",
+        "GameGengo_Grammar_N5_AUDIO_076.mp3",
+        "GameGengo_Grammar_N5_AUDIO_077.mp3",
+        "GameGengo_Grammar_N5_AUDIO_078.mp3",
+        "GameGengo_Grammar_N5_AUDIO_079.mp3",
+        "GameGengo_Grammar_N5_AUDIO_080.mp3",
+        "GameGengo_Grammar_N5_AUDIO_081.mp3",
+        "GameGengo_Grammar_N5_AUDIO_082.mp3",
+        "GameGengo_Grammar_N5_AUDIO_083.mp3",
+        "GameGengo_Grammar_N5_AUDIO_084.mp3",
+        "GameGengo_Grammar_N5_AUDIO_085.mp3",
+        "GameGengo_Grammar_N5_AUDIO_086.mp3",
+        "GameGengo_Grammar_N5_AUDIO_087.mp3",
+        "GameGengo_Grammar_N5_AUDIO_088.mp3",
+        "GameGengo_Grammar_N5_AUDIO_089.mp3",
+        "GameGengo_Grammar_N5_AUDIO_090.mp3",
+        "GameGengo_Grammar_N5_AUDIO_091.mp3",
+        "GameGengo_Grammar_N5_AUDIO_092.mp3",
+        "GameGengo_Grammar_N5_AUDIO_093.mp3",
+        "GameGengo_Grammar_N5_AUDIO_094.mp3",
+        "GameGengo_Grammar_N5_AUDIO_095.mp3",
+        "GameGengo_Grammar_N5_AUDIO_096.mp3",
+        "GameGengo_Grammar_N5_AUDIO_097.mp3",
+        "GameGengo_Grammar_N5_AUDIO_098.mp3",
+        "GameGengo_Grammar_N5_AUDIO_099.mp3",
+        "GameGengo_Grammar_N5_AUDIO_100.mp3",
+        "GameGengo_Grammar_N5_AUDIO_101.mp3",
+        "GameGengo_Grammar_N5_AUDIO_102.mp3",
+        "GameGengo_Grammar_N5_AUDIO_103.mp3",
+        "GameGengo_Grammar_N5_AUDIO_104.mp3",
+        "GameGengo_Grammar_N5_JLPTSensei_001.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_002.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_003.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_004.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_005.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_006.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_007.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_008.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_009.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_010.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_011.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_012.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_013.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_014.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_015.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_016.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_017.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_018.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_019.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_020.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_021.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_022.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_023.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_024.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_025.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_026.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_027.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_028.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_029.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_030.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_031.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_032.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_033.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_034.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_035.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_036.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_037.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_038.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_039.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_040.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_041.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_042.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_043.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_044.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_045.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_046.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_047.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_048.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_049.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_050.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_051.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_052.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_053.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_054.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_055.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_056.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_057.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_058.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_059.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_060.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_061.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_062.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_063.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_064.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_065.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_066.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_067.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_068.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_069.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_070.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_071.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_072.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_073.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_074.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_075.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_076.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_077.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_078.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_079.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_080.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_081.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_082.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_083.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_084.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_085.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_086.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_087.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_088.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_089.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_090.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_091.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_092.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_093.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_094.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_095.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_096.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_097.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_098.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_099.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_100.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_101.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_102.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_103.jpg",
+        "GameGengo_Grammar_N5_JLPTSensei_104.jpg",
+        "GamgeGengo_Grammar_N5_IMG_001.jpg",
+        "GamgeGengo_Grammar_N5_IMG_002.jpg",
+        "GamgeGengo_Grammar_N5_IMG_003.jpg",
+        "GamgeGengo_Grammar_N5_IMG_004.jpg",
+        "GamgeGengo_Grammar_N5_IMG_005.jpg",
+        "GamgeGengo_Grammar_N5_IMG_006.jpg",
+        "GamgeGengo_Grammar_N5_IMG_007.jpg",
+        "GamgeGengo_Grammar_N5_IMG_008.jpg",
+        "GamgeGengo_Grammar_N5_IMG_009.jpg",
+        "GamgeGengo_Grammar_N5_IMG_010.jpg",
+        "GamgeGengo_Grammar_N5_IMG_011.jpg",
+        "GamgeGengo_Grammar_N5_IMG_012.jpg",
+        "GamgeGengo_Grammar_N5_IMG_013.jpg",
+        "GamgeGengo_Grammar_N5_IMG_014.jpg",
+        "GamgeGengo_Grammar_N5_IMG_015.jpg",
+        "GamgeGengo_Grammar_N5_IMG_016.jpg",
+        "GamgeGengo_Grammar_N5_IMG_017.jpg",
+        "GamgeGengo_Grammar_N5_IMG_018.jpg",
+        "GamgeGengo_Grammar_N5_IMG_019.jpg",
+        "GamgeGengo_Grammar_N5_IMG_020.jpg",
+        "GamgeGengo_Grammar_N5_IMG_021.jpg",
+        "GamgeGengo_Grammar_N5_IMG_022.jpg",
+        "GamgeGengo_Grammar_N5_IMG_023.jpg",
+        "GamgeGengo_Grammar_N5_IMG_024.jpg",
+        "GamgeGengo_Grammar_N5_IMG_025.jpg",
+        "GamgeGengo_Grammar_N5_IMG_026.jpg",
+        "GamgeGengo_Grammar_N5_IMG_027.jpg",
+        "GamgeGengo_Grammar_N5_IMG_028.jpg",
+        "GamgeGengo_Grammar_N5_IMG_029.jpg",
+        "GamgeGengo_Grammar_N5_IMG_030.jpg",
+        "GamgeGengo_Grammar_N5_IMG_031.jpg",
+        "GamgeGengo_Grammar_N5_IMG_032.jpg",
+        "GamgeGengo_Grammar_N5_IMG_033.jpg",
+        "GamgeGengo_Grammar_N5_IMG_034.jpg",
+        "GamgeGengo_Grammar_N5_IMG_035.jpg",
+        "GamgeGengo_Grammar_N5_IMG_036.jpg",
+        "GamgeGengo_Grammar_N5_IMG_037.jpg",
+        "GamgeGengo_Grammar_N5_IMG_038.jpg",
+        "GamgeGengo_Grammar_N5_IMG_039.jpg",
+        "GamgeGengo_Grammar_N5_IMG_040.jpg",
+        "GamgeGengo_Grammar_N5_IMG_041.jpg",
+        "GamgeGengo_Grammar_N5_IMG_042.jpg",
+        "GamgeGengo_Grammar_N5_IMG_043.jpg",
+        "GamgeGengo_Grammar_N5_IMG_044.jpg",
+        "GamgeGengo_Grammar_N5_IMG_045.jpg",
+        "GamgeGengo_Grammar_N5_IMG_046.jpg",
+        "GamgeGengo_Grammar_N5_IMG_047.jpg",
+        "GamgeGengo_Grammar_N5_IMG_048.jpg",
+        "GamgeGengo_Grammar_N5_IMG_049.jpg",
+        "GamgeGengo_Grammar_N5_IMG_050.jpg",
+        "GamgeGengo_Grammar_N5_IMG_051.jpg",
+        "GamgeGengo_Grammar_N5_IMG_052.jpg",
+        "GamgeGengo_Grammar_N5_IMG_053.jpg",
+        "GamgeGengo_Grammar_N5_IMG_054.jpg",
+        "GamgeGengo_Grammar_N5_IMG_055.jpg",
+        "GamgeGengo_Grammar_N5_IMG_056.jpg",
+        "GamgeGengo_Grammar_N5_IMG_057.jpg",
+        "GamgeGengo_Grammar_N5_IMG_058.jpg",
+        "GamgeGengo_Grammar_N5_IMG_059.jpg",
+        "GamgeGengo_Grammar_N5_IMG_060.jpg",
+        "GamgeGengo_Grammar_N5_IMG_061.jpg",
+        "GamgeGengo_Grammar_N5_IMG_062.jpg",
+        "GamgeGengo_Grammar_N5_IMG_063.jpg",
+        "GamgeGengo_Grammar_N5_IMG_064.jpg",
+        "GamgeGengo_Grammar_N5_IMG_065.jpg",
+        "GamgeGengo_Grammar_N5_IMG_066.jpg",
+        "GamgeGengo_Grammar_N5_IMG_067.jpg",
+        "GamgeGengo_Grammar_N5_IMG_068.jpg",
+        "GamgeGengo_Grammar_N5_IMG_069.jpg",
+        "GamgeGengo_Grammar_N5_IMG_070.jpg",
+        "GamgeGengo_Grammar_N5_IMG_071.jpg",
+        "GamgeGengo_Grammar_N5_IMG_072.jpg",
+        "GamgeGengo_Grammar_N5_IMG_073.jpg",
+        "GamgeGengo_Grammar_N5_IMG_074.jpg",
+        "GamgeGengo_Grammar_N5_IMG_075.jpg",
+        "GamgeGengo_Grammar_N5_IMG_076.jpg",
+        "GamgeGengo_Grammar_N5_IMG_077.jpg",
+        "GamgeGengo_Grammar_N5_IMG_078.jpg",
+        "GamgeGengo_Grammar_N5_IMG_079.jpg",
+        "GamgeGengo_Grammar_N5_IMG_080.jpg",
+        "GamgeGengo_Grammar_N5_IMG_081.jpg",
+        "GamgeGengo_Grammar_N5_IMG_082.jpg",
+        "GamgeGengo_Grammar_N5_IMG_083.jpg",
+        "GamgeGengo_Grammar_N5_IMG_084.jpg",
+        "GamgeGengo_Grammar_N5_IMG_085.jpg",
+        "GamgeGengo_Grammar_N5_IMG_086.jpg",
+        "GamgeGengo_Grammar_N5_IMG_087.jpg",
+        "GamgeGengo_Grammar_N5_IMG_088.jpg",
+        "GamgeGengo_Grammar_N5_IMG_089.jpg",
+        "GamgeGengo_Grammar_N5_IMG_090.jpg",
+        "GamgeGengo_Grammar_N5_IMG_091.jpg",
+        "GamgeGengo_Grammar_N5_IMG_092.jpg",
+        "GamgeGengo_Grammar_N5_IMG_093.jpg",
+        "GamgeGengo_Grammar_N5_IMG_094.jpg",
+        "GamgeGengo_Grammar_N5_IMG_095.jpg",
+        "GamgeGengo_Grammar_N5_IMG_096.jpg",
+        "GamgeGengo_Grammar_N5_IMG_097.jpg",
+        "GamgeGengo_Grammar_N5_IMG_098.jpg",
+        "GamgeGengo_Grammar_N5_IMG_099.jpg",
+        "GamgeGengo_Grammar_N5_IMG_100.jpg",
+        "GamgeGengo_Grammar_N5_IMG_101.jpg",
+        "GamgeGengo_Grammar_N5_IMG_102.jpg",
+        "GamgeGengo_Grammar_N5_IMG_103.jpg",
+        "GamgeGengo_Grammar_N5_IMG_104.jpg"
+    ],
+    "name": "Game Gengo::Game Gengo Grammar::N5",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "css": "/* –– MORPHMAN COLOR CODING - Go to Google and search 'colour picker', then use hex code to change these ;)  */\n[mtype=unknown] { color: #f21313; }\n[mtype=seen] { color: orange; }\n[mtype=known] { color: #f21313; }\n\n#front rt {visibility: hidden;}\n#front ruby:hover rt { visibility: visible;}\n\n/* #main IS THE MAIN DISPLAY BOX\nPLATFORMS: WEBKIT, WINDOWS, MAC \n  */ \n\n#main{\n\tbackground-color:#363c4a;\n\twidth: 100%;\n\tmax-width: 600px;\n\tpadding:-0px;\n\tborder-radius: 15px;\n\tbox-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);\n\t-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);\n\t-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);\n\toverflow:scroll;\n\tdisplay: -webkit-box;\n\t-webkit-box-align: stretch;\n\t-webkit-box-pack: center;\n\t-webkit-box-orient: vertical;\n}\n\n\n#main::-webkit-scrollbar {\n    display: none; \n}\n\n\n.card {\n    font-family:\"ヒラギノ角ゴ Pro W3\", \"Hiragino Kaku Gothic Pro\",Osaka, \"メイリオ\", Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif;\n    font-size: 32px;\n    text-align: center;\n    color: white;\n    background-color: #161921 !important;\n    max-height:100%;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n \n#image {\n \t text-align: center;\n\toverflow-y: scroll;\n\tmax-height:250px;\n\tmargin-bottom:-15px;\n\tmargin-top: -5px;\n\tvertical-align: baseline;\n}\n \n#image::-webkit-scrollbar {\n    display: none;\n}\n\n#image img {\n\tmax-width:1000px;\n\twidth:100%;\n\tborder-radius: 10px 10px 0 0;\n\toverflow: hidden;\n}\n\n.mobile #image {\n \ttext-align: center;\n\toverflow-y: scroll;\n\tmax-height:155px;\n\tmargin-bottom:0px;\n}\n\n#audio {\n\tmargin:3%;\n\tmargin-top: 0%;\n}\n\n.card.nightMode {\nbackground-color: #161921 !important;\n}\n\n.collapsible {\n\tbackground-color: \n\t#4b556b;\n\tcolor: white;\n\tcursor: pointer;\n\tpadding: 0px;\n\tmin-height:30px;\n\twidth: 100%;\n\tborder: none;\n\ttext-align: center;\n\toutline: none;\n\tfont-size: 15px;\t\n\ttext-shadow: 2px 2px 2px #000000;\n\tborder-radius: 3px;\n}\n\n.active, .collapsible:hover {\n\tbackground-color: #4b556b;\n\tbox-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);\n\t-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);\n\t-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);\n\n}\n\n.content {\n\tpadding: 0 18px;\n\tborder-radius: 0px 0px 15px 15px;\n\tbackground-color: white;\n\tmax-height: 0;\n\toverflow: hidden;\n\ttransition: max-height 0.5s ease-out;\n\tbox-shadow: 0px 0px 10px 1px rgba(0,0,0,0.3);\n}\n\n.mobile .content {\n\tpadding: 0 18px;\n\tborder-radius: 0px 0px 15px 15px;\n\tbackground-color: white;\n\tmax-height: 0;\n\toverflow: hidden;\n\ttransition: max-height 0.5s ease-out;\n\tbox-shadow: 0px 0px 10px 1px rgba(0,0,0,0.3);\n\tmargin-bottom: 5%;\n}\n\n.container {\n\tposition: relative;\n\ttext-align: center;\n\tcolor: white;\n}\n\n.top-right {background-color: rgba(0, 0, 0, 1);\n\n\n\tfont-size:10px;\n\ttext-shadow: 2px 2px 2px #000000;\n\topacity: 0.8;\n\t\n}\n\n.content img {\n\tborder-radius: 5px;\n\tmargin-bottom: 3%;\n\tbox-shadow: 0px 0px 10px 1px rgba(0,0,0,0.3);\n}\n\n#Title {\n\tmargin:3%;\n\tfont-size:32px; \n\ttext-shadow: 2px 2px 4px #000000;\n}\n\n.mobile #Title {\n\tmargin:3%;\n\tfont-size:32px; \n\ttext-shadow: 2px 2px 4px #000000;\n}\n\na:link {\n\tcolor: white;\n\topacity:0.5;\n\ttext-decoration: none;\n}\n\nA:hover {\n\tcolor: white;\n\topacity: 1;\n\ttext-decoration: none;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Card Order",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Video Game",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sentence Field",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sentence Field Furigana",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sentence Translation",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Grammar",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Grammar Meaning",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Audio Field",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "GameGengoLink",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "GrammarLink",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Notes",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "GrammarImage",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image Field",
+                    "ord": 12,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Target",
+                    "ord": 13,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "GameGengoGrammar - Japanese",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1,
+                        3,
+                        12
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        7,
+                        12
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div id= \"main\">\n \t<div id=\"image\"> {{Image Field}}</div>\n\t<div class=\"top-right\"> <a title=\"View More Game Gengo Content\" href=\"https://linktr.ee/gamegengo\">Game Gengo ゲーム言語</a> | {{Video Game}} </div>\n\n\n\t <div id=\"Title\">  {{Grammar}}\n\t\t <div style= \"font-size:22px;\"> {{Grammar Meaning}} </div>\n\t</div>\n\t <div id=\"audio\">{{Audio Field}}\n\n\t\t<div style= \"margin-top:3%;font-size:20px;padding-bottom:3%;\"> {{furigana:Sentence Field Furigana}}  </div>\n\t\t<div style= \"margin-top:1.5%;font-size:16px;\"> {{Sentence Translation}}</div>\n \n\n\t <div style= \"margin-top:10px;margin-bottom:0px;font-size:16px;color:#e8e8e8;\">\n\t\t<button type=\"button\" class=\"collapsible\">\n\t\t<div style= \"text-align: center;margin-right:1.5%;font-size:14px\"> Grammar</button> \n\n\n\t\t\t\t<div class=\"content\"> \n\t\t\t\t<div style = \"  display: block;margin:3%; max-width:95%;box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.3);\n  \t\t\t\tmargin-left: auto;background-color:#4e4e4e; border-radius: 3px;font-size:12px;\n  \t\t\t\tmargin-right: auto; \"><a title=\"Game Gengo ゲーム言語 YouTube\" href=\"{{GameGengoLink}}\">Watch on Game Gengo ゲーム言語</a></div>\n\n\t\t<div id=\"roundCorn\"> {{GrammarImage}} </div>\n\t</div>\n</div>\n</div>\n\n<script>\n\nvar coll = document.getElementsByClassName(\"collapsible\");\nvar i;\n\nfor (i = 0; i < coll.length; i++) {\n  coll[i].addEventListener(\"click\", function() {\n    this.classList.toggle(\"active\");\n    var content = this.nextElementSibling;\n    if (content.style.maxHeight){\n      content.style.maxHeight = null;\n    } else {\n      content.style.maxHeight = content.scrollHeight + \"px\";\n        var myDiv = document.getElementById(\"main\");\n        var interval = setInterval(\n            function(){ myDiv.scrollTop = myDiv.scrollHeight; },\n            0\n        );\n        setTimeout(\n            function(){ clearInterval(interval); },\n            800\n        );\n    }\n  });\n}\n</script>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Reading",
+                    "ord": 0,
+                    "qfmt": "<div id= \"main\">\n \t<div id=\"image\"> {{Image Field}}</div>\n\t<div class=\"top-right\"> <a title=\"View More Game Gengo Content\" href=\"https://linktr.ee/gamegengo\">Game Gengo ゲーム言語</a> | {{Video Game}} </div>\n\n\t<div id=\"front\">\n\t\t<div style= \"margin:3%;font-size:20px;padding-bottom:2.5%;\"> {{furigana:Sentence Field Furigana}} </div>\n\t</div></div>\n</div>\n</div>"
+                },
+                {
+                    "afmt": "<div id= \"main\">\n \t<div id=\"image\"> {{Image Field}}</div>\n\t<div class=\"top-right\"> <a title=\"View More Game Gengo Content\" href=\"https://linktr.ee/gamegengo\">Game Gengo ゲーム言語</a> | {{Video Game}} </div>\n\n\n\t <div id=\"Title\">  {{Grammar}}\n\t\t <div style= \"font-size:22px;\"> {{Grammar Meaning}} </div>\n\t</div>\n\t <div id=\"audio\">{{Audio Field}}\n\n\t\t<div style= \"margin-top:3%;font-size:20px;padding-bottom:3%;\"> {{furigana:Sentence Field Furigana}}  </div>\n\t\t<div style= \"margin-top:1.5%;font-size:16px;\"> {{Sentence Translation}}</div>\n \n\n\t <div style= \"margin-top:10px;margin-bottom:0px;font-size:16px;color:#e8e8e8;\">\n\t\t<button type=\"button\" class=\"collapsible\">\n\t\t<div style= \"text-align: center;margin-right:1.5%;font-size:14px\"> Grammar</button> \n\n\n\t\t\t\t<div class=\"content\"> \n\t\t\t\t<div style = \"  display: block;margin:3%; max-width:95%;box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.3);\n  \t\t\t\tmargin-left: auto;background-color:#4e4e4e; border-radius: 3px;font-size:12px;\n  \t\t\t\tmargin-right: auto; \"><a title=\"Game Gengo ゲーム言語 YouTube\" href=\"{{GameGengoLink}}\">Watch on Game Gengo ゲーム言語</a></div>\n\n\t\t<div id=\"roundCorn\"> {{GrammarImage}} </div>\n\t</div>\n</div>\n</div>\n\n<script>\n\nvar coll = document.getElementsByClassName(\"collapsible\");\nvar i;\n\nfor (i = 0; i < coll.length; i++) {\n  coll[i].addEventListener(\"click\", function() {\n    this.classList.toggle(\"active\");\n    var content = this.nextElementSibling;\n    if (content.style.maxHeight){\n      content.style.maxHeight = null;\n    } else {\n      content.style.maxHeight = content.scrollHeight + \"px\";\n        var myDiv = document.getElementById(\"main\");\n        var interval = setInterval(\n            function(){ myDiv.scrollTop = myDiv.scrollHeight; },\n            0\n        );\n        setTimeout(\n            function(){ clearInterval(interval); },\n            800\n        );\n    }\n  });\n}\n</script>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Listening",
+                    "ord": 1,
+                    "qfmt": "<div id= \"main\">\n \t<div id=\"image\"> {{Image Field}}</div>\n\t<div class=\"top-right\"> <a title=\"View More Game Gengo Content\" href=\"https://linktr.ee/gamegengo\">Game Gengo ゲーム言語</a> | {{Video Game}} </div>\n\n\t<div id=\"front\">\n\t\t<div style= \"margin-top:3%;font-size:20px;padding-bottom:2.5%;\"> {{Audio Field}}</div>\n\t</div>\n</div>\n</div>"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_001",
+                "Xenogears",
+                "ほんとはもう今日から、男の人はなかへ<font color=\"#918cc2\">入れちゃいけない</font>きまりになってるんだけど...",
+                "ほんとはもう 今日[きょう]から 、 男の人[おとこのひと]はなかへ<font color=\"#918cc2\">入[い]れちゃいけない</font>きまりになってるんだけど...",
+                "It's become a rule that men <font color=\"#918cc2\">must not</font> come inside.",
+                "<font color=\"#918cc2\">ちゃいけない​</font>",
+                "must not do (spoken Japanese)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_001.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=68",
+                "<a href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/\" title=\"View Grammar Online\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_001.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_001.jpg\">",
+                ""
+            ],
+            "guid": "or?;qcegV",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_002",
+                "Final Fantasy VII",
+                "「……そうだねえ。でも、必ず迎えにくるんだよ。<font color=\"#f4af6e\">死んじゃいけない</font>よ」",
+                "「…… そうだねえ 。でも、 必[かなら]ず 迎[むか]えにくるんだよ。<font color=\"#f4af6e\">死[し]んじゃいけない</font>よ 」",
+                "Yes, I know. But definitely come back for her. You <font color=\"#f4af6e\">must not</font> die.",
+                "<font color=\"#f4af6e\">じゃいけない​</font>",
+                "must not do (spoken Japanese)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_002.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=150",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_002.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_002.jpg\">",
+                ""
+            ],
+            "guid": "D1POF!1@(0",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_003",
+                "Xenoblade Chronicles: Definitive Edition",
+                "こんなところで<font color=\"#e5f29a\">死んじゃダメ</font>なんです。",
+                "こんなところで<font color=\"#e5f29a\">死[し]んじゃダメ</font>なんです。",
+                "You <font color=\"#e5f29a\">must not</font> die in a place like this!",
+                "<font color=\"#e5f29a\">じゃだめ</font>",
+                "must not do (spoken Japanese)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_003.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=212",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_003.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_003.jpg\">",
+                ""
+            ],
+            "guid": "HD%lE#YhhG",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_004",
+                "Final Fantasy X",
+                "そう ザナルカンド。およそ １０００年前の姿<font color=\"#6599ff\">です</font>。",
+                "そう、ザナルカンド。およそ１０００ 年[ねん] 前[まえ]の 姿[すがた]<font color=\"#6599ff\">です</font>。",
+                "Yes, Zanarkand. This<font color=\"#6599ff\"> is</font> its appearance roughly a thousand years ago.",
+                "<font color=\"#6599ff\">です</font>",
+                "to be​ (am, is, are, were, used to)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_004.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=275",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_004.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_004.jpg\">",
+                ""
+            ],
+            "guid": "fF8R{EOX]c",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_005",
+                "Tekken 7",
+                "ここが貴様の墓場<font color=\"#fd8877\">だ</font>!終わり<font color=\"#fd8877\">だ</font>。&nbsp;死ね!",
+                "ここが 貴様[きさま]の 墓場[はかば]<font color=\"#fd8877\">だ</font>!&nbsp; 終[お]わり<font color=\"#fd8877\">だ</font>。&nbsp;死[し]ね!",
+                "Here<font color=\"#fd8877\"> is</font> your grave! This <font color=\"#fd8877\">is</font> the end. Die!",
+                "<font color=\"#fd8877\">だ</font>",
+                "to be (am, is, are, were, used to)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_005.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=362",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_005.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_005.jpg\">",
+                ""
+            ],
+            "guid": "l5gkzy]+{=",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_006",
+                "Persona 4",
+                "心配...したん<font color=\"#f9c45a\">だから</font>、すっげー、心配したん<font color=\"#f9c45a\">だから</font>ね！",
+                "心配[しんぱい]... したん<font color=\"#f9c45a\">だから</font>、すっげ ー、 心配[しんぱい]したん<font color=\"#f9c45a\">だから</font>ね！",
+                "<font color=\"#f9c45a\">That's why </font>I was... worried, <font color=\"#f9c45a\">That's why</font> I was so incredibly worried!",
+                "<font color=\"#f9c45a\">だから</font>",
+                "because",
+                "[sound:GameGengo_Grammar_N5_AUDIO_006.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=426",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89-kara-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_006.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_006.jpg\">",
+                ""
+            ],
+            "guid": "KF:Ira!JDY",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_007",
+                "Final Fantasy X-2",
+                "もう一度奪い取る<font color=\"#c262ac\">だけ</font>さ！",
+                "もう 一度[いちど]&nbsp;&nbsp;奪い取[うばいと]る<font color=\"#c262ac\">だけ</font>さ！",
+                "I <font color=\"#c262ac\">only/just</font> need to steal it back once more!",
+                "<font color=\"#c262ac\">だけ</font>",
+                "only; just; as much as~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_007.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=478",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91-dake-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_007.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_007.jpg\">",
+                ""
+            ],
+            "guid": "IkI,`K}ba(",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_008",
+                "Suikoden II",
+                "ウチの兵どもでは、物足りない<font color=\"#1c9380\">でしょう</font>。",
+                "ウチの 兵[へい]どもでは 、 物足[ものた]りない<font color=\"#1c9380\">でしょう</font>。",
+                "<font color=\"#1c9380\">I'm sure</font> my troops would not be enough.",
+                "<font color=\"#1c9380\">でしょう</font>",
+                "I think; it seems; probably; right?",
+                "[sound:GameGengo_Grammar_N5_AUDIO_008.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=538",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_008.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_008.jpg\">",
+                ""
+            ],
+            "guid": "qq`APqCB);",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_009",
+                "Sakura Wars",
+                "クラリス、いるん<font color=\"#776694\">だろう</font>？ここを開けてくれないか？",
+                "クラリス 、いるん<font color=\"#776694\">だろう</font>? ここを 開[あ]けてくれないか？",
+                "Clarice, you're in there <font color=\"#776694\">right</font>? Could you open (the door) for me?",
+                "<font color=\"#776694\">だろう</font>",
+                "I think; it seems; probably; right?",
+                "[sound:GameGengo_Grammar_N5_AUDIO_009.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=598",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%8d%e3%81%86-darou-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_009.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_009.jpg\">",
+                ""
+            ],
+            "guid": "P5t,&Qq)p3",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_010",
+                "The Legend of Zelda: Breath of the Wild",
+                "あれは 今もハイラル城<font color=\"#6faa9d\">で</font>ガノンを迎え続けているゼルダの声だ。",
+                "あれは 今[いま]もハイラル 城[じょう]<font color=\"#6faa9d\">で</font>ガノンを 抑[おさ]え 続[つづ]けているゼルダの 声[こえ]だ。",
+                "That is the voice of Zelda, who's still holding down Ganon <font color=\"#6faa9d\">at</font> Hyrule Castle.",
+                "<font color=\"#6faa9d\">で (de)</font>",
+                "1: at, in",
+                "[sound:GameGengo_Grammar_N5_AUDIO_010.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=650",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%A7-de-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_010.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_010.jpg\">",
+                ""
+            ],
+            "guid": "qS#H~/6=o1",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_011",
+                "Donkey Kong Country<br>",
+                "アイ、アイ、アイ、ア～イヤ～！、ミ～の名前は「ファンキーコング」ね！ミーのスペシャルタルつきジャンボジェット<font color=\"#b959b8\">で</font>島のどこでもご案内よ！",
+                "アイ、アイ、アイ、ア～イヤ～！、ミ～の&nbsp;名前[なまえ]は「ファンキーコング」ね！ミーのスペシャルタルつきジャンボ ジェット<font color=\"#b959b8\">で</font> 島[しま]のどこでもご&nbsp;案内[ごあんない]よ！",
+                "Aye, aye, aye, a-ya! Me name's Funky Kong!<font color=\"#b959b8\">&nbsp;With</font>&nbsp;me special barrel equipped jumbo jet I will show you around anywhere on the island!",
+                "<font color=\"#b959b8\">で (de)</font>",
+                "2: with, by",
+                "[sound:GameGengo_Grammar_N5_AUDIO_011.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=702",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%A7-de-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_011.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_011.jpg\">",
+                ""
+            ],
+            "guid": "i{_3o4r9Pv",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_012",
+                "Judge Eyes",
+                "<font color=\"#ddb628\">でも</font>最近、 神室町で最大の話題はこれ、連続殺人だ。",
+                "<font color=\"#ddb628\">でも</font>最近[さいきん]、 神室町[かむろちょう]で 最大[さいだい]の 話題[わだい]はこれ、 連続殺人[れんぞくさつじん]だ。",
+                "<font color=\"#ddb628\">But</font> lately, the biggest story in Kamurocho these days is this... Serial murders.",
+                "<font color=\"#ddb628\">でも</font>",
+                "but; however; though~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_012.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=736",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82-demo-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_012.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_012.jpg\">",
+                ""
+            ],
+            "guid": "eBk]ViYA~7",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_013",
+                "Kingdom Hearts",
+                "君は<font color=\"#ca392c\">どんな</font>力を望む？",
+                "君[きみ]は<font color=\"#ca392c\">どんな</font>力[ちから]を 望[のぞ]む？",
+                "<font color=\"#ca392c\">What kind of</font> power do you seek?",
+                "<font color=\"#ca392c\">どんな</font>",
+                "what kind of; what sort of",
+                "[sound:GameGengo_Grammar_N5_AUDIO_013.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=787",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_013.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_013.jpg\">",
+                ""
+            ],
+            "guid": "dw4|WD.3b6",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_014",
+                "Metal Gear Solid 3",
+                "<font color=\"#c5af68\">どうして</font>戻ってきた？",
+                "<font color=\"#c5af68\"> どうして</font>戻[もど]ってきた？",
+                "Why<font color=\"#c5af68\"> have you come back?</font>",
+                "<font color=\"#c5af68\">どうして</font>",
+                "why; for what reason; how",
+                "[sound:GameGengo_Grammar_N5_AUDIO_014.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=827",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_014.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_014.jpg\">",
+                ""
+            ],
+            "guid": "IPbN}x@6.F",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_015",
+                "Final Fantasy VII Remake",
+                "待てよ、<font color=\"#cf4d48\">どうやって</font>スラムに戻る 始発にまぎれこむか？",
+                "待[ま]てよ、<font color=\"#cf4d48\">どうやって</font>スラムに 戻[もど]る,&nbsp; 始発[しはつ]にまぎれこむか？",
+                "Wait a minute, <font color=\"#cf4d48\">how </font>do we get back to the slums? Do we slip into the first train back?",
+                "<font color=\"#cf4d48\">どうやって</font>",
+                "how; in what way; by what means​",
+                "[sound:GameGengo_Grammar_N5_AUDIO_015.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=864",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_015.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_015.jpg\">",
+                ""
+            ],
+            "guid": "VVrX=k/l)",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_016",
+                "Hajime No Ippo",
+                "ボクはどのくらい成長できたんだろう？ゴング<font color=\"#de1b32\">が</font>鳴れば、全て<font color=\"#de1b32\">が</font>わかるんだ！",
+                "ボクはどのくらい 成長[せいちょう]できたんだろう？ゴング<font color=\"#de1b32\">が</font>鳴[な]れば、 全[すべ]て<font color=\"#de1b32\">が</font>わかるんだ！",
+                "How much have I been able to grow I wonder? When the bell rings, I will understand everything!",
+                "<font color=\"#de1b32\">が (ga)</font>",
+                "1: subject marker",
+                "[sound:GameGengo_Grammar_N5_AUDIO_016.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=901",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%8C-ga-subject-marker-particle/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_016.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_016.jpg\">",
+                ""
+            ],
+            "guid": "Pz#%mjc$=3",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_017",
+                "Fire Emblem: Three Houses",
+                "ジェラルドさん！すまん<font color=\"#9576b5\">が</font>、来てもらっていいか？",
+                "ジェラルドさん！すまん<font color=\"#9576b5\">が</font>、 来[き]てもらっていいか？",
+                "Gerald-san! I'm sorry <font color=\"#9576b5\">but</font>, can I have you come with me?",
+                "<font color=\"#9576b5\">が</font>",
+                "but, however",
+                "[sound:GameGengo_Grammar_N5_AUDIO_017.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=984",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%8C-ga-subject-marker-particle/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_017.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_017.jpg\">",
+                ""
+            ],
+            "guid": "+1n>R:-n|",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_018",
+                "Final Fantasy VII",
+                "な～に？話<font color=\"#30a5a1\">がある</font>って",
+                "な～に？ 話[はなし]<font color=\"#30a5a1\">がある</font>って",
+                "What's up? <font color=\"#30a5a1\">There is</font> something you want to talk about?",
+                "<font color=\"#30a5a1\">があります</font>",
+                "there is; is (non-living things)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_018.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1052",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_018.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_018.jpg\">",
+                ""
+            ],
+            "guid": "pIK_.Bu=nz",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_019",
+                "Yakuza: Like a Dragon",
+                "どんな事情があって人を殺めたのかは知らない、だが、外で待ってくれている人<font color=\"#5e8ec8\">がいる</font>なら耐えろ",
+                "どんな 事情[じじょう]があって 人[ひと]を 殺[あや]めたのかは 知[し]らない、だが、 外[そと]で 待[ま]ってくれている 人[ひと]<font color=\"#5e8ec8\">がいる</font>なら 耐[た]えろ",
+                "I don't know under what circumstances you killed someone. But if <font color=\"#5e8ec8\">there is</font> someone waiting for you outside, bear with it.",
+                "<font color=\"#5e8ec8\">がいます</font>",
+                "there is; to be; is (living things)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_019.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1113",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_019.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_019.jpg\">",
+                ""
+            ],
+            "guid": "IdBCVZDdXr",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_020",
+                "Metal Gear 2: Solid Snake",
+                "一度、表出した戦闘本能は二度と眠ることはないのだ。より強烈なテンション<font color=\"#65aa5e\">が欲しく</font>なる！",
+                "一度[いちど]、&nbsp;表出[ひょうしゅつ]した 戦闘[せんとう] 本能[ほんのう]は 二度[にど]と 眠[ねむ]ることはないのだ。より 強烈[きょうれつ]なテンション<font color=\"#65aa5e\">が 欲[ほ]しく</font>なる！",
+                "Once the fighting instinct is expressed, it never sleeps again. You become <font color=\"#65aa5e\">to want</font> even more intensity!",
+                "<font color=\"#65aa5e\">がほしい</font>",
+                "to want something",
+                "[sound:GameGengo_Grammar_N5_AUDIO_020.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1148",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_020.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_020.jpg\">",
+                ""
+            ],
+            "guid": "h*?:|w%z]D",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_021",
+                "Suikoden V",
+                "確かにこの王都では少々気を付けた<font color=\"#c7842a\">方がいい</font>かもしれん。",
+                "確[たし]かにこの 王都[おうと]では 少々[しょうしょう] 気を付[きをつ]けた<font color=\"#c7842a\"> 方[ほう]がいい</font>かもしれん。",
+                "It's true that here in the Royal Capital, it may<font color=\"#c7842a\"> be better </font>if you were a little careful.",
+                "<font color=\"#c7842a\">ほうがいい</font>",
+                "had better; it'd be better to; should~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_021.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1200",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_021.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_021.jpg\">",
+                ""
+            ],
+            "guid": "D3ohEZc+ua",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_022",
+                "Dragon Quest",
+                "わりぃけど 今は <font color=\"#d55e40\">忙しい</font>んだ。",
+                "わりぃけど 今[いま]は<font color=\"#d55e40\">&nbsp;忙[いそが]しい</font>んだ。",
+                "Sorry, but I'm <font color=\"#d55e40\">busy </font>at the moment.",
+                "<font color=\"#d55e40\">い adjectives</font>",
+                "i adjectives",
+                "[sound:GameGengo_Grammar_N5_AUDIO_022.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1262",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%84-adjectives-%e3%81%84%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_022.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_022.jpg\">",
+                ""
+            ],
+            "guid": "P[{i*cjK5*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_023",
+                "Metal Gear Solid",
+                "<font color=\"#9db674\">一番</font>の近道だが...",
+                "<font color=\"#9db674\"> 一番[いちばん]</font>の 近道[ちかみち]だが...",
+                "It's the (<font color=\"#9db674\">most</font>) shortest path but...",
+                "<font color=\"#9db674\">一番（いちばん）</font>",
+                "the most; the best",
+                "[sound:GameGengo_Grammar_N5_AUDIO_023.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1382",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_023.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_023.jpg\">",
+                ""
+            ],
+            "guid": "r~+7aD6WPb",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_024",
+                "Suikoden II",
+                "<font color=\"#f0310e\">いっしょに</font>攻撃する。",
+                "<font color=\"#f0310e\"> いっしょに</font> 攻撃[こうげき]する。",
+                "Attack<font color=\"#f0310e\"> together</font>",
+                "<font color=\"#f0310e\">一緒に（いっしょに）</font>",
+                "together",
+                "[sound:GameGengo_Grammar_N5_AUDIO_024.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1444",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_024.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_024.jpg\">",
+                ""
+            ],
+            "guid": "B>SZ|B8|gz",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_025",
+                "Ultra Street Fighter IV",
+                "<font color=\"#e93322\">いつも</font>闘いを懐かしく感じるのは、俺が子供の頃からずっと闘い続けているからかもしれない。",
+                "<font color=\"#e93322\"> いつも</font>闘[たたか]いを 懐[なつ]かしく 感[かん]じるのは、 俺[おれ]が&nbsp;子供[こども]の 頃[ころ]からずっと 闘[たたか]い 続[つず]けているからかもしれない。",
+                "The fact that I've <font color=\"#e93322\">always</font> felt nostalgic about fighting, is maybe because I've been fighting ever since I was a kid.",
+                "<font color=\"#e93322\">いつも</font>",
+                "always; usually; habitually",
+                "[sound:GameGengo_Grammar_N5_AUDIO_025.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1504",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_025.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_025.jpg\">",
+                ""
+            ],
+            "guid": "Oy]a`nmDM@",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_026",
+                "Persona 5",
+                "文字通り、「全ての終わり」のことだ。しかし、抗う術が無い訳<font color=\"#6267e3\">ではない</font>。",
+                "文字通[もじどお]り、「 全[すべ]ての 終[お]わり 」のことだ。しかし、 抗[あらが]う 術[すべ]が 無[な]い 訳[わけ]<font color=\"#6267e3\">ではない</font>。",
+                "Literally, it is \"the end of everything\". But <font color=\"#6267e3\">that doesn't</font> mean there is no means to resist.",
+                "<font color=\"#6267e3\">ではない</font>",
+                "to not be (am not; is not; are not)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_026.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1552",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-janai-%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84-dewa-nai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_026.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_026.jpg\">",
+                ""
+            ],
+            "guid": "kZi(E/.`mM",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_027",
+                "Final Fantasy VII Remake",
+                "俺はみんあとは違う ただ仕事をさがすだけ<font color=\"#f2ec89\">じゃない</font>。",
+                "俺[おれ]はみんなとは 違[ちが]う、 ただ 仕事[しごと]をさがすだけ<font color=\"#f2ec89\">じゃない</font>。",
+                "I'm not like everyone else. <font color=\"#f2ec89\">I'm not</font> just looking for a job.",
+                "<font color=\"#f2ec89\">じゃない</font>",
+                "to not be (am not; is not; are not)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_027.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1643",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-janai-%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84-dewa-nai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_027.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_027.jpg\">",
+                ""
+            ],
+            "guid": "fQLuP@RlrJ",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_028",
+                "Snatcher",
+                "なんだ 烏<font color=\"#7accd0\">か</font>！",
+                "なんだ 烏[からす]<font color=\"#7accd0\">か</font>！",
+                "What the heck, just <font color=\"#7accd0\">a crow</font> huh!",
+                "<font color=\"#7accd0\">か</font>",
+                "question particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_028.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1693",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b-ka-question-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_028.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_028.jpg\">",
+                ""
+            ],
+            "guid": "NwJc.c%%-j",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_029",
+                "Final Fantasy VIII",
+                "もう！絶対、あなた<font color=\"#ddb565\">か</font>サイファーだと思ったわ！",
+                "もう！ 絶対[ぜったい]、あなた<font color=\"#ddb565\">か</font>サイファーだと 思[おも]ったわ！",
+                "Sigh! / Come on! I definitely thought it would be you<font color=\"#ddb565\"> or</font> Seifer!",
+                "<font color=\"#ddb565\">か～か</font>",
+                "or",
+                "[sound:GameGengo_Grammar_N5_AUDIO_029.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1752",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_029.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_029.jpg\">",
+                ""
+            ],
+            "guid": "L1rNw9z*Co",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_030",
+                "Yakuza 6: The Song of Life",
+                "こちら 東京<font color=\"#7cb2cf\">から</font>いらしてる桐生さんです。",
+                "こちら 東京[とうきょう]<font color=\"#7cb2cf\">から</font>いらしてる 桐生[きりゅう]さんです。",
+                "This is Kiryu-san<font color=\"#7cb2cf\"> from</font> Tokyo.",
+                "<font color=\"#7cb2cf\">から</font>",
+                "from",
+                "[sound:GameGengo_Grammar_N5_AUDIO_030.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1799",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89-kara-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_030.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_030.jpg\">",
+                ""
+            ],
+            "guid": "wHOFx#QnY$",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_031",
+                "Cyberpunk 2077",
+                "丁寧な<font color=\"#f6685b\">話し方</font>もできるんだな。",
+                "丁寧[ていねい]な<font color=\"#f6685b\">話し方[はなしかた]</font>もできるんだな。",
+                "You can also talk in a polite <font color=\"#f6685b\">way of speaking</font> huh!",
+                "<font color=\"#f6685b\">方（かた）</font>",
+                "the way of doing something; how to do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_031.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1882",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_031.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_031.jpg\">",
+                ""
+            ],
+            "guid": "pL*D^`L`mA",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_032",
+                "Dragon Ball Z: Kakarot",
+                "ホ...ホントだ...す...すごい<font color=\"#df82df\">けど</font>、懐かしい気...！！",
+                "ホ...ホントだ...す...すごい<font color=\"#df82df\">けど</font>、 懐[なつ]かしい 気[き]...！！",
+                "Y-you're right! I-it's amazing<font color=\"#df82df\"> but</font>, It's a familiar Ki…!!",
+                "<font color=\"#df82df\">けど</font>",
+                "but; however; although~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_032.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=1974",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%81%a9-kedo-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_032.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_032.jpg\">",
+                ""
+            ],
+            "guid": "uAZ!_=ejQ/",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_033",
+                "Final Fantasy VII",
+                "これは5年まえ　現実にあった風景だ。<font color=\"#f19d50\">けれども...</font>　きっと、あの神羅屋敷から出てくるのは俺じゃない。",
+                "これは5 年[ねん]まえ 現実[げんじつ]にあった 風景[ふうけい]だ。<font color=\"#f19d50\">けれども...&nbsp;</font>きっと、あの 神[しん] 羅[ら] 屋敷[やしき]から 出[で]てくるのは 俺[おれ]じゃない。",
+                "This is the sight of what actually happened five years ago.<font color=\"#f19d50\"> However...</font>&nbsp;I'm sure i'm not the one coming out of that Shinra Mansion.",
+                "<font color=\"#f19d50\">けれども</font>",
+                "but; however; although~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_033.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2030",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_033.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_033.jpg\">",
+                ""
+            ],
+            "guid": "k_8?1~O4|B",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_034",
+                "Final Fantasy VII Remake",
+                "あのね　お花をお願いしたいんだけど。<br>まかせて、どれ<font color=\"#de89b0\">ぐらい</font>？",
+                "あのね&nbsp;&nbsp;お花[おはな]を お願[おねが]いしたいんだけど。<br> まかせて、どれ<font color=\"#de89b0\">ぐらい</font>？",
+                "Hey, I'd like to order some flowers. <br>Leave it to me! <font color=\"#de89b0\">Around</font> how much?",
+                "<font color=\"#de89b0\">Noun + くらい/ぐらい</font>",
+                "about, approximately",
+                "[sound:GameGengo_Grammar_N5_AUDIO_034.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2085",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%8F%E3%82%89%E3%81%84-kurai-%E3%81%90%E3%82%89%E3%81%84-gurai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_034.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_034.jpg\">",
+                ""
+            ],
+            "guid": "y_g|?@qv+M",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_035",
+                "Final Fantasy VII Remake",
+                "ピンチのときにヒーローが助けてくれるの。一度<font color=\"#84beb0\">くらい</font>は経験したいじゃない？",
+                "ピンチのときにヒーローが 助[たす]けてくれるの。 一度[いちど]<font color=\"#84beb0\">くらい</font>は 経験[けいけん]したいじゃない？",
+                "When you're in a pinch, a hero can help you. Wouldn't you like to experience that <font color=\"#84beb0\">at least </font>once?",
+                "<font color=\"#84beb0\">Noun + くらい/ぐらい</font>",
+                "at least, at the very least",
+                "[sound:GameGengo_Grammar_N5_AUDIO_035.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2136",
+                "<a href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%8F%E3%82%89%E3%81%84-kurai-%E3%81%90%E3%82%89%E3%81%84-gurai-meaning/\" title=\"View Grammar Online\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_035.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_035.jpg\">",
+                ""
+            ],
+            "guid": "RaKJ~AO]aw",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_036",
+                "Final Fantasy XII",
+                "ここは落ちます！撤退しますぞ！<br><font color=\"#e1df86\">まだ</font>だ！<font color=\"#e1df86\">まだ</font>魔法障壁がある！",
+                "ここは 落[お]ちます！ 撤退[てったい]しますぞ！<br><font color=\"#e1df86\"> まだ</font>だ！<font color=\"#e1df86\">まだ</font>魔法[まほう] 障壁[しょうへき]がある！",
+                "This place is falling! We're retreating!<br><font color=\"#e1df86\">Not yet</font>! There's<font color=\"#e1df86\"> still </font>a magic barrier!",
+                "<font color=\"#e1df86\">まだ</font>",
+                "still; not yet",
+                "[sound:GameGengo_Grammar_N5_AUDIO_036.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2167",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0-mada-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_036.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_036.jpg\">",
+                ""
+            ],
+            "guid": "hG[,axv{[!",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_037",
+                "Final Fantasy X",
+                "この１０年　いろいろあった、おまえはどこでなにをしていた？<br>友との約束を果たしていた ……<font color=\"#fe9253\">まだ終っていない</font>。",
+                "この１０ 年[ねん] いろいろあった、おまえはどこでなにをしていた？<br> 友[とも]との 約束[やくそく]を 果[は]たしていた...&nbsp;<font color=\"#fe9253\">まだ 終[おわ]っていない</font>。",
+                "A lot has happened these last 10 years. Where and what were you doing?<br>I was fulfilling a promise to a friend. … <font color=\"#fe9253\">I'm still not finished</font>.",
+                "<font color=\"#fe9253\">まだ～ていません</font>",
+                "have not yet~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_037.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2233",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_037.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_037.jpg\">",
+                ""
+            ],
+            "guid": "L@<EKV<~N^",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_038",
+                "Tekken 7",
+                "ここ<font color=\"#3493c3\">まで</font>の男か。",
+                "ここ<font color=\"#3493c3\">まで</font>の 男[おとこ]か。",
+                "A man <font color=\"#3493c3\">to</font> this <font color=\"#3493c3\">extent</font> huh!",
+                "<font color=\"#3493c3\">まで</font>",
+                "until; as far as; to (an extent); even~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_038.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2287",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7-made-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_038.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_038.jpg\">",
+                ""
+            ],
+            "guid": "M*_$nD(-};",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_039",
+                "Final Fantasy VIII",
+                "操縦席だ。<br>目の<font color=\"#df6588\">前に</font>タッチパネルが見えるだろ？",
+                "操縦席[そうじゅうせき]だ。<br> 目[め]の<font color=\"#df6588\"> 前[まえ]に</font>タッチパネルが 見[み]えるだろ？",
+                "(I'm in) the cockpit.<br>You can see the touch panel<font color=\"#df6588\"> in front </font>of you right?",
+                "<font color=\"#df6588\">前に（まえに）</font>",
+                "before; in front of~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_039.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2359",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_039.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_039.jpg\">",
+                ""
+            ],
+            "guid": "E`HRm^7SGp",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_040",
+                "Yakuza: Like a Dragon",
+                "もう殺っちまい<font color=\"#80b73d\">ませんか</font> 兄貴？",
+                "もう 殺[や]っちまい<font color=\"#80b73d\">ませんか</font>&nbsp;兄貴[あにき]？",
+                "<font color=\"#80b73d\">Shall we </font>kill him already, Big Bro?",
+                "<font color=\"#80b73d\">ませんか</font>",
+                "would you; do you want to; shall we~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_040.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2411",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_040.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_040.jpg\">",
+                ""
+            ],
+            "guid": "Ed6_>zLUfZ",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_041",
+                "Judge Eyes",
+                "もういいだろ泉田。<br>やめ<font color=\"#1aa3ec\">ましょう</font> 泉田さん。送りに来てくれてありがとう。",
+                "もういいだろ 泉田[いずみだ]。<br> やめ<font color=\"#1aa3ec\">ましょう</font>&nbsp;泉田[いずみだ]さん。 送[おく]りに 来[き]てくれてありがとう。",
+                "That's enough Izumida-san.&nbsp;<br><font color=\"#1aa3ec\">Let's</font> stop, Izumida-san. Thank you for coming to see us off.",
+                "<font color=\"#1aa3ec\">ましょう</font>",
+                "let's ~; shall we ~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_041.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2470",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_041.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_041.jpg\">",
+                ""
+            ],
+            "guid": "m8h+E1eyF%",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_042",
+                "Chrono Trigger",
+                "武器や防具について聞かせてあげ<font color=\"#ec932d\">ましょうか</font>?",
+                "武器[ぶき]や 防具[ぼうぐ]について 聞[き]かせてあげ<font color=\"#ec932d\">ましょうか</font>？",
+                "<font color=\"#ec932d\">Shall I</font> tell you about the weapons and armor?",
+                "<font color=\"#ec932d\">ましょうか</font>",
+                "shall I ~; used to offer help to the listener",
+                "[sound:GameGengo_Grammar_N5_AUDIO_042.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2503",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_042.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_042.jpg\">",
+                ""
+            ],
+            "guid": "cY4xD4+BXD",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_043",
+                "Dragon Ball FighterZ",
+                "今回は油断<font color=\"#ddb628\">も</font>慢心<font color=\"#ddb628\">も</font>ない！全力でお前を倒す！",
+                "今回[こんかい]は 油断[ゆだん]<font color=\"#ddb628\">も </font> 慢心[まんしん]<font color=\"#ddb628\">も</font>ない！ 全力[ぜんりょく]で お前[おまえ]を 倒[たお]す！",
+                "This time there will be no carelessness<font color=\"#ddb628\"> nor </font>arrogance! I'm going to beat you with everything I've got!",
+                "<font color=\"#ddb628\">も</font>",
+                "too; also; as well; nor",
+                "[sound:GameGengo_Grammar_N5_AUDIO_043.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2557",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%82-mo-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_043.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_043.jpg\">",
+                ""
+            ],
+            "guid": "rvq@q>H_Ls",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_044",
+                "Shenmue",
+                "<font color=\"#2fa641\">もう</font>一度たずねる...鏡は、どこだ?",
+                "<font color=\"#2fa641\"> もう</font>一度[いちど]たずねる... 鏡[かがみ]は、どこだ?",
+                "I ask you <font color=\"#2fa641\">again</font>... The mirror, where is it?",
+                "<font color=\"#2fa641\">もう</font>",
+                "again; another",
+                "[sound:GameGengo_Grammar_N5_AUDIO_044.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2645",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86-mou-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_044.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_044.jpg\">",
+                ""
+            ],
+            "guid": "mWV:=0|A?3",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_045",
+                "Persona 5",
+                "...<font color=\"#ba42be\">もう</font>我慢はしないっての。",
+                "...<font color=\"#ba42be\">もう</font>我慢[がまん]はしないっての。",
+                "I'm not going to put up with it<font color=\"#ba42be\"> anymore</font>.",
+                "<font color=\"#ba42be\">もう</font>",
+                "anymore; (no) longer",
+                "[sound:GameGengo_Grammar_N5_AUDIO_045.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2704",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86-mou-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_045.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_045.jpg\">",
+                ""
+            ],
+            "guid": "uH?f62HMKg",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_046",
+                "Ni No Kuni",
+                "<font color=\"#caa74d\">やだ</font>！<font color=\"#caa74d\">いやだ</font>よ！かあさん！！",
+                "<font color=\"#caa74d\">やだ</font>！<font color=\"#caa74d\">いやだ</font>よ！かあさん！！",
+                "<font color=\"#caa74d\">No</font>!&nbsp;<font color=\"#caa74d\">No</font>! Mum!",
+                "<font color=\"#caa74d\">な adjectives</font>",
+                "na adjectives",
+                "[sound:GameGengo_Grammar_N5_AUDIO_046.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2737",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%aa-adjectives-%e3%81%aa%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_046.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_046.jpg\">",
+                ""
+            ],
+            "guid": "sNo.<kAO79",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_047",
+                "Metal Gear Solid 2",
+                "動く<font color=\"#2e957b\">な</font>！",
+                "動[うご]く<font color=\"#2e957b\">な</font>！",
+                "<font color=\"#2e957b\">Don't </font>move!",
+                "<font color=\"#2e957b\">な</font>",
+                "don’t do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_047.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2893",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%AA-na-meaning-order-dont-do/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_047.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_047.jpg\">",
+                ""
+            ],
+            "guid": "tqC*T8fwZl",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_048",
+                "Valkyria Chronicles",
+                "この道を通るのも３ねんぶりかぁ、なつかしい<font color=\"#6b9529\">なぁ</font>！",
+                "この 道[みち]を 通[とお]るのも３ねんぶりかぁ、なつかしい<font color=\"#6b9529\">なぁ</font>！",
+                "It's been three years since i've been down this road huh.&nbsp;<font color=\"#6b9529\">How </font>Nostalgic!",
+                "<font color=\"#6b9529\">なあ</font>",
+                "sentence ending particle; confirmation; admiration, etc.&nbsp;",
+                "[sound:GameGengo_Grammar_N5_AUDIO_048.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=2958",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_048.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_048.jpg\">",
+                ""
+            ],
+            "guid": "h?>~:j;h]Y",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_049",
+                "Final Fantasy VII Remake",
+                "これで最後だよ。気を抜か<font color=\"#1992b6\">ないで</font>行こう&nbsp; せーの！",
+                "これで 最後[さいご]だよ。 &nbsp;気[き]を 抜[ぬ]か<font color=\"#1992b6\">ないで</font>&nbsp;行[い]こう せーの！",
+                "This is the last time. Let's go <font color=\"#1992b6\">without </font>losing focus. Ready, Set, Go!",
+                "<font color=\"#1992b6\">ないで</font>",
+                "without doing~ ; To do [B] without doing [A]",
+                "[sound:GameGengo_Grammar_N5_AUDIO_049.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3052",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_049.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_049.jpg\">",
+                ""
+            ],
+            "guid": "JUR07#I6Jn",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_050",
+                "Phoenix Wright: Ace Attorney",
+                "と、まあ、こんなカンジでさ。宿命のライバルだよねー...<br>真宵ちゃん！…その名前は口に<font color=\"#8f3ad9\">しないで</font>。",
+                "と、まあ、 こんなカンジでさ。 宿命[しゅくめい]のライバルだよねー...<br> 真宵[まよい]ちゃん！...その 名前[なまえ]は 口[くち]に<font color=\"#8f3ad9\">しないで</font>。",
+                "...And that's about it. We are predestined rivals...<br>Mayoi-chan! <font color=\"#8f3ad9\">Don't</font> speak of that name.",
+                "<font color=\"#8f3ad9\">ないで</font>",
+                "don't do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_050.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3118",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_050.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_050.jpg\">",
+                ""
+            ],
+            "guid": "fqk)n)G3F",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_051",
+                "Yakuza 7",
+                "お店が決めた順番を守るべきでは？<br>まぁ 堅いこと言わ<font color=\"#cb1335\">ないで下さい</font>よ。",
+                "お店[おみせ]が 決[き]めた 順番[じゅんばん]を 守[まも]るべきでは？<br> まぁ 堅[かた]いこと 言[い]わ<font color=\"#cb1335\">ないで 下[くだ]さい</font>よ。",
+                "Shouldn’t we follow the order set up by the shop?<br>Hey come on now, <font color=\"#cb1335\">please don't</font><font color=\"#aa112d\"> </font>say such uptight things.",
+                "<font color=\"#cb1335\">ないでください</font>",
+                "please don't do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_051.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3164",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_051.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_051.jpg\">",
+                ""
+            ],
+            "guid": "fshUQMrblQ",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_052",
+                "Last of Us",
+                "何か良くないことがおきてる。脱出<font color=\"#cb1335\">しないといけない</font>。言ってることが分かるか？",
+                "何[なに]か 良[よ]くないことがおきてる。 脱出[だっしゅつ]<font color=\"#cb1335\">しないといけない</font>。 言[い]ってることが 分[わ]かるか？",
+                "Something not good is happening. We <font color=\"#cb1335\">must </font>escape. Do you understand what I'm saying?",
+                "<font color=\"#cb1335\">ないといけない</font>",
+                "must do; have an obligation to do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_052.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3240",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_052.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_052.jpg\">",
+                ""
+            ],
+            "guid": "A%JJlxuE/?",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_053",
+                "Final Fantasy VII",
+                "「今はお金がないからスラムに住んでいるけどいつかは本で見たようなオシャレな部屋にすんでやるつもりだ...<br>...などと書いてみたがそのためにはまず仕事を見つけ<font color=\"#48af39\">なくちゃいけない</font>」",
+                "「 今[いま]は お金[おかね]がないからスラムに 住[す]んでいるけどいつかは 本[ほん]で 見[み]たようなオシャレな 部屋[へや]にすんでやるつもりだ...<br>...などと 書[か]いてみたがそのためにはまず<br>仕事[しごと]を 見[み]つけ<font color=\"#48af39\">なくちゃいけない</font>」。",
+                "Right now I have no money, so i'm living in the Slums but someday I intend to live in a fancy room like you see in the books,<br>is what I tried to write, but in order to do that<br>first<font color=\"#48af39\"> I need to</font> find a job.",
+                "<font color=\"#48af39\">なくてはいけない</font>",
+                "must do; need to do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_053.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3336",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-nakute-wa-ikenai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_053.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_053.jpg\">",
+                ""
+            ],
+            "guid": "xZ(]HvfaK7",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_054",
+                "Naruto Shippuden: Ultimate Ninja Storm Generations",
+                "ワシは...長門を...、ペインを<font color=\"#c8a026\">止めなくてはならない</font>...！",
+                "ワシは... 長門[ながと]を...、ペインを<font color=\"#c8a026\">止[と]めなくてはならない</font>...！",
+                "I…<font color=\"#c8a026\"> I must stop </font>Nagato…<font color=\"#c8a026\"> I must stop</font> Pain…!",
+                "<font color=\"#c8a026\">なくてはならない</font>",
+                "must do; need to do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_054.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3419",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-nakute-wa-naranai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_054.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_054.jpg\">",
+                ""
+            ],
+            "guid": "h4T)s2:a%Y",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_055",
+                "Kingdom Hearts",
+                "早く追いかけ<font color=\"#48af39\">なくちゃ</font>！",
+                "早[はや]く 追[お]いかけ<font color=\"#48af39\">なくちゃ</font>！",
+                "We <font color=\"#48af39\">gotta</font> catch up to him quickly!",
+                "<font color=\"#48af39\">なくちゃ</font>",
+                "must do; need to; gotta do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_055.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3483",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83-%e3%83%80%e3%83%a1-nakucha-dame-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_055.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_055.jpg\">",
+                ""
+            ],
+            "guid": "LZ?^z&wP+r",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_056",
+                "Metal Gear Solid V",
+                "ミラーがやら<font color=\"#d87f27\">なくてもいい</font>仕事だった。",
+                "ミラーがやら<font color=\"#d87f27\">なくてもいい</font>仕事[しごと]だった。",
+                "It was a job Miller <font color=\"#d87f27\">didn't have to</font> do.",
+                "<font color=\"#d87f27\">なくてもいい</font>",
+                "don't have to",
+                "[sound:GameGengo_Grammar_N5_AUDIO_056.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3539",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82%e3%81%84%e3%81%84-naku-temo-ii-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_056.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_056.jpg\">",
+                ""
+            ],
+            "guid": "g!lAeC#]@I",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_057",
+                "Suikoden II",
+                "フェザーが仲間<font color=\"#d8b156\">になった</font>！",
+                "フェザーが 仲間[なかま]<font color=\"#d8b156\">になった</font>！",
+                "Feathers<font color=\"#d8b156\"> became</font> a group member!",
+                "<font color=\"#d8b156\">なる</font>",
+                "to become",
+                "[sound:GameGengo_Grammar_N5_AUDIO_057.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3602",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8b-naru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_057.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_057.jpg\">",
+                ""
+            ],
+            "guid": "wYEj@A19,*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_058",
+                "Ryū Ga Gotoku Ishin!",
+                "そんなに上士様は偉い<font color=\"#eb9d5c\">のです</font>か？",
+                "そんなに... そんなに&nbsp;上士[じょうし] 様[さま]は 偉[えら]い<font color=\"#eb9d5c\">のです</font>か？",
+                "That much...<font color=\"#eb9d5c\"> Is it that </font>Jyoushi are so great and important?",
+                "<font color=\"#eb9d5c\">のです</font>",
+                "to explain something; show emphasis",
+                "[sound:GameGengo_Grammar_N5_AUDIO_058.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3741",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7%e3%81%99-no-desu-%e3%81%ae%e3%81%a0-noda-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_058.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_058.jpg\">",
+                ""
+            ],
+            "guid": "B;]J-G<V4=",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_059",
+                "Final Fantasy IX",
+                "この谷の向こうにその「聖地」がある<font color=\"#51d2eb\">んだ</font>な…",
+                "この 谷[たに]の 向[む]こうにその 「 聖地[せいち] 」がある<font color=\"#51d2eb\">んだ</font>な...",
+                "So it's that, that \"Holy Ground\" is over this valley huh...",
+                "<font color=\"#51d2eb\">んです</font>",
+                "to explain something; show emphasis",
+                "[sound:GameGengo_Grammar_N5_AUDIO_059.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3878",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%93%e3%81%a7%e3%81%99-ndesu-%e3%82%93%e3%81%a0-nda-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_059.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_059.jpg\">",
+                ""
+            ],
+            "guid": "pXaLZF@Ke{",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_060",
+                "Final Fantasy VII Remake",
+                "クラウド 七番街行くんだよ<font color=\"#e889eb\">ね</font>？",
+                "クラウド 七[なな] 番[ばん] 街[がい] 行[い]くんだよ<font color=\"#e889eb\">ね</font>？",
+                "Cloud, you're going to Sector Seven <font color=\"#e889eb\">right</font>?",
+                "<font color=\"#e889eb\">ね</font>",
+                "isn't it? right? eh?",
+                "[sound:GameGengo_Grammar_N5_AUDIO_060.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=3933",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ad-ne-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_060.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_060.jpg\">",
+                ""
+            ],
+            "guid": "QW+)rbBQ3N",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_061",
+                "Yakuza 0",
+                "今 店<font color=\"#eb8039\">に</font>入ってきたとこや",
+                "今[いま]、 店[みせ]<font color=\"#eb8039\">に</font> 入[はい]ってきたとこや。",
+                "I just came<font color=\"#eb8039\"> into</font> the shop.",
+                "<font color=\"#eb8039\">に</font>",
+                "destination particle; in; at; on; to",
+                "[sound:GameGengo_Grammar_N5_AUDIO_061.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4011",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-ni-destination-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_061.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_061.jpg\">",
+                ""
+            ],
+            "guid": "kNn@oxAcTP",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_062",
+                "Ghost of Tsushima",
+                "門を開いた刹那<font color=\"#66af46\">に</font>飛び込むぞ。",
+                "門[もん]を 開[ひら]いた 刹那[せつな]<font color=\"#66af46\">に</font> 飛び込[とびこ]むぞ。",
+                "We'll burst in <font color=\"#66af46\">at </font>the moment you open the gate.",
+                "<font color=\"#66af46\">に</font>",
+                "at (time/place)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_062.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4125",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-ni-destination-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_062.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_062.jpg\">",
+                ""
+            ],
+            "guid": "G=!KfI1UQu",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_063",
+                "Ghost of Tsushima",
+                "わしの教えを蒙古<font color=\"#f32c2c\">に</font>売ったという事か?",
+                "わしの 教[おし]えを 蒙古[もうこ]<font color=\"#f32c2c\">に</font> 売[う]ったという 事[こと]か?",
+                "So they sold my teachings <font color=\"#f32c2c\">to</font> the Mongols huh?",
+                "<font color=\"#f32c2c\">に/へ</font>",
+                "to (indicates direction / destination)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_063.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4158",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-%e3%81%b8-ni-e-directional-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_063.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_063.jpg\">",
+                ""
+            ],
+            "guid": "Fe[zV7NS,6",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_064",
+                "Death Stranding",
+                "今から焼却所<font color=\"#ffc021\">へ</font>行くほうが危険だ。",
+                "今[いま]から 焼却[しょうきゃく]所[じょう]<font color=\"#ffc021\">へ</font> 行[い]くほうが 危険[きけん]だ。",
+                "It's more dangerous to go<font color=\"#ffc021\"> to </font>the incinerator now.",
+                "<font color=\"#ffc021\">に/へ</font>",
+                "to (indicates direction / destination)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_064.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4188",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-%e3%81%b8-ni-e-directional-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_064.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_064.jpg\">",
+                ""
+            ],
+            "guid": "g6GoH#79H!",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_065",
+                "Octopath Traveler",
+                "それではまた二人で見回り<font color=\"#958c70\">に行って</font>きます。",
+                "それではまた 二人[ふたり]で 見回[みまわ]り<font color=\"#958c70\">に 行[い]って</font>きます。",
+                "Well, we will again both<font color=\"#958c70\"> go to do</font> our patrols.",
+                "<font color=\"#958c70\">にいく</font>",
+                "go to do (verb)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_065.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4250",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%ab%e3%81%84%e3%81%8f-ni-iku-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_065.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_065.jpg\">",
+                ""
+            ],
+            "guid": "ev]!2o!IHv",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_066",
+                "Final Fantasy IV",
+                "急にミシディアへ行ったかと思えば、今度は幼獣討伐<font color=\"#dd62e1\">に行く</font>なんて...",
+                "急[きゅう]にミシディアへ 行[い]ったかと 思[おも]えば、 今度[こんど]は 幼獣[げんじゅう] 討伐[とうばつ]<font color=\"#dd62e1\">に 行[い]く</font>なんて...",
+                "No sooner did you suddenly go to Mysidia, this time now you are<font color=\"#dd62e1\"> going to go </font>kill monsters.",
+                "<font color=\"#dd62e1\">にいく</font>",
+                "go to do (noun)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_066.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4301",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%ab%e3%81%84%e3%81%8f-ni-iku-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_066.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_066.jpg\">",
+                ""
+            ],
+            "guid": "cc~22UDwZl",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_067",
+                "Suikoden II",
+                "もし、ぼくらが生き延びて...でも...はなればなれになってしまったら...その時は、ここにもどってくること<font color=\"#0bc29e\">にしよう</font>。",
+                "もし、ぼくらが 生[い]きのびて...でも...はなればなれになってしまったら...その 時[とき] は、ここにもどってくること<font color=\"#0bc29e\">にしよう</font>。",
+                "If we survive...&nbsp;But...&nbsp;If we become separated...&nbsp;On that occasion,<font color=\"#0bc29e\"> let's decide to </font>come back here.",
+                "<font color=\"#0bc29e\">にする</font>",
+                "to decide on",
+                "[sound:GameGengo_Grammar_N5_AUDIO_067.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4424",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%99%e3%82%8b-ni-suru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_067.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_067.jpg\">",
+                ""
+            ],
+            "guid": "gY)+qu-Z>P",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_068",
+                "Ninja Gaiden",
+                "お父さんが死んだ翌日、俺は父さん<font color=\"#9764e3\">の</font>部屋で、俺への手紙を見つけた。",
+                "お&nbsp;父[とう]さんが 死[し]んだ 翌日[よくじつ]、 俺[おれ]は 父[とう]さん<font color=\"#9764e3\">の</font> 部屋[へや]で、 俺[おれ]への 手紙[てがみ]を 見[み]つけた。",
+                "The day after my father died, I was in my father<font color=\"#9764e3\">'s</font> room, and I found a letter to me.",
+                "<font color=\"#9764e3\">の</font>",
+                "possessive particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_068.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4506",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae-no-possessive-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_068.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_068.jpg\">",
+                ""
+            ],
+            "guid": "bDRpd5*xI*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_069",
+                "Yakuza 7",
+                "慌てんな。俺が心底惚れてた<font color=\"#839457\">の</font>は別の女だ …茜と言った。",
+                "慌[あわ]てんな。 俺[おれ]が 心底[しんそこ] 惚[ほ]れてた<font color=\"#839457\">の</font> は 別[べつ]の 女[おんな]だ...&nbsp;茜[あかね]と 言[い]った。",
+                "Don't get in a hurry. <font color=\"#839457\">The one that</font> I was in love with from the bottom of my heart was another woman...",
+                "<font color=\"#839457\">の</font>",
+                "verb nominalizer",
+                "[sound:GameGengo_Grammar_N5_AUDIO_069.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4565",
+                "<a title=\"View Grammar Online\" href=\"https://japanesetest4you.com/flashcard/learn-jlpt-n5-grammar-%e3%81%ae-no-2/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_069.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_069.jpg\">",
+                ""
+            ],
+            "guid": "ea%irlw8<E",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_070",
+                "Pokémon Shield",
+                "まだ、 電気を 溜める<font color=\"#fee77d\">のが 下手</font>。",
+                "まだ、 電気[でんき]を 溜[た]める<font color=\"#fee77d\">のが 下手[へた]</font>。",
+                "It's still<font color=\"#fee77d\"> not very good at </font>storing electricity.",
+                "<font color=\"#fee77d\">のが下手（のがへた）</font>",
+                "to be bad at doing something",
+                "[sound:GameGengo_Grammar_N5_AUDIO_070.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4658",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8b%e6%89%8b-%e3%81%ae%e3%81%8c%e3%81%b8%e3%81%9f-no-ga-heta-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_070.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_070.jpg\">",
+                ""
+            ],
+            "guid": "MY00a<?$][",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_071",
+                "Pokémon HeartGold",
+                "バタあし だけでも 太平洋を横断できるほど泳ぐ<font color=\"#6f86cc\">のが上手</font>だ。",
+                "バタあしだけでも 太平洋[たいへいよう]を 横断[おうだん]できるほど 泳[およ]ぐ<font color=\"#6f86cc\">のが 上手[じょうず]</font>だ。",
+                "He <font color=\"#6f86cc\">is</font> so <font color=\"#6f86cc\">good at </font>swimming that just by thrashing in the water he can cross the Pacific Ocean.",
+                "<font color=\"#6f86cc\">のが上手（のがじょうず）</font>",
+                "to be good at",
+                "[sound:GameGengo_Grammar_N5_AUDIO_071.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4715",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8a%e6%89%8b-no-ga-jouzu-%e3%81%ae%e3%81%8c%e3%81%98%e3%82%87%e3%81%86%e3%81%9a%e3%81%a7%e3%81%99-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_071.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_071.jpg\">",
+                ""
+            ],
+            "guid": "pQ.8/6hE|=",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_072",
+                "Final Fantasy VII Remake",
+                "コルネオは こういうのが<font color=\"#f11920\">好き</font>なんだって。",
+                "コルネオはこういうのが<font color=\"#f11920\">好[す]き</font>なんだって。",
+                "Apparently Don Corneo<font color=\"#f11920\"> likes</font><font color=\"#d9171d\"> </font>this kind of thing.",
+                "<font color=\"#f11920\">のが好き（のがすき）</font>",
+                "to like doing something",
+                "[sound:GameGengo_Grammar_N5_AUDIO_072.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4794",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e5%a5%bd%e3%81%8d-no-ga-suki-%e3%81%ae%e3%81%8c%e3%81%99%e3%81%8d%e3%81%a7%e3%81%99-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_072.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_072.jpg\">",
+                ""
+            ],
+            "guid": "k8T-sP/qXf",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_073",
+                "Persona 4",
+                "先生方にお知らせします。只今より、緊急職員会議を行います<font color=\"#fbf950\">ので</font>、至急、職員室までお戻りください。",
+                "先生方[せんせいがた]に お知[おし]らせします。 只今[ただいま]より、 緊急[きんきゅう] 職員会議[しょくいんかいぎ]を 行[おこな]います<font color=\"#fbf950\">ので</font>、 至急[しきゅう]、 職員[しょくいん] 室[しつ]までお 戻[もど]りください。",
+                "An annoucement to all the teachers. From now, there will be an emergency staff meeting,<font color=\"#fbf950\"> therefore</font> please return to the staff room as soon as possible.",
+                "<font color=\"#fbf950\">ので</font>",
+                "because of; given that; since",
+                "[sound:GameGengo_Grammar_N5_AUDIO_073.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4854",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7-node-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_073.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_073.jpg\">",
+                ""
+            ],
+            "guid": "xaKSG>?Xls",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_074",
+                "Dragon Ball Z: Kakarot",
+                "<font color=\"#ffbc81\">お</font>...おとう...さん！？",
+                "<font color=\"#ffbc81\">お</font>...<font color=\"#ffbc81\">お</font>とう...さん！？",
+                "F-Father!?",
+                "<font color=\"#ffbc81\">お</font>",
+                "polite marker; honorific prefix particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_074.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=4977",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e5%be%a1-%e3%81%8a-%e3%81%94-o-go-polite-marker-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_074.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_074.jpg\">",
+                ""
+            ],
+            "guid": "dvTTUixuj?",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_075",
+                "Dragon Ball Z: Kakarot",
+                "とっくに、<font color=\"#ff9d13\">ご</font>存知なんだろ！？",
+                "とっくに 、<font color=\"#ff9d13\">ご</font>&nbsp;存知[ぞんじ]なんだろ！？",
+                "You already know right!?",
+                "<font color=\"#ff9d13\">ご</font>",
+                "polite marker; honorific prefix particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_075.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5108",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e5%be%a1-%e3%81%8a-%e3%81%94-o-go-polite-marker-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_075.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_075.jpg\">",
+                ""
+            ],
+            "guid": "pn}i+XY=T=",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_076",
+                "Donkey Kong Country 2: Diddy's Kong Quest",
+                "ドジでまぬけなドンキーコングは、つかまえた。かえしてほしけりゃ、バナナ<font color=\"#ffee51\">を</font>よこせ。",
+                "ドジでまぬけなドンキーコングは、つかまえた。かえしてほしけりゃ、バナナ<font color=\"#ffee51\">を</font>よこせ。",
+                "Donkey Kong the blundering idiot has been caught. If you want him returned, hand over the bananas!",
+                "<font color=\"#ffee51\">を</font>",
+                "object marker particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_076.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5343",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%92-wo-object-marker-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_076.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_076.jpg\">",
+                ""
+            ],
+            "guid": "lqMgP|&Wf:",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_077",
+                "Final Fantasy XII",
+                "殿下、 自分に時間<font color=\"#88a8eb\">を下さい</font>。我々の力だけでは国をとりもでせません。",
+                "殿下[でんか]、 自分[じぶん]に 時間[じかん]<font color=\"#88a8eb\">を 下[くだ]さい</font>。<br>我々[われわれ]の 力[ちから]だけでは 国[くに]を&nbsp;取[と]り&nbsp;戻[もど]せません。",
+                "Your highness,<font color=\"#88a8eb\"> please give&nbsp;me</font> some time.<br>We cannot take back our country with just our power alone.",
+                "<font color=\"#88a8eb\">をください</font>",
+                "please give me~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_077.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5414",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-o-kudasai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_077.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_077.jpg\">",
+                ""
+            ],
+            "guid": "lU&8;6[o+O",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_078",
+                "The Legend of Zelda: Link to the Past",
+                "封印は二度と解かれる事はないはずでした。<br>...<font color=\"#7981fa\">しかし</font>、それらのでき事が伝説となったころ...",
+                "封印[ふういん]は 二度[にど]と 解[と]かれる 事[こと]はないはずでした。<br>...<font color=\"#7981fa\">しかし</font>、それらのでき 事[ごと]が 伝説[でんせつ]となったころ...",
+                "The seal was expected to have never been broken again.<br>...<font color=\"#7981fa\">However</font>, that's when these events became a legend…",
+                "<font color=\"#7981fa\">しかし</font>",
+                "but; however~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_078.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5477",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%8b%e3%81%97-shikashi-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_078.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_078.jpg\">",
+                ""
+            ],
+            "guid": "l!O^C5*-@M",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_079",
+                "Ultra Street Fighter IV",
+                "クックック...獣を処分するのは、<font color=\"#a4bad0\">それから</font>でも遅くはない。",
+                "クックック... 獣[けもの]を 処分[しょぶん]するのは、 <font color=\"#a4bad0\">それから</font>でも 遅[おそ]くはない。",
+                "Hehehe and even <font color=\"#a4bad0\">after that</font> it won't be too late to put down that beast.",
+                "<font color=\"#a4bad0\">それから</font>",
+                "and; and then; after that; since then",
+                "[sound:GameGengo_Grammar_N5_AUDIO_079.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5586",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%8b%e3%82%89-sore-kara-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_079.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_079.jpg\">",
+                ""
+            ],
+            "guid": "yMwK6(m4f*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_080",
+                "Final Fantasy VI",
+                "...<font color=\"#d3b384\">そして</font>１０００年...鉄、火薬、蒸気機関 人々は機械の力を使い、世界をよみがえらせた。",
+                "...<font color=\"#d3b384\">そして</font>１０００ 年[ねん]... 鉄[てつ]、 火薬[かやく]、 蒸気機関[じょうききかん] 人々[ひとびと]は 機械[きかい]の 力[ちから]を 使[つか]い、 世界[せかい]をよみがえらせた。",
+                "<font color=\"#d3b384\">And</font> for a thousand years… Iron, gunpowder and steam engines. People used the power of machines and brought the world back to life.",
+                "<font color=\"#d3b384\">そして</font>",
+                "and; and then; thus; and now~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_080.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5668",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%97%e3%81%a6-soshite-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_080.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_080.jpg\">",
+                ""
+            ],
+            "guid": "u&qyo5[WXF",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_081",
+                "Naruto Shippuden Ultimate Ninja Storm 4",
+                "ちょ、ちょっと待ってよ！オロチマルを復活させるなんて危険<font color=\"#c19dd8\">すぎる</font>って！",
+                "ちょ、ちょっと 待[ま]ってよ！オロチマルを 復活[ふっかつ]させるなんて 危険[きけん]<font color=\"#c19dd8\">すぎる</font>って！",
+                "W-wait a minute! It's <font color=\"#c19dd8\">too</font> dangerous to bring Orochimaru back!",
+                "<font color=\"#c19dd8\">すぎる</font>",
+                "too much",
+                "[sound:GameGengo_Grammar_N5_AUDIO_081.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5746",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%99%e3%81%8e%e3%82%8b-sugiru-%e9%81%8e%e3%81%8e%e3%82%8b-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_081.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_081.jpg\">",
+                ""
+            ],
+            "guid": "vO48BDDga-",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_082",
+                "Final Fantasy VII",
+                "おい、このビルにはくわしいんだろ？<br>...しらない。そういえば本社に来るのは初めてだ。<br>前に聞い<font color=\"#fbf346\">たことがある</font>ぜ。",
+                "おい、このビルにはくわしいんだろ？<br>...しらない。そういえば本社に来るのは初めてだ。<br>前に聞い<font color=\"#fbf346\">たことがある</font>ぜ。<div 50%;=\"\" font-size:=\"\" style=\"font-size: 50%;>バレット</div> : おい、このビルにはくわしいんだろ？<br>ク<div style=\"></div>",
+                "Hey, you know about this building, don't you?<br>...I don't know. Come to think of it, this is the first time i've come to the headquarters before.<br><div><font color=\"#fbf346\">I've</font> heard <font color=\"#fbf346\">about it before</font>.</div>",
+                "たことがある",
+                "to have done something before",
+                "[sound:GameGengo_Grammar_N5_AUDIO_082.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5875",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B-ta-koto-ga-aru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_082.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_082.jpg\">",
+                ""
+            ],
+            "guid": "jO=Cqed{Sn",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_083",
+                "13 Sentinels",
+                "こんなの...映画でしかみ<font color=\"#52fcff\">たことない</font>！",
+                "こんなの...&nbsp;映画[えいが]でしかみ<font color=\"#52fcff\">たことない</font>！",
+                "I've only ever seen it in the movies!<br>(Lit: <font color=\"#52fcff\">Never</font> seen it in anything but movies)",
+                "<font color=\"#52fcff\">たことがない</font>",
+                "to have never done something before<br>",
+                "[sound:GameGengo_Grammar_N5_AUDIO_083.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=5951",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-ta-koto-ga-aru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_083.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_083.jpg\">",
+                ""
+            ],
+            "guid": "f<+f/LH=FM",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_084",
+                "Xenoblade Chronicles: Definitive Edition",
+                "ホムラには<font color=\"#e5646e\">行きたい</font>とこがあるんだ―",
+                "ホムラには<font color=\"#e5646e\">行[い]きたい</font>とこがあるんだ―",
+                "Homura has a place that she <font color=\"#e5646e\">wants to go</font> to.",
+                "<font color=\"#e5646e\">たい</font>",
+                "want to do something",
+                "[sound:GameGengo_Grammar_N5_AUDIO_084.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6031",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%84-tai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_084.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_084.jpg\">",
+                ""
+            ],
+            "guid": "Hf!2{&fW@P",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_085",
+                "Pokémon HeartGold",
+                "われわれ人間はポケモンと仲良くくらしている。<br>一緒に遊ん<font color=\"#ffd594\">だり</font>、力を合わせて、仕事をし<font color=\"#ffd594\">たり</font>、<br>そして ポケモン同志を戦わせ絆を深めていっ<font color=\"#ffd594\">たり</font>...",
+                "われわれ 人間[にんげん]はポケモンと 仲良[なかよ]くくらしている。<br> 一緒[いっしょ]に 遊[あそ]ん<font color=\"#ffd594\">だり</font>、 力[ちから]を 合[あ]わせて、 仕事[しごと]をし<font color=\"#ffd594\">たり</font>、<br> そしてポケモン 同志[どうし]を 戦[たたか]わせ 絆[きずな]を 深[ふか]めていっ<font color=\"#ffd594\">たり</font>...",
+                "We are humans living peacefully with Pokémon. <br>We<font color=\"#ffd594\"> do things like</font> play together, put together our power and work together, and we <font color=\"#ffd594\">do things like</font> make them fight with fellow Pokémon&nbsp;and deepen our bonds...",
+                "<font color=\"#ffd594\">たり～たり</font>",
+                "do such things as A and B",
+                "[sound:GameGengo_Grammar_N5_AUDIO_085.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6095",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8a%ef%bd%9e%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b-tari-tari-suru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_085.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_085.jpg\">",
+                ""
+            ],
+            "guid": "N3@`2djcT*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_086",
+                "Cyberpunk 2077",
+                "これをやっとかないと、起動した途端に気分が悪くなっ<font color=\"#7de2dd\">たり</font>、吐く可能性もあるから。",
+                "これをやっとかないと、 起動[きどう]した 途端[とたん]に 気分[きぶん]が 悪[わる]くなっ<font color=\"#7de2dd\">たり</font>、 吐[は]く 可能性[かのうせい]もあるから。",
+                "We gotta do this, or you might<font color=\"#7de2dd\"> do things like</font> feel sick, and there is also the possibility you will throw up.",
+                "<font color=\"#7de2dd\">たり</font>",
+                "do such things as A",
+                "[sound:GameGengo_Grammar_N5_AUDIO_086.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6183",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8a%ef%bd%9e%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b-tari-tari-suru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_086.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_086.jpg\">",
+                ""
+            ],
+            "guid": "D|5=f4r>7!",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_087",
+                "Final Fantasy VIII",
+                "キスティス先生をリストに加えろ。<br>（あのリスト……。なにが書い<font color=\"#58b1ff\">てある</font>んだ？）",
+                "キスティス 先生[せんせい]をリストに 加[くわ]えろ。<br>（ あのリスト……。なにが 書[か]い<font color=\"#58b1ff\">てある</font>んだ？）",
+                "Add Quistis-Sensei to the list.<div>(That list… What <font color=\"#58b1ff\">has been</font> written in it?)</div>",
+                "<font color=\"#58b1ff\">てある</font>",
+                "is/has been done (resulting state)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_087.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6236",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%82%e3%82%8b-te-aru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_087.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_087.jpg\">",
+                ""
+            ],
+            "guid": "Ob;4j&w`Es",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_088",
+                "Ghost of Tsushima",
+                "志村様が探し<font color=\"#f963ab\">ている</font>。",
+                "志村[しむら] 様[さま]が 探[さが]し<font color=\"#f963ab\">ている</font>。",
+                "Shimura-sama is look<font color=\"#f963ab\">ing</font> for you.",
+                "<font color=\"#f963ab\">ている</font>",
+                "ongoing action or current state",
+                "[sound:GameGengo_Grammar_N5_AUDIO_088.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6326",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%82%8b-te-iru-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_088.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_088.jpg\">",
+                ""
+            ],
+            "guid": "tBck;U{3]]",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_089",
+                "Boku no Natsuyasumi",
+                "ボク、ぜんぜん覚えてないや。なんで？<br>大きくなっ<font color=\"#55bd3d\">てから</font>、初めて会ったからね。",
+                "ボク、ぜんぜん 覚[おぼ]えてないや。なんで？<br> 大[おお]きくなっ<font color=\"#55bd3d\">てから</font>、 初[はじ]めて 会[あ]ったからね。",
+                "I don't remember at all. How come?<br>It's because it's the first time we've met <font color=\"#55bd3d\">since </font>you grew up.",
+                "<font color=\"#55bd3d\">てから</font>",
+                "after doing~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_089.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6399",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8b%e3%82%89-te-kara-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_089.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_089.jpg\">",
+                ""
+            ],
+            "guid": "jF7/^7PP`K",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_090",
+                "13 Sentinels",
+                "該当区の休眠は警察の誘導に従っ<font color=\"#eac24a\">てください</font>。",
+                "該当[がいとう] 区[く]の 休眠[きゅうみん]は 警察[けいさつ]の 誘導[ゆうどう]に 従[したが]っ<font color=\"#eac24a\">てください</font>。",
+                "Residents of the wards concerned <font color=\"#eac24a\">please</font> follow police's guidance.",
+                "<font color=\"#eac24a\">てください</font>",
+                "please do",
+                "[sound:GameGengo_Grammar_N5_AUDIO_090.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6470",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-te-kudasai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_090.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_090.jpg\">",
+                ""
+            ],
+            "guid": "ohR||-G5Pk",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_091",
+                "Metal Gear Solid",
+                "そうだ、それでいい。闘[いの基本は格闘だ。武器や装備に頼っ<font color=\"#ff8640\">てはいけない</font>。",
+                "そうだ、それでいい。 闘[たたか]いの&nbsp;基本[きほん]は 格闘[かくとう]だ。 武器[ぶき]や 装備[そうび]に 頼[たよ]っ<font color=\"#ff8640\">てはいけない</font>。",
+                "That's right, just like that. Hand-to-hand fighting is the basics of combat.<font color=\"#ff8640\"> You must not</font> rely on weapons and equipment.",
+                "<font color=\"#ff8640\">てはいけない</font>",
+                "must not; may not; cannot",
+                "[sound:GameGengo_Grammar_N5_AUDIO_091.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6548",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-te-wa-ikenai-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_091.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_091.jpg\">",
+                ""
+            ],
+            "guid": "q/8XEfX]NQ",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_092",
+                "Final Fantasy IX",
+                "呼び捨てにしてくれ<font color=\"#dee179\">ていい</font>ぜ、『よお、ジタン』って感じでな！",
+                "呼び捨[よびす]てにしてくれ<font color=\"#dee179\">ていい</font>ぜ、『 よお 、ジタン』って 感[かん]じでな！",
+                "<font color=\"#dee179\">It's okay to </font>drop the formalities, like 'Hey, Zidane!'!",
+                "<font color=\"#dee179\">てもいい ・ていい</font>",
+                "is okay, is alright to, can, may",
+                "[sound:GameGengo_Grammar_N5_AUDIO_092.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6610",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b-temo-ii-desu-ka-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_092.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_092.jpg\">",
+                ""
+            ],
+            "guid": "j.Bt<aUad4",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_093",
+                "Persona 5",
+                "ここは、夢<font color=\"#6c5eea\">と</font>現実、精神<font color=\"#6c5eea\">と</font>物質の狭間にある場所。",
+                "ここは、 夢[ゆめ]<font color=\"#6c5eea\">と</font> 現実[げんじつ]、 精神[せいしん]<font color=\"#6c5eea\">と</font> 物質[ぶっしつ]の 狭間[はざま]にある 場所[ばしょ]。",
+                "This place is an interstice between dream<font color=\"#6c5eea\"> and</font> reality, between spirit <font color=\"#6c5eea\">and </font>matter.",
+                "<font color=\"#6c5eea\">と</font>",
+                "and;",
+                "[sound:GameGengo_Grammar_N5_AUDIO_093.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6727",
+                "<a href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-particle-meaning/\" title=\"View Grammar Online\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_093.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_093.jpg\">",
+                ""
+            ],
+            "guid": "D}j],C<A+e",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_094",
+                "Persona 4",
+                "菜々子<font color=\"#eee416\">と</font>一緒に登校する事にした。",
+                "菜々[なな]&nbsp;子[こ]<font color=\"#eee416\">と </font>一緒[いっしょ]に 登校[とうこう]する 事[こと]にした。",
+                "You decide to go to school together<font color=\"#eee416\"> with </font>Nanako.",
+                "<font color=\"#eee416\">と</font>",
+                "with",
+                "[sound:GameGengo_Grammar_N5_AUDIO_094.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6803",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-particle-meaning/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_094.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_094.jpg\">",
+                ""
+            ],
+            "guid": "bj9ea65{=[",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_095",
+                "Metal Gear Solid",
+                "私がなぜリボルバー<font color=\"#bc9f4f\">と</font>呼ばれているか、じっくりと味わわせてやる。",
+                "私[わたし]がなぜリボルバー<font color=\"#bc9f4f\">と</font> 呼[よ]ばれているか、じっくりと 味[あじ]わわせてやる。",
+                "Why it is I am referred to <font color=\"#bc9f4f\">as </font>'Revolver', I'll have you experience it thoroughly",
+                "<font color=\"#bc9f4f\">と</font>",
+                "as",
+                "[sound:GameGengo_Grammar_N5_AUDIO_095.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6840",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-particle-meaning/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_095.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_095.jpg\">",
+                ""
+            ],
+            "guid": "rqXM.QJ[Jw",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_096",
+                "Final Fantasy XV",
+                "お帰りになる<font color=\"#9dc4e8\">とき</font> この手帳も お持ちになってもらえませんか？",
+                "お帰[おかえ]りになる<font color=\"#9dc4e8\">とき</font>&nbsp; この 手帳[てちょう]も お 持[も]ちになってもらえませんか？",
+                "Could you please take this notebook with you <font color=\"#9dc4e8\">when</font> you return home?",
+                "<font color=\"#9dc4e8\">とき</font>",
+                "when; at this time",
+                "[sound:GameGengo_Grammar_N5_AUDIO_096.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6886",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e6%99%82-%e3%81%a8%e3%81%8d-toki-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_096.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_096.jpg\">",
+                ""
+            ],
+            "guid": "m_/vk+Q>L=",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_097",
+                "Persona 4",
+                "一条は<font color=\"#ccae02\">とても</font>嬉しそうだ。",
+                "一条[いちじょう]は<font color=\"#ccae02\">とても</font> 嬉[うれ]しそうだ。",
+                "Ichijo seems to be <font color=\"#ccae02\">very</font> happy.",
+                "<font color=\"#ccae02\">とても</font>",
+                "very; awfully; exceedingly​",
+                "[sound:GameGengo_Grammar_N5_AUDIO_097.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=6979",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%a6%e3%82%82-totemo-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_097.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_097.jpg\">",
+                ""
+            ],
+            "guid": "D#W5^U`ZE`",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_098",
+                "Cyberpunk 2077",
+                "この街じゃ生きていけなくなる。本当にやる<font color=\"#fcc037\">つもり</font>なのか？",
+                "この 街[まち]じゃ 生[い]きていけなくなる。 本当[ほんとう]にやる<font color=\"#fcc037\">つもり</font>なのか？",
+                "You will become unable to live in this city. Do you really<font color=\"#fcc037\"> intend to</font> do it?",
+                "<font color=\"#fcc037\">つもり</font>",
+                "plan to ~; intend to ~",
+                "[sound:GameGengo_Grammar_N5_AUDIO_098.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7054",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%82%82%e3%82%8a-tsumori-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_098.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_098.jpg\">",
+                ""
+            ],
+            "guid": "dTF,{8({)c",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_099",
+                "Boku no Natsuyasumi",
+                "ボク<font color=\"#eb6c20\">は</font>、三年生だけど。",
+                "ボク<font color=\"#eb6c20\">は</font>、 三年[さんねん] 生[せい]だけど。",
+                "I am a third-grader",
+                "<font color=\"#eb6c20\">は</font>",
+                "topic marker",
+                "[sound:GameGengo_Grammar_N5_AUDIO_099.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7147",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%af-wa-topic-marker-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_099.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_099.jpg\">",
+                ""
+            ],
+            "guid": "r,TV$j.+rI",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_100",
+                "Star Ocean: The Second Story",
+                "それなら絶対そんな人たち倒せますよ！ディアス<font color=\"#6081ce\">は</font>誰<font color=\"#6081ce\">より</font>も強い剣士なん<font color=\"#6081ce\">だ</font>から！",
+                "それなら 絶対[ぜったい]そんな 人[ひと]たち 倒[たお]せますよ！ディアス<font color=\"#6081ce\">は</font> 誰[だれ]<font color=\"#6081ce\">より</font>も 強[つよ]い 剣士[けんし] なん<font color=\"#6081ce\">だ</font>から！",
+                "If that's the case, then we can definitely beat them! Because Dias <font color=\"#6081ce\">is a more</font> stronger swordsman<font color=\"#6081ce\"> than </font>anyone!",
+                "<font color=\"#6081ce\">は〜より...です</font>",
+                "[A] is more ~ than [B]",
+                "[sound:GameGengo_Grammar_N5_AUDIO_100.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7260",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%80%9c%e3%82%88%e3%82%8a-%e3%81%a7%e3%81%99-wa-yori-desu-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_100.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_100.jpg\">",
+                ""
+            ],
+            "guid": "g?eh8N8pj*",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_101",
+                "Metal Gear Solid",
+                "気分<font color=\"#6f95ee\">はどうだ</font>？どこか具合が悪いと<font color=\"#6f95ee\">か</font>？",
+                "気分[きぶん]<font color=\"#6f95ee\">はどうだ</font>？どこか 具合[ぐあい]が 悪[わる]いとか？",
+                "<font color=\"#6f95ee\">How is </font>your feelings/mood? Are you feeling unwell anywhere?",
+                "<font color=\"#6f95ee\">はどうですか</font>",
+                "how about; how is",
+                "[sound:GameGengo_Grammar_N5_AUDIO_101.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7329",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%a9%e3%81%86%e3%81%a7%e3%81%99%e3%81%8b-wa-dou-desu-ka-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_101.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_101.jpg\">",
+                ""
+            ],
+            "guid": "Af-K?<-j)8",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_102",
+                "Bravely Default II",
+                "王族<font color=\"#deb729\">や</font>貴族といったやつは裏切り<font color=\"#deb729\">や</font>陰謀からが日常茶飯事。",
+                "王族[おうぞく]<font color=\"#deb729\">や</font> 貴族[きぞく]といったやつは 裏切[うらぎ]り<font color=\"#deb729\">や</font> 陰謀[いんぼう]からが 日常茶飯事[にちじょうさはんじ]。",
+                "For those like royalty <font color=\"#deb729\">and</font> nobility, things like betrayal <font color=\"#deb729\">and</font> conspiracy are commonplace.",
+                "<font color=\"#deb729\">や</font>",
+                "and; or; connecting particle",
+                "[sound:GameGengo_Grammar_N5_AUDIO_102.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7376",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%84-ya-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_102.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_102.jpg\">",
+                ""
+            ],
+            "guid": "t%__G)ub-6",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_103",
+                "Final Fantasy XVI",
+                "標的を間違えるな<font color=\"#7bccd8\">よ</font>。",
+                "標的[ひょうてき]を 間違[まちが]えるな<font color=\"#7bccd8\">よ</font>。",
+                "Don't mistake the target.",
+                "<font color=\"#7bccd8\">よ</font>",
+                "you know; emphasis (ending particle)",
+                "[sound:GameGengo_Grammar_N5_AUDIO_103.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7493",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%88-yo-ending-particle-meaning/\">View Grammar Online</a></div>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_103.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_103.jpg\">",
+                ""
+            ],
+            "guid": "Ik]uGQfLI>",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "GameGengo_Grammar_N5_104",
+                "Final Fantasy VII",
+                "「メテオが落ちてくるんでしょ？<br>ヘソクリ、どこにかくそうかしら……<br>いや、それ<font color=\"#aa71e2\">より</font>もヘソクリを持ってどこかへ逃げ出した<font color=\"#aa71e2\">方が</font>いいのかしら？」。",
+                "「メテオが 落[お]ちてくるんでしょ？ヘソクリ、どこにかくそうかしら…… いや、それ<font color=\"#aa71e2\">より</font>もヘソクリを 持[も]ってどこかへ 逃げ出[にげだ]した <font color=\"#aa71e2\">方[ほう]が</font>いいのかしら？」。",
+                "Meteor is falling down right?<br>I wonder where i'll hide my secret stash...<br>Nah, <font color=\"#aa71e2\">more than</font> that, I wonder if perhaps<font color=\"#aa71e2\"> it would be </font>better <font color=\"#aa71e2\">to</font> take my savings and run away somewhere.",
+                "<font color=\"#aa71e2\">より～ほうが</font>",
+                "[A] is more than [B]",
+                "[sound:GameGengo_Grammar_N5_AUDIO_104.mp3]",
+                "https://youtu.be/_ojVS-KgDEg?t=7562",
+                "<a title=\"View Grammar Online\" href=\"https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a%ef%bd%9e%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8c-yori-no-hou-ga-meaning/\">View Grammar Online</a>",
+                "",
+                "<img src=\"GameGengo_Grammar_N5_JLPTSensei_104.jpg\">",
+                "<img src=\"GamgeGengo_Grammar_N5_IMG_104.jpg\">",
+                ""
+            ],
+            "guid": "p=Lu[_Oo+~",
+            "note_model_uuid": "1890888c-e704-11eb-ac46-acde48001122",
+            "tags": [
+                "Game_Gengo_Grammar_N5"
+            ]
+        }
+    ]
+}

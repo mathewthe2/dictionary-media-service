@@ -1,0 +1,12 @@
+{
+    "id-column": 0,
+    "source-column": 1,
+    "grammar-column": 5,
+    "grammar-meaning-column": 6,
+    "text-column": 2,
+    "text-with-furigana-column": 3,
+    "translation-column": 4,
+    "image-column": 12,
+    "sound-column": 7,
+    "timestamp-column": 8
+}
