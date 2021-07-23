@@ -146,6 +146,8 @@ def print_deck_statistics():
             total_notes += len(data)
     print("Total {} decks with {} notes".format(len(deck_folders), total_notes))
 
+# Add data from one column in data.json to grammar.json and output to new.json
+# grammar.json is a manually patched version of data.json  
 def add_column_to_gamegengo(filename, column):
     file = Path(GAMEGENGO_PATH, filename, 'data.json')
     newdata = []
