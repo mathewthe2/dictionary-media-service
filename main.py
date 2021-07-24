@@ -4,7 +4,7 @@ from anki import generate_deck
 import requests
 import os
 from pathlib import Path
-from config import RESOURCES_PATH, DEFAULT_CATEGORY
+from config import RESOURCES_PATH, DEFAULT_CATEGORY, MEDIA_FILE_HOST
 
 basepath = os.path.abspath(".")
 
@@ -72,6 +72,26 @@ def sentences():
 @route('/anime/<filepath:path>')
 def server_static(filepath):
     return static_file(filepath, root= basepath + '/resources/anime/')
+
+# Download static files from Digital Ocean bucket
+@route('/download_media')
+def download_media():
+    path = request.query.get('path')
+    if path is None:
+        return 'No path specified.'
+    else:
+        response = requests.get(MEDIA_FILE_HOST + '/' + path)
+        name = path.rsplit('/', 1)[1]
+        file_name = Path(RESOURCES_PATH, "static", name)
+        file = open(file_name, "wb")
+        file.write(response.content)
+        file.close()
+        @hook('after_request')
+        def deleteFile():
+            file =  Path(RESOURCES_PATH, 'static', name)
+            if os.path.exists(file):
+                os.remove(file)
+        return static_file(name, root= str(Path(RESOURCES_PATH, 'static')), download=name)
 
 @route('/download_sentence_audio')
 def download_sentence_audio():
