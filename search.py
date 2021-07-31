@@ -15,6 +15,7 @@ dictionary.load_dictionary('JMdict+')
 
 decks = DecksManager()
 decks.load_decks()
+decks.set_category('anime')
 
 def get_deck_by_id(deck_name, category=DEFAULT_CATEGORY):
     decks.set_category(category)

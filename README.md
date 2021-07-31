@@ -19,14 +19,11 @@ brew install enchant
 ```
 
 #### Ubuntu
+
 ```
 apt-get install enchant
 
 ```
-
-## Connect to Redis 
-
-Add **REDIS_URL=[Your Redis Connection URL]** to `config.py`
 
 ## Develop
 

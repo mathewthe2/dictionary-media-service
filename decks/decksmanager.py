@@ -1,16 +1,16 @@
 
 from decks.decks import Decks 
-from config import DECK_CATEGORIES, DEFAULT_CATEGORY, REDIS_URL, MEDIA_FILE_HOST
+from config import DECK_CATEGORIES, DEFAULT_CATEGORY, SENTENCE_FIELDS, MEDIA_FILE_HOST, SENTENCE_KEYS_FOR_LISTS
 import json
-import redis
-r = redis.StrictRedis.from_url(REDIS_URL, db=0)
-
-SENTENCE_KEYS_FOR_LISTS = ['pretext', 'posttext', 'word_list', 'word_base_list', 'translation_word_list', 'translation_word_base_list']
+import sqlite3
 
 class DecksManager:
     def __init__(self, category=DEFAULT_CATEGORY):
         self.decks = {}
         self.category = category
+        self.con = sqlite3.connect(":memory:")
+        self.cur = self.con.cursor()
+        self.cur.execute("create table sentences ({})".format(','.join(SENTENCE_FIELDS)))
 
     def set_category(self, category):
         self.category = category
@@ -22,28 +22,29 @@ class DecksManager:
                 path=DECK_CATEGORIES[deck_category]["path"],
                 has_image=DECK_CATEGORIES[deck_category]["has_image"],
                 has_sound=DECK_CATEGORIES[deck_category]["has_sound"])
-            self.decks[deck_category].load_decks()
-    
-    def update_deck_on_redis(self, deck):
-        from pathlib import Path
-        path = Path(DECK_CATEGORIES[self.category]["path"], deck)
-        return self.decks[self.category].update_deck_on_redis(path)
+            self.decks[deck_category].load_decks(self.cur)
 
     def get_deck_by_name(self, deck_name):
         return [self.parse_sentence(sentence) for sentence in self.decks[self.category].get_deck_by_name(deck_name)]
 
     def get_sentences(self, sentence_ids):
         sentences = []
-        with r.pipeline() as pipe:
-            for sentence_id in sentence_ids:
-                pipe.hgetall(self.category + '-' + sentence_id)
-            for index, b64data in enumerate(pipe.execute()):
-                data = { key.decode(): val.decode() for key, val in b64data.items() }
-                sentence = {}
-                for key, val in data.items():
-                    sentence[key] = json.loads(val) if key in SENTENCE_KEYS_FOR_LISTS else val
-                sentence["id"] = sentence_ids[index]
-                sentences.append(self.parse_sentence(sentence))
+        search_list = [self.category + '-' + sentence_id for sentence_id in sentence_ids]
+        search_list = search_list[:999]
+        self.cur.execute("select * from sentences where id in ({seq})".format(
+            seq=','.join(['?']*len(search_list))), search_list)
+        result = self.cur.fetchall()
+        for sentence_index, sentence_tuple in enumerate(result):
+            sentence = {}
+            for data_index, value in enumerate(sentence_tuple):
+                key = SENTENCE_FIELDS[data_index]
+                sentence[SENTENCE_FIELDS[data_index]] = value
+                if value == '':
+                    sentence[key] = ''
+                else:
+                    sentence[key] = json.loads(value) if key in SENTENCE_KEYS_FOR_LISTS else value
+            sentence["id"] = sentence_ids[sentence_index]
+            sentences.append(self.parse_sentence(sentence))
         return sentences
         
     def get_sentence(self, sentence_id):

@@ -26,9 +26,31 @@ DECK_CATEGORIES = {
     }
 } 
 
-# Serving
-MEDIA_FILE_HOST = 'https://media.immersionkit.com/media'
+# Sentence Format
+SENTENCE_FIELDS = [
+    "id", 
+    "deck_name",
+    "deck_name_japanese", # literature
+    "author_japanese", # literature
+    "sentence",
+    "sentence_with_furigana",
+    "word_base_list",
+    "word_list",
+    "translation_word_list",
+    "translation_word_base_list",
+    "translation",
+    "image",
+    "sound",
+    "sound_begin", # literature
+    "sound_end", # literature
+    "pretext",
+    "posttext"
+]
 
+SENTENCE_KEYS_FOR_LISTS = ['pretext', 'posttext', 'word_list', 'word_base_list', 'translation_word_list', 'translation_word_base_list']
+
+# Serving
+MEDIA_FILE_HOST = 'https://immersion-kit.sfo3.digitaloceanspaces.com/media'
 EXAMPLE_LIMIT = 100
 RESULTS_LIMIT = 3000
 NEW_WORDS_TO_USER_PER_SENTENCE = 1
