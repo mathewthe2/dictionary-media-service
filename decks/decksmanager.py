@@ -1,6 +1,6 @@
 
 from decks.decks import Decks 
-from config import DECK_CATEGORIES, DEFAULT_CATEGORY, SENTENCE_FIELDS, MEDIA_FILE_HOST, SENTENCE_KEYS_FOR_LISTS
+from config import DECK_CATEGORIES, DEFAULT_CATEGORY, SENTENCE_FIELDS, MEDIA_FILE_HOST, SENTENCE_KEYS_FOR_LISTS, SENTENCES_LIMIT
 import json
 import sqlite3
 
@@ -30,7 +30,7 @@ class DecksManager:
     def get_sentences(self, sentence_ids):
         sentences = []
         search_list = [self.category + '-' + sentence_id for sentence_id in sentence_ids]
-        search_list = search_list[:999]
+        search_list = search_list[:SENTENCES_LIMIT]
         self.cur.execute("select * from sentences where id in ({seq})".format(
             seq=','.join(['?']*len(search_list))), search_list)
         result = self.cur.fetchall()

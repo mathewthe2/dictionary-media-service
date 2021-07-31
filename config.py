@@ -51,6 +51,7 @@ SENTENCE_KEYS_FOR_LISTS = ['pretext', 'posttext', 'word_list', 'word_base_list',
 
 # Serving
 MEDIA_FILE_HOST = 'https://immersion-kit.sfo3.digitaloceanspaces.com/media'
-EXAMPLE_LIMIT = 100
-RESULTS_LIMIT = 3000
+EXAMPLE_LIMIT = 100 # example limit per deck
+RESULTS_LIMIT = 3000 # total result limit
+SENTENCES_LIMIT = 999 # SQL-bound limit
 NEW_WORDS_TO_USER_PER_SENTENCE = 1
