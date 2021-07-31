@@ -34,7 +34,7 @@ class DecksManager:
         self.cur.execute("select * from sentences where id in ({seq})".format(
             seq=','.join(['?']*len(search_list))), search_list)
         result = self.cur.fetchall()
-        for sentence_index, sentence_tuple in enumerate(result):
+        for sentence_tuple in result:
             sentence = {}
             for data_index, value in enumerate(sentence_tuple):
                 key = SENTENCE_FIELDS[data_index]
@@ -43,7 +43,7 @@ class DecksManager:
                     sentence[key] = ''
                 else:
                     sentence[key] = json.loads(value) if key in SENTENCE_KEYS_FOR_LISTS else value
-            sentence["id"] = sentence_ids[sentence_index]
+            sentence["id"] = sentence["id"].split('-', 1)[1] # remove category from id
             sentences.append(self.parse_sentence(sentence))
         return sentences
         
