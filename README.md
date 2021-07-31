@@ -5,9 +5,8 @@ Provides full-text search for Japanese and English text in Anki decks.
 ## Workflow
 
 1. Add deck as *deck.json* to the resources folder.
-2. Parse *deck.json* with *parse_deck()* or *parse_literature_deck()* in **deckparser.py** to get *data.json*
-3. Upload deck data to Redis with the *update_deck_on_redis()* method after creating a Decks instance with **decksmanager.py**.
-4. Load the decks you need in **search.py** and start the server with **main.py**.
+2. Parse *deck.json* with *parse_deck()* or *parse_literature_deck()* in **deckparser.py** to get *data.json*.
+3. Load the decks you need in **search.py** and start the server with **main.py**.
 
 ## Prerequisities
 
