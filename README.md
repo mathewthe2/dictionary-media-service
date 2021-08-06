@@ -2,6 +2,8 @@
 
 Provides full-text search for Japanese and English text in Anki decks.
 
+Notice: This repo is not maintained anymore. The future repository is under construction and will be posted here in the future.
+
 ## Workflow
 
 1. Add deck as *deck.json* to the resources folder.
