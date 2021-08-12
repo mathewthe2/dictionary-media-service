@@ -19,11 +19,20 @@ Notice: This repo is not maintained anymore. The future repository is under cons
 brew install enchant
 ```
 
+#### Mac (Apple Silicon)
+```bash
+brew install enchant
+brew ls enchant
+> ...
+> /opt/homebrew/Cellar/enchant/2.3.0/lib/libenchant-2.2.dylib
+> ...
+export PYENCHANT_LIBRARY_PATH=/opt/homebrew/Cellar/enchant/2.3.0/lib/libenchant-2.2.dylib
+```
+
 #### Ubuntu
 
 ```
 apt-get install enchant
-
 ```
 
 ## Develop
