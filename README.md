@@ -26,7 +26,7 @@ brew ls enchant
 > ...
 > /opt/homebrew/Cellar/enchant/2.3.0/lib/libenchant-2.2.dylib
 > ...
-export PYENCHANT_LIBRARY_PATH=/opt/homebrew/Cellar/enchant/2.3.0/lib/libenchant-2.2.dylib
+echo 'export PYENCHANT_LIBRARY_PATH=/opt/homebrew/Cellar/enchant/2.3.0/lib/libenchant-2.2.dylib' >> ~/.zshenv
 ```
 
 #### Ubuntu
